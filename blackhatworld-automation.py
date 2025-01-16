@@ -9,9 +9,14 @@ options.add_argument('disable-infobars')
 options.add_experimental_option("excludeSwitches", ["enable-automation"]) 
 options.add_experimental_option('useAutomationExtension', False)
 
+user_data = r"C:\Users\DELL\AppData\Local\Google\Chrome\User Data"  # profile path using raw string
+profile_name = "Profile 37"  #profile name
+
+options.add_argument(f"user-data={user_data}")  #instructs selenium to start chrome with user_data path.
+options.add_argument(f"profile-directory={profile_name}")  #instructs selenium to tell chrome to use the Profile 37 in user_data path.
+
 driver = webdriver.Chrome(options=options)
 driver.get(url = "https://www.blackhatworld.com/forums/blogging.3/")
-
 
 scroll_duration = 3  # shows total time spending on scrolling
 start_time = time.time() #records the current time when the scrolling starts.
