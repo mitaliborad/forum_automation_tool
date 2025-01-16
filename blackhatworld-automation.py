@@ -12,14 +12,15 @@ options.add_experimental_option('useAutomationExtension', False)
 user_data = r"C:\Users\DELL\AppData\Local\Google\Chrome\User Data"  # profile path using raw string
 profile_name = "Profile 37"  #profile name
 
-options.add_argument(f"user-data={user_data}")  #instructs selenium to start chrome with user_data path.
-options.add_argument(f"profile-directory={profile_name}")  #instructs selenium to tell chrome to use the Profile 37 in user_data path.
+options.add_argument(f"user-data-dir={user_data}")  #instructs selenium to start chrome with user_data path.
+#options.add_argument(f"profile-directory={profile}")  #instructs selenium to tell chrome to use the Profile 37 in user_data path.
 
 driver = webdriver.Chrome(options=options)
-driver.get(url = "https://www.blackhatworld.com/forums/blogging.3/")
+driver.get("https://www.blackhatworld.com/forums/content-copywriting.194/")
 
 scroll_duration = 3  # shows total time spending on scrolling
 start_time = time.time() #records the current time when the scrolling starts.
+
 while(time.time() - start_time) < scroll_duration: # The while loop control the duration of scrolling
 #The current time will notice from the time scrolling starts which should not be more than 3 seconds
     driver.find_element(By.TAG_NAME, 'body').send_keys(Keys.END)# this line finds the body by tag name selector and pressing the END key to the page to scroll down
