@@ -1,0 +1,75 @@
+2025-01-23 10:19:06,985 - INFO - Log file created at: selenium_logs1\script_log_20250123_101906.log
+2025-01-23 10:19:06,986 - INFO - Starting Chrome with user data from: C:\Users\DELL\AppData\Local\Google\Chrome\User Data
+2025-01-23 10:19:10,956 - INFO - Navigated to https://www.blackhatworld.com/
+2025-01-23 10:19:10,957 - DEBUG - Starting scrolling function...
+2025-01-23 10:19:10,957 - DEBUG - Scrolling iteration: 1
+2025-01-23 10:19:12,557 - DEBUG - Scrolling function completed.
+2025-01-23 10:19:12,557 - INFO - Scrolling completed.
+2025-01-23 10:19:12,707 - DEBUG - Found 'Social Networking' link.
+2025-01-23 10:19:12,727 - DEBUG - Starting mouse movement to (120, 885).
+2025-01-23 10:19:12,728 - DEBUG - Moved mouse to (1353, 175) with a delay of 0.00000 seconds.
+2025-01-23 10:19:12,729 - DEBUG - Moved mouse to (1353, 175) with a delay of 0.00000 seconds.
+2025-01-23 10:19:12,730 - DEBUG - Moved mouse to (1353, 176) with a delay of 0.00134 seconds.
+2025-01-23 10:19:12,732 - DEBUG - Moved mouse to (1352, 177) with a delay of 0.00105 seconds.
+2025-01-23 10:19:12,735 - DEBUG - Moved mouse to (1350, 180) with a delay of 0.00232 seconds.
+2025-01-23 10:19:12,739 - DEBUG - Moved mouse to (1346, 182) with a delay of 0.00267 seconds.
+2025-01-23 10:19:12,743 - DEBUG - Moved mouse to (1342, 186) with a delay of 0.00406 seconds.
+2025-01-23 10:19:12,750 - DEBUG - Moved mouse to (1336, 189) with a delay of 0.00611 seconds.
+2025-01-23 10:19:12,758 - DEBUG - Moved mouse to (1329, 194) with a delay of 0.00688 seconds.
+2025-01-23 10:19:12,765 - DEBUG - Moved mouse to (1321, 199) with a delay of 0.00590 seconds.
+2025-01-23 10:19:12,771 - DEBUG - Moved mouse to (1313, 205) with a delay of 0.00502 seconds.
+2025-01-23 10:19:12,778 - DEBUG - Moved mouse to (1303, 211) with a delay of 0.00632 seconds.
+2025-01-23 10:19:12,788 - DEBUG - Moved mouse to (1291, 218) with a delay of 0.00839 seconds.
+2025-01-23 10:19:12,799 - DEBUG - Moved mouse to (1279, 225) with a delay of 0.01015 seconds.
+2025-01-23 10:19:12,806 - DEBUG - Moved mouse to (1266, 233) with a delay of 0.00628 seconds.
+2025-01-23 10:19:12,817 - DEBUG - Moved mouse to (1252, 242) with a delay of 0.01007 seconds.
+2025-01-23 10:19:12,827 - DEBUG - Moved mouse to (1236, 251) with a delay of 0.00916 seconds.
+2025-01-23 10:19:12,840 - DEBUG - Moved mouse to (1220, 261) with a delay of 0.01253 seconds.
+2025-01-23 10:19:12,850 - DEBUG - Moved mouse to (1202, 271) with a delay of 0.00856 seconds.
+2025-01-23 10:19:12,861 - DEBUG - Moved mouse to (1184, 282) with a delay of 0.00980 seconds.
+2025-01-23 10:19:12,875 - DEBUG - Moved mouse to (1164, 294) with a delay of 0.01241 seconds.
+2025-01-23 10:19:12,891 - DEBUG - Moved mouse to (1143, 306) with a delay of 0.01550 seconds.
+2025-01-23 10:19:12,901 - DEBUG - Moved mouse to (1121, 319) with a delay of 0.00987 seconds.
+2025-01-23 10:19:12,913 - DEBUG - Moved mouse to (1098, 332) with a delay of 0.01016 seconds.
+2025-01-23 10:19:12,924 - DEBUG - Moved mouse to (1074, 346) with a delay of 0.00990 seconds.
+2025-01-23 10:19:12,937 - DEBUG - Moved mouse to (1049, 360) with a delay of 0.01331 seconds.
+2025-01-23 10:19:12,950 - DEBUG - Moved mouse to (1023, 375) with a delay of 0.01179 seconds.
+2025-01-23 10:19:12,965 - DEBUG - Moved mouse to (995, 391) with a delay of 0.01303 seconds.
+2025-01-23 10:19:12,984 - DEBUG - Moved mouse to (967, 407) with a delay of 0.01822 seconds.
+2025-01-23 10:19:13,000 - DEBUG - Moved mouse to (938, 424) with a delay of 0.01476 seconds.
+2025-01-23 10:19:13,019 - DEBUG - Moved mouse to (907, 442) with a delay of 0.01764 seconds.
+2025-01-23 10:19:13,043 - DEBUG - Moved mouse to (875, 460) with a delay of 0.02231 seconds.
+2025-01-23 10:19:13,060 - DEBUG - Moved mouse to (842, 478) with a delay of 0.01648 seconds.
+2025-01-23 10:19:13,080 - DEBUG - Moved mouse to (809, 497) with a delay of 0.01905 seconds.
+2025-01-23 10:19:13,098 - DEBUG - Moved mouse to (774, 517) with a delay of 0.01647 seconds.
+2025-01-23 10:19:13,118 - DEBUG - Moved mouse to (738, 538) with a delay of 0.01895 seconds.
+2025-01-23 10:19:13,137 - DEBUG - Moved mouse to (701, 559) with a delay of 0.01761 seconds.
+2025-01-23 10:19:13,160 - DEBUG - Moved mouse to (662, 580) with a delay of 0.02204 seconds.
+2025-01-23 10:19:13,180 - DEBUG - Moved mouse to (623, 602) with a delay of 0.01952 seconds.
+2025-01-23 10:19:13,204 - DEBUG - Moved mouse to (583, 625) with a delay of 0.02321 seconds.
+2025-01-23 10:19:13,229 - DEBUG - Moved mouse to (541, 648) with a delay of 0.02345 seconds.
+2025-01-23 10:19:13,248 - DEBUG - Moved mouse to (499, 672) with a delay of 0.01941 seconds.
+2025-01-23 10:19:13,266 - DEBUG - Moved mouse to (455, 697) with a delay of 0.01663 seconds.
+2025-01-23 10:19:13,286 - DEBUG - Moved mouse to (410, 722) with a delay of 0.02044 seconds.
+2025-01-23 10:19:13,312 - DEBUG - Moved mouse to (365, 747) with a delay of 0.02530 seconds.
+2025-01-23 10:19:13,331 - DEBUG - Moved mouse to (318, 774) with a delay of 0.01750 seconds.
+2025-01-23 10:19:13,349 - DEBUG - Moved mouse to (270, 800) with a delay of 0.01715 seconds.
+2025-01-23 10:19:13,373 - DEBUG - Moved mouse to (221, 828) with a delay of 0.02310 seconds.
+2025-01-23 10:19:13,399 - DEBUG - Moved mouse to (171, 856) with a delay of 0.02420 seconds.
+2025-01-23 10:19:13,425 - DEBUG - Moved mouse to (120, 885) with a delay of 0.02527 seconds.
+2025-01-23 10:19:14,931 - INFO - Clicked 'Social Networking' link using Selenium click.
+2025-01-23 10:19:14,931 - DEBUG - Starting scrolling function...
+2025-01-23 10:19:17,376 - DEBUG - Scrolling iteration: 0
+2025-01-23 10:19:19,025 - DEBUG - Scrolling iteration: 1
+2025-01-23 10:19:20,580 - DEBUG - Scrolling iteration: 2
+2025-01-23 10:19:22,253 - DEBUG - Scrolling iteration: 3
+2025-01-23 10:19:23,885 - DEBUG - Scrolling iteration: 4
+2025-01-23 10:19:25,449 - DEBUG - Scrolling iteration: 5
+2025-01-23 10:19:27,441 - DEBUG - Scrolling iteration: 6
+2025-01-23 10:19:29,446 - DEBUG - Scrolling iteration: 7
+2025-01-23 10:19:31,241 - DEBUG - Scrolling iteration: 8
+2025-01-23 10:19:32,927 - DEBUG - Scrolling iteration: 9
+2025-01-23 10:19:34,874 - DEBUG - Scrolling function completed.
+2025-01-23 10:19:34,874 - INFO - Scrolling completed.
+2025-01-23 10:19:36,876 - DEBUG - Pausing 4 seconds before quitting driver...
+2025-01-23 10:19:39,201 - INFO - Driver quit successfully.
