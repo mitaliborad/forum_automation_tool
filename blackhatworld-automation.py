@@ -1,44 +1,43 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
+from pynput.mouse import Button, Controller
 import random
 import time
 import logging
 from datetime import datetime
-import os
-from pynput.mouse import Button, Controller
 import numpy as np
+import os
 
 # --- Configure Logging ---
+# To track what the script is doing
 def setup_logger(log_dir):
-    """Sets up logging to a file and console."""
-    os.makedirs(log_dir, exist_ok=True) # Creates the log directory if it doesn't exist
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S") # Creates a timestamp for the log file name
-    log_file = os.path.join(log_dir, f"script_log_{timestamp}.log") # Creates the log file path
+    os.makedirs(log_dir, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_file = os.path.join(log_dir, f"script_log_{timestamp}.log")
+    logger = logging.getLogger(__name__)
+    logger.setLevel(logging.INFO)  # Set to INFO for cleaner console output
 
-    logger = logging.getLogger(__name__) # Gets the logger object
-    logger.setLevel(logging.DEBUG) # Sets the logging level to DEBUG
+    file_handler = logging.FileHandler(log_file)
+    file_handler.setLevel(logging.DEBUG)
 
-    file_handler = logging.FileHandler(log_file) # Creates a file handler to write logs to file
-    file_handler.setLevel(logging.DEBUG) # Sets file handler level to DEBUG
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.INFO)
 
-    console_handler = logging.StreamHandler() # Creates a console handler to print logs to console
-    console_handler.setLevel(logging.INFO) # Sets console handler level to INFO
+    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    file_handler.setFormatter(formatter)
+    console_handler.setFormatter(formatter)
 
-    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s') # Creates a log formatter
-    file_handler.setFormatter(formatter) # Sets formatter for file handler
-    console_handler.setFormatter(formatter) # Sets formatter for console handler
-
-    logger.addHandler(file_handler) # Adds file handler to the logger
-    logger.addHandler(console_handler) # Adds console handler to the logger
-
+    logger.addHandler(file_handler)
+    logger.addHandler(console_handler)
     return logger, log_file
 
-
-log_directory = "selenium_logs1" # Sets log directory name
-logger, log_file = setup_logger(log_directory) # Sets up logger and retrieves logger object and log file path
-logger.info(f"Log file created at: {log_file}") # Logs the log file path
+log_directory = "Selenium-Logs"
+logger, log_file = setup_logger(log_directory)
+logger.info(f"Log file created at: {log_file}")
 
 # --- Mouse Movement Functions ---
 mouse = Controller()
@@ -84,35 +83,73 @@ def move_mouse_with_curve(target_x, target_y, smoothing_factor=10, base_speed=0.
         logger.debug(f"Moved mouse to ({x}, {y}) with a delay of {delay:.5f} seconds.") #Logs mouse movement details
 
 # --- Selenium Setup ---
-options = Options() #Creates Chrome Options object
-options.add_argument('disable-infobars') # Disables info bars
-options.add_experimental_option("excludeSwitches", ["enable-automation"]) #Excludes 'enable-automation' switch
-options.add_experimental_option('useAutomationExtension', False) #Disables automation extension
+# for reduce websites detection mechanisms
+options = Options()
+options.add_argument('disable-infobars')
+options.add_experimental_option("excludeSwitches", ["enable-automation"])
+options.add_experimental_option('useAutomationExtension', False)
 
-user_data = r"C:\Users\DELL\AppData\Local\Google\Chrome\User Data" #Path for chrome user data
-profile_name = "Profile 37" #Profile Name
+user_data = r"C:\Users\DELL\AppData\Local\Google\Chrome\User Data"
+profile_name = "Profile 37"
 
-options.add_argument(f"user-data-dir={user_data}") #Adds user-data-dir argument to options
-logger.info(f"Starting Chrome with user data from: {user_data}") #Logs starting chrome with user data
-driver = webdriver.Chrome(options=options) #Initiates the Chrome Driver
-driver.get("https://www.blackhatworld.com/") #Navigates to URL
-logger.info("Navigated to https://www.blackhatworld.com/") #Logs navigation
+options.add_argument(f"user-data-dir={user_data}")
+logger.info(f"Starting Chrome with user data from: {user_data}")
+driver = webdriver.Chrome(options=options)
+driver.get("https://www.blackhatworld.com/")
+logger.info("Navigated to https://www.blackhatworld.com/")
+
+# --- Helper Functions ---
+# To mimic human-like scrolling behavior by scrolling a set amount and having a short delay before continuing.
+def scroll_page(driver, scroll_amount=500, min_delay=0.5, max_delay=1.0):
+  """Scrolls the page a single time with a random delay for simulating user-like behavior."""
+  driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
+  delay = random.uniform(min_delay, max_delay)
+  time.sleep(delay)
+  logger.debug(f"Scrolled page by {scroll_amount}, Delay: {delay:.2f} seconds.")
+
+#for random scrolling , emulating human browsing behavior
+def scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_amount=500):
+    """Scrolls the page a random number of times."""
+    num_scrolls = random.randint(min_scrolls, max_scrolls)
+    logger.debug(f"Scrolling page {num_scrolls} times.")
+    for _ in range(num_scrolls):
+        scroll_page(driver, scroll_amount)
+    logger.debug("Scrolling Completed")
+
+#To ensure reliable clicks using JavaScript as the main method and ActionChains as a fallback.
+def click_element(driver, locator):
+    """Clicks element using JavaScript click, and ActionChains as fallback"""
+    try:
+        element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(locator))
+        logger.debug("Element located successfully. Attempting to click using Javascript")
+        driver.execute_script("arguments[0].focus();", element) #Focus the element
+        driver.execute_script("arguments[0].click();", element) #Click using JS click
+        logger.info("Element clicked using JavaScript click.")
+    except Exception as e:
+        logger.warning(f"JavaScript click failed: {e}. Attempting ActionChains click.")
+        try:
+            element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(locator)) # Locates element again
+            actions = ActionChains(driver)
+            actions.move_to_element(element).click().perform()
+            logger.info("Element clicked using ActionChains click.")
+        except Exception as e:
+            logger.error(f"ActionChains click failed: {e}", exc_info=True)
+
 
 # --- Selenium Actions ---
 try:
+    # Initial Scroll
+    scroll_random_times(driver)
+    logger.info("Initial random scroll completed.")
 
-    # --- Human-like Scrolling Function ---
-    def scroll(driver):
-        """Scrolls the page down by a fixed amount a number of times"""
-        logger.debug("Starting scrolling function...") # Logs starting scrolling
-        for i in range(0,1): # Scrolls the page once
-            logger.debug(f"Scrolling iteration: {i+1}") #Logs the scrolling iteration
-            driver.execute_script("window.scrollBy(0,400);") #Scrolls the window
-            time.sleep(random.uniform(1.5, 2)) #Pauses the execution for a random time
-        logger.debug("Scrolling function completed.") #Logs when scrolling is done
-
-    scroll(driver) #Runs the scroll method
-    logger.info("Scrolling completed.") #Logs that the scroll is completed
+    # Locate the "Social Networking" Link
+    link_locator = (By.LINK_TEXT, "Social Networking")
+    logger.debug("Locating 'Social Networking' Link.")
+    
+    #Scroll the element into view
+    element = WebDriverWait(driver,10).until(EC.presence_of_element_located(link_locator))
+    driver.execute_script("arguments[0].scrollIntoView(true);", element)
+    logger.debug("Scrolled the element into view.")
 
     # Find the "Social Networking" link
     link = driver.find_element(By.LINK_TEXT, "Social Networking") #Finds the link using link text
@@ -131,29 +168,20 @@ try:
 
     # Click the link using Selenium's click method
     time.sleep(random.uniform(0.1, 0.3)) #Pauses the execution before the click
-    link.click() #Clicks the element using selenium
-    logger.info("Clicked 'Social Networking' link using Selenium click.") #Logs that the click is completed
+    
+    #Click the element
+    click_element(driver, link_locator)
+    time.sleep(random.uniform(1.5, 2))
 
-    # --- Human-like Scrolling Function ---
-    def scroll_down(driver):
-        """Scrolls down the page multiple times with delays"""
-        logger.debug("Starting scrolling function...") #Logs scroll start
-        time.sleep(random.uniform(2,3)) #Pauses the execution
-        for i in range(-1,9): #Loops to scroll the page
-            logger.debug(f"Scrolling iteration: {i+1}") #Logs scroll iteration
-            driver.execute_script("window.scrollBy(0,700);") #Scrolls the page by the given amount
-            time.sleep(random.uniform(1.5, 2)) #Pauses the execution
-        logger.debug("Scrolling function completed.") #Logs scroll completion
+    # Scroll down after click
+    scroll_random_times(driver, min_scrolls=9, max_scrolls=10)
+    logger.info("Scrolling completed after click.")
 
-    scroll_down(driver) #Runs the scroll_down method
-    logger.info("Scrolling completed.") #Logs completion
-
-    time.sleep(2) #Pauses execution
-    logger.debug("Pausing 4 seconds before quitting driver...") #Logs pause before driver quit
-    driver.quit() #Quits the driver
-    logger.info("Driver quit successfully.") #Logs quit
-
+    time.sleep(2)
+    logger.debug("Pausing before quitting driver...")
+    driver.quit()
+    logger.info("Driver quit successfully.")
 except Exception as e:
-    logger.error(f"An error occurred: {e}", exc_info=True) #Logs an error with exception details
+    logger.error(f"An error occurred: {e}", exc_info=True)
     if 'driver' in locals():
-        driver.quit() #Quits the driver in case of an exception
+        driver.quit()
