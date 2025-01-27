@@ -106,9 +106,12 @@ options.add_argument(f"user-data-dir={user_data}")
 logger.info(f"Starting Chrome with user data from: {user_data}")
 driver = webdriver.Chrome(options=options)
 driver.get("https://www.blackhatworld.com/")
+time.sleep(random.uniform(0.5,1))
+
 logger.info("Navigated to https://www.blackhatworld.com/")
 
 # --- Helper Functions ---
+
 # To mimic human-like scrolling behavior by scrolling a set amount and having a short delay before continuing.
 def scroll_page(driver, scroll_amount=500, min_delay=0.5, max_delay=1.0):
   """Scrolls the page a single time with a random delay for simulating user-like behavior."""
@@ -148,6 +151,20 @@ def click_element(driver, locator):
             logger.error(f"click_element: ActionChains click failed: {e}", exc_info=True)
 
 
+#for page scroll with find element and count how many scrolls
+def find_element_with_scroll(driver, locator, max_scrolls=5):
+    """Find an element after random scrolls, or returns None if not found."""
+    logger.debug(f"find_element_with_scroll: Searching for element with locator: {locator}")
+    for i in range(max_scrolls):
+        try:
+            element = WebDriverWait(driver, 5).until(EC.presence_of_element_located(locator))
+            logger.info(f"find_element_with_scroll: Element found after {i + 1} scrolls.")
+            return element
+        except:
+             scroll_page(driver, scroll_amount=400)
+    logger.warning(f"find_element_with_scroll: Element not found after {max_scrolls} scrolls.")
+    return None
+
 # --- Selenium Actions ---
 try:
     # Initial Scroll
@@ -182,20 +199,82 @@ try:
 
     # Click the link using Selenium's click method
     time.sleep(random.uniform(0.1, 0.3))
+    logger.debug("pause before click")
     
     #Click the element
     click_element(driver, link_locator)
     time.sleep(random.uniform(1.5, 2))
+    logger.debug("pause before find instagram link")
 
-    # Scroll down after click
-    scroll_random_times(driver, min_scrolls=9, max_scrolls=10)
-    logger.info("Scrolling completed after click.")
+    # Find Instagram Link after scrolling
+    instagram_locator = (By.LINK_TEXT, "Instagram")
+    instagram_link = find_element_with_scroll(driver, instagram_locator)
 
-    time.sleep(2)
+    if instagram_link:
+        # Get the location and size of the element
+        location = instagram_link.location
+        size = instagram_link.size
+        logger.debug(f"Instagram element location: {location}, size: {size}")
+
+        # Calculate center coordinates of the link element
+        target_x = location['x'] + size['width'] // 2
+        target_y = location['y'] + size['height'] // 2
+        logger.debug(f"Target click coordinates for Instagram link: ({target_x}, {target_y})")
+
+        # Move mouse and click Instagram link
+        move_mouse_with_curve(target_x, target_y)
+        time.sleep(random.uniform(0.1, 0.3))
+        logger.debug("pause after mouse movement and then click")
+        click_element(driver,instagram_locator)
+        logger.info("Clicked on Instagram Link")
+
+    else:
+        logger.warning("Instagram link not found, skipping click.")
+    time.sleep(random.uniform(2,3))
+    logger.debug("pause before scroll (like read)")
+    # Scroll and Find the Question "Why am I not getting followers anymore?"
+    scroll_random_times(driver, min_scrolls=0, max_scrolls=3)
+    time.sleep(random.uniform(1.5,2))
+    logger.debug("pause before click and after scroll")
+    question_locator = (By.XPATH, "//a[contains(text(), 'Why am I not getting followers anymore?')]")
+    question_link = find_element_with_scroll(driver,question_locator)
+    
+        
+    time.sleep(random.uniform(2,3))
+    logger.debug("pause before click")    
+    click_element(driver, question_locator)
+    logger.info("Clicked on the Question Link")
+    time.sleep(random.uniform(2.5,3))
+    logger.debug("pause before scroll(like read)")
+
+    #find like button
+    scroll_random_times(driver, min_scrolls=1, max_scrolls=2)
+    time.sleep(random.uniform(2,3))
+    like_button_locator = (By.CSS_SELECTOR,"#js-XFUniqueId10 > span > bdi")
+    like_button = find_element_with_scroll(driver, like_button_locator)
+    if like_button:
+           # Get the location and size of the element
+            location = like_button.location
+            size = like_button.size
+            logger.debug(f"Like Button element location: {location}, size: {size}")
+
+            # Calculate center coordinates of the link element
+            target_x = location['x'] + size['width'] // 2
+            target_y = location['y'] + size['height'] // 2
+            logger.debug(f"Target click coordinates for Like Button: ({target_x}, {target_y})")
+            
+            # Move mouse and click the like button
+            move_mouse_with_curve(target_x, target_y)
+            time.sleep(random.uniform(0.1, 0.3))
+            click_element(driver, like_button_locator)
+            logger.info("Clicked Like Button.")
+    else:
+        driver.quit()
+        # logger.warning("Like button not found, skipping like action.")   
+    
+    time.sleep(4)
     logger.debug("Pausing before quitting driver...")
     driver.quit()
     logger.info("Driver quit successfully.")
 except Exception as e:
-    logger.error(f"An error occurred: {e}", exc_info=True)
-    if 'driver' in locals():
-        driver.quit()
+    logger.error(f"An error occurred: {e}")
