@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
@@ -168,15 +169,17 @@ def find_element_with_scroll(driver, locator, max_scrolls=5):
 # --- Selenium Actions ---
 try:
     # Initial Scroll
+    logger.debug("Starting initial random scrolls...")
     scroll_random_times(driver)
     logger.info("Initial random scroll completed.")
 
     # Locate the "Social Networking" Link
     link_locator = (By.LINK_TEXT, "Social Networking")
-    logger.debug("Locating 'Social Networking' Link.")
+    logger.debug(f"Locating 'Social Networking' Link with locator: {link_locator}")
     
     #Scroll the element into view
     element = WebDriverWait(driver,10).until(EC.presence_of_element_located(link_locator))
+    logger.debug("Element located with EC.presence_of_element_located()")
     driver.execute_script("arguments[0].scrollIntoView(true);", element)
     logger.debug("Scrolled the element into view.")
 
@@ -196,6 +199,7 @@ try:
 
      # Move the mouse using move_mouse_with_curve
     move_mouse_with_curve(target_x, target_y)
+    logger.debug("Moved mouse to target location using bezier curve.")
 
     # Click the link using Selenium's click method
     time.sleep(random.uniform(0.1, 0.3))
@@ -203,11 +207,13 @@ try:
     
     #Click the element
     click_element(driver, link_locator)
+    logger.info("Clicked 'Social Networking' link")
     time.sleep(random.uniform(1.5, 2))
     logger.debug("pause before find instagram link")
 
     # Find Instagram Link after scrolling
     instagram_locator = (By.LINK_TEXT, "Instagram")
+    logger.debug(f"Searching for Instagram link with locator: {instagram_locator}")
     instagram_link = find_element_with_scroll(driver, instagram_locator)
 
     if instagram_link:
@@ -223,8 +229,9 @@ try:
 
         # Move mouse and click Instagram link
         move_mouse_with_curve(target_x, target_y)
+        logger.debug("Moved mouse to Instagram link location using bezier curve")
         time.sleep(random.uniform(0.1, 0.3))
-        logger.debug("pause after mouse movement and then click")
+        logger.debug("pause after mouse movement and then click on instagram link")
         click_element(driver,instagram_locator)
         logger.info("Clicked on Instagram Link")
 
@@ -232,11 +239,16 @@ try:
         logger.warning("Instagram link not found, skipping click.")
     time.sleep(random.uniform(2,3))
     logger.debug("pause before scroll (like read)")
-    # Scroll and Find the Question "Why am I not getting followers anymore?"
+
+    
+    
+    # Scroll and Find the Question "How do proxies work for instagram organic???"
+    logger.debug("Scrolling to find the question...")
     scroll_random_times(driver, min_scrolls=0, max_scrolls=3)
     time.sleep(random.uniform(1.5,2))
     logger.debug("pause before click and after scroll")
-    question_locator = (By.XPATH, "//a[contains(text(), 'Why am I not getting followers anymore?')]")
+    question_locator = (By.XPATH, "//a[contains(text(), 'How do proxies work for instagram organic??? (URGENT)')]")
+    logger.debug(f"Searching for the question with locator : {question_locator}")
     question_link = find_element_with_scroll(driver,question_locator)
     
         
@@ -246,11 +258,13 @@ try:
     logger.info("Clicked on the Question Link")
     time.sleep(random.uniform(2.5,3))
     logger.debug("pause before scroll(like read)")
-
+    
     #find like button
-    scroll_random_times(driver, min_scrolls=1, max_scrolls=2)
+    logger.debug("Scrolling to find Like Button")
+    scroll_random_times(driver, min_scrolls=2, max_scrolls=3)
     time.sleep(random.uniform(2,3))
-    like_button_locator = (By.CSS_SELECTOR,"#js-XFUniqueId10 > span > bdi")
+    like_button_locator = (By.XPATH,'//*[@id="js-XFUniqueId16"]/span/bdi')
+    logger.debug(f"Searching for the Like button with locator : {like_button_locator}")
     like_button = find_element_with_scroll(driver, like_button_locator)
     if like_button:
            # Get the location and size of the element
@@ -265,12 +279,69 @@ try:
             
             # Move mouse and click the like button
             move_mouse_with_curve(target_x, target_y)
+            logger.debug("Moved mouse to Like button location using bezier curve")
             time.sleep(random.uniform(0.1, 0.3))
-            click_element(driver, like_button_locator)
-            logger.info("Clicked Like Button.")
+            try:
+                element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(like_button_locator))
+                logger.debug("Element is clickable using element_to_be_clickable")
+                like_button.click()
+                logger.info("Clicked Like Button using selenium click().")
+            except Exception as e:
+
+                logger.warning(f"ActionChains click failed: {e}. Trying javascript method", exc_info=True)
+                try:
+                   element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(like_button_locator))
+                   driver.execute_script("arguments[0].click();", element)
+                   logger.info("Clicked Like Button using JavaScript click.")
+
+                except Exception as e:
+                   logger.error(f"Failed to click the Like button even with Javascript: {e}")
     else:
         driver.quit()
-        # logger.warning("Like button not found, skipping like action.")   
+        logger.warning("Like button not found, skipping like action.")  
+
+    time.sleep(random.uniform(1,2))
+    
+    # find thread to write
+    logger.debug("Scrolling to find Write Thread box..")
+    scroll_random_times(driver, min_scrolls=12, max_scrolls=20)
+    time.sleep(random.uniform(2,3))
+    write_thread_locator = (By.XPATH,"//span[contains(text(), 'Write your reply...')]")
+    logger.debug(f"Searching for text box with locator: {write_thread_locator}")
+    write_thread = find_element_with_scroll(driver,write_thread_locator)
+    post_reply = driver.find_element(By.XPATH,"//span[contains(text(),'Post reply')]")
+    if write_thread:
+      
+        try:
+            element = WebDriverWait(driver,10).until(EC.element_to_be_clickable(write_thread_locator))
+            logger.debug(f"Text box is clickable using element_to_be_clickable with locator : {write_thread_locator}")
+            driver.execute_script("arguments[0].scrollIntoView(true);", element)
+            logger.debug("Text box scrolled into view")
+            time.sleep(random.uniform(0.5,1))
+           
+            thread_content = "4G gives you a mobile IP, but proxies add an extra layer of IP changes for even more security or to manage multiple accounts on one device without raising red flags."
+            logger.debug("Initializing actionchains")
+            actions = ActionChains(driver)
+            actions.move_to_element(element)
+            logger.debug("Moving mouse to text box element.")
+            actions.click()
+            logger.debug("Clicking on the text box.")
+            actions.send_keys(thread_content)
+            logger.debug(f"Sending keys with content: {thread_content}")
+            time.sleep(random.uniform(2,3))
+            actions.click(post_reply)
+            logger.debug(f"Clicking on post reply button.")
+            actions.perform()
+            logger.debug("Performed Actionchains")
+
+            logger.info("Successfully wrote into text box using ActionChains and click.")
+            time.sleep(4)
+
+        except Exception as e:
+           logger.error(f"Error interacting with the text box: {e}")
+           
+    else:
+      logger.warning("Text Box Not Found Skipping action")
     
     time.sleep(4)
     logger.debug("Pausing before quitting driver...")
