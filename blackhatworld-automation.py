@@ -114,7 +114,7 @@ logger.info("Navigated to https://www.blackhatworld.com/")
 # --- Helper Functions ---
 
 # To mimic human-like scrolling behavior by scrolling a set amount and having a short delay before continuing.
-def scroll_page(driver, scroll_amount=500, min_delay=0.5, max_delay=1.0):
+def scroll_page(driver, scroll_amount=500, min_delay=1, max_delay=2.0):
   """Scrolls the page a single time with a random delay for simulating user-like behavior."""
   logger.debug(f"scroll_page: Scrolling by {scroll_amount} pixels.")
   driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
@@ -123,12 +123,13 @@ def scroll_page(driver, scroll_amount=500, min_delay=0.5, max_delay=1.0):
   logger.debug(f"scroll_page: Scrolled page by {scroll_amount}, Delay: {delay:.2f} seconds.")
 
 #for random scrolling , emulating human browsing behavior
-def scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_amount=500):
+def scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_amount=500, scroll_delay=2):
     """Scrolls the page a random number of times."""
     num_scrolls = random.randint(min_scrolls, max_scrolls)
     logger.debug(f"scroll_random_times: Scrolling page {num_scrolls} times.")
     for _ in range(num_scrolls):
         scroll_page(driver, scroll_amount)
+        time.sleep(scroll_delay)
     logger.debug("scroll_random_times: Scrolling Completed")
 
 #To ensure reliable clicks using JavaScript as the main method and ActionChains as a fallback.
@@ -165,6 +166,75 @@ def find_element_with_scroll(driver, locator, max_scrolls=5):
              scroll_page(driver, scroll_amount=400)
     logger.warning(f"find_element_with_scroll: Element not found after {max_scrolls} scrolls.")
     return None
+
+# for locate like buttons that are currently visible on a webpage.
+def find_like_buttons(driver):
+    """Finds all like buttons currently visible on the page using more specific CSS."""
+    
+    try:
+        like_buttons = WebDriverWait(driver, 5).until(
+            EC.presence_of_all_elements_located((By.XPATH, "//bdi[contains(text(), 'Like')]"))
+        )
+        logger.debug(f"find_like_buttons: Found {len(like_buttons)} like buttons.")
+        return like_buttons
+    except Exception as e:
+         logger.warning(f"find_like_buttons: Error finding like buttons: {e}")
+         return []
+
+#  for clicking a specific "Like" button element on a web page.
+def click_like_button(driver,button, scroll_delay=2):
+    """Clicks the given like button using JavaScript first, then ActionChains as a backup."""
+    try:
+        driver.execute_script("arguments[0].scrollIntoView();", button)
+        time.sleep(random.uniform(0.5, 1))
+        time.sleep(scroll_delay)
+        driver.execute_script("arguments[0].click();", button)
+        logger.info("Liked a post using JavaScript.")
+        return True
+    except:
+        try:
+            ActionChains(driver).move_to_element(button).click().perform()
+            logger.info("Liked a post using ActionChains.")
+            return True
+        except:
+            logger.warning("Failed to click like button.")
+            return False
+
+#The like_random_posts function simulates a user scrolling through a page and liking a random number of posts. It handles finding like buttons, scrolling between posts, and ensuring posts are only liked once.
+def like_random_posts(driver, min_likes=2, max_likes=6, min_scrolls_posts=1, max_scrolls_posts=4, scroll_delay=2):
+    """Scrolls and likes a random number of posts."""
+    liked_buttons = set()
+    total_likes = random.randint(min_likes,max_likes)
+    time.sleep(scroll_delay)
+    logger.info(f"Attempting to like {total_likes} posts.")
+
+    while len(liked_buttons) < total_likes:
+        scroll_random_times(driver, min_scrolls_posts, max_scrolls_posts, scroll_amount=500,scroll_delay=scroll_delay)
+        like_buttons = find_like_buttons(driver)
+
+        if not like_buttons:
+            logger.info("No like buttons found, scrolling again...")
+            continue
+
+        # Randomly select a subset of posts
+        num_buttons = len(like_buttons)
+        if num_buttons == 0:
+            continue  # Skip if no like buttons are found
+
+        
+        skip_interval = random.randint(2, 5)  # Random interval to skip
+        current_index = 0
+
+        while current_index < num_buttons and len(liked_buttons) < total_likes:
+             button = like_buttons[current_index]
+             
+             if button not in liked_buttons and click_like_button(driver,button,scroll_delay):
+                  liked_buttons.add(button)
+                  time.sleep(random.uniform(4,5))  # Random delay between likes
+             current_index+=skip_interval
+
+    logger.debug("Completed like_random_post function.")
+
 
 # --- Selenium Actions ---
 try:
@@ -242,12 +312,12 @@ try:
 
     
     
-    # Scroll and Find the Question "How do proxies work for instagram organic???"
+    # Scroll and Find the Question "AI model for Instagram"
     logger.debug("Scrolling to find the question...")
-    scroll_random_times(driver, min_scrolls=0, max_scrolls=3)
+    scroll_random_times(driver, min_scrolls=1, max_scrolls=4)
     time.sleep(random.uniform(1.5,2))
     logger.debug("pause before click and after scroll")
-    question_locator = (By.XPATH, "//a[contains(text(), 'How do proxies work for instagram organic??? (URGENT)')]")
+    question_locator = (By.XPATH, "//a[contains(text(), 'AI model for Instagram')]")
     logger.debug(f"Searching for the question with locator : {question_locator}")
     question_link = find_element_with_scroll(driver,question_locator)
     
@@ -259,89 +329,9 @@ try:
     time.sleep(random.uniform(2.5,3))
     logger.debug("pause before scroll(like read)")
     
-    #find like button
-    logger.debug("Scrolling to find Like Button")
-    scroll_random_times(driver, min_scrolls=2, max_scrolls=3)
+    # like random posts
     time.sleep(random.uniform(2,3))
-    like_button_locator = (By.XPATH,'//*[@id="js-XFUniqueId16"]/span/bdi')
-    logger.debug(f"Searching for the Like button with locator : {like_button_locator}")
-    like_button = find_element_with_scroll(driver, like_button_locator)
-    if like_button:
-           # Get the location and size of the element
-            location = like_button.location
-            size = like_button.size
-            logger.debug(f"Like Button element location: {location}, size: {size}")
-
-            # Calculate center coordinates of the link element
-            target_x = location['x'] + size['width'] // 2
-            target_y = location['y'] + size['height'] // 2
-            logger.debug(f"Target click coordinates for Like Button: ({target_x}, {target_y})")
-            
-            # Move mouse and click the like button
-            move_mouse_with_curve(target_x, target_y)
-            logger.debug("Moved mouse to Like button location using bezier curve")
-            time.sleep(random.uniform(0.1, 0.3))
-            try:
-                element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(like_button_locator))
-                logger.debug("Element is clickable using element_to_be_clickable")
-                like_button.click()
-                logger.info("Clicked Like Button using selenium click().")
-            except Exception as e:
-
-                logger.warning(f"ActionChains click failed: {e}. Trying javascript method", exc_info=True)
-                try:
-                   element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(like_button_locator))
-                   driver.execute_script("arguments[0].click();", element)
-                   logger.info("Clicked Like Button using JavaScript click.")
-
-                except Exception as e:
-                   logger.error(f"Failed to click the Like button even with Javascript: {e}")
-    else:
-        driver.quit()
-        logger.warning("Like button not found, skipping like action.")  
-
-    time.sleep(random.uniform(1,2))
-    
-    # find thread to write
-    logger.debug("Scrolling to find Write Thread box..")
-    scroll_random_times(driver, min_scrolls=12, max_scrolls=20)
-    time.sleep(random.uniform(2,3))
-    write_thread_locator = (By.XPATH,"//span[contains(text(), 'Write your reply...')]")
-    logger.debug(f"Searching for text box with locator: {write_thread_locator}")
-    write_thread = find_element_with_scroll(driver,write_thread_locator)
-    post_reply = driver.find_element(By.XPATH,"//span[contains(text(),'Post reply')]")
-    if write_thread:
-      
-        try:
-            element = WebDriverWait(driver,10).until(EC.element_to_be_clickable(write_thread_locator))
-            logger.debug(f"Text box is clickable using element_to_be_clickable with locator : {write_thread_locator}")
-            driver.execute_script("arguments[0].scrollIntoView(true);", element)
-            logger.debug("Text box scrolled into view")
-            time.sleep(random.uniform(0.5,1))
-           
-            thread_content = "4G gives you a mobile IP, but proxies add an extra layer of IP changes for even more security or to manage multiple accounts on one device without raising red flags."
-            logger.debug("Initializing actionchains")
-            actions = ActionChains(driver)
-            actions.move_to_element(element)
-            logger.debug("Moving mouse to text box element.")
-            actions.click()
-            logger.debug("Clicking on the text box.")
-            actions.send_keys(thread_content)
-            logger.debug(f"Sending keys with content: {thread_content}")
-            time.sleep(random.uniform(2,3))
-            actions.click(post_reply)
-            logger.debug(f"Clicking on post reply button.")
-            actions.perform()
-            logger.debug("Performed Actionchains")
-
-            logger.info("Successfully wrote into text box using ActionChains and click.")
-            time.sleep(4)
-
-        except Exception as e:
-           logger.error(f"Error interacting with the text box: {e}")
-           
-    else:
-      logger.warning("Text Box Not Found Skipping action")
+    like_random_posts(driver, min_likes=2, max_likes=6, min_scrolls_posts=1, max_scrolls_posts=3, scroll_delay=2)
     
     time.sleep(4)
     logger.debug("Pausing before quitting driver...")
