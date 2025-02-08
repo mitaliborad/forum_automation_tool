@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
@@ -12,21 +11,22 @@ import logging
 from datetime import datetime
 import numpy as np
 import os
+import re  # Import the regular expression module
 
 # --- Configure Logging ---
-# To track what the script is doing
 def setup_logger(log_dir):
+    """Sets up a logger to write to a file and the console."""
     os.makedirs(log_dir, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     log_file = os.path.join(log_dir, f"script_log_{timestamp}.log")
     logger = logging.getLogger(__name__)
-    logger.setLevel(logging.DEBUG)  # Set to DEBUG for detailed logs
+    logger.setLevel(logging.DEBUG)  # Set the logger's level to DEBUG to capture all messages
 
     file_handler = logging.FileHandler(log_file)
-    file_handler.setLevel(logging.DEBUG)
+    file_handler.setLevel(logging.DEBUG)  # File handler level
 
     console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.INFO)  # Console logs are still INFO level
+    console_handler.setLevel(logging.INFO) # Console handler level
 
     formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
     file_handler.setFormatter(formatter)
@@ -42,300 +42,369 @@ logger.info(f"Log file created at: {log_file}")
 
 # --- Mouse Movement Functions ---
 mouse = Controller()
-# ----- Curve Generation (Bezier Curve) -----
 
 def bezier_curve(p0, p1, p2, t):
-    """Calculates a point on a Bezier curve using 3 control points."""
-    result = (1-t)**2 * p0 + 2*(1-t)*t*p1 + t**2*p2
-    logger.debug(f"bezier_curve: t={t}, p0={p0}, p1={p1}, p2={p2}, result={result}")
-    return result
+    """Calculates a point on a Bezier curve."""
+    return (1-t)**2 * p0 + 2*(1-t)*t*p1 + t**2*p2
 
 def generate_bezier_path(start, end, num_points=50):
-    """Generates a path of points based on a random Bezier curve."""
-    logger.debug(f"generate_bezier_path: start={start}, end={end}, num_points={num_points}")
-    
+    """Generates a path of points following a Bezier curve."""
     control_point = (
         start[0] + random.randint(-100, 100),
         start[1] + random.randint(-100, 100)
     )
-    logger.debug(f"generate_bezier_path: control_point={control_point}")
     path = []
     for i in range(num_points):
         t = i / (num_points - 1)
-        point = bezier_curve(np.array(start),np.array(control_point), np.array(end), t)
-        path.append((int(point[0]),int(point[1])))
-        logger.debug(f"generate_bezier_path: step {i}, t={t}, point={point}, path_point={path[-1]}")
-    logger.debug(f"generate_bezier_path: Generated path with {len(path)} points.")
+        point = bezier_curve(np.array(start), np.array(control_point), np.array(end), t)
+        path.append((int(point[0]), int(point[1])))
     return path
 
-def move_mouse_with_curve(target_x, target_y, smoothing_factor=10, base_speed=0.001):
-    """Moves the mouse cursor along a path of random bezier curve with varying speed."""
-    logger.debug(f"move_mouse_with_curve: Starting mouse movement to ({target_x}, {target_y}).")
+def move_mouse_with_curve(target_x, target_y, base_speed=0.001):
+    """Moves the mouse along a Bezier curve to the target coordinates."""
     current_x, current_y = mouse.position
-    logger.debug(f"move_mouse_with_curve: Current mouse position: ({current_x}, {current_y}).")
-
-    # Generate the path
     path = generate_bezier_path((current_x, current_y), (target_x, target_y))
-    logger.debug(f"move_mouse_with_curve: Generated path with {len(path)} points.")
-
-    for i, (x, y) in enumerate(path):
-        # Random Speed
+    for x, y in path:
         speed = base_speed * random.uniform(0.8, 1.5)
-        logger.debug(f"move_mouse_with_curve: Step {i}, speed={speed:.2f}")
-
-        # Calculate a delay based on the distance, longer distance == longer delay
         distance = np.sqrt((current_x - x)**2 + (current_y - y)**2)
         delay = speed * (distance **0.75)
-        logger.debug(f"move_mouse_with_curve: Step {i}, distance={distance:.2f}, delay={delay:.5f}")
         time.sleep(delay)
-
-        mouse.position = (x,y)
-        current_x, current_y = x,y
-        logger.debug(f"move_mouse_with_curve: Step {i}, moved mouse to ({x}, {y}).")
+        mouse.position = (x, y)
+        current_x, current_y = x, y
 
 # --- Selenium Setup ---
-# for reduce websites detection mechanisms
 options = Options()
 options.add_argument('disable-infobars')
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 options.add_experimental_option('useAutomationExtension', False)
 
 user_data = r"C:\Users\DELL\AppData\Local\Google\Chrome\User Data"
-profile_name = "Profile 37"
+profile_name = "Profile 5"
 
 options.add_argument(f"user-data-dir={user_data}")
+options.add_argument(f"--profile-directory={profile_name}")
 logger.info(f"Starting Chrome with user data from: {user_data}")
 driver = webdriver.Chrome(options=options)
+logger.debug("Chrome driver initialized.")
 driver.get("https://www.blackhatworld.com/")
-time.sleep(random.uniform(0.5,1))
+logger.debug("Navigating to URL.")
+time.sleep(random.uniform(0.5, 1))
 
 logger.info("Navigated to https://www.blackhatworld.com/")
 
 # --- Helper Functions ---
-
-# To mimic human-like scrolling behavior by scrolling a set amount and having a short delay before continuing.
 def scroll_page(driver, scroll_amount=500, min_delay=1, max_delay=2.0):
-  """Scrolls the page a single time with a random delay for simulating user-like behavior."""
-  logger.debug(f"scroll_page: Scrolling by {scroll_amount} pixels.")
-  driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
-  delay = random.uniform(min_delay, max_delay)
-  time.sleep(delay)
-  logger.debug(f"scroll_page: Scrolled page by {scroll_amount}, Delay: {delay:.2f} seconds.")
+    """Scrolls the page by a specified amount."""
+    logger.debug(f"Scrolling page by {scroll_amount} pixels.")
+    driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
+    time.sleep(random.uniform(min_delay, max_delay))
+    logger.debug("Page scrolled.")
 
-#for random scrolling , emulating human browsing behavior
 def scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_amount=500, scroll_delay=2):
-    """Scrolls the page a random number of times."""
+    """Scrolls the page a random number of times within a range."""
     num_scrolls = random.randint(min_scrolls, max_scrolls)
-    logger.debug(f"scroll_random_times: Scrolling page {num_scrolls} times.")
+    logger.debug(f"Scrolling page {num_scrolls} times.")
     for _ in range(num_scrolls):
         scroll_page(driver, scroll_amount)
         time.sleep(scroll_delay)
-    logger.debug("scroll_random_times: Scrolling Completed")
+    logger.debug("Random scrolls complete.")
 
-#To ensure reliable clicks using JavaScript as the main method and ActionChains as a fallback.
 def click_element(driver, locator):
-    """Clicks element using JavaScript click, and ActionChains as fallback"""
-    logger.debug(f"click_element: Attempting to click element with locator: {locator}")
+    """Clicks an element using JavaScript and ActionChains as fallback."""
     try:
         element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(locator))
-        logger.debug("click_element: Element located successfully. Attempting to click using Javascript")
-        driver.execute_script("arguments[0].focus();", element) #Focus the element
+        logger.debug(f"Element found, attempting to click using JavaScript: {locator}")
+        driver.execute_script("arguments[0].focus();", element)
         driver.execute_script("arguments[0].click();", element)
-        logger.info("click_element: Element clicked using JavaScript click.")
+        logger.info(f"Element clicked successfully using JavaScript: {locator}")
     except Exception as e:
-        logger.warning(f"click_element: JavaScript click failed: {e}. Attempting ActionChains click.")
+        logger.warning(f"JavaScript click failed, attempting ActionChains: {e}")
         try:
             element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(locator))
             actions = ActionChains(driver)
             actions.move_to_element(element).click().perform()
-            logger.info("click_element: Element clicked using ActionChains click.")
+            logger.info(f"Element clicked successfully using ActionChains: {locator}")
         except Exception as e:
-            logger.error(f"click_element: ActionChains click failed: {e}", exc_info=True)
+            logger.error(f"Failed to click element after attempting ActionChains: {locator}. Error: {e}", exc_info=True)
 
-
-#for page scroll with find element and count how many scrolls
 def find_element_with_scroll(driver, locator, max_scrolls=5):
-    """Find an element after random scrolls, or returns None if not found."""
-    logger.debug(f"find_element_with_scroll: Searching for element with locator: {locator}")
+    """Finds an element after scrolling the page a maximum number of times."""
+    logger.debug(f"Attempting to find element with locator: {locator}")
     for i in range(max_scrolls):
         try:
             element = WebDriverWait(driver, 5).until(EC.presence_of_element_located(locator))
-            logger.info(f"find_element_with_scroll: Element found after {i + 1} scrolls.")
+            logger.info(f"Element found after {i + 1} scrolls: {locator}")
             return element
         except:
-             scroll_page(driver, scroll_amount=400)
-    logger.warning(f"find_element_with_scroll: Element not found after {max_scrolls} scrolls.")
+            logger.debug(f"Element not found, scrolling page (attempt {i + 1}/{max_scrolls}).")
+            scroll_page(driver, scroll_amount=400)
+    logger.warning(f"Element not found after {max_scrolls} scrolls: {locator}")
     return None
 
-# for locate like buttons that are currently visible on a webpage.
 def find_like_buttons(driver):
-    """Finds all like buttons currently visible on the page using more specific CSS."""
-    
+    """Finds all 'Like' buttons on the page."""
     try:
         like_buttons = WebDriverWait(driver, 5).until(
             EC.presence_of_all_elements_located((By.XPATH, "//bdi[contains(text(), 'Like')]"))
         )
-        logger.debug(f"find_like_buttons: Found {len(like_buttons)} like buttons.")
+        logger.debug(f"Found {len(like_buttons)} like buttons.")
         return like_buttons
     except Exception as e:
-         logger.warning(f"find_like_buttons: Error finding like buttons: {e}")
-         return []
+        logger.warning(f"Error finding like buttons: {e}", exc_info=True)
+        return []
 
-#  for clicking a specific "Like" button element on a web page.
-def click_like_button(driver,button, scroll_delay=2):
-    """Clicks the given like button using JavaScript first, then ActionChains as a backup."""
+def click_like_button(driver, button, scroll_delay=2):
+    """Clicks a like button using JavaScript and ActionChains as fallback."""
     try:
         driver.execute_script("arguments[0].scrollIntoView();", button)
         time.sleep(random.uniform(0.5, 1))
-        time.sleep(scroll_delay)
+        logger.debug("Scrolling like button into view and attempting to click using JavaScript.")
         driver.execute_script("arguments[0].click();", button)
-        logger.info("Liked a post using JavaScript.")
+        logger.info("Like button clicked successfully using JavaScript.")
         return True
-    except:
+    except Exception as e:
+        logger.warning(f"JavaScript click failed: {e}, attempting ActionChains.", exc_info=True)
         try:
             ActionChains(driver).move_to_element(button).click().perform()
-            logger.info("Liked a post using ActionChains.")
+            logger.info("Like button clicked successfully using ActionChains.")
             return True
-        except:
-            logger.warning("Failed to click like button.")
+        except Exception as e:
+            logger.error(f"Failed to click like button after attempting ActionChains: {e}", exc_info=True)
             return False
 
-#The like_random_posts function simulates a user scrolling through a page and liking a random number of posts. It handles finding like buttons, scrolling between posts, and ensuring posts are only liked once.
-def like_random_posts(driver, min_likes=2, max_likes=6, min_scrolls_posts=1, max_scrolls_posts=4, scroll_delay=2):
-    """Scrolls and likes a random number of posts."""
+def like_random_posts(driver, min_likes=2, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=4, scroll_delay=3):
+    """Likes a random number of posts after scrolling randomly."""
     liked_buttons = set()
-    total_likes = random.randint(min_likes,max_likes)
+    total_likes = random.randint(min_likes, max_likes)
     time.sleep(scroll_delay)
     logger.info(f"Attempting to like {total_likes} posts.")
 
     while len(liked_buttons) < total_likes:
-        scroll_random_times(driver, min_scrolls_posts, max_scrolls_posts, scroll_amount=500,scroll_delay=scroll_delay)
+        scroll_random_times(driver, min_scrolls_posts, max_scrolls_posts, scroll_amount=500, scroll_delay=scroll_delay)
         like_buttons = find_like_buttons(driver)
 
         if not like_buttons:
             logger.info("No like buttons found, scrolling again...")
             continue
 
-        # Randomly select a subset of posts
-        num_buttons = len(like_buttons)
-        if num_buttons == 0:
-            continue  # Skip if no like buttons are found
-
-        
-        skip_interval = random.randint(2, 5)  # Random interval to skip
+        skip_interval = random.randint(2, 5)
         current_index = 0
 
-        while current_index < num_buttons and len(liked_buttons) < total_likes:
-             button = like_buttons[current_index]
-             
-             if button not in liked_buttons and click_like_button(driver,button,scroll_delay):
-                  liked_buttons.add(button)
-                  time.sleep(random.uniform(4,5))  # Random delay between likes
-             current_index+=skip_interval
+        while current_index < len(like_buttons) and len(liked_buttons) < total_likes:
+            button = like_buttons[current_index]
+            if button not in liked_buttons and click_like_button(driver, button, scroll_delay):
+                liked_buttons.add(button)
+                logger.debug(f"Liked post number {len(liked_buttons)} of {total_likes}.")
+                time.sleep(random.uniform(4, 5))
+            current_index += skip_interval
+    logger.info(f"Liked {len(liked_buttons)} posts successfully.")
 
-    logger.debug("Completed like_random_post function.")
+def extract_element_text(element, xpath):
+    """Extracts text from an element, handling potential exceptions."""
+    try:
+        element = WebDriverWait(element, 3).until(EC.presence_of_element_located((By.XPATH, xpath)))
+        text = element.text.strip()
+        logging.debug(f"Extracted text '{text}' from element with XPath: {xpath}") #Log all elements with debug
+        return text
+    except Exception as e:
+        logging.warning(f"Could not extract text from element with XPath: {xpath}. Error: {e}", exc_info=True) #Added exc_info
+        return "No text found"
+
+def extract_post_content(driver, output_file):
+    """Extracts and saves post content and replies to a file."""
+    try:
+        posts_locator = (By.XPATH, '//article[@class="message message--post js-post js-inlineModContainer  "]')
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located(posts_locator))
+        all_posts_elements = driver.find_elements(*posts_locator)
+
+        with open(output_file, 'w', encoding='utf-8') as file:
+            try:
+                main_post_element = WebDriverWait(driver, 10).until(
+                    EC.presence_of_element_located((By.XPATH, '//h1'))
+                )
+                main_post = main_post_element.text.strip()
+                file.write(f"--- Main Post Title ---\n{main_post}\n\n")
+                logging.debug(f"Main Post Title: {main_post}")
+            except Exception as e:
+                file.write(f"--- Main Post Title ---\nNo main post title found\n\n")
+                logging.warning(f"No main post title found. Error: {e}", exc_info=True)
+        
+
+            for post_element in all_posts_elements:
+                try:
+                    # Find the <a> tag with the data-message-id attribute within the post_element
+                    link_element = post_element.find_element(By.XPATH, ".//a[@data-message-id]")
+                    post_id = link_element.get_attribute("data-message-id")
+                    logging.info(f"Processing post with ID: {post_id}") #Log the post Id's as they proccess
+                    # print(f"Processing post with ID: {post_id}")
+                except Exception as e:
+                    post_id = "No ID Found"
+                    logging.error(f"Could not extract post ID. Error: {e}", exc_info=True) #Added exc_info
+                    # print(f"Processing post with ID: {post_id} - Error: {e}")
+                
+                # --- Topic Username ---
+                topic_username = extract_element_text(post_element, ".//h4//a//span")
+                file.write(f"Topic User: {topic_username}\n")
+                logging.debug(f"Topic User: {topic_username}")
+
+                # --- Topic Text ---
+                topic = extract_element_text(post_element, ".//div[@class='message-content js-messageContent']")
+                file.write(f"Topic: {topic}\n")
+                logging.debug(f"Topic: {topic}")
+
+                #likes count
+                try:
+                    like_user_element = WebDriverWait(post_element, 3).until(EC.presence_of_element_located((By.XPATH, ".//a[@class='reactionsBar-link']")))
+                    like_user_text = like_user_element.text.strip()
+
+                    # Split by commas and "and" to separate usernames and the "and X others" part.
+                    parts = re.split(r", | and ", like_user_text)
+
+                    # Extract the number of "others" if it exists
+                    other_count = 0
+                    if parts and "others" in parts[-1]:
+                        try:
+                            other_count = int(re.search(r'(\d+)', parts[-1]).group(1))
+                            parts = parts[:-1]  # Remove the "and X others" part
+                        except:
+                            other_count = 0  # Handle the case where the number is not an integer
+
+                    # Clean up the usernames by stripping whitespace and removing empty strings
+                    like_users = [user.strip() for user in parts if user.strip()]
+
+                    # Calculate the total like count
+                    like_count = len(like_users) + other_count
+
+                    file.write(f"Liked by: {like_user_text}\n")
+                    file.write(f"Number of likes: {like_count}\n")
+                    logging.debug(f"Liked by: {like_user_text}")
+                    logging.debug(f"Number of likes: {like_count}")
+                except Exception as e:
+                    file.write("Liked by: No user likes\n")
+                    file.write("Number of likes: 0\n")
+                    logging.debug(f"No user likes were found: {e}", exc_info=True) #Added exception
+                
+
+                # # --- Extract Number of comments in Current Post & Structure Replies ---
+                # try:
+                #     comments_elements = post_element.find_elements(By.XPATH, "//a[text()='Click to expand...']")
+                #     num_comments = len(comments_elements)
+
+                #     file.write(f"Number of comments: {num_comments}\n")
+                #     logging.debug(f"Number of comments: {num_comments}")
+
+                    # Structure Replies
+                    #file.write("Replies:\n\n")
+                    # for i, comment_element in enumerate(comments_elements):
+                    #     try:
+                    #         original_post = extract_element_text(comment_element, ".//div[@class='bbWrapper']") # Extract the whole comment's text
+                    #         reply_text = extract_element_text(comment_element, ".//div[@class='message-content js-messageContent']")
+
+                    #         file.write(f'  Reply {i+1}:\n')
+                    #         file.write(f'    Original Post: {original_post}\n') # Use variables
+                    #         file.write(f'    Reply: {reply_text}\n')
+                    #     except Exception as e:
+                    #         file.write(f"Reply {i+1}: Could not extract reply content.\n")
+                    #         logging.warning(f"Error extracting reply content: {e}", exc_info=True)
+
+
+                # except Exception as e:
+                #     file.write("Number of comments: 0\n")
+                #     logging.debug(f"No reply was found: {e}", exc_info=True)
+                        
+                # file.write("-----\n\n")
+                # file.write("Replies:\n\n")
+                # --- Extract Number of comments ONLY for Main Post & Structure Replies ---
+                if post_id == driver.find_element(By.XPATH, '//article[@class="message message--post js-post js-inlineModContainer  "][1]//a[@data-message-id]').get_attribute("data-message-id"):
+                    try:
+                        comments_elements = post_element.find_elements(By.XPATH, "//a[text()='Click to expand...']")
+                        num_comments = len(comments_elements)
+                        
+                        file.write(f"Number of comments: {num_comments}\n")
+                        logging.debug(f"Number of comments: {num_comments}")
+                    
+                    except Exception as e:
+                        file.write("Number of comments: 0\n")
+                        logging.debug(f"No reply was found: {e}", exc_info=True)
+                else:
+                  file.write("Number of comments: 0 (Reply Post)\n")  # Indicate it's a reply post
+                  logging.debug("Number of comments: 0 (Reply Post)")
+
+                # Structure Replies
+                file.write("-----\n\n")
+                file.write("Replies:\n\n\n")
+                
+
+    except Exception as e:
+        logging.critical(f"General error in extract_post_content: {e}", exc_info=True)  #Critical Error
 
 
 # --- Selenium Actions ---
 try:
-    # Initial Scroll
-    logger.debug("Starting initial random scrolls...")
+    #find social networking link
     scroll_random_times(driver)
-    logger.info("Initial random scroll completed.")
-
-    # Locate the "Social Networking" Link
-    link_locator = (By.LINK_TEXT, "Social Networking")
-    logger.debug(f"Locating 'Social Networking' Link with locator: {link_locator}")
     
-    #Scroll the element into view
-    element = WebDriverWait(driver,10).until(EC.presence_of_element_located(link_locator))
-    logger.debug("Element located with EC.presence_of_element_located()")
+    link_locator = (By.LINK_TEXT, "Social Networking")
+
+    element = WebDriverWait(driver, 10).until(EC.presence_of_element_located(link_locator))
     driver.execute_script("arguments[0].scrollIntoView(true);", element)
-    logger.debug("Scrolled the element into view.")
 
-    # Find the "Social Networking" link
     link = driver.find_element(By.LINK_TEXT, "Social Networking")
-    logger.debug("Found 'Social Networking' link.")
-
-    # Get the location and size of the element
     location = link.location
     size = link.size
-    logger.debug(f"Element location: {location}, size: {size}")
-
-    # Calculate center coordinates of the link element
     target_x = location['x'] + size['width'] // 2
     target_y = location['y'] + size['height'] // 2
-    logger.debug(f"Target click coordinates: ({target_x}, {target_y})")
-
-     # Move the mouse using move_mouse_with_curve
     move_mouse_with_curve(target_x, target_y)
-    logger.debug("Moved mouse to target location using bezier curve.")
-
-    # Click the link using Selenium's click method
     time.sleep(random.uniform(0.1, 0.3))
-    logger.debug("pause before click")
-    
-    #Click the element
     click_element(driver, link_locator)
-    logger.info("Clicked 'Social Networking' link")
     time.sleep(random.uniform(1.5, 2))
-    logger.debug("pause before find instagram link")
+    logger.info(f"Clicked Social Networking link successfully.")
 
-    # Find Instagram Link after scrolling
+    #find instagram link
     instagram_locator = (By.LINK_TEXT, "Instagram")
-    logger.debug(f"Searching for Instagram link with locator: {instagram_locator}")
     instagram_link = find_element_with_scroll(driver, instagram_locator)
-
     if instagram_link:
-        # Get the location and size of the element
         location = instagram_link.location
         size = instagram_link.size
-        logger.debug(f"Instagram element location: {location}, size: {size}")
-
-        # Calculate center coordinates of the link element
         target_x = location['x'] + size['width'] // 2
         target_y = location['y'] + size['height'] // 2
-        logger.debug(f"Target click coordinates for Instagram link: ({target_x}, {target_y})")
-
-        # Move mouse and click Instagram link
         move_mouse_with_curve(target_x, target_y)
-        logger.debug("Moved mouse to Instagram link location using bezier curve")
         time.sleep(random.uniform(0.1, 0.3))
-        logger.debug("pause after mouse movement and then click on instagram link")
-        click_element(driver,instagram_locator)
-        logger.info("Clicked on Instagram Link")
-
+        click_element(driver, instagram_locator)
+        logger.info(f"Clicked Instagram link successfully.")
     else:
         logger.warning("Instagram link not found, skipping click.")
-    time.sleep(random.uniform(2,3))
-    logger.debug("pause before scroll (like read)")
+    time.sleep(random.uniform(2, 3))
 
-    
-    
-    # Scroll and Find the Question "AI model for Instagram"
-    logger.debug("Scrolling to find the question...")
     scroll_random_times(driver, min_scrolls=1, max_scrolls=4)
-    time.sleep(random.uniform(1.5,2))
-    logger.debug("pause before click and after scroll")
-    question_locator = (By.XPATH, "//a[contains(text(), 'AI model for Instagram')]")
-    logger.debug(f"Searching for the question with locator : {question_locator}")
-    question_link = find_element_with_scroll(driver,question_locator)
-    
-        
-    time.sleep(random.uniform(2,3))
-    logger.debug("pause before click")    
+    time.sleep(random.uniform(1.5, 2))
+
+    #find a link method to unban
+    question_locator = (By.LINK_TEXT, "Instagram Close Friends (Method Tutorial)")
+    question_link = find_element_with_scroll(driver, question_locator)
+    time.sleep(random.uniform(2, 3))
     click_element(driver, question_locator)
-    logger.info("Clicked on the Question Link")
-    time.sleep(random.uniform(2.5,3))
-    logger.debug("pause before scroll(like read)")
+    logger.info(f"Clicked Instagram Close Friends (Method Tutorial) link successfully.")
+    time.sleep(random.uniform(2.5, 3))
+
+    #scroll random after click on the link
+    scroll_random_times(driver, min_scrolls=2, max_scrolls=4, scroll_delay=2)
+    time.sleep(random.uniform(2, 3))
     
-    # like random posts
-    time.sleep(random.uniform(2,3))
-    like_random_posts(driver, min_likes=2, max_likes=6, min_scrolls_posts=1, max_scrolls_posts=3, scroll_delay=2)
+    #like_random posts, random times
+    like_random_posts(driver, min_likes=2, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=3, scroll_delay=3)
+    scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_delay=3)
     
-    time.sleep(4)
-    logger.debug("Pausing before quitting driver...")
+    #extract data and save in file
+    output_file = os.path.join(log_directory,"post_content_and_replies.txt")
+    extract_post_content(driver, output_file)
+    logger.info(f"Post content extracted and saved to {output_file}")
+    
+    time.sleep(2)
     driver.quit()
     logger.info("Driver quit successfully.")
 except Exception as e:
-    logger.error(f"An error occurred: {e}")
+    logger.error(f"An error occurred: {e}", exc_info=True)
+    if driver:
+        driver.quit()
+        logger.info("Driver successfully quit after error.")
