@@ -73,18 +73,10 @@ def move_mouse_with_curve(target_x, target_y, base_speed=0.001):
         current_x, current_y = x, y
 
 # --- Selenium Setup ---
-options = Options()
-options.add_argument('disable-infobars')
-options.add_experimental_option("excludeSwitches", ["enable-automation"])
-options.add_experimental_option('useAutomationExtension', False)
+opt = Options()
+opt.add_experimental_option("debuggerAddress","localhost:9222")
 
-user_data = r"C:\Users\DELL\AppData\Local\Google\Chrome\User Data"
-profile_name = "Profile 5"
-
-options.add_argument(f"user-data-dir={user_data}")
-options.add_argument(f"--profile-directory={profile_name}")
-logger.info(f"Starting Chrome with user data from: {user_data}")
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome(options=opt)
 logger.debug("Chrome driver initialized.")
 driver.get("https://www.blackhatworld.com/")
 logger.debug("Navigating to URL.")
@@ -285,35 +277,6 @@ def extract_post_content(driver, output_file):
                     logging.debug(f"No user likes were found: {e}", exc_info=True) #Added exception
                 
 
-                # # --- Extract Number of comments in Current Post & Structure Replies ---
-                # try:
-                #     comments_elements = post_element.find_elements(By.XPATH, "//a[text()='Click to expand...']")
-                #     num_comments = len(comments_elements)
-
-                #     file.write(f"Number of comments: {num_comments}\n")
-                #     logging.debug(f"Number of comments: {num_comments}")
-
-                    # Structure Replies
-                    #file.write("Replies:\n\n")
-                    # for i, comment_element in enumerate(comments_elements):
-                    #     try:
-                    #         original_post = extract_element_text(comment_element, ".//div[@class='bbWrapper']") # Extract the whole comment's text
-                    #         reply_text = extract_element_text(comment_element, ".//div[@class='message-content js-messageContent']")
-
-                    #         file.write(f'  Reply {i+1}:\n')
-                    #         file.write(f'    Original Post: {original_post}\n') # Use variables
-                    #         file.write(f'    Reply: {reply_text}\n')
-                    #     except Exception as e:
-                    #         file.write(f"Reply {i+1}: Could not extract reply content.\n")
-                    #         logging.warning(f"Error extracting reply content: {e}", exc_info=True)
-
-
-                # except Exception as e:
-                #     file.write("Number of comments: 0\n")
-                #     logging.debug(f"No reply was found: {e}", exc_info=True)
-                        
-                # file.write("-----\n\n")
-                # file.write("Replies:\n\n")
                 # --- Extract Number of comments ONLY for Main Post & Structure Replies ---
                 if post_id == driver.find_element(By.XPATH, '//article[@class="message message--post js-post js-inlineModContainer  "][1]//a[@data-message-id]').get_attribute("data-message-id"):
                     try:
@@ -380,11 +343,11 @@ try:
     time.sleep(random.uniform(1.5, 2))
 
     #find a link method to unban
-    question_locator = (By.LINK_TEXT, "Instagram Close Friends (Method Tutorial)")
+    question_locator = (By.LINK_TEXT, "Best Methods to Avoid Detection When Posting the Same Video on Multiple IG Accounts?")
     question_link = find_element_with_scroll(driver, question_locator)
     time.sleep(random.uniform(2, 3))
     click_element(driver, question_locator)
-    logger.info(f"Clicked Instagram Close Friends (Method Tutorial) link successfully.")
+    logger.info(f"Best Methods to Avoid Detection When Posting the Same Video on Multiple IG Accounts?")
     time.sleep(random.uniform(2.5, 3))
 
     #scroll random after click on the link
