@@ -82,7 +82,7 @@ opt.add_experimental_option("debuggerAddress","localhost:9222")
 
 driver = webdriver.Chrome(options=opt)
 logger.debug("Chrome driver initialized.")
-driver.get("https://www.blackhatworld.com/")
+driver.get("https://www.blackhatworld.com/seo/instagram-account-creation-whats-your-thoughts.1685724/")
 logger.debug("Navigating to URL.")
 time.sleep(random.uniform(0.5, 1))
 
@@ -247,6 +247,7 @@ def generate_and_save_comment(main_post_content, output_file="comment.txt"):
     except Exception as e:
         logger.error(f"An error occurred while generating comment: {e}", exc_info=True)
         return False
+
 def extract_post_content(driver, output_file):
     """Extracts, processes, and saves post content and replies to a file."""
     try:
@@ -384,9 +385,74 @@ def generate_and_save_comments(thread_content, output_file="comments.txt"):
         logger.error(f"An error occurred while generating comment: {e}", exc_info=True)
         return False
     
+def read_comment_from_file(comment_file="comment.txt"):
+    """Reads the comment from the comment.txt file."""
+    try:
+        with open(comment_file, "r", encoding="utf-8") as f:
+            comment = f.read().strip()
+        logger.info(f"Read comment from '{comment_file}': {comment}")
+        return comment
+    except FileNotFoundError:
+        logger.error(f"Comment file '{comment_file}' not found.")
+        return None
+    except Exception as e:
+        logger.error(f"Error reading comment file: {e}", exc_info=True)
+        return None
+
+def post_comment(driver, comment):
+    """Posts the comment to the BHW thread."""
+    if not comment:
+        logger.warning("No comment to post.")
+        return False
+
+    try:
+        # 1. Find the comment input box.
+        write_comment_locator = (By.XPATH,"//span[contains(text(), 'Write your reply...')]")
+        logger.debug(f"Searching for text box with locator: {write_comment_locator}")
+        write_comment = find_element_with_scroll(driver,write_comment_locator)
+        # 2. find post_reply button
+        post_reply = driver.find_element(By.XPATH,"//span[contains(text(),'Post reply')]")
+        if write_comment:
+      
+            try:
+                element = WebDriverWait(driver,10).until(EC.element_to_be_clickable(write_comment_locator))
+                logger.debug(f"Text box is clickable using element_to_be_clickable with locator : {write_comment_locator}")
+                driver.execute_script("arguments[0].scrollIntoView(true);", element)
+                logger.debug("Text box scrolled into view")
+                time.sleep(random.uniform(0.5,1))
+
+                logger.debug("Initializing actionchains")
+                actions = ActionChains(driver)
+                actions.move_to_element(element)
+                logger.debug("Moving mouse to text box element.")
+
+                actions.click()
+                logger.debug("Clicking on the text box.")
+
+                actions.send_keys(comment)
+                logger.debug(f"Sending keys with content: {comment}")
+
+                time.sleep(random.uniform(2,3))
+                actions.click(post_reply)
+                logger.debug(f"Clicking on post reply button.")
+
+                actions.perform()
+                logger.debug("Performed Actionchains")
+                logger.info("Successfully wrote into text box using ActionChains and click.")
+
+                time.sleep(4)
+            
+
+            except Exception as e:
+                logger.error(f"Error posting comment: {e}", exc_info=True)
+                return False
+    except Exception as e:
+           logger.error(f"Error interacting with the text box: {e}")
+    
 
 # --- Selenium Actions ---
 try:
+    
     #find social networking link
     scroll_random_times(driver)
     
@@ -425,7 +491,7 @@ try:
     scroll_random_times(driver, min_scrolls=1, max_scrolls=4)
     time.sleep(random.uniform(1.5, 2))
 
-    #find Instagram Account Creation - What's your thoughts? ?
+    #find Instagram Account Creation - What's your thoughts? 
     question_locator = (By.LINK_TEXT, "Instagram Account Creation - What's your thoughts?")
     question_link = find_element_with_scroll(driver, question_locator)
     time.sleep(random.uniform(2, 3))
@@ -440,22 +506,30 @@ try:
     #like_random posts, random times
     like_random_posts(driver, min_likes=2, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=3, scroll_delay=3)
     scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_delay=3)
-    
+     
     #extract data and save in file
     output_file = os.path.join(log_directory,"post_content_and_replies.txt")
     extract_post_content(driver, output_file)
     logger.info(f"Post content extracted and saved to {output_file}")
+
     # Extract content ONLY Main post
     main_post_content = extract_main_post_content(driver)
+    
     # Check content read successfully before proceeding
     if main_post_content:
         generate_and_save_comment(main_post_content)
+            
     else:
         logger.warning("Failed to read main post content from file.")
     
+    comment = read_comment_from_file()
+    if comment:
+        post_comment(driver,comment)
+
     time.sleep(2)
     driver.quit()
     logger.info("Driver quit successfully.")
+
 except Exception as e:
     logger.error(f"An error occurred: {e}", exc_info=True)
     if driver:
