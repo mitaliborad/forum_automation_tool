@@ -1,3 +1,4 @@
+# blackhatworld-automation.py
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -12,6 +13,9 @@ from datetime import datetime
 import numpy as np
 import os
 import re  # Import the regular expression module
+
+# Import Gemini API handler
+from gemini_api import GeminiHandler
 
 # --- Configure Logging ---
 def setup_logger(log_dir):
@@ -202,8 +206,49 @@ def extract_element_text(element, xpath):
         logging.warning(f"Could not extract text from element with XPath: {xpath}. Error: {e}", exc_info=True) #Added exc_info
         return "No text found"
 
+def extract_main_post_content(driver):
+    """Extracts only the main post content from the thread."""
+    try:
+        # Locate the main post element.  Adjust the XPath if needed.
+        main_post_element = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, '//div[@class="message-content js-messageContent"]'))
+        )
+        main_post_text = main_post_element.text.strip()
+        logger.debug(f"Extracted main post content: {main_post_text}")
+        return main_post_text
+    except Exception as e:
+        logger.warning(f"Could not extract main post content. Error: {e}", exc_info=True)
+        return None
+
+def generate_and_save_comment(main_post_content, output_file="comment.txt"):
+    """
+    Generates a comment using the Gemini API based on the main post content and
+    saves it to a text file.
+    """
+    try:
+        gemini_handler = GeminiHandler()
+        # Generate comments to one comment only.
+        comments = gemini_handler.get_comments(main_post_content,prompt_file="prompt.txt")
+
+        if comments:
+            logger.info("Successfully generated comments using Gemini API.")
+            try:
+                with open(output_file, "w", encoding="utf-8") as f:
+                    f.write(comments)
+                logger.info(f"Comment saved to '{output_file}'.")
+                return True
+            except Exception as e:
+                logger.error(f"Error saving comment to file: {e}", exc_info=True)
+                return False
+        else:
+            logger.warning("Failed to generate comment using Gemini API.")
+            return False
+
+    except Exception as e:
+        logger.error(f"An error occurred while generating comment: {e}", exc_info=True)
+        return False
 def extract_post_content(driver, output_file):
-    """Extracts and saves post content and replies to a file."""
+    """Extracts, processes, and saves post content and replies to a file."""
     try:
         posts_locator = (By.XPATH, '//article[@class="message message--post js-post js-inlineModContainer  "]')
         WebDriverWait(driver, 10).until(EC.presence_of_element_located(posts_locator))
@@ -301,6 +346,44 @@ def extract_post_content(driver, output_file):
     except Exception as e:
         logging.critical(f"General error in extract_post_content: {e}", exc_info=True)  #Critical Error
 
+def read_thread_content(file_path):
+    """Reads thread content from a text file."""
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        return content
+    except FileNotFoundError:
+        logger.error(f"Thread content file '{file_path}' not found.")
+        return None
+    except Exception as e:
+        logger.error(f"Error reading thread content file: {e}", exc_info=True)
+        return None
+
+def generate_and_save_comments(thread_content, output_file="comments.txt"):
+    """Generates comments using the Gemini API and saves them to a text file."""
+    try:
+        gemini_handler = GeminiHandler()
+        # Generate comments to one comment only.
+        comments = gemini_handler.get_comments(thread_content,prompt_file="prompt.txt")
+
+        if comments:
+            logger.info("Successfully generated comments using Gemini API.")
+            try:
+                with open(output_file, "w", encoding="utf-8") as f:
+                    f.write(comments)
+                logger.info(f"Comment saved to '{output_file}'.")
+                return True
+            except Exception as e:
+                logger.error(f"Error saving comment to file: {e}", exc_info=True)
+                return False
+        else:
+            logger.warning("Failed to generate comment using Gemini API.")
+            return False
+
+    except Exception as e:
+        logger.error(f"An error occurred while generating comment: {e}", exc_info=True)
+        return False
+    
 
 # --- Selenium Actions ---
 try:
@@ -342,12 +425,12 @@ try:
     scroll_random_times(driver, min_scrolls=1, max_scrolls=4)
     time.sleep(random.uniform(1.5, 2))
 
-    #find a link method to unban
-    question_locator = (By.LINK_TEXT, "Best Methods to Avoid Detection When Posting the Same Video on Multiple IG Accounts?")
+    #find Instagram Account Creation - What's your thoughts? ?
+    question_locator = (By.LINK_TEXT, "Instagram Account Creation - What's your thoughts?")
     question_link = find_element_with_scroll(driver, question_locator)
     time.sleep(random.uniform(2, 3))
     click_element(driver, question_locator)
-    logger.info(f"Best Methods to Avoid Detection When Posting the Same Video on Multiple IG Accounts?")
+    logger.info(f"clicked on{question_locator}")
     time.sleep(random.uniform(2.5, 3))
 
     #scroll random after click on the link
@@ -362,6 +445,13 @@ try:
     output_file = os.path.join(log_directory,"post_content_and_replies.txt")
     extract_post_content(driver, output_file)
     logger.info(f"Post content extracted and saved to {output_file}")
+    # Extract content ONLY Main post
+    main_post_content = extract_main_post_content(driver)
+    # Check content read successfully before proceeding
+    if main_post_content:
+        generate_and_save_comment(main_post_content)
+    else:
+        logger.warning("Failed to read main post content from file.")
     
     time.sleep(2)
     driver.quit()
