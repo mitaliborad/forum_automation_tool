@@ -53,4 +53,5 @@ The API must be able to handle a variety of thread topics and comment styles.
 
 The API should avoid generating comment that is offensive, spammy, or irrelevant to the thread.
 
+
 The "better than existing comments" criteria is subjective but should be interpreted as adding genuine value to the conversation.

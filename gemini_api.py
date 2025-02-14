@@ -56,6 +56,7 @@ class GeminiHandler:
             logger.error(f"Error reading prompt file: {e}")
             return None
 
+
         # Combine the prompt with the thread content
         full_prompt = f"{prompt}\n\nThread Content:\n{thread_content}"
 

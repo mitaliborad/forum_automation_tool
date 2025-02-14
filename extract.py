@@ -326,7 +326,7 @@ def extract_post_content(driver, output_file):
                 # --- Extract Number of comments ONLY for Main Post & Structure Replies ---
                 if post_id == driver.find_element(By.XPATH, '//div[@class="message-userContent lbContainer js-lbContainer "][@data-lb-id]').get_attribute("data-lb-id"):
                     try:
-                        comments_elements = post_element.find_elements(By.XPATH, "//a[text()='Click to expand...']")
+                        comments_elements = post_element.find_elements(By.XPATH, ".//a[text()='Click to expand...']")
                         num_comments = len(comments_elements) 
                         
                         file.write(f"Number of comments: {num_comments}\n")
@@ -499,7 +499,7 @@ try:
     time.sleep(random.uniform(2, 3))
      
     #extract data and save in file
-    output_file = os.path.join(log_directory,"post_content_and_replies.txt")
+    output_file = os.path.join(log_directory,"post_content_and_replies4.txt")
     extract_post_content(driver, output_file)
     logger.info(f"Post content extracted and saved to {output_file}")
     time.sleep(random.uniform(2, 3))
@@ -517,8 +517,8 @@ try:
     
     comment = read_comment_from_file()
     time.sleep(random.uniform(2, 3))
-    if comment:
-        post_comment(driver,comment,write_delay=3)
+    #if comment:
+        #post_comment(driver,comment,write_delay=3)
 
     time.sleep(2)
     driver.quit()
