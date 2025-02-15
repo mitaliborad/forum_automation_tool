@@ -144,7 +144,8 @@ def find_like_buttons(driver):
             EC.presence_of_all_elements_located((By.XPATH, "//bdi[contains(text(), 'Like')]"))
         )
         logger.debug(f"Found {len(like_buttons)} like buttons.")
-        return like_buttons
+        likes_length = len(like_buttons)
+        return like_buttons, likes_length
     except Exception as e:
         logger.warning(f"Error finding like buttons: {e}", exc_info=True)
         return []
@@ -168,22 +169,28 @@ def click_like_button(driver, button, scroll_delay=2):
             logger.error(f"Failed to click like button after attempting ActionChains: {e}", exc_info=True)
             return False
 
-def like_random_posts(driver, min_likes=2, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=4, scroll_delay=3):
+
+def like_random_posts(driver, min_likes=1, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=5, scroll_delay=3):
     """Likes a random number of posts after scrolling randomly."""
-    liked_buttons = set()
+
+    scroll_random_times(driver, min_scrolls_posts, max_scrolls_posts, scroll_amount=500, scroll_delay=scroll_delay)
+    like_buttons, likes_length = find_like_buttons(driver) # Get the like buttons list and length
+
+    if not like_buttons:
+        logger.info("No like buttons found, skipping like_random_posts function...")
+        return # Exit if no buttons found
+
     total_likes = random.randint(min_likes, max_likes)
+
+    # Ensure we dont try to like more than available
+    total_likes = min(total_likes, likes_length)
+
+    liked_buttons = set()  # Tracks which buttons have already been liked (to avoid duplicates)
     time.sleep(scroll_delay)
-    logger.info(f"Attempting to like {total_likes} posts.")
+    logger.info(f"Attempting to like {total_likes} posts. There are {likes_length} available.")
 
     while len(liked_buttons) < total_likes:
-        scroll_random_times(driver, min_scrolls_posts, max_scrolls_posts, scroll_amount=500, scroll_delay=scroll_delay)
-        like_buttons = find_like_buttons(driver)
-
-        if not like_buttons:
-            logger.info("No like buttons found, scrolling again...")
-            continue
-
-        skip_interval = random.randint(2, 5)
+        skip_interval = random.randint(2, 5) # Randomly skip some buttons
         current_index = 0
 
         while current_index < len(like_buttons) and len(liked_buttons) < total_likes:
@@ -193,6 +200,7 @@ def like_random_posts(driver, min_likes=2, max_likes=4, min_scrolls_posts=1, max
                 logger.debug(f"Liked post number {len(liked_buttons)} of {total_likes}.")
                 time.sleep(random.uniform(4, 5))
             current_index += skip_interval
+
     logger.info(f"Liked {len(liked_buttons)} posts successfully.")
 
 def extract_element_text(element, xpath):
@@ -220,38 +228,10 @@ def extract_main_post_content(driver):
         logger.warning(f"Could not extract main post content. Error: {e}", exc_info=True)
         return None
 
-def generate_and_save_comment(main_post_content, output_file="comment.txt"):
-    """
-    Generates a comment using the Gemini API based on the main post content and
-    saves it to a text file.
-    """
-    try:
-        gemini_handler = GeminiHandler()
-        # Generate comments to one comment only.
-        comments = gemini_handler.get_comments(main_post_content,prompt_file="prompt.txt")
-
-        if comments:
-            logger.info("Successfully generated comments using Gemini API.")
-            try:
-                with open(output_file, "w", encoding="utf-8") as f:
-                    f.write(comments)
-                logger.info(f"Comment saved to '{output_file}'.")
-                return True
-            except Exception as e:
-                logger.error(f"Error saving comment to file: {e}", exc_info=True)
-                return False
-        else:
-            logger.warning("Failed to generate comment using Gemini API.")
-            return False
-
-    except Exception as e:
-        logger.error(f"An error occurred while generating comment: {e}", exc_info=True)
-        return False
-
 def extract_post_content(driver, output_file):
     """Extracts, processes, and saves post content and replies to a file."""
     try:
-        posts_locator = (By.XPATH, '//article[@class="message message--post js-post js-inlineModContainer   is-unread"]')
+        posts_locator = (By.CSS_SELECTOR, 'article[data-author]')
         WebDriverWait(driver, 10).until(EC.presence_of_element_located(posts_locator))
         all_posts_elements = driver.find_elements(*posts_locator)
 
@@ -266,7 +246,7 @@ def extract_post_content(driver, output_file):
             except Exception as e:
                 file.write(f"--- Main Post Title ---\nNo main post title found\n\n")
                 logging.warning(f"No main post title found. Error: {e}", exc_info=True)
-        
+
 
             for post_element in all_posts_elements:
                 try:
@@ -279,7 +259,7 @@ def extract_post_content(driver, output_file):
                     post_id = "No ID Found"
                     logging.error(f"Could not extract post ID. Error: {e}", exc_info=True) #Added exc_info
                     # print(f"Processing post with ID: {post_id} - Error: {e}")
-                
+
                 # --- Topic Username ---
                 topic_username = extract_element_text(post_element, ".//h4//a//span")
                 file.write(f"Topic User: {topic_username}\n")
@@ -292,7 +272,7 @@ def extract_post_content(driver, output_file):
 
                 #likes count
                 try:
-                    like_user_element = WebDriverWait(post_element, 3).until(EC.presence_of_element_located((By.XPATH, ".//a[@class='reactionsBar-link']")))
+                    like_user_element = WebDriverWait(post_element, 3).until(EC.presence_of_element_located((By.XPATH, ".//a[@data-xf-click='overlay'][bdi]")))
                     like_user_text = like_user_element.text.strip()
 
                     # Split by commas and "and" to separate usernames and the "and X others" part.
@@ -321,17 +301,17 @@ def extract_post_content(driver, output_file):
                     file.write("Liked by: No user likes\n")
                     file.write("Number of likes: 0\n")
                     logging.debug(f"No user likes were found: {e}", exc_info=True) #Added exception
-                
+
 
                 # --- Extract Number of comments ONLY for Main Post & Structure Replies ---
-                if post_id == driver.find_element(By.XPATH, '//div[@class="message-userContent lbContainer js-lbContainer "][@data-lb-id]').get_attribute("data-lb-id"):
+                if post_id == driver.find_element(By.XPATH, "//div[@data-lb-id and contains(@data-lb-id, 'post-')]").get_attribute("data-lb-id"):
                     try:
                         comments_elements = post_element.find_elements(By.XPATH, ".//a[text()='Click to expand...']")
-                        num_comments = len(comments_elements) 
-                        
+                        num_comments = len(comments_elements)
+
                         file.write(f"Number of comments: {num_comments}\n")
                         logging.debug(f"Number of comments: {num_comments}")
-                    
+
                     except Exception as e:
                         file.write("Number of comments: 0\n")
                         logging.debug(f"No reply was found: {e}", exc_info=True)
@@ -342,8 +322,8 @@ def extract_post_content(driver, output_file):
                 # Structure Replies
                 file.write("-----\n\n")
                 file.write("Replies:\n\n\n")
-                
-                
+
+
 
     except Exception as e:
         logging.critical(f"General error in extract_post_content: {e}", exc_info=True)  #Critical Error
@@ -361,7 +341,7 @@ def read_thread_content(file_path):
         logger.error(f"Error reading thread content file: {e}", exc_info=True)
         return None
 
-def generate_and_save_comments(thread_content, output_file="comments.txt"):
+def generate_and_save_comments(thread_content, output_file):
     """Generates comments using the Gemini API and saves them to a text file."""
     try:
         gemini_handler = GeminiHandler()
@@ -374,30 +354,17 @@ def generate_and_save_comments(thread_content, output_file="comments.txt"):
                 with open(output_file, "w", encoding="utf-8") as f:
                     f.write(comments)
                 logger.info(f"Comment saved to '{output_file}'.")
-                return True
+                return comments
+            
             except Exception as e:
                 logger.error(f"Error saving comment to file: {e}", exc_info=True)
-                return False
+                return None
         else:
             logger.warning("Failed to generate comment using Gemini API.")
-            return False
+            return None
 
     except Exception as e:
         logger.error(f"An error occurred while generating comment: {e}", exc_info=True)
-        return False
-    
-def read_comment_from_file(comment_file="comment.txt"):
-    """Reads the comment from the comment.txt file."""
-    try:
-        with open(comment_file, "r", encoding="utf-8") as f:
-            comment = f.read().strip()
-        logger.info(f"Read comment from '{comment_file}': {comment}")
-        return comment
-    except FileNotFoundError:
-        logger.error(f"Comment file '{comment_file}' not found.")
-        return None
-    except Exception as e:
-        logger.error(f"Error reading comment file: {e}", exc_info=True)
         return None
 
 def post_comment(driver, comment,write_delay=3):
@@ -412,10 +379,11 @@ def post_comment(driver, comment,write_delay=3):
         write_comment_locator = (By.XPATH,"//span[contains(text(), 'Write your reply...')]")
         logger.debug(f"Searching for text box with locator: {write_comment_locator}")
         write_comment = find_element_with_scroll(driver,write_comment_locator)
+
         # 2. find post_reply button
         post_reply = driver.find_element(By.XPATH,"//span[contains(text(),'Post reply')]")
         if write_comment:
-      
+
             try:
                 element = WebDriverWait(driver,10).until(EC.element_to_be_clickable(write_comment_locator))
                 logger.debug(f"Text box is clickable using element_to_be_clickable with locator : {write_comment_locator}")
@@ -425,6 +393,21 @@ def post_comment(driver, comment,write_delay=3):
 
                 logger.debug("Initializing actionchains")
                 actions = ActionChains(driver)
+
+                 # Get the location and size of the post_reply button
+                location = post_reply.location
+                size = post_reply.size
+                logger.debug(f"Post reply Element location: {location}, size: {size}")
+
+                # Calculate center coordinates of the button
+                target_x = location['x'] + size['width'] // 2
+                target_y = location['y'] + size['height'] // 2
+                logger.debug(f"Target click coordinates: ({target_x}, {target_y})")
+
+                 # Move the mouse using move_mouse_with_curve
+                move_mouse_with_curve(target_x, target_y)
+                logger.debug("Moved mouse to target location using bezier curve.")
+
                 actions.move_to_element(element)
                 logger.debug("Moving mouse to text box element.")
 
@@ -444,14 +427,14 @@ def post_comment(driver, comment,write_delay=3):
                 logger.info("Successfully wrote into text box using ActionChains and click.")
 
                 time.sleep(4)
-            
+
 
             except Exception as e:
                 logger.error(f"Error posting comment: {e}", exc_info=True)
                 return False
     except Exception as e:
            logger.error(f"Error interacting with the text box: {e}")
-    
+
 def find_random_thread_link(driver):
     """Finds a random thread link on the current page."""
     try:
@@ -464,20 +447,56 @@ def find_random_thread_link(driver):
 
         random_link = random.choice(thread_links)
         href = random_link.get_attribute("href")
+
+        # Get the location and size of the element
+        location = random_link.location
+        size = random_link.size
+        logger.debug(f"Element location: {location}, size: {size}")
+
+        # Calculate center coordinates of the link element
+        target_x = location['x'] + size['width'] // 2
+        target_y = location['y'] + size['height'] // 2
+        logger.debug(f"Target click coordinates: ({target_x}, {target_y})")
+
+         # Move the mouse using move_mouse_with_curve
+        move_mouse_with_curve(target_x, target_y)
+        logger.debug("Moved mouse to target location using bezier curve.")
+        
         logger.info(f"Selected random thread link: {href}")
         return href
     except Exception as e:
         logger.error(f"Error finding random thread link: {e}", exc_info=True)
         return None
-    
+
+def get_thread_title(driver):
+    """Extracts the thread title from the page."""
+    try:
+        title_element = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, '//div//h1'))
+        )
+        thread_title = title_element.text.strip()
+        # Sanitize the title to remove invalid characters for filenames
+        thread_title = re.sub(r'[\\/*?:"<>|]', "", thread_title)
+        logger.info(f"Extracted thread title: {thread_title}")
+        return thread_title
+    except Exception as e:
+        logger.warning(f"Could not extract thread title. Error: {e}", exc_info=True)
+        return "Untitled Thread"
+
 # --- Selenium Actions ---
 try:
-    
-    #find social networking link
+
+    # 1. Define the base directories
+    thread_details_dir = "Thread-Details"
+    thread_content_dir = os.path.join(thread_details_dir, "Thread Content")
+    api_comments_dir = os.path.join(thread_details_dir, "API Comments")
+
+    # 2. scroll random times
     scroll_random_times(driver)
 
-    # 1. Navigate to a random thread
+    # 3. Navigate to a random thread
     thread_link = find_random_thread_link(driver)
+    
     if thread_link:
         time.sleep(random.uniform(2, 3))
         driver.get(thread_link)
@@ -488,37 +507,55 @@ try:
         driver.quit()  # Or handle the situation differently
         exit()  # Stop further execution
 
-    #scroll random after click on the link
+    # 4. Extract thread title
+    thread_title = get_thread_title(driver)
+
+    # 5. scroll random after click on the link
     scroll_random_times(driver, min_scrolls=2, max_scrolls=4, scroll_delay=2)
     time.sleep(random.uniform(2, 3))
-    
-    #like_random posts, random times
-    like_random_posts(driver, min_likes=2, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=3, scroll_delay=3)
-    
+
+    # 6. like_random posts, random times
+    like_random_posts(driver, min_likes=1, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=4, scroll_delay=3)
+
     scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_delay=3)
     time.sleep(random.uniform(2, 3))
-     
-    #extract data and save in file
-    output_file = os.path.join(log_directory,"post_content_and_replies4.txt")
-    extract_post_content(driver, output_file)
-    logger.info(f"Post content extracted and saved to {output_file}")
+
+    # 7. Extract post content and save to file
+    thread_content_file = os.path.join(thread_content_dir, f"{thread_title}.txt")
+    extract_post_content(driver, thread_content_file)
+    logger.info(f"Post content extracted and saved to {thread_content_file}")
     time.sleep(random.uniform(2, 3))
 
-    # Extract content ONLY Main post
+    # 8. Extract main post content
     main_post_content = extract_main_post_content(driver)
     time.sleep(random.uniform(2, 3))
 
-    # Check content read successfully before proceeding
+    # 9. Generate and save comment
     if main_post_content:
-        generate_and_save_comment(main_post_content)
-            
+        comment = generate_and_save_comments(main_post_content, os.path.join(api_comments_dir, "temp_comment.txt"))  # Save to a temporary file
+        if comment:
+            # Sanitize the comment for use in the filename
+            sanitized_comment = re.sub(r'[\\/*?:"<>|]', "", comment[:50])  # Take the first 50 characters
+            api_comment_file = os.path.join(api_comments_dir, f"{thread_title}_{sanitized_comment}.txt")
+            os.rename(os.path.join(api_comments_dir, "temp_comment.txt"), api_comment_file)  # Rename the temporary file
+            logger.info(f"API comment generated and saved to {api_comment_file}")
+        else:
+            logger.warning("Failed to generate comment, skipping saving.")
     else:
-        logger.warning("Failed to read main post content from file.")
-    
-    comment = read_comment_from_file()
+        logger.warning("Failed to extract main post content, skipping comment generation.")
+
+    # 10. Read the generated comment
+    comment_file = os.path.join(api_comments_dir, f"{thread_title}_{sanitized_comment}.txt") # Use the new filename
+    comment = read_thread_content(comment_file)
     time.sleep(random.uniform(2, 3))
-    #if comment:
-        #post_comment(driver,comment,write_delay=3)
+
+    # 11. Post the comment (uncomment when ready, and ensure it is working)
+    if comment:
+        post_comment(driver, comment, write_delay=3)
+        logger.info("Comment posted successfully.")
+    else:
+        logger.warning("No comment available to post.")
+
 
     time.sleep(2)
     driver.quit()
