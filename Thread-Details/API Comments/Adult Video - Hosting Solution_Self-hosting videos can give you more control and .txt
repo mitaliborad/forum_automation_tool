@@ -1,0 +1,1 @@
+Self-hosting videos can give you more control and flexibility. Look into video hosting solutions like Amazon S3 or Google Cloud Storage for storing your videos, and embed the videos on your website using a media player that supports streaming.

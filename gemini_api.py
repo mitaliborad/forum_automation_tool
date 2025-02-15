@@ -46,6 +46,7 @@ class GeminiHandler:
         Reads a prompt from a file, combines it with the thread content,
         sends it to the Gemini API, and returns the generated comments.
         """
+        
         try:
             with open(prompt_file, "r", encoding="utf-8") as f:
                 prompt = f.read().strip()

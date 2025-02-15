@@ -53,20 +53,24 @@ def bezier_curve(p0, p1, p2, t):
 
 def generate_bezier_path(start, end, num_points=50):
     """Generates a path of points following a Bezier curve."""
+    logger.debug(f"Generating Bezier path from {start} to {end} with {num_points} points.")
     control_point = (
         start[0] + random.randint(-100, 100),
         start[1] + random.randint(-100, 100)
     )
+    logger.debug(f"Control point: {control_point}")
     path = []
     for i in range(num_points):
         t = i / (num_points - 1)
         point = bezier_curve(np.array(start), np.array(control_point), np.array(end), t)
         path.append((int(point[0]), int(point[1])))
+    logger.debug(f"Generated Bezier path with {len(path)} points.")
     return path
 
 def move_mouse_with_curve(target_x, target_y, base_speed=0.001):
     """Moves the mouse along a Bezier curve to the target coordinates."""
     current_x, current_y = mouse.position
+    logger.debug(f"Moving mouse from ({current_x}, {current_y}) to ({target_x}, {target_y}).")
     path = generate_bezier_path((current_x, current_y), (target_x, target_y))
     for x, y in path:
         speed = base_speed * random.uniform(0.8, 1.5)
@@ -75,6 +79,8 @@ def move_mouse_with_curve(target_x, target_y, base_speed=0.001):
         time.sleep(delay)
         mouse.position = (x, y)
         current_x, current_y = x, y
+        logger.debug(f"Moved mouse to ({x}, {y}), delay: {delay:.4f}")  # Log each intermediate position
+    logger.info(f"Successfully moved mouse to ({target_x}, {target_y}) using Bezier curve.")
 
 # --- Selenium Setup ---
 opt = Options()
@@ -217,9 +223,11 @@ def extract_element_text(element, xpath):
 def extract_main_post_content(driver):
     """Extracts only the main post content from the thread."""
     try:
-        # Locate the main post element.  Adjust the XPath if needed.
+        # Locate the main post element.
+        main_post_locator = (By.XPATH, '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+        logger.debug(f"Attempting to locate main post element with locator: {main_post_locator}")
         main_post_element = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.XPATH, '//div[@class="message-content js-messageContent"]'))
+            EC.presence_of_element_located(main_post_locator)
         )
         main_post_text = main_post_element.text.strip()
         logger.debug(f"Extracted main post content: {main_post_text}")
@@ -254,7 +262,7 @@ def extract_post_content(driver, output_file):
                     link_element = post_element.find_element(By.XPATH, ".//div[@data-lb-id]")
                     post_id = link_element.get_attribute("data-lb-id")
                     logging.info(f"Processing post with ID: {post_id}") #Log the post Id's as they proccess
-                    # print(f"Processing post with ID: {post_id}")
+                    # print(f"Processing post with ID: {post_id} - Error: {e}")
                 except Exception as e:
                     post_id = "No ID Found"
                     logging.error(f"Could not extract post ID. Error: {e}", exc_info=True) #Added exc_info
@@ -266,13 +274,16 @@ def extract_post_content(driver, output_file):
                 logging.debug(f"Topic User: {topic_username}")
 
                 # --- Topic Text ---
-                topic = extract_element_text(post_element, ".//div[@class='message-content js-messageContent']")
+                #New Locator
+                topic_locator = ".//div[@class='message-content js-messageContent']"
+                topic = extract_element_text(post_element, topic_locator)
                 file.write(f"Topic: {topic}\n")
                 logging.debug(f"Topic: {topic}")
-
-                #likes count
+                 # ---likes count---
                 try:
-                    like_user_element = WebDriverWait(post_element, 3).until(EC.presence_of_element_located((By.XPATH, ".//a[@data-xf-click='overlay'][bdi]")))
+                    #New Locator
+                    like_user_locator = ".//a[@data-xf-click='overlay'][bdi]"
+                    like_user_element = WebDriverWait(post_element, 3).until(EC.presence_of_element_located((By.XPATH, like_user_locator)))
                     like_user_text = like_user_element.text.strip()
 
                     # Split by commas and "and" to separate usernames and the "and X others" part.
@@ -532,7 +543,7 @@ try:
 
     # 9. Generate and save comment
     if main_post_content:
-        comment = generate_and_save_comments(main_post_content, os.path.join(api_comments_dir, "temp_comment.txt"))  # Save to a temporary file
+        comment = generate_and_save_comments(main_post_content, os.path.join(api_comments_dir, "temp_comment.txt")) # Save to a temporary file
         if comment:
             # Sanitize the comment for use in the filename
             sanitized_comment = re.sub(r'[\\/*?:"<>|]', "", comment[:50])  # Take the first 50 characters
