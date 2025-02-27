@@ -1,0 +1,692 @@
+--- Main Post Title ---
+[Step by Step Guide] Meta Verified VPN Method Outside US, AUS, NZ & UK
+
+Topic User: nakamura
+Topic: Bad news for all the scammers who want to charge you money for this method, in this thread I am showing you how to get Meta Verified with a VPN/Proxy even if you are outside the US, Australia, New Zealand, or the United Kingdom. Exclusively on BHW. Not on Reddit (where all the clueless guys had no idea what they are talking about) or somewhere else.
+
+First of all, I want to say: I find it quite amazing no one on the internet figured this out or is willing to share this method. Is it such a secret? Or do they just want to make money by offering their Meta Verified service?
+
+I am a simple guy: I want something, I take action and I keep testing until I succeed. This is how I succeeded in SEO and also in making mobile apps. Giving up is never an option. Especially not against big tech companies like Google or Meta.
+
+Here is my account that I just verified on Instagram using Meta Verified:
+
+
+It's German, but you can probably guess what it means. My account location still didn't update on the app (internally on Meta's servers, it did update) and you can also see it is May 2023.
+
+
+Also, I need to say: At some point, it wasn't really about getting Meta Verified. It was about challenging Meta because I noticed how hard they try to actually prevent people from changing their account location. They probably do it to protect advertisers. I mean, they don't want you to see advertising which targets people in the US, if you are not physically in the US. That makes sense, right? However, some users on here are right, there is actually no benefit to Meta Verified. I mean, Meta removed the most important feature of getting an increased reach. Who needs support for Instagram? I don't. I also don't need exclusive stickers.
+
+Before we get into it, here is what NOT works:
+
+Taking your phone, download NordVPN, ExpressVPN, or any other mainstream VPN provider, changing your location to the US, Australia, NZ, or UK, opening Instagram, follow a few American people or companies, tagging US cities in your IG stories, and waiting until the Meta Verified option shows up.
+
+It won't work. It is not that easy. You have to understand what metadata these companies are collecting and how they are collecting them.
+
+Meta itself is not really transparent about this, the same as Google. Of course, they are not transparent. If they would be transparent, no one would use them at all. They write stuff like: Based on your user behavior (for example likes, tagged locations, etc.), but this is only half the truth. I found out: User behavior plays no role at all.
+
+It is important to follow the instructions. Read carefully! If you make a mistake, for example, your proxy/app turns off and your Instagram account connects to your original location, you will probably not get the Meta Verified option.
+
+Here is what you will need:
+
+- Second phone (can be an old phone that you don't use anymore. I used my old iPhone 7)
+- 4G Mobile Proxy
+- App or software to spoof your location/GPS, no jailbreak or root required
+- An app to connect to the 4G Mobile Proxy (I used Shadowrocket for iOS. It is a paid app, but I am sure there are free ones as well)
+- 7 days of patience
+
+Let me explain in detail:
+
+Second phone:
+
+I installed all apps on it. Why? Because whenever another app has the Meta SDK integrated, it is sending your information to Meta. We don't want it. So installed all apps and only kept the standard apps.
+
+The main reason for the second phone: We are not going to use this phone. Its whole purpose is to be at your home, connected to your home's wifi, connected to the 4G mobile proxy, spoof the location, and have Instagram on it with your IG account being logged in.
+
+Important: Remove the sim card! One of the key factors Meta is finding out where you are by checking your mobile network provider. So, if you are in Thailand, you are probably using DTAC, TrueMove, AIS, or whatever. When they see you are using DTAC, they know you are in Thailand. The same goes for other countries. Remove your sim card. Don't be connected to the internet using your sim card. Only use Wifi.
+
+Your phone settings:
+
+Make sure you are changing your timezone, region and the language of your phone to the location of your 4G Mobile Proxy. Yes, Meta can see the settings of your phone. They can see your time zone and all the other settings. If you spoofing your connection in the US and your IP is from the US, but your time zone is in India, it is a huge red flag.
+
+For iOS: The region of your Apple ID doesn't matter. I was logged in and also subscribed to Meta Verified using my German Apple ID. So, it doesn't matter.
+
+4G Mobile Proxy:
+
+First I used another VPN provider for a private residential IP address, and I was connected for 16 days until I found out Instagram changed to my original location (Thailand), so it wasn't working at first. I was quite pissed because I wasted 16 days, but then I changed my approach, started to use my second phone, removed the sim card, and bought a 4G Mobile Proxy from SmartProxy.com (ref link). Someone here on BHW mentioned it, so I gave it a try.
+
+On SmartProxy you can choose your settings. Here are my settings:
+
+
+
+Location: USA
+ASN: AT&T (you can also use T-Mobile or another one)
+OS: IOS (cuz I used an iPhone)
+Session: Sticky (30 minutes)
+
+First I was worried because the connection and location of the IP would change every 30 minutes. I thought a static 4G proxy would be better, but seems like it doesn't matter. I used Shadowrocket to connect to the 4G Mobile Proxy.
+
+Important: I am not a proxy expert, I am sure there are many more informed guys on here, but as far as I understood is: If I set up the proxy directly in my Wifi connection on my iPhone's settings, it only works for the browser. But if I use an app (like Shadowrocket) the proxy will work for applications like Instagram, etc.
+
+Then I went to Whatismyipaddress.com and checked my IP and location while being connected to the 4G mobile proxy on Shadowrocket:
+
+
+
+Location and IP changed.
+
+But I was afraid this is not enough, this is why I decided to spoof my GPS on my iPhone 7. Before what I did was: Turn off the location service for Instagram. So they wouldn't be able to access my location. But I thought this could be a red flag, so I decided to spoof my GPS.
+
+Spoof GPS / Location
+
+I really don't want to go through the trouble of jailbreaking my iPhone 7, so I was looking for an alternative and I found iMyFone AnyTo. This software lets you change the GPS data of your phone. For the playboys on here: It also works for Tinder and Bumble. . I changed the location to the location of my 4G Mobile Proxy. Yes, I am aware the location of the 4G mobile proxy changes every 30 minutes but turns out it is not a problem. Just setting it to the US (like New York) was enough.
+
+This software also has a free trial. So just give it a try. It also works for Android. Connect it via USB or Wifi. From what I saw the location won't change until you restart your phone.
+
+
+
+Logging in and managing Instagram
+
+Finally, I logged into my Instagram account I wanted to get the Meta Verified option.
+
+First thing I did was checking if Instagram actually logged the "correct" location of my phone. For this I navigated to:
+Profile -> Settings and privacy -> Accounts center -> Password and security -> Where you're logged in -> Press on Instagram.
+
+
+
+Nope, I am not in the US. I am in Thailand. But because of Shadowrocket, iMyFone AnyTo, and SmartProxy, it shows cities in the US for both my main phone (iPhone 14 Pro) and my second phone (iPhone 7) I used to get Meta Verified.
+
+Besides this, I really didn't do much on Instagram. Checked it twice per day, liked some pics, watched some stories, and replied to some messages. Thats it. Really nothing special.
+
+After exactly (!) 7 days I logged in and saw this:
+
+
+
+The Meta Verified option shows up on my profile settings.
+
+
+
+Keep in mind: I am not using Facebook. I only use Instagram. I am sure this method will also work for Facebook. But I don't want to get verified on Facebook. Who wants to get verified on Facebook? Some boomer who plays Coin Master and raids his friends' villages every hour? Nope.
+
+Now, here is something important. When you sign up for Meta Verified, you need to take this into consideration:
+
+- Your profile needs to have your REAL NAME on it. Means: Same name as on your passport, ID, or driver's license.
+- Your profile picture needs to show your face clearly (!) and you should have some pics of your face posted in your Instagram account
+- You have to set up 2FA
+- You need to take a picture of your passport, ID, or driver's license.
+
+But before you come to this step, they will make you pay. I paid 17,99€. I told you, I use a German Apple ID. So, it is in Euro. Yes, my passport is also from Germany.
+
+The whole Meta Verified option is based only (!) on your account location. It doesn't matter where you come from, what passport you got, your Apple ID country, or whatever. I saw a lot of misinformation about this.
+
+
+
+I double-checked my account to see if it fits their requirement, took a pic of my passport, and sent it to review. It took them 40 minutes to review it and then I saw the blue Instagram verification badge and they sent me a notification.
+
+I tested this method on two different accounts. Both times it worked. Both times it took exactly 7 days until Meta Verified was available.
+
+TL;DR Step-by-Step Guide:
+
+1. Get a second phone, change your time zone, region and language, remove the sim card, deinstall all apps, connect to your homes wifi
+2. Get a 4G mobile proxy, connect to the proxy, spoof your location/GPS using an app or software. Make sure the 4g proxy is ALWAYS connected.
+3. Double-check your connection (for example Whatismyipaddress.com)
+4. Download Instagram and log in
+5. Be logged in there all the time, open the app twice a day
+6. Wait for at least 7 days
+7. Reopen your app, check your Instagram app and open the profile settings
+8. Subscribe to Meta Verified
+
+Again, please read carefully before you use the method. If it doesn't work for you, you probably did something wrong.
+
+If you have any questions, please let me know. But please don't ask me questions that this post already answered.
+
+Cheers,
+
+your Instagram blue tick wanker VIP guy Nakamura
+***NEW*** [Method] Rank & Earn Money with 50+ Mobile Apps & Games
+Liked by: back2form, condorxxx, j1passion and 42 others
+Number of likes: 45
+Number of comments: 0
+-----
+
+Replies:
+
+
+Topic User: btc928
+Topic: nakamura said:
+Bad news for all the scammers who want to charge you money for this method, in this thread I am showing you how to get Meta Verified with a VPN/Proxy even if you are outside the US, Australia, New Zealand, or the United Kingdom. Exclusively on BHW. Not on Reddit (where all the clueless guys had no idea what they are talking about) or somewhere else.
+
+First of all, I want to say: I find it quite amazing no one on the internet figured this out or is willing to share this method. Is it such a secret? Or do they just want to make money by offering their Meta Verified service?
+
+I am a simple guy: I want something, I take action and I keep testing until I succeed. This is how I succeeded in SEO and also in making mobile apps. Giving up is never an option. Especially not against big tech companies like Google or Meta.
+
+
+
+
+It's German, but you can probably guess what it means. My account location still didn't update on the app (internally on Meta's servers, it did update) and you can also see it is May 2023.
+
+
+Also, I need to say: At some point, it wasn't really about getting Meta Verified. It was about challenging Meta because I noticed how hard they try to actually prevent people from changing their account location. They probably do it to protect advertisers. I mean, they don't want you to see advertising which targets people in the US, if you are not physically in the US. That makes sense, right? However, some users on here are right, there is actually no benefit to Meta Verified. I mean, Meta removed the most important feature of getting an increased reach. Who needs support for Instagram? I don't. I also don't need exclusive stickers.
+
+Before we get into it, here is what NOT works:
+
+Taking your phone, download NordVPN, ExpressVPN, or any other mainstream VPN provider, changing your location to the US, Australia, NZ, or UK, opening Instagram, follow a few American people or companies, tagging US cities in your IG stories, and waiting until the Meta Verified option shows up.
+
+
+
+Meta itself is not really transparent about this, the same as Google. Of course, they are not transparent. If they would be transparent, no one would use them at all. They write stuff like: Based on your user behavior (for example likes, tagged locations, etc.), but this is only half the truth. I found out: User behavior plays no role at all.
+
+It is important to follow the instructions. Read carefully! If you make a mistake, for example, your proxy/app turns off and your Instagram account connects to your original location, you will probably not get the Meta Verified option.
+
+
+
+- Second phone (can be an old phone that you don't use anymore. I used my old iPhone 7)
+- 4G Mobile Proxy
+- App or software to spoof your location/GPS, no jailbreak or root required
+- An app to connect to the 4G Mobile Proxy (I used Shadowrocket for iOS. It is a paid app, but I am sure there are free ones as well)
+- 7 days of patience
+
+Let me explain in detail:
+
+
+
+I installed all apps on it. Why? Because whenever another app has the Meta SDK integrated, it is sending your information to Meta. We don't want it. So installed all apps and only kept the standard apps.
+
+We are not going to use this phone. Its whole purpose is to be at your home, connected to your home's wifi, connected to the 4G mobile proxy, spoof the location, and have Instagram on it with your IG account being logged in.
+
+Remove the sim card! One of the key factors Meta is finding out where you are by checking your mobile network provider. So, if you are in Thailand, you are probably using DTAC, TrueMove, AIS, or whatever. When they see you are using DTAC, they know you are in Thailand. The same goes for other countries. Remove your sim card. Don't be connected to the internet using your sim card. Only use Wifi.
+
+
+
+Make sure you are changing your timezone, region and the language of your phone to the location of your 4G Mobile Proxy. Yes, Meta can see the settings of your phone. They can see your time zone and all the other settings. If you spoofing your connection in the US and your IP is from the US, but your time zone is in India, it is a huge red flag.
+
+The region of your Apple ID doesn't matter. I was logged in and also subscribed to Meta Verified using my German Apple ID. So, it doesn't matter.
+
+
+
+First I used another VPN provider for a private residential IP address, and I was connected for 16 days until I found out Instagram changed to my original location (Thailand), so it wasn't working at first. I was quite pissed because I wasted 16 days, but then I changed my approach, started to use my second phone, removed the sim card, and bought a 4G Mobile Proxy from http://dashboard.smartproxy.com/register?referral_code=c57975bea22d262f946abb6f1838b5c1fe855df2 (ref link). Someone here on BHW mentioned it, so I gave it a try.
+
+On SmartProxy you can choose your settings. Here are my settings:
+
+
+
+Location: USA
+ASN: AT&T (you can also use T-Mobile or another one)
+OS: IOS (cuz I used an iPhone)
+Session: Sticky (30 minutes)
+
+First I was worried because the connection and location of the IP would change every 30 minutes. I thought a static 4G proxy would be better, but seems like it doesn't matter. I used Shadowrocket to connect to the 4G Mobile Proxy.
+
+Important: I am not a proxy expert, I am sure there are many more informed guys on here, but as far as I understood is: If I set up the proxy directly in my Wifi connection on my iPhone's settings, it only works for the browser. But if I use an app (like Shadowrocket) the proxy will work for applications like Instagram, etc.
+
+Then I went to Whatismyipaddress.com and checked my IP and location while being connected to the 4G mobile proxy on Shadowrocket:
+
+
+
+Location and IP changed.
+
+But I was afraid this is not enough, this is why I decided to spoof my GPS on my iPhone 7. Before what I did was: Turn off the location service for Instagram. So they wouldn't be able to access my location. But I thought this could be a red flag, so I decided to spoof my GPS.
+
+
+
+I really don't want to go through the trouble of jailbreaking my iPhone 7, so I was looking for an alternative and I found iMyFone AnyTo. This software lets you change the GPS data of your phone. For the playboys on here: It also works for Tinder and Bumble. . I changed the location to the location of my 4G Mobile Proxy. Yes, I am aware the location of the 4G mobile proxy changes every 30 minutes but turns out it is not a problem. Just setting it to the US (like New York) was enough.
+
+This software also has a free trial. So just give it a try. It also works for Android. Connect it via USB or Wifi. From what I saw the location won't change until you restart your phone.
+
+
+
+Logging in and managing Instagram
+
+Finally, I logged into my Instagram account I wanted to get the Meta Verified option.
+
+First thing I did was checking if Instagram actually logged the "correct" location of my phone. For this I navigated to:
+Profile -> Settings and privacy -> Accounts center -> Password and security -> Where you're logged in -> Press on Instagram.
+
+
+
+Nope, I am not in the US. I am in Thailand. But because of Shadowrocket, iMyFone AnyTo, and SmartProxy, it shows cities in the US for both my main phone (iPhone 14 Pro) and my second phone (iPhone 7) I used to get Meta Verified.
+
+Besides this, I really didn't do much on Instagram. Checked it twice per day, liked some pics, watched some stories, and replied to some messages. Thats it. Really nothing special.
+
+After exactly (!) 7 days I logged in and saw this:
+
+
+
+The Meta Verified option shows up on my profile settings.
+
+
+
+Keep in mind: I am not using Facebook. I only use Instagram. I am sure this method will also work for Facebook. But I don't want to get verified on Facebook. Who wants to get verified on Facebook? Some boomer who plays Coin Master and raids his friends' villages every hour? Nope.
+
+Now, here is something important. When you sign up for Meta Verified, you need to take this into consideration:
+
+- Your profile needs to have your REAL NAME on it. Means: Same name as on your passport, ID, or driver's license.
+- Your profile picture needs to show your face clearly (!) and you should have some pics of your face posted in your Instagram account
+- You have to set up 2FA
+- You need to take a picture of your passport, ID, or driver's license.
+
+But before you come to this step, they will make you pay. I paid 17,99€. I told you, I use a German Apple ID. So, it is in Euro. Yes, my passport is also from Germany.
+
+The whole Meta Verified option is based only (!) on your account location. It doesn't matter where you come from, what passport you got, your Apple ID country, or whatever. I saw a lot of misinformation about this.
+
+
+
+I double-checked my account to see if it fits their requirement, took a pic of my passport, and sent it to review. It took them 40 minutes to review it and then I saw the blue Instagram verification badge and they sent me a notification.
+
+
+
+
+
+1. Get a second phone, change your time zone, region and language, remove the sim card, deinstall all apps, connect to your homes wifi
+2. Get a 4G mobile proxy, connect to the proxy, spoof your location/GPS using an app or software. Make sure the 4g proxy is ALWAYS connected.
+3. Double-check your connection (for example Whatismyipaddress.com)
+4. Download Instagram and log in
+5. Be logged in there all the time, open the app twice a day
+6. Wait for at least 7 days
+7. Reopen your app, check your Instagram app and open the profile settings
+8. Subscribe to Meta Verified
+
+Again, please read carefully before you use the method. If it doesn't work for you, you probably did something wrong.
+
+If you have any questions, please let me know. But please don't ask me questions that this post already answered.
+
+Cheers,
+
+your Instagram blue tick wanker VIP guy Nakamura
+Click to expand...
+did you join this "waitlist for meta verified" in instagram while whole process?
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: btc928 said:
+did you join this "waitlist for meta verified" in instagram while whole process?
+I joined it before.
+
+Oh yeah, here is a link to the waiting list, forgot to mention it:
+
+https://help.instagram.com/contact/927158401651548https://about.meta.com/technologies/meta-verified/
+Liked by: blackrabbit24
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: iomichiamore
+Topic: nakamura said:
+Bad news for all the scammers who want to charge you money for this method, in this thread I am showing you how to get Meta Verified with a VPN/Proxy even if you are outside the US, Australia, New Zealand, or the United Kingdom. Exclusively on BHW. Not on Reddit (where all the clueless guys had no idea what they are talking about) or somewhere else.
+
+First of all, I want to say: I find it quite amazing no one on the internet figured this out or is willing to share this method. Is it such a secret? Or do they just want to make money by offering their Meta Verified service?
+
+I am a simple guy: I want something, I take action and I keep testing until I succeed. This is how I succeeded in SEO and also in making mobile apps. Giving up is never an option. Especially not against big tech companies like Google or Meta.
+
+
+
+
+It's German, but you can probably guess what it means. My account location still didn't update on the app (internally on Meta's servers, it did update) and you can also see it is May 2023.
+
+
+Also, I need to say: At some point, it wasn't really about getting Meta Verified. It was about challenging Meta because I noticed how hard they try to actually prevent people from changing their account location. They probably do it to protect advertisers. I mean, they don't want you to see advertising which targets people in the US, if you are not physically in the US. That makes sense, right? However, some users on here are right, there is actually no benefit to Meta Verified. I mean, Meta removed the most important feature of getting an increased reach. Who needs support for Instagram? I don't. I also don't need exclusive stickers.
+
+Before we get into it, here is what NOT works:
+
+Taking your phone, download NordVPN, ExpressVPN, or any other mainstream VPN provider, changing your location to the US, Australia, NZ, or UK, opening Instagram, follow a few American people or companies, tagging US cities in your IG stories, and waiting until the Meta Verified option shows up.
+
+
+
+Meta itself is not really transparent about this, the same as Google. Of course, they are not transparent. If they would be transparent, no one would use them at all. They write stuff like: Based on your user behavior (for example likes, tagged locations, etc.), but this is only half the truth. I found out: User behavior plays no role at all.
+
+It is important to follow the instructions. Read carefully! If you make a mistake, for example, your proxy/app turns off and your Instagram account connects to your original location, you will probably not get the Meta Verified option.
+
+
+
+- Second phone (can be an old phone that you don't use anymore. I used my old iPhone 7)
+- 4G Mobile Proxy
+- App or software to spoof your location/GPS, no jailbreak or root required
+- An app to connect to the 4G Mobile Proxy (I used Shadowrocket for iOS. It is a paid app, but I am sure there are free ones as well)
+- 7 days of patience
+
+Let me explain in detail:
+
+
+
+I installed all apps on it. Why? Because whenever another app has the Meta SDK integrated, it is sending your information to Meta. We don't want it. So installed all apps and only kept the standard apps.
+
+We are not going to use this phone. Its whole purpose is to be at your home, connected to your home's wifi, connected to the 4G mobile proxy, spoof the location, and have Instagram on it with your IG account being logged in.
+
+Remove the sim card! One of the key factors Meta is finding out where you are by checking your mobile network provider. So, if you are in Thailand, you are probably using DTAC, TrueMove, AIS, or whatever. When they see you are using DTAC, they know you are in Thailand. The same goes for other countries. Remove your sim card. Don't be connected to the internet using your sim card. Only use Wifi.
+
+
+
+Make sure you are changing your timezone, region and the language of your phone to the location of your 4G Mobile Proxy. Yes, Meta can see the settings of your phone. They can see your time zone and all the other settings. If you spoofing your connection in the US and your IP is from the US, but your time zone is in India, it is a huge red flag.
+
+The region of your Apple ID doesn't matter. I was logged in and also subscribed to Meta Verified using my German Apple ID. So, it doesn't matter.
+
+
+
+First I used another VPN provider for a private residential IP address, and I was connected for 16 days until I found out Instagram changed to my original location (Thailand), so it wasn't working at first. I was quite pissed because I wasted 16 days, but then I changed my approach, started to use my second phone, removed the sim card, and bought a 4G Mobile Proxy from http://dashboard.smartproxy.com/register?referral_code=c57975bea22d262f946abb6f1838b5c1fe855df2 (ref link). Someone here on BHW mentioned it, so I gave it a try.
+
+On SmartProxy you can choose your settings. Here are my settings:
+
+
+
+Location: USA
+ASN: AT&T (you can also use T-Mobile or another one)
+OS: IOS (cuz I used an iPhone)
+Session: Sticky (30 minutes)
+
+First I was worried because the connection and location of the IP would change every 30 minutes. I thought a static 4G proxy would be better, but seems like it doesn't matter. I used Shadowrocket to connect to the 4G Mobile Proxy.
+
+Important: I am not a proxy expert, I am sure there are many more informed guys on here, but as far as I understood is: If I set up the proxy directly in my Wifi connection on my iPhone's settings, it only works for the browser. But if I use an app (like Shadowrocket) the proxy will work for applications like Instagram, etc.
+
+Then I went to Whatismyipaddress.com and checked my IP and location while being connected to the 4G mobile proxy on Shadowrocket:
+
+
+
+Location and IP changed.
+
+But I was afraid this is not enough, this is why I decided to spoof my GPS on my iPhone 7. Before what I did was: Turn off the location service for Instagram. So they wouldn't be able to access my location. But I thought this could be a red flag, so I decided to spoof my GPS.
+
+
+
+I really don't want to go through the trouble of jailbreaking my iPhone 7, so I was looking for an alternative and I found iMyFone AnyTo. This software lets you change the GPS data of your phone. For the playboys on here: It also works for Tinder and Bumble. . I changed the location to the location of my 4G Mobile Proxy. Yes, I am aware the location of the 4G mobile proxy changes every 30 minutes but turns out it is not a problem. Just setting it to the US (like New York) was enough.
+
+This software also has a free trial. So just give it a try. It also works for Android. Connect it via USB or Wifi. From what I saw the location won't change until you restart your phone.
+
+
+
+Logging in and managing Instagram
+
+Finally, I logged into my Instagram account I wanted to get the Meta Verified option.
+
+First thing I did was checking if Instagram actually logged the "correct" location of my phone. For this I navigated to:
+Profile -> Settings and privacy -> Accounts center -> Password and security -> Where you're logged in -> Press on Instagram.
+
+
+
+Nope, I am not in the US. I am in Thailand. But because of Shadowrocket, iMyFone AnyTo, and SmartProxy, it shows cities in the US for both my main phone (iPhone 14 Pro) and my second phone (iPhone 7) I used to get Meta Verified.
+
+Besides this, I really didn't do much on Instagram. Checked it twice per day, liked some pics, watched some stories, and replied to some messages. Thats it. Really nothing special.
+
+After exactly (!) 7 days I logged in and saw this:
+
+
+
+The Meta Verified option shows up on my profile settings.
+
+
+
+Keep in mind: I am not using Facebook. I only use Instagram. I am sure this method will also work for Facebook. But I don't want to get verified on Facebook. Who wants to get verified on Facebook? Some boomer who plays Coin Master and raids his friends' villages every hour? Nope.
+
+Now, here is something important. When you sign up for Meta Verified, you need to take this into consideration:
+
+- Your profile needs to have your REAL NAME on it. Means: Same name as on your passport, ID, or driver's license.
+- Your profile picture needs to show your face clearly (!) and you should have some pics of your face posted in your Instagram account
+- You have to set up 2FA
+- You need to take a picture of your passport, ID, or driver's license.
+
+But before you come to this step, they will make you pay. I paid 17,99€. I told you, I use a German Apple ID. So, it is in Euro. Yes, my passport is also from Germany.
+
+The whole Meta Verified option is based only (!) on your account location. It doesn't matter where you come from, what passport you got, your Apple ID country, or whatever. I saw a lot of misinformation about this.
+
+
+
+I double-checked my account to see if it fits their requirement, took a pic of my passport, and sent it to review. It took them 40 minutes to review it and then I saw the blue Instagram verification badge and they sent me a notification.
+
+
+
+
+
+1. Get a second phone, change your time zone, region and language, remove the sim card, deinstall all apps, connect to your homes wifi
+2. Get a 4G mobile proxy, connect to the proxy, spoof your location/GPS using an app or software. Make sure the 4g proxy is ALWAYS connected.
+3. Double-check your connection (for example Whatismyipaddress.com)
+4. Download Instagram and log in
+5. Be logged in there all the time, open the app twice a day
+6. Wait for at least 7 days
+7. Reopen your app, check your Instagram app and open the profile settings
+8. Subscribe to Meta Verified
+
+Again, please read carefully before you use the method. If it doesn't work for you, you probably did something wrong.
+
+If you have any questions, please let me know. But please don't ask me questions that this post already answered.
+
+Cheers,
+
+your Instagram blue tick wanker VIP guy Nakamura
+Click to expand...
+
+
+really congratulations for your stubbornness, you have brought a really great content to the instagram community.
+
+The procedure seems to me more difficult than one might believe, but this procedure is 100% the right one, congratulations again
+Liked by: XdekHckr and nakamura
+Number of likes: 2
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: hugeh
+Topic: Thank you for your hard work to get this method for us. I want to ask about the proxy is the micro-plane (2 GB) enough for this method to work? and if not is there any good proxy with a cheaper price? Second after I get verified I can use my normal phone and location and how will this affect the renewal of the verified
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: iomichiamore said:
+really congratulations for your stubbornness, you have brought a really great content to the instagram community.
+
+The procedure seems to me more difficult than one might believe, but this procedure is 100% the right one, congratulations again
+thank you
+
+hugeh said:
+Thank you for your hard work to get this method for us. I want to ask about the proxy is the micro-plane (2 GB) enough for this method to work? and if not is there any good proxy with a cheaper price? Second after I get verified I can use my normal phone and location and how will this affect the renewal of the verified
+Yes, I got the same one.
+
+For the renewal...no idea yet...I just subscribed yesterday, so I can let you know next month
+Liked by: j1passion, XdekHckr and hugeh
+Number of likes: 3
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: TechEinstien
+Topic: Very good if it works. But don't know how long it will last.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Gorsky11
+Topic: Will it work on a company Instagram account?
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: Gorsky11 said:
+Will it work on a company Instagram account?
+Meta Verified is only available for individual accounts
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nour100100
+Topic: hello, first congratulations on ur good work I want to know which setting I will choose because it's not shown in ur thread
+1st: does this setting the same as ur settings or I maybe change anything?
+2nd: the protocol section will remain endpoint : port or I must select other thing
+Attachments
+photo_6035291953215685956_y.jpg
+30.3 KB · Views: 560
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: devebeck
+Topic: If I have connected Facebook, will using Messenger on my default phone affect this?
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: devebeck said:
+If I have connected Facebook, will using Messenger on my default phone affect this?
+Probably yes.
+
+On my main phone, I de-installed all Meta apps.
+Liked by: neavelve62
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: nour100100 said:
+hello, first congratulations on ur good work I want to know which setting I will choose because it's not shown in ur thread
+1st: does this setting the same as ur settings or I maybe change anything?
+2nd: the protocol section will remain endpoint : port or I must select other thing
+1. The settings are fine.
+2. You can leave it with endpointort.
+
+Just make sure to add it correctly to the VPN/Proxy app. Replace "username" with your username.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: devebeck
+Topic: nakamura said:
+Probably yes.
+
+On my main phone, I de-installed all Meta apps.
+
+Do you think it might also be affected when the Facebook is disconnected? I need to use Messenger throughout the day.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nour100100
+Topic: okay the last question the global routing is config or proxy ?
+Attachments
+photo_6035291953215685996_y.jpg
+48 KB · Views: 507
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: nour100100 said:
+okay the last question the global routing is config or proxy ?
+Config
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: achilleask96
+Topic: Hello, firstly thank you for your time writing this article. Please i need more details about setting up the proxy from smartproxy to shadowrocket. After hours trying, always my ip is at Korea, Phillipines etc. and i am selecting USA. How is that possible?
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: achilleask96 said:
+Hello, firstly thank you for your time writing this article. Please i need more details about setting up the proxy from smartproxy to shadowrocket. After hours trying, always my ip is at Korea, Phillipines etc. and i am selecting USA. How is that possible?
+Where do you check your IP? What website? In the browser?
+
+Have you tried checking it through an app?
+
+As far as I understood Shadowrocket will change the IP for apps only. It won't change the IP in the browser (Safari, etc.).
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: achilleask96
+Topic: nakamura said:
+Where do you check your IP? What website? In the browser?
+
+Have you tried checking it through an app?
+
+As far as I understood Shadowrocket will change the IP for apps only. It won't change the IP in the browser (Safari, etc.).
+After many tries, i figured out that i must leave the asn and operating system to random. If it stays to random the address is like us.smartproxy . If i select any of asn changes to gate.smartproxy and then very random locations like i said before.
+I check ip and geolocation at iplocation.net through safari
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: achilleask96 said:
+After many tries, i figured out that i must leave the asn and operating system to random. If it stays to random the address is like us.smartproxy . If i select any of asn changes to gate.smartproxy and then very random locations like i said before.
+I check ip and geolocation at iplocation.net through safari
+You can keep the asn and operating system and manually change from gate.smartproxy to us.smartproxy.com.
+
+Yes, it won't work through Safari from what I know.
+
+If you want to test it, do the following: Turn off the location tracker for Instagram in the settings of your phone (so it wont access your GPS location when you login to IG). Then, login to Instagram and navigate to Account Center -> Passwort and Security -> Where you're logged in. And you will see your IP location (somewhere in the US).
+Liked by: ArchAngelMK and achilleask96
+Number of likes: 2
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+

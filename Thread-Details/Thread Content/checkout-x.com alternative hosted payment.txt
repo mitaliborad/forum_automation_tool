@@ -1,0 +1,104 @@
+--- Main Post Title ---
+checkout-x.com alternative hosted payment
+
+Topic User: dynamicotptp
+Topic: hello
+i used checkout-x for 3years ago "woocomerce'" but unfortunately they are closed forever
+I'm asking if you know of any website that provides hosted payment where I can link PayPal and Stripe to it. I tried to find it using Google, but no result. No one does the same job.
+
+thank you
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: Even Shopify and Woocommerce have their own solutions (Shopify Payments and Woocommerce Payments), have you checked them?
+Liked by: dynamicotptp
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Topic User: dynamicotptp
+Topic: RichMedusa said:
+Even Shopify and Woocommerce have their own solutions (Shopify Payments and Woocommerce Payments), have you checked them?
+what is special about checkout-x is that he can manage payment out of your site
+checkout page goes to site.checkout-x.com
+thats what i need
+Liked by: killuminatix
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Topic User: Doby
+Topic: dynamicotptp said:
+what is special about checkout-x is that he can manage payment out of your site
+checkout page goes to site.checkout-x.com
+thats what i need
+seems like a claoking service, right?
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Topic User: jburrtucaz
+Topic: Try Cartflows Pro. It's a Wordpress plugin that does what I think you're looking for
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Topic User: dynamicotptp
+Topic: Doby said:
+seems like a claoking service, right?
+its like if you said redirect payment to another website
+Liked by: Nijaa
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Topic User: Doby
+Topic: dynamicotptp said:
+its like if you said redirect payment to another website
+That's AB site redirection, a good cloaking plugin can do this
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Topic User: killuminatix
+Topic: jburrtucaz said:
+Try Cartflows Pro. It's a Wordpress plugin that does what I think you're looking for
+
+Carflows is funnel builder, I using that to design the checkout page, but don't have hosted checkout page with payment integration.
+Liked by: Doby
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Topic User: boldslice
+Topic: Hey! Yeah, Checkout-X shutting down was a blow. You might wanna check out ThriveCart, PayKickstart, or SamCart—they support PayPal and Stripe and offer hosted checkout solutions. Another option is Lemon Squeezy if you're selling digital products. Hope that help
+Liked by: Doby
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Topic User: Doby
+Topic: boldslice said:
+Hey! Yeah, Checkout-X shutting down was a blow. You might wanna check out ThriveCart, PayKickstart, or SamCart—they support PayPal and Stripe and offer hosted checkout solutions. Another option is Lemon Squeezy if you're selling digital products. Hope that help
+The above you suggested are more of page builder and not do, what the OP is looking for.
+Liked by: Nijaa
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Topic User: Nijaa
+Topic: Cloaking Plugins can help you achieve that
+Liked by: Doby
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+

@@ -1,0 +1,1 @@
+It's a tricky idea for sure! Have you looked into using crypto directly for payments to avoid the bank account issue altogether?

@@ -1,0 +1,137 @@
+--- Main Post Title ---
+Can i use ChatGPT to create an automation tool?
+
+Topic User: Delontekoq
+Topic: Hello!
+Ive come across a problem people have, its about when people search for jobs.
+
+I have 0 knowledge in coding, nor any coding at all.
+
+But i have asked Chatgpt to write me a basic python based code - To cover the problem solver tool issue automatically.
+
+Now to my question for all Experts - How do i impelment this Code, have an interface and test it?! Is there any program for this?
+
+I want to make sure the code works ....Again , i have 0 knowledge in coding guys, so please bare with me. All help appreciated.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0
+-----
+
+Replies:
+
+
+Topic User: Spicy Chromosomes
+Topic: You can try. You could also considere using other AI tools like DeepSeek to help you out. Maybe one AI creates and the other fix possible mistakes and double check for potential improvements
+Liked by: MR.Spuf
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: ellay
+Topic: Try Replit
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: kdvmedia
+Topic: Just try bro
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Delontekoq
+Topic: Spicy Chromosomes said:
+You can try. You could also considere using other AI tools like DeepSeek to help you out. Maybe one AI creates and the other fix possible mistakes and double check for potential improvements
+Hmm ok! ill look at it. Thanks alot for the suggestion!
+ellay said:
+Try Replit
+Thanks for the suggestion , ill look at it now
+Liked by: You and ellay
+Number of likes: 2
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: LilMosey
+Topic: Sure it can. I created many myself. Including some social media bots in Puppeteer, scrapers, automated website, etc... Keep in mind that not every solution will be good, you'll have to tweak the AI code a bit.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: $Tiger
+Topic: tell chat gpt that you dont know what to do and for it to give you detailed step by step intructions on what you need to do, even if you dont know coding, chat gpt can guide you step by step
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: You definitely can, just be patient to build something consistent
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Delontekoq
+Topic: Thanks guys, So far Replit has done the interace and does so far good. Im happy...thats what i was looking for! Thanks again for suggestions
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Alexan De
+Topic: The possibilities of AI are vast, and I have explored them myself by building a variety of tools, including social media bots, crawlers, and automated websites. However, it is important to understand that no solution is perfect from the start. Customizing and tweaking AI code is an essential part of the process.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: TAKTIK
+Topic: Install Thonny to run the code, use Tkinter or Streamlit for a simple interface, and test it on Streamlit Cloud or Replit if you want it online.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: gloryniz
+Topic: I think you should able to do it. Give it a try
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+

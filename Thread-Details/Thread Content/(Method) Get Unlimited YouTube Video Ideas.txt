@@ -1,0 +1,275 @@
+--- Main Post Title ---
+(Method) Get Unlimited YouTube Video Ideas
+
+Topic User: RK
+Topic: In this guide, I’ll be sharing a method which I personally use to come up with YouTube video ideas. This approach works particularly well for content with a longer shelf life, such as how-to / educational videos, but you can adapt it to suit your own content needs.
+
+Step 1 - Find Your Competitors
+The first step is to identify the go-to channels in your niche. Look for channels that consistently get high views and have a solid following. Aim to find as many channels as you can, but try to focus on the top 5-10 with the highest engagement and views. These will give you the most valuable insights.
+
+Step 2 - Install VidIQ Plugin
+I am sure every You-Tuber has this plugin already installed, but the only downside is for this method you need to have a paid version of it else it won't work properly.
+
+Disclaimer : I am not affiliated with VidIQ.
+
+Step 3 - CSV Export
+
+NOTE: For this Demo I'm using SNL Channel but as i mentioned earlier, this would work best with how-to / educational videos.
+
+a) Open the Competitor channel and click on these 3 dots.
+
+
+
+b) Click On CSV Export
+
+
+
+c) Click On Export All Their Videos
+
+
+
+
+d) Click On Download CSV
+
+
+
+Now Repeat this same process to all the Competitor channel's you have selected before.
+
+Step 4 - Use ChatGPT/Deep Seek
+
+Note: You can use any AI tool which suits you, I will be using Deep Seek, because at the time of writing this thread, I was running some tests on it. But you can expect same results with ChatGPT as well.
+
+We have thousands of videos data exported from all the channels, so we will be using ChatGPT / Deep Seek to sort it.
+
+Use This Prompt: Create a new document containing the titles and the number of views of the 100 most viewed videos from the list provided.
+
+
+
+This Will give us a list of 100 most viewed videos based on that list, so save that & repeat the same process for other channels as well.
+
+Now you will have a list of 100 videos from different channels, but there is a chance that there will be duplicate topics. So use Ai to give you a list of 100 unique video ideas based of the new lists.
+
+Note: This is a method that I personally use & this is just a starting point, make changes to it as per your needs. You can make changes to the prompt and change the number of videos, change the minimum view count, change the time duration of videos etc.. Use your own brain and use this method as per your case.
+Attachments
+Screenshot 2025-01-28 at 16.38.20.png
+145.2 KB · Views: 66
+Xnapper-2025-01-28-17.09.18.png
+298 KB · Views: 68
+Have An Amazing Day
+Liked by: You, Baton, DM3 and 8 others
+Number of likes: 11
+Number of comments: 0
+-----
+
+Replies:
+
+
+Topic User: Nezti
+Topic: RK said:
+In this guide, I’ll be sharing a method which I personally use to come up with YouTube video ideas. This approach works particularly well for content with a longer shelf life, such as how-to / educational videos, but you can adapt it to suit your own content needs.
+
+Step 1 - Find Your Competitors
+The first step is to identify the go-to channels in your niche. Look for channels that consistently get high views and have a solid following. Aim to find as many channels as you can, but try to focus on the top 5-10 with the highest engagement and views. These will give you the most valuable insights.
+
+I am sure every You-Tuber has this plugin already installed, but the only downside is for this method you need to have a paid version of it else it won't work properly.
+
+
+
+
+
+NOTE: For this Demo I'm using SNL Channel but as i mentioned earlier, this would work best with how-to / educational videos.
+
+a)
+
+
+
+b)
+
+
+
+c)
+
+
+
+
+d)
+
+
+
+Now Repeat this same process to all the Competitor channel's you have selected before.
+
+
+
+
+
+We have thousands of videos data exported from all the channels, so we will be using ChatGPT / Deep Seek to sort it.
+
+Create a new document containing the titles and the number of views of the 100 most viewed videos from the list provided.
+
+
+
+This Will give us a list of 100 most viewed videos based on that list, so save that & repeat the same process for other channels as well.
+
+Now you will have a list of 100 videos from different channels, but there is a chance that there will be duplicate topics. So use Ai to give you a list of 100 unique video ideas based of the new lists.
+
+Click to expand...
+How is DeepSeek, can you tell the difference between ChatGPT?
+What's their premium pricing ?
+Liked by: RK
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: RK
+Topic: Nezti said:
+How is DeepSeek, can you tell the difference between ChatGPT?
+What's their premium pricing ?
+Well, this thread isn't focused on that. If you're interested in learning about their differences, feel free to check out this thread: https://www.blackhatworld.com/seo/deepseek-vs-chatgpt-whats-your-pick.1681069/
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: GenesisOne
+Topic: Nice tip op.
+Liked by: RK
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: olivier
+Topic: Dont rely on Deepseek.
+Huge data leak happened there and II think it will be forbidden in USA and EU soon.
+Read the news
+Liked by: RK
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: SeoHubby
+Topic: Great write ups! Thank you
+Liked by: RK
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: GLAADIO
+Topic: If it is not private, I would like to check out your YouTube channel.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: RK
+Topic: olivier said:
+Dont rely on Deepseek.
+Huge data leak happened there and II think it will be forbidden in USA and EU soon.
+Read the news
+This thread is not related to Deepseek, you can do same with ChatGPT. Let's all stick to the thread.
+GLAADIO said:
+If it is not private, I would like to check out your YouTube channel.
+Yes it is, I use this for my e-com brand. I Can't share that but if you have any specific question related to thread, feel free to ask. Would love to help.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: AleG
+Topic: Thank you, this is like using UberSuggest but for videos.
+Liked by: RK
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Baton
+Topic: Thanks for the tip @RK
+Liked by: RK
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: sexylizzy
+Topic: RK said:
+In this guide, I’ll be sharing a method which I personally use to come up with YouTube video ideas. This approach works particularly well for content with a longer shelf life, such as how-to / educational videos, but you can adapt it to suit your own content needs.
+
+Step 1 - Find Your Competitors
+The first step is to identify the go-to channels in your niche. Look for channels that consistently get high views and have a solid following. Aim to find as many channels as you can, but try to focus on the top 5-10 with the highest engagement and views. These will give you the most valuable insights.
+
+I am sure every You-Tuber has this plugin already installed, but the only downside is for this method you need to have a paid version of it else it won't work properly.
+
+
+
+
+
+NOTE: For this Demo I'm using SNL Channel but as i mentioned earlier, this would work best with how-to / educational videos.
+
+a)
+
+
+
+b)
+
+
+
+c)
+
+
+
+
+d)
+
+
+
+Now Repeat this same process to all the Competitor channel's you have selected before.
+
+
+
+
+
+We have thousands of videos data exported from all the channels, so we will be using ChatGPT / Deep Seek to sort it.
+
+Create a new document containing the titles and the number of views of the 100 most viewed videos from the list provided.
+
+
+
+This Will give us a list of 100 most viewed videos based on that list, so save that & repeat the same process for other channels as well.
+
+Now you will have a list of 100 videos from different channels, but there is a chance that there will be duplicate topics. So use Ai to give you a list of 100 unique video ideas based of the new lists.
+
+Click to expand...
+It's a useful guide. What's the best free alternative to VidIQ in the market?
+Liked by: RK
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+

@@ -1,0 +1,193 @@
+--- Main Post Title ---
+Is it possible to make fully anonymous website and payments?
+
+Topic User: kaj123
+Topic: Hello,
+I came across one idea but for it I need to make fully anonymous website, so I was wondering if that is possible and how would that work? I would also need to receive payments... I was thinking maybe if in some countries it is possible to open business bank accounts without verification so when I get there money I buy crypto with it
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Venusaur
+Topic: Why anyone with legit intentions would need to do that? Only scammers want to cover their asses like this
+Liked by: Spicy Chromosomes, RoiBox, tazarbm and 1 other person
+Number of likes: 4
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: pasa4747
+Topic: You ask us for how can i do scam, Or did I misunderstand?
+Liked by: You and Venusaur
+Number of likes: 2
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Megaverse
+Topic: Satoshi Nakamoto the Bitcoin inventor did it anonymously. Does that mean Satoshi is a scammer or that Bitcoin is a fraud?
+Give people the benefit of doubt...
+Liked by: Razz59
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Venusaur
+Topic: Megaverse said:
+Satoshi Nakamoto the Bitcoin inventor did it anonymously. Does that mean Satoshi is a scammer or that Bitcoin is a fraud?
+Give people the benefit of doubt...
+You say like Satoshi is a person, in reality, it wouldn't be a surprise if it's CIA, Mossad or any other organization with shady past trying to stay in the shadow. And Satoshi, whoever it is, didn't want to receive payments, a totally different project.
+
+Anyway, there is a huge difference between the Bitcoin creator and those random guys on this forum, some asking about transforming gift cards into monero, others talking about blank checkout offers and this kind of scam, always suspicious to say the least. If you have a legit idea to receive payments, you don't need to care so much about anonymity
+Liked by: Mister_Twister and Plankhead
+Number of likes: 2
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Megaverse
+Topic: Venusaur said:
+You say like Satoshi is a person, in reality, it wouldn't be a surprise if it's CIA, Mossad or any other organization with shady past trying to stay in the shadow. And Satoshi, whoever it is, didn't want to receive payments, a totally different project.
+
+Anyway, there is a huge difference between the Bitcoin creator and those random guys on this forum, some asking about transforming gift cards into monero, others talking about blank checkout offers and this kind of scam, always suspicious to say the least. If you have a legit idea to receive payments, you don't need to care so much about anonymity
+Isn't there a possibility that he may just have a strong detest for the taxman?
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: pasa4747
+Topic: Megaverse said:
+Isn't there a possibility that he may just have a strong detest for the taxman?
+In any country, a bank account cannot be opened anonymously, but bank accounts belonging to others can be rented with the knowledge of the owner, and they have to pay at least 20%-30% commission to them.
+
+This method is generally used by scammers, the commission rate is almost the same as the tax rate.
+
+I do not think this person will do something with good intentions.
+Liked by: tazarbm
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: kaj123
+Topic: all I can say its not scam,I will not go into details... so if anyone can help it would be nice
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: It's possible to create something using someone else information, stealth information, fake accounts, crypto, anonymity focused hosting services, etc
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: AtomSMM
+Topic: Domain and hosting can be purchased through cryptocurrency, such as XMR. Payments can be accepted in cryptocurrency, e.g. through Cryptomus. Bank payments are unlikely to be accepted anonymously
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: amelie.viennot
+Topic: Venusaur said:
+Why anyone with legit intentions would need to do that? Only scammers want to cover their asses like this
+Your assumption or generalisation is absolutely untrue.
+Liked by: AtomSMM
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Mister_Twister
+Topic: amelie.viennot said:
+Your assumption or generalisation is absolutely untrue.
+Could be but without at least a bit of description or explanation it feels like scam project tbh. Also I'm not sure if it's actually possible to make fully anonymous payments anyway. Qualified enough forensic will still find traces of the people doing it.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Spicy Chromosomes
+Topic: You need to put someone's information.
+It doesn't mean that ''someone'' exists, i.e, you could use fake information
+Liked by: MR.Spuf
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Ricardo L
+Topic: kaj123 said:
+Hello,
+I came across one idea but for it I need to make fully anonymous website, so I was wondering if that is possible and how would that work? I would also need to receive payments... I was thinking maybe if in some countries it is possible to open business bank accounts without verification so when I get there money I buy crypto with it
+Creating a fully anonymous website with payment processing is challenging. But you can use offshore hosting, Monero (XMR) for payments, and privacy-focused services. However, most business bank accounts require verification.
+Liked by: kyabetukun
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: AxelOfm
+Topic: kaj123 said:
+Hello,
+I came across one idea but for it I need to make fully anonymous website, so I was wondering if that is possible and how would that work? I would also need to receive payments... I was thinking maybe if in some countries it is possible to open business bank accounts without verification so when I get there money I buy crypto with it
+Creating an anonymous website requires a private domain (Njalla, Epik) and an offshore host (Flaunt7). Access everything via Tor or a no-logs VPN.
+
+
+For payments, accept crypto through BTCPay Server or NOWPayments. For fiat, AdvCash and Payeer offer some anonymity.
+
+
+Anonymous bank accounts are rare but possible in Belize or Georgia. Another option is using prepaid cards.
+
+
+Convert money to crypto without KYC via Bisq, HodlHodl, or Paxful.
+
+
+The key is to avoid any link between your identity and transactions.
+Liked by: kyabetukun
+Number of likes: 1
+Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+

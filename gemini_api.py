@@ -5,9 +5,9 @@ import google.generativeai as genai  # Import the library (assuming it's install
 from dotenv import load_dotenv
 
 load_dotenv()  # Load environment variables from .env file
-API_KEY = os.getenv('GEMINI_API_KEY1')
-
+API_KEY = os.getenv('GEMINI_APIKEY')
 os.environ["GOOGLE_API_KEY"] = API_KEY  # Set the environment variable *before* importing
+
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -26,7 +26,7 @@ class GeminiHandler:
 
         try:
             genai.configure(api_key=API_KEY)
-            self.model = genai.GenerativeModel('gemini-pro')  # Or your desired model
+            self.model = genai.GenerativeModel('gemini-2.0-flash')  # Or your desired model
             logger.info("Successfully initialized Gemini API connection")
         except Exception as e:
             logger.error(f"Failed to initialize Gemini API: {str(e)}", exc_info=True)

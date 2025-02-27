@@ -1,0 +1,129 @@
+--- Main Post Title ---
+Should I use Python or C++ when making an algorithmic trading bot?
+
+Topic User: Nikhil Shah
+Topic: Please suggest
+Liked by: No user likes
+Number of likes: 0
+Topic User: Gogol
+Topic: Anything will do, because the bottleneck here is the network request, and not the code itself. You could even do it with node, go or rust as well.
+Liked by: SeasonedCode, jamie3000 and Nikhil Shah
+Number of likes: 3
+Topic User: Mochidien
+Topic: Depending on the trading strategies. C++ would be faster if you're into HF trading.
+Liked by: Nikhil Shah
+Number of likes: 1
+Topic User: lyze
+Topic: I personally use python. It all depends on what you're more comfortable with you can do it with both.
+Liked by: Nikhil Shah
+Number of likes: 1
+Topic User: Zooker
+Topic: It really depends on the type of trading and if time is crucial.
+
+It sounds like it’s to work on an algorithm so i would say whichever you are more proficient in.
+Liked by: No user likes
+Number of likes: 0
+Topic User: 4440
+Topic: Language is not the bottleneck here, you can use any language.
+Liked by: No user likes
+Number of likes: 0
+Topic User: No text found
+Topic: The trade computer is 30k per day that was 15 years ago, to connect to in trading platform.
+
+Even a split second will lose bids or sales.
+
+It the trade connection that stop any programmer try.
+
+And ones that scrape no good don't work as it split seconds needed.
+
+Even offices that trade move near to the trade servers why the rent in the air, just to be close to trading building.
+
+There even court cases of glitch of trades that traders try on everyday.
+
+It a very hard business to get into, your need to be vetted and have mllions to be a proper trade contender for your application to be approved. .
+
+Leval 3 server house wanted 1 million for the line only, not the bandwidth,super computers only.
+
+Tradeing application no joke.
+
+There always news on trading about who speed glitch, billions lost daily over Internet speeds.
+
+You best join Facebook trader groups those that run application that are popular and vetted programmers there loads around, but I no for a fact joining there program to trade in the thousands and expected to have money or they just kick you off the group stright away.
+Last edited by a moderator: Nov 3, 2023
+Liked by: No user likes
+Number of likes: 0
+Topic User: Zooker
+Topic: I guess it depends on the poster's goal. I assumed that it was more of a test an algorithm vs manual trades.
+
+Those high-speed trades from the big names are using massive amounts of cash to compete so the average joe isn't going to even be able to get remotely close.
+
+However, if it a tool that would pull daily trades, look for indicators, and then make trades based on a formula as opposed to doing all the work by hand, there is a lot of leeway there.
+
+I would still go with C++ myself as a software engineer but for many python may be much easier to get into it with all of the modules available.
+Liked by: No user likes
+Number of likes: 0
+Topic User: rocketpr
+Topic: Python should be better if you’re focused on visualization. C++ if you want to handle more data.
+Liked by: No user likes
+Number of likes: 0
+Topic User: lifework
+Topic: both will work fine, it depends on you where you find your relaxation and which one makes you happy when you write, for me I will go with py lot of library short road to get the job done
+Liked by: No user likes
+Number of likes: 0
+Topic User: 1nk1
+Topic: Nikhil Shah said:
+Please suggest
+Preferable to using Python, because he has a lot of libraries for working with cryptocurrency)
+Liked by: No user likes
+Number of likes: 0
+Topic User: ifreqteq
+Topic: you don't need permormance so I would say python if it's easier for you and also you don't have to compile it again and again and again
+Liked by: No user likes
+Number of likes: 0
+Topic User: automationstudioai
+Topic: Nikhil Shah said:
+Please suggest
+I'd stick with Python
+Liked by: No user likes
+Number of likes: 0
+Topic User: tubeboost
+Topic: I'd choose a language i know better.
+NetAutom - YouTube & Google Automation Software Custom YouTube Comment Rank YouTube Videos
+Liked by: No user likes
+Number of likes: 0
+Topic User: soniya-01
+Topic: Nikhil Shah said:
+Please suggest
+
+If you're building an algorithmic trading bot, go with Python. It's easier to learn, has great libraries (like Pandas and NumPy), and is widely used in finance. Python is more beginner-friendly and allows you to focus on the trading logic. C++ is powerful but usually better for system-level programming; Python is a smoother choice for algorithmic trading. Happy coding and trading.
+Liked by: No user likes
+Number of likes: 0
+Topic User: MrBigFoot_77
+Topic: Depending on your trading platform. For me, I like cTrader so I use C# for it.
+Liked by: No user likes
+Number of likes: 0
+Topic User: RaHoorKhuit
+Topic: I do not like Python but you can use for this job. Python have a large community and large library.
+Liked by: No user likes
+Number of likes: 0
+Topic User: primal toxin
+Topic: Wtf, why people be recommending python?
+
+Strict time bounds call for non-garbage collected languages. Traditional garbage collection may introduce unpredictable pauses into an execution of an application, that is when the GC swipes out unused objects.
+
+You may use real time garbage collectors; with it you will introduce high operational overhead.
+
+https://stackoverflow.com/questions/25702690/can-c-sharp-net-be-used-for-hard-real-timehttps://stackoverflow.com/questions/40415903/c-sharp-algorithmic-stock-trading
+
+Dexter Zeppelin
+Liked by: No user likes
+Number of likes: 0
+Topic User: RobertSEO
+Topic: I would use C++ but if you are a beginner than I would recommend python
+Liked by: No user likes
+Number of likes: 0
+Topic User: BloodBugs
+Topic: Well in my experience, if you are really finessed about controlling resources (large scale shi), i'd use c++, since you'll have more control over the algorithm, more performance, and also the biggest of all **MULTITHREADING** lmao, but it will only go so far, since the main problem would be the requests to the server ;p
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 3

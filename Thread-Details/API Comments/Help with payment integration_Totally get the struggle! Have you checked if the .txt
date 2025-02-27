@@ -1,0 +1,1 @@
+Totally get the struggle! Have you checked if the script has any documentation on payment gateway integrations, or maybe some community forums specific to that script?

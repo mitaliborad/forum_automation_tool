@@ -1,0 +1,1 @@
+Honestly, turning an image directly into clean, efficient HTML is tough. What kind of image are you working with and what do you need the HTML for? Maybe there's a better workaround.

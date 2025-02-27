@@ -1,0 +1,1 @@
+That's a bummer about Checkout-X! Have you looked into using something like Paddle or Lemon Squeezy? I know they handle payments and might offer the PayPal/Stripe combo you're after.

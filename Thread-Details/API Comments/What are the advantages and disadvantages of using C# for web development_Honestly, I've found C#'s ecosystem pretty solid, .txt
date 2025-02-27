@@ -1,0 +1,1 @@
+Honestly, I've found C#'s ecosystem pretty solid, but debugging can sometimes be a real headache compared to working with JavaScript.

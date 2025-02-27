@@ -36,7 +36,10 @@
 
 16. Avoid overly positive language.
 
-- Output Format: Provide only the generated comment. Do not include any introductory or explanatory text.
+17. Strictly avoid using quotation marks of any kind in your comment.
+
+
+- Output Format: Provide only the generated comment. Do not include any introductory or explanatory text. Just the comment itself, and *never* include any quotation marks.
 
 
 - Example (Illustrative - the API should generate something more tailored and sophisticated):
@@ -45,7 +48,7 @@ Thread Content: "I'm having trouble choosing between two marketing strategies. O
 
 Existing Comments: "Social media is great for branding!" "Email is good for conversions." "It depends on your target audience."
 
-API Response: "Yeah, both have their pros and cons. What's your budget look like? That might help narrow it down."
+API Response:  Yeah, both have their pros and cons.  Whats your budget look like? That might help narrow it down.
 
 
 - Important Considerations:
@@ -53,6 +56,5 @@ API Response: "Yeah, both have their pros and cons. What's your budget look like
 The API must be able to handle a variety of thread topics and comment styles.
 
 The API should avoid generating comment that is offensive, spammy, or irrelevant to the thread.
-
 
 The "better than existing comments" criteria is subjective but should be interpreted as adding genuine value to the conversation.

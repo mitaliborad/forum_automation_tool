@@ -1,0 +1,41 @@
+--- Main Post Title ---
+301 Redirect old site to new site but the ranking not coming along. Please help!!
+
+Topic User: kimmysled
+Topic: Any thing I can do , my old site got block so I’m redirect it to the new site but as you can see nothing come along. Also when check in url inspection to it still showing 200 status
+
+What should I do please suggest?
+Attachments
+IMG_8975.png
+292.7 KB · Views: 10
+IMG_8976.png
+311.4 KB · Views: 8
+Liked by: sanseraservices
+Number of likes: 1
+Number of comments: 0
+-----
+
+Topic User: NeedMyLink
+Topic: Check to see if the old domain - "siteoldsite.com" - is still indexed. If it's completely wiped out, the redirect will be useless. Instead, focus on rebuilding the authority of the new domain: fresh links, updated content, and making sure it's crawlable.
+Liked by: tazarbm
+Number of likes: 1
+Number of comments: 0
+-----
+
+Topic User: sanseraservices
+Topic: If the sites redirect site goes down you should have move on for new aged domain with fresh links and content and make sure that is able to rank not got hit earlier in history and try some new strategy as per your competitors doing.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0
+-----
+
+Topic User: Titans
+Topic: If the redirect is done recently, you need to be patient & it will take some time to see the results. As advised above, if the old domain is spammed & completely wiped out you won't see any impact. If needed, verify that the redirect setup is done properly. Also, publish more articles on the new domain and build quality links to it. If you’re still not seeing results, move on to a new domain with fresh articles and content.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0
+-----
+
+Replies:
+
+

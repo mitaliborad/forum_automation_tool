@@ -1,0 +1,114 @@
+--- Main Post Title ---
+What are the advantages and disadvantages of using C# for web development?
+
+Topic User: Heybotter001
+Topic: I’m currently evaluating different programming languages and frameworks for a new web development project. C# has caught my eye, especially with its use in ASP.NET, but I’m still on the fence about it.
+
+Could you all share your experiences on the advantages and disadvantages of using C# for web development? I’m interested in hearing about:
+
+1. Performance: How does it compare to other languages like JavaScript or Python?
+2. Ecosystem: Are there enough libraries and tools available?
+3. Scalability: How well does it scale for large projects?
+4. Learning Curve: Is it easy to pick up for someone with basic programming knowledge?
+5. Community Support: Is there a strong community behind C# that can provide assistance?
+
+Your insights would be invaluable to me, and likely others who are facing the same decision. Thank you in advance for your time and expertise.
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0
+no comments found 
+-----
+
+Replies:
+
+
+Topic User: Smackhead
+Topic: There are 0 disadvantages generally.. maybe in some very specific niches. An abundance of learnning resources, extremely well supported. Anyone that says otherwise is misinformed
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: jaru0
+Topic: I would never use any Microsoft technology unless forced to. Windows hosting is usually more expensive. Open Source languages and frameworks usually have more libraries. You also have more choice, i.e. you can select a framework that exactly fits your needs.
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Smackhead
+Topic: Like I said misinformed .Net has been open source and cross platform for years.
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Thousand Bytes
+Topic: There is no disadvantage in any of the things you mentioned. Use .net 6.0. You don't need a windows server and you can scale like others in deployment. Your code can be scalable and flexible, of course, you need to use certain patterns and software architectures. In short, you can learn C#.
+Buy Twitter Accounts - TWACCS.COM - Accounts with followers, PVA and Non PVA, Fresh and Aged Accounts
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: declaration of
+Topic: There are no major disadvantages. You do not need to build or host on Windows as was mentioned. .NET web apps run on Linux without issue.
+
+To answer your questions specifically:
+1. Performance: For websites let's just say that the language/runtime performance itself won't be holding you back no matter what you choose.
+2. Ecosystem: A large amount of open source packages are available. The 'standard' package manager is called NuGet and is likely already built into whatever you are writing code in.
+3. Scalability: The tools are there. The language is not the bottleneck.
+4. Learning Curve: It's fine.
+5. Community Support: It has a huge community both online and offline.
+Liked by: Smackhead
+Number of likes: 1
+Number of comments:  (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: lonly
+Topic: i am also running asp.net c# website
+i try to find any seo plugin from github but i cannot find
+did you guys know any seo plugin of asp.net c# website ?
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Tinfoil
+Topic: I have been on wes dev scene for quite some time. To be honest anyone using C# and asp is over 35 years old and that tech is not popular. Software development right now if it's front end it's React or Vue, forget angular and even thinking of C#. Also javascript MERN stack is the default tech even on jobs listed. Python and Rust are also contenders for juggling data on the backend. If anyone wants to argue I will share screenshots. This is from my head to yours. Don't hang on old tech.
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: KalseoAgency
+Topic: There is no disadvantage, it's most secure website then php, because publish code is deployed rather source code however you require windows asp.net hosting server which support asp.net , Microsoft.net , sql server
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Replies:
+
+

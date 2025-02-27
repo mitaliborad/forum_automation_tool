@@ -1,0 +1,1 @@
+Hmm, that's a tricky one! Have you thought about trying to pull the data via the Tumblr API, maybe scripting something to grab the info post by post?

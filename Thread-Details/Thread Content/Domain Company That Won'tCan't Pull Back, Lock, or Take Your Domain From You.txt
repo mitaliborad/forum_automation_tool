@@ -1,0 +1,116 @@
+--- Main Post Title ---
+Domain Company That Won't/Can't "Pull Back", "Lock", or "Take" Your Domain From You?
+
+Topic User: UncleAdolf
+Topic: On every highly-rated domain company's reviews I keep seeing multiple one-star reviews from customers and business owners claiming the domain seller "took" their domain away or locked it from them, often without any notice. Some of them claim false abuse/phishing reports were filed against them and that was used to take their domains. The reviews are often lengthy and seem like legitimate well-spoken people who often have proof.
+
+How do you prevent this if you own domains? The company you bought it from can just take it if they want with no notice or recourse? Someone can just file a false report against it and take it or have you locked out?
+Liked by: No user likes
+Number of likes: 0
+Number of comments: 0
+-----
+
+Topic User: Perb
+Topic: The good domain companies are Namecheap - has some bad reviews, Spaceship - owned by namecheap, Dynadot and SAV.
+I am sure others have their favourites.
+Steer clear of GoDaddy unless you buy in auction.
+Steer clear of smaller domain companies.
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Topic User: Loree
+Topic: Cloudflare, although I am starting to shy away from Cloudflare due to recent voices (Twitter etc.) popping about Cloudflare trying to force paying customers into more expensive plans all of a sudden.
+
+This leaves me with Hetzner for now, which has a limited TLD selection and also may be a bit too trigger happy when some legal or pseudo-legal claim hits them.
+
+I also stopped using Namecheap now after they didn't let me register some random (expired) domain all of a sudden, that was like POPULAR_GERMAN-FAMILY_NAME-real-estate.de (I just registered it at Hetzner then)
+
+Moniker is one that has been around for very long and I had no problems so far although I am using them for many years now. However, I have only 2 (active, well used) domains there, could be luck due to the low number of domains
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Topic User: BassTrackerBoats
+Topic: Perb said:
+Steer clear of GoDaddy unless you buy in auction.
+Steer clear of GoDaddy no matter the situation.
+For questions relating to your account please use BHW support.
+New or need to refresh your BHW knowledge? Check out the Newbie Guide to BHW
+Liked by: Mrnewbie
+Number of likes: 1
+Number of comments:  (Reply Post)
+-----
+
+Topic User: UncleAdolf
+Topic: Perb said:
+The good domain companies are Namecheap - has some bad reviews, Spaceship - owned by namecheap, Dynadot and SAV.
+I am sure others have their favourites.
+Steer clear of GoDaddy unless you buy in auction.
+Steer clear of smaller domain companies.
+Namecheap v Dynadot, which do you choose and why?
+
+Loree said:
+Cloudflare, although I am starting to shy away from Cloudflare due to recent voices (Twitter etc.) popping about Cloudflare trying to force paying customers into more expensive plans all of a sudden.
+
+This leaves me with Hetzner for now, which has a limited TLD selection and also may be a bit too trigger happy when some legal or pseudo-legal claim hits them.
+
+I also stopped using Namecheap now after they didn't let me register some random (expired) domain all of a sudden, that was like POPULAR_GERMAN-FAMILY_NAME-real-estate.de (I just registered it at Hetzner then)
+
+Moniker is one that has been around for very long and I had no problems so far although I am using them for many years now. However, I have only 2 (active, well used) domains there, could be luck due to the low number of domains
+Click to expand...
+Are you saying that the more domains you have/own, the more unlucky you are with losing them or what? Can you explain? Thanks.
+
+BassTrackerBoats said:
+Steer clear of GoDaddy no matter the situation.
+GoDaddy has always been bad (I know from years ago) but are they still bad even after they were bought? Why are they still bad? Would love to hear, thank you.
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Topic User: BassTrackerBoats
+Topic: UncleAdolf said:
+GoDaddy has always been bad (I know from years ago) but are they still bad even after they were bought? Why are they still bad? Would love to hear, thank you.
+They have not changed their business model.
+
+GoDaddy blows chunks.
+Liked by: ContentExpert
+Number of likes: 1
+Number of comments:  (Reply Post)
+-----
+
+Topic User: Loree
+Topic: UncleAdolf said:
+Are you saying that the more domains you have/own, the more unlucky you are with losing them or what? Can you explain? Thanks.
+No, not depending on number of domains. It was referring to paying cloudflare customers
+
+Coincidently I (as a free user) got an invoice from Cloudflare now. It says "0" on the invoice amount but it makes me even more cautious
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Topic User: nicenic
+Topic: UncleAdolf said:
+On every highly-rated domain company's reviews I keep seeing multiple one-star reviews from customers and business owners claiming the domain seller "took" their domain away or locked it from them, often without any notice. Some of them claim false abuse/phishing reports were filed against them and that was used to take their domains. The reviews are often lengthy and seem like legitimate well-spoken people who often have proof.
+
+How do you prevent this if you own domains? The company you bought it from can just take it if they want with no notice or recourse? Someone can just file a false report against it and take it or have you locked out?
+Hi, UncleAdolf. Customer complaints about domain names being "taken away" or locked usually involve domain name locking, false abuse reports, or insufficient communication from the registrar. To avoid such problems, choose a reputable registrar, keep contact information updated, understand relevant policies, and keep records of communications. If a dispute arises, you can protect your rights through the registrar's dispute resolution mechanism or legal channels, and share experiences to promote industry improvemen
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Topic User: Roman Media
+Topic: To prevent losing your domain, choose a reputable registrar, enable two-factor authentication, and lock your domain. Regularly monitor your domain and ensure your WHOIS information is accurate to avoid unauthorized actions.
+Liked by: No user likes
+Number of likes: 0
+Number of comments:  (Reply Post)
+-----
+
+Replies:
+
+

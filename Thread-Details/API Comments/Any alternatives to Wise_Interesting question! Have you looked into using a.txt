@@ -1,0 +1,1 @@
+Interesting question! Have you looked into using a local payment processor in the countries where your clients are?

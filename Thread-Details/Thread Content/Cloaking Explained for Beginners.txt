@@ -1,0 +1,63 @@
+--- Main Post Title ---
+Cloaking Explained for Beginners
+
+Topic User: itz_styx
+Topic: Cloaking is one of the oldest blackhat methods around. The idea is simple: show users an optimized landing page and give bots SEO optimized content stuffed with markov text, keywords etc. This can be archived in multiple ways, but here are the most common methods:
+
+User Agent Cloaking:
+When visiting a website, every browser sends what is called a "user agent" string that shows what kind of browser a user is using, so websites can be optimized for this particular brand, as some need special handling. Its offten just called UA, so next time you know what that is
+Anyways so for firefox this looks something like this:
+Code:
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0
+All browsers have a different one and so do bots, for example the user agent from googlebot looks like this:
+Code:
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Now with simple pattern matching cloaking scripts verify the user agent to determine which version of the website to show, the real one or the cloaked one. This works best with PHP or CGI as that code is executed first before the HTML is rendered, however this cloaking method can also be archived with javascript.
+
+Referrer Cloaking:
+This method is similar to user agent cloaking, however this time we look at the "referer" string which is sent by the browser if you click a link. It holds the referring domain. By the way, the real writing is "referrer", however the browser sends "referer" that is because there was a typo in the original RFC (request for comments) document and so everybody used the wrong writing as it was defined like that in the protocol specification. If you don't know what that is, rfc's exist for any protocol that exists in the computing world and describe every function in detail, also the HTTP standard which all this stuff with "user agent" and "referer" is based on. so if you are every curious about how things really work, look at the rfc! anyways just as little background...back to referer cloaking: as i said, the referrer is sent by the browser once a user follows a link.
+
+To illustrate the point better i guess it would be a good idea to show you guys an actual header packet that is sent from the browser to the server in a so called GET request when requesting a website:
+
+Code:
+GET /url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved= HTTP/1.1
+Host: www.google.de
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: de,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Referer: https://www.google.de
+Cookie: NID=73=CxfcRkEuVWqfY6ZPQ_xEsHiF0nCywwmFO7O0EZbHr8OScN-
+Connection: keep-alive
+
+So here the same pattern matching technic is applied, simply with the "referer" field. If the user is coming from google search, then redirect him, otherwise show the real site.
+
+IP Cloaking:
+Here we have a bit more advanced method, as it involves keeping track of known bot IPs and cloak them based on IP.
+There are existing bot lists with thousands of IP entries and there are also service providers offering updated IP lists via subscriptions,
+however there is a downside - 1 new bot IP and the whole setup is fucked and the bot won't be blocked. Don't get me wrong this method is still kinda reliable for a while with updated lists, but its a constant hunt for the latest IPs.
+How this works is simple: a script checks every visitor IP against the bot list (which can also slow down page load) and decides if its a bot or not.
+What makes this more difficult is not the code, but keeping up with the bot IPs. I wrote a cloaker called FinalCloak that solves this problem reliably, but its still in private beta. More on it once its ready for public release (Its been tested since 2014 and works well ever since). Anyways just as hint that even this problem can be dealth with..
+
+rDNS Checks
+This is more like an additional check to other cloaking methods. "rDNS" stands for "reverse DNS" and is simply the main hostname of an IP. Since you probably know an IP can host many virtual websites, but the IP always resolves to 1 hostname. So for google this is "googlebot.com" and its a good idea to not only check the IP if its googlebot, but also see if the rDNS entry matches. Its easy to spoof the "user agent", anybody can set it freely so you can write a script (or install a browser plugin) that advertises itself with the UA from googlebot and so circumvent the cloaking i.e. to spy on competitors. Likely manual reviewers from google might try that aswell, however if there is an additional rDNS check they would still be cloaked properly, despite the google UA.
+
+0day Methods
+there are a few private technics out there, but obviously i won't disclose them here in public. otherwise a lot of people would bitch at me hehe
+
+Different Types of Cloaking:
+
+In addition to the main methods, there are also different types of cloaking that you might encounter like:
+
+- Mosaic Cloaking:
+Usually we cloak the full page, but mosaic cloaking is only cloaking parts of the website in an effort to be more stealth.
+Usually only specific parts like div's with extra content or "above the fold" ads that google doesn't like.
+
+- Link Cloaking:
+Cloaking of links only to avoid having too many (or at all) affiliate links on a website. So real users see the affiliate links, google doesn't.
+
+
+Ok thats it for now, hope this little introduction helps you to get started
+Liked by: Indescribable, jburrtucaz, Funiki and 121 others
+Number of likes: 124
