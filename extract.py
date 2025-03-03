@@ -31,6 +31,7 @@ SCROLL_DELAY_LIKES = 3
 WRITE_DELAY = 3
 BASE_SPEED = 0.001
 SUB_FORUM_LIST_FILE = "Sub-Forum-List.txt"
+VISITED_THREADS_FILE = "Thread_links.txt"
 
 # --- Configure Logging ---
 def setup_logger(log_dir):
@@ -126,7 +127,30 @@ def get_subforum_list(file_path=SUB_FORUM_LIST_FILE):
     except Exception as e:
         logger.error(f"Error reading subforum list file: {e}", exc_info=True)
         return []
-    
+
+def load_visited_threads(file_path=VISITED_THREADS_FILE):
+    """Loads the list of visited threads from the specified file."""
+    try:
+        with open(file_path, "r") as f:
+            visited_threads = [line.strip() for line in f if line.strip()]
+        logger.info(f"Loaded {len(visited_threads)} visited threads from {file_path}")
+        return set(visited_threads)  # Use a set for faster lookups
+    except FileNotFoundError:
+        logger.info(f"Visited threads file '{file_path}' not found. Starting with an empty list.")
+        return set()
+    except Exception as e:
+        logger.error(f"Error reading visited threads file: {e}", exc_info=True)
+        return set()
+
+def save_visited_thread(thread_url, file_path=VISITED_THREADS_FILE):
+    """Appends a thread URL to the list of visited threads."""
+    try:
+        with open(file_path, "a") as f:
+            f.write(thread_url + "\n")
+        logger.info(f"Saved thread URL '{thread_url}' to visited threads file '{file_path}'.")
+    except Exception as e:
+        logger.error(f"Error saving thread URL to visited threads file: {e}", exc_info=True)
+
 # page scroll    
 def scroll_page(driver, scroll_amount=SCROLL_AMOUNT, min_delay=1, max_delay=2.0):
     logger.debug(f"Scrolling page by {scroll_amount} pixels.")
@@ -249,6 +273,27 @@ def like_random_posts(driver, min_likes=MIN_LIKES, max_likes=MAX_LIKES, min_scro
 
     logger.info(f"Liked {len(liked_buttons)} posts successfully.")
 
+def count_main_post_comments(driver):
+    try:
+        # Locate the first post container
+        first_post = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, "//article[@data-author][1]"))
+        )
+
+        # Find all reply buttons inside the first post only
+        reply_buttons = first_post.find_elements(By.XPATH, ".//footer//a[contains(@class, 'actionBar-action--reply')]")
+
+        # Count the number of reply buttons
+        total_comments = len(reply_buttons)
+        
+        print(f"Total comments on the first post: {total_comments}")
+        return total_comments
+
+    except Exception as e:
+        print(f"Error counting comments: {e}")
+        return 0
+
+
 # extract element text
 def extract_element_text(element, xpath):
     try:
@@ -293,7 +338,17 @@ def extract_post_content(driver, output_file):
             except Exception as e:
                 file.write(f"--- Main Post Title ---\nNo main post title found\n\n")
                 logging.warning(f"No main post title found. Error: {e}", exc_info=True)
+            
+            try:
+                all_comments = driver.find_elements(By.XPATH, "//footer//a[contains(@class, 'actionBar-action--reply')]")
+                total_comments = len(all_comments)
+                logger.debug(f"Total comments in the thread: {total_comments}")
+                file.write(f"Total comments in the thread: {total_comments}\n\n")
+            except Exception as e:
+                logger.warning(f"Could not count total comments: {e}", exc_info=True)
+                file.write("Total comments: 0\n\n")
 
+            first_post = True
 
             for post_element in all_posts_elements:
                 try:
@@ -338,32 +393,54 @@ def extract_post_content(driver, output_file):
                     file.write("Liked by: No user likes\n")
                     file.write("Number of likes: 0\n")
                     logging.debug(f"No user likes were found: {e}", exc_info=True)
+                
+                # if first_post:
+                #     # Extract Number of comments ONLY for Main Post
+                #     try:
+                #         comments_elements = post_element.find_elements(By.XPATH, ".//footer//a[contains(@class, 'actionBar-action--reply')]")
+                #         num_comments = len(comments_elements)
 
-                # Now compare the extracted string instead of comparing WebElement with a string
-                if post_id:
-                    
-                    try:
-                        comments_elements = post_element.find_elements(By.XPATH, ".//div[@itemprop='text']//div['text']")
-                        if comments_elements:
-                            print("yes")
-                        num_comments = len(comments_elements)
+                #         file.write(f"Number of comments: {num_comments}\n")
+                #         logging.debug(f"Number of comments: {num_comments}")
 
-                        file.write(f"Number of comments: {num_comments}\n")
-                        logging.debug(f"Number of comments: {num_comments}")
+                #     except Exception as e:
+                #         file.write("Number of comments: 0\n")
+                #         logging.debug(f"No reply was found: {e}", exc_info=True)
+                #     first_post = False
+                # else:
+                #     file.write("Number of comments: (Reply Post)\n")  # Indicate it's a reply post
+                #     logging.debug("Number of comments: (Reply Post)")
 
-                    except Exception as e:
-                        file.write("No reply was found:\n")
-                        logging.debug(f"No reply was found: {e}", exc_info=True)
-                else:
-                    print("no")
-                    file.write("Number of comments:  (Reply Post)\n")
-                    logging.debug("Number of comments:  (Reply Post)")
 
-                file.write("-----\n\n")
-            file.write("Replies:\n\n\n")
+                file.write("-----\n\n")  # Separator after each post                
+                file.write("Replies:\n\n\n")
 
     except Exception as e:
         logging.critical(f"General error in extract_post_content: {e}", exc_info=True)
+
+    #             # --- Extract Number of comments ONLY for Main Post & Structure Replies ---
+    #             if post_id == driver.find_element(By.XPATH, '//div//article[@itemscope and @itemtype]//div[@data-lb-id]').get_attribute("data-lb-id"):
+    #                 try:
+    #                     comments_elements = post_element.find_elements(By.XPATH, ".//div[@itemprop='text']//div['text']")
+    #                     num_comments = len(comments_elements)
+                        
+    #                     file.write(f"Number of comments: {num_comments}\n")
+    #                     logging.debug(f"Number of comments: {num_comments}")
+                    
+    #                 except Exception as e:
+    #                     file.write("Number of comments: 0\n")
+    #                     logging.debug(f"No reply was found: {e}", exc_info=True)
+    #             else:
+    #               file.write("Number of comments: 0 (Reply Post)\n")  # Indicate it's a reply post
+    #               logging.debug("Number of comments: 0 (Reply Post)")
+
+    #             # Structure Replies
+    #             file.write("-----\n\n")
+    #             file.write("Replies:\n\n\n")
+
+    # except Exception as e:
+    #     logging.critical(f"General error in extract_post_content: {e}", exc_info=True)
+
 
 # read thread content 
 def read_thread_content(file_path):
@@ -496,7 +573,7 @@ def clear_memory():
     logger.info("Garbage collection completed.")
 
 # find random thread link from Sub-Forum-link
-def find_random_thread_link_from_subforum(driver, subforum_url):
+def find_random_thread_link_from_subforum(driver, subforum_url,visited_threads):
     """Navigates to a subforum and finds a random thread link."""
     try:
         driver.get(subforum_url)
@@ -509,26 +586,36 @@ def find_random_thread_link_from_subforum(driver, subforum_url):
         wait = WebDriverWait(driver, 10)
         wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]")))
         all_threads = driver.find_elements(By.XPATH, "//div[contains(@class, 'structItem')]")
-        non_pinned_threads = []
+        #non_pinned_threads = []
+        unvisited_threads = []
         for thread in all_threads:
             try:
                 
                 if "sticky" in thread.get_attribute("class"):
-                    continue  
+                    print("This is Pinned")
+                    continue      
             
                 title_elements = thread.find_elements(By.XPATH, ".//div[contains(@class, 'structItem-title')]//a")
                 
                 if title_elements:
-                    non_pinned_threads.append(title_elements[0])  
+                    #non_pinned_threads.append(title_elements[0])  
+                    href = title_elements[0].get_attribute("href")
+                    if href not in visited_threads:
+                        unvisited_threads.append(title_elements[0])
 
             except Exception as e:
                 print(f"Skipping a thread due to error: {e}")
 
-        if not non_pinned_threads:
+        if not unvisited_threads:
+            logger.warning(f"No unvisited thread links found in subforum: {subforum_url}")
+            return None
+
+        #if not non_pinned_threads:
             logger.warning(f"No thread links found in subforum: {subforum_url}")
             return None
 
-        random_link = random.choice(non_pinned_threads)
+        random_link = random.choice(unvisited_threads)
+        #random_link = random.choice(non_pinned_threads)
         href = random_link.get_attribute("href")
         logger.info(f"Selected random thread link: {href}")
         return href
@@ -540,12 +627,12 @@ def find_random_thread_link_from_subforum(driver, subforum_url):
     
 # after automation it navigate home page 
 def navigate_home(driver):
-     """Navigates the driver back to the main BHW homepage."""
-     try:
+    """Navigates the driver back to the main BHW homepage."""
+    try:
          driver.get("https://www.blackhatworld.com/")
          logger.info("Navigated back to the homepage.")
          time.sleep(random.uniform(2, 3))  # Short delay to ensure page load
-     except Exception as e:
+    except Exception as e:
          logger.error(f"Failed to navigate back to the homepage: {e}", exc_info=True)
 
 
@@ -558,6 +645,10 @@ if __name__ == "__main__":
         logger.critical("No subforum URLs found in the file. Exiting.")
         exit()
     
+    visited_threads = load_visited_threads()  # Load visited threads at the start
+    if visited_threads:
+        logger.info(f"Successfully loaded links that was already visited!")
+
     while True:
         # Set up new log location for each task
         logger, log_file = setup_logger(LOG_DIRECTORY)
@@ -577,13 +668,15 @@ if __name__ == "__main__":
 
             # Select and navigate a random thread to specific subforum
             subforum_url = random.choice(subforum_urls)
-            thread_link = find_random_thread_link_from_subforum(driver, subforum_url)
+            thread_link = find_random_thread_link_from_subforum(driver, subforum_url,visited_threads)
 
             if thread_link:
                 time.sleep(random.uniform(2, 3))
                 driver.get(thread_link)
                 time.sleep(random.uniform(2, 3))
                 logger.info(f"Navigated to random thread: {thread_link}")
+                visited_threads.add(thread_link)
+                save_visited_thread(thread_link)
             else:
                 logger.warning("Skipping thread processing due to no thread link being found in subforum.")
                 continue #Skip to next subforum
@@ -593,13 +686,11 @@ if __name__ == "__main__":
 
             scroll_random_times(driver, min_scrolls=2, max_scrolls=4, scroll_delay=2)
             time.sleep(random.uniform(2, 3))
-
-            """
+            
             like_random_posts(driver, min_likes=1, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=4, scroll_delay=3)
 
             scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_delay=3)
-            time.sleep(random.uniform(2, 3))
-            """
+            time.sleep(random.uniform(2, 3)) 
 
             # save thread content
             thread_content_file = os.path.join(thread_content_dir, f"{thread_title}.txt")
@@ -627,22 +718,21 @@ if __name__ == "__main__":
             comment_file = os.path.join(api_comments_dir, f"{thread_title}_{sanitized_comment}.txt")
             comment = read_thread_content(comment_file)
             time.sleep(random.uniform(2, 3))
-            """
+            
             if comment:
                 post_comment(driver, comment, write_delay=3)
                 logger.info("Comment posted successfully.")
             else:
                 logger.warning("No comment available to post.")
-            """
+            
             logger.info("Task Completed!!")
             # 1.5) Added code to go back to HOME
 
-             # navigate back to home after automation 
+            # navigate back to home after automation 
             navigate_home(driver)
             
         except Exception as e:
             logger.error(f"An error occurred: {e}", exc_info=True)
-
         
         if driver:
             try:

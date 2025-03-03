@@ -1,0 +1,305 @@
+2025-03-03 11:47:00,448 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-03 11:47:00,449 - INFO - Loaded 2 visited threads from Thread_links.txt
+2025-03-03 11:47:00,449 - INFO - Successfully loaded links that was already visited!
+2025-03-03 11:47:00,449 - INFO - Starting new task. Log file created at: Selenium-Logs\script_log_20250303_114700.log
+2025-03-03 11:47:00,449 - INFO - Starting new task. Log file created at: Selenium-Logs\script_log_20250303_114700.log
+2025-03-03 11:47:01,658 - DEBUG - Chrome driver initialized.
+2025-03-03 11:47:01,658 - DEBUG - Chrome driver initialized.
+2025-03-03 11:47:05,588 - DEBUG - Navigating to URL.
+2025-03-03 11:47:05,588 - DEBUG - Navigating to URL.
+2025-03-03 11:47:06,441 - INFO - Navigated to https://www.blackhatworld.com/
+2025-03-03 11:47:06,441 - INFO - Navigated to https://www.blackhatworld.com/
+2025-03-03 11:47:06,442 - DEBUG - Scrolling page 3 times.
+2025-03-03 11:47:06,442 - DEBUG - Scrolling page 3 times.
+2025-03-03 11:47:06,442 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:06,442 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:08,140 - DEBUG - Page scrolled.
+2025-03-03 11:47:08,140 - DEBUG - Page scrolled.
+2025-03-03 11:47:10,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:10,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:11,405 - DEBUG - Page scrolled.
+2025-03-03 11:47:11,405 - DEBUG - Page scrolled.
+2025-03-03 11:47:13,406 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:13,406 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:14,663 - DEBUG - Page scrolled.
+2025-03-03 11:47:14,663 - DEBUG - Page scrolled.
+2025-03-03 11:47:16,664 - DEBUG - Random scrolls complete.
+2025-03-03 11:47:16,664 - DEBUG - Random scrolls complete.
+2025-03-03 11:47:18,497 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-03-03 11:47:18,497 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-03-03 11:47:21,690 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/do-people-offer-this-low-for-adult-niche-promo.1677512/unread
+2025-03-03 11:47:21,690 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/do-people-offer-this-low-for-adult-niche-promo.1677512/unread
+2025-03-03 11:47:28,643 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/do-people-offer-this-low-for-adult-niche-promo.1677512/unread
+2025-03-03 11:47:28,643 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/do-people-offer-this-low-for-adult-niche-promo.1677512/unread
+2025-03-03 11:47:28,645 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/do-people-offer-this-low-for-adult-niche-promo.1677512/unread' to visited threads file 'Thread_links.txt'.
+2025-03-03 11:47:28,645 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/do-people-offer-this-low-for-adult-niche-promo.1677512/unread' to visited threads file 'Thread_links.txt'.
+2025-03-03 11:47:28,673 - INFO - Extracted thread title: Do people offer this low for Adult niche promo
+2025-03-03 11:47:28,673 - INFO - Extracted thread title: Do people offer this low for Adult niche promo
+2025-03-03 11:47:28,674 - DEBUG - Scrolling page 3 times.
+2025-03-03 11:47:28,674 - DEBUG - Scrolling page 3 times.
+2025-03-03 11:47:28,675 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:28,675 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:30,152 - DEBUG - Page scrolled.
+2025-03-03 11:47:30,152 - DEBUG - Page scrolled.
+2025-03-03 11:47:32,155 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:32,155 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:33,862 - DEBUG - Page scrolled.
+2025-03-03 11:47:33,862 - DEBUG - Page scrolled.
+2025-03-03 11:47:35,864 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:35,864 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:37,370 - DEBUG - Page scrolled.
+2025-03-03 11:47:37,370 - DEBUG - Page scrolled.
+2025-03-03 11:47:39,372 - DEBUG - Random scrolls complete.
+2025-03-03 11:47:39,372 - DEBUG - Random scrolls complete.
+2025-03-03 11:47:41,880 - DEBUG - Scrolling page 4 times.
+2025-03-03 11:47:41,880 - DEBUG - Scrolling page 4 times.
+2025-03-03 11:47:41,881 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:41,881 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:42,991 - DEBUG - Page scrolled.
+2025-03-03 11:47:42,991 - DEBUG - Page scrolled.
+2025-03-03 11:47:45,993 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:45,993 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:47,663 - DEBUG - Page scrolled.
+2025-03-03 11:47:47,663 - DEBUG - Page scrolled.
+2025-03-03 11:47:50,664 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:50,664 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:52,043 - DEBUG - Page scrolled.
+2025-03-03 11:47:52,043 - DEBUG - Page scrolled.
+2025-03-03 11:47:55,046 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:55,046 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:47:56,366 - DEBUG - Page scrolled.
+2025-03-03 11:47:56,366 - DEBUG - Page scrolled.
+2025-03-03 11:47:59,368 - DEBUG - Random scrolls complete.
+2025-03-03 11:47:59,368 - DEBUG - Random scrolls complete.
+2025-03-03 11:47:59,396 - DEBUG - Found 9 like buttons.
+2025-03-03 11:47:59,396 - DEBUG - Found 9 like buttons.
+2025-03-03 11:48:02,398 - INFO - Attempting to like 4 posts. There are 9 available.
+2025-03-03 11:48:02,398 - INFO - Attempting to like 4 posts. There are 9 available.
+2025-03-03 11:48:03,339 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-03 11:48:03,339 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-03 11:48:03,360 - INFO - Like button clicked successfully using JavaScript.
+2025-03-03 11:48:03,360 - INFO - Like button clicked successfully using JavaScript.
+2025-03-03 11:48:03,362 - DEBUG - Liked post number 1 of 4.
+2025-03-03 11:48:03,362 - DEBUG - Liked post number 1 of 4.
+2025-03-03 11:48:08,595 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-03 11:48:08,595 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-03 11:48:08,611 - INFO - Like button clicked successfully using JavaScript.
+2025-03-03 11:48:08,611 - INFO - Like button clicked successfully using JavaScript.
+2025-03-03 11:48:08,613 - DEBUG - Liked post number 2 of 4.
+2025-03-03 11:48:08,613 - DEBUG - Liked post number 2 of 4.
+2025-03-03 11:48:14,035 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-03 11:48:14,035 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-03 11:48:14,056 - INFO - Like button clicked successfully using JavaScript.
+2025-03-03 11:48:14,056 - INFO - Like button clicked successfully using JavaScript.
+2025-03-03 11:48:14,057 - DEBUG - Liked post number 3 of 4.
+2025-03-03 11:48:14,057 - DEBUG - Liked post number 3 of 4.
+2025-03-03 11:48:19,589 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-03 11:48:19,589 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-03 11:48:19,614 - INFO - Like button clicked successfully using JavaScript.
+2025-03-03 11:48:19,614 - INFO - Like button clicked successfully using JavaScript.
+2025-03-03 11:48:19,615 - DEBUG - Liked post number 4 of 4.
+2025-03-03 11:48:19,615 - DEBUG - Liked post number 4 of 4.
+2025-03-03 11:48:24,003 - INFO - Liked 4 posts successfully.
+2025-03-03 11:48:24,003 - INFO - Liked 4 posts successfully.
+2025-03-03 11:48:24,004 - INFO - Liked 4 posts successfully.
+2025-03-03 11:48:24,004 - INFO - Liked 4 posts successfully.
+2025-03-03 11:48:24,005 - DEBUG - Scrolling page 4 times.
+2025-03-03 11:48:24,005 - DEBUG - Scrolling page 4 times.
+2025-03-03 11:48:24,006 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:48:24,006 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:48:25,271 - DEBUG - Page scrolled.
+2025-03-03 11:48:25,271 - DEBUG - Page scrolled.
+2025-03-03 11:48:28,272 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:48:28,272 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:48:29,884 - DEBUG - Page scrolled.
+2025-03-03 11:48:29,884 - DEBUG - Page scrolled.
+2025-03-03 11:48:32,886 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:48:32,886 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:48:34,683 - DEBUG - Page scrolled.
+2025-03-03 11:48:34,683 - DEBUG - Page scrolled.
+2025-03-03 11:48:37,684 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:48:37,684 - DEBUG - Scrolling page by 500 pixels.
+2025-03-03 11:48:39,575 - DEBUG - Page scrolled.
+2025-03-03 11:48:39,575 - DEBUG - Page scrolled.
+2025-03-03 11:48:42,576 - DEBUG - Random scrolls complete.
+2025-03-03 11:48:42,576 - DEBUG - Random scrolls complete.
+2025-03-03 11:48:44,845 - DEBUG - Total comments in the thread: 9
+2025-03-03 11:48:44,845 - DEBUG - Total comments in the thread: 9
+2025-03-03 11:49:07,506 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Do people offer this low for Adult niche promo.txt
+2025-03-03 11:49:07,506 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Do people offer this low for Adult niche promo.txt
+2025-03-03 11:49:09,873 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-03 11:49:09,873 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-03 11:49:09,923 - DEBUG - Extracted main post content: I've been going back and forth with someone wanting me to promote their Adult niche website, but i was shocked that he's trying to only offer me $30/week for multiple posts per day + pinned tweets
+
+
+
+for reference, i'm getting +8 million impressions per month on that account alone...
+
+Are people offering and accepting these low amounts for real or is he just bluffing?
+2025-03-03 11:49:09,923 - DEBUG - Extracted main post content: I've been going back and forth with someone wanting me to promote their Adult niche website, but i was shocked that he's trying to only offer me $30/week for multiple posts per day + pinned tweets
+
+
+
+for reference, i'm getting +8 million impressions per month on that account alone...
+
+Are people offering and accepting these low amounts for real or is he just bluffing?
+2025-03-03 11:49:13,949 - INFO - Successfully generated comments using Gemini API.
+2025-03-03 11:49:13,949 - INFO - Successfully generated comments using Gemini API.
+2025-03-03 11:49:13,951 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-03 11:49:13,951 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-03 11:49:13,953 - INFO - API comment generated and saved to Thread-Details\API Comments\Do people offer this low for Adult niche promo_Wow, that sounds crazy low for that many impressio.txt
+2025-03-03 11:49:13,953 - INFO - API comment generated and saved to Thread-Details\API Comments\Do people offer this low for Adult niche promo_Wow, that sounds crazy low for that many impressio.txt
+2025-03-03 11:49:16,427 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-03 11:49:16,427 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-03 11:49:16,428 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-03 11:49:16,428 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-03 11:49:16,457 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-03 11:49:16,457 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-03 11:49:16,501 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-03 11:49:16,501 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-03 11:49:16,510 - DEBUG - Text box scrolled into view
+2025-03-03 11:49:16,510 - DEBUG - Text box scrolled into view
+2025-03-03 11:49:17,229 - DEBUG - Initializing actionchains
+2025-03-03 11:49:17,229 - DEBUG - Initializing actionchains
+2025-03-03 11:49:17,283 - DEBUG - Post reply Element location: {'x': 1384, 'y': 4239}, size: {'height': 21, 'width': 68}
+2025-03-03 11:49:17,283 - DEBUG - Post reply Element location: {'x': 1384, 'y': 4239}, size: {'height': 21, 'width': 68}
+2025-03-03 11:49:17,284 - DEBUG - Target click coordinates: (1418, 4249)
+2025-03-03 11:49:17,284 - DEBUG - Target click coordinates: (1418, 4249)
+2025-03-03 11:49:17,284 - DEBUG - Moving mouse from (375, 736) to (1418, 4249).
+2025-03-03 11:49:17,284 - DEBUG - Moving mouse from (375, 736) to (1418, 4249).
+2025-03-03 11:49:17,285 - DEBUG - Generating Bezier path from (375, 736) to (1418, 4249) with 50 points.
+2025-03-03 11:49:17,285 - DEBUG - Generating Bezier path from (375, 736) to (1418, 4249) with 50 points.
+2025-03-03 11:49:17,285 - DEBUG - Control point: (345, 675)
+2025-03-03 11:49:17,285 - DEBUG - Control point: (345, 675)
+2025-03-03 11:49:17,286 - DEBUG - Generated Bezier path with 50 points.
+2025-03-03 11:49:17,286 - DEBUG - Generated Bezier path with 50 points.
+2025-03-03 11:49:17,286 - DEBUG - Moved mouse to (375, 736), delay: 0.0000
+2025-03-03 11:49:17,286 - DEBUG - Moved mouse to (375, 736), delay: 0.0000
+2025-03-03 11:49:17,288 - DEBUG - Moved mouse to (374, 735), delay: 0.0014
+2025-03-03 11:49:17,288 - DEBUG - Moved mouse to (374, 735), delay: 0.0014
+2025-03-03 11:49:17,291 - DEBUG - Moved mouse to (374, 737), delay: 0.0016
+2025-03-03 11:49:17,291 - DEBUG - Moved mouse to (374, 737), delay: 0.0016
+2025-03-03 11:49:17,295 - DEBUG - Moved mouse to (375, 742), delay: 0.0031
+2025-03-03 11:49:17,295 - DEBUG - Moved mouse to (375, 742), delay: 0.0031
+2025-03-03 11:49:17,302 - DEBUG - Moved mouse to (377, 750), delay: 0.0053
+2025-03-03 11:49:17,302 - DEBUG - Moved mouse to (377, 750), delay: 0.0053
+2025-03-03 11:49:17,309 - DEBUG - Moved mouse to (380, 761), delay: 0.0050
+2025-03-03 11:49:17,309 - DEBUG - Moved mouse to (380, 761), delay: 0.0050
+2025-03-03 11:49:17,318 - DEBUG - Moved mouse to (384, 775), delay: 0.0061
+2025-03-03 11:49:17,318 - DEBUG - Moved mouse to (384, 775), delay: 0.0061
+2025-03-03 11:49:17,331 - DEBUG - Moved mouse to (388, 792), delay: 0.0119
+2025-03-03 11:49:17,331 - DEBUG - Moved mouse to (388, 792), delay: 0.0119
+2025-03-03 11:49:17,345 - DEBUG - Moved mouse to (394, 812), delay: 0.0124
+2025-03-03 11:49:17,345 - DEBUG - Moved mouse to (394, 812), delay: 0.0124
+2025-03-03 11:49:17,360 - DEBUG - Moved mouse to (401, 836), delay: 0.0143
+2025-03-03 11:49:17,360 - DEBUG - Moved mouse to (401, 836), delay: 0.0143
+2025-03-03 11:49:17,377 - DEBUG - Moved mouse to (408, 862), delay: 0.0134
+2025-03-03 11:49:17,377 - DEBUG - Moved mouse to (408, 862), delay: 0.0134
+2025-03-03 11:49:17,393 - DEBUG - Moved mouse to (417, 891), delay: 0.0117
+2025-03-03 11:49:17,393 - DEBUG - Moved mouse to (417, 891), delay: 0.0117
+2025-03-03 11:49:17,410 - DEBUG - Moved mouse to (426, 924), delay: 0.0128
+2025-03-03 11:49:17,410 - DEBUG - Moved mouse to (426, 924), delay: 0.0128
+2025-03-03 11:49:17,427 - DEBUG - Moved mouse to (436, 959), delay: 0.0135
+2025-03-03 11:49:17,427 - DEBUG - Moved mouse to (436, 959), delay: 0.0135
+2025-03-03 11:49:17,443 - DEBUG - Moved mouse to (447, 997), delay: 0.0143
+2025-03-03 11:49:17,443 - DEBUG - Moved mouse to (447, 997), delay: 0.0143
+2025-03-03 11:49:17,464 - DEBUG - Moved mouse to (459, 1039), delay: 0.0195
+2025-03-03 11:49:17,464 - DEBUG - Moved mouse to (459, 1039), delay: 0.0195
+2025-03-03 11:49:17,485 - DEBUG - Moved mouse to (473, 1083), delay: 0.0164
+2025-03-03 11:49:17,485 - DEBUG - Moved mouse to (473, 1083), delay: 0.0164
+2025-03-03 11:49:17,512 - DEBUG - Moved mouse to (486, 1131), delay: 0.0246
+2025-03-03 11:49:17,512 - DEBUG - Moved mouse to (486, 1131), delay: 0.0246
+2025-03-03 11:49:17,541 - DEBUG - Moved mouse to (501, 1181), delay: 0.0277
+2025-03-03 11:49:17,541 - DEBUG - Moved mouse to (501, 1181), delay: 0.0277
+2025-03-03 11:49:17,567 - DEBUG - Moved mouse to (517, 1235), delay: 0.0231
+2025-03-03 11:49:17,567 - DEBUG - Moved mouse to (517, 1235), delay: 0.0231
+2025-03-03 11:49:17,590 - DEBUG - Moved mouse to (534, 1291), delay: 0.0212
+2025-03-03 11:49:17,590 - DEBUG - Moved mouse to (534, 1291), delay: 0.0212
+2025-03-03 11:49:17,613 - DEBUG - Moved mouse to (551, 1351), delay: 0.0202
+2025-03-03 11:49:17,613 - DEBUG - Moved mouse to (551, 1351), delay: 0.0202
+2025-03-03 11:49:17,642 - DEBUG - Moved mouse to (570, 1413), delay: 0.0279
+2025-03-03 11:49:17,642 - DEBUG - Moved mouse to (570, 1413), delay: 0.0279
+2025-03-03 11:49:17,679 - DEBUG - Moved mouse to (589, 1479), delay: 0.0349
+2025-03-03 11:49:17,679 - DEBUG - Moved mouse to (589, 1479), delay: 0.0349
+2025-03-03 11:49:17,702 - DEBUG - Moved mouse to (610, 1548), delay: 0.0218
+2025-03-03 11:49:17,702 - DEBUG - Moved mouse to (610, 1548), delay: 0.0218
+2025-03-03 11:49:17,730 - DEBUG - Moved mouse to (631, 1619), delay: 0.0274
+2025-03-03 11:49:17,730 - DEBUG - Moved mouse to (631, 1619), delay: 0.0274
+2025-03-03 11:49:17,766 - DEBUG - Moved mouse to (653, 1694), delay: 0.0346
+2025-03-03 11:49:17,766 - DEBUG - Moved mouse to (653, 1694), delay: 0.0346
+2025-03-03 11:49:17,803 - DEBUG - Moved mouse to (676, 1772), delay: 0.0362
+2025-03-03 11:49:17,803 - DEBUG - Moved mouse to (676, 1772), delay: 0.0362
+2025-03-03 11:49:17,832 - DEBUG - Moved mouse to (700, 1853), delay: 0.0279
+2025-03-03 11:49:17,832 - DEBUG - Moved mouse to (700, 1853), delay: 0.0279
+2025-03-03 11:49:17,864 - DEBUG - Moved mouse to (725, 1937), delay: 0.0307
+2025-03-03 11:49:17,864 - DEBUG - Moved mouse to (725, 1937), delay: 0.0307
+2025-03-03 11:49:17,896 - DEBUG - Moved mouse to (751, 2023), delay: 0.0299
+2025-03-03 11:49:17,896 - DEBUG - Moved mouse to (751, 2023), delay: 0.0299
+2025-03-03 11:49:17,925 - DEBUG - Moved mouse to (778, 2113), delay: 0.0261
+2025-03-03 11:49:17,925 - DEBUG - Moved mouse to (778, 2113), delay: 0.0261
+2025-03-03 11:49:17,961 - DEBUG - Moved mouse to (806, 2206), delay: 0.0341
+2025-03-03 11:49:17,961 - DEBUG - Moved mouse to (806, 2206), delay: 0.0341
+2025-03-03 11:49:17,989 - DEBUG - Moved mouse to (834, 2302), delay: 0.0259
+2025-03-03 11:49:17,989 - DEBUG - Moved mouse to (834, 2302), delay: 0.0259
+2025-03-03 11:49:18,019 - DEBUG - Moved mouse to (864, 2401), delay: 0.0278
+2025-03-03 11:49:18,019 - DEBUG - Moved mouse to (864, 2401), delay: 0.0278
+2025-03-03 11:49:18,063 - DEBUG - Moved mouse to (894, 2503), delay: 0.0424
+2025-03-03 11:49:18,063 - DEBUG - Moved mouse to (894, 2503), delay: 0.0424
+2025-03-03 11:49:18,110 - DEBUG - Moved mouse to (926, 2608), delay: 0.0446
+2025-03-03 11:49:18,110 - DEBUG - Moved mouse to (926, 2608), delay: 0.0446
+2025-03-03 11:49:18,160 - DEBUG - Moved mouse to (958, 2716), delay: 0.0479
+2025-03-03 11:49:18,160 - DEBUG - Moved mouse to (958, 2716), delay: 0.0479
+2025-03-03 11:49:18,211 - DEBUG - Moved mouse to (991, 2827), delay: 0.0483
+2025-03-03 11:49:18,211 - DEBUG - Moved mouse to (991, 2827), delay: 0.0483
+2025-03-03 11:49:18,251 - DEBUG - Moved mouse to (1025, 2941), delay: 0.0383
+2025-03-03 11:49:18,251 - DEBUG - Moved mouse to (1025, 2941), delay: 0.0383
+2025-03-03 11:49:18,301 - DEBUG - Moved mouse to (1061, 3058), delay: 0.0483
+2025-03-03 11:49:18,301 - DEBUG - Moved mouse to (1061, 3058), delay: 0.0483
+2025-03-03 11:49:18,338 - DEBUG - Moved mouse to (1097, 3178), delay: 0.0348
+2025-03-03 11:49:18,338 - DEBUG - Moved mouse to (1097, 3178), delay: 0.0348
+2025-03-03 11:49:18,392 - DEBUG - Moved mouse to (1133, 3302), delay: 0.0518
+2025-03-03 11:49:18,392 - DEBUG - Moved mouse to (1133, 3302), delay: 0.0518
+2025-03-03 11:49:18,445 - DEBUG - Moved mouse to (1171, 3428), delay: 0.0515
+2025-03-03 11:49:18,445 - DEBUG - Moved mouse to (1171, 3428), delay: 0.0515
+2025-03-03 11:49:18,487 - DEBUG - Moved mouse to (1210, 3557), delay: 0.0409
+2025-03-03 11:49:18,487 - DEBUG - Moved mouse to (1210, 3557), delay: 0.0409
+2025-03-03 11:49:18,522 - DEBUG - Moved mouse to (1250, 3689), delay: 0.0327
+2025-03-03 11:49:18,522 - DEBUG - Moved mouse to (1250, 3689), delay: 0.0327
+2025-03-03 11:49:18,558 - DEBUG - Moved mouse to (1290, 3824), delay: 0.0347
+2025-03-03 11:49:18,558 - DEBUG - Moved mouse to (1290, 3824), delay: 0.0347
+2025-03-03 11:49:18,617 - DEBUG - Moved mouse to (1332, 3963), delay: 0.0568
+2025-03-03 11:49:18,617 - DEBUG - Moved mouse to (1332, 3963), delay: 0.0568
+2025-03-03 11:49:18,682 - DEBUG - Moved mouse to (1374, 4104), delay: 0.0633
+2025-03-03 11:49:18,682 - DEBUG - Moved mouse to (1374, 4104), delay: 0.0633
+2025-03-03 11:49:18,742 - DEBUG - Moved mouse to (1418, 4249), delay: 0.0590
+2025-03-03 11:49:18,742 - DEBUG - Moved mouse to (1418, 4249), delay: 0.0590
+2025-03-03 11:49:18,743 - INFO - Successfully moved mouse to (1418, 4249) using Bezier curve.
+2025-03-03 11:49:18,743 - INFO - Successfully moved mouse to (1418, 4249) using Bezier curve.
+2025-03-03 11:49:18,746 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-03 11:49:18,746 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-03 11:49:18,747 - DEBUG - Moving mouse to text box element.
+2025-03-03 11:49:18,747 - DEBUG - Moving mouse to text box element.
+2025-03-03 11:49:18,748 - DEBUG - Clicking on the text box.
+2025-03-03 11:49:18,748 - DEBUG - Clicking on the text box.
+2025-03-03 11:49:18,750 - DEBUG - Sending keys with content: Wow, that sounds crazy low for that many impressions. I'd definitely hold out for something way better than that.
+
+2025-03-03 11:49:18,750 - DEBUG - Sending keys with content: Wow, that sounds crazy low for that many impressions. I'd definitely hold out for something way better than that.
+
+2025-03-03 11:49:24,493 - DEBUG - Clicking on post reply button.
+2025-03-03 11:49:24,493 - DEBUG - Clicking on post reply button.
+2025-03-03 11:49:35,471 - DEBUG - Performed Actionchains
+2025-03-03 11:49:35,471 - DEBUG - Performed Actionchains
+2025-03-03 11:49:35,472 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-03 11:49:35,472 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-03 11:49:39,474 - INFO - Comment posted successfully.
+2025-03-03 11:49:39,474 - INFO - Comment posted successfully.
+2025-03-03 11:49:39,476 - INFO - Task Completed!!
+2025-03-03 11:49:39,476 - INFO - Task Completed!!
+2025-03-03 11:49:41,579 - INFO - Navigated back to the homepage.
+2025-03-03 11:49:41,579 - INFO - Navigated back to the homepage.
+2025-03-03 11:49:45,724 - INFO - Attempting to clear memory and resources.
+2025-03-03 11:49:45,724 - INFO - Attempting to clear memory and resources.
+2025-03-03 11:49:45,759 - INFO - Garbage collection completed.
+2025-03-03 11:49:45,759 - INFO - Garbage collection completed.
+2025-03-03 11:49:45,760 - INFO - Waiting for 180 seconds before next execution.
+2025-03-03 11:49:45,760 - INFO - Waiting for 180 seconds before next execution.
