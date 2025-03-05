@@ -1,0 +1,142 @@
+2025-03-05 14:03:47,206 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250305_140347.log
+2025-03-05 14:03:47,207 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-05 14:03:47,228 - INFO - Loaded 47 visited threads from Thread_links.txt
+2025-03-05 14:03:47,229 - INFO - Successfully loaded links that was already visited!
+2025-03-05 14:03:47,230 - DEBUG - Scrolling page 7 times.
+2025-03-05 14:03:47,230 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:03:53,640 - DEBUG - Page scrolled.
+2025-03-05 14:03:55,642 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:03:56,705 - DEBUG - Page scrolled.
+2025-03-05 14:03:58,706 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:00,010 - DEBUG - Page scrolled.
+2025-03-05 14:04:02,012 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:03,067 - DEBUG - Page scrolled.
+2025-03-05 14:04:05,069 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:06,155 - DEBUG - Page scrolled.
+2025-03-05 14:04:08,156 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:10,097 - DEBUG - Page scrolled.
+2025-03-05 14:04:12,098 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:13,565 - DEBUG - Page scrolled.
+2025-03-05 14:04:15,567 - DEBUG - Random scrolls complete.
+2025-03-05 14:04:24,351 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-03-05 14:04:28,776 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-offers-for-linkedin-ads.1691714/unread
+2025-03-05 14:04:37,619 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-offers-for-linkedin-ads.1691714/unread
+2025-03-05 14:04:37,622 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-offers-for-linkedin-ads.1691714/unread' to visited threads file 'Thread_links.txt'.
+2025-03-05 14:04:37,654 - INFO - Extracted thread title: Best Offers for Linkedin Ads
+2025-03-05 14:04:37,655 - DEBUG - Scrolling page 2 times.
+2025-03-05 14:04:37,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:39,319 - DEBUG - Page scrolled.
+2025-03-05 14:04:41,321 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:42,995 - DEBUG - Page scrolled.
+2025-03-05 14:04:44,996 - DEBUG - Random scrolls complete.
+2025-03-05 14:04:47,606 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:04:47,607 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:49,613 - DEBUG - Page scrolled.
+2025-03-05 14:04:52,614 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:54,249 - DEBUG - Page scrolled.
+2025-03-05 14:04:57,251 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:04:58,800 - DEBUG - Page scrolled.
+2025-03-05 14:05:01,802 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:05:02,855 - DEBUG - Page scrolled.
+2025-03-05 14:05:05,856 - DEBUG - Random scrolls complete.
+2025-03-05 14:05:05,881 - DEBUG - Found 5 like buttons.
+2025-03-05 14:05:08,882 - INFO - Attempting to like 1 posts. There are 5 available.
+2025-03-05 14:05:09,534 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 14:05:09,563 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 14:05:09,564 - DEBUG - Liked post number 1 of 1.
+2025-03-05 14:05:14,209 - INFO - Liked 1 posts successfully.
+2025-03-05 14:05:14,210 - INFO - Liked 1 posts successfully.
+2025-03-05 14:05:14,211 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:05:14,211 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:05:16,016 - DEBUG - Page scrolled.
+2025-03-05 14:05:19,018 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:05:20,699 - DEBUG - Page scrolled.
+2025-03-05 14:05:23,700 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:05:25,643 - DEBUG - Page scrolled.
+2025-03-05 14:05:28,645 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:05:30,608 - DEBUG - Page scrolled.
+2025-03-05 14:05:33,612 - DEBUG - Random scrolls complete.
+2025-03-05 14:05:36,237 - DEBUG - Total comments in the thread: 5
+2025-03-05 14:05:52,606 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Best Offers for Linkedin Ads.txt
+2025-03-05 14:05:54,941 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-05 14:05:54,997 - DEBUG - Extracted main post content: Can someone tell what is best niche or Best Offers for Linkedin Ads?
+2025-03-05 14:06:00,001 - INFO - Successfully generated comments using Gemini API.
+2025-03-05 14:06:00,005 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-05 14:06:00,006 - INFO - API comment generated and saved to Thread-Details\API Comments\Best Offers for Linkedin Ads_Honestly, nailing down your exact audience on Link.txt
+2025-03-05 14:06:02,093 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:06:02,095 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:06:02,132 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:06:02,185 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:06:02,197 - DEBUG - Text box scrolled into view
+2025-03-05 14:06:03,042 - DEBUG - Initializing actionchains
+2025-03-05 14:06:03,102 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2293}, size: {'height': 21, 'width': 68}
+2025-03-05 14:06:03,102 - DEBUG - Target click coordinates: (1121, 2303)
+2025-03-05 14:06:03,102 - DEBUG - Moving mouse from (848, 444) to (1121, 2303).
+2025-03-05 14:06:03,103 - DEBUG - Generating Bezier path from (848, 444) to (1121, 2303) with 50 points.
+2025-03-05 14:06:03,103 - DEBUG - Control point: (786, 433)
+2025-03-05 14:06:03,104 - DEBUG - Generated Bezier path with 50 points.
+2025-03-05 14:06:03,104 - DEBUG - Moved mouse to (848, 444), delay: 0.0000
+2025-03-05 14:06:03,107 - DEBUG - Moved mouse to (845, 444), delay: 0.0019
+2025-03-05 14:06:03,110 - DEBUG - Moved mouse to (843, 446), delay: 0.0018
+2025-03-05 14:06:03,115 - DEBUG - Moved mouse to (841, 449), delay: 0.0030
+2025-03-05 14:06:03,120 - DEBUG - Moved mouse to (840, 454), delay: 0.0038
+2025-03-05 14:06:03,128 - DEBUG - Moved mouse to (839, 461), delay: 0.0064
+2025-03-05 14:06:03,135 - DEBUG - Moved mouse to (838, 469), delay: 0.0062
+2025-03-05 14:06:03,142 - DEBUG - Moved mouse to (838, 479), delay: 0.0055
+2025-03-05 14:06:03,152 - DEBUG - Moved mouse to (838, 490), delay: 0.0087
+2025-03-05 14:06:03,160 - DEBUG - Moved mouse to (838, 503), delay: 0.0073
+2025-03-05 14:06:03,168 - DEBUG - Moved mouse to (839, 517), delay: 0.0065
+2025-03-05 14:06:03,177 - DEBUG - Moved mouse to (840, 533), delay: 0.0074
+2025-03-05 14:06:03,188 - DEBUG - Moved mouse to (841, 551), delay: 0.0092
+2025-03-05 14:06:03,203 - DEBUG - Moved mouse to (843, 570), delay: 0.0136
+2025-03-05 14:06:03,217 - DEBUG - Moved mouse to (844, 591), delay: 0.0135
+2025-03-05 14:06:03,228 - DEBUG - Moved mouse to (847, 613), delay: 0.0100
+2025-03-05 14:06:03,243 - DEBUG - Moved mouse to (849, 637), delay: 0.0145
+2025-03-05 14:06:03,256 - DEBUG - Moved mouse to (852, 662), delay: 0.0106
+2025-03-05 14:06:03,271 - DEBUG - Moved mouse to (856, 689), delay: 0.0147
+2025-03-05 14:06:03,284 - DEBUG - Moved mouse to (859, 718), delay: 0.0123
+2025-03-05 14:06:03,303 - DEBUG - Moved mouse to (863, 748), delay: 0.0173
+2025-03-05 14:06:03,322 - DEBUG - Moved mouse to (867, 780), delay: 0.0180
+2025-03-05 14:06:03,338 - DEBUG - Moved mouse to (872, 813), delay: 0.0149
+2025-03-05 14:06:03,361 - DEBUG - Moved mouse to (877, 848), delay: 0.0159
+2025-03-05 14:06:03,377 - DEBUG - Moved mouse to (882, 884), delay: 0.0142
+2025-03-05 14:06:03,394 - DEBUG - Moved mouse to (888, 922), delay: 0.0155
+2025-03-05 14:06:03,412 - DEBUG - Moved mouse to (893, 961), delay: 0.0161
+2025-03-05 14:06:03,435 - DEBUG - Moved mouse to (900, 1002), delay: 0.0154
+2025-03-05 14:06:03,452 - DEBUG - Moved mouse to (906, 1045), delay: 0.0140
+2025-03-05 14:06:03,468 - DEBUG - Moved mouse to (913, 1089), delay: 0.0143
+2025-03-05 14:06:03,491 - DEBUG - Moved mouse to (920, 1135), delay: 0.0212
+2025-03-05 14:06:03,520 - DEBUG - Moved mouse to (928, 1182), delay: 0.0270
+2025-03-05 14:06:03,544 - DEBUG - Moved mouse to (936, 1231), delay: 0.0220
+2025-03-05 14:06:03,570 - DEBUG - Moved mouse to (944, 1282), delay: 0.0244
+2025-03-05 14:06:03,594 - DEBUG - Moved mouse to (953, 1334), delay: 0.0225
+2025-03-05 14:06:03,620 - DEBUG - Moved mouse to (961, 1387), delay: 0.0232
+2025-03-05 14:06:03,641 - DEBUG - Moved mouse to (971, 1443), delay: 0.0179
+2025-03-05 14:06:03,669 - DEBUG - Moved mouse to (980, 1499), delay: 0.0259
+2025-03-05 14:06:03,698 - DEBUG - Moved mouse to (990, 1558), delay: 0.0261
+2025-03-05 14:06:03,733 - DEBUG - Moved mouse to (1000, 1618), delay: 0.0323
+2025-03-05 14:06:03,758 - DEBUG - Moved mouse to (1011, 1679), delay: 0.0226
+2025-03-05 14:06:03,789 - DEBUG - Moved mouse to (1022, 1742), delay: 0.0279
+2025-03-05 14:06:03,820 - DEBUG - Moved mouse to (1033, 1807), delay: 0.0244
+2025-03-05 14:06:03,842 - DEBUG - Moved mouse to (1044, 1873), delay: 0.0193
+2025-03-05 14:06:03,867 - DEBUG - Moved mouse to (1056, 1940), delay: 0.0228
+2025-03-05 14:06:03,890 - DEBUG - Moved mouse to (1068, 2010), delay: 0.0219
+2025-03-05 14:06:03,925 - DEBUG - Moved mouse to (1081, 2081), delay: 0.0332
+2025-03-05 14:06:03,961 - DEBUG - Moved mouse to (1094, 2153), delay: 0.0331
+2025-03-05 14:06:03,996 - DEBUG - Moved mouse to (1107, 2227), delay: 0.0329
+2025-03-05 14:06:04,036 - DEBUG - Moved mouse to (1121, 2303), delay: 0.0379
+2025-03-05 14:06:04,038 - INFO - Successfully moved mouse to (1121, 2303) using Bezier curve.
+2025-03-05 14:06:04,039 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-05 14:06:04,040 - DEBUG - Moving mouse to text box element.
+2025-03-05 14:06:04,041 - DEBUG - Clicking on the text box.
+2025-03-05 14:06:04,043 - DEBUG - Sending keys with content: Honestly, nailing down your exact audience on LinkedIn is key before even thinking about offers. What roles are you trying to reach?
+
+2025-03-05 14:06:09,232 - DEBUG - Clicking on post reply button.
+2025-03-05 14:06:10,504 - DEBUG - Performed Actionchains
+2025-03-05 14:06:10,508 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-05 14:06:14,509 - INFO - Comment posted successfully.
+2025-03-05 14:06:14,510 - INFO - Task Completed!!
+2025-03-05 14:06:19,548 - INFO - Navigated back to the homepage.
+2025-03-05 14:06:21,604 - INFO - Attempting to clear memory and resources.
+2025-03-05 14:06:21,686 - INFO - Garbage collection completed.
+2025-03-05 14:06:21,687 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,134 @@
+2025-03-05 14:43:12,526 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250305_144312.log
+2025-03-05 14:43:12,529 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-05 14:43:12,560 - INFO - Loaded 50 visited threads from Thread_links.txt
+2025-03-05 14:43:12,561 - INFO - Successfully loaded links that was already visited!
+2025-03-05 14:43:12,562 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:43:12,563 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:43:14,208 - DEBUG - Page scrolled.
+2025-03-05 14:43:16,210 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:43:17,291 - DEBUG - Page scrolled.
+2025-03-05 14:43:19,292 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:43:20,945 - DEBUG - Page scrolled.
+2025-03-05 14:43:22,946 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:43:24,051 - DEBUG - Page scrolled.
+2025-03-05 14:43:26,052 - DEBUG - Random scrolls complete.
+2025-03-05 14:43:33,872 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-03-05 14:43:37,931 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/anybody-willing-to-share-graphic-design-free-courses.1659957/unread
+2025-03-05 14:43:50,275 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/anybody-willing-to-share-graphic-design-free-courses.1659957/unread
+2025-03-05 14:43:50,278 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/anybody-willing-to-share-graphic-design-free-courses.1659957/unread' to visited threads file 'Thread_links.txt'.
+2025-03-05 14:43:50,316 - INFO - Extracted thread title: anybody willing to share graphic design free courses
+2025-03-05 14:43:50,317 - DEBUG - Scrolling page 2 times.
+2025-03-05 14:43:50,318 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:43:52,052 - DEBUG - Page scrolled.
+2025-03-05 14:43:54,053 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:43:55,803 - DEBUG - Page scrolled.
+2025-03-05 14:43:57,804 - DEBUG - Random scrolls complete.
+2025-03-05 14:43:59,812 - DEBUG - Scrolling page 2 times.
+2025-03-05 14:43:59,813 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:44:00,854 - DEBUG - Page scrolled.
+2025-03-05 14:44:03,856 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:44:04,984 - DEBUG - Page scrolled.
+2025-03-05 14:44:07,986 - DEBUG - Random scrolls complete.
+2025-03-05 14:44:08,013 - DEBUG - Found 9 like buttons.
+2025-03-05 14:44:11,014 - INFO - Attempting to like 1 posts. There are 9 available.
+2025-03-05 14:44:11,739 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 14:44:11,751 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 14:44:11,752 - DEBUG - Liked post number 1 of 1.
+2025-03-05 14:44:16,027 - INFO - Liked 1 posts successfully.
+2025-03-05 14:44:16,028 - INFO - Liked 1 posts successfully.
+2025-03-05 14:44:16,028 - DEBUG - Scrolling page 5 times.
+2025-03-05 14:44:16,028 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:44:17,810 - DEBUG - Page scrolled.
+2025-03-05 14:44:20,811 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:44:22,444 - DEBUG - Page scrolled.
+2025-03-05 14:44:25,445 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:44:27,339 - DEBUG - Page scrolled.
+2025-03-05 14:44:30,341 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:44:31,760 - DEBUG - Page scrolled.
+2025-03-05 14:44:34,761 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:44:36,059 - DEBUG - Page scrolled.
+2025-03-05 14:44:39,060 - DEBUG - Random scrolls complete.
+2025-03-05 14:44:41,377 - DEBUG - Total comments in the thread: 9
+2025-03-05 14:45:03,941 - INFO - Post content extracted and saved to Thread-Details\Thread Content\anybody willing to share graphic design free courses.txt
+2025-03-05 14:45:06,911 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-05 14:45:06,948 - DEBUG - Extracted main post content: hello guys anybody willing to share graphic design courses tutorials mostly your help will be highly appreciated
+2025-03-05 14:45:10,294 - INFO - Successfully generated comments using Gemini API.
+2025-03-05 14:45:10,298 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-05 14:45:10,300 - INFO - API comment generated and saved to Thread-Details\API Comments\anybody willing to share graphic design free courses_Hey, I'd check out YouTube; there are tons of free.txt
+2025-03-05 14:45:13,221 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:45:13,222 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:45:13,249 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:45:13,289 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:45:13,296 - DEBUG - Text box scrolled into view
+2025-03-05 14:45:13,908 - DEBUG - Initializing actionchains
+2025-03-05 14:45:13,961 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3465}, size: {'height': 21, 'width': 68}
+2025-03-05 14:45:13,962 - DEBUG - Target click coordinates: (1121, 3475)
+2025-03-05 14:45:13,962 - DEBUG - Moving mouse from (857, 493) to (1121, 3475).
+2025-03-05 14:45:13,962 - DEBUG - Generating Bezier path from (857, 493) to (1121, 3475) with 50 points.
+2025-03-05 14:45:13,963 - DEBUG - Control point: (946, 496)
+2025-03-05 14:45:13,963 - DEBUG - Generated Bezier path with 50 points.
+2025-03-05 14:45:13,964 - DEBUG - Moved mouse to (857, 493), delay: 0.0000
+2025-03-05 14:45:13,966 - DEBUG - Moved mouse to (860, 494), delay: 0.0021
+2025-03-05 14:45:13,972 - DEBUG - Moved mouse to (864, 498), delay: 0.0050
+2025-03-05 14:45:13,977 - DEBUG - Moved mouse to (868, 504), delay: 0.0042
+2025-03-05 14:45:13,986 - DEBUG - Moved mouse to (872, 513), delay: 0.0082
+2025-03-05 14:45:13,996 - DEBUG - Moved mouse to (876, 524), delay: 0.0080
+2025-03-05 14:45:14,007 - DEBUG - Moved mouse to (880, 538), delay: 0.0104
+2025-03-05 14:45:14,021 - DEBUG - Moved mouse to (884, 554), delay: 0.0122
+2025-03-05 14:45:14,031 - DEBUG - Moved mouse to (888, 573), delay: 0.0084
+2025-03-05 14:45:14,045 - DEBUG - Moved mouse to (892, 594), delay: 0.0118
+2025-03-05 14:45:14,058 - DEBUG - Moved mouse to (896, 618), delay: 0.0117
+2025-03-05 14:45:14,075 - DEBUG - Moved mouse to (901, 644), delay: 0.0166
+2025-03-05 14:45:14,090 - DEBUG - Moved mouse to (905, 672), delay: 0.0131
+2025-03-05 14:45:14,103 - DEBUG - Moved mouse to (910, 704), delay: 0.0119
+2025-03-05 14:45:14,123 - DEBUG - Moved mouse to (914, 737), delay: 0.0184
+2025-03-05 14:45:14,137 - DEBUG - Moved mouse to (919, 773), delay: 0.0121
+2025-03-05 14:45:14,158 - DEBUG - Moved mouse to (924, 812), delay: 0.0196
+2025-03-05 14:45:14,173 - DEBUG - Moved mouse to (929, 853), delay: 0.0136
+2025-03-05 14:45:14,199 - DEBUG - Moved mouse to (933, 896), delay: 0.0241
+2025-03-05 14:45:14,224 - DEBUG - Moved mouse to (938, 942), delay: 0.0237
+2025-03-05 14:45:14,248 - DEBUG - Moved mouse to (943, 991), delay: 0.0224
+2025-03-05 14:45:14,269 - DEBUG - Moved mouse to (949, 1042), delay: 0.0179
+2025-03-05 14:45:14,296 - DEBUG - Moved mouse to (954, 1095), delay: 0.0256
+2025-03-05 14:45:14,321 - DEBUG - Moved mouse to (959, 1151), delay: 0.0235
+2025-03-05 14:45:14,346 - DEBUG - Moved mouse to (964, 1209), delay: 0.0234
+2025-03-05 14:45:14,374 - DEBUG - Moved mouse to (970, 1270), delay: 0.0264
+2025-03-05 14:45:14,400 - DEBUG - Moved mouse to (975, 1334), delay: 0.0250
+2025-03-05 14:45:14,433 - DEBUG - Moved mouse to (981, 1399), delay: 0.0309
+2025-03-05 14:45:14,470 - DEBUG - Moved mouse to (986, 1468), delay: 0.0343
+2025-03-05 14:45:14,493 - DEBUG - Moved mouse to (992, 1538), delay: 0.0212
+2025-03-05 14:45:14,529 - DEBUG - Moved mouse to (998, 1612), delay: 0.0343
+2025-03-05 14:45:14,569 - DEBUG - Moved mouse to (1004, 1687), delay: 0.0376
+2025-03-05 14:45:14,607 - DEBUG - Moved mouse to (1009, 1766), delay: 0.0354
+2025-03-05 14:45:14,646 - DEBUG - Moved mouse to (1015, 1846), delay: 0.0375
+2025-03-05 14:45:14,677 - DEBUG - Moved mouse to (1021, 1930), delay: 0.0286
+2025-03-05 14:45:14,711 - DEBUG - Moved mouse to (1028, 2015), delay: 0.0326
+2025-03-05 14:45:14,748 - DEBUG - Moved mouse to (1034, 2103), delay: 0.0350
+2025-03-05 14:45:14,789 - DEBUG - Moved mouse to (1040, 2194), delay: 0.0397
+2025-03-05 14:45:14,826 - DEBUG - Moved mouse to (1046, 2287), delay: 0.0348
+2025-03-05 14:45:14,858 - DEBUG - Moved mouse to (1053, 2383), delay: 0.0308
+2025-03-05 14:45:14,886 - DEBUG - Moved mouse to (1059, 2481), delay: 0.0257
+2025-03-05 14:45:14,928 - DEBUG - Moved mouse to (1066, 2581), delay: 0.0409
+2025-03-05 14:45:14,961 - DEBUG - Moved mouse to (1072, 2684), delay: 0.0307
+2025-03-05 14:45:14,994 - DEBUG - Moved mouse to (1079, 2790), delay: 0.0312
+2025-03-05 14:45:15,039 - DEBUG - Moved mouse to (1086, 2898), delay: 0.0439
+2025-03-05 14:45:15,073 - DEBUG - Moved mouse to (1093, 3008), delay: 0.0326
+2025-03-05 14:45:15,109 - DEBUG - Moved mouse to (1099, 3121), delay: 0.0341
+2025-03-05 14:45:15,146 - DEBUG - Moved mouse to (1106, 3236), delay: 0.0345
+2025-03-05 14:45:15,181 - DEBUG - Moved mouse to (1113, 3354), delay: 0.0340
+2025-03-05 14:45:15,234 - DEBUG - Moved mouse to (1121, 3475), delay: 0.0513
+2025-03-05 14:45:15,237 - INFO - Successfully moved mouse to (1121, 3475) using Bezier curve.
+2025-03-05 14:45:15,238 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-05 14:45:15,239 - DEBUG - Moving mouse to text box element.
+2025-03-05 14:45:15,240 - DEBUG - Clicking on the text box.
+2025-03-05 14:45:15,242 - DEBUG - Sending keys with content: Hey, I'd check out YouTube; there are tons of free graphic design tutorials to get you started.
+
+2025-03-05 14:45:20,642 - DEBUG - Clicking on post reply button.
+2025-03-05 14:45:31,573 - DEBUG - Performed Actionchains
+2025-03-05 14:45:31,574 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-05 14:45:35,575 - INFO - Comment posted successfully.
+2025-03-05 14:45:35,577 - INFO - Task Completed!!
+2025-03-05 14:45:46,658 - INFO - Navigated back to the homepage.
+2025-03-05 14:45:49,248 - INFO - Attempting to clear memory and resources.
+2025-03-05 14:45:49,296 - INFO - Garbage collection completed.
+2025-03-05 14:45:49,297 - INFO - Waiting for 1000 seconds before next execution.

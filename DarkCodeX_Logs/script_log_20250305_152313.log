@@ -1,0 +1,144 @@
+2025-03-05 15:23:13,018 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250305_152313.log
+2025-03-05 15:23:13,020 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-05 15:23:13,040 - INFO - Loaded 54 visited threads from Thread_links.txt
+2025-03-05 15:23:13,041 - INFO - Successfully loaded links that was already visited!
+2025-03-05 15:23:13,041 - DEBUG - Scrolling page 4 times.
+2025-03-05 15:23:13,042 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:23:14,389 - DEBUG - Page scrolled.
+2025-03-05 15:23:16,390 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:23:17,801 - DEBUG - Page scrolled.
+2025-03-05 15:23:19,803 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:23:21,328 - DEBUG - Page scrolled.
+2025-03-05 15:23:23,330 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:23:24,767 - DEBUG - Page scrolled.
+2025-03-05 15:23:26,768 - DEBUG - Random scrolls complete.
+2025-03-05 15:23:33,060 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-03-05 15:23:37,320 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-changing-channel-niche-a-bad-thing-on-youtube.1691055/unread
+2025-03-05 15:23:45,434 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-changing-channel-niche-a-bad-thing-on-youtube.1691055/unread
+2025-03-05 15:23:45,437 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-changing-channel-niche-a-bad-thing-on-youtube.1691055/unread' to visited threads file 'Thread_links.txt'.
+2025-03-05 15:23:45,484 - INFO - Extracted thread title: Is changing channel niche a bad thing on youtube
+2025-03-05 15:23:45,485 - DEBUG - Scrolling page 4 times.
+2025-03-05 15:23:45,485 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:23:46,571 - DEBUG - Page scrolled.
+2025-03-05 15:23:48,573 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:23:50,039 - DEBUG - Page scrolled.
+2025-03-05 15:23:52,041 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:23:53,613 - DEBUG - Page scrolled.
+2025-03-05 15:23:55,614 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:23:57,403 - DEBUG - Page scrolled.
+2025-03-05 15:23:59,405 - DEBUG - Random scrolls complete.
+2025-03-05 15:24:01,863 - DEBUG - Scrolling page 2 times.
+2025-03-05 15:24:01,864 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:24:03,727 - DEBUG - Page scrolled.
+2025-03-05 15:24:06,728 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:24:08,654 - DEBUG - Page scrolled.
+2025-03-05 15:24:11,655 - DEBUG - Random scrolls complete.
+2025-03-05 15:24:11,694 - DEBUG - Found 5 like buttons.
+2025-03-05 15:24:14,695 - INFO - Attempting to like 3 posts. There are 5 available.
+2025-03-05 15:24:15,266 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 15:24:15,298 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 15:24:15,302 - DEBUG - Liked post number 1 of 3.
+2025-03-05 15:24:20,772 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 15:24:20,781 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 15:24:20,781 - DEBUG - Liked post number 2 of 3.
+2025-03-05 15:24:25,337 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 15:24:25,360 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 15:24:25,362 - DEBUG - Liked post number 3 of 3.
+2025-03-05 15:24:29,643 - INFO - Liked 3 posts successfully.
+2025-03-05 15:24:29,645 - INFO - Liked 3 posts successfully.
+2025-03-05 15:24:29,647 - DEBUG - Scrolling page 5 times.
+2025-03-05 15:24:29,648 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:24:31,371 - DEBUG - Page scrolled.
+2025-03-05 15:24:34,372 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:24:36,059 - DEBUG - Page scrolled.
+2025-03-05 15:24:39,061 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:24:40,138 - DEBUG - Page scrolled.
+2025-03-05 15:24:43,139 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:24:45,157 - DEBUG - Page scrolled.
+2025-03-05 15:24:48,159 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:24:49,995 - DEBUG - Page scrolled.
+2025-03-05 15:24:52,996 - DEBUG - Random scrolls complete.
+2025-03-05 15:24:55,804 - DEBUG - Total comments in the thread: 5
+2025-03-05 15:25:11,917 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Is changing channel niche a bad thing on youtube.txt
+2025-03-05 15:25:14,118 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-05 15:25:14,164 - DEBUG - Extracted main post content: Suppose I change my niche on YouTube to one with higher rpm. Will it surely result in higher earnings? Or can there be bad impact on views?
+2025-03-05 15:25:18,466 - INFO - Successfully generated comments using Gemini API.
+2025-03-05 15:25:18,470 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-05 15:25:18,472 - INFO - API comment generated and saved to Thread-Details\API Comments\Is changing channel niche a bad thing on youtube_Changing niches is risky since your audience may n.txt
+2025-03-05 15:25:20,506 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 15:25:20,507 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 15:25:20,544 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 15:25:20,591 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 15:25:20,602 - DEBUG - Text box scrolled into view
+2025-03-05 15:25:21,589 - DEBUG - Initializing actionchains
+2025-03-05 15:25:21,638 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2651}, size: {'height': 21, 'width': 68}
+2025-03-05 15:25:21,639 - DEBUG - Target click coordinates: (1121, 2661)
+2025-03-05 15:25:21,639 - DEBUG - Moving mouse from (450, 400) to (1121, 2661).
+2025-03-05 15:25:21,640 - DEBUG - Generating Bezier path from (450, 400) to (1121, 2661) with 50 points.
+2025-03-05 15:25:21,640 - DEBUG - Control point: (405, 314)
+2025-03-05 15:25:21,641 - DEBUG - Generated Bezier path with 50 points.
+2025-03-05 15:25:21,641 - DEBUG - Moved mouse to (450, 400), delay: 0.0000
+2025-03-05 15:25:21,644 - DEBUG - Moved mouse to (448, 397), delay: 0.0025
+2025-03-05 15:25:21,646 - DEBUG - Moved mouse to (447, 397), delay: 0.0011
+2025-03-05 15:25:21,647 - DEBUG - Moved mouse to (447, 398), delay: 0.0009
+2025-03-05 15:25:21,650 - DEBUG - Moved mouse to (447, 402), delay: 0.0025
+2025-03-05 15:25:21,654 - DEBUG - Moved mouse to (448, 407), delay: 0.0035
+2025-03-05 15:25:21,659 - DEBUG - Moved mouse to (450, 415), delay: 0.0042
+2025-03-05 15:25:21,667 - DEBUG - Moved mouse to (452, 425), delay: 0.0070
+2025-03-05 15:25:21,676 - DEBUG - Moved mouse to (455, 436), delay: 0.0071
+2025-03-05 15:25:21,686 - DEBUG - Moved mouse to (459, 450), delay: 0.0091
+2025-03-05 15:25:21,696 - DEBUG - Moved mouse to (463, 466), delay: 0.0087
+2025-03-05 15:25:21,711 - DEBUG - Moved mouse to (468, 484), delay: 0.0134
+2025-03-05 15:25:21,722 - DEBUG - Moved mouse to (473, 503), delay: 0.0096
+2025-03-05 15:25:21,738 - DEBUG - Moved mouse to (479, 525), delay: 0.0152
+2025-03-05 15:25:21,751 - DEBUG - Moved mouse to (486, 549), delay: 0.0115
+2025-03-05 15:25:21,767 - DEBUG - Moved mouse to (493, 575), delay: 0.0158
+2025-03-05 15:25:21,787 - DEBUG - Moved mouse to (501, 603), delay: 0.0184
+2025-03-05 15:25:21,800 - DEBUG - Moved mouse to (510, 633), delay: 0.0120
+2025-03-05 15:25:21,820 - DEBUG - Moved mouse to (519, 665), delay: 0.0176
+2025-03-05 15:25:21,839 - DEBUG - Moved mouse to (529, 699), delay: 0.0178
+2025-03-05 15:25:21,858 - DEBUG - Moved mouse to (540, 735), delay: 0.0175
+2025-03-05 15:25:21,878 - DEBUG - Moved mouse to (551, 773), delay: 0.0188
+2025-03-05 15:25:21,898 - DEBUG - Moved mouse to (562, 813), delay: 0.0184
+2025-03-05 15:25:21,918 - DEBUG - Moved mouse to (575, 855), delay: 0.0196
+2025-03-05 15:25:21,936 - DEBUG - Moved mouse to (588, 899), delay: 0.0160
+2025-03-05 15:25:21,962 - DEBUG - Moved mouse to (602, 945), delay: 0.0258
+2025-03-05 15:25:21,983 - DEBUG - Moved mouse to (616, 993), delay: 0.0196
+2025-03-05 15:25:22,009 - DEBUG - Moved mouse to (631, 1043), delay: 0.0245
+2025-03-05 15:25:22,031 - DEBUG - Moved mouse to (647, 1096), delay: 0.0208
+2025-03-05 15:25:22,061 - DEBUG - Moved mouse to (663, 1150), delay: 0.0282
+2025-03-05 15:25:22,088 - DEBUG - Moved mouse to (680, 1206), delay: 0.0266
+2025-03-05 15:25:22,115 - DEBUG - Moved mouse to (697, 1264), delay: 0.0254
+2025-03-05 15:25:22,136 - DEBUG - Moved mouse to (715, 1325), delay: 0.0190
+2025-03-05 15:25:22,163 - DEBUG - Moved mouse to (734, 1387), delay: 0.0259
+2025-03-05 15:25:22,185 - DEBUG - Moved mouse to (753, 1452), delay: 0.0208
+2025-03-05 15:25:22,211 - DEBUG - Moved mouse to (773, 1518), delay: 0.0252
+2025-03-05 15:25:22,233 - DEBUG - Moved mouse to (794, 1586), delay: 0.0200
+2025-03-05 15:25:22,270 - DEBUG - Moved mouse to (815, 1657), delay: 0.0361
+2025-03-05 15:25:22,297 - DEBUG - Moved mouse to (837, 1729), delay: 0.0260
+2025-03-05 15:25:22,328 - DEBUG - Moved mouse to (860, 1804), delay: 0.0298
+2025-03-05 15:25:22,357 - DEBUG - Moved mouse to (883, 1880), delay: 0.0272
+2025-03-05 15:25:22,388 - DEBUG - Moved mouse to (907, 1959), delay: 0.0294
+2025-03-05 15:25:22,426 - DEBUG - Moved mouse to (931, 2040), delay: 0.0365
+2025-03-05 15:25:22,467 - DEBUG - Moved mouse to (957, 2122), delay: 0.0400
+2025-03-05 15:25:22,500 - DEBUG - Moved mouse to (982, 2207), delay: 0.0301
+2025-03-05 15:25:22,532 - DEBUG - Moved mouse to (1009, 2294), delay: 0.0305
+2025-03-05 15:25:22,577 - DEBUG - Moved mouse to (1036, 2382), delay: 0.0433
+2025-03-05 15:25:22,606 - DEBUG - Moved mouse to (1063, 2473), delay: 0.0277
+2025-03-05 15:25:22,641 - DEBUG - Moved mouse to (1092, 2566), delay: 0.0345
+2025-03-05 15:25:22,681 - DEBUG - Moved mouse to (1121, 2661), delay: 0.0376
+2025-03-05 15:25:22,681 - INFO - Successfully moved mouse to (1121, 2661) using Bezier curve.
+2025-03-05 15:25:22,683 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-05 15:25:22,683 - DEBUG - Moving mouse to text box element.
+2025-03-05 15:25:22,684 - DEBUG - Clicking on the text box.
+2025-03-05 15:25:22,685 - DEBUG - Sending keys with content: Changing niches is risky since your audience may not follow, so watch out for that drop in views. Your earnings aren't guaranteed to rise, though.
+
+2025-03-05 15:25:27,931 - DEBUG - Clicking on post reply button.
+2025-03-05 15:25:29,289 - DEBUG - Performed Actionchains
+2025-03-05 15:25:29,289 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-05 15:25:33,291 - INFO - Comment posted successfully.
+2025-03-05 15:25:33,293 - INFO - Task Completed!!
+2025-03-05 15:25:38,139 - INFO - Navigated back to the homepage.
+2025-03-05 15:25:40,551 - INFO - Attempting to clear memory and resources.
+2025-03-05 15:25:40,580 - INFO - Garbage collection completed.
+2025-03-05 15:25:40,581 - INFO - Waiting for 1000 seconds before next execution.

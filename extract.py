@@ -6,6 +6,7 @@ import os
 import re
 import gc
 import random
+from datetime import datetime, timedelta
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -15,11 +16,11 @@ from selenium.webdriver.common.action_chains import ActionChains
 from pynput.mouse import Button, Controller
 
 from gemini_api import GeminiHandler
-import login_profile  # Import the login_profile module
+from Multilogin_profiles import DarkCodeX_profile
 
 # --- Automation Configuration ---  (Keep only Automation Configuration here)
-LOG_DIRECTORY = "Selenium-Logs"
-AUTOMATION_WAIT_TIME = 180
+LOG_DIRECTORY = "DarkCodeX_Logs"
+AUTOMATION_WAIT_TIME = 20
 MIN_SCROLLS = 3
 MAX_SCROLLS = 7
 SCROLL_AMOUNT = 500
@@ -33,6 +34,8 @@ WRITE_DELAY = 3
 BASE_SPEED = 0.001
 SUB_FORUM_LIST_FILE = "Sub-Forum-List.txt"
 VISITED_THREADS_FILE = "Thread_links.txt"
+start_time = datetime.now()
+run_duration = timedelta(minutes=5) 
 
 
 # 
@@ -624,25 +627,22 @@ if __name__ == "__main__":
 
     logger, log_file = setup_logger(LOG_DIRECTORY)
 
-    subforum_urls = get_subforum_list()
-    if not subforum_urls:
-        logger.critical("No subforum URLs found in the file. Exiting.")
-        exit()
-    
-    visited_threads = load_visited_threads()  # Load visited threads at the start
-    if visited_threads:
-        logger.info(f"Successfully loaded links that was already visited!")
+    #find directories
+    thread_details_dir = "Thread-Details"
+    thread_content_dir = os.path.join(thread_details_dir, "Thread Content")
+    api_comments_dir = os.path.join(thread_details_dir, "API Comments")
 
     token = None  # Initialize token outside the loop
     driver = None
+    
     try:
         # MultiLogin Authentication and Profile Start (DO THIS ONLY ONCE!)
-        token = login_profile.signin(logger)  # Pass logger
+        token = DarkCodeX_profile.signin(logger)  # Pass logger
         if not token:
             logger.critical("Failed to sign in to MultiLogin.  Exiting.")
             exit()  # Exit completely if login fails
 
-        driver = login_profile.start_profile(token, logger)  # Pass logger
+        driver = DarkCodeX_profile.start_profile(token, logger)  # Pass logger
         if not driver:
             logger.critical("Failed to start MultiLogin profile. Exiting.")
             exit()  # Exit completely if starting profile fails
@@ -650,23 +650,25 @@ if __name__ == "__main__":
 
         while True:
             # Set up new log location for each task
-                        
+            if datetime.now() - start_time > run_duration:
+                logger.info("Automation has reached the 2-hour limit. Stopping execution.")
+                break            
              # Generate a new timestamp for each automation run
             automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            
-            # Set up a new logger for this run
             logger, log_file = setup_logger(LOG_DIRECTORY, automation_timestamp)
-            
             logger.info(f"Starting new automation task. Log file created at: {log_file}")
 
 
             try:
 
-
-                #find directories
-                thread_details_dir = "Thread-Details"
-                thread_content_dir = os.path.join(thread_details_dir, "Thread Content")
-                api_comments_dir = os.path.join(thread_details_dir, "API Comments")
+                subforum_urls = get_subforum_list()
+                if not subforum_urls:
+                    logger.critical("No subforum URLs found in the file. Exiting.")
+                    exit()
+                
+                visited_threads = load_visited_threads()  # Load visited threads at the start
+                if visited_threads:
+                    logger.info(f"Successfully loaded links that was already visited!")
 
                 scroll_random_times(driver)
 
@@ -756,9 +758,7 @@ if __name__ == "__main__":
 
             if token:
                 try:
-                    login_profile.stop_profile(token, logger)  # call logger for stop the profile
+                    DarkCodeX_profile.stop_profile(token, logger)  # call logger for stop the profile
                 except Exception as e:
                     logger.warning(f"Error stopping MultiLogin profile: {e}", exc_info=True)
 
-
-            

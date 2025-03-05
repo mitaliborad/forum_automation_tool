@@ -1,0 +1,151 @@
+2025-03-05 14:23:01,691 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250305_142301.log
+2025-03-05 14:23:01,693 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-05 14:23:01,695 - INFO - Loaded 48 visited threads from Thread_links.txt
+2025-03-05 14:23:01,696 - INFO - Successfully loaded links that was already visited!
+2025-03-05 14:23:01,697 - DEBUG - Scrolling page 7 times.
+2025-03-05 14:23:01,698 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:03,130 - DEBUG - Page scrolled.
+2025-03-05 14:23:05,131 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:06,891 - DEBUG - Page scrolled.
+2025-03-05 14:23:08,893 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:10,870 - DEBUG - Page scrolled.
+2025-03-05 14:23:12,873 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:14,783 - DEBUG - Page scrolled.
+2025-03-05 14:23:16,785 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:18,681 - DEBUG - Page scrolled.
+2025-03-05 14:23:20,682 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:21,918 - DEBUG - Page scrolled.
+2025-03-05 14:23:23,920 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:25,628 - DEBUG - Page scrolled.
+2025-03-05 14:23:27,630 - DEBUG - Random scrolls complete.
+2025-03-05 14:23:32,442 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-05 14:23:37,082 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/payment-solution-gateway-processor-for-replica-site.1690052/unread
+2025-03-05 14:23:44,623 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/payment-solution-gateway-processor-for-replica-site.1690052/unread
+2025-03-05 14:23:44,627 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/payment-solution-gateway-processor-for-replica-site.1690052/unread' to visited threads file 'Thread_links.txt'.
+2025-03-05 14:23:44,679 - INFO - Extracted thread title: Payment solution  gateway  processor for replica site.
+2025-03-05 14:23:44,680 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:23:44,680 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:46,426 - DEBUG - Page scrolled.
+2025-03-05 14:23:48,428 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:49,927 - DEBUG - Page scrolled.
+2025-03-05 14:23:51,929 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:53,438 - DEBUG - Page scrolled.
+2025-03-05 14:23:55,440 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:57,370 - DEBUG - Page scrolled.
+2025-03-05 14:23:59,371 - DEBUG - Random scrolls complete.
+2025-03-05 14:24:01,961 - DEBUG - Scrolling page 2 times.
+2025-03-05 14:24:01,961 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:03,254 - DEBUG - Page scrolled.
+2025-03-05 14:24:06,257 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:07,709 - DEBUG - Page scrolled.
+2025-03-05 14:24:10,711 - DEBUG - Random scrolls complete.
+2025-03-05 14:24:10,746 - DEBUG - Found 18 like buttons.
+2025-03-05 14:24:13,747 - INFO - Attempting to like 2 posts. There are 18 available.
+2025-03-05 14:24:14,336 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 14:24:14,367 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 14:24:14,368 - DEBUG - Liked post number 1 of 2.
+2025-03-05 14:24:20,004 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 14:24:20,018 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 14:24:20,020 - DEBUG - Liked post number 2 of 2.
+2025-03-05 14:24:25,004 - INFO - Liked 2 posts successfully.
+2025-03-05 14:24:25,006 - INFO - Liked 2 posts successfully.
+2025-03-05 14:24:25,008 - DEBUG - Scrolling page 7 times.
+2025-03-05 14:24:25,009 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:26,085 - DEBUG - Page scrolled.
+2025-03-05 14:24:29,086 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:30,503 - DEBUG - Page scrolled.
+2025-03-05 14:24:33,504 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:35,421 - DEBUG - Page scrolled.
+2025-03-05 14:24:38,422 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:40,206 - DEBUG - Page scrolled.
+2025-03-05 14:24:43,207 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:44,693 - DEBUG - Page scrolled.
+2025-03-05 14:24:47,695 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:48,996 - DEBUG - Page scrolled.
+2025-03-05 14:24:51,997 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:53,033 - DEBUG - Page scrolled.
+2025-03-05 14:24:56,035 - DEBUG - Random scrolls complete.
+2025-03-05 14:24:58,449 - DEBUG - Total comments in the thread: 18
+2025-03-05 14:25:47,009 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Payment solution  gateway  processor for replica site..txt
+2025-03-05 14:25:49,081 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-05 14:25:49,117 - DEBUG - Extracted main post content: Hello , you may have seen that i am writing here since 2023 . I am still trying to find reliable payment service that i can work with them . I have tried everything . I have bought moyi cloak , it doesnt work for me . Tried with paypal / stripe cloaks , just doesnt work , they still manage to find its me and insta ban my account on first order . If i have to use stripe again i might only buy stealth with ready cloak and i need help with that. Otherwise i need a normal payment service that would help my website and business.
+2025-03-05 14:25:53,020 - INFO - Successfully generated comments using Gemini API.
+2025-03-05 14:25:53,021 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-05 14:25:53,023 - INFO - API comment generated and saved to Thread-Details\API Comments\Payment solution  gateway  processor for replica site._Ugh, that sounds super frustrating. Have you looke.txt
+2025-03-05 14:25:55,769 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:25:55,770 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:25:55,801 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:25:55,847 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:25:55,857 - DEBUG - Text box scrolled into view
+2025-03-05 14:25:56,830 - DEBUG - Initializing actionchains
+2025-03-05 14:25:56,853 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5942}, size: {'height': 21, 'width': 68}
+2025-03-05 14:25:56,854 - DEBUG - Target click coordinates: (1121, 5952)
+2025-03-05 14:25:56,854 - DEBUG - Moving mouse from (284, 361) to (1121, 5952).
+2025-03-05 14:25:56,854 - DEBUG - Generating Bezier path from (284, 361) to (1121, 5952) with 50 points.
+2025-03-05 14:25:56,854 - DEBUG - Control point: (234, 398)
+2025-03-05 14:25:56,855 - DEBUG - Generated Bezier path with 50 points.
+2025-03-05 14:25:56,855 - DEBUG - Moved mouse to (284, 361), delay: 0.0000
+2025-03-05 14:25:56,858 - DEBUG - Moved mouse to (282, 364), delay: 0.0023
+2025-03-05 14:25:56,866 - DEBUG - Moved mouse to (281, 373), delay: 0.0075
+2025-03-05 14:25:56,874 - DEBUG - Moved mouse to (281, 386), delay: 0.0070
+2025-03-05 14:25:56,882 - DEBUG - Moved mouse to (282, 403), delay: 0.0068
+2025-03-05 14:25:56,894 - DEBUG - Moved mouse to (283, 425), delay: 0.0102
+2025-03-05 14:25:56,912 - DEBUG - Moved mouse to (285, 452), delay: 0.0165
+2025-03-05 14:25:56,929 - DEBUG - Moved mouse to (288, 484), delay: 0.0153
+2025-03-05 14:25:56,943 - DEBUG - Moved mouse to (292, 520), delay: 0.0118
+2025-03-05 14:25:56,962 - DEBUG - Moved mouse to (297, 560), delay: 0.0165
+2025-03-05 14:25:56,989 - DEBUG - Moved mouse to (302, 605), delay: 0.0259
+2025-03-05 14:25:57,012 - DEBUG - Moved mouse to (308, 655), delay: 0.0218
+2025-03-05 14:25:57,038 - DEBUG - Moved mouse to (315, 710), delay: 0.0236
+2025-03-05 14:25:57,064 - DEBUG - Moved mouse to (323, 768), delay: 0.0251
+2025-03-05 14:25:57,089 - DEBUG - Moved mouse to (331, 832), delay: 0.0231
+2025-03-05 14:25:57,114 - DEBUG - Moved mouse to (341, 900), delay: 0.0229
+2025-03-05 14:25:57,150 - DEBUG - Moved mouse to (351, 973), delay: 0.0350
+2025-03-05 14:25:57,177 - DEBUG - Moved mouse to (362, 1050), delay: 0.0258
+2025-03-05 14:25:57,209 - DEBUG - Moved mouse to (373, 1132), delay: 0.0303
+2025-03-05 14:25:57,238 - DEBUG - Moved mouse to (386, 1219), delay: 0.0283
+2025-03-05 14:25:57,270 - DEBUG - Moved mouse to (399, 1310), delay: 0.0300
+2025-03-05 14:25:57,311 - DEBUG - Moved mouse to (413, 1406), delay: 0.0388
+2025-03-05 14:25:57,348 - DEBUG - Moved mouse to (427, 1506), delay: 0.0337
+2025-03-05 14:25:57,388 - DEBUG - Moved mouse to (443, 1611), delay: 0.0393
+2025-03-05 14:25:57,421 - DEBUG - Moved mouse to (459, 1720), delay: 0.0301
+2025-03-05 14:25:57,458 - DEBUG - Moved mouse to (476, 1834), delay: 0.0350
+2025-03-05 14:25:57,514 - DEBUG - Moved mouse to (494, 1953), delay: 0.0536
+2025-03-05 14:25:57,550 - DEBUG - Moved mouse to (513, 2076), delay: 0.0337
+2025-03-05 14:25:57,602 - DEBUG - Moved mouse to (532, 2204), delay: 0.0505
+2025-03-05 14:25:57,654 - DEBUG - Moved mouse to (553, 2337), delay: 0.0504
+2025-03-05 14:25:57,702 - DEBUG - Moved mouse to (574, 2474), delay: 0.0455
+2025-03-05 14:25:57,747 - DEBUG - Moved mouse to (595, 2615), delay: 0.0432
+2025-03-05 14:25:57,788 - DEBUG - Moved mouse to (618, 2762), delay: 0.0399
+2025-03-05 14:25:57,845 - DEBUG - Moved mouse to (641, 2913), delay: 0.0552
+2025-03-05 14:25:57,905 - DEBUG - Moved mouse to (665, 3068), delay: 0.0578
+2025-03-05 14:25:57,967 - DEBUG - Moved mouse to (690, 3228), delay: 0.0606
+2025-03-05 14:25:58,007 - DEBUG - Moved mouse to (716, 3393), delay: 0.0372
+2025-03-05 14:25:58,076 - DEBUG - Moved mouse to (742, 3562), delay: 0.0667
+2025-03-05 14:25:58,142 - DEBUG - Moved mouse to (769, 3736), delay: 0.0637
+2025-03-05 14:25:58,208 - DEBUG - Moved mouse to (797, 3914), delay: 0.0621
+2025-03-05 14:25:58,262 - DEBUG - Moved mouse to (826, 4097), delay: 0.0523
+2025-03-05 14:25:58,334 - DEBUG - Moved mouse to (856, 4285), delay: 0.0705
+2025-03-05 14:25:58,402 - DEBUG - Moved mouse to (886, 4477), delay: 0.0664
+2025-03-05 14:25:58,454 - DEBUG - Moved mouse to (917, 4674), delay: 0.0494
+2025-03-05 14:25:58,529 - DEBUG - Moved mouse to (949, 4875), delay: 0.0734
+2025-03-05 14:25:58,582 - DEBUG - Moved mouse to (982, 5081), delay: 0.0513
+2025-03-05 14:25:58,664 - DEBUG - Moved mouse to (1015, 5292), delay: 0.0807
+2025-03-05 14:25:58,729 - DEBUG - Moved mouse to (1050, 5507), delay: 0.0639
+2025-03-05 14:25:58,789 - DEBUG - Moved mouse to (1085, 5727), delay: 0.0579
+2025-03-05 14:25:58,876 - DEBUG - Moved mouse to (1121, 5952), delay: 0.0861
+2025-03-05 14:25:58,878 - INFO - Successfully moved mouse to (1121, 5952) using Bezier curve.
+2025-03-05 14:25:58,879 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-05 14:25:58,880 - DEBUG - Moving mouse to text box element.
+2025-03-05 14:25:58,881 - DEBUG - Clicking on the text box.
+2025-03-05 14:25:58,882 - DEBUG - Sending keys with content: Ugh, that sounds super frustrating. Have you looked into crypto payments at all? Might be worth exploring.
+
+2025-03-05 14:26:04,024 - DEBUG - Clicking on post reply button.
+2025-03-05 14:26:15,057 - DEBUG - Performed Actionchains
+2025-03-05 14:26:15,057 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-05 14:26:19,059 - INFO - Comment posted successfully.
+2025-03-05 14:26:19,060 - INFO - Task Completed!!
+2025-03-05 14:26:29,847 - INFO - Navigated back to the homepage.
+2025-03-05 14:26:32,491 - INFO - Attempting to clear memory and resources.
+2025-03-05 14:26:32,521 - INFO - Garbage collection completed.
+2025-03-05 14:26:32,522 - INFO - Waiting for 1000 seconds before next execution.
