@@ -1,11 +1,3 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains
-from pynput.mouse import Button, Controller
-import random
 import time
 import logging
 from datetime import datetime
@@ -13,10 +5,19 @@ import numpy as np
 import os
 import re
 import gc
+import random
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
+from pynput.mouse import Button, Controller
 
 from gemini_api import GeminiHandler
+import login_profile  # Import the login_profile module
 
-# --- Configuration ---
+# --- Automation Configuration ---  (Keep only Automation Configuration here)
 LOG_DIRECTORY = "Selenium-Logs"
 AUTOMATION_WAIT_TIME = 180
 MIN_SCROLLS = 3
@@ -33,13 +34,18 @@ BASE_SPEED = 0.001
 SUB_FORUM_LIST_FILE = "Sub-Forum-List.txt"
 VISITED_THREADS_FILE = "Thread_links.txt"
 
-# --- Configure Logging ---
-def setup_logger(log_dir):
-    """Sets up a logger to write to a file and the console."""
+
+# 
+def setup_logger(log_dir, timestamp=None):
+    """Sets up a logger with a unique file for each automation run."""
     os.makedirs(log_dir, exist_ok=True)
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    if timestamp is None:
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    
     log_file = os.path.join(log_dir, f"script_log_{timestamp}.log")
-    logger = logging.getLogger(__name__)
+    
+    logger = logging.getLogger(f"automation_{timestamp}")  # Unique logger per run
     logger.setLevel(logging.DEBUG)
 
     file_handler = logging.FileHandler(log_file)
@@ -54,8 +60,11 @@ def setup_logger(log_dir):
 
     logger.addHandler(file_handler)
     logger.addHandler(console_handler)
+    
     return logger, log_file
 
+# Initialize the logger at the module level
+#logger, log_file = setup_logger(LOG_DIRECTORY)
 
 # --- Mouse Movement Functions ---
 
@@ -92,24 +101,6 @@ def move_mouse_with_curve(target_x, target_y, base_speed=BASE_SPEED):
         current_x, current_y = x, y
         logger.debug(f"Moved mouse to ({x}, {y}), delay: {delay:.4f}")
     logger.info(f"Successfully moved mouse to ({target_x}, {target_y}) using Bezier curve.")
-
-# --- Selenium Setup ---
-def initialize_driver():
-    opt = Options()
-    opt.add_experimental_option("debuggerAddress","localhost:9222")
-
-    driver = webdriver.Chrome(options=opt)
-    logger.debug("Chrome driver initialized.")
-    driver.get("https://www.blackhatworld.com/")
-    logger.debug("Navigating to URL.")
-    time.sleep(random.uniform(0.5, 1))
-
-    logger.info("Navigated to https://www.blackhatworld.com/")
-    return driver
-
-# Initialize the logger at the module level
-logger, log_file = setup_logger(LOG_DIRECTORY)
-
 
 # --- Helper Functions ---
 
@@ -151,7 +142,7 @@ def save_visited_thread(thread_url, file_path=VISITED_THREADS_FILE):
     except Exception as e:
         logger.error(f"Error saving thread URL to visited threads file: {e}", exc_info=True)
 
-# page scroll    
+# page scroll
 def scroll_page(driver, scroll_amount=SCROLL_AMOUNT, min_delay=1, max_delay=2.0):
     logger.debug(f"Scrolling page by {scroll_amount} pixels.")
     try:
@@ -578,27 +569,23 @@ def find_random_thread_link_from_subforum(driver, subforum_url,visited_threads):
     try:
         driver.get(subforum_url)
         logger.info(f"Navigated to subforum: {subforum_url}")
-        # The XPath might need adjusting based on the BHW subforum structure
-
-        #thread_links = driver.find_elements(By.XPATH,'//div[@class="structItemContainer" and not(.//span[contains(@class, "sticky-thread--highlighted")]) ]//div[@class="structItem-title"]//a[@href]')
-        # thread_links = driver.find_elements(By.XPATH, '//div[@class="structItemContainer"]//div[@class="structItem-title"]//a[@href]')
 
         wait = WebDriverWait(driver, 10)
         wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]")))
         all_threads = driver.find_elements(By.XPATH, "//div[contains(@class, 'structItem')]")
-        #non_pinned_threads = []
         unvisited_threads = []
         for thread in all_threads:
             try:
                 
-                if "sticky" in thread.get_attribute("class"):
-                    print("This is Pinned")
-                    continue      
-            
+                sticky_span = thread.find_elements(By.XPATH, ".//span[contains(@class, 'sticky-thread--hightlighted')]")
+
+                # Skip if the span exists, indicating it's a sticky thread
+                if sticky_span:
+                    continue
+
                 title_elements = thread.find_elements(By.XPATH, ".//div[contains(@class, 'structItem-title')]//a")
                 
                 if title_elements:
-                    #non_pinned_threads.append(title_elements[0])  
                     href = title_elements[0].get_attribute("href")
                     if href not in visited_threads:
                         unvisited_threads.append(title_elements[0])
@@ -610,12 +597,7 @@ def find_random_thread_link_from_subforum(driver, subforum_url,visited_threads):
             logger.warning(f"No unvisited thread links found in subforum: {subforum_url}")
             return None
 
-        #if not non_pinned_threads:
-            logger.warning(f"No thread links found in subforum: {subforum_url}")
-            return None
-
         random_link = random.choice(unvisited_threads)
-        #random_link = random.choice(non_pinned_threads)
         href = random_link.get_attribute("href")
         logger.info(f"Selected random thread link: {href}")
         return href
@@ -640,6 +622,8 @@ def navigate_home(driver):
 
 if __name__ == "__main__":
 
+    logger, log_file = setup_logger(LOG_DIRECTORY)
+
     subforum_urls = get_subforum_list()
     if not subforum_urls:
         logger.critical("No subforum URLs found in the file. Exiting.")
@@ -649,99 +633,132 @@ if __name__ == "__main__":
     if visited_threads:
         logger.info(f"Successfully loaded links that was already visited!")
 
-    while True:
-        # Set up new log location for each task
-        logger, log_file = setup_logger(LOG_DIRECTORY)
-        logger.info(f"Starting new task. Log file created at: {log_file}")
+    token = None  # Initialize token outside the loop
+    driver = None
+    try:
+        # MultiLogin Authentication and Profile Start (DO THIS ONLY ONCE!)
+        token = login_profile.signin(logger)  # Pass logger
+        if not token:
+            logger.critical("Failed to sign in to MultiLogin.  Exiting.")
+            exit()  # Exit completely if login fails
 
-        driver = None
-        try:
-            # driver initialize
-            driver = initialize_driver()
+        driver = login_profile.start_profile(token, logger)  # Pass logger
+        if not driver:
+            logger.critical("Failed to start MultiLogin profile. Exiting.")
+            exit()  # Exit completely if starting profile fails
 
-            #find directories
-            thread_details_dir = "Thread-Details"
-            thread_content_dir = os.path.join(thread_details_dir, "Thread Content")
-            api_comments_dir = os.path.join(thread_details_dir, "API Comments")
 
-            scroll_random_times(driver)
-
-            # Select and navigate a random thread to specific subforum
-            subforum_url = random.choice(subforum_urls)
-            thread_link = find_random_thread_link_from_subforum(driver, subforum_url,visited_threads)
-
-            if thread_link:
-                time.sleep(random.uniform(2, 3))
-                driver.get(thread_link)
-                time.sleep(random.uniform(2, 3))
-                logger.info(f"Navigated to random thread: {thread_link}")
-                visited_threads.add(thread_link)
-                save_visited_thread(thread_link)
-            else:
-                logger.warning("Skipping thread processing due to no thread link being found in subforum.")
-                continue #Skip to next subforum
-
-            # Extract thread title
-            thread_title = get_thread_title(driver)
-
-            scroll_random_times(driver, min_scrolls=2, max_scrolls=4, scroll_delay=2)
-            time.sleep(random.uniform(2, 3))
+        while True:
+            # Set up new log location for each task
+                        
+             # Generate a new timestamp for each automation run
+            automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             
-            like_random_posts(driver, min_likes=1, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=4, scroll_delay=3)
-
-            scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_delay=3)
-            time.sleep(random.uniform(2, 3)) 
-
-            # save thread content
-            thread_content_file = os.path.join(thread_content_dir, f"{thread_title}.txt")
-            extract_post_content(driver, thread_content_file)
-            logger.info(f"Post content extracted and saved to {thread_content_file}")
-            time.sleep(random.uniform(2, 3))
-
-            main_post_content = extract_main_post_content(driver)
-            time.sleep(random.uniform(2, 3))
-
-            if main_post_content:
-                comment = generate_and_save_comments(main_post_content, os.path.join(api_comments_dir, "temp_comment.txt"))
-                if comment:
-                    sanitized_comment = re.sub(r'[\\/*?:"<>|]', "", comment[:50])
-                    api_comment_file = os.path.join(api_comments_dir, f"{thread_title}_{sanitized_comment}.txt")
-                    try:
-                        os.rename(os.path.join(api_comments_dir, "temp_comment.txt"), api_comment_file)
-                    except Exception as e:
-                        logger.warning(f"rename Error: {e}", exc_info=True)
-                    logger.info(f"API comment generated and saved to {api_comment_file}")
-                else:
-                    logger.warning("Failed to generate comment, skipping saving.")
-
-            # Read the generated comment
-            comment_file = os.path.join(api_comments_dir, f"{thread_title}_{sanitized_comment}.txt")
-            comment = read_thread_content(comment_file)
-            time.sleep(random.uniform(2, 3))
+            # Set up a new logger for this run
+            logger, log_file = setup_logger(LOG_DIRECTORY, automation_timestamp)
             
-            if comment:
-                post_comment(driver, comment, write_delay=3)
-                logger.info("Comment posted successfully.")
-            else:
-                logger.warning("No comment available to post.")
-            
-            logger.info("Task Completed!!")
-            # 1.5) Added code to go back to HOME
+            logger.info(f"Starting new automation task. Log file created at: {log_file}")
 
-            # navigate back to home after automation 
-            navigate_home(driver)
-            
-        except Exception as e:
-            logger.error(f"An error occurred: {e}", exc_info=True)
-        
-        if driver:
+
             try:
-                driver.quit()
+
+
+                #find directories
+                thread_details_dir = "Thread-Details"
+                thread_content_dir = os.path.join(thread_details_dir, "Thread Content")
+                api_comments_dir = os.path.join(thread_details_dir, "API Comments")
+
+                scroll_random_times(driver)
+
+                # Select and navigate a random thread to specific subforum
+                subforum_url = random.choice(subforum_urls)
+                thread_link = find_random_thread_link_from_subforum(driver, subforum_url,visited_threads)
+
+                if thread_link:
+                    time.sleep(random.uniform(2, 3))
+                    driver.get(thread_link)
+                    time.sleep(random.uniform(2, 3))
+                    logger.info(f"Navigated to random thread: {thread_link}")
+                    visited_threads.add(thread_link)
+                    save_visited_thread(thread_link)
+                else:
+                    logger.warning("Skipping thread processing due to no thread link being found in subforum.")
+                    continue #Skip to next subforum
+
+                # Extract thread title
+                thread_title = get_thread_title(driver)
+
+                scroll_random_times(driver, min_scrolls=2, max_scrolls=4, scroll_delay=2)
+                time.sleep(random.uniform(2, 3))
+
+                like_random_posts(driver, min_likes=1, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=4, scroll_delay=3)
+
+                scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_delay=3)
+                time.sleep(random.uniform(2, 3))
+
+                # save thread content
+                thread_content_file = os.path.join(thread_content_dir, f"{thread_title}.txt")
+                extract_post_content(driver, thread_content_file)
+                logger.info(f"Post content extracted and saved to {thread_content_file}")
+                time.sleep(random.uniform(2, 3))
+
+                main_post_content = extract_main_post_content(driver)
+                time.sleep(random.uniform(2, 3))
+
+                if main_post_content:
+                    comment = generate_and_save_comments(main_post_content, os.path.join(api_comments_dir, "temp_comment.txt"))
+                    if comment:
+                        sanitized_comment = re.sub(r'[\\/*?:"<>|]', "", comment[:50])
+                        api_comment_file = os.path.join(api_comments_dir, f"{thread_title}_{sanitized_comment}.txt")
+                        try:
+                            os.rename(os.path.join(api_comments_dir, "temp_comment.txt"), api_comment_file)
+                        except Exception as e:
+                            logger.warning(f"rename Error: {e}", exc_info=True)
+                        logger.info(f"API comment generated and saved to {api_comment_file}")
+                    else:
+                        logger.warning("Failed to generate comment, skipping saving.")
+
+                # Read the generated comment
+                comment_file = os.path.join(api_comments_dir, f"{thread_title}_{sanitized_comment}.txt")
+                comment = read_thread_content(comment_file)
+                time.sleep(random.uniform(2, 3))
+
+                if comment:
+                    post_comment(driver, comment, write_delay=3)
+                    logger.info("Comment posted successfully.")
+                else:
+                    logger.warning("No comment available to post.")
+
+                logger.info("Task Completed!!")
+                # 1.5) Added code to go back to HOME
+
+                # navigate back to home after automation
+                navigate_home(driver)
+
             except Exception as e:
-                logger.warning(f"Drvier quiting Error: {e}", exc_info=True) #Added exception
+                logger.error(f"An error occurred: {e}", exc_info=True)
+
+            # clear the memory and wait from next automation
+            clear_memory()
+            logger.info(f"Waiting for {AUTOMATION_WAIT_TIME} seconds before next execution.")
+            time.sleep(AUTOMATION_WAIT_TIME)
+
+    except Exception as e:
+            logger.critical(f"An unrecoverable error occurred: {e}", exc_info=True)
+
+    finally:  # This will always execute, even if there was a critical error
+            if driver:
+                try:
+                    driver.quit()
+                except Exception as e:
+                    logger.warning(f"Driver quiting Error: {e}", exc_info=True)
                 logger.info("Driver quit successfully.")
 
-        # clear the memory and wait from next automation    
-        clear_memory()
-        logger.info(f"Waiting for {AUTOMATION_WAIT_TIME} seconds before next execution.")
-        time.sleep(AUTOMATION_WAIT_TIME)
+            if token:
+                try:
+                    login_profile.stop_profile(token, logger)  # call logger for stop the profile
+                except Exception as e:
+                    logger.warning(f"Error stopping MultiLogin profile: {e}", exc_info=True)
+
+
+            
