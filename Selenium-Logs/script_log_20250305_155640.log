@@ -1,0 +1,159 @@
+2025-03-05 15:56:40,945 - INFO - Starting new automation task. Log file created at: Selenium-Logs\script_log_20250305_155640.log
+2025-03-05 15:56:40,948 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-05 15:56:40,969 - INFO - Loaded 57 visited threads from Thread_links.txt
+2025-03-05 15:56:40,970 - INFO - Successfully loaded links that was already visited!
+2025-03-05 15:56:40,971 - DEBUG - Scrolling page 5 times.
+2025-03-05 15:56:40,972 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:56:42,075 - DEBUG - Page scrolled.
+2025-03-05 15:56:44,076 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:56:45,850 - DEBUG - Page scrolled.
+2025-03-05 15:56:47,851 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:56:49,517 - DEBUG - Page scrolled.
+2025-03-05 15:56:51,518 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:56:53,198 - DEBUG - Page scrolled.
+2025-03-05 15:56:55,199 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:56:57,150 - DEBUG - Page scrolled.
+2025-03-05 15:56:59,151 - DEBUG - Random scrolls complete.
+2025-03-05 15:57:09,592 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-03-05 15:57:13,386 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/programming-as-a-profession-is-dead-because-of-ai.1689069/unread
+2025-03-05 15:57:32,794 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/programming-as-a-profession-is-dead-because-of-ai.1689069/unread
+2025-03-05 15:57:32,795 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/programming-as-a-profession-is-dead-because-of-ai.1689069/unread' to visited threads file 'Thread_links.txt'.
+2025-03-05 15:57:32,902 - INFO - Extracted thread title: Programming as a profession is dead because of AI
+2025-03-05 15:57:32,903 - DEBUG - Scrolling page 4 times.
+2025-03-05 15:57:32,904 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:57:34,189 - DEBUG - Page scrolled.
+2025-03-05 15:57:36,190 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:57:38,184 - DEBUG - Page scrolled.
+2025-03-05 15:57:40,185 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:57:41,717 - DEBUG - Page scrolled.
+2025-03-05 15:57:43,718 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:57:45,589 - DEBUG - Page scrolled.
+2025-03-05 15:57:47,591 - DEBUG - Random scrolls complete.
+2025-03-05 15:57:49,657 - DEBUG - Scrolling page 4 times.
+2025-03-05 15:57:49,659 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:57:51,100 - DEBUG - Page scrolled.
+2025-03-05 15:57:54,101 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:57:55,845 - DEBUG - Page scrolled.
+2025-03-05 15:57:58,846 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:58:00,692 - DEBUG - Page scrolled.
+2025-03-05 15:58:03,693 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:58:05,086 - DEBUG - Page scrolled.
+2025-03-05 15:58:08,087 - DEBUG - Random scrolls complete.
+2025-03-05 15:58:08,117 - DEBUG - Found 20 like buttons.
+2025-03-05 15:58:11,118 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-05 15:58:11,686 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 15:58:11,698 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 15:58:11,699 - DEBUG - Liked post number 1 of 3.
+2025-03-05 15:58:16,879 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 15:58:16,897 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 15:58:16,899 - DEBUG - Liked post number 2 of 3.
+2025-03-05 15:58:21,828 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 15:58:21,844 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 15:58:21,844 - DEBUG - Liked post number 3 of 3.
+2025-03-05 15:58:26,234 - INFO - Liked 3 posts successfully.
+2025-03-05 15:58:26,235 - INFO - Liked 3 posts successfully.
+2025-03-05 15:58:26,237 - DEBUG - Scrolling page 7 times.
+2025-03-05 15:58:26,238 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:58:27,260 - DEBUG - Page scrolled.
+2025-03-05 15:58:30,261 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:58:31,465 - DEBUG - Page scrolled.
+2025-03-05 15:58:34,466 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:58:35,898 - DEBUG - Page scrolled.
+2025-03-05 15:58:38,900 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:58:40,653 - DEBUG - Page scrolled.
+2025-03-05 15:58:43,654 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:58:44,708 - DEBUG - Page scrolled.
+2025-03-05 15:58:47,710 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:58:48,909 - DEBUG - Page scrolled.
+2025-03-05 15:58:51,911 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 15:58:53,132 - DEBUG - Page scrolled.
+2025-03-05 15:58:56,134 - DEBUG - Random scrolls complete.
+2025-03-05 15:58:58,513 - DEBUG - Total comments in the thread: 20
+2025-03-05 15:59:03,106 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Programming as a profession is dead because of AI.txt
+2025-03-05 15:59:05,322 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-05 15:59:05,367 - DEBUG - Extracted main post content: I see a lot of content related to the Programming and AI. After the hype of the AI many people on YouTube and Blogs are saying that programming is dead after the rise of AI Models.
+I would like to know the your opinions on this and see how many of you really agree with that.
+Thanks!
+2025-03-05 15:59:09,318 - INFO - Successfully generated comments using Gemini API.
+2025-03-05 15:59:09,320 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-05 15:59:09,322 - INFO - API comment generated and saved to Thread-Details\API Comments\Programming as a profession is dead because of AI_Programming is definitely not dead, it's just evol.txt
+2025-03-05 15:59:11,426 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 15:59:11,427 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 15:59:11,450 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 15:59:11,495 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 15:59:11,504 - DEBUG - Text box scrolled into view
+2025-03-05 15:59:12,256 - DEBUG - Initializing actionchains
+2025-03-05 15:59:12,305 - DEBUG - Post reply Element location: {'x': 1087, 'y': 11531}, size: {'height': 21, 'width': 68}
+2025-03-05 15:59:12,305 - DEBUG - Target click coordinates: (1121, 11541)
+2025-03-05 15:59:12,306 - DEBUG - Moving mouse from (508, 268) to (1121, 11541).
+2025-03-05 15:59:12,306 - DEBUG - Generating Bezier path from (508, 268) to (1121, 11541) with 50 points.
+2025-03-05 15:59:12,306 - DEBUG - Control point: (433, 255)
+2025-03-05 15:59:12,307 - DEBUG - Generated Bezier path with 50 points.
+2025-03-05 15:59:12,307 - DEBUG - Moved mouse to (508, 268), delay: 0.0000
+2025-03-05 15:59:12,312 - DEBUG - Moved mouse to (505, 272), delay: 0.0038
+2025-03-05 15:59:12,322 - DEBUG - Moved mouse to (503, 285), delay: 0.0092
+2025-03-05 15:59:12,334 - DEBUG - Moved mouse to (501, 308), delay: 0.0104
+2025-03-05 15:59:12,350 - DEBUG - Moved mouse to (500, 341), delay: 0.0142
+2025-03-05 15:59:12,375 - DEBUG - Moved mouse to (500, 382), delay: 0.0236
+2025-03-05 15:59:12,400 - DEBUG - Moved mouse to (501, 434), delay: 0.0232
+2025-03-05 15:59:12,424 - DEBUG - Moved mouse to (502, 494), delay: 0.0220
+2025-03-05 15:59:12,446 - DEBUG - Moved mouse to (503, 564), delay: 0.0212
+2025-03-05 15:59:12,474 - DEBUG - Moved mouse to (506, 644), delay: 0.0265
+2025-03-05 15:59:12,515 - DEBUG - Moved mouse to (509, 733), delay: 0.0395
+2025-03-05 15:59:12,555 - DEBUG - Moved mouse to (512, 831), delay: 0.0388
+2025-03-05 15:59:12,586 - DEBUG - Moved mouse to (517, 939), delay: 0.0297
+2025-03-05 15:59:12,624 - DEBUG - Moved mouse to (521, 1056), delay: 0.0368
+2025-03-05 15:59:12,666 - DEBUG - Moved mouse to (527, 1182), delay: 0.0408
+2025-03-05 15:59:12,700 - DEBUG - Moved mouse to (533, 1318), delay: 0.0328
+2025-03-05 15:59:12,737 - DEBUG - Moved mouse to (540, 1464), delay: 0.0360
+2025-03-05 15:59:12,786 - DEBUG - Moved mouse to (547, 1619), delay: 0.0473
+2025-03-05 15:59:12,835 - DEBUG - Moved mouse to (555, 1783), delay: 0.0477
+2025-03-05 15:59:12,882 - DEBUG - Moved mouse to (564, 1956), delay: 0.0452
+2025-03-05 15:59:12,942 - DEBUG - Moved mouse to (573, 2139), delay: 0.0587
+2025-03-05 15:59:13,021 - DEBUG - Moved mouse to (583, 2332), delay: 0.0770
+2025-03-05 15:59:13,067 - DEBUG - Moved mouse to (594, 2534), delay: 0.0450
+2025-03-05 15:59:13,124 - DEBUG - Moved mouse to (605, 2745), delay: 0.0553
+2025-03-05 15:59:13,181 - DEBUG - Moved mouse to (617, 2965), delay: 0.0552
+2025-03-05 15:59:13,233 - DEBUG - Moved mouse to (630, 3195), delay: 0.0498
+2025-03-05 15:59:13,325 - DEBUG - Moved mouse to (643, 3435), delay: 0.0907
+2025-03-05 15:59:13,400 - DEBUG - Moved mouse to (657, 3684), delay: 0.0724
+2025-03-05 15:59:13,492 - DEBUG - Moved mouse to (671, 3942), delay: 0.0897
+2025-03-05 15:59:13,586 - DEBUG - Moved mouse to (686, 4210), delay: 0.0929
+2025-03-05 15:59:13,687 - DEBUG - Moved mouse to (702, 4487), delay: 0.0987
+2025-03-05 15:59:13,780 - DEBUG - Moved mouse to (718, 4773), delay: 0.0905
+2025-03-05 15:59:13,873 - DEBUG - Moved mouse to (735, 5069), delay: 0.0916
+2025-03-05 15:59:13,949 - DEBUG - Moved mouse to (753, 5375), delay: 0.0742
+2025-03-05 15:59:14,047 - DEBUG - Moved mouse to (771, 5690), delay: 0.0973
+2025-03-05 15:59:14,123 - DEBUG - Moved mouse to (790, 6014), delay: 0.0744
+2025-03-05 15:59:14,188 - DEBUG - Moved mouse to (809, 6347), delay: 0.0634
+2025-03-05 15:59:14,305 - DEBUG - Moved mouse to (829, 6690), delay: 0.1147
+2025-03-05 15:59:14,378 - DEBUG - Moved mouse to (850, 7043), delay: 0.0704
+2025-03-05 15:59:14,474 - DEBUG - Moved mouse to (871, 7405), delay: 0.0943
+2025-03-05 15:59:14,551 - DEBUG - Moved mouse to (894, 7776), delay: 0.0761
+2025-03-05 15:59:14,657 - DEBUG - Moved mouse to (916, 8156), delay: 0.1041
+2025-03-05 15:59:14,768 - DEBUG - Moved mouse to (939, 8547), delay: 0.1083
+2025-03-05 15:59:14,873 - DEBUG - Moved mouse to (963, 8946), delay: 0.1029
+2025-03-05 15:59:14,975 - DEBUG - Moved mouse to (988, 9355), delay: 0.1012
+2025-03-05 15:59:15,090 - DEBUG - Moved mouse to (1013, 9773), delay: 0.1128
+2025-03-05 15:59:15,231 - DEBUG - Moved mouse to (1039, 10201), delay: 0.1390
+2025-03-05 15:59:15,372 - DEBUG - Moved mouse to (1066, 10638), delay: 0.1388
+2025-03-05 15:59:15,506 - DEBUG - Moved mouse to (1093, 11085), delay: 0.1321
+2025-03-05 15:59:15,641 - DEBUG - Moved mouse to (1121, 11541), delay: 0.1340
+2025-03-05 15:59:15,642 - INFO - Successfully moved mouse to (1121, 11541) using Bezier curve.
+2025-03-05 15:59:15,644 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-05 15:59:15,645 - DEBUG - Moving mouse to text box element.
+2025-03-05 15:59:15,646 - DEBUG - Clicking on the text box.
+2025-03-05 15:59:15,648 - DEBUG - Sending keys with content: Programming is definitely not dead, it's just evolving, like it always does. What we *do* with it might look a little different in the future, though.
+
+2025-03-05 15:59:21,044 - DEBUG - Clicking on post reply button.
+2025-03-05 15:59:32,117 - DEBUG - Performed Actionchains
+2025-03-05 15:59:32,118 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-05 15:59:36,120 - INFO - Comment posted successfully.
+2025-03-05 15:59:36,121 - INFO - Task Completed!!
+2025-03-05 15:59:47,175 - INFO - Navigated back to the homepage.
+2025-03-05 15:59:49,440 - INFO - Attempting to clear memory and resources.
+2025-03-05 15:59:49,475 - INFO - Garbage collection completed.
+2025-03-05 15:59:49,476 - INFO - Waiting for 1240 seconds before next execution.
+2025-03-05 16:20:29,478 - INFO - Automation has reached the 2-hour limit. Stopping execution.
+2025-03-05 16:20:29,494 - INFO - Driver quit successfully.
+2025-03-05 16:20:29,603 - ERROR - Error while stopping profile: 404 page not found
