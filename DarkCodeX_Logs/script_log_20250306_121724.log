@@ -1,0 +1,42 @@
+2025-03-06 12:17:24,370 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_121724.log
+2025-03-06 12:17:24,370 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 12:17:24,395 - INFO - Loaded 68 visited threads from Thread_links.txt
+2025-03-06 12:17:24,396 - INFO - Successfully loaded links that was already visited!
+2025-03-06 12:17:24,398 - DEBUG - Scrolling page 6 times.
+2025-03-06 12:17:24,398 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:17:25,622 - DEBUG - Page scrolled.
+2025-03-06 12:17:27,624 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:17:29,476 - DEBUG - Page scrolled.
+2025-03-06 12:17:31,478 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:17:33,040 - DEBUG - Page scrolled.
+2025-03-06 12:17:35,042 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:17:36,213 - DEBUG - Page scrolled.
+2025-03-06 12:17:38,214 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:17:39,388 - DEBUG - Page scrolled.
+2025-03-06 12:17:41,389 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:17:42,517 - DEBUG - Page scrolled.
+2025-03-06 12:17:44,519 - DEBUG - Random scrolls complete.
+2025-03-06 12:17:51,009 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-03-06 12:17:54,786 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-the-cheapest-web-server-to-host-100-one-product-stores.1692876/unread
+2025-03-06 12:18:02,145 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-the-cheapest-web-server-to-host-100-one-product-stores.1692876/unread
+2025-03-06 12:18:02,147 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-the-cheapest-web-server-to-host-100-one-product-stores.1692876/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 12:18:02,179 - INFO - Extracted thread title: What is the cheapest web server to host 100 one-product stores
+2025-03-06 12:18:02,180 - DEBUG - Scrolling page 4 times.
+2025-03-06 12:18:02,180 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:18:04,023 - DEBUG - Page scrolled.
+2025-03-06 12:18:06,025 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:18:07,090 - DEBUG - Page scrolled.
+2025-03-06 12:18:09,091 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:18:10,634 - DEBUG - Page scrolled.
+2025-03-06 12:18:12,635 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:18:14,599 - DEBUG - Page scrolled.
+2025-03-06 12:18:16,600 - DEBUG - Random scrolls complete.
+2025-03-06 12:18:18,873 - DEBUG - Scrolling page 1 times.
+2025-03-06 12:18:18,874 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:18:20,542 - DEBUG - Page scrolled.
+2025-03-06 12:18:23,543 - DEBUG - Random scrolls complete.
+2025-03-06 12:18:23,558 - DEBUG - Found 2 like buttons.
+2025-03-06 12:18:26,559 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-06 12:18:27,506 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 12:18:27,528 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 12:18:27,529 - DEBUG - Liked post number 1 of 2.

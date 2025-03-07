@@ -1,0 +1,1 @@
+Honestly, I'm not super familiar with doing it by IP but I'm curious why you want to filter by unique IPs instead of just redirecting all traffic?

@@ -1,0 +1,145 @@
+2025-03-06 17:40:33,384 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_174033.log
+2025-03-06 17:40:33,385 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 17:40:33,386 - INFO - Loaded 73 visited threads from Thread_links.txt
+2025-03-06 17:40:33,387 - INFO - Successfully loaded links that was already visited!
+2025-03-06 17:40:33,387 - DEBUG - Scrolling page 5 times.
+2025-03-06 17:40:33,387 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:40:41,146 - DEBUG - Page scrolled.
+2025-03-06 17:40:43,148 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:40:44,566 - DEBUG - Page scrolled.
+2025-03-06 17:40:46,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:40:47,611 - DEBUG - Page scrolled.
+2025-03-06 17:40:49,612 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:40:51,400 - DEBUG - Page scrolled.
+2025-03-06 17:40:53,400 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:40:54,582 - DEBUG - Page scrolled.
+2025-03-06 17:40:56,583 - DEBUG - Random scrolls complete.
+2025-03-06 17:41:01,086 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-06 17:41:05,738 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/cpa-is-it-worthless.1692911/unread
+2025-03-06 17:41:13,808 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/cpa-is-it-worthless.1692911/unread
+2025-03-06 17:41:13,811 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/cpa-is-it-worthless.1692911/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 17:41:13,861 - INFO - Extracted thread title: CPA is it worthless
+2025-03-06 17:41:13,862 - DEBUG - Scrolling page 3 times.
+2025-03-06 17:41:13,862 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:41:15,054 - DEBUG - Page scrolled.
+2025-03-06 17:41:17,055 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:41:18,605 - DEBUG - Page scrolled.
+2025-03-06 17:41:20,607 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:41:22,290 - DEBUG - Page scrolled.
+2025-03-06 17:41:24,292 - DEBUG - Random scrolls complete.
+2025-03-06 17:41:26,375 - DEBUG - Scrolling page 1 times.
+2025-03-06 17:41:26,376 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:41:27,554 - DEBUG - Page scrolled.
+2025-03-06 17:41:30,556 - DEBUG - Random scrolls complete.
+2025-03-06 17:41:30,593 - DEBUG - Found 7 like buttons.
+2025-03-06 17:41:33,595 - INFO - Attempting to like 4 posts. There are 7 available.
+2025-03-06 17:41:34,320 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 17:41:34,354 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 17:41:34,356 - DEBUG - Liked post number 1 of 4.
+2025-03-06 17:41:39,796 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 17:41:39,820 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 17:41:39,822 - DEBUG - Liked post number 2 of 4.
+2025-03-06 17:41:45,802 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 17:41:45,822 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 17:41:45,824 - DEBUG - Liked post number 3 of 4.
+2025-03-06 17:41:50,867 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 17:41:50,883 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 17:41:50,885 - DEBUG - Liked post number 4 of 4.
+2025-03-06 17:41:55,749 - INFO - Liked 4 posts successfully.
+2025-03-06 17:41:55,751 - INFO - Liked 4 posts successfully.
+2025-03-06 17:41:55,752 - DEBUG - Scrolling page 5 times.
+2025-03-06 17:41:55,752 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:41:56,769 - DEBUG - Page scrolled.
+2025-03-06 17:41:59,771 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:42:01,529 - DEBUG - Page scrolled.
+2025-03-06 17:42:04,533 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:42:05,866 - DEBUG - Page scrolled.
+2025-03-06 17:42:08,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:42:09,988 - DEBUG - Page scrolled.
+2025-03-06 17:42:12,989 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:42:14,610 - DEBUG - Page scrolled.
+2025-03-06 17:42:17,612 - DEBUG - Random scrolls complete.
+2025-03-06 17:42:19,960 - DEBUG - Total comments in the thread: 7
+2025-03-06 17:42:36,298 - INFO - Post content extracted and saved to Thread-Details\Thread Content\CPA is it worthless.txt
+2025-03-06 17:42:38,840 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 17:42:38,950 - DEBUG - Extracted main post content: Is CPA like maxbounty worthless. It look like nobody those kind of offers. The payouts are nice though
+2025-03-06 17:42:42,107 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 17:42:42,108 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 17:42:42,109 - INFO - API comment generated and saved to Thread-Details\API Comments\CPA is it worthless_I hear ya, some folks find CPA tough to crack. Hav.txt
+2025-03-06 17:42:44,251 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 17:42:44,252 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 17:42:44,303 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 17:42:44,360 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 17:42:44,368 - DEBUG - Text box scrolled into view
+2025-03-06 17:42:44,878 - DEBUG - Initializing actionchains
+2025-03-06 17:42:44,910 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3362}, size: {'height': 21, 'width': 68}
+2025-03-06 17:42:44,910 - DEBUG - Target click coordinates: (1121, 3372)
+2025-03-06 17:42:44,911 - DEBUG - Moving mouse from (189, 430) to (1121, 3372).
+2025-03-06 17:42:44,911 - DEBUG - Generating Bezier path from (189, 430) to (1121, 3372) with 50 points.
+2025-03-06 17:42:44,911 - DEBUG - Control point: (283, 488)
+2025-03-06 17:42:44,913 - DEBUG - Generated Bezier path with 50 points.
+2025-03-06 17:42:44,914 - DEBUG - Moved mouse to (189, 430), delay: 0.0000
+2025-03-06 17:42:44,918 - DEBUG - Moved mouse to (193, 433), delay: 0.0027
+2025-03-06 17:42:44,925 - DEBUG - Moved mouse to (197, 439), delay: 0.0041
+2025-03-06 17:42:44,940 - DEBUG - Moved mouse to (203, 447), delay: 0.0074
+2025-03-06 17:42:44,948 - DEBUG - Moved mouse to (209, 458), delay: 0.0061
+2025-03-06 17:42:44,958 - DEBUG - Moved mouse to (215, 471), delay: 0.0077
+2025-03-06 17:42:44,968 - DEBUG - Moved mouse to (223, 486), delay: 0.0087
+2025-03-06 17:42:44,978 - DEBUG - Moved mouse to (231, 504), delay: 0.0091
+2025-03-06 17:42:44,991 - DEBUG - Moved mouse to (239, 524), delay: 0.0111
+2025-03-06 17:42:45,003 - DEBUG - Moved mouse to (248, 546), delay: 0.0100
+2025-03-06 17:42:45,017 - DEBUG - Moved mouse to (258, 571), delay: 0.0125
+2025-03-06 17:42:45,031 - DEBUG - Moved mouse to (268, 598), delay: 0.0124
+2025-03-06 17:42:45,052 - DEBUG - Moved mouse to (279, 627), delay: 0.0196
+2025-03-06 17:42:45,071 - DEBUG - Moved mouse to (291, 659), delay: 0.0182
+2025-03-06 17:42:45,086 - DEBUG - Moved mouse to (303, 693), delay: 0.0138
+2025-03-06 17:42:45,108 - DEBUG - Moved mouse to (316, 730), delay: 0.0197
+2025-03-06 17:42:45,133 - DEBUG - Moved mouse to (329, 769), delay: 0.0228
+2025-03-06 17:42:45,159 - DEBUG - Moved mouse to (343, 810), delay: 0.0232
+2025-03-06 17:42:45,183 - DEBUG - Moved mouse to (358, 853), delay: 0.0224
+2025-03-06 17:42:45,211 - DEBUG - Moved mouse to (373, 899), delay: 0.0274
+2025-03-06 17:42:45,239 - DEBUG - Moved mouse to (389, 948), delay: 0.0268
+2025-03-06 17:42:45,272 - DEBUG - Moved mouse to (406, 998), delay: 0.0276
+2025-03-06 17:42:45,294 - DEBUG - Moved mouse to (423, 1051), delay: 0.0177
+2025-03-06 17:42:45,316 - DEBUG - Moved mouse to (441, 1107), delay: 0.0201
+2025-03-06 17:42:45,342 - DEBUG - Moved mouse to (459, 1164), delay: 0.0235
+2025-03-06 17:42:45,377 - DEBUG - Moved mouse to (478, 1224), delay: 0.0315
+2025-03-06 17:42:45,400 - DEBUG - Moved mouse to (498, 1287), delay: 0.0212
+2025-03-06 17:42:45,434 - DEBUG - Moved mouse to (518, 1351), delay: 0.0315
+2025-03-06 17:42:45,467 - DEBUG - Moved mouse to (539, 1419), delay: 0.0310
+2025-03-06 17:42:45,495 - DEBUG - Moved mouse to (560, 1488), delay: 0.0256
+2025-03-06 17:42:45,532 - DEBUG - Moved mouse to (582, 1560), delay: 0.0343
+2025-03-06 17:42:45,555 - DEBUG - Moved mouse to (605, 1634), delay: 0.0213
+2025-03-06 17:42:45,581 - DEBUG - Moved mouse to (629, 1711), delay: 0.0243
+2025-03-06 17:42:45,615 - DEBUG - Moved mouse to (653, 1789), delay: 0.0316
+2025-03-06 17:42:45,644 - DEBUG - Moved mouse to (677, 1871), delay: 0.0272
+2025-03-06 17:42:45,684 - DEBUG - Moved mouse to (702, 1954), delay: 0.0376
+2025-03-06 17:42:45,720 - DEBUG - Moved mouse to (728, 2040), delay: 0.0346
+2025-03-06 17:42:45,747 - DEBUG - Moved mouse to (755, 2128), delay: 0.0244
+2025-03-06 17:42:45,773 - DEBUG - Moved mouse to (782, 2219), delay: 0.0247
+2025-03-06 17:42:45,813 - DEBUG - Moved mouse to (809, 2312), delay: 0.0346
+2025-03-06 17:42:45,850 - DEBUG - Moved mouse to (838, 2407), delay: 0.0350
+2025-03-06 17:42:45,896 - DEBUG - Moved mouse to (867, 2505), delay: 0.0433
+2025-03-06 17:42:45,927 - DEBUG - Moved mouse to (896, 2605), delay: 0.0288
+2025-03-06 17:42:45,956 - DEBUG - Moved mouse to (926, 2708), delay: 0.0272
+2025-03-06 17:42:46,003 - DEBUG - Moved mouse to (957, 2812), delay: 0.0459
+2025-03-06 17:42:46,051 - DEBUG - Moved mouse to (989, 2919), delay: 0.0456
+2025-03-06 17:42:46,095 - DEBUG - Moved mouse to (1021, 3029), delay: 0.0427
+2025-03-06 17:42:46,132 - DEBUG - Moved mouse to (1053, 3141), delay: 0.0344
+2025-03-06 17:42:46,174 - DEBUG - Moved mouse to (1087, 3255), delay: 0.0405
+2025-03-06 17:42:46,226 - DEBUG - Moved mouse to (1121, 3372), delay: 0.0500
+2025-03-06 17:42:46,230 - INFO - Successfully moved mouse to (1121, 3372) using Bezier curve.
+2025-03-06 17:42:46,232 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-06 17:42:46,233 - DEBUG - Moving mouse to text box element.
+2025-03-06 17:42:46,234 - DEBUG - Clicking on the text box.
+2025-03-06 17:42:46,236 - DEBUG - Sending keys with content: I hear ya, some folks find CPA tough to crack. Have you tried focusing on a really specific niche? That might help.
+
+2025-03-06 17:42:52,084 - DEBUG - Clicking on post reply button.
+2025-03-06 17:42:53,359 - DEBUG - Performed Actionchains
+2025-03-06 17:42:53,359 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-06 17:42:57,360 - INFO - Comment posted successfully.
+2025-03-06 17:42:57,363 - INFO - Task Completed!!
+2025-03-06 17:43:00,192 - INFO - Navigated back to the homepage.
+2025-03-06 17:43:03,078 - INFO - Attempting to clear memory and resources.
+2025-03-06 17:43:03,131 - INFO - Garbage collection completed.
+2025-03-06 17:43:03,132 - INFO - Waiting for 10 seconds before next execution.

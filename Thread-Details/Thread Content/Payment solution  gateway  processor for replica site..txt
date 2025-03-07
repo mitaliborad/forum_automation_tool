@@ -1,0 +1,196 @@
+--- Main Post Title ---
+Payment solution / gateway / processor for replica site.
+
+Total comments in the thread: 18
+
+Topic User: vlxdo77
+Topic: Hello , you may have seen that i am writing here since 2023 . I am still trying to find reliable payment service that i can work with them . I have tried everything . I have bought moyi cloak , it doesnt work for me . Tried with paypal / stripe cloaks , just doesnt work , they still manage to find its me and insta ban my account on first order . If i have to use stripe again i might only buy stealth with ready cloak and i need help with that. Otherwise i need a normal payment service that would help my website and business.
+Liked by: You, Abdul Tauqir9 and JohnCorsetti
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: uchdollar
+Topic: What products do you sale and what is your charge back rate?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: vlxdo77
+Topic: uchdollar said:
+What products do you sale and what is your charge back rate?
+I sell replica products. Replica Brands. Chargeback was 1-1.5%
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Proxy Cake
+Topic: What do you mean by it doesn't work? Account gets banned for charge backs?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: vlxdo77
+Topic: No mate , account cant survive to the chargeback situation . I get banned on first order
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: uchdollar
+Topic: Do you have the necessary documentation for KYC?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: vlxdo77
+Topic: uchdollar said:
+Do you have the necessary documentation for KYC?
+Yes of course , i have even tried with buying account that is verified with other company and everything…
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: There is probably something wrong about your cloaking strategy, stealth accounts are still the best way to accept payments in this kind of website
+Liked by: Abdul Tauqir9
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: uchdollar
+Topic: vlxdo77 said:
+Yes of course , i have even tried with buying account that is verified with other company and everything…I
+I mean, do you have the required documents for your business?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Abdul Tauqir9
+Topic: If your account was gone on first order, might be due to not setting up cloaking correctly or you never warmed up the account and just directly started runing. I think these all were newly created accounts without any warmup.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: vlxdo77
+Topic: Abdul Tauqir9 said:
+If your account was gone on first order, might be due to not setting up cloaking correctly or you never warmed up the account and just directly started runing. I think these all were newly created accounts without any warmup.
+I have made over 10 stripe accounts with all relatives ids . I have used proxies , tried with everything . The cloak was professional. Its moyi cloak which is expensive . I start to warm up the stripe with 10 usd payments. Ban on the first payment .
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Abdul Tauqir9
+Topic: vlxdo77 said:
+I have made over 10 stripe accounts with all relatives ids . I have used proxies , tried with everything . The cloak was professional. Its moyi cloak which is expensive . I start to warm up the stripe with 10 usd payments. Ban on the first payment .
+You made 10 stripe with relative ids so these were personal stripe, right? Not business.
+Were all these accounts somehow used same internet connection or device?
+Expensive cloak doesn't mean its professional
+How many 10 usd payments you did to warm up the account?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: vlxdo77
+Topic: Abdul Tauqir9 said:
+You made 10 stripe with relative ids so these were personal stripe, right? Not business.
+Were all these accounts somehow used same internet connection or device?
+Expensive cloak doesn't mean its professional
+How many 10 usd payments you did to warm up the account?
+i used proxies + antydolphin .I have made personal stripes and business stripes . I have tried with everything . It didnt matter warmed or not the account get banned on first purchase, even if i try to warm the account .
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Gadiri
+Topic: abdelhake said:
+I sell replicas and use Shopify Payments with WordPress. I have a complex redirection setup that redirects users from WordPress directly to the Shopify checkout. It has been working without any issues for over 4 months.
+Can i get more details about this Set up please
+Liked by: Gatsby10
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Gadiri
+Topic: abdelhake said:
+of course
+how can i get details Please
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Gadiri
+Topic: abdelhake said:
+send me a dm or ask ur qa here
+i sent you request on FB ( smiti oute msaa sur FB ) merci bcp
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: marcospolo
+Topic: I can support with my payment gateway in eu
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: hellz angle
+Topic: vlxdo77 said:
+Hello , you may have seen that i am writing here since 2023 . I am still trying to find reliable payment service that i can work with them . I have tried everything . I have bought moyi cloak , it doesnt work for me . Tried with paypal / stripe cloaks , just doesnt work , they still manage to find its me and insta ban my account on first order . If i have to use stripe again i might only buy stealth with ready cloak and i need help with that. Otherwise i need a normal payment service that would help my website and business.
+with that amount of chargebacks you will get closed sooner or later but you need high quality stripe should live for 20-30k and make your own cloaking don't use someone else as most of them already known by stripe
+Payment Gateway , Bank Account Fully Verified legal no stolen or fake iDs
+(Usd,Eur,Gbp) (Wise, Revolut, Payonner, Paypal, Stripe, Square up and more)
+Business and Personal (Test Before Paying) >>>>>> https://t.me/hellzangle
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

@@ -1,0 +1,151 @@
+2025-03-06 10:42:28,846 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_104228.log
+2025-03-06 10:42:28,847 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 10:42:28,870 - INFO - Loaded 65 visited threads from Thread_links.txt
+2025-03-06 10:42:28,871 - INFO - Successfully loaded links that was already visited!
+2025-03-06 10:42:28,871 - DEBUG - Scrolling page 6 times.
+2025-03-06 10:42:28,871 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:42:30,947 - DEBUG - Page scrolled.
+2025-03-06 10:42:32,948 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:42:34,923 - DEBUG - Page scrolled.
+2025-03-06 10:42:36,924 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:42:38,454 - DEBUG - Page scrolled.
+2025-03-06 10:42:40,455 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:42:42,206 - DEBUG - Page scrolled.
+2025-03-06 10:42:44,207 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:42:45,765 - DEBUG - Page scrolled.
+2025-03-06 10:42:47,766 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:42:49,650 - DEBUG - Page scrolled.
+2025-03-06 10:42:51,651 - DEBUG - Random scrolls complete.
+2025-03-06 10:42:58,588 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-03-06 10:43:02,563 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/mass-tiktok-ads-account-creation.1671275/unread
+2025-03-06 10:43:14,876 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/mass-tiktok-ads-account-creation.1671275/unread
+2025-03-06 10:43:14,878 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/mass-tiktok-ads-account-creation.1671275/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 10:43:14,921 - INFO - Extracted thread title: Mass tiktok ads account creation 
+2025-03-06 10:43:14,921 - DEBUG - Scrolling page 2 times.
+2025-03-06 10:43:14,922 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:43:16,162 - DEBUG - Page scrolled.
+2025-03-06 10:43:18,163 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:43:19,561 - DEBUG - Page scrolled.
+2025-03-06 10:43:21,562 - DEBUG - Random scrolls complete.
+2025-03-06 10:43:23,982 - DEBUG - Scrolling page 4 times.
+2025-03-06 10:43:23,983 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:43:25,013 - DEBUG - Page scrolled.
+2025-03-06 10:43:28,015 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:43:29,617 - DEBUG - Page scrolled.
+2025-03-06 10:43:32,618 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:43:33,934 - DEBUG - Page scrolled.
+2025-03-06 10:43:36,936 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:43:38,940 - DEBUG - Page scrolled.
+2025-03-06 10:43:41,942 - DEBUG - Random scrolls complete.
+2025-03-06 10:43:41,965 - DEBUG - Found 20 like buttons.
+2025-03-06 10:43:44,966 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-06 10:43:45,799 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 10:43:45,813 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 10:43:45,813 - DEBUG - Liked post number 1 of 3.
+2025-03-06 10:43:51,271 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 10:43:51,281 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 10:43:51,281 - DEBUG - Liked post number 2 of 3.
+2025-03-06 10:43:56,974 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 10:43:56,982 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 10:43:56,982 - DEBUG - Liked post number 3 of 3.
+2025-03-06 10:44:01,962 - INFO - Liked 3 posts successfully.
+2025-03-06 10:44:01,962 - INFO - Liked 3 posts successfully.
+2025-03-06 10:44:01,963 - DEBUG - Scrolling page 4 times.
+2025-03-06 10:44:01,964 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:44:02,981 - DEBUG - Page scrolled.
+2025-03-06 10:44:05,984 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:44:07,315 - DEBUG - Page scrolled.
+2025-03-06 10:44:10,316 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:44:11,868 - DEBUG - Page scrolled.
+2025-03-06 10:44:14,869 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:44:16,024 - DEBUG - Page scrolled.
+2025-03-06 10:44:19,025 - DEBUG - Random scrolls complete.
+2025-03-06 10:44:21,894 - DEBUG - Total comments in the thread: 20
+2025-03-06 10:45:13,253 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Mass tiktok ads account creation .txt
+2025-03-06 10:45:15,693 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 10:45:15,734 - DEBUG - Extracted main post content: i couldnt find any thread covering this topic , so my question is how do blackhat marketers create mass tiktok ad accounts to run agressive ads
+2025-03-06 10:45:19,689 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 10:45:19,691 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 10:45:19,693 - INFO - API comment generated and saved to Thread-Details\API Comments\Mass tiktok ads account creation _Honestly, I'm not too familiar with the specifics .txt
+2025-03-06 10:45:21,969 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:45:21,971 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:45:22,005 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:45:22,054 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:45:22,063 - DEBUG - Text box scrolled into view
+2025-03-06 10:45:22,678 - DEBUG - Initializing actionchains
+2025-03-06 10:45:22,725 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6364}, size: {'height': 21, 'width': 68}
+2025-03-06 10:45:22,726 - DEBUG - Target click coordinates: (1121, 6374)
+2025-03-06 10:45:22,726 - DEBUG - Moving mouse from (552, 395) to (1121, 6374).
+2025-03-06 10:45:22,726 - DEBUG - Generating Bezier path from (552, 395) to (1121, 6374) with 50 points.
+2025-03-06 10:45:22,726 - DEBUG - Control point: (627, 435)
+2025-03-06 10:45:22,727 - DEBUG - Generated Bezier path with 50 points.
+2025-03-06 10:45:22,728 - DEBUG - Moved mouse to (552, 395), delay: 0.0000
+2025-03-06 10:45:22,732 - DEBUG - Moved mouse to (555, 399), delay: 0.0032
+2025-03-06 10:45:22,739 - DEBUG - Moved mouse to (558, 408), delay: 0.0062
+2025-03-06 10:45:22,751 - DEBUG - Moved mouse to (562, 422), delay: 0.0100
+2025-03-06 10:45:22,762 - DEBUG - Moved mouse to (567, 440), delay: 0.0092
+2025-03-06 10:45:22,775 - DEBUG - Moved mouse to (571, 464), delay: 0.0117
+2025-03-06 10:45:22,791 - DEBUG - Moved mouse to (576, 493), delay: 0.0152
+2025-03-06 10:45:22,813 - DEBUG - Moved mouse to (581, 526), delay: 0.0203
+2025-03-06 10:45:22,836 - DEBUG - Moved mouse to (587, 565), delay: 0.0218
+2025-03-06 10:45:22,860 - DEBUG - Moved mouse to (593, 608), delay: 0.0234
+2025-03-06 10:45:22,879 - DEBUG - Moved mouse to (600, 657), delay: 0.0176
+2025-03-06 10:45:22,906 - DEBUG - Moved mouse to (606, 710), delay: 0.0252
+2025-03-06 10:45:22,931 - DEBUG - Moved mouse to (613, 768), delay: 0.0233
+2025-03-06 10:45:22,953 - DEBUG - Moved mouse to (621, 831), delay: 0.0220
+2025-03-06 10:45:22,986 - DEBUG - Moved mouse to (629, 899), delay: 0.0309
+2025-03-06 10:45:23,017 - DEBUG - Moved mouse to (637, 972), delay: 0.0301
+2025-03-06 10:45:23,042 - DEBUG - Moved mouse to (645, 1050), delay: 0.0233
+2025-03-06 10:45:23,068 - DEBUG - Moved mouse to (654, 1132), delay: 0.0244
+2025-03-06 10:45:23,094 - DEBUG - Moved mouse to (663, 1220), delay: 0.0253
+2025-03-06 10:45:23,130 - DEBUG - Moved mouse to (673, 1312), delay: 0.0343
+2025-03-06 10:45:23,159 - DEBUG - Moved mouse to (683, 1410), delay: 0.0273
+2025-03-06 10:45:23,196 - DEBUG - Moved mouse to (693, 1512), delay: 0.0353
+2025-03-06 10:45:23,245 - DEBUG - Moved mouse to (703, 1620), delay: 0.0466
+2025-03-06 10:45:23,277 - DEBUG - Moved mouse to (714, 1732), delay: 0.0300
+2025-03-06 10:45:23,321 - DEBUG - Moved mouse to (725, 1849), delay: 0.0437
+2025-03-06 10:45:23,362 - DEBUG - Moved mouse to (737, 1971), delay: 0.0394
+2025-03-06 10:45:23,417 - DEBUG - Moved mouse to (749, 2098), delay: 0.0531
+2025-03-06 10:45:23,457 - DEBUG - Moved mouse to (761, 2230), delay: 0.0379
+2025-03-06 10:45:23,509 - DEBUG - Moved mouse to (774, 2366), delay: 0.0497
+2025-03-06 10:45:23,568 - DEBUG - Moved mouse to (787, 2508), delay: 0.0564
+2025-03-06 10:45:23,628 - DEBUG - Moved mouse to (800, 2655), delay: 0.0584
+2025-03-06 10:45:23,688 - DEBUG - Moved mouse to (814, 2806), delay: 0.0582
+2025-03-06 10:45:23,744 - DEBUG - Moved mouse to (828, 2963), delay: 0.0531
+2025-03-06 10:45:23,798 - DEBUG - Moved mouse to (843, 3124), delay: 0.0524
+2025-03-06 10:45:23,847 - DEBUG - Moved mouse to (857, 3290), delay: 0.0466
+2025-03-06 10:45:23,895 - DEBUG - Moved mouse to (872, 3461), delay: 0.0464
+2025-03-06 10:45:23,955 - DEBUG - Moved mouse to (888, 3637), delay: 0.0573
+2025-03-06 10:45:24,016 - DEBUG - Moved mouse to (904, 3818), delay: 0.0592
+2025-03-06 10:45:24,088 - DEBUG - Moved mouse to (920, 4004), delay: 0.0701
+2025-03-06 10:45:24,164 - DEBUG - Moved mouse to (936, 4195), delay: 0.0737
+2025-03-06 10:45:24,222 - DEBUG - Moved mouse to (953, 4391), delay: 0.0557
+2025-03-06 10:45:24,281 - DEBUG - Moved mouse to (970, 4591), delay: 0.0574
+2025-03-06 10:45:24,361 - DEBUG - Moved mouse to (988, 4797), delay: 0.0776
+2025-03-06 10:45:24,419 - DEBUG - Moved mouse to (1006, 5007), delay: 0.0558
+2025-03-06 10:45:24,480 - DEBUG - Moved mouse to (1024, 5223), delay: 0.0587
+2025-03-06 10:45:24,567 - DEBUG - Moved mouse to (1043, 5443), delay: 0.0846
+2025-03-06 10:45:24,630 - DEBUG - Moved mouse to (1062, 5668), delay: 0.0616
+2025-03-06 10:45:24,711 - DEBUG - Moved mouse to (1081, 5899), delay: 0.0779
+2025-03-06 10:45:24,764 - DEBUG - Moved mouse to (1101, 6134), delay: 0.0518
+2025-03-06 10:45:24,820 - DEBUG - Moved mouse to (1121, 6374), delay: 0.0539
+2025-03-06 10:45:24,821 - INFO - Successfully moved mouse to (1121, 6374) using Bezier curve.
+2025-03-06 10:45:24,823 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-06 10:45:24,824 - DEBUG - Moving mouse to text box element.
+2025-03-06 10:45:24,825 - DEBUG - Clicking on the text box.
+2025-03-06 10:45:24,829 - DEBUG - Sending keys with content: Honestly, I'm not too familiar with the specifics of that, but I'd imagine they're using some kind of automation software or bot to get around the verification process.
+
+2025-03-06 10:45:30,270 - DEBUG - Clicking on post reply button.
+2025-03-06 10:45:41,406 - DEBUG - Performed Actionchains
+2025-03-06 10:45:41,406 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-06 10:45:45,408 - INFO - Comment posted successfully.
+2025-03-06 10:45:45,409 - INFO - Task Completed!!
+2025-03-06 10:45:56,491 - INFO - Navigated back to the homepage.
+2025-03-06 10:45:58,691 - INFO - Attempting to clear memory and resources.
+2025-03-06 10:45:58,726 - INFO - Garbage collection completed.
+2025-03-06 10:45:58,727 - INFO - Waiting for 10 seconds before next execution.
+2025-03-06 10:46:08,728 - INFO - Automation has reached the 2-hour limit. Stopping execution.
+2025-03-06 10:46:08,730 - INFO - Quitting browser driver...
+2025-03-06 10:46:13,738 - INFO - Browser closed successfully.
+2025-03-06 10:46:13,739 - INFO - Attempting to stop MultiLogin profile...
+2025-03-06 10:46:13,741 - ERROR - Failed to check profile status: 404 page not found

@@ -1,0 +1,108 @@
+--- Main Post Title ---
+Google Voice and Bulk SMS Operation
+
+Total comments in the thread: 8
+
+Topic User: Vamsi9002
+Topic: Hi I've posted a thread earlier but wanted to give a quick review and create a new one.
+
+My Goal is to have a system of Bulk SMS running through google voice accounts so I can promote affiliate offers.
+
+1) I am using a VPN
+2) I have 10 voice accounts
+3) I have the numbers I need to message
+
+The roadblock I am facing is that after I use account #1 and send 100 messages, I move on to account #2 and it stops me at 20 messages, I then move to account #3 and it stops me at 20 messages for the day. I want each account to be able to send out 100 messages each. Despite using a VPN, google is able to associate and create a link between the voice accounts. How do I overcome this? All the voice accounts are being logged into through one device - my computer (I feel that this is the only connection between the accounts that can be spotted).
+
+What are the mistakes that I am making? Does anyone have experience doing this on a large scale? Please let me know.
+Liked by: You and NetNestNetwork
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Aaric
+Topic: At first solution you can use different browser for each account. Chrome, FF, IE etc
+Liked by: metallic
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Emailpva
+Topic: You can try BlueStacks and Nox. login/logout with different email address
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: metallic
+Topic: Aaric said:
+At first solution you can use different browser for each account. Chrome, FF, IE etc
+Thank you for sharing
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Darkmoon04
+Topic: I think in this case it is better to use your old google voice because you will be able to send more sms by using old google voice
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: conexer
+Topic: Vamsi9002 said:
+Hi I've posted a thread earlier but wanted to give a quick review and create a new one.
+
+My Goal is to have a system of Bulk SMS running through google voice accounts so I can promote affiliate offers.
+
+1) I am using a VPN
+2) I have 10 voice accounts
+3) I have the numbers I need to message
+
+The roadblock I am facing is that after I use account #1 and send 100 messages, I move on to account #2 and it stops me at 20 messages, I then move to account #3 and it stops me at 20 messages for the day. I want each account to be able to send out 100 messages each. Despite using a VPN, google is able to associate and create a link between the voice accounts. How do I overcome this? All the voice accounts are being logged into through one device - my computer (I feel that this is the only connection between the accounts that can be spotted).
+
+What are the mistakes that I am making? Does anyone have experience doing this on a large scale? Please let me know.
+Click to expand...
+Hey, have you found a solid solution to this problem yet. I'm starting on the same path.
+
+Was thinking of have someone program a simple bulk messaging sender & install it on as many virtual assistant's computer & have it running for me & that will solve the Ip address problem. Maybe just pay the VA about $20-30 buck a month to run the program. Best program I found so far is the Bulk Texter Pro. If anyone has a better program let me know.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Moox_990
+Topic: Do you use vpn or proxy sir ?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Ebube11
+Topic: conexer said:
+Hey, have you found a solid solution to this problem yet. I'm starting on the same path.
+
+Was thinking of have someone program a simple bulk messaging sender & install it on as many virtual assistant's computer & have it running for me & that will solve the Ip address problem. Maybe just pay the VA about $20-30 buck a month to run the program. Best program I found so far is the Bulk Texter Pro. If anyone has a better program let me know.
+How to use texter pro
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

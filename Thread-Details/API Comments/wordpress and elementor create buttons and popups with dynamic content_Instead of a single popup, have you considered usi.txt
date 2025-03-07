@@ -1,0 +1,1 @@
+Instead of a single popup, have you considered using Elementor's accordion or tabs widget? It might be easier to manage all those different content sections.

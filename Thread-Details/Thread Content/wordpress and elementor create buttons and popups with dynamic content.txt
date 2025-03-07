@@ -1,0 +1,71 @@
+--- Main Post Title ---
+wordpress and elementor create buttons and popups with dynamic content
+
+Total comments in the thread: 3
+
+Topic User: adschimmo
+Topic: I want to make a page on wordpress and use elementor. Description: the page will have many sections. With 1 section is the title of an article and 1 "BUY NOW" button on the right of each title
+When I press the first BUY NOW button, a popup and information of title 1 will appear
+And when I press the second BUY NOW button, the popup will still appear but the content is of the second title
+And the other buttons are the same. It's still the same popup but the content has changed
+I asked ChatGPT but couldn't help. Hope you guys can help me
+Attachments
+Screenshot 2025-02-22 141052.png
+Screenshot 2025-02-25 153536.png
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: kilroy
+Topic: https://elementor.com/help/popups/
+
+In the popup template, use dynamic tags to display the article information. You can use custom fields or ACF (Advanced Custom Fields) to store the article details.
+To pass the specific article information to the popup, you will need to use custom attributes or JavaScript to dynamically update the popup content based on which button is clicked.
+
+Code:
+// JavaScript to dynamically update popup content
+jQuery(document).ready(function($) {
+    $('.buy-now-button').on('click', function() {
+        var articleTitle = $(this).data('title');
+        var articleContent = $(this).data('content');
+        
+        // Update the popup content
+        $('#popup-title').text(articleTitle);
+        $('#popup-content').text(articleContent);
+        
+        // Open the popup
+        elementorProFrontend.modules.popup.showPopup({ id: 'your-popup-id' });
+    });
+});
+
+And in your Elementor page, set custom attributes for each button:
+
+Code:
+<a class="elementor-button buy-now-button" data-title="Article 1" data-content="Content of Article 1">BUY NOW</a>
+<a class="elementor-button buy-now-button" data-title="Article 2" data-content="Content of Article 2">BUY NOW</a>
+<!-- Repeat for other buttons -->
+Liked by: adschimmo
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: adschimmo
+Topic: kilroy said:
+https://elementor.com/help/popups/
+
+Trong mẫu bật lên, sử dụng thẻ động để hiển thị thông tin bài viết. Bạn có thể sử dụng các trường tùy chỉnh hoặc ACF (Trường tùy chỉnh nâng cao) để lưu trữ chi tiết bài viết.
+Để chuyển thông tin bài viết cụ thể cho cửa sổ bật lên, bạn sẽ cần sử dụng các thuộc tính tùy chỉnh hoặc JavaScript để tự động cập nhật nội dung cửa sổ bật lên dựa trên nút nào được nhấp.
+
+Click to expand...
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

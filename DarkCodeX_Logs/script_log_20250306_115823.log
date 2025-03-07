@@ -1,0 +1,144 @@
+2025-03-06 11:58:23,121 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_115823.log
+2025-03-06 11:58:23,122 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 11:58:23,144 - INFO - Loaded 67 visited threads from Thread_links.txt
+2025-03-06 11:58:23,144 - INFO - Successfully loaded links that was already visited!
+2025-03-06 11:58:23,145 - DEBUG - Scrolling page 5 times.
+2025-03-06 11:58:23,145 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:58:25,060 - DEBUG - Page scrolled.
+2025-03-06 11:58:27,061 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:58:28,315 - DEBUG - Page scrolled.
+2025-03-06 11:58:30,316 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:58:31,446 - DEBUG - Page scrolled.
+2025-03-06 11:58:33,448 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:58:34,943 - DEBUG - Page scrolled.
+2025-03-06 11:58:36,945 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:58:38,826 - DEBUG - Page scrolled.
+2025-03-06 11:58:40,827 - DEBUG - Random scrolls complete.
+2025-03-06 11:58:51,112 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-03-06 11:58:55,061 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-wechat-a-good-platform-to-promote-in-china.1564030/unread
+2025-03-06 11:59:04,762 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-wechat-a-good-platform-to-promote-in-china.1564030/unread
+2025-03-06 11:59:04,765 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-wechat-a-good-platform-to-promote-in-china.1564030/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 11:59:04,799 - INFO - Extracted thread title: Is wechat a good platform to promote in China
+2025-03-06 11:59:04,800 - DEBUG - Scrolling page 4 times.
+2025-03-06 11:59:04,800 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:05,878 - DEBUG - Page scrolled.
+2025-03-06 11:59:07,879 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:09,262 - DEBUG - Page scrolled.
+2025-03-06 11:59:11,263 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:12,333 - DEBUG - Page scrolled.
+2025-03-06 11:59:14,334 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:16,321 - DEBUG - Page scrolled.
+2025-03-06 11:59:18,322 - DEBUG - Random scrolls complete.
+2025-03-06 11:59:21,114 - DEBUG - Scrolling page 2 times.
+2025-03-06 11:59:21,114 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:23,048 - DEBUG - Page scrolled.
+2025-03-06 11:59:26,050 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:27,251 - DEBUG - Page scrolled.
+2025-03-06 11:59:30,252 - DEBUG - Random scrolls complete.
+2025-03-06 11:59:30,276 - DEBUG - Found 12 like buttons.
+2025-03-06 11:59:33,277 - INFO - Attempting to like 1 posts. There are 12 available.
+2025-03-06 11:59:34,014 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 11:59:34,032 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 11:59:34,033 - DEBUG - Liked post number 1 of 1.
+2025-03-06 11:59:38,256 - INFO - Liked 1 posts successfully.
+2025-03-06 11:59:38,257 - INFO - Liked 1 posts successfully.
+2025-03-06 11:59:38,259 - DEBUG - Scrolling page 4 times.
+2025-03-06 11:59:38,259 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:39,483 - DEBUG - Page scrolled.
+2025-03-06 11:59:42,485 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:44,086 - DEBUG - Page scrolled.
+2025-03-06 11:59:47,087 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:48,599 - DEBUG - Page scrolled.
+2025-03-06 11:59:51,602 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:59:53,414 - DEBUG - Page scrolled.
+2025-03-06 11:59:56,415 - DEBUG - Random scrolls complete.
+2025-03-06 11:59:59,450 - DEBUG - Total comments in the thread: 12
+2025-03-06 12:00:37,709 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Is wechat a good platform to promote in China.txt
+2025-03-06 12:00:40,259 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 12:00:40,305 - DEBUG - Extracted main post content: Not sure the ROI of ads in Wechat, any suggestions or experiences on that?
+2025-03-06 12:00:45,009 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 12:00:45,010 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 12:00:45,011 - INFO - API comment generated and saved to Thread-Details\API Comments\Is wechat a good platform to promote in China_I've heard it really depends on your target demogr.txt
+2025-03-06 12:00:47,215 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 12:00:47,215 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 12:00:47,236 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 12:00:47,294 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 12:00:47,302 - DEBUG - Text box scrolled into view
+2025-03-06 12:00:48,016 - DEBUG - Initializing actionchains
+2025-03-06 12:00:48,065 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4127}, size: {'height': 21, 'width': 68}
+2025-03-06 12:00:48,065 - DEBUG - Target click coordinates: (1121, 4137)
+2025-03-06 12:00:48,066 - DEBUG - Moving mouse from (717, 257) to (1121, 4137).
+2025-03-06 12:00:48,066 - DEBUG - Generating Bezier path from (717, 257) to (1121, 4137) with 50 points.
+2025-03-06 12:00:48,066 - DEBUG - Control point: (754, 160)
+2025-03-06 12:00:48,067 - DEBUG - Generated Bezier path with 50 points.
+2025-03-06 12:00:48,067 - DEBUG - Moved mouse to (717, 257), delay: 0.0000
+2025-03-06 12:00:48,071 - DEBUG - Moved mouse to (718, 254), delay: 0.0031
+2025-03-06 12:00:48,074 - DEBUG - Moved mouse to (720, 255), delay: 0.0020
+2025-03-06 12:00:48,080 - DEBUG - Moved mouse to (722, 260), delay: 0.0044
+2025-03-06 12:00:48,087 - DEBUG - Moved mouse to (725, 268), delay: 0.0056
+2025-03-06 12:00:48,093 - DEBUG - Moved mouse to (727, 279), delay: 0.0051
+2025-03-06 12:00:48,106 - DEBUG - Moved mouse to (731, 294), delay: 0.0117
+2025-03-06 12:00:48,119 - DEBUG - Moved mouse to (734, 312), delay: 0.0122
+2025-03-06 12:00:48,132 - DEBUG - Moved mouse to (737, 333), delay: 0.0116
+2025-03-06 12:00:48,143 - DEBUG - Moved mouse to (741, 358), delay: 0.0093
+2025-03-06 12:00:48,162 - DEBUG - Moved mouse to (745, 387), delay: 0.0179
+2025-03-06 12:00:48,183 - DEBUG - Moved mouse to (750, 418), delay: 0.0192
+2025-03-06 12:00:48,205 - DEBUG - Moved mouse to (754, 453), delay: 0.0211
+2025-03-06 12:00:48,225 - DEBUG - Moved mouse to (759, 492), delay: 0.0187
+2025-03-06 12:00:48,279 - DEBUG - Moved mouse to (765, 534), delay: 0.0233
+2025-03-06 12:00:48,298 - DEBUG - Moved mouse to (770, 579), delay: 0.0150
+2025-03-06 12:00:48,318 - DEBUG - Moved mouse to (776, 628), delay: 0.0164
+2025-03-06 12:00:48,342 - DEBUG - Moved mouse to (782, 680), delay: 0.0226
+2025-03-06 12:00:48,371 - DEBUG - Moved mouse to (788, 735), delay: 0.0248
+2025-03-06 12:00:48,398 - DEBUG - Moved mouse to (795, 794), delay: 0.0255
+2025-03-06 12:00:48,432 - DEBUG - Moved mouse to (802, 856), delay: 0.0312
+2025-03-06 12:00:48,455 - DEBUG - Moved mouse to (809, 922), delay: 0.0206
+2025-03-06 12:00:48,489 - DEBUG - Moved mouse to (816, 991), delay: 0.0333
+2025-03-06 12:00:48,523 - DEBUG - Moved mouse to (824, 1063), delay: 0.0326
+2025-03-06 12:00:48,560 - DEBUG - Moved mouse to (832, 1139), delay: 0.0351
+2025-03-06 12:00:48,589 - DEBUG - Moved mouse to (840, 1218), delay: 0.0244
+2025-03-06 12:00:48,622 - DEBUG - Moved mouse to (849, 1301), delay: 0.0319
+2025-03-06 12:00:48,663 - DEBUG - Moved mouse to (857, 1387), delay: 0.0378
+2025-03-06 12:00:48,694 - DEBUG - Moved mouse to (867, 1476), delay: 0.0282
+2025-03-06 12:00:48,734 - DEBUG - Moved mouse to (876, 1569), delay: 0.0375
+2025-03-06 12:00:48,769 - DEBUG - Moved mouse to (886, 1665), delay: 0.0326
+2025-03-06 12:00:48,803 - DEBUG - Moved mouse to (895, 1764), delay: 0.0314
+2025-03-06 12:00:48,851 - DEBUG - Moved mouse to (906, 1867), delay: 0.0459
+2025-03-06 12:00:48,892 - DEBUG - Moved mouse to (916, 1974), delay: 0.0388
+2025-03-06 12:00:48,935 - DEBUG - Moved mouse to (927, 2083), delay: 0.0417
+2025-03-06 12:00:48,986 - DEBUG - Moved mouse to (938, 2197), delay: 0.0494
+2025-03-06 12:00:49,020 - DEBUG - Moved mouse to (949, 2313), delay: 0.0318
+2025-03-06 12:00:49,072 - DEBUG - Moved mouse to (961, 2433), delay: 0.0502
+2025-03-06 12:00:49,126 - DEBUG - Moved mouse to (972, 2556), delay: 0.0522
+2025-03-06 12:00:49,170 - DEBUG - Moved mouse to (984, 2683), delay: 0.0419
+2025-03-06 12:00:49,211 - DEBUG - Moved mouse to (997, 2813), delay: 0.0389
+2025-03-06 12:00:49,249 - DEBUG - Moved mouse to (1009, 2946), delay: 0.0350
+2025-03-06 12:00:49,301 - DEBUG - Moved mouse to (1022, 3083), delay: 0.0495
+2025-03-06 12:00:49,360 - DEBUG - Moved mouse to (1036, 3224), delay: 0.0578
+2025-03-06 12:00:49,414 - DEBUG - Moved mouse to (1049, 3367), delay: 0.0519
+2025-03-06 12:00:49,467 - DEBUG - Moved mouse to (1063, 3514), delay: 0.0516
+2025-03-06 12:00:49,533 - DEBUG - Moved mouse to (1077, 3665), delay: 0.0636
+2025-03-06 12:00:49,574 - DEBUG - Moved mouse to (1091, 3819), delay: 0.0391
+2025-03-06 12:00:49,633 - DEBUG - Moved mouse to (1106, 3976), delay: 0.0568
+2025-03-06 12:00:49,701 - DEBUG - Moved mouse to (1121, 4137), delay: 0.0655
+2025-03-06 12:00:49,702 - INFO - Successfully moved mouse to (1121, 4137) using Bezier curve.
+2025-03-06 12:00:49,704 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-06 12:00:49,705 - DEBUG - Moving mouse to text box element.
+2025-03-06 12:00:49,706 - DEBUG - Clicking on the text box.
+2025-03-06 12:00:49,709 - DEBUG - Sending keys with content: I've heard it really depends on your target demographic within China. Have you tried focusing on a specific niche?
+
+2025-03-06 12:00:55,556 - DEBUG - Clicking on post reply button.
+2025-03-06 12:01:06,557 - DEBUG - Performed Actionchains
+2025-03-06 12:01:06,558 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-06 12:01:10,559 - INFO - Comment posted successfully.
+2025-03-06 12:01:10,559 - INFO - Task Completed!!
+2025-03-06 12:01:19,160 - INFO - Navigated back to the homepage.
+2025-03-06 12:01:21,505 - INFO - Attempting to clear memory and resources.
+2025-03-06 12:01:21,543 - INFO - Garbage collection completed.
+2025-03-06 12:01:21,544 - INFO - Waiting for 10 seconds before next execution.
+2025-03-06 12:01:31,546 - INFO - Automation has reached the 2-hour limit. Stopping execution.
+2025-03-06 12:01:31,548 - INFO - Quitting browser driver...
+2025-03-06 12:01:36,556 - INFO - Browser closed successfully.
+2025-03-06 12:01:36,557 - INFO - Stopping MultiLogin profile...
+2025-03-06 12:01:39,559 - INFO - Attempting to stop MultiLogin profile: d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-06 12:01:39,564 - WARNING - Profile d949ef43-c834-44b4-9628-f60bb0c33b77 not found. It might already be stopped.

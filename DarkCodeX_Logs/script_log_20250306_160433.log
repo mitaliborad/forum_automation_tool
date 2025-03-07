@@ -1,0 +1,153 @@
+2025-03-06 16:04:33,897 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_160433.log
+2025-03-06 16:04:33,909 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 16:04:33,949 - INFO - Loaded 71 visited threads from Thread_links.txt
+2025-03-06 16:04:33,949 - INFO - Successfully loaded links that was already visited!
+2025-03-06 16:04:33,950 - DEBUG - Scrolling page 4 times.
+2025-03-06 16:04:33,950 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:04:40,198 - DEBUG - Page scrolled.
+2025-03-06 16:04:42,200 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:04:43,604 - DEBUG - Page scrolled.
+2025-03-06 16:04:45,605 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:04:47,404 - DEBUG - Page scrolled.
+2025-03-06 16:04:49,405 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:04:51,068 - DEBUG - Page scrolled.
+2025-03-06 16:04:53,070 - DEBUG - Random scrolls complete.
+2025-03-06 16:05:00,153 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-06 16:05:04,205 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/iptv-paypal-account-suspended.1591060/unread
+2025-03-06 16:05:12,383 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/iptv-paypal-account-suspended.1591060/unread
+2025-03-06 16:05:12,385 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/iptv-paypal-account-suspended.1591060/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 16:05:12,423 - INFO - Extracted thread title: IPTV PayPal account suspended
+2025-03-06 16:05:12,424 - DEBUG - Scrolling page 2 times.
+2025-03-06 16:05:12,425 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:05:14,431 - DEBUG - Page scrolled.
+2025-03-06 16:05:16,433 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:05:17,540 - DEBUG - Page scrolled.
+2025-03-06 16:05:19,541 - DEBUG - Random scrolls complete.
+2025-03-06 16:05:22,112 - DEBUG - Scrolling page 3 times.
+2025-03-06 16:05:22,113 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:05:24,073 - DEBUG - Page scrolled.
+2025-03-06 16:05:27,075 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:05:28,893 - DEBUG - Page scrolled.
+2025-03-06 16:05:31,895 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:05:33,069 - DEBUG - Page scrolled.
+2025-03-06 16:05:36,070 - DEBUG - Random scrolls complete.
+2025-03-06 16:05:36,097 - DEBUG - Found 20 like buttons.
+2025-03-06 16:05:39,098 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-03-06 16:05:39,864 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 16:05:39,889 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 16:05:39,890 - DEBUG - Liked post number 1 of 1.
+2025-03-06 16:05:44,159 - INFO - Liked 1 posts successfully.
+2025-03-06 16:05:44,160 - INFO - Liked 1 posts successfully.
+2025-03-06 16:05:44,162 - DEBUG - Scrolling page 7 times.
+2025-03-06 16:05:44,163 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:05:45,820 - DEBUG - Page scrolled.
+2025-03-06 16:05:48,822 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:05:50,020 - DEBUG - Page scrolled.
+2025-03-06 16:05:53,021 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:05:54,712 - DEBUG - Page scrolled.
+2025-03-06 16:05:57,713 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:05:59,001 - DEBUG - Page scrolled.
+2025-03-06 16:06:02,003 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:06:03,303 - DEBUG - Page scrolled.
+2025-03-06 16:06:06,305 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:06:07,434 - DEBUG - Page scrolled.
+2025-03-06 16:06:10,435 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:06:12,241 - DEBUG - Page scrolled.
+2025-03-06 16:06:15,243 - DEBUG - Random scrolls complete.
+2025-03-06 16:06:17,575 - DEBUG - Total comments in the thread: 20
+2025-03-06 16:07:03,108 - INFO - Post content extracted and saved to Thread-Details\Thread Content\IPTV PayPal account suspended.txt
+2025-03-06 16:07:05,279 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 16:07:05,317 - DEBUG - Extracted main post content: Hello,
+I have a paypal account that I use to receive IPTV payments. Today it is suspended and asks me to provide:
+Upload a photo ID
+Provide proof of fulfillment
+Provide proof of purchase from your supplier
+Provide more info on your transaction(s)
+
+How do I do this? Should I disguise the fact that it's IPTV, knowing that I have a dispute whose customer has mentioned that it's iptv?
+2025-03-06 16:07:09,832 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 16:07:09,835 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 16:07:09,837 - INFO - API comment generated and saved to Thread-Details\API Comments\IPTV PayPal account suspended_Oof, that's rough. I'd probably avoid mentioning I.txt
+2025-03-06 16:07:12,820 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 16:07:12,820 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 16:07:12,836 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 16:07:12,881 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 16:07:12,890 - DEBUG - Text box scrolled into view
+2025-03-06 16:07:13,434 - DEBUG - Initializing actionchains
+2025-03-06 16:07:13,456 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6769}, size: {'height': 21, 'width': 68}
+2025-03-06 16:07:13,456 - DEBUG - Target click coordinates: (1121, 6779)
+2025-03-06 16:07:13,456 - DEBUG - Moving mouse from (837, 540) to (1121, 6779).
+2025-03-06 16:07:13,456 - DEBUG - Generating Bezier path from (837, 540) to (1121, 6779) with 50 points.
+2025-03-06 16:07:13,457 - DEBUG - Control point: (852, 448)
+2025-03-06 16:07:13,465 - DEBUG - Generated Bezier path with 50 points.
+2025-03-06 16:07:13,468 - DEBUG - Moved mouse to (837, 540), delay: 0.0000
+2025-03-06 16:07:13,471 - DEBUG - Moved mouse to (837, 538), delay: 0.0024
+2025-03-06 16:07:13,477 - DEBUG - Moved mouse to (838, 543), delay: 0.0040
+2025-03-06 16:07:13,483 - DEBUG - Moved mouse to (839, 552), delay: 0.0044
+2025-03-06 16:07:13,492 - DEBUG - Moved mouse to (841, 567), delay: 0.0066
+2025-03-06 16:07:13,507 - DEBUG - Moved mouse to (842, 588), delay: 0.0139
+2025-03-06 16:07:13,520 - DEBUG - Moved mouse to (844, 613), delay: 0.0110
+2025-03-06 16:07:13,539 - DEBUG - Moved mouse to (846, 644), delay: 0.0185
+2025-03-06 16:07:13,553 - DEBUG - Moved mouse to (848, 681), delay: 0.0126
+2025-03-06 16:07:13,571 - DEBUG - Moved mouse to (851, 722), delay: 0.0165
+2025-03-06 16:07:13,593 - DEBUG - Moved mouse to (853, 769), delay: 0.0208
+2025-03-06 16:07:13,623 - DEBUG - Moved mouse to (856, 822), delay: 0.0288
+2025-03-06 16:07:13,654 - DEBUG - Moved mouse to (859, 880), delay: 0.0296
+2025-03-06 16:07:13,682 - DEBUG - Moved mouse to (862, 943), delay: 0.0268
+2025-03-06 16:07:13,716 - DEBUG - Moved mouse to (866, 1011), delay: 0.0333
+2025-03-06 16:07:13,756 - DEBUG - Moved mouse to (869, 1085), delay: 0.0378
+2025-03-06 16:07:13,781 - DEBUG - Moved mouse to (873, 1164), delay: 0.0234
+2025-03-06 16:07:13,814 - DEBUG - Moved mouse to (877, 1249), delay: 0.0307
+2025-03-06 16:07:13,855 - DEBUG - Moved mouse to (882, 1339), delay: 0.0393
+2025-03-06 16:07:13,897 - DEBUG - Moved mouse to (886, 1434), delay: 0.0404
+2025-03-06 16:07:13,944 - DEBUG - Moved mouse to (891, 1534), delay: 0.0461
+2025-03-06 16:07:13,975 - DEBUG - Moved mouse to (896, 1640), delay: 0.0298
+2025-03-06 16:07:14,021 - DEBUG - Moved mouse to (901, 1752), delay: 0.0433
+2025-03-06 16:07:14,057 - DEBUG - Moved mouse to (907, 1868), delay: 0.0336
+2025-03-06 16:07:14,094 - DEBUG - Moved mouse to (912, 1990), delay: 0.0355
+2025-03-06 16:07:14,148 - DEBUG - Moved mouse to (918, 2118), delay: 0.0516
+2025-03-06 16:07:14,189 - DEBUG - Moved mouse to (924, 2250), delay: 0.0392
+2025-03-06 16:07:14,235 - DEBUG - Moved mouse to (930, 2388), delay: 0.0441
+2025-03-06 16:07:14,278 - DEBUG - Moved mouse to (937, 2532), delay: 0.0406
+2025-03-06 16:07:14,332 - DEBUG - Moved mouse to (943, 2680), delay: 0.0514
+2025-03-06 16:07:14,399 - DEBUG - Moved mouse to (950, 2834), delay: 0.0653
+2025-03-06 16:07:14,439 - DEBUG - Moved mouse to (957, 2994), delay: 0.0382
+2025-03-06 16:07:14,487 - DEBUG - Moved mouse to (964, 3159), delay: 0.0460
+2025-03-06 16:07:14,535 - DEBUG - Moved mouse to (972, 3329), delay: 0.0456
+2025-03-06 16:07:14,607 - DEBUG - Moved mouse to (980, 3504), delay: 0.0692
+2025-03-06 16:07:14,675 - DEBUG - Moved mouse to (988, 3685), delay: 0.0654
+2025-03-06 16:07:14,741 - DEBUG - Moved mouse to (996, 3871), delay: 0.0648
+2025-03-06 16:07:14,817 - DEBUG - Moved mouse to (1004, 4063), delay: 0.0741
+2025-03-06 16:07:14,863 - DEBUG - Moved mouse to (1013, 4260), delay: 0.0439
+2025-03-06 16:07:14,921 - DEBUG - Moved mouse to (1021, 4462), delay: 0.0571
+2025-03-06 16:07:14,970 - DEBUG - Moved mouse to (1030, 4670), delay: 0.0460
+2025-03-06 16:07:15,032 - DEBUG - Moved mouse to (1039, 4882), delay: 0.0592
+2025-03-06 16:07:15,091 - DEBUG - Moved mouse to (1049, 5101), delay: 0.0568
+2025-03-06 16:07:15,146 - DEBUG - Moved mouse to (1058, 5324), delay: 0.0534
+2025-03-06 16:07:15,217 - DEBUG - Moved mouse to (1068, 5553), delay: 0.0688
+2025-03-06 16:07:15,303 - DEBUG - Moved mouse to (1078, 5788), delay: 0.0844
+2025-03-06 16:07:15,372 - DEBUG - Moved mouse to (1089, 6027), delay: 0.0675
+2025-03-06 16:07:15,446 - DEBUG - Moved mouse to (1099, 6272), delay: 0.0724
+2025-03-06 16:07:15,518 - DEBUG - Moved mouse to (1110, 6523), delay: 0.0692
+2025-03-06 16:07:15,577 - DEBUG - Moved mouse to (1121, 6779), delay: 0.0571
+2025-03-06 16:07:15,578 - INFO - Successfully moved mouse to (1121, 6779) using Bezier curve.
+2025-03-06 16:07:15,579 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-06 16:07:15,579 - DEBUG - Moving mouse to text box element.
+2025-03-06 16:07:15,579 - DEBUG - Clicking on the text box.
+2025-03-06 16:07:15,580 - DEBUG - Sending keys with content: Oof, that's rough. I'd probably avoid mentioning IPTV directly, but getting all your ducks in a row with legit invoices will be key.
+
+2025-03-06 16:07:21,162 - DEBUG - Clicking on post reply button.
+2025-03-06 16:07:32,214 - DEBUG - Performed Actionchains
+2025-03-06 16:07:32,214 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-06 16:07:36,216 - INFO - Comment posted successfully.
+2025-03-06 16:07:36,217 - INFO - Task Completed!!
+2025-03-06 16:07:45,887 - INFO - Navigated back to the homepage.
+2025-03-06 16:07:48,873 - INFO - Attempting to clear memory and resources.
+2025-03-06 16:07:48,920 - INFO - Garbage collection completed.
+2025-03-06 16:07:48,921 - INFO - Waiting for 10 seconds before next execution.
+2025-03-06 16:07:58,922 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-06 16:07:58,924 - INFO - Quitting browser driver...
+2025-03-06 16:08:03,932 - INFO - Browser closed successfully.
+2025-03-06 16:08:03,934 - INFO - Stopping MultiLogin profile...
+2025-03-06 16:08:06,937 - INFO - Attempting to stop MultiLogin profile: d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-06 16:08:06,943 - WARNING - Profile d949ef43-c834-44b4-9628-f60bb0c33b77 not found. It might already be stopped.

@@ -1,0 +1,82 @@
+--- Main Post Title ---
+How to redirect only single ip traffic to a website? php
+
+Total comments in the thread: 7
+
+Topic User: jehkiriono2022
+Topic: I have a website, but I just want to redirect traffic from another website by filtering the unique ip
+
+Can someone shed some light on where to start?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: jehkiriono2022
+Topic: i mean i want to filter the same ip every 24 hours to visit my site
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Fossadev
+Topic: jehkiriono2022 said:
+i mean i want to filter the same ip every 24 hours to visit my site
+Hey, you could either do that with a database or storing in json file.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Blofeldz
+Topic: If you are using a php script rather than an application and you are looking for a quick and easy hack, something along the lines of
+
+PHP:
+if($_SERVER['REMOTE_ADDR'] === '123.123.123.123'){
+    header('Location: https://somenewaddr.com');
+    exit();
+}
+Liked by: ipolic and RoiBox
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Time Saver
+Topic: Check out https://www.bluehost.com/help/article/php-redirect
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: followerise
+Topic: Use something like AaPanel, it will ease your work with PHP applications, redirects, etc.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: munishkmr14
+Topic: jehkiriono2022 said:
+I have a website, but I just want to redirect traffic from another website by filtering the unique ip
+
+Can someone shed some light on where to start?
+You can filter IPs using server-side scripts (PHP, Node.js) or configure your web server (Apache, Nginx) to redirect based on specific IPs. Just maintain a list of the IPs you want to redirect.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

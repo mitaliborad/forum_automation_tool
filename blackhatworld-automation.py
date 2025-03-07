@@ -19,7 +19,7 @@ from gemini_api import GeminiHandler
 from Multilogin_profiles import Emmaxx_profile
 
 # --- Automation Configuration ---  (Keep only Automation Configuration here)
-#PROFILE = "Emmaxx_profile"
+PROFILE = "Emmaxx_profile"
 LOG_DIRECTORY = "Selenium-Logs"
 AUTOMATION_WAIT_TIME = 1240
 MIN_SCROLLS = 3
@@ -635,24 +635,26 @@ if __name__ == "__main__":
 
     token = None  # Initialize token outside the loop
     driver = None
-
+    is_profile_active = False # Add a status flag
+    
     try:
         # MultiLogin Authentication and Profile Start (DO THIS ONLY ONCE!)
-        token = Emmaxx_profile.signin(logger)  # Pass logger
+        token = DarkCodeX_profile.signin(logger)  # Pass logger
         if not token:
             logger.critical("Failed to sign in to MultiLogin.  Exiting.")
             exit()  # Exit completely if login fails
 
-        driver = Emmaxx_profile.start_profile(token, logger)  # Pass logger
+        driver = DarkCodeX_profile.start_profile(token, logger)  # Pass logger
         if not driver:
             logger.critical("Failed to start MultiLogin profile. Exiting.")
             exit()  # Exit completely if starting profile fails
 
+        is_profile_active = True  # Set flag
 
         while True:
             # Set up new log location for each task
             if datetime.now() - start_time > run_duration:
-                logger.info("Automation has reached the 2-hour limit. Stopping execution.")
+                logger.info("Automation has reached the time limit. Stopping execution.")
                 break            
              # Generate a new timestamp for each automation run
             automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -749,19 +751,21 @@ if __name__ == "__main__":
     except Exception as e:
             logger.critical(f"An unrecoverable error occurred: {e}", exc_info=True)
 
-    finally:  # This will always execute, even if there was a critical error
-            if driver:
-                try:
-                    driver.quit()
-                except Exception as e:
-                    logger.warning(f"Driver quiting Error: {e}", exc_info=True)
-                logger.info("Driver quit successfully.")
+    finally:  
+        if driver:
+            try:
+                logger.info("Quitting browser driver...")
+                driver.quit()
+                time.sleep(5)  # Ensure the browser fully closes
+                logger.info("Browser closed successfully.")
+            except Exception as e:
+                logger.warning(f"Error while quitting driver: {e}", exc_info=True)
 
-            if token:
-                try:
-                    Emmaxx_profile.stop_profile(token, logger)  # call logger for stop the profile
-                except Exception as e:
-                    logger.warning(f"Error stopping MultiLogin profile: {e}", exc_info=True)
-
-
-            
+        if token and is_profile_active:  # Check if the profile is active.
+            try:
+                logger.info("Stopping MultiLogin profile...")
+                time.sleep(3)  # Add a short delay before stopping profile
+                DarkCodeX_profile.stop_profile(token, logger)
+                is_profile_active = False # Reset the Flag
+            except Exception as e:
+                logger.warning(f"Error while stopping MultiLogin profile: {e}", exc_info=True)

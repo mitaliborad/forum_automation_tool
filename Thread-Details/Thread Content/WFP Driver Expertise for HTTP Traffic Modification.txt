@@ -1,0 +1,51 @@
+--- Main Post Title ---
+WFP Driver Expertise for HTTP Traffic Modification
+
+Total comments in the thread: 3
+
+Topic User: CodeZeus
+Topic: Hello!
+
+I recently completed a project where, over the course of 12 months, we developed a solution for system-wide HTTP traffic modification on Windows 10+ using a WFP driver. The program enables traffic interception and modification, including system-wide search redirects and JavaScript injection. We were inspired by how Adguard filters HTTPS traffic, but our software offers several unique features. The application even got approved for publication in the Windows Store. It was a challenging yet very interesting technical solution, particularly regarding security and certificate handling.
+
+I’m open to new projects related to low-level work, traffic manipulation, system drivers, etc. If anyone is looking for a developer with this kind of expertise, feel free to PM me. I’d be happy to discuss potential collaboration and provide examples. Also, we can discuss selling source code assets and exclusive rights.
+
+I believe this kind of technology could be particularly valuable for those involved in search arbitrage and affiliate marketing. However, I haven’t seen discussions on these topics here on the forum. If anyone has experience working with similar technologies or strategies, I’d love to hear your thoughts and share insights. Let’s bring this topic to the table and discuss how such solutions can enhance your projects or campaigns.
+
+Looking forward to hearing from you!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: brucebanner
+Topic: i dont understand exactly.
+
+if you're talking about https request manipulations, its basically placing your machine as a "proxy" to intercept request/edit/response/after response
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: CodeZeus
+Topic: brucebanner said:
+i dont understand exactly.
+
+if you're talking about https request manipulations, its basically placing your machine as a "proxy" to intercept request/edit/response/after response
+
+Yes, you’re on the right track—our solution functions similarly to a proxy in that it intercepts and allows modifications of HTTP and HTTPS requests and responses across the entire system. However, it doesn’t rely on traditional proxy techniques. Instead, we use a Windows Filtering Platform (WFP) driver, which works at a lower level within the operating system. This approach enables us to modify network traffic directly at the system level without needing to configure proxy settings in individual applications.
+
+The advantage of this method is that it works system-wide, so it’s effective even for applications that don’t support custom proxy configurations. Additionally, it allows for advanced features like injecting JavaScript into responses or redirecting search queries on a global scale.
+
+Let me know if you have more questions—I’d be happy to explain further!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

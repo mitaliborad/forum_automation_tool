@@ -1,0 +1,166 @@
+2025-03-06 12:19:57,310 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_121957.log
+2025-03-06 12:19:57,311 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 12:19:57,334 - INFO - Loaded 69 visited threads from Thread_links.txt
+2025-03-06 12:19:57,335 - INFO - Successfully loaded links that was already visited!
+2025-03-06 12:19:57,335 - DEBUG - Scrolling page 6 times.
+2025-03-06 12:19:57,336 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:19:58,863 - DEBUG - Page scrolled.
+2025-03-06 12:20:00,864 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:02,781 - DEBUG - Page scrolled.
+2025-03-06 12:20:04,783 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:06,548 - DEBUG - Page scrolled.
+2025-03-06 12:20:08,549 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:09,844 - DEBUG - Page scrolled.
+2025-03-06 12:20:11,845 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:13,731 - DEBUG - Page scrolled.
+2025-03-06 12:20:15,732 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:16,849 - DEBUG - Page scrolled.
+2025-03-06 12:20:18,850 - DEBUG - Random scrolls complete.
+2025-03-06 12:20:24,755 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-03-06 12:20:28,147 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/looking-suggestions-from-fellow-high-risk-merchants-e-commerce-managers.1688525/unread
+2025-03-06 12:20:37,118 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/looking-suggestions-from-fellow-high-risk-merchants-e-commerce-managers.1688525/unread
+2025-03-06 12:20:37,119 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/looking-suggestions-from-fellow-high-risk-merchants-e-commerce-managers.1688525/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 12:20:37,150 - INFO - Extracted thread title: Looking suggestions from fellow High Risk merchants  e-commerce managers
+2025-03-06 12:20:37,151 - DEBUG - Scrolling page 2 times.
+2025-03-06 12:20:37,151 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:38,399 - DEBUG - Page scrolled.
+2025-03-06 12:20:40,400 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:41,894 - DEBUG - Page scrolled.
+2025-03-06 12:20:43,895 - DEBUG - Random scrolls complete.
+2025-03-06 12:20:46,814 - DEBUG - Scrolling page 4 times.
+2025-03-06 12:20:46,815 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:48,038 - DEBUG - Page scrolled.
+2025-03-06 12:20:51,039 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:52,363 - DEBUG - Page scrolled.
+2025-03-06 12:20:55,364 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:20:57,159 - DEBUG - Page scrolled.
+2025-03-06 12:21:00,160 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:21:01,915 - DEBUG - Page scrolled.
+2025-03-06 12:21:04,916 - DEBUG - Random scrolls complete.
+2025-03-06 12:21:04,931 - DEBUG - Found 10 like buttons.
+2025-03-06 12:21:07,933 - INFO - Attempting to like 4 posts. There are 10 available.
+2025-03-06 12:21:08,899 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 12:21:08,910 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 12:21:08,911 - DEBUG - Liked post number 1 of 4.
+2025-03-06 12:21:14,458 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 12:21:14,465 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 12:21:14,466 - DEBUG - Liked post number 2 of 4.
+2025-03-06 12:21:19,862 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 12:21:19,868 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 12:21:19,869 - DEBUG - Liked post number 3 of 4.
+2025-03-06 12:21:24,610 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 12:21:24,618 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 12:21:24,619 - DEBUG - Liked post number 4 of 4.
+2025-03-06 12:21:29,278 - INFO - Liked 4 posts successfully.
+2025-03-06 12:21:29,278 - INFO - Liked 4 posts successfully.
+2025-03-06 12:21:29,279 - DEBUG - Scrolling page 3 times.
+2025-03-06 12:21:29,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:21:31,140 - DEBUG - Page scrolled.
+2025-03-06 12:21:34,141 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:21:36,005 - DEBUG - Page scrolled.
+2025-03-06 12:21:39,005 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 12:21:40,810 - DEBUG - Page scrolled.
+2025-03-06 12:21:43,811 - DEBUG - Random scrolls complete.
+2025-03-06 12:21:45,922 - DEBUG - Total comments in the thread: 10
+2025-03-06 12:21:58,943 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Looking suggestions from fellow High Risk merchants  e-commerce managers.txt
+2025-03-06 12:22:01,805 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 12:22:01,834 - DEBUG - Extracted main post content: Hello mates,
+
+I own multiple high-risk e-commerce stores, including white-label, reselling, and dropshipping businesses in various categories such as IPTV, Vape, social media marketing, digital subscriptions, and more. I've built these over the past 8 years, and some are doing really well. However, I believe there’s still significant room for growth.
+
+A few points I’ve encountered:
+
+SEO Challenges: While I’ve secured backlinks from various sources, many have high toxicity scores, resulting in wasted investments.
+Payment Gateway Issues: I’ve been struggling to find the right solution. Recently, I found Card2crypto, which works well for WooCommerce stores but has a low conversion rate for my targeted region.
+I’m looking for:
+
+New SEO techniques to improve my site’s performance that are still unknown to most
+Alternative payment gateways that support card payments with crypto settlements
+Suggestions for new niches to enter or profitable opportunities for white-labeling something .
+your answer can be helpful to other fellow members also, Thank you
+2025-03-06 12:22:06,324 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 12:22:06,325 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 12:22:06,325 - INFO - API comment generated and saved to Thread-Details\API Comments\Looking suggestions from fellow High Risk merchants  e-commerce managers_Finding reliable payment gateways for those niches.txt
+2025-03-06 12:22:09,254 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 12:22:09,255 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 12:22:09,268 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 12:22:09,320 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 12:22:09,330 - DEBUG - Text box scrolled into view
+2025-03-06 12:22:09,844 - DEBUG - Initializing actionchains
+2025-03-06 12:22:09,871 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4444}, size: {'height': 21, 'width': 68}
+2025-03-06 12:22:09,871 - DEBUG - Target click coordinates: (1121, 4454)
+2025-03-06 12:22:09,872 - DEBUG - Moving mouse from (815, 296) to (1121, 4454).
+2025-03-06 12:22:09,872 - DEBUG - Generating Bezier path from (815, 296) to (1121, 4454) with 50 points.
+2025-03-06 12:22:09,872 - DEBUG - Control point: (791, 247)
+2025-03-06 12:22:09,873 - DEBUG - Generated Bezier path with 50 points.
+2025-03-06 12:22:09,873 - DEBUG - Moved mouse to (815, 296), delay: 0.0000
+2025-03-06 12:22:09,876 - DEBUG - Moved mouse to (814, 295), delay: 0.0015
+2025-03-06 12:22:09,881 - DEBUG - Moved mouse to (813, 299), delay: 0.0036
+2025-03-06 12:22:09,886 - DEBUG - Moved mouse to (813, 305), delay: 0.0039
+2025-03-06 12:22:09,893 - DEBUG - Moved mouse to (813, 316), delay: 0.0057
+2025-03-06 12:22:09,901 - DEBUG - Moved mouse to (813, 330), delay: 0.0072
+2025-03-06 12:22:09,914 - DEBUG - Moved mouse to (814, 347), delay: 0.0108
+2025-03-06 12:22:09,925 - DEBUG - Moved mouse to (815, 368), delay: 0.0104
+2025-03-06 12:22:09,938 - DEBUG - Moved mouse to (816, 393), delay: 0.0111
+2025-03-06 12:22:09,951 - DEBUG - Moved mouse to (818, 421), delay: 0.0123
+2025-03-06 12:22:09,965 - DEBUG - Moved mouse to (819, 453), delay: 0.0129
+2025-03-06 12:22:09,984 - DEBUG - Moved mouse to (822, 488), delay: 0.0170
+2025-03-06 12:22:10,007 - DEBUG - Moved mouse to (824, 527), delay: 0.0215
+2025-03-06 12:22:10,028 - DEBUG - Moved mouse to (827, 569), delay: 0.0207
+2025-03-06 12:22:10,049 - DEBUG - Moved mouse to (830, 615), delay: 0.0196
+2025-03-06 12:22:10,077 - DEBUG - Moved mouse to (833, 664), delay: 0.0274
+2025-03-06 12:22:10,099 - DEBUG - Moved mouse to (837, 717), delay: 0.0201
+2025-03-06 12:22:10,122 - DEBUG - Moved mouse to (840, 774), delay: 0.0213
+2025-03-06 12:22:10,148 - DEBUG - Moved mouse to (845, 834), delay: 0.0247
+2025-03-06 12:22:10,179 - DEBUG - Moved mouse to (849, 897), delay: 0.0279
+2025-03-06 12:22:10,203 - DEBUG - Moved mouse to (854, 965), delay: 0.0224
+2025-03-06 12:22:10,234 - DEBUG - Moved mouse to (859, 1035), delay: 0.0304
+2025-03-06 12:22:10,265 - DEBUG - Moved mouse to (864, 1109), delay: 0.0291
+2025-03-06 12:22:10,303 - DEBUG - Moved mouse to (870, 1187), delay: 0.0353
+2025-03-06 12:22:10,332 - DEBUG - Moved mouse to (876, 1269), delay: 0.0274
+2025-03-06 12:22:10,361 - DEBUG - Moved mouse to (882, 1353), delay: 0.0258
+2025-03-06 12:22:10,400 - DEBUG - Moved mouse to (889, 1442), delay: 0.0379
+2025-03-06 12:22:10,446 - DEBUG - Moved mouse to (896, 1534), delay: 0.0307
+2025-03-06 12:22:10,492 - DEBUG - Moved mouse to (903, 1629), delay: 0.0438
+2025-03-06 12:22:10,526 - DEBUG - Moved mouse to (910, 1728), delay: 0.0331
+2025-03-06 12:22:10,565 - DEBUG - Moved mouse to (918, 1831), delay: 0.0371
+2025-03-06 12:22:10,609 - DEBUG - Moved mouse to (926, 1937), delay: 0.0425
+2025-03-06 12:22:10,651 - DEBUG - Moved mouse to (934, 2047), delay: 0.0415
+2025-03-06 12:22:10,696 - DEBUG - Moved mouse to (943, 2160), delay: 0.0432
+2025-03-06 12:22:10,739 - DEBUG - Moved mouse to (952, 2277), delay: 0.0420
+2025-03-06 12:22:10,793 - DEBUG - Moved mouse to (961, 2397), delay: 0.0534
+2025-03-06 12:22:10,828 - DEBUG - Moved mouse to (970, 2521), delay: 0.0339
+2025-03-06 12:22:10,885 - DEBUG - Moved mouse to (980, 2648), delay: 0.0560
+2025-03-06 12:22:10,943 - DEBUG - Moved mouse to (990, 2779), delay: 0.0563
+2025-03-06 12:22:10,985 - DEBUG - Moved mouse to (1001, 2914), delay: 0.0404
+2025-03-06 12:22:11,031 - DEBUG - Moved mouse to (1011, 3052), delay: 0.0443
+2025-03-06 12:22:11,068 - DEBUG - Moved mouse to (1022, 3193), delay: 0.0365
+2025-03-06 12:22:11,130 - DEBUG - Moved mouse to (1033, 3338), delay: 0.0609
+2025-03-06 12:22:11,188 - DEBUG - Moved mouse to (1045, 3487), delay: 0.0564
+2025-03-06 12:22:11,225 - DEBUG - Moved mouse to (1057, 3639), delay: 0.0356
+2025-03-06 12:22:11,276 - DEBUG - Moved mouse to (1069, 3795), delay: 0.0500
+2025-03-06 12:22:11,321 - DEBUG - Moved mouse to (1081, 3954), delay: 0.0432
+2025-03-06 12:22:11,370 - DEBUG - Moved mouse to (1094, 4117), delay: 0.0478
+2025-03-06 12:22:11,416 - DEBUG - Moved mouse to (1107, 4284), delay: 0.0461
+2025-03-06 12:22:11,463 - DEBUG - Moved mouse to (1121, 4454), delay: 0.0451
+2025-03-06 12:22:11,463 - INFO - Successfully moved mouse to (1121, 4454) using Bezier curve.
+2025-03-06 12:22:11,464 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-06 12:22:11,465 - DEBUG - Moving mouse to text box element.
+2025-03-06 12:22:11,465 - DEBUG - Clicking on the text box.
+2025-03-06 12:22:11,466 - DEBUG - Sending keys with content: Finding reliable payment gateways for those niches is a constant headache, isn't it? Maybe try exploring some niche-specific forums to see what others in those communities are using and recommending.
+
+2025-03-06 12:22:16,908 - DEBUG - Clicking on post reply button.
+2025-03-06 12:22:28,081 - DEBUG - Performed Actionchains
+2025-03-06 12:22:28,081 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-06 12:22:32,082 - INFO - Comment posted successfully.
+2025-03-06 12:22:32,083 - INFO - Task Completed!!
+2025-03-06 12:22:45,415 - INFO - Navigated back to the homepage.
+2025-03-06 12:22:48,099 - INFO - Attempting to clear memory and resources.
+2025-03-06 12:22:48,138 - INFO - Garbage collection completed.
+2025-03-06 12:22:48,139 - INFO - Waiting for 10 seconds before next execution.
+2025-03-06 12:22:58,140 - INFO - Automation has reached the 2-hour limit. Stopping execution.
+2025-03-06 12:22:58,141 - INFO - Quitting browser driver...
+2025-03-06 12:23:03,146 - INFO - Browser closed successfully.
+2025-03-06 12:23:03,147 - INFO - Stopping MultiLogin profile...
+2025-03-06 12:23:06,150 - INFO - Attempting to stop MultiLogin profile: d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-06 12:23:06,155 - WARNING - Profile d949ef43-c834-44b4-9628-f60bb0c33b77 not found. It might already be stopped.

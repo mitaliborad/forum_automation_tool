@@ -1,0 +1,151 @@
+2025-03-06 11:06:57,463 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_110657.log
+2025-03-06 11:06:57,464 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 11:06:57,483 - INFO - Loaded 66 visited threads from Thread_links.txt
+2025-03-06 11:06:57,483 - INFO - Successfully loaded links that was already visited!
+2025-03-06 11:06:57,484 - DEBUG - Scrolling page 5 times.
+2025-03-06 11:06:57,484 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:06:59,030 - DEBUG - Page scrolled.
+2025-03-06 11:07:01,031 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:07:02,832 - DEBUG - Page scrolled.
+2025-03-06 11:07:04,833 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:07:06,842 - DEBUG - Page scrolled.
+2025-03-06 11:07:08,844 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:07:10,479 - DEBUG - Page scrolled.
+2025-03-06 11:07:12,481 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:07:13,509 - DEBUG - Page scrolled.
+2025-03-06 11:07:15,511 - DEBUG - Random scrolls complete.
+2025-03-06 11:07:26,738 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-03-06 11:07:30,750 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-many-of-you-are-still-using-myspace.1321096/unread
+2025-03-06 11:07:42,433 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-many-of-you-are-still-using-myspace.1321096/unread
+2025-03-06 11:07:42,437 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-many-of-you-are-still-using-myspace.1321096/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 11:07:42,468 - INFO - Extracted thread title: How many of you are still using myspace 
+2025-03-06 11:07:42,469 - DEBUG - Scrolling page 4 times.
+2025-03-06 11:07:42,469 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:07:43,913 - DEBUG - Page scrolled.
+2025-03-06 11:07:45,915 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:07:47,005 - DEBUG - Page scrolled.
+2025-03-06 11:07:49,006 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:07:50,026 - DEBUG - Page scrolled.
+2025-03-06 11:07:52,028 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:07:53,187 - DEBUG - Page scrolled.
+2025-03-06 11:07:55,189 - DEBUG - Random scrolls complete.
+2025-03-06 11:07:58,058 - DEBUG - Scrolling page 2 times.
+2025-03-06 11:07:58,059 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:08:00,025 - DEBUG - Page scrolled.
+2025-03-06 11:08:03,026 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:08:04,764 - DEBUG - Page scrolled.
+2025-03-06 11:08:07,766 - DEBUG - Random scrolls complete.
+2025-03-06 11:08:07,784 - DEBUG - Found 20 like buttons.
+2025-03-06 11:08:10,786 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-03-06 11:08:11,407 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 11:08:11,417 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 11:08:11,417 - DEBUG - Liked post number 1 of 4.
+2025-03-06 11:08:16,917 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 11:08:16,938 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 11:08:16,940 - DEBUG - Liked post number 2 of 4.
+2025-03-06 11:08:22,299 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 11:08:22,318 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 11:08:22,320 - DEBUG - Liked post number 3 of 4.
+2025-03-06 11:08:27,201 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 11:08:27,220 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 11:08:27,221 - DEBUG - Liked post number 4 of 4.
+2025-03-06 11:08:31,314 - INFO - Liked 4 posts successfully.
+2025-03-06 11:08:31,316 - INFO - Liked 4 posts successfully.
+2025-03-06 11:08:31,317 - DEBUG - Scrolling page 3 times.
+2025-03-06 11:08:31,318 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:08:32,669 - DEBUG - Page scrolled.
+2025-03-06 11:08:35,670 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:08:37,166 - DEBUG - Page scrolled.
+2025-03-06 11:08:40,167 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 11:08:41,791 - DEBUG - Page scrolled.
+2025-03-06 11:08:44,793 - DEBUG - Random scrolls complete.
+2025-03-06 11:08:47,521 - DEBUG - Total comments in the thread: 20
+2025-03-06 11:09:23,419 - INFO - Post content extracted and saved to Thread-Details\Thread Content\How many of you are still using myspace .txt
+2025-03-06 11:09:26,293 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 11:09:26,339 - DEBUG - Extracted main post content: is it worth using now a days ?
+2025-03-06 11:09:29,831 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 11:09:29,834 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 11:09:29,836 - INFO - API comment generated and saved to Thread-Details\API Comments\How many of you are still using myspace _Honestly, it really depends on what you're hoping .txt
+2025-03-06 11:09:32,223 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 11:09:32,224 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 11:09:32,248 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 11:09:32,291 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 11:09:32,299 - DEBUG - Text box scrolled into view
+2025-03-06 11:09:32,837 - DEBUG - Initializing actionchains
+2025-03-06 11:09:32,888 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6562}, size: {'height': 21, 'width': 68}
+2025-03-06 11:09:32,889 - DEBUG - Target click coordinates: (1121, 6572)
+2025-03-06 11:09:32,889 - DEBUG - Moving mouse from (738, 566) to (1121, 6572).
+2025-03-06 11:09:32,889 - DEBUG - Generating Bezier path from (738, 566) to (1121, 6572) with 50 points.
+2025-03-06 11:09:32,890 - DEBUG - Control point: (751, 582)
+2025-03-06 11:09:32,891 - DEBUG - Generated Bezier path with 50 points.
+2025-03-06 11:09:32,891 - DEBUG - Moved mouse to (738, 566), delay: 0.0000
+2025-03-06 11:09:32,894 - DEBUG - Moved mouse to (738, 569), delay: 0.0020
+2025-03-06 11:09:32,900 - DEBUG - Moved mouse to (739, 577), delay: 0.0053
+2025-03-06 11:09:32,909 - DEBUG - Moved mouse to (740, 590), delay: 0.0077
+2025-03-06 11:09:32,918 - DEBUG - Moved mouse to (742, 608), delay: 0.0079
+2025-03-06 11:09:32,930 - DEBUG - Moved mouse to (744, 631), delay: 0.0099
+2025-03-06 11:09:32,942 - DEBUG - Moved mouse to (746, 659), delay: 0.0116
+2025-03-06 11:09:32,954 - DEBUG - Moved mouse to (749, 692), delay: 0.0113
+2025-03-06 11:09:32,972 - DEBUG - Moved mouse to (751, 730), delay: 0.0178
+2025-03-06 11:09:32,997 - DEBUG - Moved mouse to (754, 773), delay: 0.0228
+2025-03-06 11:09:33,020 - DEBUG - Moved mouse to (758, 821), delay: 0.0226
+2025-03-06 11:09:33,049 - DEBUG - Moved mouse to (761, 874), delay: 0.0272
+2025-03-06 11:09:33,080 - DEBUG - Moved mouse to (765, 932), delay: 0.0298
+2025-03-06 11:09:33,104 - DEBUG - Moved mouse to (770, 994), delay: 0.0233
+2025-03-06 11:09:33,140 - DEBUG - Moved mouse to (774, 1062), delay: 0.0342
+2025-03-06 11:09:33,177 - DEBUG - Moved mouse to (779, 1135), delay: 0.0352
+2025-03-06 11:09:33,205 - DEBUG - Moved mouse to (784, 1213), delay: 0.0271
+2025-03-06 11:09:33,246 - DEBUG - Moved mouse to (789, 1296), delay: 0.0400
+2025-03-06 11:09:33,282 - DEBUG - Moved mouse to (795, 1383), delay: 0.0348
+2025-03-06 11:09:33,319 - DEBUG - Moved mouse to (801, 1476), delay: 0.0361
+2025-03-06 11:09:33,357 - DEBUG - Moved mouse to (808, 1574), delay: 0.0369
+2025-03-06 11:09:33,406 - DEBUG - Moved mouse to (814, 1676), delay: 0.0472
+2025-03-06 11:09:33,453 - DEBUG - Moved mouse to (821, 1784), delay: 0.0458
+2025-03-06 11:09:33,506 - DEBUG - Moved mouse to (828, 1897), delay: 0.0501
+2025-03-06 11:09:33,538 - DEBUG - Moved mouse to (836, 2014), delay: 0.0300
+2025-03-06 11:09:33,572 - DEBUG - Moved mouse to (844, 2137), delay: 0.0314
+2025-03-06 11:09:33,614 - DEBUG - Moved mouse to (852, 2264), delay: 0.0403
+2025-03-06 11:09:33,655 - DEBUG - Moved mouse to (860, 2397), delay: 0.0392
+2025-03-06 11:09:33,716 - DEBUG - Moved mouse to (869, 2534), delay: 0.0597
+2025-03-06 11:09:33,764 - DEBUG - Moved mouse to (878, 2677), delay: 0.0467
+2025-03-06 11:09:33,821 - DEBUG - Moved mouse to (887, 2824), delay: 0.0558
+2025-03-06 11:09:33,869 - DEBUG - Moved mouse to (897, 2977), delay: 0.0451
+2025-03-06 11:09:33,921 - DEBUG - Moved mouse to (907, 3134), delay: 0.0506
+2025-03-06 11:09:33,979 - DEBUG - Moved mouse to (917, 3297), delay: 0.0568
+2025-03-06 11:09:34,036 - DEBUG - Moved mouse to (927, 3464), delay: 0.0546
+2025-03-06 11:09:34,078 - DEBUG - Moved mouse to (938, 3636), delay: 0.0413
+2025-03-06 11:09:34,137 - DEBUG - Moved mouse to (949, 3814), delay: 0.0569
+2025-03-06 11:09:34,203 - DEBUG - Moved mouse to (961, 3996), delay: 0.0638
+2025-03-06 11:09:34,256 - DEBUG - Moved mouse to (972, 4183), delay: 0.0509
+2025-03-06 11:09:34,315 - DEBUG - Moved mouse to (984, 4375), delay: 0.0575
+2025-03-06 11:09:34,389 - DEBUG - Moved mouse to (997, 4573), delay: 0.0684
+2025-03-06 11:09:34,458 - DEBUG - Moved mouse to (1009, 4775), delay: 0.0671
+2025-03-06 11:09:34,503 - DEBUG - Moved mouse to (1022, 4982), delay: 0.0441
+2025-03-06 11:09:34,565 - DEBUG - Moved mouse to (1035, 5194), delay: 0.0611
+2025-03-06 11:09:34,639 - DEBUG - Moved mouse to (1049, 5411), delay: 0.0715
+2025-03-06 11:09:34,721 - DEBUG - Moved mouse to (1062, 5633), delay: 0.0797
+2025-03-06 11:09:34,784 - DEBUG - Moved mouse to (1077, 5860), delay: 0.0613
+2025-03-06 11:09:34,875 - DEBUG - Moved mouse to (1091, 6092), delay: 0.0892
+2025-03-06 11:09:34,941 - DEBUG - Moved mouse to (1106, 6329), delay: 0.0645
+2025-03-06 11:09:35,020 - DEBUG - Moved mouse to (1121, 6572), delay: 0.0776
+2025-03-06 11:09:35,021 - INFO - Successfully moved mouse to (1121, 6572) using Bezier curve.
+2025-03-06 11:09:35,023 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-06 11:09:35,024 - DEBUG - Moving mouse to text box element.
+2025-03-06 11:09:35,024 - DEBUG - Clicking on the text box.
+2025-03-06 11:09:35,027 - DEBUG - Sending keys with content: Honestly, it really depends on what you're hoping to get out of it.
+
+2025-03-06 11:09:40,951 - DEBUG - Clicking on post reply button.
+2025-03-06 11:09:41,988 - DEBUG - Performed Actionchains
+2025-03-06 11:09:41,989 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-06 11:09:45,992 - INFO - Comment posted successfully.
+2025-03-06 11:09:45,994 - INFO - Task Completed!!
+2025-03-06 11:09:49,236 - INFO - Navigated back to the homepage.
+2025-03-06 11:09:51,540 - INFO - Attempting to clear memory and resources.
+2025-03-06 11:09:51,581 - INFO - Garbage collection completed.
+2025-03-06 11:09:51,582 - INFO - Waiting for 10 seconds before next execution.
+2025-03-06 11:10:01,584 - INFO - Automation has reached the 2-hour limit. Stopping execution.
+2025-03-06 11:10:01,584 - INFO - Quitting browser driver...
+2025-03-06 11:10:06,588 - INFO - Browser closed successfully.
+2025-03-06 11:10:06,590 - INFO - Stopping MultiLogin profile...
+2025-03-06 11:10:09,593 - INFO - Attempting to stop MultiLogin profile: d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-06 11:10:09,596 - WARNING - Profile d949ef43-c834-44b4-9628-f60bb0c33b77 not found. It might already be stopped.

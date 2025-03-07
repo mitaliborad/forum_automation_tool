@@ -1,6 +1,8 @@
 --- Main Post Title ---
 image to html
 
+Total comments in the thread: 14
+
 Topic User: TELAVIV1
 Topic: hi
 
@@ -9,15 +11,19 @@ how can i create an high quality html from an image cause everything I found was
 thanks
 Liked by: No user likes
 Number of likes: 0
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: GlobalProxy4g
 Topic: have you tried tools like Figma to HTML or stuff like htmlcss.to ? if not for real high quality you’d have to do it manually like coding based on the design from the image but it takes longer
 Liked by: No user likes
 Number of likes: 0
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: TELAVIV1
 Topic: GlobalProxy4g said:
@@ -25,15 +31,19 @@ have you tried tools like Figma to HTML or stuff like htmlcss.to ? if not for re
 its an image, 2D, not editable...
 Liked by: GlobalProxy4g
 Number of likes: 1
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: GlobalProxy4g
 Topic: if it’s a 2d non-editable image then you’ll have to use tools like adobe illustrator or photoshop to slice the elements and recreate the design in html css otherwise check out software like gimp if you don’t have the paid ones
 Liked by: Mister_Twister and TELAVIV1
 Number of likes: 2
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: TELAVIV1
 Topic: GlobalProxy4g said:
@@ -41,15 +51,19 @@ if it’s a 2d non-editable image then you’ll have to use tools like adobe ill
 It’s 2025 and we still do it manually? Wtf
 Liked by: No user likes
 Number of likes: 0
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: AleG
 Topic: I think that Claude AI will do a good work with this, it can render ReactJS and show you previews.
 Liked by: TELAVIV1
 Number of likes: 1
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: TELAVIV1
 Topic: AleG said:
@@ -57,22 +71,28 @@ I think that Claude AI will do a good work with this, it can render ReactJS and 
 thanks, its not bad but not the same as the image, it gives me only the framework...
 Liked by: No user likes
 Number of likes: 0
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: TELAVIV1
 Topic: I asked it to do it with html and CSS and it looks better, but without the images and all...
 Liked by: No user likes
 Number of likes: 0
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: Funiki
 Topic: @TELAVIV1 any results??
 Liked by: TELAVIV1
 Number of likes: 1
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: TELAVIV1
 Topic: Funiki said:
@@ -80,8 +100,10 @@ Topic: Funiki said:
 yes but it looks bad hahah
 Liked by: No user likes
 Number of likes: 0
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: Mister_Twister
 Topic: TELAVIV1 said:
@@ -92,15 +114,36 @@ yes but it looks bad hahah
 Guess you still have to do it manually if you want it to look good.
 Liked by: No user likes
 Number of likes: 0
-Number of comments: 0 (Reply Post)
 -----
+
+Replies:
+
 
 Topic User: Website_solutions
 Topic: For high-quality HTML from an image, avoid automated tools and go manual. Use Figma or Adobe XD. Write clean HTML + CSS, using Tailwind or Bootstrap for efficiency.
 Optimize images, prefer SVGs.
 Liked by: No user likes
 Number of likes: 0
-Number of comments: 0 (Reply Post)
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: Honestly, turning an image directly into clean, efficient HTML is tough. What kind of image are you working with and what do you need the HTML for? Maybe there's a better workaround.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TELAVIV1
+Topic: Emma xx said:
+Honestly, turning an image directly into clean, efficient HTML is tough. What kind of image are you working with and what do you need the HTML for? Maybe there's a better workaround.
+A website design
+Liked by: No user likes
+Number of likes: 0
 -----
 
 Replies:

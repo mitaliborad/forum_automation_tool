@@ -1,0 +1,256 @@
+--- Main Post Title ---
+Any free AI real face generator
+
+Total comments in the thread: 19
+
+Topic User: 4440
+Topic: In need a bunch of real faces made by AI for my author pages.
+
+After some research, I found the Canva free AI face generator looks really good.
+
+I once tried generated.photos 1 year ago but the pricing is high and the face is not that amazing. Now I think there must be something better out there.
+
+Does anyone have better suggestions? The image must be 100% real human looking and the model/service should be free, or dirty cheap for my use case.
+
+Thanks!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: GMBverifier
+Topic: also looking for the same thing.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Crazy Lucifer
+Topic: I used to use https://thispersondoesnotexist.com/. See if it is of any use for you.
+Liked by: hideath, 4440 and andybady
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: andybady
+Topic: I've been looking for this recently.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: 4440
+Topic: Crazy Lucifer said:
+I used to use https://thispersondoesnotexist.com/. See if it is of any use for you.
+I'll use thispersondoesnotexist as the last fallback if I can't find better options. Thanks for bringing it up! I almost forget about the gem site.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Zepph
+Topic: Try FLUX, it was just released and blows out of the water a lot of the alternatives. You have to prompt it yourself but nothing comes close whilst being free (or you can pay for it per-use, too).
+Liked by: chewba and ExperimentalSEO
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: app_pilot
+Topic: 4440 said:
+In need a bunch of real faces made by AI for my author pages.
+
+After some research, I found the Canva free AI face generator looks really good.
+
+I once tried generated.photos 1 year ago but the pricing is high and the face is not that amazing. Now I think there must be something better out there.
+
+Does anyone have better suggestions? The image must be 100% real human looking and the model/service should be free, or dirty cheap for my use case.
+
+Thanks!
+Click to expand...
+While Canva free AI faces are decent, try NightCafe's free tier for more realistic, human-looking portraits it offers customization options too
+
+On the other hand, these are more options try Artbreeder and This Person Does Not Exist are excellent options
+Programming Services for Mobile Bots and Social Media App Automation on Real Android Devices, iPhone devices, Emulators and Mobile Farm
+Professional Services: https://appilot.app/professional-services Telegram: https://t.me/appilotdev
+Discord Freelance Service: https://discord.gg/J5paBYqgVx
+Liked by: ExperimentalSEO
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ads studio
+Topic: This Person Does Not Exist is free with real faces.
+GOOGLE ,FACEBOOK,CARDS
+https://t.me/ads_stud
+Skype: live:.cid.46b6a199054ad273
+Liked by: GigsMasterRider and ExperimentalSEO
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: PURSUIT MEDIA
+Topic: My friend once told me about This Person Does Not Exist. She said it’s free and makes very realistic faces with just one click. I have heard of Artbreeder too though some features cost a bit but I can’t really say much about it cause I never really used it.
+Virtual Cards️️️Perfect for AI Tools
+AWS (5, 8,32,64 vcpu ) Digital Ocean Accounts
+https://t.me/Pursuitmedia .Skype: live:.cid.e081ed5a7944152a
+Liked by: ExperimentalSEO
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: DustyBawls
+Topic: 4440 said:
+I'll use thispersondoesnotexist as the last fallback if I can't find better options. Thanks for bringing it up! I almost forget about the gem site.
+
+Imagine if you used that and it actually came up with yourself. (like 99.99% likeness so impossible to differentiate).
+
+I think my stomach would fall out of my arse.
+Liked by: ExperimentalSEO
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: 4440
+Topic: Zepph said:
+Try FLUX, it was just released and blows out of the water a lot of the alternatives. You have to prompt it yourself but nothing comes close whilst being free (or you can pay for it per-use, too).
+
+app_pilot said:
+While Canva free AI faces are decent, try NightCafe's free tier for more realistic, human-looking portraits it offers customization options too
+
+On the other hand, these are more options try Artbreeder and This Person Does Not Exist are excellent options
+
+ads studio said:
+This Person Does Not Exist is free with real faces.
+
+PURSUIT MEDIA said:
+My friend once told me about This Person Does Not Exist. She said it’s free and makes very realistic faces with just one click. I have heard of Artbreeder too though some features cost a bit but I can’t really say much about it cause I never really used it.
+
+DustyBawls said:
+Imagine if you used that and it actually came up with yourself. (like 99.99% likeness so impossible to differentiate).
+
+I think my stomach would fall out of my arse.
+Thanks for the suggestions!
+I will probably go with thispersondoesnotexist, as upon checking, you can still spot an AI face image when generating faces for my use cases. You can tell it is an AI face when looking closely at the details of the clothing.
+thispersondoesnotexist is more mature and you can find some perfect faces in the end.
+Liked by: ExperimentalSEO
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: flackz
+Topic: Here you can generate a new ace with parameters (sex, age etc.): https://this-person-does-not-exist.com/en
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: 4440
+Topic: flackz said:
+Here you can generate a new ace with parameters (sex, age etc.): https://this-person-does-not-exist.com/en
+a bit pricy though.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: DustyBawls
+Topic: 4440 said:
+a bit pricy though.
+
+Just a bit.
+
+Save the image and use something like inpaint to remove the watermark.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: BoostChef
+Topic: Learn to use ComfyUI and train your own LoRA
+Liked by: 4440
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: 4440
+Topic: DustyBawls said:
+Just a bit.
+
+Save the image and use something like inpaint to remove the watermark.
+that sounds doable. I'll try.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ozgen1905
+Topic: I was using the site you mentioned, but until I found the site https://www.freeaifaces.com, it is the leader in all my instagram posts, I wonder what program is used to make it, is it Flux?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: GigsMasterRider
+Topic: This Person Does Not Exist is a website that generates a random, hyper-realistic face each time you refresh the page. The images are completely free to use, but you will not have control over the appearance of the face.
+Fotor also has a free AI image generator that includes a feature for creating human faces. While it may not be as advanced as some paid options, it can still give some decent enough results.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Jane9999
+Topic: 4440 said:
+In need a bunch of real faces made by AI for my author pages.
+
+After some research, I found the Canva free AI face generator looks really good.
+
+I once tried generated.photos 1 year ago but the pricing is high and the face is not that amazing. Now I think there must be something better out there.
+
+Does anyone have better suggestions? The image must be 100% real human looking and the model/service should be free, or dirty cheap for my use case.
+
+Thanks!
+Click to expand...
+Is there any new free and realistic app this year?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
