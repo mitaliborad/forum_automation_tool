@@ -1,0 +1,170 @@
+2025-03-07 09:18:35,988 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250307_091835.log
+2025-03-07 09:18:35,989 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-07 09:18:35,990 - INFO - Loaded 76 visited threads from Thread_links.txt
+2025-03-07 09:18:35,991 - INFO - Successfully loaded links that was already visited!
+2025-03-07 09:18:35,991 - DEBUG - Scrolling page 7 times.
+2025-03-07 09:18:35,992 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:18:37,390 - DEBUG - Page scrolled.
+2025-03-07 09:18:39,390 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:18:41,146 - DEBUG - Page scrolled.
+2025-03-07 09:18:43,147 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:18:44,213 - DEBUG - Page scrolled.
+2025-03-07 09:18:46,214 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:18:48,090 - DEBUG - Page scrolled.
+2025-03-07 09:18:50,092 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:18:52,070 - DEBUG - Page scrolled.
+2025-03-07 09:18:54,071 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:18:55,605 - DEBUG - Page scrolled.
+2025-03-07 09:18:57,606 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:18:59,473 - DEBUG - Page scrolled.
+2025-03-07 09:19:01,474 - DEBUG - Random scrolls complete.
+2025-03-07 09:19:03,859 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-03-07 09:19:07,408 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/guide-free-perplexity-ai-pro-plan-1-year-for-everybody.1693142/unread
+2025-03-07 09:19:17,316 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/guide-free-perplexity-ai-pro-plan-1-year-for-everybody.1693142/unread
+2025-03-07 09:19:17,318 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/guide-free-perplexity-ai-pro-plan-1-year-for-everybody.1693142/unread' to visited threads file 'Thread_links.txt'.
+2025-03-07 09:19:17,352 - INFO - Extracted thread title: [GUIDE] Free Perplexity AI Pro Plan 1 Year for EVERYBODY
+2025-03-07 09:19:17,354 - DEBUG - Scrolling page 2 times.
+2025-03-07 09:19:17,354 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:19:18,955 - DEBUG - Page scrolled.
+2025-03-07 09:19:20,956 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:19:22,532 - DEBUG - Page scrolled.
+2025-03-07 09:19:24,534 - DEBUG - Random scrolls complete.
+2025-03-07 09:19:27,319 - DEBUG - Scrolling page 3 times.
+2025-03-07 09:19:27,320 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:19:28,846 - DEBUG - Page scrolled.
+2025-03-07 09:19:31,847 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:19:33,256 - DEBUG - Page scrolled.
+2025-03-07 09:19:36,257 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:19:37,897 - DEBUG - Page scrolled.
+2025-03-07 09:19:40,898 - DEBUG - Random scrolls complete.
+2025-03-07 09:19:40,939 - DEBUG - Found 20 like buttons.
+2025-03-07 09:19:43,941 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-07 09:19:44,870 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-07 09:19:44,918 - INFO - Like button clicked successfully using JavaScript.
+2025-03-07 09:19:44,922 - DEBUG - Liked post number 1 of 3.
+2025-03-07 09:19:50,528 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-07 09:19:50,536 - INFO - Like button clicked successfully using JavaScript.
+2025-03-07 09:19:50,537 - DEBUG - Liked post number 2 of 3.
+2025-03-07 09:19:56,404 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-07 09:19:56,423 - INFO - Like button clicked successfully using JavaScript.
+2025-03-07 09:19:56,425 - DEBUG - Liked post number 3 of 3.
+2025-03-07 09:20:00,637 - INFO - Liked 3 posts successfully.
+2025-03-07 09:20:00,640 - INFO - Liked 3 posts successfully.
+2025-03-07 09:20:00,643 - DEBUG - Scrolling page 5 times.
+2025-03-07 09:20:00,644 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:20:02,252 - DEBUG - Page scrolled.
+2025-03-07 09:20:05,255 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:20:06,830 - DEBUG - Page scrolled.
+2025-03-07 09:20:09,831 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:20:11,506 - DEBUG - Page scrolled.
+2025-03-07 09:20:14,508 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:20:15,689 - DEBUG - Page scrolled.
+2025-03-07 09:20:18,691 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:20:20,377 - DEBUG - Page scrolled.
+2025-03-07 09:20:23,379 - DEBUG - Random scrolls complete.
+2025-03-07 09:20:25,773 - DEBUG - Total comments in the thread: 20
+2025-03-07 09:20:36,749 - INFO - Post content extracted and saved to Thread-Details\Thread Content\[GUIDE] Free Perplexity AI Pro Plan 1 Year for EVERYBODY.txt
+2025-03-07 09:20:39,260 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-07 09:20:39,325 - DEBUG - Extracted main post content: Hey guys, had to take a long break from my internet marketing adventures and thought I come back with a cool trick I stumbled upon. As the titles says you get the 1 year pro plan for perplexity ai completely free! No need to buy that shit for 40bucks in the marketplace. It is an incredible powerful tool and its newly integrated deep research is crazy powerful - if you never heard about this tool, go google it and find out more
+
+Here is the guide:
+
+1. Find the "Moj Telekom HR" App in the iOS or Playstore, download it
+2. Register with the email of your choice, you are able to switch the language to english
+3. After login click on the "I want AI Assistant" promo banner and redeem your code
+4. Redeem it here: https://www.perplexity.ai/join/p/magenta
+5. Have fun and enjoy
+
+Sidenote: I tested it from a few eu countries but not from the us, not sure if that matters but keep it in mind.
+
+It seems like the codes are valid until end of the month and probably sellable...
+
+Do you have other cool guides and tricks like that? Share them here and help the community - we can achieve way more this way!
+2025-03-07 09:20:42,878 - INFO - Successfully generated comments using Gemini API.
+2025-03-07 09:20:42,880 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-07 09:20:42,881 - INFO - API comment generated and saved to Thread-Details\API Comments\[GUIDE] Free Perplexity AI Pro Plan 1 Year for EVERYBODY_Whoa, that's a really generous share! I'm curious .txt
+2025-03-07 09:20:45,807 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-07 09:20:45,807 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-07 09:20:45,820 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-07 09:20:45,879 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-07 09:20:45,892 - DEBUG - Text box scrolled into view
+2025-03-07 09:20:46,620 - DEBUG - Initializing actionchains
+2025-03-07 09:20:46,652 - DEBUG - Post reply Element location: {'x': 1087, 'y': 8455}, size: {'height': 21, 'width': 68}
+2025-03-07 09:20:46,652 - DEBUG - Target click coordinates: (1121, 8465)
+2025-03-07 09:20:46,653 - DEBUG - Moving mouse from (867, 28) to (1121, 8465).
+2025-03-07 09:20:46,653 - DEBUG - Generating Bezier path from (867, 28) to (1121, 8465) with 50 points.
+2025-03-07 09:20:46,654 - DEBUG - Control point: (962, 87)
+2025-03-07 09:20:46,654 - DEBUG - Generated Bezier path with 50 points.
+2025-03-07 09:20:46,655 - DEBUG - Moved mouse to (867, 28), delay: 0.0000
+2025-03-07 09:20:46,662 - DEBUG - Moved mouse to (870, 33), delay: 0.0049
+2025-03-07 09:20:46,680 - DEBUG - Moved mouse to (874, 46), delay: 0.0105
+2025-03-07 09:20:46,691 - DEBUG - Moved mouse to (878, 66), delay: 0.0094
+2025-03-07 09:20:46,712 - DEBUG - Moved mouse to (882, 93), delay: 0.0173
+2025-03-07 09:20:46,754 - DEBUG - Moved mouse to (887, 126), delay: 0.0115
+2025-03-07 09:20:46,811 - DEBUG - Moved mouse to (891, 167), delay: 0.0231
+2025-03-07 09:20:46,831 - DEBUG - Moved mouse to (895, 214), delay: 0.0157
+2025-03-07 09:20:46,852 - DEBUG - Moved mouse to (899, 269), delay: 0.0203
+2025-03-07 09:20:46,875 - DEBUG - Moved mouse to (904, 330), delay: 0.0223
+2025-03-07 09:20:46,909 - DEBUG - Moved mouse to (908, 398), delay: 0.0295
+2025-03-07 09:20:46,940 - DEBUG - Moved mouse to (912, 473), delay: 0.0279
+2025-03-07 09:20:46,980 - DEBUG - Moved mouse to (917, 555), delay: 0.0388
+2025-03-07 09:20:47,019 - DEBUG - Moved mouse to (921, 644), delay: 0.0371
+2025-03-07 09:20:47,062 - DEBUG - Moved mouse to (926, 740), delay: 0.0421
+2025-03-07 09:20:47,099 - DEBUG - Moved mouse to (931, 843), delay: 0.0357
+2025-03-07 09:20:47,134 - DEBUG - Moved mouse to (935, 953), delay: 0.0343
+2025-03-07 09:20:47,182 - DEBUG - Moved mouse to (940, 1070), delay: 0.0471
+2025-03-07 09:20:47,219 - DEBUG - Moved mouse to (945, 1193), delay: 0.0363
+2025-03-07 09:20:47,254 - DEBUG - Moved mouse to (950, 1324), delay: 0.0336
+2025-03-07 09:20:47,309 - DEBUG - Moved mouse to (955, 1462), delay: 0.0541
+2025-03-07 09:20:47,362 - DEBUG - Moved mouse to (960, 1606), delay: 0.0511
+2025-03-07 09:20:47,427 - DEBUG - Moved mouse to (965, 1757), delay: 0.0642
+2025-03-07 09:20:47,469 - DEBUG - Moved mouse to (970, 1916), delay: 0.0399
+2025-03-07 09:20:47,538 - DEBUG - Moved mouse to (975, 2081), delay: 0.0675
+2025-03-07 09:20:47,582 - DEBUG - Moved mouse to (980, 2253), delay: 0.0430
+2025-03-07 09:20:47,651 - DEBUG - Moved mouse to (985, 2432), delay: 0.0678
+2025-03-07 09:20:47,717 - DEBUG - Moved mouse to (991, 2618), delay: 0.0648
+2025-03-07 09:20:47,766 - DEBUG - Moved mouse to (996, 2811), delay: 0.0482
+2025-03-07 09:20:47,830 - DEBUG - Moved mouse to (1001, 3011), delay: 0.0616
+2025-03-07 09:20:47,885 - DEBUG - Moved mouse to (1007, 3218), delay: 0.0540
+2025-03-07 09:20:47,959 - DEBUG - Moved mouse to (1012, 3432), delay: 0.0729
+2025-03-07 09:20:48,012 - DEBUG - Moved mouse to (1018, 3653), delay: 0.0514
+2025-03-07 09:20:48,093 - DEBUG - Moved mouse to (1023, 3880), delay: 0.0796
+2025-03-07 09:20:48,176 - DEBUG - Moved mouse to (1029, 4115), delay: 0.0817
+2025-03-07 09:20:48,230 - DEBUG - Moved mouse to (1035, 4356), delay: 0.0523
+2025-03-07 09:20:48,285 - DEBUG - Moved mouse to (1041, 4605), delay: 0.0528
+2025-03-07 09:20:48,350 - DEBUG - Moved mouse to (1046, 4860), delay: 0.0643
+2025-03-07 09:20:48,435 - DEBUG - Moved mouse to (1052, 5122), delay: 0.0842
+2025-03-07 09:20:48,516 - DEBUG - Moved mouse to (1058, 5391), delay: 0.0799
+2025-03-07 09:20:48,578 - DEBUG - Moved mouse to (1064, 5668), delay: 0.0610
+2025-03-07 09:20:48,669 - DEBUG - Moved mouse to (1070, 5951), delay: 0.0902
+2025-03-07 09:20:48,769 - DEBUG - Moved mouse to (1076, 6241), delay: 0.0987
+2025-03-07 09:20:48,839 - DEBUG - Moved mouse to (1083, 6537), delay: 0.0684
+2025-03-07 09:20:48,942 - DEBUG - Moved mouse to (1089, 6841), delay: 0.1015
+2025-03-07 09:20:49,044 - DEBUG - Moved mouse to (1095, 7152), delay: 0.1007
+2025-03-07 09:20:49,142 - DEBUG - Moved mouse to (1101, 7470), delay: 0.0965
+2025-03-07 09:20:49,225 - DEBUG - Moved mouse to (1108, 7794), delay: 0.0809
+2025-03-07 09:20:49,298 - DEBUG - Moved mouse to (1114, 8126), delay: 0.0713
+2025-03-07 09:20:49,414 - DEBUG - Moved mouse to (1121, 8465), delay: 0.1144
+2025-03-07 09:20:49,414 - INFO - Successfully moved mouse to (1121, 8465) using Bezier curve.
+2025-03-07 09:20:49,415 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-07 09:20:49,415 - DEBUG - Moving mouse to text box element.
+2025-03-07 09:20:49,416 - DEBUG - Clicking on the text box.
+2025-03-07 09:20:49,417 - DEBUG - Sending keys with content: Whoa, that's a really generous share! I'm curious to see how well their research holds up compared to others.
+
+2025-03-07 09:20:54,552 - DEBUG - Clicking on post reply button.
+2025-03-07 09:21:05,596 - DEBUG - Performed Actionchains
+2025-03-07 09:21:05,597 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-07 09:21:09,598 - INFO - Comment posted successfully.
+2025-03-07 09:21:09,601 - INFO - Task Completed!!
+2025-03-07 09:21:18,971 - INFO - Navigated back to the homepage.
+2025-03-07 09:21:21,550 - INFO - Attempting to clear memory and resources.
+2025-03-07 09:21:21,603 - INFO - Garbage collection completed.
+2025-03-07 09:21:21,604 - INFO - Waiting for 10 seconds before next execution.
+2025-03-07 09:21:31,606 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-07 09:21:31,607 - INFO - Quitting browser driver...
+2025-03-07 09:21:36,615 - INFO - Browser closed successfully.
+2025-03-07 09:21:36,618 - INFO - Stopping MultiLogin profile...
+2025-03-07 09:21:39,621 - INFO - Attempting to stop MultiLogin profile: d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-07 09:21:45,002 - INFO - Response status code: 200
+2025-03-07 09:21:45,003 - INFO - Response body: {"status":{"error_code":"","http_code":200,"message":""}}
+2025-03-07 09:21:45,004 - INFO - Profile d949ef43-c834-44b4-9628-f60bb0c33b77 stopped successfully.

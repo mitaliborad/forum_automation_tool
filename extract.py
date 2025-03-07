@@ -20,7 +20,7 @@ from Multilogin_profiles import DarkCodeX_profile
 
 # --- Automation Configuration ---  (Keep only Automation Configuration here)
 LOG_DIRECTORY = "DarkCodeX_Logs"
-AUTOMATION_WAIT_TIME = 20
+AUTOMATION_WAIT_TIME = 1680
 MIN_SCROLLS = 3
 MAX_SCROLLS = 7
 SCROLL_AMOUNT = 500
@@ -35,10 +35,10 @@ BASE_SPEED = 0.001
 SUB_FORUM_LIST_FILE = "Sub-Forum-List.txt"
 VISITED_THREADS_FILE = "Thread_links.txt"
 start_time = datetime.now()
-run_duration = timedelta(minutes=5) 
+run_duration = timedelta(hours=2) 
 
 
-# 
+# logger setup
 def setup_logger(log_dir, timestamp=None):
     """Sets up a logger with a unique file for each automation run."""
     os.makedirs(log_dir, exist_ok=True)
@@ -122,6 +122,7 @@ def get_subforum_list(file_path=SUB_FORUM_LIST_FILE):
         logger.error(f"Error reading subforum list file: {e}", exc_info=True)
         return []
 
+# check visited thread from thread_links.txt
 def load_visited_threads(file_path=VISITED_THREADS_FILE):
     """Loads the list of visited threads from the specified file."""
     try:
@@ -136,6 +137,7 @@ def load_visited_threads(file_path=VISITED_THREADS_FILE):
         logger.error(f"Error reading visited threads file: {e}", exc_info=True)
         return set()
 
+# save visited threads in Thread_links.txt
 def save_visited_thread(thread_url, file_path=VISITED_THREADS_FILE):
     """Appends a thread URL to the list of visited threads."""
     try:
@@ -267,6 +269,7 @@ def like_random_posts(driver, min_likes=MIN_LIKES, max_likes=MAX_LIKES, min_scro
 
     logger.info(f"Liked {len(liked_buttons)} posts successfully.")
 
+# count comments
 def count_main_post_comments(driver):
     try:
         # Locate the first post container
@@ -387,53 +390,12 @@ def extract_post_content(driver, output_file):
                     file.write("Liked by: No user likes\n")
                     file.write("Number of likes: 0\n")
                     logging.debug(f"No user likes were found: {e}", exc_info=True)
-                
-                # if first_post:
-                #     # Extract Number of comments ONLY for Main Post
-                #     try:
-                #         comments_elements = post_element.find_elements(By.XPATH, ".//footer//a[contains(@class, 'actionBar-action--reply')]")
-                #         num_comments = len(comments_elements)
-
-                #         file.write(f"Number of comments: {num_comments}\n")
-                #         logging.debug(f"Number of comments: {num_comments}")
-
-                #     except Exception as e:
-                #         file.write("Number of comments: 0\n")
-                #         logging.debug(f"No reply was found: {e}", exc_info=True)
-                #     first_post = False
-                # else:
-                #     file.write("Number of comments: (Reply Post)\n")  # Indicate it's a reply post
-                #     logging.debug("Number of comments: (Reply Post)")
-
 
                 file.write("-----\n\n")  # Separator after each post                
                 file.write("Replies:\n\n\n")
 
     except Exception as e:
         logging.critical(f"General error in extract_post_content: {e}", exc_info=True)
-
-    #             # --- Extract Number of comments ONLY for Main Post & Structure Replies ---
-    #             if post_id == driver.find_element(By.XPATH, '//div//article[@itemscope and @itemtype]//div[@data-lb-id]').get_attribute("data-lb-id"):
-    #                 try:
-    #                     comments_elements = post_element.find_elements(By.XPATH, ".//div[@itemprop='text']//div['text']")
-    #                     num_comments = len(comments_elements)
-                        
-    #                     file.write(f"Number of comments: {num_comments}\n")
-    #                     logging.debug(f"Number of comments: {num_comments}")
-                    
-    #                 except Exception as e:
-    #                     file.write("Number of comments: 0\n")
-    #                     logging.debug(f"No reply was found: {e}", exc_info=True)
-    #             else:
-    #               file.write("Number of comments: 0 (Reply Post)\n")  # Indicate it's a reply post
-    #               logging.debug("Number of comments: 0 (Reply Post)")
-
-    #             # Structure Replies
-    #             file.write("-----\n\n")
-    #             file.write("Replies:\n\n\n")
-
-    # except Exception as e:
-    #     logging.critical(f"General error in extract_post_content: {e}", exc_info=True)
 
 
 # read thread content 
@@ -634,6 +596,7 @@ if __name__ == "__main__":
 
     token = None  # Initialize token outside the loop
     driver = None
+    is_profile_active = False # Add a status flag
     
     try:
         # MultiLogin Authentication and Profile Start (DO THIS ONLY ONCE!)
@@ -647,15 +610,16 @@ if __name__ == "__main__":
             logger.critical("Failed to start MultiLogin profile. Exiting.")
             exit()  # Exit completely if starting profile fails
 
+        is_profile_active = True  # Set flag
 
         while True:
             # Set up new log location for each task
             if datetime.now() - start_time > run_duration:
-                logger.info("Automation has reached the 2-hour limit. Stopping execution.")
+                logger.info("Automation has reached the time limit. Stopping execution.")
                 break            
              # Generate a new timestamp for each automation run
             automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            logger, log_file = setup_logger(LOG_DIRECTORY, automation_timestamp)
+            #logger, log_file = setup_logger(LOG_DIRECTORY, automation_timestamp)
             logger.info(f"Starting new automation task. Log file created at: {log_file}")
 
 
@@ -674,6 +638,7 @@ if __name__ == "__main__":
 
                 # Select and navigate a random thread to specific subforum
                 subforum_url = random.choice(subforum_urls)
+                scroll_random_times(driver)
                 thread_link = find_random_thread_link_from_subforum(driver, subforum_url,visited_threads)
 
                 if thread_link:
@@ -707,6 +672,7 @@ if __name__ == "__main__":
                 main_post_content = extract_main_post_content(driver)
                 time.sleep(random.uniform(2, 3))
 
+                #generate and save comment
                 if main_post_content:
                     comment = generate_and_save_comments(main_post_content, os.path.join(api_comments_dir, "temp_comment.txt"))
                     if comment:
@@ -748,17 +714,21 @@ if __name__ == "__main__":
     except Exception as e:
             logger.critical(f"An unrecoverable error occurred: {e}", exc_info=True)
 
-    finally:  # This will always execute, even if there was a critical error
-            if driver:
-                try:
-                    driver.quit()
-                except Exception as e:
-                    logger.warning(f"Driver quiting Error: {e}", exc_info=True)
-                logger.info("Driver quit successfully.")
+    finally:  
+        if driver:
+            try:
+                logger.info("Quitting browser driver...")
+                driver.quit()
+                time.sleep(5)  # Ensure the browser fully closes
+                logger.info("Browser closed successfully.")
+            except Exception as e:
+                logger.warning(f"Error while quitting driver: {e}", exc_info=True)
 
-            if token:
-                try:
-                    DarkCodeX_profile.stop_profile(token, logger)  # call logger for stop the profile
-                except Exception as e:
-                    logger.warning(f"Error stopping MultiLogin profile: {e}", exc_info=True)
-
+        if token and is_profile_active:  # Check if the profile is active.
+            try:
+                logger.info("Stopping MultiLogin profile...")
+                time.sleep(3)  # Add a short delay before stopping profile
+                DarkCodeX_profile.stop_profile(token, logger)
+                is_profile_active = False # Reset the Flag
+            except Exception as e:
+                logger.warning(f"Error while stopping MultiLogin profile: {e}", exc_info=True)

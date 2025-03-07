@@ -1,0 +1,164 @@
+2025-03-06 10:07:05,688 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_100705.log
+2025-03-06 10:07:05,720 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 10:07:05,733 - INFO - Loaded 62 visited threads from Thread_links.txt
+2025-03-06 10:07:05,737 - INFO - Successfully loaded links that was already visited!
+2025-03-06 10:07:05,740 - DEBUG - Scrolling page 6 times.
+2025-03-06 10:07:05,741 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:07:13,121 - DEBUG - Page scrolled.
+2025-03-06 10:07:15,122 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:07:16,916 - DEBUG - Page scrolled.
+2025-03-06 10:07:18,918 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:07:20,651 - DEBUG - Page scrolled.
+2025-03-06 10:07:22,652 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:07:24,279 - DEBUG - Page scrolled.
+2025-03-06 10:07:26,280 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:07:27,650 - DEBUG - Page scrolled.
+2025-03-06 10:07:29,651 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:07:31,534 - DEBUG - Page scrolled.
+2025-03-06 10:07:33,537 - DEBUG - Random scrolls complete.
+2025-03-06 10:07:45,717 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-03-06 10:07:49,754 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/where-can-i-register-domain-without-kyc.1691596/unread
+2025-03-06 10:08:07,899 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/where-can-i-register-domain-without-kyc.1691596/unread
+2025-03-06 10:08:07,902 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/where-can-i-register-domain-without-kyc.1691596/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 10:08:07,939 - INFO - Extracted thread title: Where Can I register Domain without KYC
+2025-03-06 10:08:07,940 - DEBUG - Scrolling page 3 times.
+2025-03-06 10:08:07,940 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:08:09,245 - DEBUG - Page scrolled.
+2025-03-06 10:08:11,246 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:08:12,672 - DEBUG - Page scrolled.
+2025-03-06 10:08:14,674 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:08:15,938 - DEBUG - Page scrolled.
+2025-03-06 10:08:17,939 - DEBUG - Random scrolls complete.
+2025-03-06 10:08:20,267 - DEBUG - Scrolling page 4 times.
+2025-03-06 10:08:20,268 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:08:21,430 - DEBUG - Page scrolled.
+2025-03-06 10:08:24,432 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:08:26,157 - DEBUG - Page scrolled.
+2025-03-06 10:08:29,159 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:08:30,658 - DEBUG - Page scrolled.
+2025-03-06 10:08:33,659 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:08:35,604 - DEBUG - Page scrolled.
+2025-03-06 10:08:38,607 - DEBUG - Random scrolls complete.
+2025-03-06 10:08:38,636 - DEBUG - Found 12 like buttons.
+2025-03-06 10:08:41,637 - INFO - Attempting to like 4 posts. There are 12 available.
+2025-03-06 10:08:42,365 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 10:08:42,394 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 10:08:42,395 - DEBUG - Liked post number 1 of 4.
+2025-03-06 10:08:47,755 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 10:08:47,771 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 10:08:47,771 - DEBUG - Liked post number 2 of 4.
+2025-03-06 10:08:53,392 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 10:08:53,399 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 10:08:53,400 - DEBUG - Liked post number 3 of 4.
+2025-03-06 10:08:59,307 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 10:08:59,315 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 10:08:59,316 - DEBUG - Liked post number 4 of 4.
+2025-03-06 10:09:03,972 - INFO - Liked 4 posts successfully.
+2025-03-06 10:09:03,973 - INFO - Liked 4 posts successfully.
+2025-03-06 10:09:03,975 - DEBUG - Scrolling page 4 times.
+2025-03-06 10:09:03,976 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:09:05,106 - DEBUG - Page scrolled.
+2025-03-06 10:09:08,108 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:09:09,851 - DEBUG - Page scrolled.
+2025-03-06 10:09:12,852 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:09:13,989 - DEBUG - Page scrolled.
+2025-03-06 10:09:16,990 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:09:18,589 - DEBUG - Page scrolled.
+2025-03-06 10:09:21,591 - DEBUG - Random scrolls complete.
+2025-03-06 10:09:23,797 - DEBUG - Total comments in the thread: 0
+2025-03-06 10:09:37,285 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Where Can I register Domain without KYC.txt
+2025-03-06 10:09:39,403 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 10:09:39,440 - DEBUG - Extracted main post content: Hey guys!
+
+my domain name (that's been registered with Namesilo) is up for renewal soon and I tried to renew it manually and - for the first time since I've used Namesilo (over 10 years now) - I was asked to enter in billing address and phone number which - as you all know by now - I HATE it! It's no one's business where I live or what my phone number is.... not to mention that I might not even have a phone to begin with (I do, but let's pretend that I don't ) so what then? I wouldn't be able to own a domain name just because I don't have a phone? That's stupid... well, I know about the "own nothing and be happy" agenda, but still....
+
+Anyway, it's time for me to finally part ways with Namesilo so I need a domain registrar that's not so nosy, so can you recommend something?
+
+When I tried to renew this domain in Namesilo I tried both the Credit Card option (which asked me for my address), but also I tried Paypal (which is what I used to use mostly when buying stuff online), but Paypal won't allow me to renew unless I enter in a phone number, so I guess it's time to part ways with PP too....
+
+I know that the alternatives nowadays seem to be Porkbun and Spaceship / Namecheap, but I don't trust Namecheap and all of their other businesses (like Spaceship) because they've screwed me before, so I'd like to avoid them...
+
+As for Porkbun, I don't know, I never used them before, and I wouldn't mind trying them out if - through some miracle - they managed to slip through the sausage fingers of the totalitarian oligarchs that rule this world, and not require KYC. But I don't know if that's the case, so those who use Porkbun, do let me know!
+
+Besides Porkbun, what other domain registrar do you guys know of that lets me renew my measly $5 domain without wanting to know who I am, where I live, what I had for breakfast, the consistency of my poop, and wanting to take my DNA and blood samples? Any normal registrar left out there, or are they all compromised?
+2025-03-06 10:09:43,009 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 10:09:43,012 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 10:09:43,016 - INFO - API comment generated and saved to Thread-Details\API Comments\Where Can I register Domain without KYC_I hear you on the privacy thing; it's getting ridi.txt
+2025-03-06 10:09:45,315 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:09:45,316 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:09:50,545 - DEBUG - Element not found, scrolling page (attempt 1/5).
+2025-03-06 10:09:50,545 - DEBUG - Scrolling page by 400 pixels.
+2025-03-06 10:09:52,382 - DEBUG - Page scrolled.
+2025-03-06 10:09:57,552 - DEBUG - Element not found, scrolling page (attempt 2/5).
+2025-03-06 10:09:57,553 - DEBUG - Scrolling page by 400 pixels.
+2025-03-06 10:09:59,092 - DEBUG - Page scrolled.
+2025-03-06 10:10:04,296 - DEBUG - Element not found, scrolling page (attempt 3/5).
+2025-03-06 10:10:04,296 - DEBUG - Scrolling page by 400 pixels.
+2025-03-06 10:10:06,130 - DEBUG - Page scrolled.
+2025-03-06 10:10:11,314 - DEBUG - Element not found, scrolling page (attempt 4/5).
+2025-03-06 10:10:11,314 - DEBUG - Scrolling page by 400 pixels.
+2025-03-06 10:10:12,525 - DEBUG - Page scrolled.
+2025-03-06 10:10:17,752 - DEBUG - Element not found, scrolling page (attempt 5/5).
+2025-03-06 10:10:17,752 - DEBUG - Scrolling page by 400 pixels.
+2025-03-06 10:10:19,351 - DEBUG - Page scrolled.
+2025-03-06 10:10:19,352 - WARNING - Element not found after 5 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:10:19,378 - ERROR - if comment closed then you should close the browser
+2025-03-06 10:10:19,378 - DEBUG - Searching for text with locator: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-06 10:10:19,379 - DEBUG - Attempting to find element with locator: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-06 10:10:19,395 - INFO - Element found after 1 scrolls: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-06 10:10:19,400 - INFO - Comment posted successfully.
+2025-03-06 10:10:19,401 - INFO - Task Completed!!
+2025-03-06 10:10:19,404 - ERROR - Failed to navigate back to the homepage: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF797A3C615+3167749]
+	(No symbol) [0x00007FF7976AD190]
+	(No symbol) [0x00007FF79753579C]
+	(No symbol) [0x00007FF79757EF5F]
+	(No symbol) [0x00007FF7975B6EF2]
+	(No symbol) [0x00007FF7975B1889]
+	(No symbol) [0x00007FF7975B0939]
+	(No symbol) [0x00007FF797505595]
+	GetHandleVerifier [0x00007FF797A9F57D+3573101]
+	GetHandleVerifier [0x00007FF797AB9AB0+3680928]
+	GetHandleVerifier [0x00007FF797AAF46D+3638365]
+	GetHandleVerifier [0x00007FF79780123A+827946]
+	(No symbol) [0x00007FF7976B85BF]
+	(No symbol) [0x00007FF7975041AE]
+	GetHandleVerifier [0x00007FF797B32BB8+4176808]
+	BaseThreadInitThunk [0x00007FF91F407374+20]
+	RtlUserThreadStart [0x00007FF920D9CC91+33]
+Traceback (most recent call last):
+  File "e:\forum_automation_tool\extract.py", line 617, in navigate_home
+    driver.get("https://www.blackhatworld.com/")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\forum_automation_tool\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\forum_automation_tool\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "E:\forum_automation_tool\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF797A3C615+3167749]
+	(No symbol) [0x00007FF7976AD190]
+	(No symbol) [0x00007FF79753579C]
+	(No symbol) [0x00007FF79757EF5F]
+	(No symbol) [0x00007FF7975B6EF2]
+	(No symbol) [0x00007FF7975B1889]
+	(No symbol) [0x00007FF7975B0939]
+	(No symbol) [0x00007FF797505595]
+	GetHandleVerifier [0x00007FF797A9F57D+3573101]
+	GetHandleVerifier [0x00007FF797AB9AB0+3680928]
+	GetHandleVerifier [0x00007FF797AAF46D+3638365]
+	GetHandleVerifier [0x00007FF79780123A+827946]
+	(No symbol) [0x00007FF7976B85BF]
+	(No symbol) [0x00007FF7975041AE]
+	GetHandleVerifier [0x00007FF797B32BB8+4176808]
+	BaseThreadInitThunk [0x00007FF91F407374+20]
+	RtlUserThreadStart [0x00007FF920D9CC91+33]
+
+2025-03-06 10:10:19,439 - INFO - Attempting to clear memory and resources.
+2025-03-06 10:10:19,468 - INFO - Garbage collection completed.
+2025-03-06 10:10:19,469 - INFO - Waiting for 20 seconds before next execution.

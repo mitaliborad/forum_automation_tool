@@ -1,0 +1,1 @@
+Hmm, custom themes can sometimes mess with search bots; have you tried submitting your sitemap to Google Search Console?

@@ -1,0 +1,141 @@
+--- Main Post Title ---
+Looking suggestions from fellow High Risk merchants / e-commerce managers
+
+Total comments in the thread: 10
+
+Topic User: benaflik333
+Topic: Hello mates,
+
+I own multiple high-risk e-commerce stores, including white-label, reselling, and dropshipping businesses in various categories such as IPTV, Vape, social media marketing, digital subscriptions, and more. I've built these over the past 8 years, and some are doing really well. However, I believe there’s still significant room for growth.
+
+A few points I’ve encountered:
+
+SEO Challenges: While I’ve secured backlinks from various sources, many have high toxicity scores, resulting in wasted investments.
+Payment Gateway Issues: I’ve been struggling to find the right solution. Recently, I found Card2crypto, which works well for WooCommerce stores but has a low conversion rate for my targeted region.
+I’m looking for:
+
+New SEO techniques to improve my site’s performance that are still unknown to most
+Alternative payment gateways that support card payments with crypto settlements
+Suggestions for new niches to enter or profitable opportunities for white-labeling something .
+your answer can be helpful to other fellow members also, Thank you
+Liked by: You and umar56
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: umar56
+Topic: benaflik333 said:
+Hello mates,
+
+I own multiple high-risk e-commerce stores, including white-label, reselling, and dropshipping businesses in various categories such as IPTV, Vape, social media marketing, digital subscriptions, and more. I've built these over the past 8 years, and some are doing really well. However, I believe there’s still significant room for growth.
+
+A few points I’ve encountered:
+
+I’m looking for:
+
+your answer can be helpful to other fellow members also, Thank you
+Click to expand...
+
+For gateway, you try these gateways Coingate, cryptomus, plisio but these works almost the same like card2crypto.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: benaflik333
+Topic: umar56 said:
+For gateway, you try these gateways Coingate, cryptomus, plisio but these works almost the same like card2crypto.
+i have used coingate and cryptomus these are crypto currency gateway whereas I am looking for Card payment gateway for hisk risk merchants with least documentation, in card2crypto there was no kyc
+Liked by: umar56
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Jihun
+Topic: benaflik333 said:
+i have used coingate and cryptomus these are crypto currency gateway whereas I am looking for Card payment gateway for hisk risk merchants with least documentation, in card2crypto there was no kyc
+Can you explain more details about why conversion rate is low for card2crypto ?
+And does it supports all countries ?
+Liked by: You and umar56
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: iptvmate
+Topic: Jihun said:
+Can you explain more details about why conversion rate is low for card2crypto ?
+And does it supports all countries ?
+Cuz people wanna pay with card easily. These gateways who take payment in card and payout in crypto ask customers to kyc which is super unfriendly for customers. Like imagine needing to send a pic of ur passport and a selfie to buy iptv
+Liked by: woguojun and Jihun
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Jihun
+Topic: iptvmate said:
+Cuz people wanna pay with card easily. These gateways who take payment in card and payout in crypto ask customers to kyc which is super unfriendly for customers. Like imagine needing to send a pic of ur passport and a selfie to buy iptv
+So no platform for card-to-crypto without kyc or kyb?
+Liked by: You and umar56
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: iptvmate
+Topic: Jihun said:
+So no platform for card-to-crypto without kyc or kyb?
+Nope
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: benaflik333
+Topic: Jihun said:
+Can you explain more details about why conversion rate is low for card2crypto ?
+And does it supports all countries ?
+they require mini KYC, some providers are friendly like some ask only for phone verification or email verification. but in UK some ask for id verification. it supports all countries but checkout is different for every region. but as settlement are instant i am still using it for international payments
+Liked by: umar56
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Web Developer12
+Topic: benaflik333 said:
+they require mini KYC, some providers are friendly like some ask only for phone verification or email verification. but in UK some ask for id verification. it supports all countries but checkout is different for every region. but as settlement are instant i am still using it for international payments
+How's the conversation rate while using it?
+As due to kyc i have heard conversation rate drops alot
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: benaflik333
+Topic: Web Developer12 said:
+How's the conversation rate while using it?
+As due to kyc i have heard conversation rate drops alot
+yes, there is no kyc from merchants as its decentralised platform but customer has to verify email or phone and in some case even more. but as a high risk merchant I am using it for international payment. conversion is low but I am using multiple providers at a same time.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

@@ -1,0 +1,38 @@
+2025-03-06 17:43:13,135 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_174313.log
+2025-03-06 17:43:13,140 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 17:43:13,195 - INFO - Loaded 74 visited threads from Thread_links.txt
+2025-03-06 17:43:13,197 - INFO - Successfully loaded links that was already visited!
+2025-03-06 17:43:13,197 - DEBUG - Scrolling page 4 times.
+2025-03-06 17:43:13,198 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:43:15,149 - DEBUG - Page scrolled.
+2025-03-06 17:43:17,151 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:43:18,317 - DEBUG - Page scrolled.
+2025-03-06 17:43:20,337 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:43:22,013 - DEBUG - Page scrolled.
+2025-03-06 17:43:24,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:43:25,244 - DEBUG - Page scrolled.
+2025-03-06 17:43:27,246 - DEBUG - Random scrolls complete.
+2025-03-06 17:43:29,274 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-06 17:43:33,970 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/where-i-can-find-good-human-translator.1693016/unread
+2025-03-06 17:43:43,018 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/where-i-can-find-good-human-translator.1693016/unread
+2025-03-06 17:43:43,021 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/where-i-can-find-good-human-translator.1693016/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 17:43:43,074 - INFO - Extracted thread title: Where I can find good human translator
+2025-03-06 17:43:43,075 - DEBUG - Scrolling page 2 times.
+2025-03-06 17:43:43,077 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:43:44,971 - DEBUG - Page scrolled.
+2025-03-06 17:43:46,974 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:43:48,222 - DEBUG - Page scrolled.
+2025-03-06 17:43:50,224 - DEBUG - Random scrolls complete.
+2025-03-06 17:43:52,251 - DEBUG - Scrolling page 3 times.
+2025-03-06 17:43:52,252 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:43:53,554 - DEBUG - Page scrolled.
+2025-03-06 17:43:56,556 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:43:57,702 - DEBUG - Page scrolled.
+2025-03-06 17:44:00,703 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 17:44:02,634 - DEBUG - Page scrolled.
+2025-03-06 17:44:05,636 - DEBUG - Random scrolls complete.
+2025-03-06 17:44:05,661 - DEBUG - Found 2 like buttons.
+2025-03-06 17:44:08,662 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-06 17:44:09,401 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 17:44:09,433 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 17:44:09,437 - DEBUG - Liked post number 1 of 2.

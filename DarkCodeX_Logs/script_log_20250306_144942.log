@@ -1,0 +1,156 @@
+2025-03-06 14:49:42,814 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_144942.log
+2025-03-06 14:49:42,817 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 14:49:42,849 - INFO - Loaded 70 visited threads from Thread_links.txt
+2025-03-06 14:49:42,849 - INFO - Successfully loaded links that was already visited!
+2025-03-06 14:49:42,850 - DEBUG - Scrolling page 7 times.
+2025-03-06 14:49:42,850 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:49:44,315 - DEBUG - Page scrolled.
+2025-03-06 14:49:46,317 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:49:47,641 - DEBUG - Page scrolled.
+2025-03-06 14:49:49,642 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:49:51,123 - DEBUG - Page scrolled.
+2025-03-06 14:49:53,124 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:49:55,044 - DEBUG - Page scrolled.
+2025-03-06 14:49:57,045 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:49:58,109 - DEBUG - Page scrolled.
+2025-03-06 14:50:00,111 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:50:01,207 - DEBUG - Page scrolled.
+2025-03-06 14:50:03,208 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:50:05,178 - DEBUG - Page scrolled.
+2025-03-06 14:50:07,179 - DEBUG - Random scrolls complete.
+2025-03-06 14:50:17,660 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-03-06 14:50:21,309 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/anyone-know-of-places-where-i-can-buy-cheap-domains-like-cheapest-ever-for-huge-bulk-buy.1665940/unread
+2025-03-06 14:50:31,369 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/anyone-know-of-places-where-i-can-buy-cheap-domains-like-cheapest-ever-for-huge-bulk-buy.1665940/unread
+2025-03-06 14:50:31,370 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/anyone-know-of-places-where-i-can-buy-cheap-domains-like-cheapest-ever-for-huge-bulk-buy.1665940/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 14:50:31,415 - INFO - Extracted thread title: Anyone know of places where i can buy cheap domains like cheapest ever for huge bulk buy
+2025-03-06 14:50:31,416 - DEBUG - Scrolling page 4 times.
+2025-03-06 14:50:31,416 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:50:33,220 - DEBUG - Page scrolled.
+2025-03-06 14:50:35,222 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:50:36,290 - DEBUG - Page scrolled.
+2025-03-06 14:50:38,291 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:50:39,592 - DEBUG - Page scrolled.
+2025-03-06 14:50:41,594 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:50:42,865 - DEBUG - Page scrolled.
+2025-03-06 14:50:44,867 - DEBUG - Random scrolls complete.
+2025-03-06 14:50:47,442 - DEBUG - Scrolling page 2 times.
+2025-03-06 14:50:47,442 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:50:48,994 - DEBUG - Page scrolled.
+2025-03-06 14:50:51,995 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:50:53,712 - DEBUG - Page scrolled.
+2025-03-06 14:50:56,713 - DEBUG - Random scrolls complete.
+2025-03-06 14:50:56,741 - DEBUG - Found 14 like buttons.
+2025-03-06 14:50:59,742 - INFO - Attempting to like 1 posts. There are 14 available.
+2025-03-06 14:51:00,315 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 14:51:00,325 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 14:51:00,326 - DEBUG - Liked post number 1 of 1.
+2025-03-06 14:51:05,146 - INFO - Liked 1 posts successfully.
+2025-03-06 14:51:05,148 - INFO - Liked 1 posts successfully.
+2025-03-06 14:51:05,150 - DEBUG - Scrolling page 7 times.
+2025-03-06 14:51:05,151 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:51:06,732 - DEBUG - Page scrolled.
+2025-03-06 14:51:09,734 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:51:11,537 - DEBUG - Page scrolled.
+2025-03-06 14:51:14,539 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:51:16,345 - DEBUG - Page scrolled.
+2025-03-06 14:51:19,346 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:51:20,531 - DEBUG - Page scrolled.
+2025-03-06 14:51:23,533 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:51:24,590 - DEBUG - Page scrolled.
+2025-03-06 14:51:27,592 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:51:29,417 - DEBUG - Page scrolled.
+2025-03-06 14:51:32,419 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 14:51:33,684 - DEBUG - Page scrolled.
+2025-03-06 14:51:36,685 - DEBUG - Random scrolls complete.
+2025-03-06 14:51:39,116 - DEBUG - Total comments in the thread: 14
+2025-03-06 14:51:52,695 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Anyone know of places where i can buy cheap domains like cheapest ever for huge bulk buy.txt
+2025-03-06 14:51:55,455 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 14:51:55,494 - DEBUG - Extracted main post content: I'm just needing the domains for about 3-6 months, so looking at cheap domains because i'm needing about 2,500 of them.
+anyone know of cheapest domain name provider?
+2025-03-06 14:52:00,681 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 14:52:00,683 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 14:52:00,683 - INFO - API comment generated and saved to Thread-Details\API Comments\Anyone know of places where i can buy cheap domains like cheapest ever for huge bulk buy_Wow, that's a lot of domains! Have you looked into.txt
+2025-03-06 14:52:02,793 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 14:52:02,794 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 14:52:02,821 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 14:52:02,868 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 14:52:02,876 - DEBUG - Text box scrolled into view
+2025-03-06 14:52:03,759 - DEBUG - Initializing actionchains
+2025-03-06 14:52:03,807 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5448}, size: {'height': 21, 'width': 68}
+2025-03-06 14:52:03,808 - DEBUG - Target click coordinates: (1121, 5458)
+2025-03-06 14:52:03,808 - DEBUG - Moving mouse from (671, 502) to (1121, 5458).
+2025-03-06 14:52:03,809 - DEBUG - Generating Bezier path from (671, 502) to (1121, 5458) with 50 points.
+2025-03-06 14:52:03,809 - DEBUG - Control point: (731, 570)
+2025-03-06 14:52:03,810 - DEBUG - Generated Bezier path with 50 points.
+2025-03-06 14:52:03,810 - DEBUG - Moved mouse to (671, 502), delay: 0.0000
+2025-03-06 14:52:03,814 - DEBUG - Moved mouse to (673, 506), delay: 0.0027
+2025-03-06 14:52:03,820 - DEBUG - Moved mouse to (676, 515), delay: 0.0055
+2025-03-06 14:52:03,826 - DEBUG - Moved mouse to (679, 528), delay: 0.0060
+2025-03-06 14:52:03,838 - DEBUG - Moved mouse to (682, 545), delay: 0.0110
+2025-03-06 14:52:03,849 - DEBUG - Moved mouse to (686, 566), delay: 0.0092
+2025-03-06 14:52:03,865 - DEBUG - Moved mouse to (690, 590), delay: 0.0153
+2025-03-06 14:52:03,884 - DEBUG - Moved mouse to (694, 619), delay: 0.0179
+2025-03-06 14:52:03,899 - DEBUG - Moved mouse to (699, 652), delay: 0.0137
+2025-03-06 14:52:03,922 - DEBUG - Moved mouse to (704, 689), delay: 0.0216
+2025-03-06 14:52:03,947 - DEBUG - Moved mouse to (709, 730), delay: 0.0234
+2025-03-06 14:52:03,965 - DEBUG - Moved mouse to (714, 775), delay: 0.0170
+2025-03-06 14:52:03,988 - DEBUG - Moved mouse to (720, 824), delay: 0.0214
+2025-03-06 14:52:04,017 - DEBUG - Moved mouse to (726, 877), delay: 0.0275
+2025-03-06 14:52:04,049 - DEBUG - Moved mouse to (732, 934), delay: 0.0300
+2025-03-06 14:52:04,078 - DEBUG - Moved mouse to (738, 995), delay: 0.0277
+2025-03-06 14:52:04,107 - DEBUG - Moved mouse to (745, 1060), delay: 0.0273
+2025-03-06 14:52:04,136 - DEBUG - Moved mouse to (752, 1129), delay: 0.0278
+2025-03-06 14:52:04,171 - DEBUG - Moved mouse to (759, 1202), delay: 0.0326
+2025-03-06 14:52:04,200 - DEBUG - Moved mouse to (767, 1279), delay: 0.0269
+2025-03-06 14:52:04,227 - DEBUG - Moved mouse to (774, 1360), delay: 0.0258
+2025-03-06 14:52:04,267 - DEBUG - Moved mouse to (783, 1445), delay: 0.0382
+2025-03-06 14:52:04,307 - DEBUG - Moved mouse to (791, 1534), delay: 0.0385
+2025-03-06 14:52:04,341 - DEBUG - Moved mouse to (800, 1627), delay: 0.0319
+2025-03-06 14:52:04,371 - DEBUG - Moved mouse to (808, 1724), delay: 0.0281
+2025-03-06 14:52:04,417 - DEBUG - Moved mouse to (818, 1826), delay: 0.0449
+2025-03-06 14:52:04,457 - DEBUG - Moved mouse to (827, 1931), delay: 0.0382
+2025-03-06 14:52:04,494 - DEBUG - Moved mouse to (837, 2040), delay: 0.0350
+2025-03-06 14:52:04,534 - DEBUG - Moved mouse to (847, 2153), delay: 0.0387
+2025-03-06 14:52:04,571 - DEBUG - Moved mouse to (857, 2270), delay: 0.0352
+2025-03-06 14:52:04,616 - DEBUG - Moved mouse to (868, 2392), delay: 0.0432
+2025-03-06 14:52:04,656 - DEBUG - Moved mouse to (879, 2517), delay: 0.0377
+2025-03-06 14:52:04,710 - DEBUG - Moved mouse to (890, 2646), delay: 0.0530
+2025-03-06 14:52:04,751 - DEBUG - Moved mouse to (901, 2779), delay: 0.0392
+2025-03-06 14:52:04,787 - DEBUG - Moved mouse to (913, 2917), delay: 0.0336
+2025-03-06 14:52:04,838 - DEBUG - Moved mouse to (925, 3058), delay: 0.0483
+2025-03-06 14:52:04,884 - DEBUG - Moved mouse to (937, 3203), delay: 0.0438
+2025-03-06 14:52:04,925 - DEBUG - Moved mouse to (949, 3352), delay: 0.0394
+2025-03-06 14:52:04,984 - DEBUG - Moved mouse to (962, 3506), delay: 0.0579
+2025-03-06 14:52:05,024 - DEBUG - Moved mouse to (975, 3663), delay: 0.0379
+2025-03-06 14:52:05,087 - DEBUG - Moved mouse to (988, 3825), delay: 0.0613
+2025-03-06 14:52:05,139 - DEBUG - Moved mouse to (1002, 3990), delay: 0.0499
+2025-03-06 14:52:05,195 - DEBUG - Moved mouse to (1016, 4159), delay: 0.0543
+2025-03-06 14:52:05,251 - DEBUG - Moved mouse to (1030, 4333), delay: 0.0543
+2025-03-06 14:52:05,302 - DEBUG - Moved mouse to (1044, 4510), delay: 0.0497
+2025-03-06 14:52:05,367 - DEBUG - Moved mouse to (1059, 4692), delay: 0.0629
+2025-03-06 14:52:05,431 - DEBUG - Moved mouse to (1074, 4877), delay: 0.0623
+2025-03-06 14:52:05,482 - DEBUG - Moved mouse to (1089, 5067), delay: 0.0487
+2025-03-06 14:52:05,558 - DEBUG - Moved mouse to (1105, 5260), delay: 0.0739
+2025-03-06 14:52:05,625 - DEBUG - Moved mouse to (1121, 5458), delay: 0.0658
+2025-03-06 14:52:05,626 - INFO - Successfully moved mouse to (1121, 5458) using Bezier curve.
+2025-03-06 14:52:05,628 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-06 14:52:05,629 - DEBUG - Moving mouse to text box element.
+2025-03-06 14:52:05,630 - DEBUG - Clicking on the text box.
+2025-03-06 14:52:05,634 - DEBUG - Sending keys with content: Wow, that's a lot of domains! Have you looked into any bulk discount options from providers like Namecheap or GoDaddy?
+
+2025-03-06 14:52:11,110 - DEBUG - Clicking on post reply button.
+2025-03-06 14:52:21,776 - DEBUG - Performed Actionchains
+2025-03-06 14:52:21,777 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-06 14:52:25,779 - INFO - Comment posted successfully.
+2025-03-06 14:52:25,781 - INFO - Task Completed!!
+2025-03-06 14:52:36,498 - INFO - Navigated back to the homepage.
+2025-03-06 14:52:38,725 - INFO - Attempting to clear memory and resources.
+2025-03-06 14:52:38,755 - INFO - Garbage collection completed.
+2025-03-06 14:52:38,756 - INFO - Waiting for 10 seconds before next execution.
+2025-03-06 14:52:48,757 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-06 14:52:48,759 - INFO - Quitting browser driver...
+2025-03-06 14:52:53,763 - INFO - Browser closed successfully.
+2025-03-06 14:52:53,765 - INFO - Stopping MultiLogin profile...
+2025-03-06 14:52:56,767 - INFO - Attempting to stop MultiLogin profile: d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-06 14:52:56,773 - ERROR - Error checking profile status: 404 page not found
+2025-03-06 14:52:56,775 - WARNING - Profile d949ef43-c834-44b4-9628-f60bb0c33b77 is already stopped.

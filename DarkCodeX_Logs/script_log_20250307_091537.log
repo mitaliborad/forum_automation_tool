@@ -1,0 +1,6 @@
+2025-03-07 09:15:39,008 - INFO - Successfully logged in.
+2025-03-07 09:15:39,009 - INFO - Starting profile d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-07 09:15:46,112 - INFO - Response status code: 200
+2025-03-07 09:15:46,115 - INFO - Response body: {'status': {'error_code': '', 'http_code': 200, 'message': '50162'}}
+2025-03-07 09:15:46,115 - INFO - Extracted port from response: 50162
+2025-03-07 09:15:46,148 - INFO - MultiLogin profile started on port 50162.

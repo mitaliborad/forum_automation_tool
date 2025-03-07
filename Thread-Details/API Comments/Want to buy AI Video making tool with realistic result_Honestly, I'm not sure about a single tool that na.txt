@@ -1,0 +1,1 @@
+Honestly, I'm not sure about a single tool that nails *everything* you're asking for, but have you looked at any platforms that offer plugin support? Maybe piecing something together is the way to go.

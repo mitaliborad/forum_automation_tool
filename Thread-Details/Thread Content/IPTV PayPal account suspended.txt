@@ -1,0 +1,247 @@
+--- Main Post Title ---
+IPTV PayPal account suspended
+
+Total comments in the thread: 20
+
+Topic User: simorij
+Topic: Hello,
+I have a paypal account that I use to receive IPTV payments. Today it is suspended and asks me to provide:
+Upload a photo ID
+Provide proof of fulfillment
+Provide proof of purchase from your supplier
+Provide more info on your transaction(s)
+
+How do I do this? Should I disguise the fact that it's IPTV, knowing that I have a dispute whose customer has mentioned that it's iptv?
+Liked by: You and Danny Burke
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: zotix
+Topic: simorij said:
+Hello,
+I have a paypal account that I use to receive IPTV payments. Today it is suspended and asks me to provide:
+Upload a photo ID
+Provide proof of fulfillment
+Provide proof of purchase from your supplier
+Provide more info on your transaction(s)
+
+How do I do this? Should I disguise the fact that it's IPTV, knowing that I have a dispute whose customer has mentioned that it's iptv?
+Click to expand...
+PayPal hates many things, but IPTV is one of the Top five (my personal feeling).
+
+I guess once it's mentioned that you are disputed regarding IPTV, they will freeze your Account. I Can't give you advice, but the User who posted before me already said it correctly.
+It's about Risk Management / Spreading the Risk.
+I hope you don't have too much Balance on your PP.
+
+Best
+zotix.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Gerardone
+Topic: I Get Suspended Two Weeks Ago, Can Anyone Help Me With That?
+Brother If You Got The Solution, Please Let Me Know.
+Thank You.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: tekene1
+Topic: try to ask for an appeal it works for me
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Christopherr
+Topic: Try providing invoice with stripe
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: captchakiller
+Topic: I would suggest just making a new account at this point anyone selling iptv stuff has a bunch of them.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Jihun
+Topic: simorij said:
+Hello,
+I have a paypal account that I use to receive IPTV payments. Today it is suspended and asks me to provide:
+Upload a photo ID
+Provide proof of fulfillment
+Provide proof of purchase from your supplier
+Provide more info on your transaction(s)
+
+How do I do this? Should I disguise the fact that it's IPTV, knowing that I have a dispute whose customer has mentioned that it's iptv?
+Click to expand...
+This can be resolved. I have multiple paypal accounts and this verification appeared after a few sales. This is not critical.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: alibubba
+Topic: This is a regular paypal thing after so much revenue. Provide all the documents asked for and do not mention iptv. Are you using a front site for checkout?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: cece87
+Topic: I have the same problem. I am using a front-end site for a PayPal fast checkout HTML button. The payment was put on hold immediately.
+Liked by: Danny Burke
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Danny Burke
+Topic: Was facing the same issue, just provide the documents without mentioning of IPTV and are you using legit front end site for checkout?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: pp4iptv
+Topic: I can help you. I have many IPTV partners. Please contact me if you need any help. Thanks.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: cece87
+Topic: I just got my paypal limited by IPTV sales, I have some funds on hold, they don't allow me to withdraw my money. any help ?
+Liked by: Danny Burke
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Danny Burke
+Topic: cece87 said:
+I just got my paypal limited by IPTV sales, I have some funds on hold, they don't allow me to withdraw my money. any help ?
+Was it a simple paypal account?
+Also you can't do much if the account is on hold....
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: cece87
+Topic: It's brand new PayPal account.
+I got verified somehow , I converted to business account . After 8 transaction they flagged my account as high risk. Money on hold for 24 days.
+Fucking PayPal
+Liked by: Danny Burke
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Danny Burke
+Topic: cece87 said:
+It's brand new PayPal account.
+I got verified somehow , I converted to business account . After 8 transaction they flagged my account as high risk. Money on hold for 24 days.
+Fucking PayPal
+that's what happen with a new paypal, you should have warmed it up before runing or setup a cloaking plugin to be on safer side.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ninomino19
+Topic: simorij said:
+Hello,
+I have a paypal account that I use to receive IPTV payments. Today it is suspended and asks me to provide:
+Upload a photo ID
+Provide proof of fulfillment
+Provide proof of purchase from your supplier
+Provide more info on your transaction(s)
+
+How do I do this? Should I disguise the fact that it's IPTV, knowing that I have a dispute whose customer has mentioned that it's iptv?
+Click to expand...
+no idea why any one will use paypal with fake or no documents and trust it with money really
+Liked by: Danny Burke
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Da.Digitalreputation
+Topic: Sad to hear this. Have you tried reaching out to their support team? Try to remember or recall if you have violated one of their policies. If an account was suspended, most of the reasons is because the owner violated one of the policies.
+You can order Google ,verified trustpilot , tripadvisor , BBB and verified reviews.io reviews at https://digitalreputationmatters.com/
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: cece87
+Topic: Danny Burke said:
+that's what happen with a new paypal, you should have warmed it up before runing or setup a cloaking plugin to be on safer side.
+Can you please provide short info how to setup cloackin plugin and put the donation links on third party or web page ?
+I can't believe how PayPal seize funds from people's accounts. Nobody have right to do that, they dont want to provide refund either. After 10 times calling them they agree to release my funds after 24 days, but if I did not called them the money were frozen for 180 days unbelievable.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Danny Burke
+Topic: cece87 said:
+Can you please provide short info how to setup cloackin plugin and put the donation links on third party or web page ?
+I can't believe how PayPal seize funds from people's accounts. Nobody have right to do that, they dont want to provide refund either. After 10 times calling them they agree to release my funds after 24 days, but if I did not called them the money were frozen for 180 days unbelievable.
+what plugin are you using so i can guide you better regarding setup?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: cece87
+Topic: @Danny Burke, I Just put the paypal checkout form on my web page directly
+Liked by: Danny Burke
+Number of likes: 1
+-----
+
+Replies:
+
+

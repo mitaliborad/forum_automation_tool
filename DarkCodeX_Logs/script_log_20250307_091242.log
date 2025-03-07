@@ -1,0 +1,4 @@
+2025-03-07 09:12:43,722 - INFO - Successfully logged in.
+2025-03-07 09:12:43,725 - INFO - Starting profile d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-07 09:12:46,006 - ERROR - Connection error while starting profile: HTTPSConnectionPool(host='launcher.mlx.yt', port=45001): Max retries exceeded with url: /api/v1/profile/f/fedd6c4d-f3d0-4bcd-8b25-e6ce25559ea8/p/d949ef43-c834-44b4-9628-f60bb0c33b77/start?automation_type=selenium (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001B2B9833B10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-07 09:12:46,008 - CRITICAL - Failed to start MultiLogin profile. Exiting.

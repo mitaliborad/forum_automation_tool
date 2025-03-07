@@ -1,0 +1,407 @@
+--- Main Post Title ---
+Programming as a profession is dead because of AI
+
+Total comments in the thread: 20
+
+Topic User: virchual
+Topic: I see a lot of content related to the Programming and AI. After the hype of the AI many people on YouTube and Blogs are saying that programming is dead after the rise of AI Models.
+I would like to know the your opinions on this and see how many of you really agree with that.
+Thanks!
+Liked by: You and ItsAllTheWayUp
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: xReminisce
+Topic: Is it really?
+How can you verify a code is working as intended or is covering all basis without the coding knowledge?
+I think it made coding a lot more approachable than outright taking over.
+Liked by: ItsAllTheWayUp
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Ricardo L
+Topic: virchual said:
+I see a lot of content related to the Programming and AI. After the hype of the AI many people on YouTube and Blogs are saying that programming is dead after the rise of AI Models.
+I would like to know the your opinions on this and see how many of you really agree with that.
+Thanks!
+AI enhances programming, but human developers remain essential for innovation and problem-solving.
+Liked by: chepsreboot and ItsAllTheWayUp
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: IM Dude
+Topic: When you say as a profession you need to check the data on programmers/developers/architects
+Are they getting fired?
+Are they getting hired?
+Is their roles and responsibilities changing?
+You need hard data on these.
+It's not like seo, blogging and google search updates.
+Whats going on is much more complex.
+Liked by: Perczilla, koxokot890 and virchual
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: amanguy
+Topic: Who said coding is dead? This bots are only for helping us not doing the all things. Creativity is something that only humans have
+Liked by: You, ItsAllTheWayUp and virchual
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: virchual
+Topic: IM Dude said:
+When you say as a profession you need to check the data on programmers/developers/architects
+Are they getting fired?
+Are they getting hired?
+Is their roles and responsibilities changing?
+You need hard data on these.
+It's not like seo, blogging and google search updates.
+Whats going on is much more complex.
+I need hard data on that. And that's what I'm trying to find here. Lol.
+
+amanguy said:
+Who said coding is dead? This bots are only for helping us not doing the all things. Creativity is something that only humans have
+Agreed.
+Liked by: ItsAllTheWayUp
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: tutankamun
+Topic: It’s just another money making scheme - note how LLMs are just getting shittier amd shittier in am attempt to get you to upgrade to a premium subscription and honestly even then, it’s often more trouble than it’s even worth trying to fix code beyond basiceveryday automation scripting that’s just about ‘meh’ enough to work with
+
+There is no way any programmer worth their salt would be worried about being completely replaced by AI lol. That like trying to replace aeroplane pilots completely with autopilots.
+Liked by: sscaz and virchual
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: vcacheboot
+Topic: Ai will not replenish the peoples who know code. Yes you can use Ai to make a big part of the code but you still need know how to make it work proper
+Liked by: sscaz, virchual and ItsAllTheWayUp
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: Usher999
+Topic: AI is like a machine, it won't work without human.
+Liked by: You, sscaz, virchual and 1 other person
+Number of likes: 4
+-----
+
+Replies:
+
+
+Topic User: Builder Dave
+Topic: Of course it's not dead. It's changing, individual programmers are becoming more productive and maybe fewer programmers will be needed in the future. But it's not going away.
+Liked by: virchual and ItsAllTheWayUp
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: ItsAllTheWayUp
+Topic: Software developer with 12 years of experience here. I'll give you two things in regards of this topic.
+
+
+
+1) it's not the death of programming, its a restructuring of programming:
+It's true that the developer market has changed due to AI. Junior Programmers are hired less and companies are restructuring if they have to do it. The reason for this is, that you need less time for programing, but you need an experienced programmer to ask the right prompts an AI. The time for looking up a documentation and writining all the code is less. But a good experienced programmer open for AI is worth more because he knows how to ask the right questions.
+
+2) Look up the long-tail problem in AI: There is something like the long tail problem. Its effecting every AI in the industry. Imagine a normal distribution. If you prompt an AI, it will deliver you a solution which came out of the most common text of the internet. The reason for this is, that it predicts the most common word next. So AI have a hard time to be creative
+Liked by: sscaz and virchual
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: splishsplash
+Topic: virchual said:
+I see a lot of content related to the Programming and AI. After the hype of the AI many people on YouTube and Blogs are saying that programming is dead after the rise of AI Models.
+I would like to know the your opinions on this and see how many of you really agree with that.
+Thanks!
+
+Not even close.
+
+It's all hype.
+
+AI dev is cool, and you can be more productive with it, but it's not even close to replacing human devs.
+
+What it's great at is interview questions.
+
+I would fail most interviews that ask all the leetcode style questions. An AI would pass.
+
+I've been writing software since the 90s, and I can build large, complicated, well designed software across multiple servers and databases.
+
+It's kind of like recruiting marathon runners by testing them at sprints.
+
+The AI can sprint much faster than me, but it can't run a 2 hour 10 minute marathon. It can't even finish the marathon. It gets lost and never crosses the line.
+
+The gap between what an AI can do, and what you need to do in order to build software is just enormous.
+
+Building a to-do list app, or a nextjs app with some CRUD doesn't make it ready to replace humans.
+
+It acn only do these simple tasks that it's seen countless examples of in its training. Even then, try to scale that nextjs with CRUD into a large commercial piece of software that has 10,000 monthly users. It can't. Not even close. Once you start trying to add more than 4 or 5 features to your app you run into endless loops where it adds 1 thing and breaks something else.
+Liked by: Spicy Chromosomes, virchual, ItsAllTheWayUp and 1 other person
+Number of likes: 4
+-----
+
+Replies:
+
+
+Topic User: virchual
+Topic: ItsAllTheWayUp said:
+Software developer with 12 years of experience here. I'll give you two things in regards of this topic.
+
+
+
+1) it's not the death of programming, its a restructuring of programming:
+It's true that the developer market has changed due to AI. Junior Programmers are hired less and companies are restructuring if they have to do it. The reason for this is, that you need less time for programing, but you need an experienced programmer to ask the right prompts an AI. The time for looking up a documentation and writining all the code is less. But a good experienced programmer open for AI is worth more because he knows how to ask the right questions.
+
+There is something like the long tail problem. Its effecting every AI in the industry. Imagine a normal distribution. If you prompt an AI, it will deliver you a solution which came out of the most common text of the internet. The reason for this is, that it predicts the most common word next. So AI have a hard time to be creative
+Click to expand...
+Sounds very motivating for me. Thanks.
+
+splishsplash said:
+Not even close.
+
+It's all hype.
+
+AI dev is cool, and you can be more productive with it, but it's not even close to replacing human devs.
+
+What it's great at is interview questions.
+
+I would fail most interviews that ask all the leetcode style questions. An AI would pass.
+
+I've been writing software since the 90s, and I can build large, complicated, well designed software across multiple servers and databases.
+
+It's kind of like recruiting marathon runners by testing them at sprints.
+
+The AI can sprint much faster than me, but it can't run a 2 hour 10 minute marathon. It can't even finish the marathon. It gets lost and never crosses the line.
+
+The gap between what an AI can do, and what you need to do in order to build software is just enormous.
+
+Building a to-do list app, or a nextjs app with some CRUD doesn't make it ready to replace humans.
+
+It acn only do these simple tasks that it's seen countless examples of in its training. Even then, try to scale that nextjs with CRUD into a large commercial piece of software that has 10,000 monthly users. It can't. Not even close. Once you start trying to add more than 4 or 5 features to your app you run into endless loops where it adds 1 thing and breaks something else.
+Click to expand...
+Totally agreed on that. It happened to me a few days ago. I was writing a Next.js app. It was a dashboard and I was using the ChatGPT to design for me. It did first version of a component fine for me as I instructed it but when I started to iterate over that component and added more features it started to loose previous features. I had to tell it again and again to not loose the existing components or features but still it did a lot of times. And then I decided to split the code as much as possible and give the smallest possible task to ChatGPT and it was fine with that.
+Just sharing my experience to support your opinion. Thanks a lot though.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Panther28
+Topic: Programming isn't dead! Or ever will be. It's just more fun, and quicker with AI. It still has its challenges as you say, that it gets things wrong from one moment to the next. Keep it on a short leash though, and its faster than search, copy and paste from stack overflow
+
+I always now get it to write me logs for every function and variable call change, so I can seed back the logs back into it for quicker fixing. How I managed to work for a year+ without this method I have no idea. Lol even then I thought it was good, but when you add self diagnosing logs back into eh mix, its much easier.
+The best WP themes I have ever used are with Themify. They have a great range and are all secure, updated, and affordable
+50 Slot Website Monitoring - Helps keep you alert of your uptime so you don't lose ranking
+Liked by: sscaz and Spicy Chromosomes
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: splishsplash
+Topic: virchual said:
+Sounds very motivating for me. Thanks.
+
+
+Totally agreed on that. It happened to me a few days ago. I was writing a Next.js app. It was a dashboard and I was using the ChatGPT to design for me. It did first version of a component fine for me as I instructed it but when I started to iterate over that component and added more features it started to loose previous features. I had to tell it again and again to not loose the existing components or features but still it did a lot of times. And then I decided to split the code as much as possible and give the smallest possible task to ChatGPT and it was fine with that.
+Just sharing my experience to support your opinion. Thanks a lot though.
+Click to expand...
+
+Here, this is the reality :-
+
+This is WILD
+
+I just one shot prompted an entire Grand Theft Auto game using Grok 3
+
+Deepsearch and Think are incredibly underrated and you're probably using them wrong
+
+In this video I walk you through how to use them to build your own full game in seconds
+
+(ya, bookmark this) pic.twitter.com/oi2OmK5x1M
+— Alex Finn (@AlexFinnX) February 19, 2025
+
+"This is WILD. I just one shot prompted an entire Grand Theft Auto game using Grok 3"
+
+Actual GTA 1 game.
+
+
+What Grok 3 produced
+
+
+
+The level of reality distortion from these new AI influencers is just disgusting.
+
+It's never ending.
+
+Humans are just.. shit.
+
+Years of crypto pump and dumps and bullshit.
+
+Now history repeats with AI.
+
+Hype hype hype. Profit profit profit.
+
+Don't fall for it.
+
+Shut all the shit off, pick 1 language, study it and practice with it until you are so fucking good at it you can write think in it the way you think in English.
+
+Then learn about code design, software architecture and databases.
+
+Write lots of code. Read lots of code.
+
+In 10 years you'll be laughing at all the people who said that AI was going to replace humans.
+
+What AI will do is let the average person at home create fun little tools and simple games.
+
+We are not, at least not with LLMs, going to have AIs that can create GTA 1, let alone GTA 6.
+
+The amount of work, original thought, creativity and planning that went into even an old game like GTA is off the charts compared to what an LLM can do.
+Liked by: virchual, ItsAllTheWayUp and Spicy Chromosomes
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: Spicy Chromosomes
+Topic: AI is still very buggy and low quality compared to average human professionals, for now we have too much marketing and hype
+Liked by: MR.Spuf and virchual
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Fish Alliance
+Topic: Definitely not true. The graph that's been making the rounds taking measure of job openings is selectively cutting off the time axis at pre-covid to now.
+
+If you take a look at the wider trend parsing out the spike during covid demand, there's still plenty of work and it's still growing.
+Liked by: virchual
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: vint
+Topic: The programming became more high level.
+Ai generates trash in most cases, but it's pretty good in generating code for small subtasks.
+Liked by: virchual
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: 0x1malloc
+Topic: AI is awesome for helping people, especially programmers. However, it's not perfect. I tinker with AI sometimes to write me certain code when i'm lazy, and often this code is inaccurate. Especially when it comes down to different architectures and languages. So no, it does not replace programmers, and it probably never will. At the end of the day, it is a brain of its own thats fed data from human brains. Without human brains and human knowledge, AI is dumb.
+Liked by: virchual and ItsAllTheWayUp
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: virchual
+Topic: splishsplash said:
+Here, this is the reality :-
+
+This is WILD
+
+I just one shot prompted an entire Grand Theft Auto game using Grok 3
+
+Deepsearch and Think are incredibly underrated and you're probably using them wrong
+
+In this video I walk you through how to use them to build your own full game in seconds
+
+(ya, bookmark this)
+— Alex Finn (@AlexFinnX)
+
+"This is WILD. I just one shot prompted an entire Grand Theft Auto game using Grok 3"
+
+Actual GTA 1 game.
+
+
+What Grok 3 produced
+
+
+
+The level of reality distortion from these new AI influencers is just disgusting.
+
+It's never ending.
+
+Humans are just.. shit.
+
+Years of crypto pump and dumps and bullshit.
+
+Now history repeats with AI.
+
+Hype hype hype. Profit profit profit.
+
+Don't fall for it.
+
+Shut all the shit off, pick 1 language, study it and practice with it until you are so fucking good at it you can write think in it the way you think in English.
+
+Then learn about code design, software architecture and databases.
+
+Write lots of code. Read lots of code.
+
+In 10 years you'll be laughing at all the people who said that AI was going to replace humans.
+
+What AI will do is let the average person at home create fun little tools and simple games.
+
+We are not, at least not with LLMs, going to have AIs that can create GTA 1, let alone GTA 6.
+
+The amount of work, original thought, creativity and planning that went into even an old game like GTA is off the charts compared to what an LLM can do.
+Click to expand...
+Wow!! Really well explained with a real experience. Thanks for taking time to write here.
+
+Spicy Chromosomes said:
+AI is still very buggy and low quality compared to average human professionals, for now we have too much marketing and hype
+Seems like it is.
+
+vint said:
+The programming became more high level.
+Ai generates trash in most cases, but it's pretty good in generating code for small subtasks.
+I have same opinion.
+0x1malloc said:
+AI is awesome for helping people, especially programmers. However, it's not perfect. I tinker with AI sometimes to write me certain code when i'm lazy, and often this code is inaccurate. Especially when it comes down to different architectures and languages. So no, it does not replace programmers, and it probably never will. At the end of the day, it is a brain of its own thats fed data from human brains. Without human brains and human knowledge, AI is dumb.
+And one more thing, AI is really bad at the structure and design of the code. It actually really sucks at DRY practice when writing code.
+Liked by: splishsplash
+Number of likes: 1
+-----
+
+Replies:
+
+

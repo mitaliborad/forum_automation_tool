@@ -8,7 +8,6 @@ load_dotenv()  # Load environment variables from .env file
 API_KEY = os.getenv('GEMINI_APIKEY')
 os.environ["GOOGLE_API_KEY"] = API_KEY  # Set the environment variable *before* importing
 
-
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)

@@ -1,0 +1,151 @@
+2025-03-06 16:53:21,537 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_165321.log
+2025-03-06 16:53:21,538 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 16:53:21,559 - INFO - Loaded 72 visited threads from Thread_links.txt
+2025-03-06 16:53:21,564 - INFO - Successfully loaded links that was already visited!
+2025-03-06 16:53:21,566 - DEBUG - Scrolling page 5 times.
+2025-03-06 16:53:21,566 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:53:22,728 - DEBUG - Page scrolled.
+2025-03-06 16:53:24,729 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:53:26,225 - DEBUG - Page scrolled.
+2025-03-06 16:53:28,227 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:53:29,921 - DEBUG - Page scrolled.
+2025-03-06 16:53:31,922 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:53:33,855 - DEBUG - Page scrolled.
+2025-03-06 16:53:35,857 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:53:37,640 - DEBUG - Page scrolled.
+2025-03-06 16:53:39,642 - DEBUG - Random scrolls complete.
+2025-03-06 16:53:48,878 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-03-06 16:53:53,011 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-do-you-choose-a-perfect-expired-domain.1629797/unread
+2025-03-06 16:54:05,225 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-do-you-choose-a-perfect-expired-domain.1629797/unread
+2025-03-06 16:54:05,228 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-do-you-choose-a-perfect-expired-domain.1629797/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 16:54:05,261 - INFO - Extracted thread title: How do you choose a perfect expired domain
+2025-03-06 16:54:05,261 - DEBUG - Scrolling page 4 times.
+2025-03-06 16:54:05,262 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:54:07,146 - DEBUG - Page scrolled.
+2025-03-06 16:54:09,148 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:54:10,261 - DEBUG - Page scrolled.
+2025-03-06 16:54:12,263 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:54:14,208 - DEBUG - Page scrolled.
+2025-03-06 16:54:16,210 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:54:17,675 - DEBUG - Page scrolled.
+2025-03-06 16:54:19,677 - DEBUG - Random scrolls complete.
+2025-03-06 16:54:22,501 - DEBUG - Scrolling page 1 times.
+2025-03-06 16:54:22,501 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:54:24,027 - DEBUG - Page scrolled.
+2025-03-06 16:54:27,029 - DEBUG - Random scrolls complete.
+2025-03-06 16:54:27,058 - DEBUG - Found 19 like buttons.
+2025-03-06 16:54:30,059 - INFO - Attempting to like 2 posts. There are 19 available.
+2025-03-06 16:54:31,011 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 16:54:31,038 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 16:54:31,039 - DEBUG - Liked post number 1 of 2.
+2025-03-06 16:54:36,061 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 16:54:36,081 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 16:54:36,083 - DEBUG - Liked post number 2 of 2.
+2025-03-06 16:54:40,375 - INFO - Liked 2 posts successfully.
+2025-03-06 16:54:40,376 - INFO - Liked 2 posts successfully.
+2025-03-06 16:54:40,377 - DEBUG - Scrolling page 6 times.
+2025-03-06 16:54:40,378 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:54:42,313 - DEBUG - Page scrolled.
+2025-03-06 16:54:45,314 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:54:46,930 - DEBUG - Page scrolled.
+2025-03-06 16:54:49,932 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:54:51,278 - DEBUG - Page scrolled.
+2025-03-06 16:54:54,280 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:54:56,221 - DEBUG - Page scrolled.
+2025-03-06 16:54:59,223 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:55:00,353 - DEBUG - Page scrolled.
+2025-03-06 16:55:03,354 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 16:55:04,586 - DEBUG - Page scrolled.
+2025-03-06 16:55:07,589 - DEBUG - Random scrolls complete.
+2025-03-06 16:55:10,345 - DEBUG - Total comments in the thread: 19
+2025-03-06 16:55:52,575 - INFO - Post content extracted and saved to Thread-Details\Thread Content\How do you choose a perfect expired domain.txt
+2025-03-06 16:55:55,404 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 16:55:55,446 - DEBUG - Extracted main post content: What is there need to be check before registering an expired domain?
+2025-03-06 16:55:58,796 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 16:55:58,798 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 16:55:58,799 - INFO - API comment generated and saved to Thread-Details\API Comments\How do you choose a perfect expired domain_Before you snag that expired domain, have you chec.txt
+2025-03-06 16:56:01,005 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 16:56:01,006 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 16:56:01,036 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 16:56:01,080 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 16:56:01,089 - DEBUG - Text box scrolled into view
+2025-03-06 16:56:02,075 - DEBUG - Initializing actionchains
+2025-03-06 16:56:02,118 - DEBUG - Post reply Element location: {'x': 1087, 'y': 7126}, size: {'height': 21, 'width': 68}
+2025-03-06 16:56:02,118 - DEBUG - Target click coordinates: (1121, 7136)
+2025-03-06 16:56:02,119 - DEBUG - Moving mouse from (635, 599) to (1121, 7136).
+2025-03-06 16:56:02,119 - DEBUG - Generating Bezier path from (635, 599) to (1121, 7136) with 50 points.
+2025-03-06 16:56:02,119 - DEBUG - Control point: (713, 503)
+2025-03-06 16:56:02,120 - DEBUG - Generated Bezier path with 50 points.
+2025-03-06 16:56:02,120 - DEBUG - Moved mouse to (635, 599), delay: 0.0000
+2025-03-06 16:56:02,124 - DEBUG - Moved mouse to (638, 597), delay: 0.0027
+2025-03-06 16:56:02,128 - DEBUG - Moved mouse to (641, 602), delay: 0.0031
+2025-03-06 16:56:02,136 - DEBUG - Moved mouse to (645, 612), delay: 0.0068
+2025-03-06 16:56:02,144 - DEBUG - Moved mouse to (649, 628), delay: 0.0066
+2025-03-06 16:56:02,157 - DEBUG - Moved mouse to (654, 649), delay: 0.0121
+2025-03-06 16:56:02,176 - DEBUG - Moved mouse to (659, 676), delay: 0.0178
+2025-03-06 16:56:02,188 - DEBUG - Moved mouse to (664, 708), delay: 0.0109
+2025-03-06 16:56:02,205 - DEBUG - Moved mouse to (669, 747), delay: 0.0156
+2025-03-06 16:56:02,220 - DEBUG - Moved mouse to (674, 790), delay: 0.0137
+2025-03-06 16:56:02,246 - DEBUG - Moved mouse to (680, 840), delay: 0.0255
+2025-03-06 16:56:02,273 - DEBUG - Moved mouse to (686, 895), delay: 0.0252
+2025-03-06 16:56:02,301 - DEBUG - Moved mouse to (692, 955), delay: 0.0266
+2025-03-06 16:56:02,326 - DEBUG - Moved mouse to (699, 1021), delay: 0.0230
+2025-03-06 16:56:02,354 - DEBUG - Moved mouse to (706, 1093), delay: 0.0258
+2025-03-06 16:56:02,379 - DEBUG - Moved mouse to (713, 1170), delay: 0.0240
+2025-03-06 16:56:02,418 - DEBUG - Moved mouse to (721, 1253), delay: 0.0374
+2025-03-06 16:56:02,459 - DEBUG - Moved mouse to (728, 1342), delay: 0.0394
+2025-03-06 16:56:02,501 - DEBUG - Moved mouse to (736, 1436), delay: 0.0413
+2025-03-06 16:56:02,544 - DEBUG - Moved mouse to (745, 1536), delay: 0.0412
+2025-03-06 16:56:02,578 - DEBUG - Moved mouse to (753, 1641), delay: 0.0324
+2025-03-06 16:56:02,623 - DEBUG - Moved mouse to (762, 1752), delay: 0.0438
+2025-03-06 16:56:02,671 - DEBUG - Moved mouse to (771, 1869), delay: 0.0456
+2025-03-06 16:56:02,710 - DEBUG - Moved mouse to (780, 1991), delay: 0.0369
+2025-03-06 16:56:02,743 - DEBUG - Moved mouse to (790, 2119), delay: 0.0320
+2025-03-06 16:56:02,779 - DEBUG - Moved mouse to (800, 2252), delay: 0.0346
+2025-03-06 16:56:02,829 - DEBUG - Moved mouse to (810, 2391), delay: 0.0480
+2025-03-06 16:56:02,893 - DEBUG - Moved mouse to (821, 2536), delay: 0.0624
+2025-03-06 16:56:02,940 - DEBUG - Moved mouse to (831, 2686), delay: 0.0453
+2025-03-06 16:56:02,994 - DEBUG - Moved mouse to (842, 2842), delay: 0.0517
+2025-03-06 16:56:03,036 - DEBUG - Moved mouse to (854, 3003), delay: 0.0416
+2025-03-06 16:56:03,093 - DEBUG - Moved mouse to (865, 3170), delay: 0.0550
+2025-03-06 16:56:03,139 - DEBUG - Moved mouse to (877, 3343), delay: 0.0437
+2025-03-06 16:56:03,206 - DEBUG - Moved mouse to (889, 3521), delay: 0.0655
+2025-03-06 16:56:03,268 - DEBUG - Moved mouse to (902, 3705), delay: 0.0595
+2025-03-06 16:56:03,327 - DEBUG - Moved mouse to (914, 3895), delay: 0.0570
+2025-03-06 16:56:03,384 - DEBUG - Moved mouse to (927, 4090), delay: 0.0546
+2025-03-06 16:56:03,452 - DEBUG - Moved mouse to (940, 4290), delay: 0.0655
+2025-03-06 16:56:03,513 - DEBUG - Moved mouse to (954, 4497), delay: 0.0586
+2025-03-06 16:56:03,596 - DEBUG - Moved mouse to (968, 4708), delay: 0.0811
+2025-03-06 16:56:03,646 - DEBUG - Moved mouse to (982, 4926), delay: 0.0484
+2025-03-06 16:56:03,706 - DEBUG - Moved mouse to (996, 5149), delay: 0.0580
+2025-03-06 16:56:03,794 - DEBUG - Moved mouse to (1011, 5378), delay: 0.0858
+2025-03-06 16:56:03,874 - DEBUG - Moved mouse to (1026, 5612), delay: 0.0782
+2025-03-06 16:56:03,960 - DEBUG - Moved mouse to (1041, 5852), delay: 0.0843
+2025-03-06 16:56:04,013 - DEBUG - Moved mouse to (1056, 6097), delay: 0.0512
+2025-03-06 16:56:04,069 - DEBUG - Moved mouse to (1072, 6349), delay: 0.0543
+2025-03-06 16:56:04,153 - DEBUG - Moved mouse to (1088, 6605), delay: 0.0823
+2025-03-06 16:56:04,220 - DEBUG - Moved mouse to (1104, 6868), delay: 0.0652
+2025-03-06 16:56:04,308 - DEBUG - Moved mouse to (1121, 7136), delay: 0.0872
+2025-03-06 16:56:04,309 - INFO - Successfully moved mouse to (1121, 7136) using Bezier curve.
+2025-03-06 16:56:04,312 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-06 16:56:04,314 - DEBUG - Moving mouse to text box element.
+2025-03-06 16:56:04,319 - DEBUG - Clicking on the text box.
+2025-03-06 16:56:04,327 - DEBUG - Sending keys with content: Before you snag that expired domain, have you checked its history with the Wayback Machine and Google Search to make sure it's not been penalized?
+
+2025-03-06 16:56:09,691 - DEBUG - Clicking on post reply button.
+2025-03-06 16:56:20,742 - DEBUG - Performed Actionchains
+2025-03-06 16:56:20,742 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-06 16:56:24,743 - INFO - Comment posted successfully.
+2025-03-06 16:56:24,744 - INFO - Task Completed!!
+2025-03-06 16:56:29,816 - INFO - Navigated back to the homepage.
+2025-03-06 16:56:32,496 - INFO - Attempting to clear memory and resources.
+2025-03-06 16:56:32,528 - INFO - Garbage collection completed.
+2025-03-06 16:56:32,529 - INFO - Waiting for 10 seconds before next execution.
+2025-03-06 16:56:42,530 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-06 16:56:42,532 - INFO - Quitting browser driver...
+2025-03-06 16:56:47,540 - INFO - Browser closed successfully.
+2025-03-06 16:56:47,542 - INFO - Stopping MultiLogin profile...
+2025-03-06 16:56:50,544 - INFO - Attempting to stop MultiLogin profile: d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-06 16:56:54,335 - INFO - Response status code: 200
+2025-03-06 16:56:54,337 - INFO - Response body: {"status":{"error_code":"","http_code":200,"message":""}}
+2025-03-06 16:56:54,339 - INFO - Profile d949ef43-c834-44b4-9628-f60bb0c33b77 stopped successfully.

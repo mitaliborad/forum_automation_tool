@@ -1,0 +1,1 @@
+That's a tricky one! Have you tried looking at the Tumblr API directly to see if it offers any clues?

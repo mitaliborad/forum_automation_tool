@@ -1,0 +1,299 @@
+--- Main Post Title ---
+AI model for Instagram
+
+Total comments in the thread: 20
+
+Topic User: ofmailo
+Topic: I want to create my first AI model but i need help and recommendations for the software to use.
+
+Which are best ways to generate an AI model and then be able to create different images of the same model with dif clothes, dif backgrounds etc.
+
+Which are best softwares to then turn the images to videos for reels
+
+All content needs to be able to be made in NSFW as well as SFW
+Liked by: You, mitali borad and SocialTrader
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: Elchavo
+Topic: ofmailo said:
+I want to create my first AI model but i need help and recommendations for the software to use.
+
+Which are best ways to generate an AI model and then be able to create different images of the same model with dif clothes, dif backgrounds etc.
+
+Which are best softwares to then turn the images to videos for reels
+
+All content needs to be able to be made in NSFW as well as SFW
+Click to expand...
+Let me give you some information. Check your private message box.
+Liked by: Bobanco
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ofmailo
+Topic: bump
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: BM AGENCY
+Topic: I think you should hire a freelancer.
+Liked by: mitali borad
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: duke1921
+Topic: Elchavo said:
+Let me give you some information. Check your private message box.
+Can you share it publicly in the forum here?
+INSTAGRAM Automation Solution for Real Phones
+Learn to Manage 10k+ accounts
+Yourself Become SMM Panel Services Provider
+Liked by: Hilal and Ringo23
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Manual Growth
+Topic: duke1921 said:
+Can you share it publicly in the forum here?
++1
+INSTAGRAM GROWTH SERVICE - Real,Targeted and Niche-based Followers with 7-Day FREE TRIAL
+Instagram MOTHER CHILD ServiceInstagram Mother Child Advanced Setup Guide
+INSTAGRAM SCRAPING Service
+Liked by: Hilal
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: proxygo
+Topic: the days of a real woman are disappearing lol
+PROXYHUB. TOP QUALITY PRIVATE PROXIES AT SOLID PRICES USA/UK/CA
+QUALITY PREMIUM BACK-LINKS. STRONG. POWERFUL. PROVEN. TESTED. T-RANKS
+STATIC / RESIDENTIAL / DEDICATED PRIVATE PROXIES HTTP&SOCKS USA&EU
+Liked by: mitali borad, RK, SSForC and 1 other person
+Number of likes: 4
+-----
+
+Replies:
+
+
+Topic User: Nikolaos
+Topic: proxygo said:
+the days of a real woman are disappearing lol
+That's definitely true!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: plainen
+Topic: ofmailo said:
+I want to create my first AI model but i need help and recommendations for the software to use.
+
+Which are best ways to generate an AI model and then be able to create different images of the same model with dif clothes, dif backgrounds etc.
+
+Which are best softwares to then turn the images to videos for reels
+
+All content needs to be able to be made in NSFW as well as SFW
+Click to expand...
+You can research using search engines for this, there are recent AI app for making custom pictures and you could choose from the result
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Ashk881
+Topic: ofmailo said:
+I want to create my first AI model but i need help and recommendations for the software to use.
+
+Which are best ways to generate an AI model and then be able to create different images of the same model with dif clothes, dif backgrounds etc.
+
+Which are best softwares to then turn the images to videos for reels
+
+All content needs to be able to be made in NSFW as well as SFW
+Click to expand...
+I have been researching this topic for awhile now because I am writing an ebook about it.
+
+So here's how you do it:
+- First you need to choose a base image generation model. Stable Diffusion is the most popular. But there are more options now, Flux is also very good.
+
+- Then you need to choose a frontend/gui for stable Diffusion because doing everything by cli/manually is going to be tiring. Automatic111 was the first and most popular webui, these days ComfyUI has also become quite powerful.
+
+- after setting up a gui with your model, you need a finetuned model file. These are called LoRAs. These are like your base model but much smaller and tune your model for certain things. You can find several LoRAs on civitai.
+
+- for consistent characters you will need what is called an IpAdapter. For comfyui there is this:
+https://github.com/cubiq/ComfyUI_IPAdapter_plus
+
+For consistent faces you first generate what is called a *face map*, it's basically set of images of a face in different angles. You then train an IpAdapter Lora on this image.
+
+Similarly there are ControlNets for Pose, clothing, interiors and even lighting.
+
+It's definitely out of scope to give step by step instructions in this comment, but if I ever complete that ebook, you know where to look for if you want something very detailed about this topic
+Liked by: mitali borad, MR.Spuf, SocialTrader and 1 other person
+Number of likes: 4
+-----
+
+Replies:
+
+
+Topic User: Repackage7618
+Topic: ofmailo said:
+Which are best ways to generate an AI model and then be able to create different images of the same model with dif clothes, dif backgrounds etc.
+ComfyUI
+
+ofmailo said:
+Which are best softwares to then turn the images to videos for reels
+Nothig really, everything is either censored, low qualiry or extremly pricey. Not really worth doing it, AI videos are doing rather poorly on any SM
+
+Ashk881 said:
+I have been researching this topic for awhile now because I am writing an ebook about it.
+
+So here's how you do it:
+- First you need to choose a base image generation model. Stable Diffusion is the most popular. But there are more options now, Flux is also very good.
+
+- Then you need to choose a frontend/gui for stable Diffusion because doing everything by cli/manually is going to be tiring. Automatic111 was the first and most popular webui, these days ComfyUI has also become quite powerful.
+
+- after setting up a gui with your model, you need a finetuned model file. These are called LoRAs. These are like your base model but much smaller and tune your model for certain things. You can find several LoRAs on civitai.
+
+- for consistent characters you will need what is called an IpAdapter. For comfyui there is this:
+
+
+For consistent faces you first generate what is called a *face map*, it's basically set of images of a face in different angles. You then train an IpAdapter Lora on this image.
+
+Similarly there are ControlNets for Pose, clothing, interiors and even lighting.
+
+It's definitely out of scope to give step by step instructions in this comment, but if I ever complete that ebook, you know where to look for if you want something very detailed about this topic
+Click to expand...
+Pretty much this, if you are starting from 0, expect 3-6 month to learn all of it, after that you can pretty much do anything
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: iAi
+Topic: Merhaba. Yaklaşık 1 yıl önce oluşturduğum, 90'a yakın gönderi ve 88 bin takipçiye sahip Ai Influencer hesabımı sizin için satabilirim. İlgileniyorsanız özel mesaj gönderebilirsiniz.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: imccafey
+Topic: There's good free ones available for generation now, but for the best ones or at least the ones I've seen being used on IG or Twitter, it's usually the paid ones which have been custom trained. Stable Diffusion is the common one, I'd say. You can usually get a hang of it within an afternoon. Use tools like ControlNet with it for consistency in features while making changes to certain elements of what you're generating. Particularly on the NSFW side, you might need to experiment with other Stable Diff-based AIs for variety. It's a massive plus if you have decent PS skills to be able to make convincing edits.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ZenMarkets
+Topic: posting for reference
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: sdmins
+Topic: I've had good luck with Fooocus for image generation. Took a bit to get the right loras and models, but now that it's set up I can generate a handful of decent photos quickly. Their Faceswap is pretty good for keeping a consistent image.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: By_ReFLeX
+Topic: To produce content with AI, your spending on hardware alone will be around 20k USD. If we add AI account fees, this figure will be 30k USD
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: shijin
+Topic: Check out StyleGAN2 for creating your models, If you need those images turned into high-quality videos, use Final Cut Pro or Adobe Rush to animate and export for Instagram reels.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Repackage7618
+Topic: By_ReFLeX said:
+To produce content with AI, your spending on hardware alone will be around 20k USD. If we add AI account fees, this figure will be 30k USD
+You can run local SDXL models on hardware as low as GTX 1080/RTX 2060 which cost around $150. There are also many free online providers but I can't really recommend them
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: MR.Spuf
+Topic: Ashk881 said:
+I have been researching this topic for awhile now because I am writing an ebook about it.
+
+So here's how you do it:
+- First you need to choose a base image generation model. Stable Diffusion is the most popular. But there are more options now, Flux is also very good.
+
+- Then you need to choose a frontend/gui for stable Diffusion because doing everything by cli/manually is going to be tiring. Automatic111 was the first and most popular webui, these days ComfyUI has also become quite powerful.
+
+- after setting up a gui with your model, you need a finetuned model file. These are called LoRAs. These are like your base model but much smaller and tune your model for certain things. You can find several LoRAs on civitai.
+
+- for consistent characters you will need what is called an IpAdapter. For comfyui there is this:
+
+
+For consistent faces you first generate what is called a *face map*, it's basically set of images of a face in different angles. You then train an IpAdapter Lora on this image.
+
+Similarly there are ControlNets for Pose, clothing, interiors and even lighting.
+
+It's definitely out of scope to give step by step instructions in this comment, but if I ever complete that ebook, you know where to look for if you want something very detailed about this topic
+Click to expand...
+Great miniguide, appreciate it!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: recdown
+Topic: sdmins said:
+I've had good luck with Fooocus for image generation. Took a bit to get the right loras and models, but now that it's set up I can generate a handful of decent photos quickly. Their Faceswap is pretty good for keeping a consistent image.
+I've been trying Loras in Fooocus for a while now, but I'm not getting the results I'm looking for. Can you give me some Loras tips and recommendations for Fooocus? I'm looking for focused backgrounds, as in a normal photo, and that the skin does not come out as if it were plastic.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

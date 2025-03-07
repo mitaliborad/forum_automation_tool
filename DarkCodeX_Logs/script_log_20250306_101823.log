@@ -1,0 +1,140 @@
+2025-03-06 10:18:23,107 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250306_101823.log
+2025-03-06 10:18:23,113 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-06 10:18:23,124 - INFO - Loaded 63 visited threads from Thread_links.txt
+2025-03-06 10:18:23,125 - INFO - Successfully loaded links that was already visited!
+2025-03-06 10:18:23,126 - DEBUG - Scrolling page 5 times.
+2025-03-06 10:18:23,128 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:18:24,974 - DEBUG - Page scrolled.
+2025-03-06 10:18:26,975 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:18:28,728 - DEBUG - Page scrolled.
+2025-03-06 10:18:30,730 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:18:32,218 - DEBUG - Page scrolled.
+2025-03-06 10:18:34,220 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:18:36,006 - DEBUG - Page scrolled.
+2025-03-06 10:18:38,008 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:18:39,629 - DEBUG - Page scrolled.
+2025-03-06 10:18:41,631 - DEBUG - Random scrolls complete.
+2025-03-06 10:18:45,263 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-03-06 10:18:53,613 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/uh-oh-ai-search-engines-dont-send-too-much-refferal-traffic.1692193/unread
+2025-03-06 10:19:05,309 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/uh-oh-ai-search-engines-dont-send-too-much-refferal-traffic.1692193/unread
+2025-03-06 10:19:05,312 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/uh-oh-ai-search-engines-dont-send-too-much-refferal-traffic.1692193/unread' to visited threads file 'Thread_links.txt'.
+2025-03-06 10:19:05,357 - INFO - Extracted thread title: Uh-Oh AI Search Engines Don’t Send Too Much Refferal Traffic
+2025-03-06 10:19:05,358 - DEBUG - Scrolling page 2 times.
+2025-03-06 10:19:05,358 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:07,339 - DEBUG - Page scrolled.
+2025-03-06 10:19:09,340 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:11,217 - DEBUG - Page scrolled.
+2025-03-06 10:19:13,218 - DEBUG - Random scrolls complete.
+2025-03-06 10:19:15,765 - DEBUG - Scrolling page 1 times.
+2025-03-06 10:19:15,766 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:16,937 - DEBUG - Page scrolled.
+2025-03-06 10:19:19,939 - DEBUG - Random scrolls complete.
+2025-03-06 10:19:19,969 - DEBUG - Found 2 like buttons.
+2025-03-06 10:19:22,970 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-03-06 10:19:23,917 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-06 10:19:23,938 - INFO - Like button clicked successfully using JavaScript.
+2025-03-06 10:19:23,938 - DEBUG - Liked post number 1 of 1.
+2025-03-06 10:19:28,401 - INFO - Liked 1 posts successfully.
+2025-03-06 10:19:28,404 - INFO - Liked 1 posts successfully.
+2025-03-06 10:19:28,405 - DEBUG - Scrolling page 7 times.
+2025-03-06 10:19:28,406 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:29,651 - DEBUG - Page scrolled.
+2025-03-06 10:19:32,654 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:34,254 - DEBUG - Page scrolled.
+2025-03-06 10:19:37,256 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:39,066 - DEBUG - Page scrolled.
+2025-03-06 10:19:42,067 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:43,664 - DEBUG - Page scrolled.
+2025-03-06 10:19:46,665 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:48,463 - DEBUG - Page scrolled.
+2025-03-06 10:19:51,465 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:52,860 - DEBUG - Page scrolled.
+2025-03-06 10:19:55,862 - DEBUG - Scrolling page by 500 pixels.
+2025-03-06 10:19:57,695 - DEBUG - Page scrolled.
+2025-03-06 10:20:00,696 - DEBUG - Random scrolls complete.
+2025-03-06 10:20:03,209 - DEBUG - Total comments in the thread: 2
+2025-03-06 10:20:06,510 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Uh-Oh AI Search Engines Don’t Send Too Much Refferal Traffic.txt
+2025-03-06 10:20:08,955 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-06 10:20:08,997 - DEBUG - Extracted main post content: This was shared by Forbes and kinda surprised and not entirely as I was expecting them to share more but thought they would go balance out but here we go.
+
+https://www.forbes.com/sites/rashishrivastava/2025/03/03/openai-perplexity-ai-search-traffic-report/
+2025-03-06 10:20:14,126 - INFO - Successfully generated comments using Gemini API.
+2025-03-06 10:20:14,129 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-06 10:20:14,131 - INFO - API comment generated and saved to Thread-Details\API Comments\Uh-Oh AI Search Engines Don’t Send Too Much Refferal Traffic_Interesting, I wonder if Google will start feeling.txt
+2025-03-06 10:20:16,814 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:20:16,814 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:20:16,859 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:20:16,908 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-06 10:20:16,917 - DEBUG - Text box scrolled into view
+2025-03-06 10:20:17,636 - DEBUG - Initializing actionchains
+2025-03-06 10:20:17,687 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1901}, size: {'height': 21, 'width': 68}
+2025-03-06 10:20:17,687 - DEBUG - Target click coordinates: (1121, 1911)
+2025-03-06 10:20:17,688 - DEBUG - Moving mouse from (201, 573) to (1121, 1911).
+2025-03-06 10:20:17,688 - DEBUG - Generating Bezier path from (201, 573) to (1121, 1911) with 50 points.
+2025-03-06 10:20:17,688 - DEBUG - Control point: (184, 554)
+2025-03-06 10:20:17,716 - DEBUG - Generated Bezier path with 50 points.
+2025-03-06 10:20:17,769 - DEBUG - Moved mouse to (201, 573), delay: 0.0000
+2025-03-06 10:20:17,772 - DEBUG - Moved mouse to (200, 572), delay: 0.0016
+2025-03-06 10:20:17,775 - DEBUG - Moved mouse to (201, 573), delay: 0.0017
+2025-03-06 10:20:17,779 - DEBUG - Moved mouse to (202, 575), delay: 0.0023
+2025-03-06 10:20:17,784 - DEBUG - Moved mouse to (204, 579), delay: 0.0037
+2025-03-06 10:20:17,790 - DEBUG - Moved mouse to (207, 583), delay: 0.0044
+2025-03-06 10:20:17,797 - DEBUG - Moved mouse to (211, 588), delay: 0.0057
+2025-03-06 10:20:17,805 - DEBUG - Moved mouse to (215, 595), delay: 0.0066
+2025-03-06 10:20:17,811 - DEBUG - Moved mouse to (220, 603), delay: 0.0054
+2025-03-06 10:20:17,820 - DEBUG - Moved mouse to (226, 612), delay: 0.0075
+2025-03-06 10:20:17,830 - DEBUG - Moved mouse to (233, 622), delay: 0.0091
+2025-03-06 10:20:17,841 - DEBUG - Moved mouse to (241, 633), delay: 0.0103
+2025-03-06 10:20:17,853 - DEBUG - Moved mouse to (249, 646), delay: 0.0112
+2025-03-06 10:20:17,863 - DEBUG - Moved mouse to (259, 659), delay: 0.0080
+2025-03-06 10:20:17,877 - DEBUG - Moved mouse to (269, 674), delay: 0.0125
+2025-03-06 10:20:17,891 - DEBUG - Moved mouse to (279, 690), delay: 0.0124
+2025-03-06 10:20:17,905 - DEBUG - Moved mouse to (291, 707), delay: 0.0137
+2025-03-06 10:20:17,917 - DEBUG - Moved mouse to (304, 725), delay: 0.0107
+2025-03-06 10:20:17,928 - DEBUG - Moved mouse to (317, 744), delay: 0.0097
+2025-03-06 10:20:17,945 - DEBUG - Moved mouse to (331, 765), delay: 0.0156
+2025-03-06 10:20:17,961 - DEBUG - Moved mouse to (346, 786), delay: 0.0150
+2025-03-06 10:20:17,974 - DEBUG - Moved mouse to (361, 809), delay: 0.0120
+2025-03-06 10:20:17,991 - DEBUG - Moved mouse to (378, 833), delay: 0.0160
+2025-03-06 10:20:18,007 - DEBUG - Moved mouse to (395, 858), delay: 0.0136
+2025-03-06 10:20:18,022 - DEBUG - Moved mouse to (413, 884), delay: 0.0139
+2025-03-06 10:20:18,042 - DEBUG - Moved mouse to (431, 911), delay: 0.0182
+2025-03-06 10:20:18,058 - DEBUG - Moved mouse to (451, 940), delay: 0.0151
+2025-03-06 10:20:18,071 - DEBUG - Moved mouse to (471, 969), delay: 0.0120
+2025-03-06 10:20:18,092 - DEBUG - Moved mouse to (493, 1000), delay: 0.0190
+2025-03-06 10:20:18,116 - DEBUG - Moved mouse to (515, 1032), delay: 0.0222
+2025-03-06 10:20:18,131 - DEBUG - Moved mouse to (537, 1065), delay: 0.0142
+2025-03-06 10:20:18,147 - DEBUG - Moved mouse to (561, 1099), delay: 0.0148
+2025-03-06 10:20:18,170 - DEBUG - Moved mouse to (585, 1135), delay: 0.0213
+2025-03-06 10:20:18,186 - DEBUG - Moved mouse to (610, 1171), delay: 0.0144
+2025-03-06 10:20:18,212 - DEBUG - Moved mouse to (636, 1209), delay: 0.0243
+2025-03-06 10:20:18,232 - DEBUG - Moved mouse to (663, 1247), delay: 0.0181
+2025-03-06 10:20:18,256 - DEBUG - Moved mouse to (690, 1287), delay: 0.0235
+2025-03-06 10:20:18,279 - DEBUG - Moved mouse to (719, 1328), delay: 0.0221
+2025-03-06 10:20:18,297 - DEBUG - Moved mouse to (748, 1371), delay: 0.0164
+2025-03-06 10:20:18,339 - DEBUG - Moved mouse to (778, 1414), delay: 0.0253
+2025-03-06 10:20:18,360 - DEBUG - Moved mouse to (808, 1458), delay: 0.0174
+2025-03-06 10:20:18,379 - DEBUG - Moved mouse to (840, 1504), delay: 0.0173
+2025-03-06 10:20:18,398 - DEBUG - Moved mouse to (872, 1551), delay: 0.0181
+2025-03-06 10:20:18,417 - DEBUG - Moved mouse to (905, 1599), delay: 0.0175
+2025-03-06 10:20:18,440 - DEBUG - Moved mouse to (939, 1648), delay: 0.0216
+2025-03-06 10:20:18,471 - DEBUG - Moved mouse to (974, 1698), delay: 0.0305
+2025-03-06 10:20:18,503 - DEBUG - Moved mouse to (1009, 1749), delay: 0.0303
+2025-03-06 10:20:18,539 - DEBUG - Moved mouse to (1046, 1802), delay: 0.0338
+2025-03-06 10:20:18,571 - DEBUG - Moved mouse to (1083, 1856), delay: 0.0291
+2025-03-06 10:20:18,595 - DEBUG - Moved mouse to (1121, 1911), delay: 0.0228
+2025-03-06 10:20:18,597 - INFO - Successfully moved mouse to (1121, 1911) using Bezier curve.
+2025-03-06 10:20:18,599 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-06 10:20:18,600 - DEBUG - Moving mouse to text box element.
+2025-03-06 10:20:18,602 - DEBUG - Clicking on the text box.
+2025-03-06 10:20:18,605 - DEBUG - Sending keys with content: Interesting, I wonder if Google will start feeling the heat from these AI search engines soon.
+
+2025-03-06 10:20:24,568 - DEBUG - Clicking on post reply button.
+2025-03-06 10:20:35,242 - DEBUG - Performed Actionchains
+2025-03-06 10:20:35,243 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-06 10:20:39,245 - INFO - Comment posted successfully.
+2025-03-06 10:20:39,246 - INFO - Task Completed!!
+2025-03-06 10:20:52,311 - INFO - Navigated back to the homepage.
+2025-03-06 10:20:54,407 - INFO - Attempting to clear memory and resources.
+2025-03-06 10:20:54,445 - INFO - Garbage collection completed.
+2025-03-06 10:20:54,446 - INFO - Waiting for 20 seconds before next execution.
