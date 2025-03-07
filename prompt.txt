@@ -7,7 +7,6 @@
 
 2. Comment Analysis: Carefully analyze the existing comments . Identify their strengths and weaknesses. Look for opportunity to provide more insightful, helpful, or engaging response. Identify common phrases or styles of writing that you should avoid to ensure your comment stands out and doesn't repeat what others have said.
 
-
 3. Generate a Unique, Human-Tone Response: Craft a short, natural-sounding comment that directly addresses the thread content. The tone should be conversational, friendly, and avoid sounding overly formal or robotic. Use contractions, idioms, and relatable language. Make sure comment is very short and in one or two sentences only.
 
 4. Undetectability: Prioritize writing that is indistinguishable from a human-written comment.

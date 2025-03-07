@@ -65,6 +65,7 @@ class GeminiHandler:
         comments = self.send_message(full_prompt)
 
         return comments
+ 
     
 # Example usage (for testing the Gemini API handler class)
 if __name__ == '__main__':

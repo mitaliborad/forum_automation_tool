@@ -75,6 +75,7 @@ def start_profile(token: str, logger) -> webdriver.Remote | None:
         logger.error(f"Error creating webdriver instance: {e}", exc_info=True)
         return None
 
+
 def stop_profile(token: str, logger) -> None:
     """Stops the MultiLogin profile."""
     try:

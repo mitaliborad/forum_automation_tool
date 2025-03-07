@@ -1,0 +1,157 @@
+2025-03-07 09:15:46,150 - INFO - Starting new automation task. Log file created at: DarkCodeX_Logs\script_log_20250307_091546.log
+2025-03-07 09:15:46,184 - INFO - Loaded 37 subforum URLs from Sub-Forum-List.txt
+2025-03-07 09:15:46,208 - INFO - Loaded 75 visited threads from Thread_links.txt
+2025-03-07 09:15:46,210 - INFO - Successfully loaded links that was already visited!
+2025-03-07 09:15:46,211 - DEBUG - Scrolling page 4 times.
+2025-03-07 09:15:46,211 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:15:47,825 - DEBUG - Page scrolled.
+2025-03-07 09:15:49,827 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:15:50,906 - DEBUG - Page scrolled.
+2025-03-07 09:15:52,907 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:15:54,518 - DEBUG - Page scrolled.
+2025-03-07 09:15:56,520 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:15:58,193 - DEBUG - Page scrolled.
+2025-03-07 09:16:00,195 - DEBUG - Random scrolls complete.
+2025-03-07 09:16:03,489 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-03-07 09:16:14,684 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/google-voice-and-bulk-sms-operation.1100609/
+2025-03-07 09:16:23,036 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/google-voice-and-bulk-sms-operation.1100609/
+2025-03-07 09:16:23,039 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/google-voice-and-bulk-sms-operation.1100609/' to visited threads file 'Thread_links.txt'.
+2025-03-07 09:16:23,121 - INFO - Extracted thread title: Google Voice and Bulk SMS Operation
+2025-03-07 09:16:23,122 - DEBUG - Scrolling page 3 times.
+2025-03-07 09:16:23,123 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:16:24,168 - DEBUG - Page scrolled.
+2025-03-07 09:16:26,169 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:16:28,132 - DEBUG - Page scrolled.
+2025-03-07 09:16:30,134 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:16:31,169 - DEBUG - Page scrolled.
+2025-03-07 09:16:33,171 - DEBUG - Random scrolls complete.
+2025-03-07 09:16:36,001 - DEBUG - Scrolling page 4 times.
+2025-03-07 09:16:36,002 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:16:37,620 - DEBUG - Page scrolled.
+2025-03-07 09:16:40,622 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:16:41,642 - DEBUG - Page scrolled.
+2025-03-07 09:16:44,644 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:16:46,170 - DEBUG - Page scrolled.
+2025-03-07 09:16:49,171 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:16:50,301 - DEBUG - Page scrolled.
+2025-03-07 09:16:53,303 - DEBUG - Random scrolls complete.
+2025-03-07 09:16:53,320 - DEBUG - Found 8 like buttons.
+2025-03-07 09:16:56,321 - INFO - Attempting to like 3 posts. There are 8 available.
+2025-03-07 09:16:57,090 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-07 09:16:57,127 - INFO - Like button clicked successfully using JavaScript.
+2025-03-07 09:16:57,129 - DEBUG - Liked post number 1 of 3.
+2025-03-07 09:17:03,002 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-07 09:17:03,027 - INFO - Like button clicked successfully using JavaScript.
+2025-03-07 09:17:03,029 - DEBUG - Liked post number 2 of 3.
+2025-03-07 09:17:07,775 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-07 09:17:07,798 - INFO - Like button clicked successfully using JavaScript.
+2025-03-07 09:17:07,800 - DEBUG - Liked post number 3 of 3.
+2025-03-07 09:17:11,825 - INFO - Liked 3 posts successfully.
+2025-03-07 09:17:11,827 - INFO - Liked 3 posts successfully.
+2025-03-07 09:17:11,828 - DEBUG - Scrolling page 5 times.
+2025-03-07 09:17:11,829 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:17:13,534 - DEBUG - Page scrolled.
+2025-03-07 09:17:16,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:17:18,521 - DEBUG - Page scrolled.
+2025-03-07 09:17:21,524 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:17:23,229 - DEBUG - Page scrolled.
+2025-03-07 09:17:26,232 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:17:27,831 - DEBUG - Page scrolled.
+2025-03-07 09:17:30,833 - DEBUG - Scrolling page by 500 pixels.
+2025-03-07 09:17:32,685 - DEBUG - Page scrolled.
+2025-03-07 09:17:35,686 - DEBUG - Random scrolls complete.
+2025-03-07 09:17:38,633 - DEBUG - Total comments in the thread: 8
+2025-03-07 09:17:58,277 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Google Voice and Bulk SMS Operation.txt
+2025-03-07 09:18:00,417 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-07 09:18:00,464 - DEBUG - Extracted main post content: Hi I've posted a thread earlier but wanted to give a quick review and create a new one.
+
+My Goal is to have a system of Bulk SMS running through google voice accounts so I can promote affiliate offers.
+
+1) I am using a VPN
+2) I have 10 voice accounts
+3) I have the numbers I need to message
+
+The roadblock I am facing is that after I use account #1 and send 100 messages, I move on to account #2 and it stops me at 20 messages, I then move to account #3 and it stops me at 20 messages for the day. I want each account to be able to send out 100 messages each. Despite using a VPN, google is able to associate and create a link between the voice accounts. How do I overcome this? All the voice accounts are being logged into through one device - my computer (I feel that this is the only connection between the accounts that can be spotted).
+
+What are the mistakes that I am making? Does anyone have experience doing this on a large scale? Please let me know.
+2025-03-07 09:18:04,464 - INFO - Successfully generated comments using Gemini API.
+2025-03-07 09:18:04,468 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-07 09:18:04,472 - INFO - API comment generated and saved to Thread-Details\API Comments\Google Voice and Bulk SMS Operation_I wonder if using a different browser profile for .txt
+2025-03-07 09:18:06,961 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-07 09:18:06,962 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-07 09:18:07,002 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-07 09:18:07,072 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-07 09:18:07,081 - DEBUG - Text box scrolled into view
+2025-03-07 09:18:07,672 - DEBUG - Initializing actionchains
+2025-03-07 09:18:07,732 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3583}, size: {'height': 21, 'width': 68}
+2025-03-07 09:18:07,732 - DEBUG - Target click coordinates: (1121, 3593)
+2025-03-07 09:18:07,733 - DEBUG - Moving mouse from (617, 566) to (1121, 3593).
+2025-03-07 09:18:07,734 - DEBUG - Generating Bezier path from (617, 566) to (1121, 3593) with 50 points.
+2025-03-07 09:18:07,734 - DEBUG - Control point: (715, 654)
+2025-03-07 09:18:07,737 - DEBUG - Generated Bezier path with 50 points.
+2025-03-07 09:18:07,744 - DEBUG - Moved mouse to (617, 566), delay: 0.0000
+2025-03-07 09:18:07,750 - DEBUG - Moved mouse to (621, 570), delay: 0.0054
+2025-03-07 09:18:07,755 - DEBUG - Moved mouse to (625, 577), delay: 0.0042
+2025-03-07 09:18:07,764 - DEBUG - Moved mouse to (630, 587), delay: 0.0085
+2025-03-07 09:18:07,773 - DEBUG - Moved mouse to (635, 599), delay: 0.0078
+2025-03-07 09:18:07,782 - DEBUG - Moved mouse to (640, 613), delay: 0.0082
+2025-03-07 09:18:07,791 - DEBUG - Moved mouse to (645, 630), delay: 0.0076
+2025-03-07 09:18:07,805 - DEBUG - Moved mouse to (651, 649), delay: 0.0121
+2025-03-07 09:18:07,815 - DEBUG - Moved mouse to (657, 670), delay: 0.0090
+2025-03-07 09:18:07,826 - DEBUG - Moved mouse to (663, 694), delay: 0.0097
+2025-03-07 09:18:07,839 - DEBUG - Moved mouse to (669, 720), delay: 0.0118
+2025-03-07 09:18:07,855 - DEBUG - Moved mouse to (676, 749), delay: 0.0141
+2025-03-07 09:18:07,871 - DEBUG - Moved mouse to (683, 780), delay: 0.0118
+2025-03-07 09:18:07,889 - DEBUG - Moved mouse to (690, 813), delay: 0.0167
+2025-03-07 09:18:07,906 - DEBUG - Moved mouse to (698, 849), delay: 0.0161
+2025-03-07 09:18:07,931 - DEBUG - Moved mouse to (705, 887), delay: 0.0230
+2025-03-07 09:18:07,950 - DEBUG - Moved mouse to (713, 927), delay: 0.0174
+2025-03-07 09:18:07,973 - DEBUG - Moved mouse to (722, 970), delay: 0.0227
+2025-03-07 09:18:07,996 - DEBUG - Moved mouse to (730, 1015), delay: 0.0215
+2025-03-07 09:18:08,025 - DEBUG - Moved mouse to (739, 1062), delay: 0.0271
+2025-03-07 09:18:08,045 - DEBUG - Moved mouse to (748, 1112), delay: 0.0186
+2025-03-07 09:18:08,074 - DEBUG - Moved mouse to (757, 1165), delay: 0.0276
+2025-03-07 09:18:08,105 - DEBUG - Moved mouse to (767, 1219), delay: 0.0279
+2025-03-07 09:18:08,126 - DEBUG - Moved mouse to (776, 1276), delay: 0.0186
+2025-03-07 09:18:08,150 - DEBUG - Moved mouse to (786, 1336), delay: 0.0222
+2025-03-07 09:18:08,185 - DEBUG - Moved mouse to (797, 1397), delay: 0.0330
+2025-03-07 09:18:08,220 - DEBUG - Moved mouse to (807, 1462), delay: 0.0299
+2025-03-07 09:18:08,255 - DEBUG - Moved mouse to (818, 1528), delay: 0.0305
+2025-03-07 09:18:08,289 - DEBUG - Moved mouse to (829, 1597), delay: 0.0305
+2025-03-07 09:18:08,328 - DEBUG - Moved mouse to (840, 1668), delay: 0.0370
+2025-03-07 09:18:08,362 - DEBUG - Moved mouse to (852, 1742), delay: 0.0322
+2025-03-07 09:18:08,389 - DEBUG - Moved mouse to (864, 1818), delay: 0.0254
+2025-03-07 09:18:08,418 - DEBUG - Moved mouse to (876, 1896), delay: 0.0258
+2025-03-07 09:18:08,460 - DEBUG - Moved mouse to (888, 1977), delay: 0.0397
+2025-03-07 09:18:08,499 - DEBUG - Moved mouse to (901, 2060), delay: 0.0375
+2025-03-07 09:18:08,532 - DEBUG - Moved mouse to (914, 2146), delay: 0.0317
+2025-03-07 09:18:08,563 - DEBUG - Moved mouse to (927, 2234), delay: 0.0289
+2025-03-07 09:18:08,591 - DEBUG - Moved mouse to (940, 2324), delay: 0.0253
+2025-03-07 09:18:08,619 - DEBUG - Moved mouse to (954, 2417), delay: 0.0269
+2025-03-07 09:18:08,648 - DEBUG - Moved mouse to (968, 2512), delay: 0.0249
+2025-03-07 09:18:08,680 - DEBUG - Moved mouse to (982, 2609), delay: 0.0285
+2025-03-07 09:18:08,728 - DEBUG - Moved mouse to (996, 2709), delay: 0.0468
+2025-03-07 09:18:08,776 - DEBUG - Moved mouse to (1011, 2811), delay: 0.0432
+2025-03-07 09:18:08,810 - DEBUG - Moved mouse to (1026, 2915), delay: 0.0303
+2025-03-07 09:18:08,840 - DEBUG - Moved mouse to (1041, 3022), delay: 0.0271
+2025-03-07 09:18:08,893 - DEBUG - Moved mouse to (1056, 3132), delay: 0.0511
+2025-03-07 09:18:08,946 - DEBUG - Moved mouse to (1072, 3243), delay: 0.0504
+2025-03-07 09:18:08,997 - DEBUG - Moved mouse to (1088, 3357), delay: 0.0485
+2025-03-07 09:18:09,045 - DEBUG - Moved mouse to (1104, 3474), delay: 0.0464
+2025-03-07 09:18:09,081 - DEBUG - Moved mouse to (1121, 3593), delay: 0.0339
+2025-03-07 09:18:09,083 - INFO - Successfully moved mouse to (1121, 3593) using Bezier curve.
+2025-03-07 09:18:09,085 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-07 09:18:09,086 - DEBUG - Moving mouse to text box element.
+2025-03-07 09:18:09,087 - DEBUG - Clicking on the text box.
+2025-03-07 09:18:09,090 - DEBUG - Sending keys with content: I wonder if using a different browser profile for each account might help keep them more separate.
+
+2025-03-07 09:18:14,589 - DEBUG - Clicking on post reply button.
+2025-03-07 09:18:15,845 - DEBUG - Performed Actionchains
+2025-03-07 09:18:15,849 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-07 09:18:19,850 - INFO - Comment posted successfully.
+2025-03-07 09:18:19,852 - INFO - Task Completed!!
+2025-03-07 09:18:23,572 - INFO - Navigated back to the homepage.
+2025-03-07 09:18:25,903 - INFO - Attempting to clear memory and resources.
+2025-03-07 09:18:25,979 - INFO - Garbage collection completed.
+2025-03-07 09:18:25,981 - INFO - Waiting for 10 seconds before next execution.
+

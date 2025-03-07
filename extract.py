@@ -620,7 +620,6 @@ def navigate_home(driver):
     except Exception as e:
          logger.error(f"Failed to navigate back to the homepage: {e}", exc_info=True)
 
-
 # --- Main Execution Loop ---
 
 if __name__ == "__main__":
