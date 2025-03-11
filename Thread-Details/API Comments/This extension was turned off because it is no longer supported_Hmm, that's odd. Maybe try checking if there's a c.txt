@@ -1,0 +1,1 @@
+Hmm, that's odd. Maybe try checking if there's a conflict with another extension you have running? Sometimes they can mess with each other.

@@ -1,0 +1,113 @@
+--- Main Post Title ---
+Twitter Mass-Mention - Assistance
+
+Total comments in the thread: 7
+
+Topic User: amr00t
+Topic: Hi guys,
+
+I have issue with Twitter Mass Mentions in that I have used over 2,000 twitter accounts to mass mention over 100k users/accounts which I scraped from some crypto influencers.
+
+So far, the first 500 where suspended before I could finish the 100k, the second 500 also suspended and I decided to buy 1,300 accounts as i speak, 1,000 of them are showing restricted (restricted because I stopped adding links to the post with links i goes suspended)
+
+Can someone please share with me what could be wrong?
+
+I do not use twtgo and twitterdub or any other software.
+I use my own software written personally in python
+
+I can see about 3 accounts in my notification mass-mentioning me frequently, in less than 24hours they get over 100k views.
+
+What am I doing wrong?
+
+If you are willing to share some tips to help me get better result, I can add functionalities to suite your custom need if you are also into mass-mentioning.
+My script uses the Twitter Internal API to get things done without the official rate limits.
+
+I don't mind donating for the information.
+Liked by: You, tharabbi and cpa37710t
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: aminehero97
+Topic: can i know wich software you use
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: henki
+Topic: Try these
+Warm up your accounts first.
+Limit each account to 50-200 mentions per day. You can also introduce random delays btwn mentions.
+Make sure you have Quality accounts(Aged with history, phone verified) most sold have weak reputations, recycled credentials, or prior flags.
+Limit one account per device fingerprint.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: imccafey
+Topic: aminehero97 said:
+can i know wich software you use
+This post is from a year ago... Also it says there they use proprietary software (not the commercially available ones).
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: candancemandece
+Topic: share your telegram i can help you if this still is relevent.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Zeco
+Topic: There is a way I could help you automate the process and do the mass mention one by one with automation without being detected at all and using multiple twitter account
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: favorit555
+Topic: amr00t said:
+Привет, ребята,
+
+У меня возникла проблема с массовыми упоминаниями в Twitter, поскольку я использовал более 2000 аккаунтов Twitter для массового упоминания более 100 тыс. пользователей/аккаунтов, которые я собрал у некоторых влиятельных лиц в сфере криптовалют.
+
+Пока что первые 500 были заблокированы до того, как я смог закончить 100 тыс., вторые 500 также заблокированы, и я решил купить 1300 аккаунтов, пока я говорю, 1000 из них показываются ограниченными (ограниченными, потому что я перестал добавлять ссылки в пост со ссылками, которые были заблокированы)
+
+Может ли кто-нибудь поделиться со мной информацией, в чем может быть проблема?
+
+Я не использую twtgo и twitterdub или какое-либо другое программное обеспечение.
+Я использую собственное программное обеспечение, написанное лично на Python.
+
+В своих уведомлениях я вижу около 3 аккаунтов, которые часто массово меня упоминают, менее чем за 24 часа они набирают более 100 тыс. просмотров.
+
+Что я делаю не так?
+
+Если вы готовы поделиться советами, которые помогут мне добиться лучших результатов, я могу добавить функции, соответствующие вашим индивидуальным потребностям, если вы также занимаетесь массовыми упоминаниями.
+Мой скрипт использует внутренний API Twitter, чтобы работать без официальных ограничений по скорости.
+
+Я не против пожертвовать деньги за информацию.
+Click to expand...
+I am currently testing this method, I also wrote myself a script based on Bas, the comments must be as different as possible, the error if repeated several times after 200 times, constantly updating your constantly updating your database of answers, random interval between answers, scrolling on the site, add a maximum of human actions, it should work fine
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

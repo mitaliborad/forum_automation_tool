@@ -1,0 +1,106 @@
+--- Main Post Title ---
+Can someone help with installing mongodb?
+
+Total comments in the thread: 7
+
+Topic User: daddybot
+Topic: i have server on which i need to install mongodb, but when i add all keys and sources and do
+Bash:
+apt update
+i get 403 forbidden.
+
+in. my opinion i think servers IP is blacklisted. is there some solution to bypass and install, or just idk.
+High-Performance VPS & Dedicated Servers – Blazing Fast, Secure, & Affordable!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: back2form
+Topic: A 403 Forbidden error can occur for a number of reasons, including a mistyped URL, a browser cache that needs to be cleared, or a faulty plugin or You can contact your Internet Service Provider (ISP).
+
+Also try Temporarily disable your VPN: A VPN can trigger a 403 Forbidden error if the website blocks access from VPN servers.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: daddybot
+Topic: back2form said:
+A 403 Forbidden error can occur for a number of reasons, including a mistyped URL, a browser cache that needs to be cleared, or a faulty plugin or You can contact your Internet Service Provider (ISP).
+
+Also try Temporarily disable your VPN: A VPN can trigger a 403 Forbidden error if the website blocks access from VPN servers.
+actually its servers IP blacklisted, temp solution can be adding proxy on ubuntu/debian server and run apt update and install mongodb. after that remove proxy from server
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Funiki
+Topic: If everything above is right, have you check the .htaccess file? Do you have uploaded and unzipped already a web - app project?
+
+Why do i ask? If you have your project in your public/html and you are trying to access to your website i.e yourwebsite . Com and the server returns 403 forbidden it might be your website htaccess file , edit - remove or rename and test again.
+
+If your issue persists , did you check your console error log? Could be folder permissions , a missing file or just that the mongodb is not installed .
+
+Your CMS is important to know here , with Laravel you can use APP_DEBUG to check what your issues
+What CMS you are currently using?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: daddybot
+Topic: Funiki said:
+If everything above is right, have you check the .htaccess file? Do you have uploaded and unzipped already a web - app project?
+
+Why do i ask? If you have your project in your public/html and you are trying to access to your website i.e yourwebsite . Com and the server returns 403 forbidden it might be your website htaccess file , edit - remove or rename and test again.
+
+If your issue persists , did you check your console error log? Could be folder permissions , a missing file or just that the mongodb is not installed .
+
+Your CMS is important to know here , with Laravel you can use APP_DEBUG to check what your issues
+What CMS you are currently using?
+Click to expand...
+
+its nothing to do with CMS or any script. server is new, legit new new. thing is that IP from server was banned. i just needed to add proxy to update and get package active and installed.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: digitalvisibility
+Topic: Alternatively, consider downloading the MongoDB package on a local machine and transferring it to the server manually.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: r1ch11r1ch
+Topic: daddybot said:
+i have server on which i need to install mongodb, but when i add all keys and sources and do
+Bash:
+apt update
+i get 403 forbidden.
+
+in. my opinion i think servers IP is blacklisted. is there some solution to bypass and install, or just idk.
+Click to expand...
+Elaborate further -> send full error output
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

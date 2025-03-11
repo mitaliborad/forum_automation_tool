@@ -1,0 +1,103 @@
+2025-03-11 09:14:20,401 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_091420.log
+2025-03-11 09:14:20,402 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 09:14:20,404 - INFO - Loaded 115 visited threads from Thread_links.txt
+2025-03-11 09:14:20,404 - INFO - Successfully loaded links that was already visited!
+2025-03-11 09:14:20,405 - DEBUG - Scrolling page 6 times.
+2025-03-11 09:14:20,405 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:21,866 - DEBUG - Page scrolled.
+2025-03-11 09:14:23,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:24,916 - DEBUG - Page scrolled.
+2025-03-11 09:14:26,932 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:28,838 - DEBUG - Page scrolled.
+2025-03-11 09:14:30,840 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:32,266 - DEBUG - Page scrolled.
+2025-03-11 09:14:34,269 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:35,543 - DEBUG - Page scrolled.
+2025-03-11 09:14:37,546 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:39,533 - DEBUG - Page scrolled.
+2025-03-11 09:14:41,535 - DEBUG - Random scrolls complete.
+2025-03-11 09:14:41,536 - DEBUG - Scrolling page 6 times.
+2025-03-11 09:14:41,538 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:42,908 - DEBUG - Page scrolled.
+2025-03-11 09:14:44,909 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:46,702 - DEBUG - Page scrolled.
+2025-03-11 09:14:48,704 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:50,181 - DEBUG - Page scrolled.
+2025-03-11 09:14:52,183 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:53,477 - DEBUG - Page scrolled.
+2025-03-11 09:14:55,479 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:56,550 - DEBUG - Page scrolled.
+2025-03-11 09:14:58,552 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:59,776 - DEBUG - Page scrolled.
+2025-03-11 09:15:01,791 - DEBUG - Random scrolls complete.
+2025-03-11 09:15:15,002 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-03-11 09:15:20,450 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/anonymous-dmca-ignoring-hosting.1690609/unread
+2025-03-11 09:15:29,339 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/anonymous-dmca-ignoring-hosting.1690609/unread
+2025-03-11 09:15:29,342 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/anonymous-dmca-ignoring-hosting.1690609/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 09:15:29,392 - INFO - Extracted thread title: Anonymous DMCA-Ignoring Hosting
+2025-03-11 09:15:29,394 - DEBUG - Scrolling page 2 times.
+2025-03-11 09:15:29,394 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:31,321 - DEBUG - Page scrolled.
+2025-03-11 09:15:33,323 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:35,105 - DEBUG - Page scrolled.
+2025-03-11 09:15:37,107 - DEBUG - Random scrolls complete.
+2025-03-11 09:15:39,324 - DEBUG - Scrolling page 2 times.
+2025-03-11 09:15:39,325 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:40,656 - DEBUG - Page scrolled.
+2025-03-11 09:15:43,657 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:45,232 - DEBUG - Page scrolled.
+2025-03-11 09:15:48,236 - DEBUG - Random scrolls complete.
+2025-03-11 09:15:48,252 - DEBUG - Found 12 like buttons.
+2025-03-11 09:15:51,254 - INFO - Attempting to like 4 posts. There are 12 available.
+2025-03-11 09:15:52,030 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:15:52,044 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:15:52,051 - DEBUG - Liked post number 1 of 4.
+2025-03-11 09:15:56,933 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:15:56,943 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:15:56,944 - DEBUG - Liked post number 2 of 4.
+2025-03-11 09:16:01,921 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:16:01,945 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:16:01,952 - DEBUG - Liked post number 3 of 4.
+2025-03-11 09:16:07,519 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:16:07,529 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:16:07,530 - DEBUG - Liked post number 4 of 4.
+2025-03-11 09:16:12,304 - INFO - Liked 4 posts successfully.
+2025-03-11 09:16:12,305 - INFO - Liked 4 posts successfully.
+2025-03-11 09:16:15,158 - DEBUG - Scrolling page 3 times.
+2025-03-11 09:16:15,166 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:16:17,036 - DEBUG - Page scrolled.
+2025-03-11 09:16:20,040 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:16:21,927 - DEBUG - Page scrolled.
+2025-03-11 09:16:24,931 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:16:26,023 - DEBUG - Page scrolled.
+2025-03-11 09:16:29,027 - DEBUG - Random scrolls complete.
+2025-03-11 09:16:31,402 - DEBUG - Total comments in the thread: 13
+2025-03-11 09:16:32,469 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Anonymous DMCA-Ignoring Hosting.txt
+2025-03-11 09:16:35,268 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 09:16:35,313 - DEBUG - Extracted main post content: High uptime required. Bonus if you can pay with Monero/XMR.
+
+Does such a host exist?
+2025-03-11 09:16:39,027 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 09:16:39,039 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 09:16:41,437 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:16:41,438 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:16:41,452 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:16:41,506 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:16:41,516 - DEBUG - Text box scrolled into view
+2025-03-11 09:16:42,296 - DEBUG - Initializing actionchains
+2025-03-11 09:16:42,331 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4576}, size: {'height': 21, 'width': 68}
+2025-03-11 09:16:42,332 - DEBUG - Target click coordinates: (1121, 4586)
+2025-03-11 09:16:56,151 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 09:16:56,151 - DEBUG - Moving mouse to text box element.
+2025-03-11 09:16:56,152 - DEBUG - Clicking on the text box.
+2025-03-11 09:16:56,153 - DEBUG - Sending keys with content: Finding a host that ticks all those boxes can be tricky, but have you checked out any smaller, privacy-focused providers? They might be more open to crypto.
+
+2025-03-11 09:17:01,759 - DEBUG - Clicking on post reply button.
+2025-03-11 09:17:13,078 - DEBUG - Performed Actionchains
+2025-03-11 09:17:13,080 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 09:17:17,084 - INFO - Comment posted successfully.
+2025-03-11 09:17:17,085 - INFO - Task Completed!!
+2025-03-11 09:17:27,227 - INFO - Navigated back to the homepage.
+2025-03-11 09:17:29,256 - INFO - Attempting to clear memory and resources.
+2025-03-11 09:17:29,294 - INFO - Garbage collection completed.
+2025-03-11 09:17:29,295 - INFO - Waiting for 1000 seconds before next execution.

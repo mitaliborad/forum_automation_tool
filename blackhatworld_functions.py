@@ -299,6 +299,7 @@ def extract_post_content(logger, driver, output_file):
 
         with open(output_file, "w", encoding="utf-8") as file:
             try:
+                #for main post title
                 main_post_element = WebDriverWait(driver, 10).until(
                     EC.presence_of_element_located((By.XPATH, "//h1"))
                 )
@@ -312,6 +313,7 @@ def extract_post_content(logger, driver, output_file):
                 )
 
             try:
+                #for all comments in the page
                 all_comments = driver.find_elements(
                     By.XPATH, "//footer//a[contains(@class, 'actionBar-action--reply')]"
                 )
@@ -326,6 +328,7 @@ def extract_post_content(logger, driver, output_file):
 
             first_post = True
 
+            # select one post among all posts
             for post_element in all_posts_elements:
                 try:
                     link_element = post_element.find_element(By.XPATH, ".//div[@data-lb-id]")
@@ -335,33 +338,63 @@ def extract_post_content(logger, driver, output_file):
                     post_id = "No ID Found"
                     logging.error(f"Could not extract post ID. Error: {e}", exc_info=True)
 
+                # Username
                 topic_username = extract_element_text(logger, post_element, ".//h4//a//span")
                 file.write(f"Topic User: {topic_username}\n")
                 logging.debug(f"Topic User: {topic_username}")
 
+                # thread content
                 topic_locator = ".//div[@class='message-content js-messageContent']"
                 topic = extract_element_text(logger, post_element, topic_locator)
                 file.write(f"Topic: {topic}\n")
                 logging.debug(f"Topic: {topic}")
 
                 try:
-                    like_user_locator = ".//a[@data-xf-click='overlay'][bdi]"
-                    like_user_element = WebDriverWait(post_element, 3).until(
-                        EC.presence_of_element_located((By.XPATH, like_user_locator))
-                    )
-                    like_user_text = like_user_element.text.strip()
+                    # likes
+                    like_user_locator = ".//a[@data-xf-click='overlay'][@data-cache='false'][@rel='nofollow']"
+                    like_element = WebDriverWait(post_element, 10).until(
+                         EC.presence_of_element_located((By.XPATH, like_user_locator)))
+                    # )
+                    # like_user_text = like_user_elements.text.strip()
 
-                    parts = re.split(r", | and ", like_user_text)
-                    other_count = 0
-                    if parts and "others" in parts[-1]:
-                        try:
-                            other_count = int(re.search(r'(\d+)', parts[-1]).group(1))
-                            parts = parts[:-1]
-                        except:
-                            other_count = 0
+                    # parts = re.split(r", | and ", like_user_text)
+                    # other_count = 0
+                    # if parts and "others" in parts[-1]:
+                    #     try:
+                    #         other_count = int(re.search(r'(\d+)', parts[-1]).group(1))
+                    #         parts = parts[:-1]
+                    #     except:
+                    #         other_count = 0
 
-                    like_users = [user.strip() for user in parts if user.strip()]
-                    like_count = len(like_users) + other_count
+                    # like_users = [user.strip() for user in parts if user.strip()]
+                    # if "You and" in like_text:
+                    #     like_users.append("You")
+                    #     other_likes = like_element.find_elements(By.XPATH,".//bdi")
+                    #     for other_like in other_likes:
+                    #         like_users.append(other_like.text.strip())
+
+                    # like_count = len(like_users) + other_count
+                    #like_element = post_element.find_element(By.XPATH, like_user_locator)
+
+                    like_text = like_element.text.strip()
+                    like_users = []
+
+                    if "You and" in like_text:  # Check if "You and" is present
+                        like_users.append("You")  # Add "You" to the list
+                        other_likes = like_element.find_elements(By.XPATH, ".//bdi")  # Find other users
+                        for other_like in other_likes:
+                            like_users.append(other_like.text.strip())  # Add other user names
+
+                    elif "You" in like_text:  # If only "You" has liked
+                         like_users.append("You")
+                    else:
+                         other_likes = like_element.find_elements(By.XPATH, ".//bdi")  # Find other users
+                         for other_like in other_likes:
+                             like_users.append(other_like.text.strip())  # Add other user names
+
+
+                    like_count = len(like_users)  # Count all users who liked
+                    like_user_text = ", ".join(like_users) 
 
                     file.write(f"Liked by: {like_user_text}\n")
                     file.write(f"Number of likes: {like_count}\n")
@@ -531,8 +564,11 @@ def clear_memory(logger):
 
 
 # find random thread link from Sub-Forum-link
+# find random thread link from Sub-Forum-link
 def find_random_thread_link_from_subforum(logger, driver, subforum_url, visited_threads):
-    """Navigates to a subforum and finds a random thread link."""
+    """Navigates to a subforum and finds a random thread link, avoiding deleted threads."""
+    deleted_thread_xpath = "//a[contains(@href, '/seo/deleted.') and normalize-space(text())='deleted']"  # Define the XPath here
+
     try:
         driver.get(subforum_url)
         logger.info(f"Navigated to subforum: {subforum_url}")
@@ -543,6 +579,7 @@ def find_random_thread_link_from_subforum(logger, driver, subforum_url, visited_
         )
         all_threads = driver.find_elements(By.XPATH, "//div[contains(@class, 'structItem')]")
         unvisited_threads = []
+
         for thread in all_threads:
             try:
                 sticky_span = thread.find_elements(
@@ -560,14 +597,25 @@ def find_random_thread_link_from_subforum(logger, driver, subforum_url, visited_
                 if title_elements:
                     href = title_elements[0].get_attribute("href")
                     if href not in visited_threads:
-                        unvisited_threads.append(title_elements[0])
+                         # *NEW: Check if the thread is a "deleted" thread*
+                         try:
+                             deleted_elements = thread.find_elements(By.XPATH, deleted_thread_xpath)
+                             if not deleted_elements:  # If no "deleted" elements are found
+                                 unvisited_threads.append(title_elements[0])  # Append unvisited and NOT deleted thread
+
+                             else:
+                                 logger.warning(f"Skipping deleted thread: {href}")
+
+                         except Exception as e:
+                              logger.warning(f"Error checking if thread is deleted: {e}, assuming not deleted.")
+                              unvisited_threads.append(title_elements[0]) # If any error happens consider it not deleted
 
             except Exception as e:
-                print(f"Skipping a thread due to error: {e}")
+                logger.warning(f"Skipping a thread due to error: {e}")
 
         if not unvisited_threads:
             logger.warning(
-                f"No unvisited thread links found in subforum: {subforum_url}"
+                f"No unvisited, non-deleted thread links found in subforum: {subforum_url}"
             )
             return None
 
@@ -581,6 +629,7 @@ def find_random_thread_link_from_subforum(logger, driver, subforum_url, visited_
             f"Error finding random thread link in subforum: {e}", exc_info=True
         )
         return None
+
 
 
 # after automation it navigate home page

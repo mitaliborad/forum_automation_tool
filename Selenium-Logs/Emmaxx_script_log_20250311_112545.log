@@ -1,0 +1,5 @@
+2025-03-11 11:25:45,487 - INFO - Starting automation for profile: Emmaxx
+2025-03-11 11:26:07,858 - INFO - Profile Emmaxx: Successfully logged in.
+2025-03-11 11:26:07,860 - INFO - Profile Emmaxx: Starting profile ece3d7b0-6dd3-4189-94c7-20c2dfa82943...
+2025-03-11 11:26:07,958 - ERROR - Profile Emmaxx: Error starting profile: {"status":{"error_code":"PROFILE_ALREADY_RUNNING","http_code":400,"message":"browser process is running"}}
+2025-03-11 11:26:07,961 - ERROR - Failed to start MultiLogin profile: Emmaxx. Skipping.

@@ -1,0 +1,102 @@
+2025-03-11 11:33:55,288 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_113355.log
+2025-03-11 11:33:55,289 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 11:33:55,295 - INFO - Loaded 131 visited threads from Thread_links.txt
+2025-03-11 11:33:55,296 - INFO - Successfully loaded links that was already visited!
+2025-03-11 11:33:55,297 - DEBUG - Scrolling page 6 times.
+2025-03-11 11:33:55,300 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:33:56,752 - DEBUG - Page scrolled.
+2025-03-11 11:33:58,753 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:00,289 - DEBUG - Page scrolled.
+2025-03-11 11:34:02,292 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:04,228 - DEBUG - Page scrolled.
+2025-03-11 11:34:06,231 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:07,985 - DEBUG - Page scrolled.
+2025-03-11 11:34:09,989 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:11,311 - DEBUG - Page scrolled.
+2025-03-11 11:34:13,314 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:15,003 - DEBUG - Page scrolled.
+2025-03-11 11:34:17,006 - DEBUG - Random scrolls complete.
+2025-03-11 11:34:17,008 - DEBUG - Scrolling page 4 times.
+2025-03-11 11:34:17,010 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:18,599 - DEBUG - Page scrolled.
+2025-03-11 11:34:20,601 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:22,105 - DEBUG - Page scrolled.
+2025-03-11 11:34:24,112 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:25,560 - DEBUG - Page scrolled.
+2025-03-11 11:34:27,561 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:28,839 - DEBUG - Page scrolled.
+2025-03-11 11:34:30,840 - DEBUG - Random scrolls complete.
+2025-03-11 11:34:31,606 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-03-11 11:34:46,005 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-redirect-a-tumblr-to-external-website.1463383/unread
+2025-03-11 11:34:54,671 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-redirect-a-tumblr-to-external-website.1463383/unread
+2025-03-11 11:34:54,676 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-redirect-a-tumblr-to-external-website.1463383/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 11:34:54,725 - INFO - Extracted thread title: How to redirect a tumblr to external website
+2025-03-11 11:34:54,726 - DEBUG - Scrolling page 3 times.
+2025-03-11 11:34:54,727 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:56,345 - DEBUG - Page scrolled.
+2025-03-11 11:34:58,347 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:00,233 - DEBUG - Page scrolled.
+2025-03-11 11:35:02,235 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:04,096 - DEBUG - Page scrolled.
+2025-03-11 11:35:06,101 - DEBUG - Random scrolls complete.
+2025-03-11 11:35:09,068 - DEBUG - Scrolling page 3 times.
+2025-03-11 11:35:09,070 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:10,857 - DEBUG - Page scrolled.
+2025-03-11 11:35:13,860 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:15,015 - DEBUG - Page scrolled.
+2025-03-11 11:35:18,018 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:19,607 - DEBUG - Page scrolled.
+2025-03-11 11:35:22,608 - DEBUG - Random scrolls complete.
+2025-03-11 11:35:22,644 - DEBUG - Found 9 like buttons.
+2025-03-11 11:35:25,646 - INFO - Attempting to like 1 posts. There are 9 available.
+2025-03-11 11:35:26,271 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 11:35:26,283 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 11:35:26,284 - DEBUG - Liked post number 1 of 1.
+2025-03-11 11:35:31,015 - INFO - Liked 1 posts successfully.
+2025-03-11 11:35:31,018 - INFO - Liked 1 posts successfully.
+2025-03-11 11:35:33,539 - DEBUG - Scrolling page 7 times.
+2025-03-11 11:35:33,542 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:35,449 - DEBUG - Page scrolled.
+2025-03-11 11:35:38,452 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:39,866 - DEBUG - Page scrolled.
+2025-03-11 11:35:42,869 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:44,092 - DEBUG - Page scrolled.
+2025-03-11 11:35:47,094 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:48,178 - DEBUG - Page scrolled.
+2025-03-11 11:35:51,180 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:52,837 - DEBUG - Page scrolled.
+2025-03-11 11:35:55,839 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:57,491 - DEBUG - Page scrolled.
+2025-03-11 11:36:00,494 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:36:01,637 - DEBUG - Page scrolled.
+2025-03-11 11:36:04,639 - DEBUG - Random scrolls complete.
+2025-03-11 11:36:07,276 - DEBUG - Total comments in the thread: 9
+2025-03-11 11:37:21,075 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to redirect a tumblr to external website.txt
+2025-03-11 11:37:23,581 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 11:37:23,662 - DEBUG - Extracted main post content: How to redirect a tumblr to external website?
+
+I tried these old meta and javascript codes by editing the theme code and seems are not working anymore.. any help ?
+2025-03-11 11:37:28,806 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 11:37:28,808 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 11:37:31,705 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:37:31,708 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:37:31,748 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:37:31,854 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:37:31,875 - DEBUG - Text box scrolled into view
+2025-03-11 11:37:32,532 - DEBUG - Initializing actionchains
+2025-03-11 11:37:32,612 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3241}, size: {'height': 21, 'width': 68}
+2025-03-11 11:37:32,614 - DEBUG - Target click coordinates: (1121, 3251)
+2025-03-11 11:37:43,033 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 11:37:43,035 - DEBUG - Moving mouse to text box element.
+2025-03-11 11:37:43,035 - DEBUG - Clicking on the text box.
+2025-03-11 11:37:43,036 - DEBUG - Sending keys with content: Ah man, Tumblr's always changing things up. Have you looked into using a custom domain and redirecting that instead? Might be a workaround.
+
+2025-03-11 11:37:48,452 - DEBUG - Clicking on post reply button.
+2025-03-11 11:37:49,778 - DEBUG - Performed Actionchains
+2025-03-11 11:37:49,780 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 11:37:53,785 - INFO - Comment posted successfully.
+2025-03-11 11:37:53,788 - INFO - Task Completed!!
+2025-03-11 11:37:56,310 - INFO - Navigated back to the homepage.
+2025-03-11 11:37:58,834 - INFO - Attempting to clear memory and resources.
+2025-03-11 11:37:58,871 - INFO - Garbage collection completed.
+2025-03-11 11:37:58,872 - INFO - Waiting for 100 seconds before next execution.

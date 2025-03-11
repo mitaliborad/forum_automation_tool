@@ -1,0 +1,97 @@
+2025-03-11 09:30:56,851 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_093056.log
+2025-03-11 09:30:56,853 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 09:30:56,855 - INFO - Loaded 117 visited threads from Thread_links.txt
+2025-03-11 09:30:56,860 - INFO - Successfully loaded links that was already visited!
+2025-03-11 09:30:56,861 - DEBUG - Scrolling page 5 times.
+2025-03-11 09:30:56,863 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:30:58,380 - DEBUG - Page scrolled.
+2025-03-11 09:31:00,381 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:01,680 - DEBUG - Page scrolled.
+2025-03-11 09:31:03,683 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:05,302 - DEBUG - Page scrolled.
+2025-03-11 09:31:07,305 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:08,324 - DEBUG - Page scrolled.
+2025-03-11 09:31:10,327 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:11,533 - DEBUG - Page scrolled.
+2025-03-11 09:31:13,536 - DEBUG - Random scrolls complete.
+2025-03-11 09:31:13,537 - DEBUG - Scrolling page 5 times.
+2025-03-11 09:31:13,538 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:14,626 - DEBUG - Page scrolled.
+2025-03-11 09:31:16,628 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:17,970 - DEBUG - Page scrolled.
+2025-03-11 09:31:19,972 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:21,789 - DEBUG - Page scrolled.
+2025-03-11 09:31:23,792 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:25,084 - DEBUG - Page scrolled.
+2025-03-11 09:31:27,087 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:28,891 - DEBUG - Page scrolled.
+2025-03-11 09:31:30,895 - DEBUG - Random scrolls complete.
+2025-03-11 09:31:40,993 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-03-11 09:31:45,670 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-do-you-get-additional-adsense-accounts-without-any-family-members-friends-other-people-involved.1693593/unread
+2025-03-11 09:31:54,295 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-do-you-get-additional-adsense-accounts-without-any-family-members-friends-other-people-involved.1693593/unread
+2025-03-11 09:31:54,300 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-do-you-get-additional-adsense-accounts-without-any-family-members-friends-other-people-involved.1693593/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 09:31:54,395 - INFO - Extracted thread title: How do you get additional AdSense accounts without any family membersfriendsother people involved
+2025-03-11 09:31:54,398 - DEBUG - Scrolling page 2 times.
+2025-03-11 09:31:54,400 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:55,750 - DEBUG - Page scrolled.
+2025-03-11 09:31:57,753 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:59,273 - DEBUG - Page scrolled.
+2025-03-11 09:32:01,277 - DEBUG - Random scrolls complete.
+2025-03-11 09:32:03,509 - DEBUG - Scrolling page 2 times.
+2025-03-11 09:32:03,511 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:05,079 - DEBUG - Page scrolled.
+2025-03-11 09:32:08,083 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:09,765 - DEBUG - Page scrolled.
+2025-03-11 09:32:12,768 - DEBUG - Random scrolls complete.
+2025-03-11 09:32:12,807 - DEBUG - Found 13 like buttons.
+2025-03-11 09:32:15,809 - INFO - Attempting to like 2 posts. There are 13 available.
+2025-03-11 09:32:16,778 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:32:16,861 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:32:16,862 - DEBUG - Liked post number 1 of 2.
+2025-03-11 09:32:22,303 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:32:22,327 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:32:22,329 - DEBUG - Liked post number 2 of 2.
+2025-03-11 09:32:27,045 - INFO - Liked 2 posts successfully.
+2025-03-11 09:32:27,049 - INFO - Liked 2 posts successfully.
+2025-03-11 09:32:29,791 - DEBUG - Scrolling page 5 times.
+2025-03-11 09:32:29,794 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:31,772 - DEBUG - Page scrolled.
+2025-03-11 09:32:34,775 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:36,228 - DEBUG - Page scrolled.
+2025-03-11 09:32:39,231 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:40,997 - DEBUG - Page scrolled.
+2025-03-11 09:32:43,999 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:45,569 - DEBUG - Page scrolled.
+2025-03-11 09:32:48,576 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:50,447 - DEBUG - Page scrolled.
+2025-03-11 09:32:53,450 - DEBUG - Random scrolls complete.
+2025-03-11 09:32:56,285 - DEBUG - Total comments in the thread: 13
+2025-03-11 09:33:28,838 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How do you get additional AdSense accounts without any family membersfriendsother people involved.txt
+2025-03-11 09:33:31,632 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 09:33:31,681 - DEBUG - Extracted main post content: I don't trust Google so I want backup AdSense accounts. The thing is I cannot also trust anyone to receive the PIN and enter their data on there.
+
+So is there a way to get extra AdSense accounts to have more channels and not risk shadowbans, viewthrottles etc and not have to trust 3rd parties with this?
+2025-03-11 09:33:36,983 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 09:33:36,986 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 09:33:39,923 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:33:39,926 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:33:39,963 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:33:40,011 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:33:40,021 - DEBUG - Text box scrolled into view
+2025-03-11 09:33:40,820 - DEBUG - Initializing actionchains
+2025-03-11 09:33:40,868 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4670}, size: {'height': 21, 'width': 68}
+2025-03-11 09:33:40,869 - DEBUG - Target click coordinates: (1121, 4680)
+2025-03-11 09:33:53,747 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 09:33:53,748 - DEBUG - Moving mouse to text box element.
+2025-03-11 09:33:53,748 - DEBUG - Clicking on the text box.
+2025-03-11 09:33:53,749 - DEBUG - Sending keys with content: Honestly, juggling multiple accounts sounds like a headache waiting to happen; have you looked into optimizing your existing one instead?
+
+2025-03-11 09:33:58,961 - DEBUG - Clicking on post reply button.
+2025-03-11 09:34:10,100 - DEBUG - Performed Actionchains
+2025-03-11 09:34:10,101 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 09:34:14,103 - INFO - Comment posted successfully.
+2025-03-11 09:34:14,104 - INFO - Task Completed!!
+2025-03-11 09:34:22,820 - INFO - Navigated back to the homepage.
+2025-03-11 09:34:25,805 - INFO - Attempting to clear memory and resources.
+2025-03-11 09:34:25,837 - INFO - Garbage collection completed.
+2025-03-11 09:34:25,838 - INFO - Waiting for 10 seconds before next execution.

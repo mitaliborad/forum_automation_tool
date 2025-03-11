@@ -19,13 +19,13 @@ import threading
 
 # --- Automation Configuration ---
 LOG_DIRECTORY = "Selenium-Logs"
-AUTOMATION_WAIT_TIME = 10
+AUTOMATION_WAIT_TIME = 100
 MIN_SCROLLS = 3
 MAX_SCROLLS = 7
 SCROLL_AMOUNT = 500
 SCROLL_DELAY = 2
 MIN_LIKES = 1
-MAX_LIKES = 5
+MAX_LIKES = 3
 MIN_SCROLLS_POSTS = 1
 MAX_SCROLLS_POSTS = 5
 SCROLL_DELAY_LIKES = 3
@@ -34,7 +34,7 @@ BASE_SPEED = 0.001
 SUB_FORUM_LIST_FILE = "Sub-Forum-List.txt"
 VISITED_THREADS_FILE = "Thread_links.txt"
 start_time = datetime.now()
-run_duration = timedelta(minutes = 3) 
+run_duration = timedelta(hours=2) 
 
 
 # Logger setup
@@ -106,4 +106,4 @@ class MouseMovement:
             #logger.debug(f"Moved mouse to ({x}, {y}), delay: {delay:.4f}")
         #logger.info(
             #f"Successfully moved mouse to ({target_x}, {target_y}) using Bezier curve."
-        #)
+        

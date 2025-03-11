@@ -1,0 +1,79 @@
+--- Main Post Title ---
+This extension was turned off because it is no longer supported
+
+Total comments in the thread: 7
+
+Topic User: KaytlynJolie
+Topic: I'm using ublock origin to optimize bandwidth but I'm having a very strange problem. When I haven't turned on the proxy, everything is normal, but when I finish configuring ublock origin and closing the browser, assigning the proxy, I see this message "This extension was turned off because it is no longer supported" and I have to reopen it manually. But the bad thing is that even though I block ads, the capacity is still much larger than before.
+i don't understand why
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: StereotypicalNerd
+Topic: Google Chrome is automatically disabling several extensions, including uBlock Origin.
+Despite warning messages within the browser, uBlock Origin continues to function. However, users must manually reactivate it.
+It’s unclear how long uBlock Origin and other extensions that rely on the older Manifest v2 technology will continue to function.
+
+just switch to adblock...
+Liked by: You and KaytlynJolie
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: KaytlynJolie
+Topic: StereotypicalNerd said:
+just switch to adblock...
+thank , Do you have any suggestions for software to block hidden link loading to save bandwidth?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: imccafey
+Topic: I heard AdGuard is paired usually with ublock so go for that and there's also Adblock Plus (lets you custom block specific elements). Although, for most parts, these make Youtube a buggy mess (had them on and still bugs out YT even when you have premium so had to stop them running on YT). I suspect that list is gonna steadily decline for Chrome though. If you already use a VPN, some offer adblockers and anti-trackers so I'd say look into that, if you're so inclined.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: RoiBox
+Topic: KaytlynJolie said:
+"This extension was turned off because it is no longer supported"
+Whatever you do don`t uninstall it, just push the manage settings button and turn it on again at least on uBlock that works for now, if you uninstall it you can not install it again since chrome dont allow them now.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: vosyput2003
+Topic: Use adblock or you can use brave it have an adblock by default
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: KaytlynJolie
+Topic: RoiBox said:
+Whatever you do don`t uninstall it, just push the manage settings button and turn it on again at least on uBlock that works for now, if you uninstall it you can not install it again since chrome dont allow them now.
+thanks
+Liked by: RoiBox
+Number of likes: 1
+-----
+
+Replies:
+
+

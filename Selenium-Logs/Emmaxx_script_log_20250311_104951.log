@@ -1,0 +1,108 @@
+2025-03-11 10:49:51,299 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_104951.log
+2025-03-11 10:49:51,300 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 10:49:51,301 - INFO - Loaded 128 visited threads from Thread_links.txt
+2025-03-11 10:49:51,302 - INFO - Successfully loaded links that was already visited!
+2025-03-11 10:49:51,302 - DEBUG - Scrolling page 5 times.
+2025-03-11 10:49:51,303 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:49:59,486 - DEBUG - Page scrolled.
+2025-03-11 10:50:01,491 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:03,220 - DEBUG - Page scrolled.
+2025-03-11 10:50:05,224 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:06,401 - DEBUG - Page scrolled.
+2025-03-11 10:50:08,404 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:09,582 - DEBUG - Page scrolled.
+2025-03-11 10:50:11,585 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:13,155 - DEBUG - Page scrolled.
+2025-03-11 10:50:15,159 - DEBUG - Random scrolls complete.
+2025-03-11 10:50:15,163 - DEBUG - Scrolling page 4 times.
+2025-03-11 10:50:15,165 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:16,827 - DEBUG - Page scrolled.
+2025-03-11 10:50:18,829 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:20,068 - DEBUG - Page scrolled.
+2025-03-11 10:50:22,071 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:24,047 - DEBUG - Page scrolled.
+2025-03-11 10:50:26,050 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:28,002 - DEBUG - Page scrolled.
+2025-03-11 10:50:30,007 - DEBUG - Random scrolls complete.
+2025-03-11 10:50:34,994 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-03-11 10:50:39,860 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-help-with-payoneer-beneficiary-name-verification.1694353/unread
+2025-03-11 10:50:47,944 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-help-with-payoneer-beneficiary-name-verification.1694353/unread
+2025-03-11 10:50:47,952 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-help-with-payoneer-beneficiary-name-verification.1694353/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 10:50:48,024 - INFO - Extracted thread title: Need Help with Payoneer Beneficiary Name Verification
+2025-03-11 10:50:48,030 - DEBUG - Scrolling page 3 times.
+2025-03-11 10:50:48,031 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:49,523 - DEBUG - Page scrolled.
+2025-03-11 10:50:51,523 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:52,596 - DEBUG - Page scrolled.
+2025-03-11 10:50:54,599 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:55,825 - DEBUG - Page scrolled.
+2025-03-11 10:50:57,827 - DEBUG - Random scrolls complete.
+2025-03-11 10:50:59,942 - DEBUG - Scrolling page 2 times.
+2025-03-11 10:50:59,945 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:01,594 - DEBUG - Page scrolled.
+2025-03-11 10:51:04,595 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:05,758 - DEBUG - Page scrolled.
+2025-03-11 10:51:08,761 - DEBUG - Random scrolls complete.
+2025-03-11 10:51:08,808 - DEBUG - Found 3 like buttons.
+2025-03-11 10:51:11,810 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-03-11 10:51:12,837 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:51:12,874 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:51:12,877 - DEBUG - Liked post number 1 of 3.
+2025-03-11 10:51:18,794 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:51:18,813 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:51:18,815 - DEBUG - Liked post number 2 of 3.
+2025-03-11 10:51:23,869 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:51:23,894 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:51:23,897 - DEBUG - Liked post number 3 of 3.
+2025-03-11 10:51:28,294 - INFO - Liked 3 posts successfully.
+2025-03-11 10:51:28,297 - INFO - Liked 3 posts successfully.
+2025-03-11 10:51:30,318 - DEBUG - Scrolling page 3 times.
+2025-03-11 10:51:30,320 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:32,146 - DEBUG - Page scrolled.
+2025-03-11 10:51:35,150 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:37,112 - DEBUG - Page scrolled.
+2025-03-11 10:51:40,118 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:41,605 - DEBUG - Page scrolled.
+2025-03-11 10:51:44,610 - DEBUG - Random scrolls complete.
+2025-03-11 10:51:46,775 - DEBUG - Total comments in the thread: 3
+2025-03-11 10:51:47,114 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need Help with Payoneer Beneficiary Name Verification.txt
+2025-03-11 10:51:49,978 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 10:51:50,037 - DEBUG - Extracted main post content: Hey everyone, I’m running into an issue with Payoneer and could really use some advice. I manage multiple accounts on a marketplace, under different names and receive payments through Payoneer. Recently, they flagged a payment because the beneficiary name didn’t match the name on my Payoneer account. Now, they’re asking me to clarify the beneficiary name and provide verification documents.
+
+Here’s the message from Payoneer:
+The beneficiary name on this payment does not match the beneficiary name listed on your Payoneer receiving account. To add this beneficiary name to your receiving account, please classify the beneficiary name and provide the requested info.
+
+The options they’ve given me are:
+Store name: Provide a screenshot of my marketplace account profile, an invoice, or proof of order/delivery.
+Name of a company that you represent: Submit a letter from the company authorizing me to receive funds on their behalf.
+Western name: Not applicable in my case.
+I’ve been dealing with this issue for a while now and always ended up paying someone to create a fake invoice, website screenshot, or sales history just to get it resolved. It’s becoming a hassle, and I’d really love to learn how to do it myself.
+
+Does anyone know an easy way to create a convincing invoice or have a template I can edit? Any guidance would be greatly appreciated!
+Attachments
+1.PNG
+2.PNG
+2025-03-11 10:51:55,679 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 10:51:55,692 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 10:51:58,682 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:51:58,684 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:51:58,732 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:51:58,845 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:51:58,854 - DEBUG - Text box scrolled into view
+2025-03-11 10:51:59,524 - DEBUG - Initializing actionchains
+2025-03-11 10:51:59,604 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2495}, size: {'height': 21, 'width': 68}
+2025-03-11 10:51:59,606 - DEBUG - Target click coordinates: (1121, 2505)
+2025-03-11 10:52:08,702 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 10:52:08,704 - DEBUG - Moving mouse to text box element.
+2025-03-11 10:52:08,706 - DEBUG - Clicking on the text box.
+2025-03-11 10:52:08,713 - DEBUG - Sending keys with content: Ugh, Payoneer can be such a pain sometimes. Have you tried just explaining to them the different storefront names and how it all connects back to you? Might save you the hassle of faking stuff.
+
+2025-03-11 10:52:13,781 - DEBUG - Clicking on post reply button.
+2025-03-11 10:52:25,171 - DEBUG - Performed Actionchains
+2025-03-11 10:52:25,173 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 10:52:29,176 - INFO - Comment posted successfully.
+2025-03-11 10:52:29,179 - INFO - Task Completed!!
+2025-03-11 10:52:39,666 - INFO - Navigated back to the homepage.
+2025-03-11 10:52:42,651 - INFO - Attempting to clear memory and resources.
+2025-03-11 10:52:42,692 - INFO - Garbage collection completed.
+2025-03-11 10:52:42,693 - INFO - Waiting for 100 seconds before next execution.

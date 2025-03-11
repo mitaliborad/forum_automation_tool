@@ -1,0 +1,111 @@
+2025-03-11 10:49:51,319 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_104951.log
+2025-03-11 10:49:51,320 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 10:49:51,321 - INFO - Loaded 128 visited threads from Thread_links.txt
+2025-03-11 10:49:51,322 - INFO - Successfully loaded links that was already visited!
+2025-03-11 10:49:51,322 - DEBUG - Scrolling page 7 times.
+2025-03-11 10:49:51,323 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:49:59,497 - DEBUG - Page scrolled.
+2025-03-11 10:50:01,500 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:02,971 - DEBUG - Page scrolled.
+2025-03-11 10:50:04,975 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:06,115 - DEBUG - Page scrolled.
+2025-03-11 10:50:08,117 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:09,381 - DEBUG - Page scrolled.
+2025-03-11 10:50:11,384 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:12,531 - DEBUG - Page scrolled.
+2025-03-11 10:50:14,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:16,079 - DEBUG - Page scrolled.
+2025-03-11 10:50:18,083 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:19,464 - DEBUG - Page scrolled.
+2025-03-11 10:50:21,467 - DEBUG - Random scrolls complete.
+2025-03-11 10:50:21,469 - DEBUG - Scrolling page 7 times.
+2025-03-11 10:50:21,471 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:23,287 - DEBUG - Page scrolled.
+2025-03-11 10:50:25,293 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:27,250 - DEBUG - Page scrolled.
+2025-03-11 10:50:29,254 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:31,080 - DEBUG - Page scrolled.
+2025-03-11 10:50:33,086 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:34,264 - DEBUG - Page scrolled.
+2025-03-11 10:50:36,267 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:37,606 - DEBUG - Page scrolled.
+2025-03-11 10:50:39,608 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:41,333 - DEBUG - Page scrolled.
+2025-03-11 10:50:43,338 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:50:44,910 - DEBUG - Page scrolled.
+2025-03-11 10:50:46,913 - DEBUG - Random scrolls complete.
+2025-03-11 10:50:53,585 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-03-11 10:50:58,523 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/free-domain-and-hosting.1662911/unread
+2025-03-11 10:51:09,067 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/free-domain-and-hosting.1662911/unread
+2025-03-11 10:51:09,080 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/free-domain-and-hosting.1662911/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 10:51:09,155 - INFO - Extracted thread title: Free Domain and hosting
+2025-03-11 10:51:09,156 - DEBUG - Scrolling page 3 times.
+2025-03-11 10:51:09,156 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:10,930 - DEBUG - Page scrolled.
+2025-03-11 10:51:12,936 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:14,002 - DEBUG - Page scrolled.
+2025-03-11 10:51:16,005 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:17,267 - DEBUG - Page scrolled.
+2025-03-11 10:51:19,270 - DEBUG - Random scrolls complete.
+2025-03-11 10:51:21,914 - DEBUG - Scrolling page 1 times.
+2025-03-11 10:51:21,916 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:22,981 - DEBUG - Page scrolled.
+2025-03-11 10:51:25,985 - DEBUG - Random scrolls complete.
+2025-03-11 10:51:26,051 - DEBUG - Found 12 like buttons.
+2025-03-11 10:51:29,054 - INFO - Attempting to like 4 posts. There are 12 available.
+2025-03-11 10:51:30,007 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:51:30,028 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:51:30,030 - DEBUG - Liked post number 1 of 4.
+2025-03-11 10:51:35,678 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:51:35,686 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:51:35,687 - DEBUG - Liked post number 2 of 4.
+2025-03-11 10:51:40,906 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:51:40,941 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:51:40,944 - DEBUG - Liked post number 3 of 4.
+2025-03-11 10:51:45,846 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:51:45,854 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:51:45,855 - DEBUG - Liked post number 4 of 4.
+2025-03-11 10:51:49,903 - INFO - Liked 4 posts successfully.
+2025-03-11 10:51:49,904 - INFO - Liked 4 posts successfully.
+2025-03-11 10:51:52,775 - DEBUG - Scrolling page 6 times.
+2025-03-11 10:51:52,777 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:54,083 - DEBUG - Page scrolled.
+2025-03-11 10:51:57,086 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:51:58,550 - DEBUG - Page scrolled.
+2025-03-11 10:52:01,553 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:52:03,225 - DEBUG - Page scrolled.
+2025-03-11 10:52:06,227 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:52:08,037 - DEBUG - Page scrolled.
+2025-03-11 10:52:11,042 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:52:12,987 - DEBUG - Page scrolled.
+2025-03-11 10:52:15,990 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:52:17,475 - DEBUG - Page scrolled.
+2025-03-11 10:52:20,477 - DEBUG - Random scrolls complete.
+2025-03-11 10:52:23,401 - DEBUG - Total comments in the thread: 12
+2025-03-11 10:53:35,426 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Free Domain and hosting.txt
+2025-03-11 10:53:38,410 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 10:53:38,451 - DEBUG - Extracted main post content: can anyone suggest for free website building with free domain options/....
+2025-03-11 10:53:43,268 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 10:53:43,272 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 10:53:45,758 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:53:45,760 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:53:45,810 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:53:45,873 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:53:45,881 - DEBUG - Text box scrolled into view
+2025-03-11 10:53:46,658 - DEBUG - Initializing actionchains
+2025-03-11 10:53:46,718 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4417}, size: {'height': 21, 'width': 68}
+2025-03-11 10:53:46,723 - DEBUG - Target click coordinates: (1121, 4427)
+2025-03-11 10:53:59,255 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 10:53:59,257 - DEBUG - Moving mouse to text box element.
+2025-03-11 10:53:59,258 - DEBUG - Clicking on the text box.
+2025-03-11 10:53:59,260 - DEBUG - Sending keys with content: I've heard that some folks have had luck with Google Sites for simple pages, though a truly free domain might be tricky to snag.
+
+2025-03-11 10:54:04,519 - DEBUG - Clicking on post reply button.
+2025-03-11 10:54:05,952 - DEBUG - Performed Actionchains
+2025-03-11 10:54:05,957 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 10:54:09,960 - INFO - Comment posted successfully.
+2025-03-11 10:54:09,963 - INFO - Task Completed!!
+2025-03-11 10:54:13,861 - INFO - Navigated back to the homepage.
+2025-03-11 10:54:16,672 - INFO - Attempting to clear memory and resources.
+2025-03-11 10:54:16,746 - INFO - Garbage collection completed.
+2025-03-11 10:54:16,747 - INFO - Waiting for 100 seconds before next execution.

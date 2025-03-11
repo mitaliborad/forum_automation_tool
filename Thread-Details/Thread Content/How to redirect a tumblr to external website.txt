@@ -1,0 +1,92 @@
+--- Main Post Title ---
+How to redirect a tumblr to external website?
+
+Total comments in the thread: 9
+
+Topic User: DrMail
+Topic: How to redirect a tumblr to external website?
+
+I tried these old meta and javascript codes by editing the theme code and seems are not working anymore.. any help ?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: salamalatala
+Topic: I would like also to redirect from tumblr to my domain, how it is possible? Cause I see today one guy doing it! when you go to www.blog.tumblr.com it redirects to custom domain
+Liked by: Emma xx
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: reviveseo
+Topic: Also interested!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: olimpicmaids
+Topic: You can redirect a Tumblr to an external website by creating a new page on the Tumblr blog, then adding a meta tag with the URL of the external website in the HTML of the page.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: proxygo
+Topic: threads been dead for 2 yrs .
+PROXYHUB. TOP QUALITY PRIVATE PROXIES AT SOLID PRICES USA/UK/CA
+QUALITY PREMIUM BACK-LINKS. STRONG. POWERFUL. PROVEN. TESTED. T-RANKS
+STATIC / RESIDENTIAL / DEDICATED PRIVATE PROXIES HTTP&SOCKS USA&EU
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: SkySwitch
+Topic: thread has been inactive?
+SKYPROXIES.NET 86 MILLION IPS | RESIDENTIAL | DATACENTER | IPV6 | ISP | FROM $2.5 PER GB | | PAY WITH VISA/MASTERCARD/CRYPTO ~ BHW TRIAL!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: yeneraliakyurek
+Topic: I'm still looking for a solution
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: That's a pain, I remember doing that years ago. Did Tumblr change something in their theme editor recently? Maybe there's a new workaround.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: That's a bummer, Tumblr's always changing things up. Have you looked into their redirect option under settings, or is that not cutting it for what you need?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

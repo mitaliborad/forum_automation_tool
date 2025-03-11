@@ -1,0 +1,1 @@
+Hmm, that's a tricky one. Have you tried checking if other packages are installing correctly, or if it's just MongoDB that's throwing the error?

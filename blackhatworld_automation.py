@@ -122,8 +122,11 @@ def process_profile(profile_name, profile_config):
                     scroll_delay=3,
                 ) # Use task logger
 
+                time.sleep(random.uniform(2,3))
+
                 scroll_random_times(task_logger, driver, min_scrolls=3, max_scrolls=7, scroll_delay=3) # Use task logger
                 time.sleep(random.uniform(2, 3))
+
 
                 # save thread content
                 thread_content_dir = "Thread-Details/Thread Content"  # Moved inside try block
