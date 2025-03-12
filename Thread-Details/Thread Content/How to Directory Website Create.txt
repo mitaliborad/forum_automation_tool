@@ -1,0 +1,91 @@
+--- Main Post Title ---
+How to Directory Website Create
+
+Total comments in the thread: 6
+
+Topic User: kumarrohit
+Topic: Hey everyone, I need some guidance on my new project.
+
+I am creating a Directory website in India and I want to create it something like this:
+
+
+But I want to create it in WordPress. Can anyone suggest how I can create a Directory website like above in WordPress with most of Free plugins and themes?
+
+If anyone knows about it, then please share it with me.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: india
+Topic: There are many themes and plugins that help in creating Directory.
+Liked by: You, kumarrohit
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: TMONEX
+Topic: kumarrohit said:
+Hey everyone, I need some guidance on my new project.
+
+I am creating a Directory website in India and I want to create it something like this:
+View attachment 426539
+
+But I want to create it in WordPress. Can anyone suggest how I can create a Directory website like above in WordPress with most of Free plugins and themes?
+
+If anyone knows about it, then please share it with me.
+Click to expand...
+Use this plugin business directory and it's free
+https://demo.businessdirectoryplugin.com/
+Liked by: tazarbm
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: kumarrohit
+Topic: india said:
+There are many themes and plugins that help in creating Directory.
+Will you give me suggestions or any tutorial for it. If you know any theme to create a website like I mentioned, let me know. Your support will help me a lot.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: kumarrohit
+Topic: TMONEX said:
+Use this plugin business directory and it's free
+https://demo.businessdirectoryplugin.com/
+No understandabel sir.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Simonsim89
+Topic: Hey, let me walk you through this. First, pick a solid theme, Astra or Neve are great free options because they’re lightweight and customizable. If you want something specifically for directories, check out the free version of Directorist. I’ve used it before, and it’s pretty user-friendly for listing categories, search bars, and submission forms.
+
+For plugins, start with Directorist. It handles listings, categories, and user submissions out of the box. For submission form, WPForms Lite works for basic stuff, but if you want advanced fields, you might need the paid version. To replicate the "Latest Links/Articles" section, Post Grid (free) can display listings in a grid or list format. For search functionality, Ivory Search (free) lets you customize search filters, which is key for directories.
+For monetization, WooCommerce can handle paid listings or membership plans. Pair it with a subscription plugin like Paid Member Subscriptions (freemium) if you want recurring payments.
+
+Tip: Structure your categories like the USA Listing example using custom taxonomies. You don’t need plugins for this, Wordpress’s built-in categories can work, but for more granular control, Custom Post Type UI (free) lets you create custom fields. Hosting matters too. If your directory grows, you’ll need a decent host. I’ve had good experiences with SiteGround for speed and reliability, but even free tiers can work for small-scale testing.
+
+Free plugins might lack advanced features like geolocation or advanced user roles. If you hit a wall, consider freemium plugins like GeoDirectory for location-based searches. In my experience, start simple. Overloading with plugins early on can slow your site. Test everything locally first with Local by Flywheel (free) before going live.
+
+Good luck!
+Liked by: kumarrohit, The Clutch
+Number of likes: 2
+-----
+
+Replies:
+
+

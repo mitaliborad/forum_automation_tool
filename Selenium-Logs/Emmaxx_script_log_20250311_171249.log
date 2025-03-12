@@ -1,0 +1,105 @@
+2025-03-11 17:12:49,849 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_171249.log
+2025-03-11 17:12:49,860 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 17:12:49,862 - INFO - Loaded 143 visited threads from Thread_links.txt
+2025-03-11 17:12:49,863 - INFO - Successfully loaded links that was already visited!
+2025-03-11 17:12:49,864 - DEBUG - Scrolling page 7 times.
+2025-03-11 17:12:49,865 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:12:51,279 - DEBUG - Page scrolled.
+2025-03-11 17:12:53,282 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:12:54,728 - DEBUG - Page scrolled.
+2025-03-11 17:12:56,732 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:12:58,579 - DEBUG - Page scrolled.
+2025-03-11 17:13:00,676 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:02,644 - DEBUG - Page scrolled.
+2025-03-11 17:13:04,647 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:06,555 - DEBUG - Page scrolled.
+2025-03-11 17:13:08,556 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:10,315 - DEBUG - Page scrolled.
+2025-03-11 17:13:12,316 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:13,991 - DEBUG - Page scrolled.
+2025-03-11 17:13:15,993 - DEBUG - Random scrolls complete.
+2025-03-11 17:13:15,995 - DEBUG - Scrolling page 4 times.
+2025-03-11 17:13:15,997 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:17,333 - DEBUG - Page scrolled.
+2025-03-11 17:13:19,335 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:20,588 - DEBUG - Page scrolled.
+2025-03-11 17:13:22,591 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:23,982 - DEBUG - Page scrolled.
+2025-03-11 17:13:25,984 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:27,748 - DEBUG - Page scrolled.
+2025-03-11 17:13:29,750 - DEBUG - Random scrolls complete.
+2025-03-11 17:13:35,210 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-03-11 17:13:39,181 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/tumblr-moves-blogs-backend-to-wordpress.1631203/
+2025-03-11 17:13:48,425 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/tumblr-moves-blogs-backend-to-wordpress.1631203/
+2025-03-11 17:13:48,427 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/tumblr-moves-blogs-backend-to-wordpress.1631203/' to visited threads file 'Thread_links.txt'.
+2025-03-11 17:13:48,461 - INFO - Extracted thread title: Tumblr moves blogs backend to Wordpress
+2025-03-11 17:13:48,466 - DEBUG - Scrolling page 2 times.
+2025-03-11 17:13:48,467 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:49,735 - DEBUG - Page scrolled.
+2025-03-11 17:13:51,737 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:53,590 - DEBUG - Page scrolled.
+2025-03-11 17:13:55,591 - DEBUG - Random scrolls complete.
+2025-03-11 17:13:58,437 - DEBUG - Scrolling page 4 times.
+2025-03-11 17:13:58,438 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:13:59,485 - DEBUG - Page scrolled.
+2025-03-11 17:14:02,486 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:14:03,715 - DEBUG - Page scrolled.
+2025-03-11 17:14:06,717 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:14:08,008 - DEBUG - Page scrolled.
+2025-03-11 17:14:11,009 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:14:12,450 - DEBUG - Page scrolled.
+2025-03-11 17:14:15,452 - DEBUG - Random scrolls complete.
+2025-03-11 17:14:15,471 - DEBUG - Found 10 like buttons.
+2025-03-11 17:14:18,472 - INFO - Attempting to like 3 posts. There are 10 available.
+2025-03-11 17:14:19,059 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:14:19,080 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:14:19,081 - DEBUG - Liked post number 1 of 3.
+2025-03-11 17:14:24,314 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:14:24,412 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:14:24,413 - DEBUG - Liked post number 2 of 3.
+2025-03-11 17:14:29,710 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:14:29,718 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:14:29,719 - DEBUG - Liked post number 3 of 3.
+2025-03-11 17:14:33,815 - INFO - Liked 3 posts successfully.
+2025-03-11 17:14:33,817 - INFO - Liked 3 posts successfully.
+2025-03-11 17:14:36,194 - DEBUG - Scrolling page 5 times.
+2025-03-11 17:14:36,195 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:14:37,288 - DEBUG - Page scrolled.
+2025-03-11 17:14:40,289 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:14:42,124 - DEBUG - Page scrolled.
+2025-03-11 17:14:45,125 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:14:46,374 - DEBUG - Page scrolled.
+2025-03-11 17:14:49,376 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:14:50,552 - DEBUG - Page scrolled.
+2025-03-11 17:14:53,553 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:14:55,056 - DEBUG - Page scrolled.
+2025-03-11 17:14:58,058 - DEBUG - Random scrolls complete.
+2025-03-11 17:15:00,578 - DEBUG - Total comments in the thread: 10
+2025-03-11 17:16:03,281 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Tumblr moves blogs backend to Wordpress.txt
+2025-03-11 17:16:05,296 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 17:16:05,350 - DEBUG - Extracted main post content: So it's true that half of the websites are based on WordPress Tumblr moves its half a billion blogs to Wordpress. Tumblr was acquired in 2019 by Automattic (Wordpress parent company).
+Do you think it is good for Tumblr and users?
+2025-03-11 17:16:10,496 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 17:16:10,521 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 17:16:13,235 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:16:13,241 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:16:13,257 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:16:13,374 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:16:13,382 - DEBUG - Text box scrolled into view
+2025-03-11 17:16:14,112 - DEBUG - Initializing actionchains
+2025-03-11 17:16:14,151 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3900}, size: {'height': 21, 'width': 68}
+2025-03-11 17:16:14,151 - DEBUG - Target click coordinates: (1121, 3910)
+2025-03-11 17:16:26,264 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 17:16:26,270 - DEBUG - Moving mouse to text box element.
+2025-03-11 17:16:26,272 - DEBUG - Clicking on the text box.
+2025-03-11 17:16:26,274 - DEBUG - Sending keys with content: Honestly, feels like a smart move for Tumblr; Automattic knows how to keep things running smoothly, plus it brings all those blogs into a more stable ecosystem.
+
+2025-03-11 17:16:31,846 - DEBUG - Clicking on post reply button.
+2025-03-11 17:16:43,148 - DEBUG - Performed Actionchains
+2025-03-11 17:16:43,150 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 17:16:47,152 - INFO - Comment posted successfully.
+2025-03-11 17:16:47,155 - INFO - Task Completed!!
+2025-03-11 17:16:59,590 - INFO - Navigated back to the homepage.
+2025-03-11 17:17:01,759 - INFO - Attempting to clear memory and resources.
+2025-03-11 17:17:01,829 - INFO - Garbage collection completed.
+2025-03-11 17:17:01,830 - INFO - Waiting for 1800 seconds before next execution.

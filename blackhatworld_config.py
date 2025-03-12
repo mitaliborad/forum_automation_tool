@@ -19,7 +19,7 @@ import threading
 
 # --- Automation Configuration ---
 LOG_DIRECTORY = "Selenium-Logs"
-AUTOMATION_WAIT_TIME = 100
+AUTOMATION_WAIT_TIME = 1800
 MIN_SCROLLS = 3
 MAX_SCROLLS = 7
 SCROLL_AMOUNT = 500

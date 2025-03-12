@@ -1,0 +1,1 @@
+Honestly, the hotspot might work in a pinch, but those throttled speeds and the fingerprint of a mobile hotspot are probably screaming proxy issues to Reddit. Have you tried residential proxies instead?

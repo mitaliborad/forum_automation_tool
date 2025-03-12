@@ -1,0 +1,1 @@
+Honestly, I'm not super familiar with payment cloaking myself, but from what I've heard, skipping it might cause headaches down the road with payment processors flagging you pretty quickly.
