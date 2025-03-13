@@ -1,0 +1,49 @@
+2025-03-13 16:18:26,912 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emaxx_script_log_20250313_161826.log
+2025-03-13 16:18:26,919 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 16:18:26,944 - INFO - Loaded 212 visited threads from Thread_links.txt
+2025-03-13 16:18:26,946 - INFO - Successfully loaded links that was already visited!
+2025-03-13 16:18:26,950 - DEBUG - Scrolling page 7 times.
+2025-03-13 16:18:26,951 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:27,981 - DEBUG - Page scrolled.
+2025-03-13 16:18:29,983 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:31,291 - DEBUG - Page scrolled.
+2025-03-13 16:18:33,294 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:34,646 - DEBUG - Page scrolled.
+2025-03-13 16:18:36,649 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:38,570 - DEBUG - Page scrolled.
+2025-03-13 16:18:40,572 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:41,817 - DEBUG - Page scrolled.
+2025-03-13 16:18:43,819 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:45,335 - DEBUG - Page scrolled.
+2025-03-13 16:18:47,360 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:48,965 - DEBUG - Page scrolled.
+2025-03-13 16:18:50,970 - DEBUG - Random scrolls complete.
+2025-03-13 16:18:50,971 - DEBUG - Scrolling page 6 times.
+2025-03-13 16:18:50,973 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:52,688 - DEBUG - Page scrolled.
+2025-03-13 16:18:54,689 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:56,019 - DEBUG - Page scrolled.
+2025-03-13 16:18:58,020 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:59,641 - DEBUG - Page scrolled.
+2025-03-13 16:19:01,643 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:19:03,511 - DEBUG - Page scrolled.
+2025-03-13 16:19:05,513 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:19:06,580 - DEBUG - Page scrolled.
+2025-03-13 16:19:08,582 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:19:09,640 - DEBUG - Page scrolled.
+2025-03-13 16:19:11,641 - DEBUG - Random scrolls complete.
+2025-03-13 16:20:03,993 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-03-13 16:20:14,026 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 577, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-13 16:20:14,225 - WARNING - Skipping thread processing due to no thread link being found in subforum.

@@ -1,0 +1,106 @@
+2025-03-13 16:23:15,284 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_162315.log
+2025-03-13 16:23:15,286 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 16:23:15,358 - INFO - Loaded 214 visited threads from Thread_links.txt
+2025-03-13 16:23:15,365 - INFO - Successfully loaded links that was already visited!
+2025-03-13 16:23:15,368 - DEBUG - Scrolling page 5 times.
+2025-03-13 16:23:15,369 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:17,083 - DEBUG - Page scrolled.
+2025-03-13 16:23:19,085 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:20,142 - DEBUG - Page scrolled.
+2025-03-13 16:23:22,149 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:23,559 - DEBUG - Page scrolled.
+2025-03-13 16:23:25,561 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:26,707 - DEBUG - Page scrolled.
+2025-03-13 16:23:28,710 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:30,519 - DEBUG - Page scrolled.
+2025-03-13 16:23:32,521 - DEBUG - Random scrolls complete.
+2025-03-13 16:23:32,522 - DEBUG - Scrolling page 6 times.
+2025-03-13 16:23:32,523 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:34,280 - DEBUG - Page scrolled.
+2025-03-13 16:23:36,282 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:37,509 - DEBUG - Page scrolled.
+2025-03-13 16:23:39,530 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:41,029 - DEBUG - Page scrolled.
+2025-03-13 16:23:43,030 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:44,673 - DEBUG - Page scrolled.
+2025-03-13 16:23:46,674 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:48,508 - DEBUG - Page scrolled.
+2025-03-13 16:23:50,510 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:23:51,614 - DEBUG - Page scrolled.
+2025-03-13 16:23:53,615 - DEBUG - Random scrolls complete.
+2025-03-13 16:23:58,373 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-03-13 16:24:02,939 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-send-message-linkedin-connections.1681660/unread
+2025-03-13 16:24:29,502 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-send-message-linkedin-connections.1681660/unread
+2025-03-13 16:24:29,505 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-send-message-linkedin-connections.1681660/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 16:24:29,534 - INFO - Extracted thread title: How to send message linkedin connections
+2025-03-13 16:24:29,536 - DEBUG - Scrolling page 3 times.
+2025-03-13 16:24:29,538 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:24:30,793 - DEBUG - Page scrolled.
+2025-03-13 16:24:32,795 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:24:34,506 - DEBUG - Page scrolled.
+2025-03-13 16:24:36,510 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:24:37,549 - DEBUG - Page scrolled.
+2025-03-13 16:24:39,552 - DEBUG - Random scrolls complete.
+2025-03-13 16:24:41,727 - DEBUG - Scrolling page 3 times.
+2025-03-13 16:24:41,728 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:24:43,367 - DEBUG - Page scrolled.
+2025-03-13 16:24:46,373 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:24:47,670 - DEBUG - Page scrolled.
+2025-03-13 16:24:50,673 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:24:52,238 - DEBUG - Page scrolled.
+2025-03-13 16:24:55,240 - DEBUG - Random scrolls complete.
+2025-03-13 16:24:55,257 - DEBUG - Found 5 like buttons.
+2025-03-13 16:24:58,260 - INFO - Attempting to like 3 posts. There are 5 available.
+2025-03-13 16:24:58,978 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:24:58,999 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:24:59,000 - DEBUG - Liked post number 1 of 3.
+2025-03-13 16:25:04,035 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:25:04,055 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:25:04,057 - DEBUG - Liked post number 2 of 3.
+2025-03-13 16:25:08,932 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:25:08,941 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:25:08,950 - DEBUG - Liked post number 3 of 3.
+2025-03-13 16:25:13,406 - INFO - Liked 3 posts successfully.
+2025-03-13 16:25:13,416 - INFO - Liked 3 posts successfully.
+2025-03-13 16:25:15,990 - DEBUG - Scrolling page 6 times.
+2025-03-13 16:25:15,992 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:25:17,251 - DEBUG - Page scrolled.
+2025-03-13 16:25:20,262 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:25:21,908 - DEBUG - Page scrolled.
+2025-03-13 16:25:24,909 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:25:25,989 - DEBUG - Page scrolled.
+2025-03-13 16:25:28,990 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:25:30,403 - DEBUG - Page scrolled.
+2025-03-13 16:25:33,406 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:25:34,771 - DEBUG - Page scrolled.
+2025-03-13 16:25:37,773 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:25:39,562 - DEBUG - Page scrolled.
+2025-03-13 16:25:42,564 - DEBUG - Random scrolls complete.
+2025-03-13 16:25:44,843 - DEBUG - Total comments in the thread: 5
+2025-03-13 16:26:06,034 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to send message linkedin connections.txt
+2025-03-13 16:26:08,691 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 16:26:08,741 - DEBUG - Extracted main post content: Does anyone knows how to send a message to all my linkedin connections all at once.?
+2025-03-13 16:26:13,075 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 16:26:13,077 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 16:26:15,677 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:26:15,679 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:26:15,692 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:26:15,740 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:26:15,750 - DEBUG - Text box scrolled into view
+2025-03-13 16:26:16,349 - DEBUG - Initializing actionchains
+2025-03-13 16:26:16,406 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2301}, size: {'height': 21, 'width': 68}
+2025-03-13 16:26:16,407 - DEBUG - Target click coordinates: (1121, 2311)
+2025-03-13 16:26:24,771 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 16:26:24,773 - DEBUG - Moving mouse to text box element.
+2025-03-13 16:26:24,781 - DEBUG - Clicking on the text box.
+2025-03-13 16:26:24,783 - DEBUG - Sending keys with content: I've been wondering if there's a legit way around that LinkedIn limit myself. Seems like it's by design to prevent spam, unfortunately.
+
+2025-03-13 16:26:29,834 - DEBUG - Clicking on post reply button.
+2025-03-13 16:26:40,946 - DEBUG - Performed Actionchains
+2025-03-13 16:26:40,951 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 16:26:44,955 - INFO - Comment posted successfully.
+2025-03-13 16:26:44,956 - INFO - Task Completed!!
+2025-03-13 16:26:50,714 - INFO - Navigated back to the homepage.
+2025-03-13 16:26:53,445 - INFO - Attempting to clear memory and resources.
+2025-03-13 16:26:53,480 - INFO - Garbage collection completed.
+2025-03-13 16:26:53,481 - INFO - Waiting for 120 seconds before next execution.

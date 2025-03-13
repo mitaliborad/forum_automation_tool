@@ -69,11 +69,11 @@ def process_profile(profile_name, profile_config, manager_logger):
 
             # ---- NEW LOGGER FOR EACH TASK ----
             automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            task_logger, task_log_file = setup_logger(LOG_DIRECTORY, profile_name, automation_timestamp)  # New logger
+            task_logger, profile_log_file = setup_logger(LOG_DIRECTORY, profile_name, automation_timestamp)  # New logger
             task_logger.info(f"Starting new automation task. Log file created at: {task_log_file}") # Use task logger
             
             if datetime.now() - start_time > run_duration:
-                task_logger.info("Automation has reached the time limit. Stopping execution.")
+                profile_logger.info("Automation has reached the time limit. Stopping execution.")
                 break
 
             try:
@@ -82,22 +82,22 @@ def process_profile(profile_name, profile_config, manager_logger):
 
                 subforum_urls = get_subforum_list(task_logger) # Use task logger
                 if not subforum_urls:
-                    task_logger.critical("No subforum URLs found in the file. Exiting.") # Use task logger
+                    profile_logger.critical("No subforum URLs found in the file. Exiting.") # Use task logger
                     break  # Exit the loop, effectively stopping the profile's automation
 
                 visited_threads = load_visited_threads(task_logger)  # Load visited threads at the start  # Use task logger
                 if visited_threads:
-                    task_logger.info(f"Successfully loaded links that was already visited!")   # Use task logger
+                    profile_logger.info(f"Successfully loaded links that was already visited!")   # Use task logger
                     
                 # PERFORM RANDOM ACTION
                 #perform_random_action(driver, profile_logger, profile_name)
 
-                scroll_random_times(task_logger, driver) # Use task logger
+                scroll_random_times(profile_logger, driver) # Use task logger
 
                 # Select and navigate a random thread to specific subforum
                 subforum_url = random.choice(subforum_urls)
-                scroll_random_times(task_logger, driver) # Use task logger
-                thread_link = find_random_thread_link_from_subforum(task_logger,driver, subforum_url,visited_threads)  # Use task logger
+                scroll_random_times(profile_logger, driver) # Use task logger
+                thread_link = find_random_thread_link_from_subforum(profile_logger,driver, subforum_url,visited_threads)  # Use task logger
                 
                 # PERFORM RANDOM ACTION
                 perform_random_action(driver, profile_logger, profile_name)
@@ -106,26 +106,26 @@ def process_profile(profile_name, profile_config, manager_logger):
                     time.sleep(random.uniform(2, 3))
                     driver.get(thread_link)
                     time.sleep(random.uniform(2, 3))
-                    task_logger.info(f"Navigated to random thread: {thread_link}") # Use task logger
+                    profile_logger.info(f"Navigated to random thread: {thread_link}") # Use task logger
                     visited_threads.add(thread_link)
-                    save_visited_thread(task_logger, thread_link)  # Use task logger
+                    save_visited_thread(profile_logger, thread_link)  # Use task logger
                 else:
-                    task_logger.warning(
+                    profile_logger.warning(
                         "Skipping thread processing due to no thread link being found in subforum."
                     ) # Use task logger
                     continue  # Skip to next subforum
 
                 # Extract thread title
-                thread_title = get_thread_title(task_logger, driver) # Use task logger
+                thread_title = get_thread_title(profile_logger, driver) # Use task logger
                 
                 # PERFORM RANDOM ACTION
                 #perform_random_action(driver, profile_logger, profile_name)
 
-                scroll_random_times(task_logger, driver, min_scrolls=2, max_scrolls=4, scroll_delay=2) # Use task logger
+                scroll_random_times(profile_logger, driver, min_scrolls=2, max_scrolls=4, scroll_delay=2) # Use task logger
                 time.sleep(random.uniform(2, 3))
 
                 like_random_posts(
-                    task_logger, driver,
+                    profile_logger, driver,
                     min_likes=1,
                     max_likes=4,
                     min_scrolls_posts=1,
@@ -138,7 +138,7 @@ def process_profile(profile_name, profile_config, manager_logger):
                 # PERFORM RANDOM ACTION
                 perform_random_action(driver, profile_logger, profile_name)
 
-                scroll_random_times(task_logger, driver, min_scrolls=3, max_scrolls=7, scroll_delay=3) # Use task logger
+                scroll_random_times(profile_logger, driver, min_scrolls=3, max_scrolls=7, scroll_delay=3) # Use task logger
                 time.sleep(random.uniform(2, 3))
 
 
@@ -147,20 +147,20 @@ def process_profile(profile_name, profile_config, manager_logger):
                 thread_content_file = os.path.join(
                     thread_content_dir, f"{thread_title}.txt"
                 )
-                extract_post_content(task_logger, driver, thread_content_file) # Use task logger
-                task_logger.info(f"Post content extracted and saved to {thread_content_file}") # Use task logger
+                extract_post_content(profile_logger, driver, thread_content_file) # Use task logger
+                profile_logger.info(f"Post content extracted and saved to {thread_content_file}") # Use task logger
                 time.sleep(random.uniform(2, 3))
                 
                 # PERFORM RANDOM ACTION
                 #perform_random_action(driver, profile_logger, profile_name)
 
-                main_post_content = extract_main_post_content(task_logger, driver) # Use task logger
+                main_post_content = extract_main_post_content(profile_logger, driver) # Use task logger
                 time.sleep(random.uniform(2, 3))
 
                 # generate and save comment
                 if main_post_content:
                     api_comments_dir = "Thread-Details/API Comments" # Moved inside try block
-                    comment = generate_and_save_comments(task_logger,
+                    comment = generate_and_save_comments(profile_logger,
                         main_post_content,
                         os.path.join(api_comments_dir, "temp_comment.txt"),
                     ) # Use task logger
@@ -175,48 +175,48 @@ def process_profile(profile_name, profile_config, manager_logger):
                                 api_comment_file,
                             )
                         except Exception as e:
-                            task_logger.warning(
+                            profile_logger.warning(
                                 f"rename Error: {e}", exc_info=True
                             ) # Use task logger
-                            task_logger.info(f"API comment generated and saved to {api_comment_file}") # Use task logger
+                            profile_logger.info(f"API comment generated and saved to {api_comment_file}") # Use task logger
                     else:
-                        task_logger.warning("Failed to generate comment, skipping saving.")  # Use task logger
+                        profile_logger.warning("Failed to generate comment, skipping saving.")  # Use task logger
 
                 # Read the generated comment
                 comment_file = os.path.join(
                     api_comments_dir, f"{thread_title}_{sanitized_comment}.txt"
                 )
-                comment = read_thread_content(task_logger, comment_file) # Use task logger
+                comment = read_thread_content(profile_logger, comment_file) # Use task logger
                 time.sleep(random.uniform(2, 3))
                 
                 # PERFORM RANDOM ACTION
                 perform_random_action(driver, profile_logger, profile_name)
 
                 if comment:
-                    post_comment(task_logger, driver, comment, write_delay=3) # Use task logger
-                    task_logger.info("Comment posted successfully.")  # Use task logger
+                    post_comment(profile_logger, driver, comment, write_delay=3) # Use task logger
+                    profile_logger.info("Comment posted successfully.")  # Use task logger
                 else:
-                    task_logger.warning("No comment available to post.")  # Use task logger
+                    profile_logger.warning("No comment available to post.")  # Use task logger
 
-                task_logger.info("Task Completed!!") # Use task logger
+                profile_logger.info("Task Completed!!") # Use task logger
                 # 1.5) Added code to go back to HOME
 
                 # navigate back to home after automation
-                navigate_home(task_logger, driver) # Use task logger
+                navigate_home(profile_logger, driver) # Use task logger
 
             except Exception as e:
                 try:
-                    task_logger.error(f"An error occurred: {e}", exc_info=True) # Use task logger
+                    profile_logger.error(f"An error occurred: {e}", exc_info=True) # Use task logger
                 except NameError:
                     profile_logger.error(f"A task error occurred before task_logger was initialized: {e}", exc_info=True)
 
                 # clear the memory and wait from next automation
-            clear_memory(task_logger)  # Use task logger
-            task_logger.info(f"Waiting for {AUTOMATION_WAIT_TIME} seconds before next execution.")  # Use task logger
+            clear_memory(profile_logger)  # Use task logger
+            profile_logger.info(f"Waiting for {AUTOMATION_WAIT_TIME} seconds before next execution.")  # Use task logger
             time.sleep(AUTOMATION_WAIT_TIME)
             # -- Remove handler to log in new files --
-            for handler in task_logger.handlers[:]:
-                task_logger.removeHandler(handler)
+            for handler in profile_logger.handlers[:]:
+                profile_logger.removeHandler(handler)
                 handler.close()
 
     except Exception as e:
