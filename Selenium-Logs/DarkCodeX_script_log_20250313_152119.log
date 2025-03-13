@@ -1,0 +1,102 @@
+2025-03-13 15:21:19,059 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_152119.log
+2025-03-13 15:21:19,061 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:21:19,071 - INFO - Loaded 191 visited threads from Thread_links.txt
+2025-03-13 15:21:19,102 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:21:19,103 - DEBUG - Scrolling page 6 times.
+2025-03-13 15:21:19,105 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:21:24,271 - DEBUG - Page scrolled.
+2025-03-13 15:21:26,274 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:21:27,743 - DEBUG - Page scrolled.
+2025-03-13 15:21:29,746 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:21:30,935 - DEBUG - Page scrolled.
+2025-03-13 15:21:32,936 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:21:34,718 - DEBUG - Page scrolled.
+2025-03-13 15:21:36,720 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:21:38,091 - DEBUG - Page scrolled.
+2025-03-13 15:21:40,093 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:21:41,730 - DEBUG - Page scrolled.
+2025-03-13 15:21:43,731 - DEBUG - Random scrolls complete.
+2025-03-13 15:21:43,735 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:21:43,736 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:21:45,679 - DEBUG - Page scrolled.
+2025-03-13 15:21:47,682 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:21:49,265 - DEBUG - Page scrolled.
+2025-03-13 15:21:51,313 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:21:52,794 - DEBUG - Page scrolled.
+2025-03-13 15:21:54,801 - DEBUG - Random scrolls complete.
+2025-03-13 15:22:02,335 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-03-13 15:22:07,175 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/manus-ai-chinas-breakthrough.1694568/unread
+2025-03-13 15:22:15,484 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/manus-ai-chinas-breakthrough.1694568/unread
+2025-03-13 15:22:15,488 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/manus-ai-chinas-breakthrough.1694568/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:22:15,568 - INFO - Extracted thread title: Manus AI  China’s Breakthrough
+2025-03-13 15:22:33,163 - DEBUG - Scrolling page 2 times.
+2025-03-13 15:22:33,164 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:22:34,216 - DEBUG - Page scrolled.
+2025-03-13 15:22:36,217 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:22:37,837 - DEBUG - Page scrolled.
+2025-03-13 15:22:39,920 - DEBUG - Random scrolls complete.
+2025-03-13 15:22:42,867 - DEBUG - Scrolling page 1 times.
+2025-03-13 15:22:42,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:22:43,978 - DEBUG - Page scrolled.
+2025-03-13 15:22:46,980 - DEBUG - Random scrolls complete.
+2025-03-13 15:22:46,996 - DEBUG - Found 6 like buttons.
+2025-03-13 15:22:49,997 - INFO - Attempting to like 4 posts. There are 6 available.
+2025-03-13 15:22:50,809 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:22:50,821 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:22:50,822 - DEBUG - Liked post number 1 of 4.
+2025-03-13 15:22:56,548 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:22:56,565 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:22:56,567 - DEBUG - Liked post number 2 of 4.
+2025-03-13 15:23:01,905 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:23:01,915 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:23:01,916 - DEBUG - Liked post number 3 of 4.
+2025-03-13 15:23:07,129 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:23:07,137 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:23:07,139 - DEBUG - Liked post number 4 of 4.
+2025-03-13 15:23:11,271 - INFO - Liked 4 posts successfully.
+2025-03-13 15:23:11,277 - INFO - Liked 4 posts successfully.
+2025-03-13 15:23:13,316 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:23:13,317 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:23:14,941 - DEBUG - Page scrolled.
+2025-03-13 15:23:17,943 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:23:19,735 - DEBUG - Page scrolled.
+2025-03-13 15:23:22,738 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:23:24,008 - DEBUG - Page scrolled.
+2025-03-13 15:23:27,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:23:28,188 - DEBUG - Page scrolled.
+2025-03-13 15:23:31,191 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:23:32,502 - DEBUG - Page scrolled.
+2025-03-13 15:23:35,505 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:23:36,865 - DEBUG - Page scrolled.
+2025-03-13 15:23:39,867 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:23:41,083 - DEBUG - Page scrolled.
+2025-03-13 15:23:44,085 - DEBUG - Random scrolls complete.
+2025-03-13 15:23:46,292 - DEBUG - Total comments in the thread: 3
+2025-03-13 15:23:46,594 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Manus AI  China’s Breakthrough.txt
+2025-03-13 15:23:51,005 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:23:51,057 - DEBUG - Extracted main post content: After Deepseek, a Chinese start-up called Butterfly Effect introduced an AI named Manus AI. This agent, capable of handling various tasks and with great autonomy, competes with OpenAI's DeepResearch. China continues to be at the center of news about artificial intelligence. Earlier this year, the world discovered Deepseek and its reasoning model. A remarkable success for a high-performing LLM trained at a low cost. This weekend, another Chinese start-up, Butterfly Effect, made headlines, especially with its Manus AI model. In a video, its founder, Xiao Hong, introduces this LLM as "the first general AI agent," capable of managing multiple tasks autonomously.
+In this presentation, Manus is capable of several things. It can recommend the best candidate for a job after ingesting, opening, and reading job applications, then categorize individuals in a text document before reformatting its recommendations into a spreadsheet. Another use case involves preparing a document on available real estate after a user provides their requirements, location, and budget. Finally, the last use case proposes correlating various stock prices of companies (including Nvidia), formatting them into a report, and creating a website to present them on a webpage.
+2025-03-13 15:23:54,690 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:23:54,695 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:23:57,429 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:23:57,430 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:23:57,450 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:23:57,560 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:23:57,567 - DEBUG - Text box scrolled into view
+2025-03-13 15:23:58,473 - DEBUG - Initializing actionchains
+2025-03-13 15:23:58,500 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2492}, size: {'height': 21, 'width': 68}
+2025-03-13 15:23:58,500 - DEBUG - Target click coordinates: (1121, 2502)
+2025-03-13 15:24:07,772 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:24:07,774 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:24:07,774 - DEBUG - Clicking on the text box.
+2025-03-13 15:24:07,775 - DEBUG - Sending keys with content: Interesting to see more competition popping up; it'll be fun watching these AI duke it out in real-world scenarios.
+
+2025-03-13 15:24:13,110 - DEBUG - Clicking on post reply button.
+2025-03-13 15:24:20,694 - DEBUG - Performed Actionchains
+2025-03-13 15:24:20,696 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:24:24,698 - INFO - Comment posted successfully.
+2025-03-13 15:24:24,700 - INFO - Task Completed!!
+2025-03-13 15:24:38,107 - INFO - Navigated back to the homepage.
+2025-03-13 15:24:40,286 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:24:40,323 - INFO - Garbage collection completed.
+2025-03-13 15:24:40,324 - INFO - Waiting for 10 seconds before next execution.

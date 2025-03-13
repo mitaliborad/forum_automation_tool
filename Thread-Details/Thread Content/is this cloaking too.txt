@@ -1,0 +1,121 @@
+--- Main Post Title ---
+is this cloaking too??
+
+Total comments in the thread: 9
+
+Topic User: jls428
+Topic: i dont know what this type of cloaking called... when search by keyword querry this is shown
+
+
+
+but if you type the domain directnya it will show the real mtv.travel and only by mobile search it will direct you to another amp pages...
+does anyone now what kind of cloaking is this?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: CNN
+Topic: Mostly probably yes
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: jls428
+Topic: can anyone explain how it works???
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Nicole Wells
+Topic: The type of cloaking you're referring to is often called "SERP Cloaking" or "Keyword Cloaking."
+
+It works by showing one type of content to search engines (Googlebot) and a completely different page to users when they click on the search result. This technique is commonly used for black hat SEO tactics to manipulate rankings while directing users to unrelated or monetized content.
+
+However, be aware that Google strictly prohibits cloaking, and sites using it risk penalties, deindexing, or bans from search results. If you're exploring this for SEO purposes, consider safer alternatives like optimized landing pages and legitimate ranking strategies.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: wiliammaskin66
+Topic: Nicole Wells said:
+The type of cloaking you're referring to is often called "SERP Cloaking" or "Keyword Cloaking."
+
+It works by showing one type of content to search engines (Googlebot) and a completely different page to users when they click on the search result. This technique is commonly used for black hat SEO tactics to manipulate rankings while directing users to unrelated or monetized content.
+
+However, be aware that Google strictly prohibits cloaking, and sites using it risk penalties, deindexing, or bans from search results. If you're exploring this for SEO purposes, consider safer alternatives like optimized landing pages and legitimate ranking strategies.
+Click to expand...
+What techniques are suitable for increasing AdSense income? and how to hide it from Google's AI ? Please let me know
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: bartosimpsonio
+Topic: Modify the referer header and test it again. You can do it using developer tools (F12)
+Liked by: chepsreboot
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: boulbimp3
+Topic: jls428 said:
+i dont know what this type of cloaking called... when search by keyword querry this is shown
+View attachment 421466
+
+
+but if you type the domain directnya it will show the real mtv.travel and only by mobile search it will direct you to another amp pages...
+does anyone now what kind of cloaking is this?
+This type of cloaking is mobile-only redirection with AMP manipulation. It works by showing different content depending on how the user accesses the site. When someone searches a specific keyword on Google, the search results display a manipulated version of the website. However, if the domain is accessed directly, it loads the real mtv.travel site.
+
+The key part of this cloaking is that the redirection happens only when the site is visited from Google Search on a mobile device. This is likely achieved by detecting user agents and referrer data to determine whether a visitor should be shown the legitimate site or redirected to an AMP-based page containing different content, often gambling or affiliate offers.
+
+This is done to manipulate Google’s rankings by making the site appear legitimate to crawlers while funneling real users to a different destination. Googlebot and desktop users see the real content, but mobile visitors coming from search results get redirected. Some setups use JavaScript or PHP-based redirections, while others rely on AMP hijacking, where Google caches an AMP version that loads different content when accessed.
+
+The main reason for using this technique is to rank for competitive or restricted keywords while avoiding detection. Since Google primarily reviews sites from a desktop environment, this method helps keep the manipulation hidden. It’s a high-risk approach that, once detected, usually results in penalties or deindexing.
+
+To check if this cloaking is happening, searching the same query on both mobile and desktop can reveal differences. Using Google’s Mobile-Friendly Test or setting the user agent to Googlebot Mobile can also help detect what content is being served differently. If this tactic is being used by a competitor to manipulate rankings, reporting it via Google Search Console is an option.
+Liked by: CloakerLy
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: jls428
+Topic: bartosimpsonio said:
+Modify the referer header and test it again. You can do it using developer tools (F12)
+can anyone teach me how to do this?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Jenny565
+Topic: bartosimpsonio said:
+Modify the referer header and test it again. You can do it using developer tools (F12)
+What are the specific steps to do, can you help me?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

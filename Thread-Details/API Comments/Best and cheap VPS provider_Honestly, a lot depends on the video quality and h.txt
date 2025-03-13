@@ -1,0 +1,1 @@
+Honestly, a lot depends on the video quality and how many viewers you're expecting. Have you looked into a CDN instead of straight VPS? Might save you some headaches.

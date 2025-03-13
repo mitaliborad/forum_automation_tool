@@ -1,101 +1,31 @@
 --- Main Post Title ---
-Using Phone as a mobile hotspot proxy
+Reddit ISP Proxy
 
-Total comments in the thread: 13
+Total comments in the thread: 12
 
-Topic User: RedditDudette
-Topic: Hello, I know people have turned extra cell phone lines into mobile proxies.
-
-Am I ok to run a hotspot from an extra phone and just turn the internet on and off to get a new ip?
-I am running android on a pixel phone in the USA. Will sites be able to see that I am running a hotspot from a phone?
-
-My cell provider is throttling me to 5ge is that an issue or a give away?
-
-I am making new accounts on reddit with adspower and I am having some difficulty in getting posts through. I am warming my accounts up for like 10 days sometimes with 100+ Karma and I am still having my posts removed. This makes me think it might be a proxy issue.
-
-Any advice would be much appreciated!
-Liked by: You
-Number of likes: 1
+Topic User: LADA
+Topic: Are ISP proxies work for Reddit?
+Crypto Arbitrage Scanner
+Liked by: 
+Number of likes: 0
 -----
 
 Replies:
 
 
-Topic User: Ashk881
-Topic: RedditDudette said:
-Hello, I know people have turned extra cell phone lines into mobile proxies.
-
-Am I ok to run a hotspot from an extra phone and just turn the internet on and off to get a new ip?
-I am running android on a pixel phone in the USA. Will sites be able to see that I am running a hotspot from a phone?
-
-My cell provider is throttling me to 5ge is that an issue or a give away?
-
-I am making new accounts on reddit with adspower and I am having some difficulty in getting posts through. I am warming my accounts up for like 10 days sometimes with 100+ Karma and I am still having my posts removed. This makes me think it might be a proxy issue.
-
-Any advice would be much appreciated!
-Click to expand...
-It's your content, not your ip. It's fine if you use a hotspot, reddit doesn't care much about mobile IPs since ip blocking anything behind a CGNAT is not possible.
-Liked by: You, TheMarquis
+Topic User: The Clutch
+Topic: LADA said:
+Are ISP proxies work for Reddit?
+Reddit is the most frustrating now a day. 4g lte proxies are working but don't know how long.
+Liked by: You, LADA
 Number of likes: 2
 -----
 
 Replies:
 
 
-Topic User: MuayThai
-Topic: You need to reboot your phone in order to get s new IP, most probably.
-Liked by: You
-Number of likes: 1
------
-
-Replies:
-
-
-Topic User: RedditDudette
-Topic: MuayThai said:
-You need to reboot your phone in order to get s new IP, most probably.
-I am checking my ip every time to make sure it has a new one.
-
-I am now reading that I might have a small pool of ips?
-Liked by: You
-Number of likes: 1
------
-
-Replies:
-
-
-Topic User: Fishoooo
-Topic: Using a hotspot from an extra phone can work, but there are some issues to consider:
-IP Reputation: Mobile IPs are often shared (carrier-grade NAT) and may already be flagged by Reddit.
-Hotspot Detection: Sites can detect hotspots via TTL differences or browser fingerprints. Use tools like Adspower to randomize fingerprints.
-Throttling: Throttling itself isn’t a giveaway, but low-reputation IPs might be problematic.
-Tips:
-Test your IP reputation.
-Use dedicated mobile/residential proxies for cleaner IPs.
-Warm up accounts longer (2–3 weeks) with organic activity.
-Ensure Adspower profiles have unique fingerprints and avoid repetitive posting patterns.
-If posts still get removed, try a test account on a clean IP to confirm if the hotspot setup is the issue.
-Liked by: RedditDudette
-Number of likes: 1
------
-
-Replies:
-
-
-Topic User: RedditDudette
-Topic: Fishoooo said:
-Using a hotspot from an extra phone can work, but there are some issues to consider:
-IP Reputation: Mobile IPs are often shared (carrier-grade NAT) and may already be flagged by Reddit.
-Hotspot Detection: Sites can detect hotspots via TTL differences or browser fingerprints. Use tools like Adspower to randomize fingerprints.
-Throttling: Throttling itself isn’t a giveaway, but low-reputation IPs might be problematic.
-Tips:
-Test your IP reputation.
-Use dedicated mobile/residential proxies for cleaner IPs.
-Warm up accounts longer (2–3 weeks) with organic activity.
-Ensure Adspower profiles have unique fingerprints and avoid repetitive posting patterns.
-If posts still get removed, try a test account on a clean IP to confirm if the hotspot setup is the issue.
-Click to expand...
-Thank you. How can I test my IPs reputation? pixelscan?
+Topic User: saferidge
+Topic: Yes, they can work. They perform better than datacenter proxies but aren’t as secure as mobile proxies. For managing multiple accounts or automation, mobile proxies are the best choice since they appear more natural to Reddit.
 Liked by: No user likes
 Number of likes: 0
 -----
@@ -103,8 +33,10 @@ Number of likes: 0
 Replies:
 
 
-Topic User: ZinyProxy
-Topic: You should get a 4g mobile static proxy, and also change the content of your post.
+Topic User: aboutblankk
+Topic: LADA said:
+Are ISP proxies work for Reddit?
+Come in PM with your needs. I may be able to assist with great quality Ips
 Liked by: No user likes
 Number of likes: 0
 -----
@@ -112,10 +44,8 @@ Number of likes: 0
 Replies:
 
 
-Topic User: ProxyPapa
-Topic: ZinyProxy said:
-You should get a 4g mobile static proxy, and also change the content of your post.
-What are the benefits of using a Mobile static proxy?
+Topic User: Proxy Cake
+Topic: Yes they work but still you need to warm the account up properly, that is more important
 Liked by: No user likes
 Number of likes: 0
 -----
@@ -124,19 +54,9 @@ Replies:
 
 
 Topic User: ristoriel
-Topic: RedditDudette said:
-Hello, I know people have turned extra cell phone lines into mobile proxies.
-
-Am I ok to run a hotspot from an extra phone and just turn the internet on and off to get a new ip?
-I am running android on a pixel phone in the USA. Will sites be able to see that I am running a hotspot from a phone?
-
-My cell provider is throttling me to 5ge is that an issue or a give away?
-
-I am making new accounts on reddit with adspower and I am having some difficulty in getting posts through. I am warming my accounts up for like 10 days sometimes with 100+ Karma and I am still having my posts removed. This makes me think it might be a proxy issue.
-
-Any advice would be much appreciated!
-Click to expand...
-Running a hotspot from your phone can work as a basic mobile proxy, but websites may still detect it based on network patterns or frequent IP changes. The throttling to 5GE shouldn’t be an issue, but if your carrier assigns CGNAT (shared) IPs, it could raise flags. If Reddit is still removing your posts despite warming up accounts, consider testing different IP ranges or using a dedicated mobile proxy with stable session control to reduce suspicion.
+Topic: LADA said:
+Are ISP proxies work for Reddit?
+Yes, ISP proxies can work for Reddit since they provide residential-like IPs with the stability of data center proxies. However, Reddit has strict detection methods, so using high-quality, reputable providers with good IP rotation is key.
 Liked by: No user likes
 Number of likes: 0
 -----
@@ -144,28 +64,8 @@ Number of likes: 0
 Replies:
 
 
-Topic User: johnbennett
-Topic: Yes, you can use a phone hotspot as a mobile proxy, but there are things to keep in mind:
-IP Reputation – Mobile IPs are shared (CGNAT), so they might already be flagged. A fresh IP doesn’t always mean a clean one.
-Hotspot Detection – Some sites detect hotspots using TTL values, browser fingerprints, and network patterns. Using Adspower is good, but ensure your fingerprints are well-randomized.
-Throttling & Stability – 5GE throttling isn’t a giveaway, but if your connection is unstable, Reddit might see unusual behavior, making account warming less effective.
-Tips to Improve Success:
-Use a 4G Mobile Static Proxy – It keeps a consistent IP while still looking like a real user.
-Test Your IP Reputation – Check if the IP is flagged before using it.
-Extend Warm-Up Time – Try 2-3 weeks of organic engagement before posting.
-Vary Your Content – Even with a clean proxy, repetitive content patterns get flagged.
-A mobile static proxy helps by giving you a stable, real-user IP with less risk of being flagged. It’s worth the investment if you're serious about avoiding detection.
-Liked by: ristoriel
-Number of likes: 1
------
-
-Replies:
-
-
-Topic User: kimitorki
-Topic: ProxyPapa said:
-What are the benefits of using a Mobile static proxy?
-nothing in this case if anything its worse. if he is using 1 same account then the static proxy is fine but if he is doing multiple accs he needs rotating mobile proxy so he can change ip every time he logs into another acc.
+Topic User: NyronProxies
+Topic: There is no such thing as an ISP, Residential and mobile proxies are good for this, but you need to catch clean ropes. Summary: It's a matter of luck
 Liked by: No user likes
 Number of likes: 0
 -----
@@ -173,8 +73,13 @@ Number of likes: 0
 Replies:
 
 
-Topic User: kimitorki
-Topic: Look reddit is too strict these days its not only your ip at fault there could be several reasons leading to ban, like what type of content, whats your cqs, have u posted link in your profile or comment and such. so without full information you cant only blame your ip
+Topic User: proxygo
+Topic: LADA said:
+Are ISP proxies work for Reddit?
+stick with 4g as long as you can
+PROXYHUB. TOP QUALITY PRIVATE PROXIES AT SOLID PRICES USA/UK/CA
+QUALITY PREMIUM BACK-LINKS. STRONG. POWERFUL. PROVEN. TESTED. T-RANKS
+STATIC / RESIDENTIAL / DEDICATED PRIVATE PROXIES HTTP&SOCKS USA&EU
 Liked by: No user likes
 Number of likes: 0
 -----
@@ -182,12 +87,41 @@ Number of likes: 0
 Replies:
 
 
-Topic User: TheMarquis
-Topic: Ashk881 said:
-It's your content, not your ip. It's fine if you use a hotspot, reddit doesn't care much about mobile IPs since ip blocking anything behind a CGNAT is not possible.
-+1 for this.
+Topic User: therenslayer
+Topic: The Clutch said:
+Reddit is the most frustrating now a day. 4g lte proxies are working but don't know how long.
+Any suggestions for good proxy providers?
+Liked by: No user likes
+Number of likes: 0
+-----
 
-Make sure you post good content which is not against Reddiquette and you are using the right settings for your antidetect browser.
+Replies:
+
+
+Topic User: ristoriel
+Topic: therenslayer said:
+Any suggestions for good proxy providers?
+You can visit BHW's marketplace, there are many providers there. It's advisable to ask for trials.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: PrimeCove
+Topic: Yes, ISP proxies can work for Reddit, but Reddit is pretty strict with detecting and blocking proxies in general.
+If you use good quality residential or ISP proxies with proper browser fingerprinting, you’ll have a much better chance of staying under the radar.
+Avoid datacenter proxies — they get flagged fast.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Digital Delights
+Topic: Yes, ISP proxies can work for Reddit by providing more natural-looking IP addresses, but they should be used carefully to avoid getting Flagged or Banned
 Liked by: No user likes
 Number of likes: 0
 -----

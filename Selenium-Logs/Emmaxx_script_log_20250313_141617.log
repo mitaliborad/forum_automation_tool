@@ -1,0 +1,107 @@
+2025-03-13 14:16:17,843 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250313_141617.log
+2025-03-13 14:16:17,846 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 14:16:17,877 - INFO - Loaded 190 visited threads from Thread_links.txt
+2025-03-13 14:16:17,887 - INFO - Successfully loaded links that was already visited!
+2025-03-13 14:16:17,890 - DEBUG - Scrolling page 4 times.
+2025-03-13 14:16:17,893 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:22,094 - DEBUG - Page scrolled.
+2025-03-13 14:16:24,098 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:25,948 - DEBUG - Page scrolled.
+2025-03-13 14:16:27,951 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:29,033 - DEBUG - Page scrolled.
+2025-03-13 14:16:31,035 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:32,969 - DEBUG - Page scrolled.
+2025-03-13 14:16:34,973 - DEBUG - Random scrolls complete.
+2025-03-13 14:16:34,974 - DEBUG - Scrolling page 6 times.
+2025-03-13 14:16:34,975 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:36,168 - DEBUG - Page scrolled.
+2025-03-13 14:16:38,170 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:39,301 - DEBUG - Page scrolled.
+2025-03-13 14:16:41,302 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:42,871 - DEBUG - Page scrolled.
+2025-03-13 14:16:44,873 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:46,047 - DEBUG - Page scrolled.
+2025-03-13 14:16:48,049 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:49,896 - DEBUG - Page scrolled.
+2025-03-13 14:16:51,897 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:52,959 - DEBUG - Page scrolled.
+2025-03-13 14:16:54,962 - DEBUG - Random scrolls complete.
+2025-03-13 14:17:03,351 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-03-13 14:17:07,637 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/tumblr-hit-systeam.1650426/
+2025-03-13 14:17:17,443 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/tumblr-hit-systeam.1650426/
+2025-03-13 14:17:17,447 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/tumblr-hit-systeam.1650426/' to visited threads file 'Thread_links.txt'.
+2025-03-13 14:17:17,523 - INFO - Extracted thread title: TUMBLR HIT SYSTEAM
+2025-03-13 14:17:17,526 - DEBUG - Scrolling page 4 times.
+2025-03-13 14:17:17,528 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:18,790 - DEBUG - Page scrolled.
+2025-03-13 14:17:20,791 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:22,629 - DEBUG - Page scrolled.
+2025-03-13 14:17:24,631 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:25,669 - DEBUG - Page scrolled.
+2025-03-13 14:17:27,672 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:29,073 - DEBUG - Page scrolled.
+2025-03-13 14:17:31,076 - DEBUG - Random scrolls complete.
+2025-03-13 14:17:33,376 - DEBUG - Scrolling page 4 times.
+2025-03-13 14:17:33,378 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:35,356 - DEBUG - Page scrolled.
+2025-03-13 14:17:38,358 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:40,314 - DEBUG - Page scrolled.
+2025-03-13 14:17:43,316 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:44,645 - DEBUG - Page scrolled.
+2025-03-13 14:17:47,647 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:49,440 - DEBUG - Page scrolled.
+2025-03-13 14:17:52,442 - DEBUG - Random scrolls complete.
+2025-03-13 14:17:52,488 - DEBUG - Found 6 like buttons.
+2025-03-13 14:17:55,492 - INFO - Attempting to like 4 posts. There are 6 available.
+2025-03-13 14:17:56,196 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 14:17:56,234 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 14:17:56,237 - DEBUG - Liked post number 1 of 4.
+2025-03-13 14:18:01,933 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 14:18:01,957 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 14:18:01,959 - DEBUG - Liked post number 2 of 4.
+2025-03-13 14:18:06,713 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 14:18:06,740 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 14:18:06,742 - DEBUG - Liked post number 3 of 4.
+2025-03-13 14:18:12,308 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 14:18:12,330 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 14:18:12,332 - DEBUG - Liked post number 4 of 4.
+2025-03-13 14:18:16,426 - INFO - Liked 4 posts successfully.
+2025-03-13 14:18:16,428 - INFO - Liked 4 posts successfully.
+2025-03-13 14:18:57,979 - DEBUG - Scrolling page 3 times.
+2025-03-13 14:18:57,981 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:18:59,051 - DEBUG - Page scrolled.
+2025-03-13 14:19:02,052 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:19:03,555 - DEBUG - Page scrolled.
+2025-03-13 14:19:06,557 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:19:07,748 - DEBUG - Page scrolled.
+2025-03-13 14:19:10,750 - DEBUG - Random scrolls complete.
+2025-03-13 14:19:13,283 - DEBUG - Total comments in the thread: 6
+2025-03-13 14:19:23,806 - INFO - Post content extracted and saved to Thread-Details/Thread Content\TUMBLR HIT SYSTEAM.txt
+2025-03-13 14:19:26,265 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 14:19:26,292 - DEBUG - Extracted main post content: Hello !
+
+I need organic hit system for TUMBLR.
+2025-03-13 14:19:31,302 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 14:19:31,305 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 14:19:45,583 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:19:45,585 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:19:45,618 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:19:45,666 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:19:45,674 - DEBUG - Text box scrolled into view
+2025-03-13 14:19:46,330 - DEBUG - Initializing actionchains
+2025-03-13 14:19:46,388 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2610}, size: {'height': 21, 'width': 68}
+2025-03-13 14:19:46,389 - DEBUG - Target click coordinates: (1121, 2620)
+2025-03-13 14:19:54,751 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 14:19:54,752 - DEBUG - Moving mouse to text box element.
+2025-03-13 14:19:54,753 - DEBUG - Clicking on the text box.
+2025-03-13 14:19:54,753 - DEBUG - Sending keys with content: I'd be curious to see what you've already tried; knowing that could help narrow down some potentially useful solutions.
+
+2025-03-13 14:20:00,270 - DEBUG - Clicking on post reply button.
+2025-03-13 14:20:11,314 - DEBUG - Performed Actionchains
+2025-03-13 14:20:11,316 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 14:20:15,320 - INFO - Comment posted successfully.
+2025-03-13 14:20:15,321 - INFO - Task Completed!!
+2025-03-13 14:20:20,342 - INFO - Navigated back to the homepage.
+2025-03-13 14:20:22,655 - INFO - Attempting to clear memory and resources.
+2025-03-13 14:20:22,686 - INFO - Garbage collection completed.
+2025-03-13 14:20:22,687 - INFO - Waiting for 10 seconds before next execution.

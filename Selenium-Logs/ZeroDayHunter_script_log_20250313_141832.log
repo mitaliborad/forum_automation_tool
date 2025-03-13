@@ -1,0 +1,5 @@
+2025-03-13 14:18:32,491 - INFO - Starting automation for profile: ZeroDayHunter
+2025-03-13 14:18:40,585 - INFO - Profile ZeroDayHunter: Successfully logged in.
+2025-03-13 14:18:40,588 - INFO - Profile ZeroDayHunter: Starting profile e70a0144-441c-40ec-92fc-84a43bc03e6a...
+2025-03-13 14:19:10,745 - ERROR - Profile ZeroDayHunter: Connection error starting profile: HTTPSConnectionPool(host='launcher.mlx.yt', port=45001): Max retries exceeded with url: /api/v1/profile/f/2895cd9a-0e5f-44bc-a1f5-344a8d81baaa/p/e70a0144-441c-40ec-92fc-84a43bc03e6a/start?automation_type=selenium (Caused by SSLError(SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2638)')))
+2025-03-13 14:19:10,748 - ERROR - Failed to start MultiLogin profile: ZeroDayHunter. Skipping.

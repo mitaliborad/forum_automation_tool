@@ -1,0 +1,103 @@
+2025-03-12 15:20:35,941 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_152035.log
+2025-03-12 15:20:35,946 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 15:20:36,026 - INFO - Loaded 174 visited threads from Thread_links.txt
+2025-03-12 15:20:36,029 - INFO - Successfully loaded links that was already visited!
+2025-03-12 15:20:36,031 - DEBUG - Scrolling page 5 times.
+2025-03-12 15:20:36,032 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:20:37,832 - DEBUG - Page scrolled.
+2025-03-12 15:20:39,835 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:20:41,374 - DEBUG - Page scrolled.
+2025-03-12 15:20:43,378 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:20:44,877 - DEBUG - Page scrolled.
+2025-03-12 15:20:46,880 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:20:48,348 - DEBUG - Page scrolled.
+2025-03-12 15:20:50,351 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:20:51,854 - DEBUG - Page scrolled.
+2025-03-12 15:20:53,856 - DEBUG - Random scrolls complete.
+2025-03-12 15:20:53,857 - DEBUG - Scrolling page 6 times.
+2025-03-12 15:20:53,858 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:20:54,946 - DEBUG - Page scrolled.
+2025-03-12 15:20:56,949 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:20:58,894 - DEBUG - Page scrolled.
+2025-03-12 15:21:00,896 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:21:02,360 - DEBUG - Page scrolled.
+2025-03-12 15:21:04,362 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:21:05,806 - DEBUG - Page scrolled.
+2025-03-12 15:21:07,807 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:21:09,177 - DEBUG - Page scrolled.
+2025-03-12 15:21:11,179 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:21:12,967 - DEBUG - Page scrolled.
+2025-03-12 15:21:14,974 - DEBUG - Random scrolls complete.
+2025-03-12 15:21:24,035 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-03-12 15:21:28,513 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/someone-made-an-ig-account-bashing-our-biz.1670430/
+2025-03-12 15:21:40,975 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/someone-made-an-ig-account-bashing-our-biz.1670430/
+2025-03-12 15:21:40,978 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/someone-made-an-ig-account-bashing-our-biz.1670430/' to visited threads file 'Thread_links.txt'.
+2025-03-12 15:21:41,017 - INFO - Extracted thread title: Someone made an IG account bashing our biz.
+2025-03-12 15:21:41,019 - DEBUG - Scrolling page 2 times.
+2025-03-12 15:21:41,020 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:21:42,968 - DEBUG - Page scrolled.
+2025-03-12 15:21:44,971 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:21:46,170 - DEBUG - Page scrolled.
+2025-03-12 15:21:48,173 - DEBUG - Random scrolls complete.
+2025-03-12 15:21:50,187 - DEBUG - Scrolling page 2 times.
+2025-03-12 15:21:50,189 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:21:52,048 - DEBUG - Page scrolled.
+2025-03-12 15:21:55,051 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:21:56,895 - DEBUG - Page scrolled.
+2025-03-12 15:21:59,897 - DEBUG - Random scrolls complete.
+2025-03-12 15:21:59,920 - DEBUG - Found 3 like buttons.
+2025-03-12 15:22:02,921 - INFO - Attempting to like 2 posts. There are 3 available.
+2025-03-12 15:22:03,579 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:22:03,591 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:22:03,592 - DEBUG - Liked post number 1 of 2.
+2025-03-12 15:22:09,277 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:22:09,287 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:22:09,288 - DEBUG - Liked post number 2 of 2.
+2025-03-12 15:22:14,200 - INFO - Liked 2 posts successfully.
+2025-03-12 15:22:14,202 - INFO - Liked 2 posts successfully.
+2025-03-12 15:22:16,764 - DEBUG - Scrolling page 7 times.
+2025-03-12 15:22:16,765 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:22:18,001 - DEBUG - Page scrolled.
+2025-03-12 15:22:21,002 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:22:22,682 - DEBUG - Page scrolled.
+2025-03-12 15:22:25,683 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:22:27,259 - DEBUG - Page scrolled.
+2025-03-12 15:22:30,262 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:22:31,636 - DEBUG - Page scrolled.
+2025-03-12 15:22:34,639 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:22:36,127 - DEBUG - Page scrolled.
+2025-03-12 15:22:39,129 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:22:40,459 - DEBUG - Page scrolled.
+2025-03-12 15:22:43,461 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:22:44,864 - DEBUG - Page scrolled.
+2025-03-12 15:22:47,865 - DEBUG - Random scrolls complete.
+2025-03-12 15:22:50,136 - DEBUG - Total comments in the thread: 3
+2025-03-12 15:23:00,751 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Someone made an IG account bashing our biz..txt
+2025-03-12 15:23:03,212 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 15:23:03,260 - DEBUG - Extracted main post content: Title. Someone made a page dedicated to bashing our business. Can a page like this be removed? Is there a process? The profile doesn't even have personal pictures, its' not a personal profile. The profile name even is /AVOIDbusinessname/
+
+How can something like this be removed?
+2025-03-12 15:23:06,815 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 15:23:06,817 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 15:23:09,389 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:23:09,391 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:23:09,412 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:23:09,459 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:23:09,469 - DEBUG - Text box scrolled into view
+2025-03-12 15:23:10,088 - DEBUG - Initializing actionchains
+2025-03-12 15:23:10,132 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1942}, size: {'height': 21, 'width': 68}
+2025-03-12 15:23:10,132 - DEBUG - Target click coordinates: (1121, 1952)
+2025-03-12 15:23:17,704 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 15:23:17,711 - DEBUG - Moving mouse to text box element.
+2025-03-12 15:23:17,713 - DEBUG - Clicking on the text box.
+2025-03-12 15:23:17,715 - DEBUG - Sending keys with content: Man, that sucks. Have you tried reporting the page directly to the platform as impersonation or harassment?
+
+2025-03-12 15:23:23,109 - DEBUG - Clicking on post reply button.
+2025-03-12 15:23:34,118 - DEBUG - Performed Actionchains
+2025-03-12 15:23:34,119 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 15:23:38,121 - INFO - Comment posted successfully.
+2025-03-12 15:23:38,123 - INFO - Task Completed!!
+2025-03-12 15:23:52,636 - INFO - Navigated back to the homepage.
+2025-03-12 15:23:55,145 - INFO - Attempting to clear memory and resources.
+2025-03-12 15:23:55,188 - INFO - Garbage collection completed.
+2025-03-12 15:23:55,190 - INFO - Waiting for 1000 seconds before next execution.

@@ -14,754 +14,265 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from pynput.mouse import Button, Controller
-
-from gemini_api import GeminiHandler
-from Multilogin_profiles import Emmaxx_profile
-
-# --- Automation Configuration ---  (Keep only Automation Configuration here)
-#PROFILE = "Emmaxx_profile"
-LOG_DIRECTORY = "Selenium-Logs"
-AUTOMATION_WAIT_TIME = 1240
-MIN_SCROLLS = 3
-MAX_SCROLLS = 7
-SCROLL_AMOUNT = 500
-SCROLL_DELAY = 2
-MIN_LIKES = 1
-MAX_LIKES = 3
-MIN_SCROLLS_POSTS = 1
-MAX_SCROLLS_POSTS = 5
-SCROLL_DELAY_LIKES = 3
-WRITE_DELAY = 3
-BASE_SPEED = 0.001
-SUB_FORUM_LIST_FILE = "Sub-Forum-List.txt"
-VISITED_THREADS_FILE = "Thread_links.txt"
-start_time = datetime.now()
-run_duration = timedelta(hours=2) 
-
-
-# 
-def setup_logger(log_dir, timestamp=None):
-    """Sets up a logger with a unique file for each automation run."""
-    os.makedirs(log_dir, exist_ok=True)
-
-    if timestamp is None:
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    
-    log_file = os.path.join(log_dir, f"script_log_{timestamp}.log")
-    
-    logger = logging.getLogger(f"automation_{timestamp}")  # Unique logger per run
-    logger.setLevel(logging.DEBUG)
-
-    file_handler = logging.FileHandler(log_file)
-    file_handler.setLevel(logging.DEBUG)
-
-    console_handler = logging.StreamHandler()
-    console_handler.setLevel(logging.INFO)
-
-    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-    file_handler.setFormatter(formatter)
-    console_handler.setFormatter(formatter)
-
-    logger.addHandler(file_handler)
-    logger.addHandler(console_handler)
-    
-    return logger, log_file
-
-# Initialize the logger at the module level
-#logger, log_file = setup_logger(LOG_DIRECTORY)
-
-# --- Mouse Movement Functions ---
-
-mouse = Controller()
-
-def bezier_curve(p0, p1, p2, t):
-    return (1-t)**2 * p0 + 2*(1-t)*t*p1 + t**2*p2
-
-def generate_bezier_path(start, end, num_points=50):
-    logger.debug(f"Generating Bezier path from {start} to {end} with {num_points} points.")
-    control_point = (
-        start[0] + random.randint(-100, 100),
-        start[1] + random.randint(-100, 100)
-    )
-    logger.debug(f"Control point: {control_point}")
-    path = []
-    for i in range(num_points):
-        t = i / (num_points - 1)
-        point = bezier_curve(np.array(start), np.array(control_point), np.array(end), t)
-        path.append((int(point[0]), int(point[1])))
-    logger.debug(f"Generated Bezier path with {len(path)} points.")
-    return path
-
-def move_mouse_with_curve(target_x, target_y, base_speed=BASE_SPEED):
-    current_x, current_y = mouse.position
-    logger.debug(f"Moving mouse from ({current_x}, {current_y}) to ({target_x}, {target_y}).")
-    path = generate_bezier_path((current_x, current_y), (target_x, target_y))
-    for x, y in path:
-        speed = base_speed * random.uniform(0.8, 1.5)
-        distance = np.sqrt((current_x - x)**2 + (current_y - y)**2)
-        delay = speed * (distance **0.75)
-        time.sleep(delay)
-        mouse.position = (x, y)
-        current_x, current_y = x, y
-        logger.debug(f"Moved mouse to ({x}, {y}), delay: {delay:.4f}")
-    logger.info(f"Successfully moved mouse to ({target_x}, {target_y}) using Bezier curve.")
-
-# --- Helper Functions ---
-
-#for import Sub-Forum-List.txt file
-def get_subforum_list(file_path=SUB_FORUM_LIST_FILE):
-    """Reads subforum URLs from the specified file."""
-    try:
-        with open(file_path, "r") as f:
-            subforum_urls = [line.strip() for line in f if line.strip()]
-        logger.info(f"Loaded {len(subforum_urls)} subforum URLs from {file_path}")
-        return subforum_urls
-    except FileNotFoundError:
-        logger.error(f"Subforum list file '{file_path}' not found.")
-        return []
-    except Exception as e:
-        logger.error(f"Error reading subforum list file: {e}", exc_info=True)
-        return []
-
-def load_visited_threads(file_path=VISITED_THREADS_FILE):
-    """Loads the list of visited threads from the specified file."""
-    try:
-        with open(file_path, "r") as f:
-            visited_threads = [line.strip() for line in f if line.strip()]
-        logger.info(f"Loaded {len(visited_threads)} visited threads from {file_path}")
-        return set(visited_threads)  # Use a set for faster lookups
-    except FileNotFoundError:
-        logger.info(f"Visited threads file '{file_path}' not found. Starting with an empty list.")
-        return set()
-    except Exception as e:
-        logger.error(f"Error reading visited threads file: {e}", exc_info=True)
-        return set()
-
-def save_visited_thread(thread_url, file_path=VISITED_THREADS_FILE):
-    """Appends a thread URL to the list of visited threads."""
-    try:
-        with open(file_path, "a") as f:
-            f.write(thread_url + "\n")
-        logger.info(f"Saved thread URL '{thread_url}' to visited threads file '{file_path}'.")
-    except Exception as e:
-        logger.error(f"Error saving thread URL to visited threads file: {e}", exc_info=True)
-
-# page scroll
-def scroll_page(driver, scroll_amount=SCROLL_AMOUNT, min_delay=1, max_delay=2.0):
-    logger.debug(f"Scrolling page by {scroll_amount} pixels.")
-    try:
-        driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
-    except Exception as e:
-        logger.warning(f"Scrolling failed: {e}")
-    time.sleep(random.uniform(min_delay, max_delay))
-    logger.debug("Page scrolled.")
-
-#page scroll for random times
-def scroll_random_times(driver, min_scrolls=MIN_SCROLLS, max_scrolls=MAX_SCROLLS, scroll_amount=SCROLL_AMOUNT, scroll_delay=SCROLL_DELAY):
-    num_scrolls = random.randint(min_scrolls, max_scrolls)
-    logger.debug(f"Scrolling page {num_scrolls} times.")
-    for _ in range(num_scrolls):
-        scroll_page(driver, scroll_amount)
-        time.sleep(scroll_delay)
-    logger.debug("Random scrolls complete.")
-
-#click on element using javascript and actionchains
-def click_element(driver, locator):
-    try:
-        element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(locator))
-        logger.debug(f"Element found, attempting to click using JavaScript: {locator}")
-        driver.execute_script("arguments[0].focus();", element)
-        driver.execute_script("arguments[0].click();", element)
-        logger.info(f"Element clicked successfully using JavaScript: {locator}")
-    except Exception as e:
-        logger.warning(f"JavaScript click failed, attempting ActionChains: {e}")
-        try:
-            element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(locator))
-            actions = ActionChains(driver)
-            actions.move_to_element(element).click().perform()
-            logger.info(f"Element clicked successfully using ActionChains: {locator}")
-        except Exception as e:
-            logger.error(f"Failed to click element after attempting ActionChains: {locator}. Error: {e}", exc_info=True)
-
-#find element with scrolling the page
-def find_element_with_scroll(driver, locator, max_scrolls=5):
-    logger.debug(f"Attempting to find element with locator: {locator}")
-    for i in range(max_scrolls):
-        try:
-            element = WebDriverWait(driver, 5).until(EC.presence_of_element_located(locator))
-            logger.info(f"Element found after {i + 1} scrolls: {locator}")
-            return element
-        except:
-            logger.debug(f"Element not found, scrolling page (attempt {i + 1}/{max_scrolls}).")
-            scroll_page(driver, scroll_amount=400)
-    logger.warning(f"Element not found after {max_scrolls} scrolls: {locator}")
-    return None
-
-#find like button, numbers of like buttons
-def find_like_buttons(driver):
-    try:
-        like_buttons = WebDriverWait(driver, 5).until(
-            EC.presence_of_all_elements_located((By.XPATH, "//bdi[contains(text(), 'Like')]"))
-        )
-        logger.debug(f"Found {len(like_buttons)} like buttons.")
-        likes_length = len(like_buttons)
-        return like_buttons, likes_length
-    except Exception as e:
-        logger.warning(f"Error finding like buttons: {e}", exc_info=True)
-        return []
-
-#click on like button
-def click_like_button(driver, button, scroll_delay=2):
-    try:
-        driver.execute_script("arguments[0].scrollIntoView();", button)
-        time.sleep(random.uniform(0.5, 1))
-        logger.debug("Scrolling like button into view and attempting to click using JavaScript.")
-        driver.execute_script("arguments[0].click();", button)
-        logger.info("Like button clicked successfully using JavaScript.")
-        return True
-    except Exception as e:
-        logger.warning(f"JavaScript click failed: {e}, attempting ActionChains.", exc_info=True)
-        try:
-            ActionChains(driver).move_to_element(button).click().perform()
-            logger.info("Like button clicked successfully using ActionChains.")
-            return True
-        except Exception as e:
-            logger.error(f"Failed to click like button after attempting ActionChains: {e}", exc_info=True)
-            return False
-
-# like random amount of post, at random time, like on random posts
-def like_random_posts(driver, min_likes=MIN_LIKES, max_likes=MAX_LIKES, min_scrolls_posts=MIN_SCROLLS_POSTS, max_scrolls_posts=MAX_SCROLLS_POSTS, scroll_delay=SCROLL_DELAY_LIKES):
-    try:
-        scroll_random_times(driver, min_scrolls_posts, max_scrolls_posts, scroll_amount=500, scroll_delay=scroll_delay)
-        like_buttons, likes_length = find_like_buttons(driver)
-
-        if not like_buttons:
-            logger.info("No like buttons found, skipping like_random_posts function...")
-            return
-
-        total_likes = random.randint(min_likes, max_likes)
-        total_likes = min(total_likes, likes_length)
-
-        liked_buttons = set()
-        time.sleep(scroll_delay)
-        logger.info(f"Attempting to like {total_likes} posts. There are {likes_length} available.")
-
-        while len(liked_buttons) < total_likes:
-            skip_interval = random.randint(2, 5)
-            current_index = 0
-
-            while current_index < len(like_buttons) and len(liked_buttons) < total_likes:
-                try:
-                    button = like_buttons[current_index]
-                    if button not in liked_buttons and click_like_button(driver, button, scroll_delay):
-                        liked_buttons.add(button)
-                        logger.debug(f"Liked post number {len(liked_buttons)} of {total_likes}.")
-                        time.sleep(random.uniform(4, 5))
-                    current_index += skip_interval
-                except Exception as e:
-                    logger.error(f"Error clicking like button: {e}", exc_info=True)
-                    break  # Prevent infinite loop
-
-        logger.info(f"Liked {len(liked_buttons)} posts successfully.")
-    except Exception as e:
-        logger.error(f"Unexpected error in like_random_posts: {e}", exc_info=True)
-
-    logger.info(f"Liked {len(liked_buttons)} posts successfully.")
-
-def count_main_post_comments(driver):
-    try:
-        # Locate the first post container
-        first_post = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.XPATH, "//article[@data-author][1]"))
-        )
-
-        # Find all reply buttons inside the first post only
-        reply_buttons = first_post.find_elements(By.XPATH, ".//footer//a[contains(@class, 'actionBar-action--reply')]")
-
-        # Count the number of reply buttons
-        total_comments = len(reply_buttons)
-        
-        print(f"Total comments on the first post: {total_comments}")
-        return total_comments
-
-    except Exception as e:
-        print(f"Error counting comments: {e}")
-        return 0
-
-
-# extract element text
-def extract_element_text(element, xpath):
-    try:
-        element = WebDriverWait(element, 3).until(EC.presence_of_element_located((By.XPATH, xpath)))
-        text = element.text.strip()
-        logging.debug(f"Extracted text '{text}' from element with XPath: {xpath}")
-        return text
-    except Exception as e:
-        logging.warning(f"Could not extract text from element with XPath: {xpath}. Error: {e}", exc_info=True)
-        return "No text found"
-
-# extract main post content
-def extract_main_post_content(driver):
-    try:
-        main_post_locator = (By.XPATH, '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
-        logger.debug(f"Attempting to locate main post element with locator: {main_post_locator}")
-        main_post_element = WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located(main_post_locator)
-        )
-        main_post_text = main_post_element.text.strip()
-        logger.debug(f"Extracted main post content: {main_post_text}")
-        return main_post_text
-    except Exception as e:
-        logger.warning(f"Could not extract main post content. Error: {e}", exc_info=True)
-        return None
-
-# extract post content
-def extract_post_content(driver, output_file):
-    try:
-        posts_locator = (By.CSS_SELECTOR, 'article[data-author]')
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located(posts_locator))
-        all_posts_elements = driver.find_elements(*posts_locator)
-
-        with open(output_file, 'w', encoding='utf-8') as file:
-            try:
-                main_post_element = WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.XPATH, '//h1'))
-                )
-                main_post = main_post_element.text.strip()
-                file.write(f"--- Main Post Title ---\n{main_post}\n\n")
-                logging.debug(f"Main Post Title: {main_post}")
-            except Exception as e:
-                file.write(f"--- Main Post Title ---\nNo main post title found\n\n")
-                logging.warning(f"No main post title found. Error: {e}", exc_info=True)
-            
-            try:
-                all_comments = driver.find_elements(By.XPATH, "//footer//a[contains(@class, 'actionBar-action--reply')]")
-                total_comments = len(all_comments)
-                logger.debug(f"Total comments in the thread: {total_comments}")
-                file.write(f"Total comments in the thread: {total_comments}\n\n")
-            except Exception as e:
-                logger.warning(f"Could not count total comments: {e}", exc_info=True)
-                file.write("Total comments: 0\n\n")
-
-            first_post = True
-
-            for post_element in all_posts_elements:
-                try:
-                    link_element = post_element.find_element(By.XPATH, ".//div[@data-lb-id]")
-                    post_id = link_element.get_attribute("data-lb-id")
-                    logging.info(f"Processing post with ID: {post_id}")
-                except Exception as e:
-                    post_id = "No ID Found"
-                    logging.error(f"Could not extract post ID. Error: {e}", exc_info=True)
-
-                topic_username = extract_element_text(post_element, ".//h4//a//span")
-                file.write(f"Topic User: {topic_username}\n")
-                logging.debug(f"Topic User: {topic_username}")
-
-                topic_locator = ".//div[@class='message-content js-messageContent']"
-                topic = extract_element_text(post_element, topic_locator)
-                file.write(f"Topic: {topic}\n")
-                logging.debug(f"Topic: {topic}")
-
-                try:
-                    like_user_locator = ".//a[@data-xf-click='overlay'][bdi]"
-                    like_user_element = WebDriverWait(post_element, 3).until(EC.presence_of_element_located((By.XPATH, like_user_locator)))
-                    like_user_text = like_user_element.text.strip()
-
-                    parts = re.split(r", | and ", like_user_text)
-                    other_count = 0
-                    if parts and "others" in parts[-1]:
-                        try:
-                            other_count = int(re.search(r'(\d+)', parts[-1]).group(1))
-                            parts = parts[:-1]
-                        except:
-                            other_count = 0
-
-                    like_users = [user.strip() for user in parts if user.strip()]
-                    like_count = len(like_users) + other_count
-
-                    file.write(f"Liked by: {like_user_text}\n")
-                    file.write(f"Number of likes: {like_count}\n")
-                    logging.debug(f"Liked by: {like_user_text}")
-                    logging.debug(f"Number of likes: {like_count}")
-                except Exception as e:
-                    file.write("Liked by: No user likes\n")
-                    file.write("Number of likes: 0\n")
-                    logging.debug(f"No user likes were found: {e}", exc_info=True)
-                
-                # if first_post:
-                #     # Extract Number of comments ONLY for Main Post
-                #     try:
-                #         comments_elements = post_element.find_elements(By.XPATH, ".//footer//a[contains(@class, 'actionBar-action--reply')]")
-                #         num_comments = len(comments_elements)
-
-                #         file.write(f"Number of comments: {num_comments}\n")
-                #         logging.debug(f"Number of comments: {num_comments}")
-
-                #     except Exception as e:
-                #         file.write("Number of comments: 0\n")
-                #         logging.debug(f"No reply was found: {e}", exc_info=True)
-                #     first_post = False
-                # else:
-                #     file.write("Number of comments: (Reply Post)\n")  # Indicate it's a reply post
-                #     logging.debug("Number of comments: (Reply Post)")
-
-
-                file.write("-----\n\n")  # Separator after each post                
-                file.write("Replies:\n\n\n")
-
-    except Exception as e:
-        logging.critical(f"General error in extract_post_content: {e}", exc_info=True)
-
-    #             # --- Extract Number of comments ONLY for Main Post & Structure Replies ---
-    #             if post_id == driver.find_element(By.XPATH, '//div//article[@itemscope and @itemtype]//div[@data-lb-id]').get_attribute("data-lb-id"):
-    #                 try:
-    #                     comments_elements = post_element.find_elements(By.XPATH, ".//div[@itemprop='text']//div['text']")
-    #                     num_comments = len(comments_elements)
-                        
-    #                     file.write(f"Number of comments: {num_comments}\n")
-    #                     logging.debug(f"Number of comments: {num_comments}")
-                    
-    #                 except Exception as e:
-    #                     file.write("Number of comments: 0\n")
-    #                     logging.debug(f"No reply was found: {e}", exc_info=True)
-    #             else:
-    #               file.write("Number of comments: 0 (Reply Post)\n")  # Indicate it's a reply post
-    #               logging.debug("Number of comments: 0 (Reply Post)")
-
-    #             # Structure Replies
-    #             file.write("-----\n\n")
-    #             file.write("Replies:\n\n\n")
-
-    # except Exception as e:
-    #     logging.critical(f"General error in extract_post_content: {e}", exc_info=True)
-
-
-# read thread content 
-def read_thread_content(file_path):
-    try:
-        with open(file_path, "r", encoding="utf-8") as f:
-            content = f.read()
-        return content
-    except FileNotFoundError:
-        logger.error(f"Thread content file '{file_path}' not found.")
-        return None
-    except Exception as e:
-        logger.error(f"Error reading thread content file: {e}", exc_info=True)
-        return None
-
-# API generates and save comments in txt file
-def generate_and_save_comments(thread_content, output_file):
-    try:
-        gemini_handler = GeminiHandler()
-        comments = gemini_handler.get_comments(thread_content,prompt_file="prompt.txt")
-
-        if comments:
-            logger.info("Successfully generated comments using Gemini API.")
-            try:
-                with open(output_file, "w", encoding="utf-8") as f:
-                    f.write(comments)
-                logger.info(f"Comment saved to '{output_file}'.")
-                return comments
-            
-            except Exception as e:
-                logger.error(f"Error saving comment to file: {e}", exc_info=True)
-                return None
-        else:
-            logger.warning("Failed to generate comment using Gemini API.")
-            return None
-
-    except Exception as e:
-        logger.error(f"Error occurred while generating comment: {e}", exc_info=True)
-        return None
-
-# write and post comment
-def post_comment(driver, comment,write_delay=WRITE_DELAY):
-    if not comment:
-        logger.warning("No comment to post.")
-        return False
-
-    try:
-        write_comment_locator = (By.XPATH,"//span[contains(text(), 'Write your reply...')]")
-        logger.debug(f"Searching for text box with locator: {write_comment_locator}")
-        write_comment = find_element_with_scroll(driver,write_comment_locator)
-
-        post_reply = driver.find_element(By.XPATH,"//span[contains(text(),'Post reply')]")
-        if write_comment:
-
-            try:
-                element = WebDriverWait(driver,10).until(EC.element_to_be_clickable(write_comment_locator))
-                logger.debug(f"Text box is clickable using element_to_be_clickable with locator : {write_comment_locator}")
-                driver.execute_script("arguments[0].scrollIntoView(true);", element)
-                logger.debug("Text box scrolled into view")
-                time.sleep(random.uniform(0.5,1))
-
-                logger.debug("Initializing actionchains")
-                actions = ActionChains(driver)
-
-                location = post_reply.location
-                size = post_reply.size
-                logger.debug(f"Post reply Element location: {location}, size: {size}")
-
-                target_x = location['x'] + size['width'] // 2
-                target_y = location['y'] + size['height'] // 2
-                logger.debug(f"Target click coordinates: ({target_x}, {target_y})")
-
-                move_mouse_with_curve(target_x, target_y)
-                logger.debug("Moved mouse to target location using bezier curve.")
-
-                actions.move_to_element(element)
-                logger.debug("Moving mouse to text box element.")
-
-                actions.click()
-                logger.debug("Clicking on the text box.")
-
-                actions.send_keys(comment)
-                logger.debug(f"Sending keys with content: {comment}")
-
-                time.sleep(random.uniform(2,3))
-                time.sleep(write_delay)
-                actions.click(post_reply)
-                logger.debug(f"Clicking on post reply button.")
-
-                actions.perform()
-                logger.debug("Performed Actionchains")
-                logger.info("Successfully wrote into text box using ActionChains and click.")
-
-                time.sleep(4)
-
-            except Exception as e:
-                logger.error(f"Error posting comment: {e}", exc_info=True)
-                return False
-            
-    except Exception as e:
-            logger.error("if comment closed then you should close the browser")
-            try:
-                block_comment_locator = (By.XPATH,'//div//dl[@class="blockStatus"]//dd')
-                logger.debug(f"Searching for text with locator: {block_comment_locator}")
-                block_comment = find_element_with_scroll(driver,block_comment_locator)
-                if block_comment:
-                   driver.quit()
-                else:
-                    print("no driver found")
-            except Exception as e:
-                print(e)
-
-# extract thread title
-def get_thread_title(driver):
-
-    try:
-        title_element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//div//h1')))
-        thread_title = title_element.text.strip()
-        thread_title = re.sub(r'[\\/*?:"<>|]', "", thread_title)
-        logger.info(f"Extracted thread title: {thread_title}")
-        return thread_title
-    
-    except Exception as e:
-        logger.warning(f"Could not extract thread title. Error: {e}", exc_info=True)
-        return "Untitled Thread"
-
-# clear memory after automation
-def clear_memory():
-    logger.info("Attempting to clear memory and resources.")
-    gc.collect()
-    logger.info("Garbage collection completed.")
-
-# find random thread link from Sub-Forum-link
-def find_random_thread_link_from_subforum(driver, subforum_url,visited_threads):
-    """Navigates to a subforum and finds a random thread link."""
-    try:
-        driver.get(subforum_url)
-        logger.info(f"Navigated to subforum: {subforum_url}")
-
-        wait = WebDriverWait(driver, 10)
-        wait.until(EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]")))
-        all_threads = driver.find_elements(By.XPATH, "//div[contains(@class, 'structItem')]")
-        unvisited_threads = []
-        for thread in all_threads:
-            try:
-                
-                sticky_span = thread.find_elements(By.XPATH, ".//span[contains(@class, 'sticky-thread--hightlighted')]")
-
-                # Skip if the span exists, indicating it's a sticky thread
-                if sticky_span:
-                    continue
-
-                title_elements = thread.find_elements(By.XPATH, ".//div[contains(@class, 'structItem-title')]//a")
-                
-                if title_elements:
-                    href = title_elements[0].get_attribute("href")
-                    if href not in visited_threads:
-                        unvisited_threads.append(title_elements[0])
-
-            except Exception as e:
-                print(f"Skipping a thread due to error: {e}")
-
-        if not unvisited_threads:
-            logger.warning(f"No unvisited thread links found in subforum: {subforum_url}")
-            return None
-
-        random_link = random.choice(unvisited_threads)
-        href = random_link.get_attribute("href")
-        logger.info(f"Selected random thread link: {href}")
-        return href
-
-    except Exception as e:
-        logger.error(f"Error finding random thread link in subforum: {e}", exc_info=True)
-        return None
-
-    
-# after automation it navigate home page 
-def navigate_home(driver):
-    """Navigates the driver back to the main BHW homepage."""
-    try:
-         driver.get("https://www.blackhatworld.com/")
-         logger.info("Navigated back to the homepage.")
-         time.sleep(random.uniform(2, 3))  # Short delay to ensure page load
-    except Exception as e:
-         logger.error(f"Failed to navigate back to the homepage: {e}", exc_info=True)
-
-
-# --- Main Execution Loop ---
-
-if __name__ == "__main__":
-
-    logger, log_file = setup_logger(LOG_DIRECTORY)
-
-    #find directories
-    thread_details_dir = "Thread-Details"
-    thread_content_dir = os.path.join(thread_details_dir, "Thread Content")
-    api_comments_dir = os.path.join(thread_details_dir, "API Comments")
-
-    token = None  # Initialize token outside the loop
+import threading
+
+from blackhatworld_config import setup_logger  # Import logger setup
+from Multilogin_manager import PROFILES, signin, start_profile, stop_profile, perform_random_action  # Import Multilogin functions
+from blackhatworld_functions import (
+    get_subforum_list,
+    load_visited_threads,
+    save_visited_thread,
+    scroll_random_times,
+    find_random_thread_link_from_subforum,
+    get_thread_title,
+    like_random_posts,
+    extract_post_content,
+    extract_main_post_content,
+    generate_and_save_comments,
+    read_thread_content,
+    post_comment,
+    navigate_home,
+    clear_memory
+) # Import functions from Blackhatworld-functions.py
+
+# Import configuration variables
+from blackhatworld_config import (
+    LOG_DIRECTORY,
+    AUTOMATION_WAIT_TIME,
+    start_time,
+    run_duration
+)
+
+# --- Main Execution Function (for each profile) ---
+def process_profile(profile_name, profile_config, manager_logger):
+    # Initialize logger *outside* the loop, for the profile itself
+    profile_logger, profile_log_file = setup_logger(LOG_DIRECTORY, profile_name)
+    profile_logger.info(f"Starting automation for profile: {profile_name}")
+
+    token = None
     driver = None
 
     try:
-        # MultiLogin Authentication and Profile Start (DO THIS ONLY ONCE!)
-        token = Emmaxx_profile.signin(logger)  # Pass logger
+        # 1. MultiLogin Authentication and Profile Start
+        token = signin(profile_name, profile_config, profile_logger)
         if not token:
-            logger.critical("Failed to sign in to MultiLogin.  Exiting.")
-            exit()  # Exit completely if login fails
+            profile_logger.error(f"Failed to sign in to MultiLogin profile: {profile_name}. Skipping.")
+            return  # Exit the function, which will stop the thread
 
-        driver = Emmaxx_profile.start_profile(token, logger)  # Pass logger
+        driver = start_profile(profile_name, profile_config, token, profile_logger)
         if not driver:
-            logger.critical("Failed to start MultiLogin profile. Exiting.")
-            exit()  # Exit completely if starting profile fails
+            profile_logger.error(f"Failed to start MultiLogin profile: {profile_name}. Skipping.")
+            return  # Exit the function, which will stop the thread
 
-
+        # *** MAIN AUTOMATION LOGIC HERE ***
         while True:
-            # Set up new log location for each task
-            if datetime.now() - start_time > run_duration:
-                logger.info("Automation has reached the 2-hour limit. Stopping execution.")
-                break            
-             # Generate a new timestamp for each automation run
-            automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            logger, log_file = setup_logger(LOG_DIRECTORY, automation_timestamp)
-            logger.info(f"Starting new automation task. Log file created at: {log_file}")
 
+            # ---- NEW LOGGER FOR EACH TASK ----
+            automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            task_logger, task_log_file = setup_logger(LOG_DIRECTORY, profile_name, automation_timestamp)  # New logger
+            task_logger.info(f"Starting new automation task. Log file created at: {task_log_file}") # Use task logger
+            
+            if datetime.now() - start_time > run_duration:
+                task_logger.info("Automation has reached the time limit. Stopping execution.")
+                break
 
             try:
+                # PERFORM RANDOM ACTION
+                #perform_random_action(driver, profile_logger, profile_name)
 
-                subforum_urls = get_subforum_list()
+                subforum_urls = get_subforum_list(task_logger) # Use task logger
                 if not subforum_urls:
-                    logger.critical("No subforum URLs found in the file. Exiting.")
-                    exit()
-                
-                visited_threads = load_visited_threads()  # Load visited threads at the start
-                if visited_threads:
-                    logger.info(f"Successfully loaded links that was already visited!")
+                    task_logger.critical("No subforum URLs found in the file. Exiting.") # Use task logger
+                    break  # Exit the loop, effectively stopping the profile's automation
 
-                scroll_random_times(driver)
+                visited_threads = load_visited_threads(task_logger)  # Load visited threads at the start  # Use task logger
+                if visited_threads:
+                    task_logger.info(f"Successfully loaded links that was already visited!")   # Use task logger
+                    
+                # PERFORM RANDOM ACTION
+                #perform_random_action(driver, profile_logger, profile_name)
+
+                scroll_random_times(task_logger, driver) # Use task logger
 
                 # Select and navigate a random thread to specific subforum
                 subforum_url = random.choice(subforum_urls)
-                thread_link = find_random_thread_link_from_subforum(driver, subforum_url,visited_threads)
+                scroll_random_times(task_logger, driver) # Use task logger
+                thread_link = find_random_thread_link_from_subforum(task_logger,driver, subforum_url,visited_threads)  # Use task logger
+                
+                # PERFORM RANDOM ACTION
+                perform_random_action(driver, profile_logger, profile_name)
 
                 if thread_link:
                     time.sleep(random.uniform(2, 3))
                     driver.get(thread_link)
                     time.sleep(random.uniform(2, 3))
-                    logger.info(f"Navigated to random thread: {thread_link}")
+                    task_logger.info(f"Navigated to random thread: {thread_link}") # Use task logger
                     visited_threads.add(thread_link)
-                    save_visited_thread(thread_link)
+                    save_visited_thread(task_logger, thread_link)  # Use task logger
                 else:
-                    logger.warning("Skipping thread processing due to no thread link being found in subforum.")
-                    continue #Skip to next subforum
+                    task_logger.warning(
+                        "Skipping thread processing due to no thread link being found in subforum."
+                    ) # Use task logger
+                    continue  # Skip to next subforum
 
                 # Extract thread title
-                thread_title = get_thread_title(driver)
+                thread_title = get_thread_title(task_logger, driver) # Use task logger
+                
+                # PERFORM RANDOM ACTION
+                #perform_random_action(driver, profile_logger, profile_name)
 
-                scroll_random_times(driver, min_scrolls=2, max_scrolls=4, scroll_delay=2)
+                scroll_random_times(task_logger, driver, min_scrolls=2, max_scrolls=4, scroll_delay=2) # Use task logger
                 time.sleep(random.uniform(2, 3))
 
-                like_random_posts(driver, min_likes=1, max_likes=4, min_scrolls_posts=1, max_scrolls_posts=4, scroll_delay=3)
+                like_random_posts(
+                    task_logger, driver,
+                    min_likes=1,
+                    max_likes=4,
+                    min_scrolls_posts=1,
+                    max_scrolls_posts=4,
+                    scroll_delay=3,
+                ) # Use task logger
 
-                scroll_random_times(driver, min_scrolls=3, max_scrolls=7, scroll_delay=3)
+                time.sleep(random.uniform(2,3))
+                
+                # PERFORM RANDOM ACTION
+                perform_random_action(driver, profile_logger, profile_name)
+
+                scroll_random_times(task_logger, driver, min_scrolls=3, max_scrolls=7, scroll_delay=3) # Use task logger
                 time.sleep(random.uniform(2, 3))
+
 
                 # save thread content
-                thread_content_file = os.path.join(thread_content_dir, f"{thread_title}.txt")
-                extract_post_content(driver, thread_content_file)
-                logger.info(f"Post content extracted and saved to {thread_content_file}")
+                thread_content_dir = "Thread-Details/Thread Content"  # Moved inside try block
+                thread_content_file = os.path.join(
+                    thread_content_dir, f"{thread_title}.txt"
+                )
+                extract_post_content(task_logger, driver, thread_content_file) # Use task logger
+                task_logger.info(f"Post content extracted and saved to {thread_content_file}") # Use task logger
+                time.sleep(random.uniform(2, 3))
+                
+                # PERFORM RANDOM ACTION
+                #perform_random_action(driver, profile_logger, profile_name)
+
+                main_post_content = extract_main_post_content(task_logger, driver) # Use task logger
                 time.sleep(random.uniform(2, 3))
 
-                main_post_content = extract_main_post_content(driver)
-                time.sleep(random.uniform(2, 3))
-
+                # generate and save comment
                 if main_post_content:
-                    comment = generate_and_save_comments(main_post_content, os.path.join(api_comments_dir, "temp_comment.txt"))
+                    api_comments_dir = "Thread-Details/API Comments" # Moved inside try block
+                    comment = generate_and_save_comments(task_logger,
+                        main_post_content,
+                        os.path.join(api_comments_dir, "temp_comment.txt"),
+                    ) # Use task logger
                     if comment:
                         sanitized_comment = re.sub(r'[\\/*?:"<>|]', "", comment[:50])
-                        api_comment_file = os.path.join(api_comments_dir, f"{thread_title}_{sanitized_comment}.txt")
+                        api_comment_file = os.path.join(
+                            api_comments_dir, f"{thread_title}_{sanitized_comment}.txt"
+                        )
                         try:
-                            os.rename(os.path.join(api_comments_dir, "temp_comment.txt"), api_comment_file)
+                            os.rename(
+                                os.path.join(api_comments_dir, "temp_comment.txt"),
+                                api_comment_file,
+                            )
                         except Exception as e:
-                            logger.warning(f"rename Error: {e}", exc_info=True)
-                        logger.info(f"API comment generated and saved to {api_comment_file}")
+                            task_logger.warning(
+                                f"rename Error: {e}", exc_info=True
+                            ) # Use task logger
+                            task_logger.info(f"API comment generated and saved to {api_comment_file}") # Use task logger
                     else:
-                        logger.warning("Failed to generate comment, skipping saving.")
+                        task_logger.warning("Failed to generate comment, skipping saving.")  # Use task logger
 
                 # Read the generated comment
-                comment_file = os.path.join(api_comments_dir, f"{thread_title}_{sanitized_comment}.txt")
-                comment = read_thread_content(comment_file)
+                comment_file = os.path.join(
+                    api_comments_dir, f"{thread_title}_{sanitized_comment}.txt"
+                )
+                comment = read_thread_content(task_logger, comment_file) # Use task logger
                 time.sleep(random.uniform(2, 3))
+                
+                # PERFORM RANDOM ACTION
+                perform_random_action(driver, profile_logger, profile_name)
 
                 if comment:
-                    post_comment(driver, comment, write_delay=3)
-                    logger.info("Comment posted successfully.")
+                    post_comment(task_logger, driver, comment, write_delay=3) # Use task logger
+                    task_logger.info("Comment posted successfully.")  # Use task logger
                 else:
-                    logger.warning("No comment available to post.")
+                    task_logger.warning("No comment available to post.")  # Use task logger
 
-                logger.info("Task Completed!!")
+                task_logger.info("Task Completed!!") # Use task logger
                 # 1.5) Added code to go back to HOME
 
                 # navigate back to home after automation
-                navigate_home(driver)
+                navigate_home(task_logger, driver) # Use task logger
 
             except Exception as e:
-                logger.error(f"An error occurred: {e}", exc_info=True)
+                try:
+                    task_logger.error(f"An error occurred: {e}", exc_info=True) # Use task logger
+                except NameError:
+                    profile_logger.error(f"A task error occurred before task_logger was initialized: {e}", exc_info=True)
 
-            # clear the memory and wait from next automation
-            clear_memory()
-            logger.info(f"Waiting for {AUTOMATION_WAIT_TIME} seconds before next execution.")
+                # clear the memory and wait from next automation
+            clear_memory(task_logger)  # Use task logger
+            task_logger.info(f"Waiting for {AUTOMATION_WAIT_TIME} seconds before next execution.")  # Use task logger
             time.sleep(AUTOMATION_WAIT_TIME)
+            # -- Remove handler to log in new files --
+            for handler in task_logger.handlers[:]:
+                task_logger.removeHandler(handler)
+                handler.close()
 
     except Exception as e:
-            logger.critical(f"An unrecoverable error occurred: {e}", exc_info=True)
+        profile_logger.critical(f"An error occurred with profile {profile_name}: {e}", exc_info=True)
 
-    finally:  # This will always execute, even if there was a critical error
-            if driver:
-                try:
-                    driver.quit()
-                except Exception as e:
-                    logger.warning(f"Driver quiting Error: {e}", exc_info=True)
-                logger.info("Driver quit successfully.")
+    finally:
+        # 3. MultiLogin Profile Stop
+        if driver:
+            try:
+                profile_logger.info(f"Stopping browser for profile: {profile_name}...")
+                stop_profile(profile_name, profile_config, token, profile_logger, driver)  # Pass driver to stop_profile
+                profile_logger.info(f"Browser stopped successfully for profile: {profile_name}.")
 
-            if token:
-                try:
-                    Emmaxx_profile.stop_profile(token, logger)  # call logger for stop the profile
-                except Exception as e:
-                    logger.warning(f"Error stopping MultiLogin profile: {e}", exc_info=True)
+            except Exception as e:
+                profile_logger.warning(f"Error stopping profile for {profile_name}: {e}", exc_info=True)
+
+# --- Main Execution Loop (with Threading) ---
+if __name__ == "__main__":
+    # find directories
+
+    # Configure the root logger
+    root_logger = logging.getLogger()
+    root_logger.setLevel(logging.INFO)
+    console_handler = logging.StreamHandler()
+    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    console_handler.setFormatter(formatter)
+    root_logger.addHandler(console_handler)
+
+    threads = []  # List to store the threads
+    manager_logger = logging.getLogger("Manager")
+
+    # # Create and start a thread for each profile
+    # for profile_name, profile_config in PROFILES.items():
+    #     thread = threading.Thread(target=process_profile, args=(profile_name, profile_config))
+    #     threads.append(thread)
+    #     thread.start()
+
+    # Create and start a thread for each profile
+    profile_names = list(PROFILES.keys())
+    for i, profile_name in enumerate(profile_names):
+        profile_config = PROFILES[profile_name]
+
+        # Stagger the start times
+        if i > 0:
+            delay_minutes = random.uniform(1, 3)  # Use values from `Multilogin_manager.py` or define them here
+            delay_seconds = delay_minutes * 60
+            manager_logger.info(f"Waiting {delay_minutes:.2f} minutes before starting profile {profile_name}...")
+            time.sleep(delay_seconds)
+
+        thread = threading.Thread(target=process_profile, args=(profile_name, profile_config, manager_logger))
+        threads.append(thread)
+        thread.start()
 
 
-            
+    # Wait for all threads to complete
+    for thread in threads:
+        thread.join()
+
+    print("Automation completed for all profiles.")

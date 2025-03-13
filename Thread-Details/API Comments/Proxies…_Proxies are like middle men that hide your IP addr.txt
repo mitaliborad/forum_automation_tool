@@ -1,0 +1,1 @@
+Proxies are like middle men that hide your IP address; makes it seem like you're browsing from somewhere else.

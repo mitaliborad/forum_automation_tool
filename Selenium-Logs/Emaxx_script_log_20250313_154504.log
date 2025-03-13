@@ -1,0 +1,105 @@
+2025-03-13 15:45:04,052 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emaxx_script_log_20250313_154504.log
+2025-03-13 15:45:04,053 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:45:04,074 - INFO - Loaded 203 visited threads from Thread_links.txt
+2025-03-13 15:45:04,075 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:45:04,076 - DEBUG - Scrolling page 6 times.
+2025-03-13 15:45:04,077 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:05,908 - DEBUG - Page scrolled.
+2025-03-13 15:45:07,911 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:09,005 - DEBUG - Page scrolled.
+2025-03-13 15:45:11,008 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:12,738 - DEBUG - Page scrolled.
+2025-03-13 15:45:14,739 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:16,189 - DEBUG - Page scrolled.
+2025-03-13 15:45:18,191 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:19,651 - DEBUG - Page scrolled.
+2025-03-13 15:45:21,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:23,161 - DEBUG - Page scrolled.
+2025-03-13 15:45:25,162 - DEBUG - Random scrolls complete.
+2025-03-13 15:45:25,164 - DEBUG - Scrolling page 6 times.
+2025-03-13 15:45:25,166 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:26,314 - DEBUG - Page scrolled.
+2025-03-13 15:45:28,317 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:29,892 - DEBUG - Page scrolled.
+2025-03-13 15:45:31,895 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:33,828 - DEBUG - Page scrolled.
+2025-03-13 15:45:35,829 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:36,926 - DEBUG - Page scrolled.
+2025-03-13 15:45:38,928 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:40,005 - DEBUG - Page scrolled.
+2025-03-13 15:45:42,006 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:43,727 - DEBUG - Page scrolled.
+2025-03-13 15:45:45,729 - DEBUG - Random scrolls complete.
+2025-03-13 15:45:52,933 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-03-13 15:45:57,477 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/my-site-goes-down-with-php-8-0-version.1351022/
+2025-03-13 15:46:05,835 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/my-site-goes-down-with-php-8-0-version.1351022/
+2025-03-13 15:46:05,839 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/my-site-goes-down-with-php-8-0-version.1351022/' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:46:05,955 - INFO - Extracted thread title: My site goes down with PHP 8.0 version
+2025-03-13 15:46:05,956 - DEBUG - Scrolling page 2 times.
+2025-03-13 15:46:05,957 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:46:07,704 - DEBUG - Page scrolled.
+2025-03-13 15:46:09,709 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:46:10,953 - DEBUG - Page scrolled.
+2025-03-13 15:46:12,956 - DEBUG - Random scrolls complete.
+2025-03-13 15:46:15,728 - DEBUG - Scrolling page 2 times.
+2025-03-13 15:46:15,729 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:46:17,481 - DEBUG - Page scrolled.
+2025-03-13 15:46:20,483 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:46:22,354 - DEBUG - Page scrolled.
+2025-03-13 15:46:25,360 - DEBUG - Random scrolls complete.
+2025-03-13 15:46:25,378 - DEBUG - Found 3 like buttons.
+2025-03-13 15:46:28,380 - INFO - Attempting to like 2 posts. There are 3 available.
+2025-03-13 15:46:29,284 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:46:29,295 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:46:29,297 - DEBUG - Liked post number 1 of 2.
+2025-03-13 15:46:35,180 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:46:35,203 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:46:35,207 - DEBUG - Liked post number 2 of 2.
+2025-03-13 15:46:39,682 - INFO - Liked 2 posts successfully.
+2025-03-13 15:46:39,708 - INFO - Liked 2 posts successfully.
+2025-03-13 15:46:42,300 - DEBUG - Scrolling page 6 times.
+2025-03-13 15:46:42,301 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:46:43,398 - DEBUG - Page scrolled.
+2025-03-13 15:46:46,401 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:46:47,541 - DEBUG - Page scrolled.
+2025-03-13 15:46:50,543 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:46:51,747 - DEBUG - Page scrolled.
+2025-03-13 15:46:54,749 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:46:56,443 - DEBUG - Page scrolled.
+2025-03-13 15:46:59,446 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:00,605 - DEBUG - Page scrolled.
+2025-03-13 15:47:03,607 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:05,209 - DEBUG - Page scrolled.
+2025-03-13 15:47:08,212 - DEBUG - Random scrolls complete.
+2025-03-13 15:47:11,072 - DEBUG - Total comments in the thread: 3
+2025-03-13 15:47:21,531 - INFO - Post content extracted and saved to Thread-Details/Thread Content\My site goes down with PHP 8.0 version.txt
+2025-03-13 15:47:24,369 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:47:24,530 - DEBUG - Extracted main post content: Hi guys!
+
+I have a WordPress adult site built with WP script. I have the PHP version at 7.2 and I should bring it to at least 7.4 but when I switch to the new ones my site goes down with the classic “ 404 error page not found” .
+I don’t know if is a problem with some plugin or the Retrotube theme that I’m using.
+I hope anyone can help me
+2025-03-13 15:47:29,483 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:47:29,484 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:47:31,843 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:47:31,844 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:47:31,858 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:47:31,904 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:47:31,913 - DEBUG - Text box scrolled into view
+2025-03-13 15:47:32,456 - DEBUG - Initializing actionchains
+2025-03-13 15:47:32,482 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1911}, size: {'height': 21, 'width': 68}
+2025-03-13 15:47:32,483 - DEBUG - Target click coordinates: (1121, 1921)
+2025-03-13 15:47:40,105 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:47:40,106 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:47:40,106 - DEBUG - Clicking on the text box.
+2025-03-13 15:47:40,107 - DEBUG - Sending keys with content: Probably one of your plugins hasn't been updated to support the newer PHP versions. Try deactivating them one by one to see if it fixes the issue.
+
+2025-03-13 15:47:45,687 - DEBUG - Clicking on post reply button.
+2025-03-13 15:47:56,961 - DEBUG - Performed Actionchains
+2025-03-13 15:47:56,962 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:48:00,964 - INFO - Comment posted successfully.
+2025-03-13 15:48:00,965 - INFO - Task Completed!!
+2025-03-13 15:48:12,254 - INFO - Navigated back to the homepage.
+2025-03-13 15:48:15,137 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:48:15,173 - INFO - Garbage collection completed.
+2025-03-13 15:48:15,174 - INFO - Waiting for 10 seconds before next execution.

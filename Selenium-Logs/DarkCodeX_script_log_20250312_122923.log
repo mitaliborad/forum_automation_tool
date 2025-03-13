@@ -1,0 +1,102 @@
+2025-03-12 12:29:23,107 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_122923.log
+2025-03-12 12:29:23,151 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 12:29:23,186 - INFO - Loaded 160 visited threads from Thread_links.txt
+2025-03-12 12:29:23,189 - INFO - Successfully loaded links that was already visited!
+2025-03-12 12:29:23,190 - DEBUG - Scrolling page 7 times.
+2025-03-12 12:29:23,190 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:29:50,761 - DEBUG - Page scrolled.
+2025-03-12 12:29:52,764 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:29:54,489 - DEBUG - Page scrolled.
+2025-03-12 12:29:56,493 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:29:57,717 - DEBUG - Page scrolled.
+2025-03-12 12:29:59,720 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:01,198 - DEBUG - Page scrolled.
+2025-03-12 12:30:03,201 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:04,653 - DEBUG - Page scrolled.
+2025-03-12 12:30:06,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:08,041 - DEBUG - Page scrolled.
+2025-03-12 12:30:10,042 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:11,867 - DEBUG - Page scrolled.
+2025-03-12 12:30:13,873 - DEBUG - Random scrolls complete.
+2025-03-12 12:30:13,875 - DEBUG - Scrolling page 3 times.
+2025-03-12 12:30:13,878 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:15,327 - DEBUG - Page scrolled.
+2025-03-12 12:30:17,330 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:19,267 - DEBUG - Page scrolled.
+2025-03-12 12:30:21,270 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:22,991 - DEBUG - Page scrolled.
+2025-03-12 12:30:24,993 - DEBUG - Random scrolls complete.
+2025-03-12 12:30:32,463 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-03-12 12:30:36,259 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-an-myspace-account.1584506/
+2025-03-12 12:30:52,105 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-an-myspace-account.1584506/
+2025-03-12 12:30:52,108 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-an-myspace-account.1584506/' to visited threads file 'Thread_links.txt'.
+2025-03-12 12:30:52,143 - INFO - Extracted thread title: What is an Myspace account
+2025-03-12 12:30:52,145 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:30:52,146 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:53,572 - DEBUG - Page scrolled.
+2025-03-12 12:30:55,574 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:56,791 - DEBUG - Page scrolled.
+2025-03-12 12:30:58,793 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:00,311 - DEBUG - Page scrolled.
+2025-03-12 12:31:02,314 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:03,353 - DEBUG - Page scrolled.
+2025-03-12 12:31:05,355 - DEBUG - Random scrolls complete.
+2025-03-12 12:31:08,316 - DEBUG - Scrolling page 1 times.
+2025-03-12 12:31:08,318 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:09,476 - DEBUG - Page scrolled.
+2025-03-12 12:31:12,478 - DEBUG - Random scrolls complete.
+2025-03-12 12:31:12,516 - DEBUG - Found 5 like buttons.
+2025-03-12 12:31:15,518 - INFO - Attempting to like 3 posts. There are 5 available.
+2025-03-12 12:31:16,307 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:31:16,338 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:31:16,339 - DEBUG - Liked post number 1 of 3.
+2025-03-12 12:31:21,538 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:31:21,547 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:31:21,548 - DEBUG - Liked post number 2 of 3.
+2025-03-12 12:31:26,830 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:31:26,853 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:31:26,856 - DEBUG - Liked post number 3 of 3.
+2025-03-12 12:31:31,338 - INFO - Liked 3 posts successfully.
+2025-03-12 12:31:31,341 - INFO - Liked 3 posts successfully.
+2025-03-12 12:31:33,692 - DEBUG - Scrolling page 6 times.
+2025-03-12 12:31:33,694 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:35,341 - DEBUG - Page scrolled.
+2025-03-12 12:31:38,343 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:40,107 - DEBUG - Page scrolled.
+2025-03-12 12:31:43,109 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:44,554 - DEBUG - Page scrolled.
+2025-03-12 12:31:47,557 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:49,166 - DEBUG - Page scrolled.
+2025-03-12 12:31:52,168 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:53,371 - DEBUG - Page scrolled.
+2025-03-12 12:31:56,374 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:57,492 - DEBUG - Page scrolled.
+2025-03-12 12:32:00,494 - DEBUG - Random scrolls complete.
+2025-03-12 12:32:03,122 - DEBUG - Total comments in the thread: 5
+2025-03-12 12:32:24,467 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What is an Myspace account.txt
+2025-03-12 12:32:27,430 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 12:32:27,482 - DEBUG - Extracted main post content: Can get benefits using Myspace account?
+2025-03-12 12:32:31,623 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 12:32:31,628 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 12:32:34,483 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:32:34,485 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:32:34,511 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:32:34,575 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:32:34,588 - DEBUG - Text box scrolled into view
+2025-03-12 12:32:35,146 - DEBUG - Initializing actionchains
+2025-03-12 12:32:35,201 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2386}, size: {'height': 21, 'width': 68}
+2025-03-12 12:32:35,202 - DEBUG - Target click coordinates: (1121, 2396)
+2025-03-12 12:32:43,730 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 12:32:43,731 - DEBUG - Moving mouse to text box element.
+2025-03-12 12:32:43,732 - DEBUG - Clicking on the text box.
+2025-03-12 12:32:43,733 - DEBUG - Sending keys with content: Probably not much these days, unless you're trying to relive 2005.
+
+2025-03-12 12:32:49,508 - DEBUG - Clicking on post reply button.
+2025-03-12 12:33:00,359 - DEBUG - Performed Actionchains
+2025-03-12 12:33:00,361 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 12:33:04,363 - INFO - Comment posted successfully.
+2025-03-12 12:33:04,366 - INFO - Task Completed!!
+2025-03-12 12:33:11,155 - INFO - Navigated back to the homepage.
+2025-03-12 12:33:13,883 - INFO - Attempting to clear memory and resources.
+2025-03-12 12:33:13,930 - INFO - Garbage collection completed.
+2025-03-12 12:33:13,931 - INFO - Waiting for 1000 seconds before next execution.

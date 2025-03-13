@@ -1,0 +1,102 @@
+--- Main Post Title ---
+Does it pay off to learn python from 0 to learn scripting and bot automation?
+
+Total comments in the thread: 8
+
+Topic User: bombiko
+Topic: I've started learning python a while ago, but got damn it's not that easy...Learning the basics sure, but programming in general is super time consuming and a massive headache too. I haven't had any IT experience/background prior to that.
+
+You can pretty much pay for software of any social media, with customer support and detailed instructions.
+There is also much more in social media automation/spamming than just a script, because you have to know the underground methods of not getting banned or shadowbanned. For other python projects like i.e web automation, there are already many programmers I could hire even on BHW to do the job
+
+So I've started thinking...is all that effort really worth it? Am I spending months of my free time just to save few hundred bucks on softwares?
+After all I'm trying only to build something of my own, don't want to provide python services as that just another job with a tiny bit more of a freedom, and for most social medias there are already softwares - and with knowing just a little bit of python I wouldn't get a day job either.
+
+What do you think? Is there some other opportunities with having python skills I'm not aware of? or am I missing something here in general?
+Oh and another thing - learning a library and it's syntax is like learning a mini-programming language every god damn time...and every project is a different major library, excluding helpers like time,datetime etc
+Liked by: You, DarkCodeX
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: xDyablo
+Topic: here’s the deal if you’re getting into python just for the money, it’s not gonna be a quick win. Coding takes time, patience, and a lot of figuring stuff out—you’ll spend hours fixing one tiny thing sometimes. But you don’t need to be a genius; it’s all about showing up and sticking with it. If you like solving problems and learning as you go, you’ll do fine. python’s solid for careers like data analysis or AI, and if you’ve got an idea of product you can learn enough to make it happen or work with someone who can do the hard work
+Liked by: You, Indescribable
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: uncutu
+Topic: i asked myself the same question long time ago.
+
+i ended up buying zennoposter. it's drag-and-drop easily bot making at high scale. there is a learning curve obviously, but a lot smaller.
+
+i didn't want to risk hiring a programmer because my bots were dead simple and i was afraid of them stealing my methods.
+
+like 7 years later i decided to try python selenium. there was a youtube training video of making a tinder bot. good blueprint for starting but obviously youre going to be googling how to do anything multiple times a day. at least now we have chatgpt. even on zenno i was watching old ass videos how to do anything. but once you got the basics down, you are going to be making money fast.
+
+python has a benefit over zenno and those no-code tools. much more efficient in terms of resources. ive found my competitors tools leaked which were made in python requests. 100x more efficient at scale than the same thing I was doing in zenno. and in botting it's all about scale. why do 50 threads when you can do 500. you want to milk these style methods as hard as you can because its just a matter of time before they dry up.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Panther28
+Topic: I'm experianced
+bombiko said:
+but programming in general is super time consuming and a massive headache too.
+Get used to it. Its always like that, lol even with chatgpt! its just there is no barrier to making progress now.
+The best WP themes I have ever used are with Themify. They have a great range and are all secure, updated, and affordable
+50 Slot Website Monitoring - Helps keep you alert of your uptime so you don't lose ranking
+Liked by: uncutu
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: TechEinstien
+Topic: It is a must learn.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: marcoruben
+Topic: You're going to need to be more specific with what you want to make. So we can help you and also so you can figure out what u want. I get the feeling you think that if u learn python it will 'unlock doors' for you. But this is not the case. Python is just a tool, anything u can make in it u can also make in C#, Node JS, PHP. The issue will become what do you actually have access TO. You want to do bot automation? Ok, you need api key. Doesnt matter how skilled u are. Oh well Ill just scrape and run puppeteer. Nope, websites have measures to prevent that, and is completely brittle. Oh well Ill just use residential rotating proxies as well. That costs money. Oh snap, now im in the red, and my bot has made no profits.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: YellowBush
+Topic: It really depends what you're trying to accomplish - if you need something that is really going to scale you should take time and learn it, but it will take a lot of years of experience to become really good. On the other hand, you have many tools these days which you can use that doesn't require programming knowledge and would get you more than half way there.
+️ Payment Cloaking Software for High-Risk Projects ️
+• Suitable for IPTV, Adult, Casino, Gaming, Forex, Crypto
+Stripe Airwallex PayPal Square
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: r1ch11r1ch
+Topic: Learning to code, even when you are not good, will also help you understand tools that other people wrote better and their value
+Liked by: FromAfrica
+Number of likes: 1
+-----
+
+Replies:
+
+

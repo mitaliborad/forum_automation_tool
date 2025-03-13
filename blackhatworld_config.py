@@ -19,7 +19,7 @@ import threading
 
 # --- Automation Configuration ---
 LOG_DIRECTORY = "Selenium-Logs"
-AUTOMATION_WAIT_TIME = 1800
+AUTOMATION_WAIT_TIME = 10
 MIN_SCROLLS = 3
 MAX_SCROLLS = 7
 SCROLL_AMOUNT = 500
@@ -34,7 +34,7 @@ BASE_SPEED = 0.001
 SUB_FORUM_LIST_FILE = "Sub-Forum-List.txt"
 VISITED_THREADS_FILE = "Thread_links.txt"
 start_time = datetime.now()
-run_duration = timedelta(hours=2) 
+run_duration = timedelta(minutes = 20) 
 
 
 # Logger setup

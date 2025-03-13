@@ -1,0 +1,95 @@
+2025-03-12 14:00:02,669 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_140002.log
+2025-03-12 14:00:02,670 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 14:00:02,672 - INFO - Loaded 166 visited threads from Thread_links.txt
+2025-03-12 14:00:02,674 - INFO - Successfully loaded links that was already visited!
+2025-03-12 14:00:02,676 - DEBUG - Scrolling page 5 times.
+2025-03-12 14:00:02,676 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:04,039 - DEBUG - Page scrolled.
+2025-03-12 14:00:06,040 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:07,659 - DEBUG - Page scrolled.
+2025-03-12 14:00:09,661 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:11,345 - DEBUG - Page scrolled.
+2025-03-12 14:00:13,348 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:02:24,653 - DEBUG - Page scrolled.
+2025-03-12 14:02:26,657 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:02:27,775 - DEBUG - Page scrolled.
+2025-03-12 14:02:29,777 - DEBUG - Random scrolls complete.
+2025-03-12 14:02:29,778 - DEBUG - Scrolling page 3 times.
+2025-03-12 14:02:29,779 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:02:31,305 - DEBUG - Page scrolled.
+2025-03-12 14:02:33,308 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:02:34,751 - DEBUG - Page scrolled.
+2025-03-12 14:02:36,754 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:02:38,712 - DEBUG - Page scrolled.
+2025-03-12 14:02:40,714 - DEBUG - Random scrolls complete.
+2025-03-12 14:02:46,154 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-03-12 14:02:50,847 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-and-cheap-vps-provider.1690344/
+2025-03-12 14:02:59,651 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-and-cheap-vps-provider.1690344/
+2025-03-12 14:02:59,655 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-and-cheap-vps-provider.1690344/' to visited threads file 'Thread_links.txt'.
+2025-03-12 14:02:59,687 - INFO - Extracted thread title: Best and cheap VPS provider
+2025-03-12 14:02:59,688 - DEBUG - Scrolling page 3 times.
+2025-03-12 14:02:59,688 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:00,972 - DEBUG - Page scrolled.
+2025-03-12 14:03:02,974 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:04,016 - DEBUG - Page scrolled.
+2025-03-12 14:03:06,018 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:07,614 - DEBUG - Page scrolled.
+2025-03-12 14:03:09,616 - DEBUG - Random scrolls complete.
+2025-03-12 14:03:12,319 - DEBUG - Scrolling page 4 times.
+2025-03-12 14:03:12,323 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:13,939 - DEBUG - Page scrolled.
+2025-03-12 14:03:16,940 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:18,565 - DEBUG - Page scrolled.
+2025-03-12 14:03:21,569 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:23,128 - DEBUG - Page scrolled.
+2025-03-12 14:03:26,131 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:27,695 - DEBUG - Page scrolled.
+2025-03-12 14:03:30,697 - DEBUG - Random scrolls complete.
+2025-03-12 14:03:30,733 - DEBUG - Found 8 like buttons.
+2025-03-12 14:03:33,735 - INFO - Attempting to like 2 posts. There are 8 available.
+2025-03-12 14:03:34,365 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 14:03:34,380 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 14:03:34,382 - DEBUG - Liked post number 1 of 2.
+2025-03-12 14:03:40,003 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 14:03:40,023 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 14:03:40,025 - DEBUG - Liked post number 2 of 2.
+2025-03-12 14:03:44,163 - INFO - Liked 2 posts successfully.
+2025-03-12 14:03:44,167 - INFO - Liked 2 posts successfully.
+2025-03-12 14:03:46,787 - DEBUG - Scrolling page 4 times.
+2025-03-12 14:03:46,789 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:48,690 - DEBUG - Page scrolled.
+2025-03-12 14:03:51,693 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:53,169 - DEBUG - Page scrolled.
+2025-03-12 14:03:56,172 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:03:57,557 - DEBUG - Page scrolled.
+2025-03-12 14:04:00,559 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:04:02,182 - DEBUG - Page scrolled.
+2025-03-12 14:04:05,185 - DEBUG - Random scrolls complete.
+2025-03-12 14:04:07,839 - DEBUG - Total comments in the thread: 10
+2025-03-12 14:05:01,078 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Best and cheap VPS provider.txt
+2025-03-12 14:05:03,999 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 14:05:04,046 - DEBUG - Extracted main post content: Hello, I need a VPS for 24/7 streaming of pre-recorded videos. What’s the best provider? Thanks
+2025-03-12 14:05:08,815 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 14:05:08,819 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 14:05:11,076 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:05:11,079 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:05:11,113 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:05:11,164 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:05:11,175 - DEBUG - Text box scrolled into view
+2025-03-12 14:05:11,857 - DEBUG - Initializing actionchains
+2025-03-12 14:05:11,907 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3533}, size: {'height': 21, 'width': 68}
+2025-03-12 14:05:11,910 - DEBUG - Target click coordinates: (1121, 3543)
+2025-03-12 14:05:22,955 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 14:05:22,956 - DEBUG - Moving mouse to text box element.
+2025-03-12 14:05:22,957 - DEBUG - Clicking on the text box.
+2025-03-12 14:05:22,958 - DEBUG - Sending keys with content: Honestly, a lot depends on the video quality and how many viewers you're expecting. Have you looked into a CDN instead of straight VPS? Might save you some headaches.
+
+2025-03-12 14:05:28,374 - DEBUG - Clicking on post reply button.
+2025-03-12 14:05:39,499 - DEBUG - Performed Actionchains
+2025-03-12 14:05:39,500 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 14:05:43,501 - INFO - Comment posted successfully.
+2025-03-12 14:05:43,505 - INFO - Task Completed!!
+2025-03-12 14:05:49,501 - INFO - Navigated back to the homepage.
+2025-03-12 14:05:52,222 - INFO - Attempting to clear memory and resources.
+2025-03-12 14:05:52,255 - INFO - Garbage collection completed.
+2025-03-12 14:05:52,257 - INFO - Waiting for 1000 seconds before next execution.

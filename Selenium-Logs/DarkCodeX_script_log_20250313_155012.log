@@ -1,0 +1,43 @@
+2025-03-13 15:50:12,450 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_155012.log
+2025-03-13 15:50:24,206 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:50:24,227 - INFO - Loaded 207 visited threads from Thread_links.txt
+2025-03-13 15:50:24,229 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:50:24,230 - DEBUG - Scrolling page 6 times.
+2025-03-13 15:50:24,230 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:25,599 - DEBUG - Page scrolled.
+2025-03-13 15:50:27,602 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:29,122 - DEBUG - Page scrolled.
+2025-03-13 15:50:31,126 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:32,183 - DEBUG - Page scrolled.
+2025-03-13 15:50:34,186 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:35,489 - DEBUG - Page scrolled.
+2025-03-13 15:50:37,492 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:38,540 - DEBUG - Page scrolled.
+2025-03-13 15:50:40,542 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:41,869 - DEBUG - Page scrolled.
+2025-03-13 15:50:43,870 - DEBUG - Random scrolls complete.
+2025-03-13 15:50:43,872 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:50:43,874 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:45,636 - DEBUG - Page scrolled.
+2025-03-13 15:50:47,639 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:49,403 - DEBUG - Page scrolled.
+2025-03-13 15:50:51,405 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:52,825 - DEBUG - Page scrolled.
+2025-03-13 15:50:54,827 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:56,743 - DEBUG - Page scrolled.
+2025-03-13 15:50:58,746 - DEBUG - Random scrolls complete.
+2025-03-13 15:51:19,440 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-03-13 15:51:29,799 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 577, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-13 15:51:29,815 - WARNING - Skipping thread processing due to no thread link being found in subforum.

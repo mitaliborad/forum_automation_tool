@@ -1,0 +1,130 @@
+--- Main Post Title ---
+Reliable smtp server provider: who do you suggest?
+
+Total comments in the thread: 10
+
+Topic User: Sarah1991
+Topic: Hello friends,
+
+I am looking for an smtp server provider for my wordpress email deliveries.
+Who are you using?
+
+Have a great one!
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: LinkJar
+Topic: See : https://mywplife.com/smtp-servers/smtp-server/
+It shows you more details about some paid & free SMTP servers with comparisons and benefits and pricing .
+
+See : https://www.seedprod.com/best-smtp-plugins-services/
+It shows you more details about best SMTP plugins and service providers with the highest deliverability and the best feature set and pricing .
+
+Hope this Helps !
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: linuxsmtp
+Topic: Why not setup your own smtp on a vps server?? My current setup can send 80k to 500k a day using a desktop mailer .. The thing about my setup it can rotate FROM address and subdomain to avoid spam filters something like this -
+
+
+#RANDOMNAME#@#RANDOMNAME-NUMBERS#.domain.com
+
+Everytime email is sent the FROM address is sending different including subdomain, it rotates name before @ and the subdomains.
+
+ALL SPF / RDNS / MX / TXT - pass
+
+
+Can send 80k to 500k a day using a desktop mailer.
+If someone needs help .. dont hesitate to ask .. my skype is same as my username
+Liked by: SpinBlade
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Himanshu Garg
+Topic: You can use paid email sender which also uses smtp servers or can send up to 500 emails per day using gmail for free with automation.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: tensajose55
+Topic: Use or deploy your owen smtp
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: tensajose55
+Topic: tensajose55 said:
+Use or deploy your owen smtp
+or connect me will give you details about it
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: lawrencelau
+Topic: You can use a vps and setup your own smtp server. (just use free hosting control panel)
+
+how big is the vps depend on your volume of email
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: PTWWAAA
+Topic: WP Mail SMTP
+Mailgun
+SendGrid
+
+Check the features and choose the required one.
+Liked by: FromAfrica
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Ronitim
+Topic: SMTPget, SMTPmart and Brevo for great deliverability and support.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Tomcruze
+Topic: Mailgun
+SMTPServiceProvider
+SMTPmart
+iDealSMTP
+
+You can check these options.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

@@ -1,0 +1,50 @@
+--- Main Post Title ---
+Website Chat gpt BOT optimisation (GPTBO ©)
+
+Total comments in the thread: 4
+
+Topic User: Astraport
+Topic: Probably many webmasters have noticed traffic from AI services on their sites: openAI, perplexity. What can be done to increase this traffic?
+1. Allow in robots.txt
+2. Structured scheme data
+3. Something else?
+
+Maybe there are some instructions and gray methods to interest AI bots?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: hideath
+Topic: I'm wondering if anyone is actually getting any decent amount of traffic using AIO,
+Is it something to rely on? Is it worth investing?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Bratt57
+Topic: yes AI ranking is something getting in hype and many acquire traffic on that way
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Astraport
+Topic: hideath said:
+I'm wondering if anyone is actually getting any decent amount of traffic using AIO,
+Is it something to rely on? Is it worth investing?
+Yes, I see more and more high-quality traffic from openai in the analytics. And I did nothing for this. I think if something is done, then traffic can be increased several times.
+Liked by: You, hideath
+Number of likes: 2
+-----
+
+Replies:
+
+

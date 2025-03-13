@@ -1,0 +1,10 @@
+2025-03-13 15:25:53,603 - INFO - Starting automation for profile: ZeroDayHunter
+2025-03-13 15:25:54,785 - INFO - Profile ZeroDayHunter: Successfully logged in.
+2025-03-13 15:25:54,786 - INFO - Profile ZeroDayHunter: Starting profile e70a0144-441c-40ec-92fc-84a43bc03e6a...
+2025-03-13 15:26:03,985 - INFO - Profile ZeroDayHunter: Extracted port: 50911
+2025-03-13 15:26:04,473 - INFO - Profile ZeroDayHunter: Started on port 50911.
+2025-03-13 15:26:04,495 - INFO - Stopping browser for profile: ZeroDayHunter...
+2025-03-13 15:26:04,502 - INFO - Profile ZeroDayHunter: Attempting to stop...
+2025-03-13 15:26:04,513 - INFO - Profile ZeroDayHunter: Browser closed successfully.
+2025-03-13 15:26:10,488 - INFO - Profile ZeroDayHunter: Stopped successfully.
+2025-03-13 15:26:10,491 - INFO - Browser stopped successfully for profile: ZeroDayHunter.

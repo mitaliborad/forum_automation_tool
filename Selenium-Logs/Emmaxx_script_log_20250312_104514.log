@@ -1,0 +1,103 @@
+2025-03-12 10:45:14,064 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_104514.log
+2025-03-12 10:45:14,068 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 10:45:14,071 - INFO - Loaded 152 visited threads from Thread_links.txt
+2025-03-12 10:45:14,072 - INFO - Successfully loaded links that was already visited!
+2025-03-12 10:45:14,073 - DEBUG - Scrolling page 5 times.
+2025-03-12 10:45:14,074 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:45:15,368 - DEBUG - Page scrolled.
+2025-03-12 10:45:17,370 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:45:19,197 - DEBUG - Page scrolled.
+2025-03-12 10:45:21,201 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:45:22,822 - DEBUG - Page scrolled.
+2025-03-12 10:45:24,824 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:45:26,055 - DEBUG - Page scrolled.
+2025-03-12 10:45:28,061 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:45:29,951 - DEBUG - Page scrolled.
+2025-03-12 10:45:31,953 - DEBUG - Random scrolls complete.
+2025-03-12 10:45:31,956 - DEBUG - Scrolling page 3 times.
+2025-03-12 10:45:31,957 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:45:33,728 - DEBUG - Page scrolled.
+2025-03-12 10:45:35,731 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:45:37,140 - DEBUG - Page scrolled.
+2025-03-12 10:45:39,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:45:41,060 - DEBUG - Page scrolled.
+2025-03-12 10:45:43,064 - DEBUG - Random scrolls complete.
+2025-03-12 10:45:49,535 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cryptocurrency.218/
+2025-03-12 10:45:53,899 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/could-bmt-be-the-next-big-project.1694347/unread
+2025-03-12 10:46:01,176 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/could-bmt-be-the-next-big-project.1694347/unread
+2025-03-12 10:46:01,179 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/could-bmt-be-the-next-big-project.1694347/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 10:46:01,228 - INFO - Extracted thread title: Could BMT be the next big project
+2025-03-12 10:46:01,229 - DEBUG - Scrolling page 2 times.
+2025-03-12 10:46:01,230 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:46:02,610 - DEBUG - Page scrolled.
+2025-03-12 10:46:04,612 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:46:05,777 - DEBUG - Page scrolled.
+2025-03-12 10:46:07,780 - DEBUG - Random scrolls complete.
+2025-03-12 10:46:10,053 - DEBUG - Scrolling page 3 times.
+2025-03-12 10:46:10,056 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:46:12,043 - DEBUG - Page scrolled.
+2025-03-12 10:46:15,045 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:46:17,038 - DEBUG - Page scrolled.
+2025-03-12 10:46:20,042 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:46:21,364 - DEBUG - Page scrolled.
+2025-03-12 10:46:24,367 - DEBUG - Random scrolls complete.
+2025-03-12 10:46:24,400 - DEBUG - Found 2 like buttons.
+2025-03-12 10:46:27,402 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-12 10:46:28,412 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 10:46:28,441 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 10:46:28,443 - DEBUG - Liked post number 1 of 2.
+2025-03-12 10:46:33,988 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 10:46:34,008 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 10:46:34,010 - DEBUG - Liked post number 2 of 2.
+2025-03-12 10:46:38,440 - INFO - Liked 2 posts successfully.
+2025-03-12 10:46:38,443 - INFO - Liked 2 posts successfully.
+2025-03-12 10:46:41,248 - DEBUG - Scrolling page 7 times.
+2025-03-12 10:46:41,251 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:46:43,099 - DEBUG - Page scrolled.
+2025-03-12 10:46:46,101 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:46:47,185 - DEBUG - Page scrolled.
+2025-03-12 10:46:50,187 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:46:51,755 - DEBUG - Page scrolled.
+2025-03-12 10:46:54,757 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:46:56,124 - DEBUG - Page scrolled.
+2025-03-12 10:46:59,127 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:47:00,634 - DEBUG - Page scrolled.
+2025-03-12 10:47:03,637 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:47:05,512 - DEBUG - Page scrolled.
+2025-03-12 10:47:08,515 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:47:09,910 - DEBUG - Page scrolled.
+2025-03-12 10:47:12,912 - DEBUG - Random scrolls complete.
+2025-03-12 10:47:15,348 - DEBUG - Total comments in the thread: 2
+2025-03-12 10:47:15,535 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Could BMT be the next big project.txt
+2025-03-12 10:47:18,367 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 10:47:18,583 - DEBUG - Extracted main post content: Most tokens get listed without a solid project, which leads to the failure of the token, hence the dump without revival.
+
+For a while now, I've been looking for ways to analyze new token launches and identify centralization risks and eventually saw a platform that specializes in analyzing token distribution and wallet connections through interactive bubble visualizations, making it easier to understand token ownership patterns and identify potential risks.
+
+Their official token, $BMT, which has secured significant backing funds of €6.5M since 2023 till date from a mix of blockchain protocols, will be listed soon on Bitget.
+
+What do you think about the project cause for me I feel we need things like this in the crypto space.
+2025-03-12 10:47:22,824 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 10:47:22,828 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 10:47:25,006 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:47:25,008 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:47:25,068 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:47:25,154 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:47:25,163 - DEBUG - Text box scrolled into view
+2025-03-12 10:47:26,161 - DEBUG - Initializing actionchains
+2025-03-12 10:47:26,205 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1735}, size: {'height': 21, 'width': 68}
+2025-03-12 10:47:26,206 - DEBUG - Target click coordinates: (1121, 1745)
+2025-03-12 10:47:33,184 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 10:47:33,186 - DEBUG - Moving mouse to text box element.
+2025-03-12 10:47:33,188 - DEBUG - Clicking on the text box.
+2025-03-12 10:47:33,197 - DEBUG - Sending keys with content: Sounds interesting, but I'm always wary of tokens tied directly to analysis platforms – how does it avoid just becoming a pump and dump if the platform doesn't take off?
+
+2025-03-12 10:47:38,428 - DEBUG - Clicking on post reply button.
+2025-03-12 10:47:40,042 - DEBUG - Performed Actionchains
+2025-03-12 10:47:40,044 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 10:47:44,047 - INFO - Comment posted successfully.
+2025-03-12 10:47:44,050 - INFO - Task Completed!!
+2025-03-12 10:47:52,571 - INFO - Navigated back to the homepage.
+2025-03-12 10:47:55,238 - INFO - Attempting to clear memory and resources.
+2025-03-12 10:47:55,319 - INFO - Garbage collection completed.
+2025-03-12 10:47:55,322 - INFO - Waiting for 1800 seconds before next execution.

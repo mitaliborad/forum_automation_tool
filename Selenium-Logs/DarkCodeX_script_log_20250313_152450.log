@@ -1,0 +1,111 @@
+2025-03-13 15:24:50,326 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_152450.log
+2025-03-13 15:24:50,328 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:24:50,329 - INFO - Loaded 192 visited threads from Thread_links.txt
+2025-03-13 15:24:50,330 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:25:00,517 - DEBUG - Scrolling page 6 times.
+2025-03-13 15:25:00,519 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:02,252 - DEBUG - Page scrolled.
+2025-03-13 15:25:04,254 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:05,910 - DEBUG - Page scrolled.
+2025-03-13 15:25:07,914 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:09,482 - DEBUG - Page scrolled.
+2025-03-13 15:25:11,484 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:12,660 - DEBUG - Page scrolled.
+2025-03-13 15:25:14,663 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:16,139 - DEBUG - Page scrolled.
+2025-03-13 15:25:18,141 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:20,029 - DEBUG - Page scrolled.
+2025-03-13 15:25:22,033 - DEBUG - Random scrolls complete.
+2025-03-13 15:25:22,034 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:25:22,036 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:23,873 - DEBUG - Page scrolled.
+2025-03-13 15:25:25,875 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:27,225 - DEBUG - Page scrolled.
+2025-03-13 15:25:29,227 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:30,804 - DEBUG - Page scrolled.
+2025-03-13 15:25:32,806 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:34,314 - DEBUG - Page scrolled.
+2025-03-13 15:25:36,317 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:37,657 - DEBUG - Page scrolled.
+2025-03-13 15:25:39,659 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:40,745 - DEBUG - Page scrolled.
+2025-03-13 15:25:42,748 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:25:44,397 - DEBUG - Page scrolled.
+2025-03-13 15:25:46,399 - DEBUG - Random scrolls complete.
+2025-03-13 15:25:51,557 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-03-13 15:25:56,265 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/hello-everyone.1695200/unread
+2025-03-13 15:26:07,371 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/hello-everyone.1695200/unread
+2025-03-13 15:26:07,373 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/hello-everyone.1695200/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:26:07,412 - INFO - Extracted thread title: Hello everyone
+2025-03-13 15:26:25,771 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:26:25,772 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:26:27,206 - DEBUG - Page scrolled.
+2025-03-13 15:26:29,208 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:26:30,444 - DEBUG - Page scrolled.
+2025-03-13 15:26:32,447 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:26:33,752 - DEBUG - Page scrolled.
+2025-03-13 15:26:35,838 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:26:37,756 - DEBUG - Page scrolled.
+2025-03-13 15:26:39,760 - DEBUG - Random scrolls complete.
+2025-03-13 15:26:41,852 - DEBUG - Scrolling page 1 times.
+2025-03-13 15:26:41,853 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:26:43,710 - DEBUG - Page scrolled.
+2025-03-13 15:26:46,711 - DEBUG - Random scrolls complete.
+2025-03-13 15:26:46,744 - DEBUG - Found 4 like buttons.
+2025-03-13 15:26:49,751 - INFO - Attempting to like 3 posts. There are 4 available.
+2025-03-13 15:26:50,462 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:26:50,503 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:26:50,505 - DEBUG - Liked post number 1 of 3.
+2025-03-13 15:26:55,155 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:26:55,180 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:26:55,183 - DEBUG - Liked post number 2 of 3.
+2025-03-13 15:27:00,244 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:27:00,253 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:27:00,254 - DEBUG - Liked post number 3 of 3.
+2025-03-13 15:27:05,012 - INFO - Liked 3 posts successfully.
+2025-03-13 15:27:05,014 - INFO - Liked 3 posts successfully.
+2025-03-13 15:27:09,962 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:27:09,963 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:27:11,040 - DEBUG - Page scrolled.
+2025-03-13 15:27:14,046 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:27:15,984 - DEBUG - Page scrolled.
+2025-03-13 15:27:18,985 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:27:20,383 - DEBUG - Page scrolled.
+2025-03-13 15:27:23,386 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:27:24,738 - DEBUG - Page scrolled.
+2025-03-13 15:27:27,740 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:27:29,100 - DEBUG - Page scrolled.
+2025-03-13 15:27:32,102 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:27:33,962 - DEBUG - Page scrolled.
+2025-03-13 15:27:36,964 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:27:38,195 - DEBUG - Page scrolled.
+2025-03-13 15:27:41,197 - DEBUG - Random scrolls complete.
+2025-03-13 15:27:43,963 - DEBUG - Total comments in the thread: 4
+2025-03-13 15:27:54,676 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Hello everyone.txt
+2025-03-13 15:27:57,449 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:27:57,475 - DEBUG - Extracted main post content: I am new to BlackHat World forum, looking for healthy ad accounts
+Recently my ad campaigns have been disabled
+2025-03-13 15:28:01,193 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:28:01,195 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:28:03,634 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:28:03,635 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:28:03,651 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:28:03,705 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:28:03,713 - DEBUG - Text box scrolled into view
+2025-03-13 15:28:04,657 - DEBUG - Initializing actionchains
+2025-03-13 15:28:04,745 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2346}, size: {'height': 21, 'width': 68}
+2025-03-13 15:28:04,748 - DEBUG - Target click coordinates: (1121, 2356)
+2025-03-13 15:28:13,720 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:28:13,721 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:28:13,722 - DEBUG - Clicking on the text box.
+2025-03-13 15:28:13,724 - DEBUG - Sending keys with content: Maybe try warming up those accounts a bit before going all-in; it's a pain, but seems like that might help avoid immediate shutdowns.
+
+2025-03-13 15:28:18,908 - DEBUG - Clicking on post reply button.
+2025-03-13 15:28:21,858 - DEBUG - Performed Actionchains
+2025-03-13 15:28:21,860 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:28:25,862 - INFO - Comment posted successfully.
+2025-03-13 15:28:25,865 - INFO - Task Completed!!
+2025-03-13 15:28:33,440 - INFO - Navigated back to the homepage.
+2025-03-13 15:28:35,611 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:28:35,760 - INFO - Garbage collection completed.
+2025-03-13 15:28:35,775 - INFO - Waiting for 10 seconds before next execution.

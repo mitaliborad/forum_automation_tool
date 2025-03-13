@@ -1,0 +1,90 @@
+--- Main Post Title ---
+How to create 10 telegram accounts
+
+Total comments in the thread: 6
+
+Topic User: zebiker31
+Topic: Hello everyone !
+Right now I have 4 telegrams numbers under the same telegram app that I have on my mobile phone, but I want to have 6 additional numbers (for a total of 10 numbers in the end).
+But I can't add a new one, telegram tells me that I have reached the maximum numbers (4).
+So I tried to buy numbers on an online service that provides phone numbers and tried to create a new telegram on another session of my computer, but I don't receive the verification SMS code and the phone call to receive the code. I searched online and I saw that the phone numbers I bought are probably "blacklisted" as VOIP numbers etc...
+
+So my question is :
+
+What setup would you do in order to have 10 telegrams numbers and to keep these 10 accounts for a long time ? (2-3 years minimum, and not just a oneshot for few days)
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: PepeEnjoyer
+Topic: Move some of the accounts to an alternative that lets you have more than 4 accounts, Nicegram or Telegram X
+
+Then use the actual Telegram app to create the accounts as no other app is able to do so. After doing so move those accounts to the other apps and keep going until you have enough accounts.
+
+Mind you there is a cooldown etc based on IP but for the amount you are talking should be do able in 1 day, max 2.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: zebiker31
+Topic: Alright thank you
+PepeEnjoyer said:
+Move some of the accounts to an alternative that lets you have more than 4 accounts, Nicegram or Telegram X
+
+Then use the actual Telegram app to create the accounts as no other app is able to do so. After doing so move those accounts to the other apps and keep going until you have enough accounts.
+
+Mind you there is a cooldown etc based on IP but for the amount you are talking should be do able in 1 day, max 2.
+Thanks a lot ! And what service would you use in order to buy phone numbers that receives the SMS verification during the creation of telegram ? I don't want expiring phone numbers just to receive the SMS (in case of if I lose my phone and I need to reinstate all the telegram accounts, I want to keep access to them in the future if I need to receive another SMS in few months)
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: Try to use Grizzly SMS, last time I tried, they worked to create a TG account
+If not, you can buy a local sim card
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: SUPER CARDS
+Topic: zebiker31 said:
+Hello everyone !
+Right now I have 4 telegrams numbers under the same telegram app that I have on my mobile phone, but I want to have 6 additional numbers (for a total of 10 numbers in the end).
+But I can't add a new one, telegram tells me that I have reached the maximum numbers (4).
+So I tried to buy numbers on an online service that provides phone numbers and tried to create a new telegram on another session of my computer, but I don't receive the verification SMS code and the phone call to receive the code. I searched online and I saw that the phone numbers I bought are probably "blacklisted" as VOIP numbers etc...
+
+So my question is :
+
+What setup would you do in order to have 10 telegrams numbers and to keep these 10 accounts for a long time ? (2-3 years minimum, and not just a oneshot for few days)
+Click to expand...
+Telegram has restrictions on how many accounts you can have per app, which means you might need to use different devices or virtual machines.
+If you want to keep your accounts for a long time, it's best not to use VOIP numbers. Instead, go for real SIM cards or special mobile devices.
+You could also think about using different Telegram apps or containers for each group of numbers. Make sure to look into trustworthy SMS verification services that offer real mobile numbers, and change your IP addresses often to avoid getting flagged.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: xGryFox
+Topic: you can use clone applications
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

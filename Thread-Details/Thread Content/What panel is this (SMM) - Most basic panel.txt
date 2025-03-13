@@ -1,0 +1,216 @@
+--- Main Post Title ---
+What panel is this? (SMM) - Most basic panel
+
+Total comments in the thread: 20
+
+Topic User: eaglehunter
+Topic: Who is the provider of this panel? The most basic panel ever that everyone in SMM uses.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: kvvni
+Topic: You mean perfectpanel?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: eaglehunter
+Topic: levopanel was the shit back in my days but looks like the guy disappeared?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: eaglehunter
+Topic: kvvni said:
+You mean perfectpanel?
+This is the only one available in the market?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: SpawneR
+Topic: Most of us are using perfectpanel because it has great API, easy to connect your API with any software for delivering services, and payment processing is also easy
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: eaglehunter
+Topic: SpawneR said:
+Most of us are using perfectpanel because it has great API, easy to connect your API with any software for delivering services, and payment processing is also easy
+It looks good but what's driving me crazy is that every panel has a "Child Panel" that costs 20$ but if I want to get it from PerfectPanel its 50$?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: SpawneR
+Topic: eaglehunter said:
+It looks good but what's driving me crazy is that every panel has a "Child Panel" that costs 20$ but if I want to get it from PerfectPanel its 50$?
+
+Child panel allows you to only resell stuff from the panel you ordered child panel from.
+Perfect Panel is open for your software, servers, many exchange websites API, other panels etc... not only 1.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: eaglehunter
+Topic: SpawneR said:
+Child panel allows you to only resell stuff from the panel you ordered child panel from.
+Perfect Panel is open for your software, servers, many exchange websites API, other panels etc... not only 1.
+Oh okay that makes sense
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: kasak100
+Topic: eaglehunter said:
+Who is the provider of this panel? The most basic panel ever that everyone in SMM uses.
+
+
+View attachment 160611
+Pretty sure that is perfectpanel
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: bombagram
+Topic: Tell me a panel that a new user can request a test balance through the ticket. please
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: nawabuq
+Topic: It’s perfectpanel’s dashboard
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: WEB CR@WLER
+Topic: It is none other than Perfectpanel's dashboard
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: smmpropanel
+Topic: Hi,
+
+Now a days few people also using rental panel website that's also kind of similar like perfect panel with less fee.
+
+Thanks
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: J Juletid
+Topic: Do they offer access to other SMM services, or are they basically just a management/API layer?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: smmpropanel
+Topic: J Juletid said:
+Do they offer access to other SMM services, or are they basically just a management/API layer?
+API connectivity like perfect panel
+Liked by: J Juletid
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: J Juletid
+Topic: SpawneR said:
+Child panel allows you to only resell stuff from the panel you ordered child panel from.
+Perfect Panel is open for your software, servers, many exchange websites API, other panels etc... not only 1.
+
+Thank you for the insight. Do you know any good exchange websites that you can share?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: scottypummill
+Topic: perfectpanel the best theme, choose you to do
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: J Juletid
+Topic: scottypummill said:
+perfectpanel the best theme, choose you to do
+Perfect is just a management / API layer – I'm looking for an exchange site along the lines of what @SpawneR mentioned.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: izkech
+Topic: Is there any panel script that's more like B2C ? I mean that looks like any e-commerce where we create a page for every product, but the backend include API system and paymetn etc .... Is such a script available ?
+Liked by: Pink Smoke
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Pink Smoke
+Topic: izkech said:
+Is there any panel script that's more like B2C ? I mean that looks like any e-commerce where we create a page for every product, but the backend include API system and paymetn etc .... Is such a script available ?
+
+Would be interested to know this too
+Liked by: izkech
+Number of likes: 1
+-----
+
+Replies:
+
+

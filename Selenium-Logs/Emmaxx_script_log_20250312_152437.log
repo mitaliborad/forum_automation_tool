@@ -1,0 +1,100 @@
+2025-03-12 15:24:37,749 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_152437.log
+2025-03-12 15:24:37,752 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 15:24:37,796 - INFO - Loaded 175 visited threads from Thread_links.txt
+2025-03-12 15:24:37,797 - INFO - Successfully loaded links that was already visited!
+2025-03-12 15:24:37,798 - DEBUG - Scrolling page 7 times.
+2025-03-12 15:24:37,799 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:24:39,620 - DEBUG - Page scrolled.
+2025-03-12 15:24:41,622 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:24:42,637 - DEBUG - Page scrolled.
+2025-03-12 15:24:44,639 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:24:45,866 - DEBUG - Page scrolled.
+2025-03-12 15:24:47,870 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:24:49,019 - DEBUG - Page scrolled.
+2025-03-12 15:24:51,021 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:24:52,617 - DEBUG - Page scrolled.
+2025-03-12 15:24:54,620 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:24:55,916 - DEBUG - Page scrolled.
+2025-03-12 15:24:57,920 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:24:59,253 - DEBUG - Page scrolled.
+2025-03-12 15:25:01,255 - DEBUG - Random scrolls complete.
+2025-03-12 15:25:01,257 - DEBUG - Scrolling page 3 times.
+2025-03-12 15:25:01,258 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:25:02,652 - DEBUG - Page scrolled.
+2025-03-12 15:25:04,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:25:06,229 - DEBUG - Page scrolled.
+2025-03-12 15:25:08,265 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:25:09,616 - DEBUG - Page scrolled.
+2025-03-12 15:25:11,618 - DEBUG - Random scrolls complete.
+2025-03-12 15:30:11,632 - ERROR - Error finding random thread link in subforum: Message: timeout: Timed out receiving message from renderer: 296.930
+  (Session info: chrome=133.0.6943.35)
+Stacktrace:
+	GetHandleVerifier [0x00007FF641B9C615+3167749]
+	(No symbol) [0x00007FF64180D190]
+	(No symbol) [0x00007FF64169596A]
+	(No symbol) [0x00007FF64168585C]
+	(No symbol) [0x00007FF64168554A]
+	(No symbol) [0x00007FF6416830DE]
+	(No symbol) [0x00007FF641683B9F]
+	(No symbol) [0x00007FF64168FC1E]
+	(No symbol) [0x00007FF6416A5B3A]
+	(No symbol) [0x00007FF6416ACCCA]
+	(No symbol) [0x00007FF64168430D]
+	(No symbol) [0x00007FF6416A57F6]
+	(No symbol) [0x00007FF64173F887]
+	(No symbol) [0x00007FF641716E03]
+	(No symbol) [0x00007FF6416DFD3E]
+	(No symbol) [0x00007FF6416E0FC3]
+	GetHandleVerifier [0x00007FF641BFF57D+3573101]
+	GetHandleVerifier [0x00007FF641C19AB0+3680928]
+	GetHandleVerifier [0x00007FF641C0F46D+3638365]
+	GetHandleVerifier [0x00007FF64196123A+827946]
+	(No symbol) [0x00007FF6418185BF]
+	(No symbol) [0x00007FF641814264]
+	(No symbol) [0x00007FF641814406]
+	(No symbol) [0x00007FF641803E49]
+	BaseThreadInitThunk [0x00007FFAA7097374+20]
+	RtlUserThreadStart [0x00007FFAA867CC91+33]
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 573, in find_random_thread_link_from_subforum
+    driver.get(subforum_url)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 393, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 296.930
+  (Session info: chrome=133.0.6943.35)
+Stacktrace:
+	GetHandleVerifier [0x00007FF641B9C615+3167749]
+	(No symbol) [0x00007FF64180D190]
+	(No symbol) [0x00007FF64169596A]
+	(No symbol) [0x00007FF64168585C]
+	(No symbol) [0x00007FF64168554A]
+	(No symbol) [0x00007FF6416830DE]
+	(No symbol) [0x00007FF641683B9F]
+	(No symbol) [0x00007FF64168FC1E]
+	(No symbol) [0x00007FF6416A5B3A]
+	(No symbol) [0x00007FF6416ACCCA]
+	(No symbol) [0x00007FF64168430D]
+	(No symbol) [0x00007FF6416A57F6]
+	(No symbol) [0x00007FF64173F887]
+	(No symbol) [0x00007FF641716E03]
+	(No symbol) [0x00007FF6416DFD3E]
+	(No symbol) [0x00007FF6416E0FC3]
+	GetHandleVerifier [0x00007FF641BFF57D+3573101]
+	GetHandleVerifier [0x00007FF641C19AB0+3680928]
+	GetHandleVerifier [0x00007FF641C0F46D+3638365]
+	GetHandleVerifier [0x00007FF64196123A+827946]
+	(No symbol) [0x00007FF6418185BF]
+	(No symbol) [0x00007FF641814264]
+	(No symbol) [0x00007FF641814406]
+	(No symbol) [0x00007FF641803E49]
+	BaseThreadInitThunk [0x00007FFAA7097374+20]
+	RtlUserThreadStart [0x00007FFAA867CC91+33]
+
+2025-03-12 15:30:11,682 - WARNING - Skipping thread processing due to no thread link being found in subforum.

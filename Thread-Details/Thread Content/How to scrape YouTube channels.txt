@@ -1,0 +1,108 @@
+--- Main Post Title ---
+How to scrape YouTube channels
+
+Total comments in the thread: 9
+
+Topic User: DigitalShark
+Topic: Hi everyone!
+
+Is there a tool/scraper/whatever that can scrape channels with more than X subscribers?
+
+Thanks!
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: kelturon
+Topic: The question is way too broad.
+There is a tool called JavaScript. It can scrape anything.
+
+First of all, scrape from where? YouTube doesn't have a filter to display all channels which have more than x subscribes. So you would need to come up with a way on how to find the links to the channels firsthand.
+
+Secondly, are you looking for a free or a paid tool? Do you want to put in work or you need a ready to go solution?
+
+There are ready made YouTube databases and other scraping tools on BHW marketplace
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: driphusk
+Topic: idk about any tools and also considering they're gonna be paid most of the time, learn selenium (a python framework (easiest language)) first and make a scrapper which will scrape your desired yt channels from search results.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: mylove123
+Topic: Do you want to filter channel. You need hire developer
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: sageshark
+Topic: There are plugins available that can scrape / import all the Youtube videos that you need into your Wordpress site. Wp Automatic is one of the best tools for this. All you need to do is feed it with relevant keywords and it will just scrape all the relevant videos. You can either publish them straight or save in draft to publish later.
+Questions? Please feel free to reach out to us at - BHW Support
+New to BHW? Don't forget to read this Newbie Guide to learn the basics of the forum.
+Would you like to get top-level FREE services? ☞ Make sure to WATCH THE FRC Subforum ⛱
+Liked by: DigitalShark
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: GenesisOne
+Topic: Check in the Free Downloads section.
+Some guy shared a list of 50k youtube channels will all their data.
+Liked by: DigitalShark
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Zakch93
+Topic: GenesisOne said:
+Check in the Free Downloads section.
+Some guy shared a list of 50k youtube channels will all their data.
+Don't find it, post link please
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: kelturon
+Topic: GenesisOne said:
+Check in the Free Downloads section.
+Some guy shared a list of 50k youtube channels will all their data.
+That guy simply reposted the same DB which I share as a preview version publicly in my BST.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Garetha
+Topic: i can't reply you on the main post that you want someone who managed 100+ accounts because I am new to BHW
+of you want the service dm tg: john609
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

@@ -1,0 +1,1 @@
+Probably one of your plugins hasn't been updated to support the newer PHP versions. Try deactivating them one by one to see if it fixes the issue.

@@ -1,0 +1,1 @@
+Ever tried just tailoring the landing page based on where the traffic's coming from? Might sidestep some of the trickier cloaking issues.

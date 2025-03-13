@@ -1,0 +1,93 @@
+2025-03-13 12:20:38,262 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250313_122038.log
+2025-03-13 12:20:38,273 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 12:20:38,308 - INFO - Loaded 186 visited threads from Thread_links.txt
+2025-03-13 12:20:38,309 - INFO - Successfully loaded links that was already visited!
+2025-03-13 12:20:38,310 - DEBUG - Scrolling page 4 times.
+2025-03-13 12:20:38,321 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:43,183 - DEBUG - Page scrolled.
+2025-03-13 12:20:45,191 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:46,726 - DEBUG - Page scrolled.
+2025-03-13 12:20:48,734 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:50,599 - DEBUG - Page scrolled.
+2025-03-13 12:20:52,602 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:53,877 - DEBUG - Page scrolled.
+2025-03-13 12:20:55,879 - DEBUG - Random scrolls complete.
+2025-03-13 12:20:55,881 - DEBUG - Scrolling page 4 times.
+2025-03-13 12:20:55,883 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:57,020 - DEBUG - Page scrolled.
+2025-03-13 12:20:59,021 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:21:00,235 - DEBUG - Page scrolled.
+2025-03-13 12:21:02,236 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:21:04,150 - DEBUG - Page scrolled.
+2025-03-13 12:21:06,162 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:21:08,147 - DEBUG - Page scrolled.
+2025-03-13 12:21:10,148 - DEBUG - Random scrolls complete.
+2025-03-13 12:21:17,158 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-03-13 12:21:23,619 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-this-cloaking-too.1687074/unread
+2025-03-13 12:21:31,109 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-this-cloaking-too.1687074/unread
+2025-03-13 12:21:31,111 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-this-cloaking-too.1687074/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 12:21:31,143 - INFO - Extracted thread title: is this cloaking too
+2025-03-13 12:21:31,144 - DEBUG - Scrolling page 3 times.
+2025-03-13 12:21:31,145 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:21:32,335 - DEBUG - Page scrolled.
+2025-03-13 12:21:34,336 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:21:35,928 - DEBUG - Page scrolled.
+2025-03-13 12:21:37,930 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:21:39,479 - DEBUG - Page scrolled.
+2025-03-13 12:21:41,481 - DEBUG - Random scrolls complete.
+2025-03-13 12:21:44,145 - DEBUG - Scrolling page 1 times.
+2025-03-13 12:21:44,146 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:21:45,345 - DEBUG - Page scrolled.
+2025-03-13 12:21:48,346 - DEBUG - Random scrolls complete.
+2025-03-13 12:21:48,380 - DEBUG - Found 9 like buttons.
+2025-03-13 12:21:51,382 - INFO - Attempting to like 1 posts. There are 9 available.
+2025-03-13 12:21:51,950 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 12:21:51,976 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 12:21:51,978 - DEBUG - Liked post number 1 of 1.
+2025-03-13 12:21:56,839 - INFO - Liked 1 posts successfully.
+2025-03-13 12:21:56,841 - INFO - Liked 1 posts successfully.
+2025-03-13 12:21:59,367 - DEBUG - Scrolling page 4 times.
+2025-03-13 12:21:59,368 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:00,712 - DEBUG - Page scrolled.
+2025-03-13 12:22:03,715 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:04,916 - DEBUG - Page scrolled.
+2025-03-13 12:22:07,919 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:09,566 - DEBUG - Page scrolled.
+2025-03-13 12:22:12,569 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:14,509 - DEBUG - Page scrolled.
+2025-03-13 12:22:17,510 - DEBUG - Random scrolls complete.
+2025-03-13 12:22:20,143 - DEBUG - Total comments in the thread: 9
+2025-03-13 12:23:22,850 - INFO - Post content extracted and saved to Thread-Details/Thread Content\is this cloaking too.txt
+2025-03-13 12:23:25,566 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 12:23:25,616 - DEBUG - Extracted main post content: i dont know what this type of cloaking called... when search by keyword querry this is shown
+
+
+
+but if you type the domain directnya it will show the real mtv.travel and only by mobile search it will direct you to another amp pages...
+does anyone now what kind of cloaking is this?
+2025-03-13 12:23:28,287 - INFO - Profile Emmaxx: Pausing for 12.40 seconds...
+2025-03-13 12:23:40,691 - INFO - Profile Emmaxx: Resuming...
+2025-03-13 12:23:41,757 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 12:23:41,761 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 12:23:43,897 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:23:43,898 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:23:43,912 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:23:43,960 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:23:43,970 - DEBUG - Text box scrolled into view
+2025-03-13 12:23:44,896 - DEBUG - Initializing actionchains
+2025-03-13 12:23:44,952 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4355}, size: {'height': 21, 'width': 68}
+2025-03-13 12:23:44,953 - DEBUG - Target click coordinates: (1121, 4365)
+2025-03-13 12:23:58,151 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 12:23:58,152 - DEBUG - Moving mouse to text box element.
+2025-03-13 12:23:58,152 - DEBUG - Clicking on the text box.
+2025-03-13 12:23:58,153 - DEBUG - Sending keys with content: Sounds like sneaky mobile redirect cloaking; haven't seen that trick in a while.
+
+2025-03-13 12:24:03,751 - DEBUG - Clicking on post reply button.
+2025-03-13 12:24:14,692 - DEBUG - Performed Actionchains
+2025-03-13 12:24:14,692 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 12:24:18,694 - INFO - Comment posted successfully.
+2025-03-13 12:24:18,697 - INFO - Task Completed!!
+2025-03-13 12:24:28,048 - INFO - Navigated back to the homepage.
+2025-03-13 12:24:30,385 - INFO - Attempting to clear memory and resources.
+2025-03-13 12:24:30,415 - INFO - Garbage collection completed.
+2025-03-13 12:24:30,416 - INFO - Waiting for 10 seconds before next execution.

@@ -1,0 +1,115 @@
+2025-03-13 11:37:49,500 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_113749.log
+2025-03-13 11:37:49,511 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 11:37:49,553 - INFO - Loaded 178 visited threads from Thread_links.txt
+2025-03-13 11:37:49,555 - INFO - Successfully loaded links that was already visited!
+2025-03-13 11:37:49,556 - DEBUG - Scrolling page 5 times.
+2025-03-13 11:37:49,556 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:37:51,475 - DEBUG - Page scrolled.
+2025-03-13 11:37:53,477 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:37:54,685 - DEBUG - Page scrolled.
+2025-03-13 11:37:56,688 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:05,845 - DEBUG - Page scrolled.
+2025-03-13 11:38:07,885 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:09,119 - DEBUG - Page scrolled.
+2025-03-13 11:38:11,123 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:13,114 - DEBUG - Page scrolled.
+2025-03-13 11:38:15,123 - DEBUG - Random scrolls complete.
+2025-03-13 11:38:15,125 - DEBUG - Scrolling page 6 times.
+2025-03-13 11:38:15,126 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:16,360 - DEBUG - Page scrolled.
+2025-03-13 11:38:18,362 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:19,990 - DEBUG - Page scrolled.
+2025-03-13 11:38:21,999 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:23,939 - DEBUG - Page scrolled.
+2025-03-13 11:38:25,946 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:27,372 - DEBUG - Page scrolled.
+2025-03-13 11:38:29,373 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:30,542 - DEBUG - Page scrolled.
+2025-03-13 11:38:32,550 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:33,876 - DEBUG - Page scrolled.
+2025-03-13 11:38:35,880 - DEBUG - Random scrolls complete.
+2025-03-13 11:38:39,212 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-03-13 11:38:46,109 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-to-do-with-my-proxies.1692908/unread
+2025-03-13 11:38:56,233 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-to-do-with-my-proxies.1692908/unread
+2025-03-13 11:38:56,237 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-to-do-with-my-proxies.1692908/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 11:38:56,275 - INFO - Extracted thread title: www.blackhatworld.com
+2025-03-13 11:38:56,276 - DEBUG - Scrolling page 2 times.
+2025-03-13 11:38:56,276 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:38:57,405 - DEBUG - Page scrolled.
+2025-03-13 11:38:59,413 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:01,133 - DEBUG - Page scrolled.
+2025-03-13 11:39:03,145 - DEBUG - Random scrolls complete.
+2025-03-13 11:39:05,405 - DEBUG - Scrolling page 4 times.
+2025-03-13 11:39:05,406 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:08,276 - DEBUG - Page scrolled.
+2025-03-13 11:39:11,278 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:12,546 - DEBUG - Page scrolled.
+2025-03-13 11:39:15,555 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:16,676 - DEBUG - Page scrolled.
+2025-03-13 11:39:19,687 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:21,410 - DEBUG - Page scrolled.
+2025-03-13 11:39:24,437 - DEBUG - Random scrolls complete.
+2025-03-13 11:39:24,511 - DEBUG - Found 14 like buttons.
+2025-03-13 11:39:27,524 - INFO - Attempting to like 4 posts. There are 14 available.
+2025-03-13 11:39:28,422 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 11:39:28,442 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 11:39:28,452 - DEBUG - Liked post number 1 of 4.
+2025-03-13 11:39:33,542 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 11:39:33,706 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 11:39:33,707 - DEBUG - Liked post number 2 of 4.
+2025-03-13 11:39:39,102 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 11:39:39,109 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 11:39:39,110 - DEBUG - Liked post number 3 of 4.
+2025-03-13 11:39:44,322 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 11:39:44,330 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 11:39:44,331 - DEBUG - Liked post number 4 of 4.
+2025-03-13 11:39:48,691 - INFO - Liked 4 posts successfully.
+2025-03-13 11:39:48,693 - INFO - Liked 4 posts successfully.
+2025-03-13 11:39:51,326 - DEBUG - Scrolling page 5 times.
+2025-03-13 11:39:51,328 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:52,355 - DEBUG - Page scrolled.
+2025-03-13 11:39:55,357 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:56,430 - DEBUG - Page scrolled.
+2025-03-13 11:39:59,431 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:01,165 - DEBUG - Page scrolled.
+2025-03-13 11:40:04,171 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:05,779 - DEBUG - Page scrolled.
+2025-03-13 11:40:08,790 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:10,615 - DEBUG - Page scrolled.
+2025-03-13 11:40:13,617 - DEBUG - Random scrolls complete.
+2025-03-13 11:40:16,650 - DEBUG - Total comments in the thread: 14
+2025-03-13 11:40:49,221 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-03-13 11:40:52,155 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 11:40:52,210 - DEBUG - Extracted main post content: Hi everyone,
+
+So long story short, I happen to have a decent amount of mobile shared proxies from a DIY farm I'm hosting at home, we're talking great speeds (20+ mbps) and the ability to rotate these as I busted my ass in figuring out API commands, other than reselling these, what are some valid use cases that could have some financial return?
+
+A big problem though is that these aren't US proxies or even europe, these are in the middle east ))
+
+Meaning we're looking for use cases that are mostly about the proxies themselves and their performance, not the location, any ideas other than reselling? I highly doubt people would be looking into buying middle eastern proxies (I'm open to the idea if people are)
+
+Thanks in advance!
+2025-03-13 11:40:55,923 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 11:40:55,925 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 11:40:58,047 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:40:58,048 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:40:58,066 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:40:58,132 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:40:58,140 - DEBUG - Text box scrolled into view
+2025-03-13 11:40:58,902 - DEBUG - Initializing actionchains
+2025-03-13 11:40:58,938 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5984}, size: {'height': 21, 'width': 68}
+2025-03-13 11:40:58,939 - DEBUG - Target click coordinates: (1121, 5994)
+2025-03-13 11:41:15,656 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 11:41:15,658 - DEBUG - Moving mouse to text box element.
+2025-03-13 11:41:15,660 - DEBUG - Clicking on the text box.
+2025-03-13 11:41:15,662 - DEBUG - Sending keys with content: Honestly, think about app testing or server monitoring from a unique location. Bet there's a niche there.
+
+2025-03-13 11:41:21,590 - DEBUG - Clicking on post reply button.
+2025-03-13 11:41:33,005 - DEBUG - Performed Actionchains
+2025-03-13 11:41:33,007 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 11:41:37,009 - INFO - Comment posted successfully.
+2025-03-13 11:41:37,012 - INFO - Task Completed!!
+2025-03-13 11:41:43,060 - INFO - Navigated back to the homepage.
+2025-03-13 11:41:45,612 - INFO - Attempting to clear memory and resources.
+2025-03-13 11:41:45,668 - INFO - Garbage collection completed.
+2025-03-13 11:41:45,669 - INFO - Waiting for 10 seconds before next execution.

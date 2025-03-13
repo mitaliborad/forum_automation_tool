@@ -1,0 +1,1 @@
+Good point about the OS fingerprint; it's easy to overlook that piece when you're heads-down on browser settings. Wish more providers made it simple to spoof that info.

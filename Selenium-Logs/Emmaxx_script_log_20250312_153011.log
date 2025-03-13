@@ -1,0 +1,167 @@
+2025-03-12 15:30:11,683 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_153011.log
+2025-03-12 15:30:11,685 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 15:30:11,686 - INFO - Loaded 175 visited threads from Thread_links.txt
+2025-03-12 15:30:11,687 - INFO - Successfully loaded links that was already visited!
+2025-03-12 15:30:11,687 - DEBUG - Scrolling page 4 times.
+2025-03-12 15:30:11,688 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:13,638 - DEBUG - Page scrolled.
+2025-03-12 15:30:15,640 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:16,969 - DEBUG - Page scrolled.
+2025-03-12 15:30:18,972 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:20,031 - DEBUG - Page scrolled.
+2025-03-12 15:30:22,034 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:23,185 - DEBUG - Page scrolled.
+2025-03-12 15:30:25,186 - DEBUG - Random scrolls complete.
+2025-03-12 15:30:25,188 - DEBUG - Scrolling page 6 times.
+2025-03-12 15:30:25,189 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:26,558 - DEBUG - Page scrolled.
+2025-03-12 15:30:28,560 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:29,835 - DEBUG - Page scrolled.
+2025-03-12 15:30:31,837 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:32,863 - DEBUG - Page scrolled.
+2025-03-12 15:30:34,865 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:35,912 - DEBUG - Page scrolled.
+2025-03-12 15:30:37,914 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:39,275 - DEBUG - Page scrolled.
+2025-03-12 15:30:41,277 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:30:43,204 - DEBUG - Page scrolled.
+2025-03-12 15:30:45,206 - DEBUG - Random scrolls complete.
+2025-03-12 15:31:00,100 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-03-12 15:31:04,588 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/all-ioncube-decryption-requests-in-this-thread.1610163/
+2025-03-12 15:31:11,725 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/all-ioncube-decryption-requests-in-this-thread.1610163/
+2025-03-12 15:31:11,727 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/all-ioncube-decryption-requests-in-this-thread.1610163/' to visited threads file 'Thread_links.txt'.
+2025-03-12 15:31:11,763 - INFO - Extracted thread title: All ioncube decryption requests in this thread
+2025-03-12 15:31:11,764 - DEBUG - Scrolling page 4 times.
+2025-03-12 15:31:11,765 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:31:13,059 - DEBUG - Page scrolled.
+2025-03-12 15:31:15,060 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:31:16,437 - DEBUG - Page scrolled.
+2025-03-12 15:31:18,438 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:31:19,689 - DEBUG - Page scrolled.
+2025-03-12 15:31:21,690 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:31:23,661 - DEBUG - Page scrolled.
+2025-03-12 15:31:25,664 - DEBUG - Random scrolls complete.
+2025-03-12 15:31:28,071 - DEBUG - Scrolling page 4 times.
+2025-03-12 15:31:28,072 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:31:29,617 - DEBUG - Page scrolled.
+2025-03-12 15:31:32,619 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:31:34,308 - DEBUG - Page scrolled.
+2025-03-12 15:31:37,310 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:31:38,847 - DEBUG - Page scrolled.
+2025-03-12 15:31:41,849 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:31:43,064 - DEBUG - Page scrolled.
+2025-03-12 15:31:46,066 - DEBUG - Random scrolls complete.
+2025-03-12 15:31:46,100 - DEBUG - Found 4 like buttons.
+2025-03-12 15:31:49,102 - INFO - Attempting to like 4 posts. There are 4 available.
+2025-03-12 15:31:49,892 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:31:49,902 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:31:49,904 - DEBUG - Liked post number 1 of 4.
+2025-03-12 15:31:55,235 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:31:55,247 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:31:55,248 - DEBUG - Liked post number 2 of 4.
+2025-03-12 15:32:00,857 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:32:00,866 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:32:00,867 - DEBUG - Liked post number 3 of 4.
+2025-03-12 15:32:06,374 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:32:06,387 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:32:06,388 - DEBUG - Liked post number 4 of 4.
+2025-03-12 15:32:10,980 - INFO - Liked 4 posts successfully.
+2025-03-12 15:32:10,981 - INFO - Liked 4 posts successfully.
+2025-03-12 15:32:13,518 - DEBUG - Scrolling page 5 times.
+2025-03-12 15:32:13,519 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:32:15,417 - DEBUG - Page scrolled.
+2025-03-12 15:32:18,418 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:32:20,242 - DEBUG - Page scrolled.
+2025-03-12 15:32:23,244 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:32:24,779 - DEBUG - Page scrolled.
+2025-03-12 15:32:27,781 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:32:28,856 - DEBUG - Page scrolled.
+2025-03-12 15:32:31,859 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:32:33,134 - DEBUG - Page scrolled.
+2025-03-12 15:32:36,137 - DEBUG - Random scrolls complete.
+2025-03-12 15:32:38,713 - DEBUG - Total comments in the thread: 0
+2025-03-12 15:32:39,071 - INFO - Post content extracted and saved to Thread-Details/Thread Content\All ioncube decryption requests in this thread.txt
+2025-03-12 15:32:41,867 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 15:32:41,921 - DEBUG - Extracted main post content: The latest version of ioncube 11 & 12 & 13
+The price of decoding each file is 4.5 euros
+The price of the dynamic key decoder is 40 euros
+2025-03-12 15:32:47,121 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 15:32:47,124 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 15:32:49,159 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:32:49,160 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:32:54,327 - DEBUG - Element not found, scrolling page (attempt 1/5).
+2025-03-12 15:32:54,328 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 15:32:56,128 - DEBUG - Page scrolled.
+2025-03-12 15:33:01,272 - DEBUG - Element not found, scrolling page (attempt 2/5).
+2025-03-12 15:33:01,273 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 15:33:03,072 - DEBUG - Page scrolled.
+2025-03-12 15:33:08,280 - DEBUG - Element not found, scrolling page (attempt 3/5).
+2025-03-12 15:33:08,281 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 15:33:09,893 - DEBUG - Page scrolled.
+2025-03-12 15:33:15,112 - DEBUG - Element not found, scrolling page (attempt 4/5).
+2025-03-12 15:33:15,113 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 15:33:16,800 - DEBUG - Page scrolled.
+2025-03-12 15:33:22,007 - DEBUG - Element not found, scrolling page (attempt 5/5).
+2025-03-12 15:33:22,008 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 15:33:23,228 - DEBUG - Page scrolled.
+2025-03-12 15:33:23,229 - WARNING - Element not found after 5 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:33:23,246 - ERROR - if comment closed then you should close the browser
+2025-03-12 15:33:23,247 - DEBUG - Searching for text with locator: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-12 15:33:23,248 - DEBUG - Attempting to find element with locator: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-12 15:33:23,263 - INFO - Element found after 1 scrolls: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-12 15:33:23,268 - INFO - Comment posted successfully.
+2025-03-12 15:33:23,269 - INFO - Task Completed!!
+2025-03-12 15:33:23,272 - ERROR - Failed to navigate back to the homepage: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF641B9C615+3167749]
+	(No symbol) [0x00007FF64180D190]
+	(No symbol) [0x00007FF64169579C]
+	(No symbol) [0x00007FF6416DEF5F]
+	(No symbol) [0x00007FF641716EF2]
+	(No symbol) [0x00007FF641711889]
+	(No symbol) [0x00007FF641710939]
+	(No symbol) [0x00007FF641665595]
+	GetHandleVerifier [0x00007FF641BFF57D+3573101]
+	GetHandleVerifier [0x00007FF641C19AB0+3680928]
+	GetHandleVerifier [0x00007FF641C0F46D+3638365]
+	GetHandleVerifier [0x00007FF64196123A+827946]
+	(No symbol) [0x00007FF6418185BF]
+	(No symbol) [0x00007FF6416641AE]
+	GetHandleVerifier [0x00007FF641C92BB8+4176808]
+	BaseThreadInitThunk [0x00007FFAA7097374+20]
+	RtlUserThreadStart [0x00007FFAA867CC91+33]
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 639, in navigate_home
+    driver.get("https://www.blackhatworld.com/")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 393, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF641B9C615+3167749]
+	(No symbol) [0x00007FF64180D190]
+	(No symbol) [0x00007FF64169579C]
+	(No symbol) [0x00007FF6416DEF5F]
+	(No symbol) [0x00007FF641716EF2]
+	(No symbol) [0x00007FF641711889]
+	(No symbol) [0x00007FF641710939]
+	(No symbol) [0x00007FF641665595]
+	GetHandleVerifier [0x00007FF641BFF57D+3573101]
+	GetHandleVerifier [0x00007FF641C19AB0+3680928]
+	GetHandleVerifier [0x00007FF641C0F46D+3638365]
+	GetHandleVerifier [0x00007FF64196123A+827946]
+	(No symbol) [0x00007FF6418185BF]
+	(No symbol) [0x00007FF6416641AE]
+	GetHandleVerifier [0x00007FF641C92BB8+4176808]
+	BaseThreadInitThunk [0x00007FFAA7097374+20]
+	RtlUserThreadStart [0x00007FFAA867CC91+33]
+
+2025-03-12 15:33:23,342 - INFO - Attempting to clear memory and resources.
+2025-03-12 15:33:23,394 - INFO - Garbage collection completed.
+2025-03-12 15:33:23,395 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,20 +1,32 @@
 --- Main Post Title ---
 Tumblr monthly stats
 
+Total comments in the thread: 3
+
 Topic User: mantasv
 Topic: Is there a way to get a cumulative notes count from all the original posts for the entire month even if archive is disabled?
 
 This tool https://jetblackcode.com/TumblrStats has it but it doesn't work with blogs which have archives disabled.
-Liked by: No user likes
-Number of likes: 0
-No reply was found:
+Liked by: You, Emma xx
+Number of likes: 2
 -----
+
+Replies:
+
 
 Topic User: imccafey
 Topic: As long as the blog is public/ you have access to it, you might be able to get around that through Tumblr's API. Privated or password-protected ones aside, I can see this being done. Not familiar with extensions that do that specifically though so you might have to rely on custom coded tools for it.
-Liked by: No user likes
-Number of likes: 0
-No reply was found:
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: That's a tricky one! Have you tried looking at the Tumblr API directly to see if it offers any clues?
+Liked by: You
+Number of likes: 1
 -----
 
 Replies:

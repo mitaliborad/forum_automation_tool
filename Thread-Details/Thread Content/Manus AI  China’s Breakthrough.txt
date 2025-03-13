@@ -1,0 +1,33 @@
+--- Main Post Title ---
+Manus AI : China’s Breakthrough
+
+Total comments in the thread: 3
+
+Topic User: Vlad2012
+Topic: After Deepseek, a Chinese start-up called Butterfly Effect introduced an AI named Manus AI. This agent, capable of handling various tasks and with great autonomy, competes with OpenAI's DeepResearch. China continues to be at the center of news about artificial intelligence. Earlier this year, the world discovered Deepseek and its reasoning model. A remarkable success for a high-performing LLM trained at a low cost. This weekend, another Chinese start-up, Butterfly Effect, made headlines, especially with its Manus AI model. In a video, its founder, Xiao Hong, introduces this LLM as "the first general AI agent," capable of managing multiple tasks autonomously.
+In this presentation, Manus is capable of several things. It can recommend the best candidate for a job after ingesting, opening, and reading job applications, then categorize individuals in a text document before reformatting its recommendations into a spreadsheet. Another use case involves preparing a document on available real estate after a user provides their requirements, location, and budget. Finally, the last use case proposes correlating various stock prices of companies (including Nvidia), formatting them into a report, and creating a website to present them on a webpage.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: aydinasuh
+Topic: I think it’s quite functional, and once further developed, it could serve as a highly effective assistant, especially for small agencies. I haven’t received an invite code yet, so I’m waiting as well—can’t wait to try it out!
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Spicy Chromosomes
+Topic: It seems promising, but I didn't test it, just opened for private beta testers
+Liked by: You, MR.Spuf
+Number of likes: 2
+-----
+
+Replies:
+
+

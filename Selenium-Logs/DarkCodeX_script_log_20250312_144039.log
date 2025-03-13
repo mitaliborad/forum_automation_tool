@@ -1,0 +1,107 @@
+2025-03-12 14:40:39,431 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_144039.log
+2025-03-12 14:40:39,435 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 14:40:39,481 - INFO - Loaded 170 visited threads from Thread_links.txt
+2025-03-12 14:40:39,482 - INFO - Successfully loaded links that was already visited!
+2025-03-12 14:40:39,483 - DEBUG - Scrolling page 7 times.
+2025-03-12 14:40:39,484 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:40:41,141 - DEBUG - Page scrolled.
+2025-03-12 14:40:43,143 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:40:44,484 - DEBUG - Page scrolled.
+2025-03-12 14:40:46,487 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:40:48,074 - DEBUG - Page scrolled.
+2025-03-12 14:40:50,077 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:40:51,748 - DEBUG - Page scrolled.
+2025-03-12 14:40:53,750 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:40:55,278 - DEBUG - Page scrolled.
+2025-03-12 14:40:57,281 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:40:58,432 - DEBUG - Page scrolled.
+2025-03-12 14:41:00,435 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:01,649 - DEBUG - Page scrolled.
+2025-03-12 14:41:03,651 - DEBUG - Random scrolls complete.
+2025-03-12 14:41:03,652 - DEBUG - Scrolling page 6 times.
+2025-03-12 14:41:03,653 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:05,308 - DEBUG - Page scrolled.
+2025-03-12 14:41:07,311 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:08,628 - DEBUG - Page scrolled.
+2025-03-12 14:41:10,630 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:12,217 - DEBUG - Page scrolled.
+2025-03-12 14:41:14,219 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:15,461 - DEBUG - Page scrolled.
+2025-03-12 14:41:17,463 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:19,112 - DEBUG - Page scrolled.
+2025-03-12 14:41:21,117 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:22,489 - DEBUG - Page scrolled.
+2025-03-12 14:41:24,491 - DEBUG - Random scrolls complete.
+2025-03-12 14:41:32,960 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-03-12 14:41:37,622 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/bot-completing-pdf-with-info-from-txt-file.1627033/
+2025-03-12 14:41:47,256 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/bot-completing-pdf-with-info-from-txt-file.1627033/
+2025-03-12 14:41:47,259 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/bot-completing-pdf-with-info-from-txt-file.1627033/' to visited threads file 'Thread_links.txt'.
+2025-03-12 14:41:47,319 - INFO - Extracted thread title: bot completing pdf with info from txt file
+2025-03-12 14:41:47,320 - DEBUG - Scrolling page 4 times.
+2025-03-12 14:41:47,321 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:48,542 - DEBUG - Page scrolled.
+2025-03-12 14:41:50,545 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:52,291 - DEBUG - Page scrolled.
+2025-03-12 14:41:54,293 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:56,154 - DEBUG - Page scrolled.
+2025-03-12 14:41:58,156 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:41:59,641 - DEBUG - Page scrolled.
+2025-03-12 14:42:01,644 - DEBUG - Random scrolls complete.
+2025-03-12 14:42:03,996 - DEBUG - Scrolling page 1 times.
+2025-03-12 14:42:03,996 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:42:05,734 - DEBUG - Page scrolled.
+2025-03-12 14:42:08,736 - DEBUG - Random scrolls complete.
+2025-03-12 14:42:08,759 - DEBUG - Found 6 like buttons.
+2025-03-12 14:42:11,760 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-03-12 14:42:12,686 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 14:42:12,713 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 14:42:12,715 - DEBUG - Liked post number 1 of 2.
+2025-03-12 14:42:17,836 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 14:42:17,856 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 14:42:17,857 - DEBUG - Liked post number 2 of 2.
+2025-03-12 14:42:22,852 - INFO - Liked 2 posts successfully.
+2025-03-12 14:42:22,856 - INFO - Liked 2 posts successfully.
+2025-03-12 14:42:25,852 - DEBUG - Scrolling page 7 times.
+2025-03-12 14:42:25,853 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:42:27,647 - DEBUG - Page scrolled.
+2025-03-12 14:42:30,649 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:42:32,658 - DEBUG - Page scrolled.
+2025-03-12 14:42:35,677 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:42:37,579 - DEBUG - Page scrolled.
+2025-03-12 14:42:40,581 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:42:42,284 - DEBUG - Page scrolled.
+2025-03-12 14:42:45,287 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:42:47,097 - DEBUG - Page scrolled.
+2025-03-12 14:42:50,101 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:42:51,810 - DEBUG - Page scrolled.
+2025-03-12 14:42:54,812 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:42:56,102 - DEBUG - Page scrolled.
+2025-03-12 14:42:59,104 - DEBUG - Random scrolls complete.
+2025-03-12 14:43:01,496 - DEBUG - Total comments in the thread: 6
+2025-03-12 14:43:22,973 - INFO - Post content extracted and saved to Thread-Details/Thread Content\bot completing pdf with info from txt file.txt
+2025-03-12 14:43:25,015 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 14:43:25,087 - DEBUG - Extracted main post content: looking for a model bot completing pdf with info from txt file , please give me some sugestions
+2025-03-12 14:43:30,782 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 14:43:30,784 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 14:43:33,270 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:43:33,272 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:43:33,311 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:43:33,382 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:43:33,396 - DEBUG - Text box scrolled into view
+2025-03-12 14:43:34,211 - DEBUG - Initializing actionchains
+2025-03-12 14:43:34,239 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2869}, size: {'height': 21, 'width': 68}
+2025-03-12 14:43:34,240 - DEBUG - Target click coordinates: (1121, 2879)
+2025-03-12 14:43:43,677 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 14:43:43,678 - DEBUG - Moving mouse to text box element.
+2025-03-12 14:43:43,678 - DEBUG - Clicking on the text box.
+2025-03-12 14:43:43,679 - DEBUG - Sending keys with content: Honestly, skipping the bot and just learning Python might be quicker in the long run, plus you'd have more control.
+
+2025-03-12 14:43:49,145 - DEBUG - Clicking on post reply button.
+2025-03-12 14:43:50,291 - DEBUG - Performed Actionchains
+2025-03-12 14:43:50,292 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 14:43:54,293 - INFO - Comment posted successfully.
+2025-03-12 14:43:54,295 - INFO - Task Completed!!
+2025-03-12 14:43:58,647 - INFO - Navigated back to the homepage.
+2025-03-12 14:44:00,853 - INFO - Attempting to clear memory and resources.
+2025-03-12 14:44:00,896 - INFO - Garbage collection completed.
+2025-03-12 14:44:00,897 - INFO - Waiting for 1000 seconds before next execution.

@@ -17,7 +17,7 @@ from pynput.mouse import Button, Controller
 import threading
 
 from blackhatworld_config import setup_logger  # Import logger setup
-from Multilogin_manager import PROFILES, signin, start_profile, stop_profile  # Import Multilogin functions
+from Multilogin_manager import PROFILES, signin, start_profile, stop_profile, maybe_perform_random_action  # Import Multilogin functions
 from blackhatworld_functions import (
     get_subforum_list,
     load_visited_threads,
@@ -44,7 +44,7 @@ from blackhatworld_config import (
 )
 
 # --- Main Execution Function (for each profile) ---
-def process_profile(profile_name, profile_config):
+def process_profile(profile_name, profile_config, manager_logger):
     # Initialize logger *outside* the loop, for the profile itself
     profile_logger, profile_log_file = setup_logger(LOG_DIRECTORY, profile_name)
     profile_logger.info(f"Starting automation for profile: {profile_name}")
@@ -68,7 +68,7 @@ def process_profile(profile_name, profile_config):
         while True:
             
             if datetime.now() - start_time > run_duration:
-                task_logger.info("Automation has reached the time limit. Stopping execution.")
+                profile_logger.info("Automation has reached the time limit. Stopping execution.")
                 break
 
             # ---- NEW LOGGER FOR EACH TASK ----
@@ -122,6 +122,8 @@ def process_profile(profile_name, profile_config):
                     scroll_delay=3,
                 ) # Use task logger
 
+                maybe_perform_random_action(driver, task_logger, profile_name)
+
                 time.sleep(random.uniform(2,3))
 
                 scroll_random_times(task_logger, driver, min_scrolls=3, max_scrolls=7, scroll_delay=3) # Use task logger
@@ -137,8 +139,12 @@ def process_profile(profile_name, profile_config):
                 task_logger.info(f"Post content extracted and saved to {thread_content_file}") # Use task logger
                 time.sleep(random.uniform(2, 3))
 
+                maybe_perform_random_action(driver, task_logger, profile_name)
+
                 main_post_content = extract_main_post_content(task_logger, driver) # Use task logger
                 time.sleep(random.uniform(2, 3))
+
+                maybe_perform_random_action(driver, task_logger, profile_name)  
 
                 # generate and save comment
                 if main_post_content:
@@ -172,9 +178,14 @@ def process_profile(profile_name, profile_config):
                 comment = read_thread_content(task_logger, comment_file) # Use task logger
                 time.sleep(random.uniform(2, 3))
 
+                maybe_perform_random_action(driver, task_logger, profile_name)
+
                 if comment:
                     post_comment(task_logger, driver, comment, write_delay=3) # Use task logger
                     task_logger.info("Comment posted successfully.")  # Use task logger
+
+                    maybe_perform_random_action(driver, task_logger, profile_name)
+
                 else:
                     task_logger.warning("No comment available to post.")  # Use task logger
 
@@ -224,12 +235,30 @@ if __name__ == "__main__":
     root_logger.addHandler(console_handler)
 
     threads = []  # List to store the threads
+    manager_logger = logging.getLogger("Manager")
+
+    # # Create and start a thread for each profile
+    # for profile_name, profile_config in PROFILES.items():
+    #     thread = threading.Thread(target=process_profile, args=(profile_name, profile_config))
+    #     threads.append(thread)
+    #     thread.start()
 
     # Create and start a thread for each profile
-    for profile_name, profile_config in PROFILES.items():
-        thread = threading.Thread(target=process_profile, args=(profile_name, profile_config))
+    profile_names = list(PROFILES.keys())
+    for i, profile_name in enumerate(profile_names):
+        profile_config = PROFILES[profile_name]
+
+        # Stagger the start times
+        if i > 0:
+            delay_minutes = random.uniform(1, 3)  # Use values from `Multilogin_manager.py` or define them here
+            delay_seconds = delay_minutes * 60
+            manager_logger.info(f"Waiting {delay_minutes:.2f} minutes before starting profile {profile_name}...")
+            time.sleep(delay_seconds)
+
+        thread = threading.Thread(target=process_profile, args=(profile_name, profile_config, manager_logger))
         threads.append(thread)
         thread.start()
+
 
     # Wait for all threads to complete
     for thread in threads:
