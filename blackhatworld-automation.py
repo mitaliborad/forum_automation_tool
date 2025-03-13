@@ -69,8 +69,8 @@ def process_profile(profile_name, profile_config, manager_logger):
 
             # ---- NEW LOGGER FOR EACH TASK ----
             automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            task_logger, profile_log_file = setup_logger(LOG_DIRECTORY, profile_name, automation_timestamp)  # New logger
-            task_logger.info(f"Starting new automation task. Log file created at: {task_log_file}") # Use task logger
+            #profile_logger, profile_log_file = setup_logger(LOG_DIRECTORY, profile_name, automation_timestamp)  # New logger
+            profile_logger.info(f"Starting new automation task. Log file created at: {profile_log_file}") # Use task logger
             
             if datetime.now() - start_time > run_duration:
                 profile_logger.info("Automation has reached the time limit. Stopping execution.")
@@ -80,12 +80,12 @@ def process_profile(profile_name, profile_config, manager_logger):
                 # PERFORM RANDOM ACTION
                 #perform_random_action(driver, profile_logger, profile_name)
 
-                subforum_urls = get_subforum_list(task_logger) # Use task logger
+                subforum_urls = get_subforum_list(profile_logger) # Use task logger
                 if not subforum_urls:
                     profile_logger.critical("No subforum URLs found in the file. Exiting.") # Use task logger
                     break  # Exit the loop, effectively stopping the profile's automation
 
-                visited_threads = load_visited_threads(task_logger)  # Load visited threads at the start  # Use task logger
+                visited_threads = load_visited_threads(profile_logger)  # Load visited threads at the start  # Use task logger
                 if visited_threads:
                     profile_logger.info(f"Successfully loaded links that was already visited!")   # Use task logger
                     
@@ -101,6 +101,7 @@ def process_profile(profile_name, profile_config, manager_logger):
                 
                 # PERFORM RANDOM ACTION
                 perform_random_action(driver, profile_logger, profile_name)
+                profile_logger.info("performing random action")
 
                 if thread_link:
                     time.sleep(random.uniform(2, 3))
@@ -137,6 +138,7 @@ def process_profile(profile_name, profile_config, manager_logger):
                 
                 # PERFORM RANDOM ACTION
                 perform_random_action(driver, profile_logger, profile_name)
+                profile_logger.info("performing random action")
 
                 scroll_random_times(profile_logger, driver, min_scrolls=3, max_scrolls=7, scroll_delay=3) # Use task logger
                 time.sleep(random.uniform(2, 3))
@@ -191,6 +193,7 @@ def process_profile(profile_name, profile_config, manager_logger):
                 
                 # PERFORM RANDOM ACTION
                 perform_random_action(driver, profile_logger, profile_name)
+                profile_logger.info("performing random action")
 
                 if comment:
                     post_comment(profile_logger, driver, comment, write_delay=3) # Use task logger
@@ -232,7 +235,7 @@ def process_profile(profile_name, profile_config, manager_logger):
 
             except Exception as e:
                 profile_logger.warning(f"Error stopping profile for {profile_name}: {e}", exc_info=True)
-
+                
 # --- Main Execution Loop (with Threading) ---
 if __name__ == "__main__":
     # find directories
