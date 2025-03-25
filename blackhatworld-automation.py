@@ -1,23 +1,16 @@
 import time
 import logging
 from datetime import datetime
-import numpy as np
 import os
 import re
-import gc
 import random
-from datetime import datetime, timedelta
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains
-from pynput.mouse import Button, Controller
 import threading
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-from blackhatworld_config import setup_logger  # Import logger setup
-from Multilogin_manager import PROFILES, signin, start_profile, stop_profile, perform_random_action  # Import Multilogin functions
+
+from blackhatworld_config import setup_logger  
+from Multilogin_manager import PROFILES, signin, refresh_token, start_profile, stop_profile, perform_random_action   
 from blackhatworld_functions import (
     get_subforum_list,
     load_visited_threads,
@@ -33,7 +26,7 @@ from blackhatworld_functions import (
     post_comment,
     navigate_home,
     clear_memory
-) # Import functions from Blackhatworld-functions.py
+) 
 
 # Import configuration variables
 from blackhatworld_config import (
@@ -44,17 +37,18 @@ from blackhatworld_config import (
 )
 
 # --- Main Execution Function (for each profile) ---
-def process_profile(profile_name, profile_config, manager_logger):
+def process_profile(profile_name, profile_config, manager_logger, start_time, run_duration):
     # Initialize logger *outside* the loop, for the profile itself
     profile_logger, profile_log_file = setup_logger(LOG_DIRECTORY, profile_name)
     profile_logger.info(f"Starting automation for profile: {profile_name}")
 
     token = None
+    token_expiration_time = 0
     driver = None
 
     try:
         # 1. MultiLogin Authentication and Profile Start
-        token = signin(profile_name, profile_config, profile_logger)
+        token, token_expiration_time = signin(profile_name, profile_config, profile_logger)
         if not token:
             profile_logger.error(f"Failed to sign in to MultiLogin profile: {profile_name}. Skipping.")
             return  # Exit the function, which will stop the thread
@@ -65,30 +59,62 @@ def process_profile(profile_name, profile_config, manager_logger):
             return  # Exit the function, which will stop the thread
 
         # *** MAIN AUTOMATION LOGIC HERE ***
+        automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        api_comments_dir = "Thread-Details/API Comments"
+        thread_content_dir = "Thread-Details/Thread Content"
+        visited_threads = load_visited_threads(profile_logger)  # Load visited threads at the start  # Use task logger
+        if visited_threads:
+            profile_logger.info(f"Successfully loaded links that was already visited!")   # Use task logger
+
         while True:
 
-            # ---- NEW LOGGER FOR EACH TASK ----
-            automation_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            #profile_logger, profile_log_file = setup_logger(LOG_DIRECTORY, profile_name, automation_timestamp)  # New logger
-            profile_logger.info(f"Starting new automation task. Log file created at: {profile_log_file}") # Use task logger
-            
             if datetime.now() - start_time > run_duration:
                 profile_logger.info("Automation has reached the time limit. Stopping execution.")
                 break
 
             try:
+                current_time = time.time()
+                profile_logger.info(f"Current time: {current_time}")
+
+                # is_expired = current_time >= token_expiration_time - 60
+                # profile_logger.info(f"Token expiration check: {is_expired}")
+
+                # if time.time() >= token_expiration_time - 60:
+                #     # Log token refresh attempt
+                #     profile_logger.info("Token is near expiration. Refreshing token...")
+
+                #     # Attempt to refresh the token
+                #     token, token_expiration_time = signin(profile_name, profile_config, profile_logger)  # Refresh Token!
+                #     if not token:
+                #         profile_logger.error("Failed to refresh token.  Exiting...")
+                #         break  # Exit if refresh fails
+
+                #     # Log the successful token refresh
+                #     profile_logger.info("Token refreshed successfully.")
+
+                if current_time >= token_expiration_time - 60:
+                    profile_logger.info("Token is about to expire. Refreshing...")
+                    token, token_expiration_time = refresh_token(profile_name, profile_config, profile_logger)
+                    if not token:
+                        profile_logger.error("Failed to refresh token. Exiting...")
+                        break
+                    profile_logger.info("Token refreshed successfully.")
+                    profile_logger.info(f"New token expiration time: {token_expiration_time}")
+
+                profile_logger.info(f"Token expiration time: {token_expiration_time}")
+
+                # Log token expiration time
+                profile_logger.info(f"Token expiration time: {token_expiration_time}")
+
                 # PERFORM RANDOM ACTION
-                #perform_random_action(driver, profile_logger, profile_name)
+                perform_random_action(driver, profile_logger, profile_name)
+                profile_logger.info("performing random action")
 
                 subforum_urls = get_subforum_list(profile_logger) # Use task logger
                 if not subforum_urls:
                     profile_logger.critical("No subforum URLs found in the file. Exiting.") # Use task logger
                     break  # Exit the loop, effectively stopping the profile's automation
 
-                visited_threads = load_visited_threads(profile_logger)  # Load visited threads at the start  # Use task logger
-                if visited_threads:
-                    profile_logger.info(f"Successfully loaded links that was already visited!")   # Use task logger
-                    
                 # PERFORM RANDOM ACTION
                 #perform_random_action(driver, profile_logger, profile_name)
 
@@ -98,7 +124,7 @@ def process_profile(profile_name, profile_config, manager_logger):
                 subforum_url = random.choice(subforum_urls)
                 scroll_random_times(profile_logger, driver) # Use task logger
                 thread_link = find_random_thread_link_from_subforum(profile_logger,driver, subforum_url,visited_threads)  # Use task logger
-                
+
                 # PERFORM RANDOM ACTION
                 perform_random_action(driver, profile_logger, profile_name)
                 profile_logger.info("performing random action")
@@ -118,7 +144,7 @@ def process_profile(profile_name, profile_config, manager_logger):
 
                 # Extract thread title
                 thread_title = get_thread_title(profile_logger, driver) # Use task logger
-                
+
                 # PERFORM RANDOM ACTION
                 #perform_random_action(driver, profile_logger, profile_name)
 
@@ -135,7 +161,7 @@ def process_profile(profile_name, profile_config, manager_logger):
                 ) # Use task logger
 
                 time.sleep(random.uniform(2,3))
-                
+
                 # PERFORM RANDOM ACTION
                 perform_random_action(driver, profile_logger, profile_name)
                 profile_logger.info("performing random action")
@@ -145,14 +171,13 @@ def process_profile(profile_name, profile_config, manager_logger):
 
 
                 # save thread content
-                thread_content_dir = "Thread-Details/Thread Content"  # Moved inside try block
                 thread_content_file = os.path.join(
                     thread_content_dir, f"{thread_title}.txt"
                 )
                 extract_post_content(profile_logger, driver, thread_content_file) # Use task logger
                 profile_logger.info(f"Post content extracted and saved to {thread_content_file}") # Use task logger
                 time.sleep(random.uniform(2, 3))
-                
+
                 # PERFORM RANDOM ACTION
                 #perform_random_action(driver, profile_logger, profile_name)
 
@@ -161,7 +186,6 @@ def process_profile(profile_name, profile_config, manager_logger):
 
                 # generate and save comment
                 if main_post_content:
-                    api_comments_dir = "Thread-Details/API Comments" # Moved inside try block
                     comment = generate_and_save_comments(profile_logger,
                         main_post_content,
                         os.path.join(api_comments_dir, "temp_comment.txt"),
@@ -190,7 +214,7 @@ def process_profile(profile_name, profile_config, manager_logger):
                 )
                 comment = read_thread_content(profile_logger, comment_file) # Use task logger
                 time.sleep(random.uniform(2, 3))
-                
+
                 # PERFORM RANDOM ACTION
                 perform_random_action(driver, profile_logger, profile_name)
                 profile_logger.info("performing random action")
@@ -217,10 +241,8 @@ def process_profile(profile_name, profile_config, manager_logger):
             clear_memory(profile_logger)  # Use task logger
             profile_logger.info(f"Waiting for {AUTOMATION_WAIT_TIME} seconds before next execution.")  # Use task logger
             time.sleep(AUTOMATION_WAIT_TIME)
-            # -- Remove handler to log in new files --
-            for handler in profile_logger.handlers[:]:
-                profile_logger.removeHandler(handler)
-                handler.close()
+
+            print("\n\n\n\n")
 
     except Exception as e:
         profile_logger.critical(f"An error occurred with profile {profile_name}: {e}", exc_info=True)
@@ -230,12 +252,24 @@ def process_profile(profile_name, profile_config, manager_logger):
         if driver:
             try:
                 profile_logger.info(f"Stopping browser for profile: {profile_name}...")
-                stop_profile(profile_name, profile_config, token, profile_logger, driver)  # Pass driver to stop_profile
+
+                # *** REFRESH TOKEN IMMEDIATELY BEFORE STOPPING ***
+                profile_logger.info("Refreshing token before stopping profile...")
+                token, token_expiration_time = refresh_token(profile_name, profile_config, profile_logger)
+                if not token:
+                    profile_logger.error("Failed to refresh token before stopping.  Attempting to stop anyway...")
+                else:
+                    profile_logger.info("Token refreshed successfully before stopping.")
+
+                stop_profile(profile_name, profile_config, token, profile_logger, driver, max_retries=3, retry_delay=2)  # Pass driver to stop_profile
                 profile_logger.info(f"Browser stopped successfully for profile: {profile_name}.")
 
             except Exception as e:
                 profile_logger.warning(f"Error stopping profile for {profile_name}: {e}", exc_info=True)
-                
+
+        else:
+            profile_logger.warning(f"Driver was not initialized for {profile_name}.  Skipping stop_profile.")
+
 # --- Main Execution Loop (with Threading) ---
 if __name__ == "__main__":
     # find directories
@@ -250,15 +284,13 @@ if __name__ == "__main__":
 
     threads = []  # List to store the threads
     manager_logger = logging.getLogger("Manager")
-
-    # # Create and start a thread for each profile
-    # for profile_name, profile_config in PROFILES.items():
-    #     thread = threading.Thread(target=process_profile, args=(profile_name, profile_config))
-    #     threads.append(thread)
-    #     thread.start()
+    manager_logger.setLevel(logging.INFO)  # Set level for manager logger
+    manager_logger.addHandler(console_handler)  # Add console handler
 
     # Create and start a thread for each profile
     profile_names = list(PROFILES.keys())
+    start_time = datetime.now()
+
     for i, profile_name in enumerate(profile_names):
         profile_config = PROFILES[profile_name]
 
@@ -269,7 +301,7 @@ if __name__ == "__main__":
             manager_logger.info(f"Waiting {delay_minutes:.2f} minutes before starting profile {profile_name}...")
             time.sleep(delay_seconds)
 
-        thread = threading.Thread(target=process_profile, args=(profile_name, profile_config, manager_logger))
+        thread = threading.Thread(target=process_profile, args=(profile_name, profile_config, manager_logger, start_time, run_duration))
         threads.append(thread)
         thread.start()
 

@@ -4,14 +4,16 @@ import hashlib
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import logging
-import threading
 import random
 from pynput.keyboard import Key, Controller
 from pynput.mouse import Controller as MouseController
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- MultiLogin Configuration ---
 MLX_BASE = "https://api.multilogin.com"
-MLX_LAUNCHER_V1 = "https://launcher.mlx.yt:45001/api/v1"  # Updated endpoint
+MLX_LAUNCHER_V1 = "https://launcher.mlx.yt:45001/api/v2"  # Updated endpoint
 LOCALHOST = "http://127.0.0.1"
 HEADERS = {"Accept": "application/json", "Content-Type": "application/json"}
 
@@ -41,17 +43,21 @@ PROFILES = {
     # Add more profiles as needed
 }
 
+# --- Logging Configuration ---
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logger = logging.getLogger("Test")
+
 # --- Configuration Constants ---
 STAGGER_DELAY_MINUTES_MIN = 1
 STAGGER_DELAY_MINUTES_MAX = 3
-RANDOM_ACTION_CHANCE = 0.3  # Probability of performing a random action
-RANDOM_PAUSE_MIN = 10       # Minimum pause duration in seconds
-RANDOM_PAUSE_MAX = 20      # Maximum pause duration in seconds
+RANDOM_ACTION_CHANCE = 0.5  # Probability of performing a random action
+RANDOM_PAUSE_MIN = 30       # Minimum pause duration in seconds
+RANDOM_PAUSE_MAX = 50      # Maximum pause duration in seconds
 NEW_TAB_URL = "https://www.google.com"  # Example URL for the new tab
 RANDOM_WEBSITES = ["https://www.canva.com/en_in/", "https://www.adobe.com/in/products/photoshop.html", "https://www.w3schools.com/", "https://github.com/", "https://www.teejh.com/", "https://letshyphen.com/", "https://www.netflix.com/in/"]
-MINIMIZE_DELAY_MIN = 5  # Minimum minimize duration in seconds
-MINIMIZE_DELAY_MAX = 15 # Maximum minimize duration in seconds
-SCROLL_PAUSE_TIME = 0.5
+MINIMIZE_DELAY_MIN = 15  # Minimum minimize duration in seconds
+MINIMIZE_DELAY_MAX = 30 # Maximum minimize duration in seconds
+SCROLL_PAUSE_TIME = 0.9
 
 
 # --- Global Controller Instances for Pynput ---
@@ -76,17 +82,26 @@ def signin(profile_name, profile_config, logger):
 
         data = response.json().get("data", {})
         token = data.get("token")
+        expires_in = data.get("expires_in", 7200)  # Default to 1 hour if not provided
+        logger.info(f"Received expires_in from MultiLogin: {expires_in}")
+        expiration_time = time.time() + expires_in
+        logger.info(f"Calculated token expiration time: {expiration_time}")
 
         if not token:
             logger.error(f"Profile {profile_name}: Authentication failed.")
-            return None
+            return None, None
 
         logger.info(f"Profile {profile_name}: Successfully logged in.")
-        return token
+        return token, expiration_time
 
     except requests.exceptions.RequestException as e:
         logger.error(f"Profile {profile_name}: Connection error during login: {e}")
-        return None
+        return None, None
+    
+def refresh_token(profile_name, profile_config, logger):
+    """Refreshes the token when it expires."""
+    logger.info(f"Refreshing token for {profile_name}...")
+    return signin(profile_name, profile_config, logger)
 
 
 def start_profile(profile_name, profile_config, token, logger):
@@ -126,33 +141,51 @@ def start_profile(profile_name, profile_config, token, logger):
         return None
 
 
-def stop_profile(profile_name, profile_config, token, logger, driver):
+def stop_profile(profile_name, profile_config, token, logger, driver, max_retries=3, retry_delay=2):
     """Stops profile, closing browser and stopping MultiLogin."""
-    try:
-        logger.info(f"Profile {profile_name}: Attempting to stop...")
+    for attempt in range(max_retries):
+        try:
+            logger.info(f"Profile {profile_name}: Attempting to stop (Attempt {attempt + 1}/{max_retries})...")
 
-        if driver:
-            try:
-                driver.quit()
-                logger.info(f"Profile {profile_name}: Browser closed successfully.")
-            except Exception as e:
-                logger.error(f"Profile {profile_name}: Error closing browser: {e}")
+            if driver:
+                try:
+                    start_time = time.time()
+                    driver.quit()
+                    end_time = time.time()
+                    logger.info(f"Profile {profile_name}: Browser closed successfully in {end_time - start_time:.2f} seconds.")
+                except Exception as e:
+                    logger.error(f"Profile {profile_name}: Error closing browser: {e}", exc_info=True)
 
-        response = requests.get(
-            f"{profile_config['launcher_url']}/profile/stop/p/{profile_config['profile_id']}",
-            headers={"Authorization": f"Bearer {token}", **HEADERS},
-            verify=False #Disable SSL verification for testing
-        )
+            start_time = time.time()
+            response = requests.get(
+                f"{profile_config['launcher_url']}/profile/stop/p/{profile_config['profile_id']}",
+                headers={"Authorization": f"Bearer {token}", **HEADERS},
+                verify=False #Disable SSL verification for testing
+            )
+            end_time = time.time()  # Time after the API call
 
-        if response.status_code == 200:
-            logger.info(f"Profile {profile_name}: Stopped successfully.")
-        elif response.status_code == 404:
-            logger.warning(f"Profile {profile_name}: Not found, may already be stopped.")
-        else:
-            logger.error(f"Profile {profile_name}: Failed to stop: {response.text}")
+            logger.info(f"Profile {profile_name}: API call took {end_time - start_time:.2f} seconds.")
 
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Profile {profile_name}: Connection error stopping profile: {e}")
+            if response.status_code == 200:
+                logger.info(f"Profile {profile_name}: Stopped successfully.")
+                return
+            elif response.status_code == 404:
+                logger.warning(f"Profile {profile_name}: Not found, may already be stopped.")
+                return
+            else:
+                logger.error(f"Profile {profile_name}: Failed to stop: {response.text}")
+
+        except requests.exceptions.RequestException as e:
+            logger.error(f"Profile {profile_name}: Connection error stopping profile: {e}")
+        except Exception as e:
+            logger.error(f"Profile {profile_name}: Unexpected error stopping profile: {e}", exc_info=True)
+
+        if attempt < max_retries - 1:
+            delay = random.uniform(retry_delay, retry_delay * 2)  # Jittered delay
+            logger.info(f"Profile {profile_name}: Retrying in {delay:.2f} seconds...")
+            time.sleep(delay)
+
+    logger.error(f"Profile {profile_name}: Failed to stop after {max_retries} attempts.")
 
 
 def configure_logger(profile_name):
@@ -172,32 +205,44 @@ def random_pause(logger, profile_name):
     time.sleep(pause_duration)
     logger.info(f"Profile {profile_name}: Resuming...")
 
-def open_new_tab(driver, logger, profile_name, url=NEW_TAB_URL):
-    """Opens a new tab with the specified URL."""
+def open_new_tab_default(driver, logger, profile_name, url=NEW_TAB_URL):
+    """Opens a new tab with the default URL."""
     try:
-        if random.random() < 0.5:
-            url = random.choice(RANDOM_WEBSITES)
-            logger.info(f"Profile {profile_name}: Opening random website: {url}")
-        else:
-            url = NEW_TAB_URL
-            logger.info(f"Profile {profile_name}: Opening default URL: {url}")
-
+        logger.info(f"Profile {profile_name}: Opening default URL: {url}")
         driver.execute_script(f"window.open('{url}', '_blank');")
         driver.switch_to.window(driver.window_handles[-1])
-
-        # Simulate scrolling
-        scroll_count = random.randint(3, 7)  # Scroll a few times
-        for _ in range(scroll_count):
-            driver.execute_script("window.scrollBy(0, 200);")  # Scroll down a bit
-            time.sleep(SCROLL_PAUSE_TIME)
-
-        random_pause(logger, profile_name)  # Pause after scrolling
-
+        simulate_scrolling(driver, logger, profile_name)
         driver.switch_to.window(driver.window_handles[0])  # Switch back to original tab
         logger.info(f"Profile {profile_name}: Switched back to original tab.")
 
     except Exception as e:
         logger.error(f"Profile {profile_name}: Error opening new tab: {e}")
+
+def open_new_tab_random(driver, logger, profile_name):
+    """Opens a new tab with a random website from the list."""
+    try:
+        url = random.choice(RANDOM_WEBSITES)
+        logger.info(f"Profile {profile_name}: Opening random website: {url}")
+        driver.execute_script(f"window.open('{url}', '_blank');")
+        driver.switch_to.window(driver.window_handles[-1])
+        simulate_scrolling(driver, logger, profile_name)
+        driver.switch_to.window(driver.window_handles[0])  # Switch back to original tab
+        logger.info(f"Profile {profile_name}: Switched back to original tab.")
+
+    except Exception as e:
+        logger.error(f"Profile {profile_name}: Error opening random website: {e}")
+
+def simulate_scrolling(driver, logger, profile_name):
+    """Simulates scrolling in the current tab."""
+    try:
+        scroll_count = random.randint(3, 7)  # Scroll a few times
+        for _ in range(scroll_count):
+            driver.execute_script("window.scrollBy(0, 200);")  # Scroll down a bit
+            time.sleep(SCROLL_PAUSE_TIME)
+        random_pause(logger, profile_name)  # Pause after scrolling
+
+    except Exception as e:
+        logger.error(f"Profile {profile_name}: Error simulating scrolling: {e}")
 
 def minimize_window(logger, profile_name):
     """Minimizes the current window."""
@@ -229,15 +274,16 @@ def restore_window(logger, profile_name):
 def perform_random_action(driver, logger, profile_name):
     """Randomly performs a pause, opens a new tab, minimizes, or restores."""
     if random.random() < RANDOM_ACTION_CHANCE:
-        actions = ["pause", "new_tab", "minimize", "restore"]  # Corrected typo here
+        actions = ["pause", "new_tab_default", "new_tab_random", "minimize", "restore"]  # Corrected typo here
         action = random.choice(actions)
 
         if action == "pause":
             random_pause(logger, profile_name)
-        elif action == "new_tab":
-            open_new_tab(driver, logger, profile_name)
+        elif action == "new_tab_default":
+            open_new_tab_default(driver, logger, profile_name)
+        elif action == "new_tab_random":
+            open_new_tab_random(driver, logger, profile_name)
         elif action == "minimize":
             minimize_window(logger, profile_name)
         elif action == "restore":
             restore_window(logger, profile_name)
-

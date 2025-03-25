@@ -1,20 +1,12 @@
 import time
 import logging
-from datetime import datetime
-import numpy as np
-import os
 import re
 import gc
 import random
-from datetime import datetime, timedelta
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
-from pynput.mouse import Button, Controller
-import threading
 
 from blackhatworld_config import (  # Corrected import
     SUB_FORUM_LIST_FILE,

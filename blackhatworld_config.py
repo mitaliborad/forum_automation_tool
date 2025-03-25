@@ -3,23 +3,13 @@ import logging
 from datetime import datetime
 import numpy as np
 import os
-import re
-import gc
 import random
 from datetime import datetime, timedelta
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains
 from pynput.mouse import Button, Controller
-import threading
-
 
 # --- Automation Configuration ---
 LOG_DIRECTORY = "Selenium-Logs"
-AUTOMATION_WAIT_TIME = 120
+AUTOMATION_WAIT_TIME = 1800
 MIN_SCROLLS = 3
 MAX_SCROLLS = 7
 SCROLL_AMOUNT = 500
@@ -34,7 +24,7 @@ BASE_SPEED = 0.001
 SUB_FORUM_LIST_FILE = "Sub-Forum-List.txt"
 VISITED_THREADS_FILE = "Thread_links.txt"
 start_time = datetime.now()
-run_duration = timedelta(minutes = 20) 
+run_duration = timedelta(hours=1) 
 
 
 # Logger setup
