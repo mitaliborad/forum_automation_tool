@@ -68,6 +68,8 @@ def process_profile(profile_name, profile_config, manager_logger, start_time, ru
 
         while True:
 
+            profile_logger, profile_log_file = setup_logger(LOG_DIRECTORY, profile_name)
+
             if datetime.now() - start_time > run_duration:
                 profile_logger.info("Automation has reached the time limit. Stopping execution.")
                 break
