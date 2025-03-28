@@ -13,6 +13,7 @@ from blackhatworld_config import (  # Corrected import
     VISITED_THREADS_FILE,
     MIN_SCROLLS,
     MAX_SCROLLS,
+    MAX_SCROLL_ATTEMPS,
     SCROLL_AMOUNT,
     SCROLL_DELAY,
     MIN_LIKES,
@@ -27,158 +28,158 @@ from gemini_api import GeminiHandler  # import gemini
 
 # Helper functions
 
-def get_subforum_list(logger, file_path=SUB_FORUM_LIST_FILE):
+def get_subforum_list(profile_logger, file_path=SUB_FORUM_LIST_FILE):
     """Reads subforum URLs from the specified file."""
     try:
         with open(file_path, "r") as f:
             subforum_urls = [line.strip() for line in f if line.strip()]
-        logger.info(f"Loaded {len(subforum_urls)} subforum URLs from {file_path}")
+        profile_logger.info(f"Loaded {len(subforum_urls)} subforum URLs from {file_path}")
         return subforum_urls
     except FileNotFoundError:
-        logger.error(f"Subforum list file '{file_path}' not found.")
+        profile_logger.error(f"Subforum list file '{file_path}' not found.")
         return []
     except Exception as e:
-        logger.error(f"Error reading subforum list file: {e}", exc_info=True)
+        profile_logger.error(f"Error reading subforum list file: {e}", exc_info=True)
         return []
 
 
-def load_visited_threads(logger, file_path=VISITED_THREADS_FILE):
+def load_visited_threads(profile_logger, file_path=VISITED_THREADS_FILE):
     """Loads the list of visited threads from the specified file."""
     try:
         with open(file_path, "r") as f:
             visited_threads = [line.strip() for line in f if line.strip()]
-        logger.info(f"Loaded {len(visited_threads)} visited threads from {file_path}")
+        profile_logger.info(f"Loaded {len(visited_threads)} visited threads from {file_path}")
         return set(visited_threads)  # Use a set for faster lookups
     except FileNotFoundError:
-        logger.info(
+        profile_logger.info(
             f"Visited threads file '{file_path}' not found. Starting with an empty list."
         )
         return set()
     except Exception as e:
-        logger.error(f"Error reading visited threads file: {e}", exc_info=True)
+        profile_logger.error(f"Error reading visited threads file: {e}", exc_info=True)
         return set()
 
 
-def save_visited_thread(logger, thread_url, file_path=VISITED_THREADS_FILE):
+def save_visited_thread(profile_logger, thread_url, file_path=VISITED_THREADS_FILE):
     """Appends a thread URL to the list of visited threads."""
     try:
         with open(file_path, "a") as f:
             f.write(thread_url + "\n")
-        logger.info(f"Saved thread URL '{thread_url}' to visited threads file '{file_path}'.")
+        profile_logger.info(f"Saved thread URL '{thread_url}' to visited threads file '{file_path}'.")
     except Exception as e:
-        logger.error(f"Error saving thread URL to visited threads file: {e}", exc_info=True)
+        profile_logger.error(f"Error saving thread URL to visited threads file: {e}", exc_info=True)
 
 
-def scroll_page(logger, driver, scroll_amount=SCROLL_AMOUNT, min_delay=1, max_delay=2.0):
-    logger.debug(f"Scrolling page by {scroll_amount} pixels.")
+def scroll_page(profile_logger, driver, scroll_amount=SCROLL_AMOUNT, min_delay=1, max_delay=2.0):
+    profile_logger.debug(f"Scrolling page by {scroll_amount} pixels.")
     try:
         driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
     except Exception as e:
-        logger.warning(f"Scrolling failed: {e}")
+        profile_logger.warning(f"Scrolling failed: {e}")
     time.sleep(random.uniform(min_delay, max_delay))
-    logger.debug("Page scrolled.")
+    profile_logger.debug("Page scrolled.")
 
 
-def scroll_random_times(logger, driver, min_scrolls=MIN_SCROLLS, max_scrolls=MAX_SCROLLS, scroll_amount=SCROLL_AMOUNT, scroll_delay=SCROLL_DELAY):
-    num_scrolls = random.randint(min_scrolls, max_scrolls)
-    logger.debug(f"Scrolling page {num_scrolls} times.")
-    for _ in range(num_scrolls):
-        scroll_page(logger, driver, scroll_amount)
-        time.sleep(scroll_delay)
-    logger.debug("Random scrolls complete.")
+def scroll_random_times(profile_logger, driver, min_scrolls=MIN_SCROLLS, max_scrolls=MAX_SCROLLS, scroll_amount=SCROLL_AMOUNT, scroll_delay=SCROLL_DELAY):
+     num_scrolls = random.randint(min_scrolls, max_scrolls)
+     profile_logger.debug(f"Scrolling page {num_scrolls} times.")
+     for _ in range(num_scrolls):
+         scroll_page(profile_logger, driver, scroll_amount)
+         time.sleep(scroll_delay)
+     profile_logger.debug("Random scrolls complete.")
 
 
-def click_element(logger, driver, locator):
+def click_element(profile_logger, driver, locator):
     try:
         element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(locator))
-        logger.debug(f"Element found, attempting to click using JavaScript: {locator}")
+        profile_logger.debug(f"Element found, attempting to click using JavaScript: {locator}")
         driver.execute_script("arguments[0].focus();", element)
         driver.execute_script("arguments[0].click();", element)
-        logger.info(f"Element clicked successfully using JavaScript: {locator}")
+        profile_logger.info(f"Element clicked successfully using JavaScript: {locator}")
     except Exception as e:
-        logger.warning(f"JavaScript click failed, attempting ActionChains: {e}")
+        profile_logger.warning(f"JavaScript click failed, attempting ActionChains: {e}")
         try:
             element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable(locator))
             actions = ActionChains(driver)
             actions.move_to_element(element).click().perform()
-            logger.info(f"Element clicked successfully using ActionChains: {locator}")
+            profile_logger.info(f"Element clicked successfully using ActionChains: {locator}")
         except Exception as e:
-            logger.error(
+            profile_logger.error(
                 f"Failed to click element after attempting ActionChains: {locator}. Error: {e}",
                 exc_info=True,
             )
 
 
-def find_element_with_scroll(logger, driver, locator, max_scrolls=5):
-    logger.debug(f"Attempting to find element with locator: {locator}")
+def find_element_with_scroll(profile_logger, driver, locator, max_scrolls=5):
+    profile_logger.debug(f"Attempting to find element with locator: {locator}")
     for i in range(max_scrolls):
         try:
             element = WebDriverWait(driver, 5).until(
                 EC.presence_of_element_located(locator)
             )
-            logger.info(f"Element found after {i + 1} scrolls: {locator}")
+            profile_logger.info(f"Element found after {i + 1} scrolls: {locator}")
             return element
         except:
-            logger.debug(
+            profile_logger.debug(
                 f"Element not found, scrolling page (attempt {i + 1}/{max_scrolls})."
             )
-            scroll_page(logger, driver, scroll_amount=400)
-    logger.warning(f"Element not found after {max_scrolls} scrolls: {locator}")
+            scroll_page(profile_logger, driver, scroll_amount=400)
+    profile_logger.warning(f"Element not found after {max_scrolls} scrolls: {locator}")
     return None
 
 
-def find_like_buttons(logger, driver):
+def find_like_buttons(profile_logger, driver):
     try:
         like_buttons = WebDriverWait(driver, 5).until(
             EC.presence_of_all_elements_located((By.XPATH, "//bdi[contains(text(), 'Like')]"))
         )
-        logger.debug(f"Found {len(like_buttons)} like buttons.")
+        profile_logger.debug(f"Found {len(like_buttons)} like buttons.")
         likes_length = len(like_buttons)
         return like_buttons, likes_length
     except Exception as e:
-        logger.warning(f"Error finding like buttons: {e}", exc_info=True)
+        profile_logger.warning(f"Error finding like buttons: {e}", exc_info=True)
         return [], 0  # Return an empty list and 0 if no buttons found
 
 
-def click_like_button(logger, driver, button, scroll_delay=2):
+def click_like_button(profile_logger, driver, button, scroll_delay=2):
     try:
         driver.execute_script("arguments[0].scrollIntoView();", button)
         time.sleep(random.uniform(0.5, 1))
-        logger.debug(
+        profile_logger.debug(
             "Scrolling like button into view and attempting to click using JavaScript."
         )
         driver.execute_script("arguments[0].click();", button)
-        logger.info("Like button clicked successfully using JavaScript.")
+        profile_logger.info("Like button clicked successfully using JavaScript.")
         return True
     except Exception as e:
-        logger.warning(
+        profile_logger.warning(
             f"JavaScript click failed: {e}, attempting ActionChains.", exc_info=True
         )
         try:
             ActionChains(driver).move_to_element(button).click().perform()
-            logger.info("Like button clicked successfully using ActionChains.")
+            profile_logger.info("Like button clicked successfully using ActionChains.")
             return True
         except Exception as e:
-            logger.error(
+            profile_logger.error(
                 f"Failed to click like button after attempting ActionChains: {e}",
                 exc_info=True,
             )
             return False
 
-def like_random_posts(logger, driver, min_likes=MIN_LIKES, max_likes=MAX_LIKES, min_scrolls_posts=MIN_SCROLLS_POSTS, max_scrolls_posts=MAX_SCROLLS_POSTS, scroll_delay=SCROLL_DELAY_LIKES):
+def like_random_posts(profile_logger, driver, min_likes=MIN_LIKES, max_likes=MAX_LIKES, min_scrolls_posts=MIN_SCROLLS_POSTS, max_scrolls_posts=MAX_SCROLLS_POSTS, scroll_delay=SCROLL_DELAY_LIKES):
     """Likes a random number of posts, avoiding duplicates."""
     try:
         scroll_random_times(
-            logger, driver,
+            profile_logger, driver,
             min_scrolls_posts,
             max_scrolls_posts,
             scroll_amount=500,
             scroll_delay=scroll_delay,
         )
-        like_buttons, likes_length = find_like_buttons(logger, driver)
+        like_buttons, likes_length = find_like_buttons(profile_logger, driver)
 
         if not like_buttons:
-            logger.info("No like buttons found, skipping like_random_posts function...")
+            profile_logger.info("No like buttons found, skipping like_random_posts function...")
             return
 
         total_likes = random.randint(min_likes, max_likes)
@@ -188,7 +189,7 @@ def like_random_posts(logger, driver, min_likes=MIN_LIKES, max_likes=MAX_LIKES, 
         successful_likes = 0  # Counter for the number of successful likes
 
         time.sleep(scroll_delay)
-        logger.info(
+        profile_logger.info(
             f"Attempting to like {total_likes} posts. There are {likes_length} available."
         )
 
@@ -198,28 +199,28 @@ def like_random_posts(logger, driver, min_likes=MIN_LIKES, max_likes=MAX_LIKES, 
 
             if button not in liked_buttons: #Cheeck for duplicates
 
-                if click_like_button(logger, driver, button, scroll_delay):
+                if click_like_button(profile_logger, driver, button, scroll_delay):
                    liked_buttons.add(button)
                    successful_likes += 1
-                   logger.debug(f"Liked post number {successful_likes} of {total_likes}.")
+                   profile_logger.debug(f"Liked post number {successful_likes} of {total_likes}.")
                    time.sleep(random.uniform(4, 5))
 
                 else:
-                   logger.warning(f"Failed to like post at index {current_index}.")
+                   profile_logger.warning(f"Failed to like post at index {current_index}.")
 
             else:
-                 logger.info(f"Skipping already liked post at index {current_index}")
+                 profile_logger.info(f"Skipping already liked post at index {current_index}")
 
             current_index+=1 # increase the index
 
-        logger.info(f"Liked {successful_likes} posts successfully.")
+        profile_logger.info(f"Liked {successful_likes} posts successfully.")
     except Exception as e:
-        logger.error(f"Unexpected error in like_random_posts: {e}", exc_info=True)
+        profile_logger.error(f"Unexpected error in like_random_posts: {e}", exc_info=True)
 
-    logger.info(f"Liked {successful_likes} posts successfully.")
+    profile_logger.info(f"Liked {successful_likes} posts successfully.")
 
 # count comments
-def count_main_post_comments(logger, driver):
+def count_main_post_comments(profile_logger, driver):
     try:
         # Locate the first post container
         first_post = WebDriverWait(driver, 10).until(
@@ -243,7 +244,7 @@ def count_main_post_comments(logger, driver):
 
 
 # extract element text
-def extract_element_text(logger, element, xpath):
+def extract_element_text(profile_logger, element, xpath):
     try:
         element = WebDriverWait(element, 3).until(
             EC.presence_of_element_located((By.XPATH, xpath))
@@ -260,30 +261,30 @@ def extract_element_text(logger, element, xpath):
 
 
 # extract main post content
-def extract_main_post_content(logger, driver):
+def extract_main_post_content(profile_logger, driver):
     try:
         main_post_locator = (
             By.XPATH,
             '//div[@data-lb-id and contains(@data-lb-id, "post-")]',
         )
-        logger.debug(
+        profile_logger.debug(
             f"Attempting to locate main post element with locator: {main_post_locator}"
         )
         main_post_element = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located(main_post_locator)
         )
         main_post_text = main_post_element.text.strip()
-        logger.debug(f"Extracted main post content: {main_post_text}")
+        profile_logger.debug(f"Extracted main post content: {main_post_text}")
         return main_post_text
     except Exception as e:
-        logger.warning(
+        profile_logger.warning(
             f"Could not extract main post content. Error: {e}", exc_info=True
         )
         return None
 
 
 # extract post content
-def extract_post_content(logger, driver, output_file):
+def extract_post_content(profile_logger, driver, output_file):
     try:
         posts_locator = (By.CSS_SELECTOR, "article[data-author]")
         WebDriverWait(driver, 10).until(EC.presence_of_element_located(posts_locator))
@@ -310,10 +311,10 @@ def extract_post_content(logger, driver, output_file):
                     By.XPATH, "//footer//a[contains(@class, 'actionBar-action--reply')]"
                 )
                 total_comments = len(all_comments)
-                logger.debug(f"Total comments in the thread: {total_comments}")
+                profile_logger.debug(f"Total comments in the thread: {total_comments}")
                 file.write(f"Total comments in the thread: {total_comments}\n\n")
             except Exception as e:
-                logger.warning(
+                profile_logger.warning(
                     f"Could not count total comments: {e}", exc_info=True
                 )
                 file.write("Total comments: 0\n\n")
@@ -331,13 +332,13 @@ def extract_post_content(logger, driver, output_file):
                     logging.error(f"Could not extract post ID. Error: {e}", exc_info=True)
 
                 # Username
-                topic_username = extract_element_text(logger, post_element, ".//h4//a//span")
+                topic_username = extract_element_text(profile_logger, post_element, ".//h4//a//span")
                 file.write(f"Topic User: {topic_username}\n")
                 logging.debug(f"Topic User: {topic_username}")
 
                 # thread content
                 topic_locator = ".//div[@class='message-content js-messageContent']"
-                topic = extract_element_text(logger, post_element, topic_locator)
+                topic = extract_element_text(profile_logger, post_element, topic_locator)
                 file.write(f"Topic: {topic}\n")
                 logging.debug(f"Topic: {topic}")
 
@@ -405,49 +406,49 @@ def extract_post_content(logger, driver, output_file):
 
 
 # read thread content
-def read_thread_content(logger, file_path):
+def read_thread_content(profile_logger, file_path):
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             content = f.read()
         return content
     except FileNotFoundError:
-        logger.error(f"Thread content file '{file_path}' not found.")
+        profile_logger.error(f"Thread content file '{file_path}' not found.")
         return None
     except Exception as e:
-        logger.error(f"Error reading thread content file: {e}", exc_info=True)
+        profile_logger.error(f"Error reading thread content file: {e}", exc_info=True)
         return None
 
 
 # API generates and save comments in txt file
-def generate_and_save_comments(logger, thread_content, output_file):
+def generate_and_save_comments(profile_logger, thread_content, output_file):
     try:
         gemini_handler = GeminiHandler()
         comments = gemini_handler.get_comments(thread_content, prompt_file="prompt.txt")
 
         if comments:
-            logger.info("Successfully generated comments using Gemini API.")
+            profile_logger.info("Successfully generated comments using Gemini API.")
             try:
                 with open(output_file, "w", encoding="utf-8") as f:
                     f.write(comments)
-                logger.info(f"Comment saved to '{output_file}'.")
+                profile_logger.info(f"Comment saved to '{output_file}'.")
                 return comments
 
             except Exception as e:
-                logger.error(f"Error saving comment to file: {e}", exc_info=True)
+                profile_logger.error(f"Error saving comment to file: {e}", exc_info=True)
                 return None
         else:
-            logger.warning("Failed to generate comment using Gemini API.")
+            profile_logger.warning("Failed to generate comment using Gemini API.")
             return None
 
     except Exception as e:
-        logger.error(f"Error occurred while generating comment: {e}", exc_info=True)
+        profile_logger.error(f"Error occurred while generating comment: {e}", exc_info=True)
         return None
 
 
 # write and post comment
-def post_comment(logger, driver, comment, write_delay=WRITE_DELAY):
+def post_comment(profile_logger, driver, comment, write_delay=WRITE_DELAY):
     if not comment:
-        logger.warning("No comment to post.")
+        profile_logger.warning("No comment to post.")
         return False
 
     try:
@@ -455,8 +456,8 @@ def post_comment(logger, driver, comment, write_delay=WRITE_DELAY):
             By.XPATH,
             "//span[contains(text(), 'Write your reply...')]",
         )
-        logger.debug(f"Searching for text box with locator: {write_comment_locator}")
-        write_comment = find_element_with_scroll(logger, driver, write_comment_locator)
+        profile_logger.debug(f"Searching for text box with locator: {write_comment_locator}")
+        write_comment = find_element_with_scroll(profile_logger, driver, write_comment_locator)
 
         post_reply = driver.find_element(By.XPATH, "//span[contains(text(),'Post reply')]")
         if write_comment:
@@ -464,64 +465,64 @@ def post_comment(logger, driver, comment, write_delay=WRITE_DELAY):
                 element = WebDriverWait(driver, 10).until(
                     EC.element_to_be_clickable(write_comment_locator)
                 )
-                logger.debug(
+                profile_logger.debug(
                     f"Text box is clickable using element_to_be_clickable with locator : {write_comment_locator}"
                 )
                 driver.execute_script("arguments[0].scrollIntoView(true);", element)
-                logger.debug("Text box scrolled into view")
+                profile_logger.debug("Text box scrolled into view")
                 time.sleep(random.uniform(0.5, 1))
 
-                logger.debug("Initializing actionchains")
+                profile_logger.debug("Initializing actionchains")
                 actions = ActionChains(driver)
 
                 location = post_reply.location
                 size = post_reply.size
-                logger.debug(f"Post reply Element location: {location}, size: {size}")
+                profile_logger.debug(f"Post reply Element location: {location}, size: {size}")
 
                 target_x = location["x"] + size["width"] // 2
                 target_y = location["y"] + size["height"] // 2
-                logger.debug(f"Target click coordinates: ({target_x}, {target_y})")
+                profile_logger.debug(f"Target click coordinates: ({target_x}, {target_y})")
 
-                mouse_movement = MouseMovement() #Initialize mouse Movement
-                mouse_movement.move_mouse_with_curve(target_x, target_y) #Access with class
+                mouse_movement = MouseMovement()  # Create an instance if not already done
+                mouse_movement.move_mouse_with_curve(target_x, target_y)
 
-                logger.debug("Moved mouse to target location using bezier curve.")
+                profile_logger.debug("Moved mouse to target location using bezier curve.")
 
                 actions.move_to_element(element)
-                logger.debug("Moving mouse to text box element.")
+                profile_logger.debug("Moving mouse to text box element.")
 
                 actions.click()
-                logger.debug(f"Clicking on the text box.")
+                profile_logger.debug(f"Clicking on the text box.")
 
                 actions.send_keys(comment)
-                logger.debug(f"Sending keys with content: {comment}")
+                profile_logger.debug(f"Sending keys with content: {comment}")
 
                 time.sleep(random.uniform(2, 3))
                 time.sleep(write_delay)
                 actions.click(post_reply)
-                logger.debug(f"Clicking on post reply button.")
+                profile_logger.debug(f"Clicking on post reply button.")
 
                 actions.perform()
-                logger.debug("Performed Actionchains")
-                logger.info(
+                profile_logger.debug("Performed Actionchains")
+                profile_logger.info(
                     "Successfully wrote into text box using ActionChains and click."
                 )
 
                 time.sleep(4)
 
             except Exception as e:
-                logger.error(f"Error posting comment: {e}", exc_info=True)
+                profile_logger.error(f"Error posting comment: {e}", exc_info=True)
                 return False
 
     except Exception as e:
-        logger.error("if comment closed then you should close the browser")
+        profile_logger.error("if comment closed then you should close the browser")
         try:
             block_comment_locator = (
                 By.XPATH,
                 '//div//dl[@class="blockStatus"]//dd',
             )
-            logger.debug(f"Searching for text with locator: {block_comment_locator}")
-            block_comment = find_element_with_scroll(logger, driver, block_comment_locator)
+            profile_logger.debug(f"Searching for text with locator: {block_comment_locator}")
+            block_comment = find_element_with_scroll(profile_logger, driver, block_comment_locator)
             if block_comment:
                 driver.quit()
             else:
@@ -531,39 +532,39 @@ def post_comment(logger, driver, comment, write_delay=WRITE_DELAY):
 
 
 # extract thread title
-def get_thread_title(logger, driver):
+def get_thread_title(profile_logger, driver):
     try:
         title_element = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.XPATH, '//div//h1'))
         )
         thread_title = title_element.text.strip()
         thread_title = re.sub(r'[\\/*?:"<>|]', "", thread_title)
-        logger.info(f"Extracted thread title: {thread_title}")
+        profile_logger.info(f"Extracted thread title: {thread_title}")
         return thread_title
 
     except Exception as e:
-        logger.warning(
+        profile_logger.warning(
             f"Could not extract thread title. Error: {e}", exc_info=True
         )
         return "Untitled Thread"
 
 
 # clear memory after automation
-def clear_memory(logger):
-    logger.info("Attempting to clear memory and resources.")
+def clear_memory(profile_logger):
+    profile_logger.info("Attempting to clear memory and resources.")
     gc.collect()
-    logger.info("Garbage collection completed.")
+    profile_logger.info("Garbage collection completed.")
 
 
 # find random thread link from Sub-Forum-link
 # find random thread link from Sub-Forum-link
-def find_random_thread_link_from_subforum(logger, driver, subforum_url, visited_threads):
+def find_random_thread_link_from_subforum(profile_logger, driver, subforum_url, visited_threads):
     """Navigates to a subforum and finds a random thread link, avoiding deleted threads."""
     deleted_thread_xpath = "//a[contains(@href, '/seo/deleted.') and normalize-space(text())='deleted']"  # Define the XPath here
 
     try:
         driver.get(subforum_url)
-        logger.info(f"Navigated to subforum: {subforum_url}")
+        profile_logger.info(f"Navigated to subforum: {subforum_url}")
 
         wait = WebDriverWait(driver, 10)
         wait.until(
@@ -596,28 +597,28 @@ def find_random_thread_link_from_subforum(logger, driver, subforum_url, visited_
                                  unvisited_threads.append(title_elements[0])  # Append unvisited and NOT deleted thread
 
                              else:
-                                 logger.warning(f"Skipping deleted thread: {href}")
+                                 profile_logger.warning(f"Skipping deleted thread: {href}")
 
                          except Exception as e:
-                              logger.warning(f"Error checking if thread is deleted: {e}, assuming not deleted.")
+                              profile_logger.warning(f"Error checking if thread is deleted: {e}, assuming not deleted.")
                               unvisited_threads.append(title_elements[0]) # If any error happens consider it not deleted
 
             except Exception as e:
-                logger.warning(f"Skipping a thread due to error: {e}")
+                profile_logger.warning(f"Skipping a thread due to error: {e}")
 
         if not unvisited_threads:
-            logger.warning(
+            profile_logger.warning(
                 f"No unvisited, non-deleted thread links found in subforum: {subforum_url}"
             )
             return None
 
         random_link = random.choice(unvisited_threads)
         href = random_link.get_attribute("href")
-        logger.info(f"Selected random thread link: {href}")
+        profile_logger.info(f"Selected random thread link: {href}")
         return href
 
     except Exception as e:
-        logger.error(
+        profile_logger.error(
             f"Error finding random thread link in subforum: {e}", exc_info=True
         )
         return None
@@ -625,11 +626,11 @@ def find_random_thread_link_from_subforum(logger, driver, subforum_url, visited_
 
 
 # after automation it navigate home page
-def navigate_home(logger, driver):
+def navigate_home(profile_logger, driver):
     """Navigates the driver back to the main BHW homepage."""
     try:
         driver.get("https://www.blackhatworld.com/")
-        logger.info("Navigated back to the homepage.")
+        profile_logger.info("Navigated back to the homepage.")
         time.sleep(random.uniform(2, 3))  # Short delay to ensure page load
     except Exception as e:
-        logger.error(f"Failed to navigate back to the homepage: {e}", exc_info=True)
+        profile_logger.error(f"Failed to navigate back to the homepage: {e}", exc_info=True)
