@@ -1,0 +1,265 @@
+--- Main Post Title ---
+Secure Domain Registration
+
+Total comments in the thread: 16
+
+Topic User: For_Karl
+Topic: Hello Guys,
+
+I need some tips on how to "securely" register a Domain, so that in best case its anonymous.
+The Thing is I want to keep my Data private.
+I've read about njalla, but it seems that they should be avoided for several reasons.
+
+Would you recommend just registering a Domain with fake Whois information?
+Which Domain Registrar can you recommend ?
+Basically i am looking for something which doesnt care about DMCA Requests.
+
+Also Registrar should not be located in the EU Area .
+Any recommendations are welcome
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: No text found
+Topic: For_Karl said:
+Hello Guys,
+
+I need some tips on how to "securely" register a Domain, so that in best case its anonymous.
+The Thing is I want to keep my Data private.
+I've read about njalla, but it seems that they should be avoided for several reasons.
+
+Would you recommend just registering a Domain with fake Whois information?
+Which Domain Registrar can you recommend ?
+Basically i am looking for something which doesnt care about DMCA Requests.
+
+Also Registrar should not be located in the EU Area .
+Any recommendations are welcome
+Click to expand...
+Njal.la doesn't ask for your information that is why you should go with them. They are fine and works fine.
+If you don't do anything like Scam, Phishing, Fake Pills, Carding, Viagra or pharma pills illegal, drugs then is fine.
+
+The people who complaint about Njal.la sometimes are doing illegal things like I said above.
+Njal.la is a good way to avoid giving your information that still reliable.
+
+I will give other alternatives to njal.la, also no information required.
+https://cheapprivacy.ru (no info required, bitcoin)
+https://xuid.ruhttps://sarek.fi (used by PrimeWire piracy website, they aren't anonymous but they are based in Finland)
+https://bpw.schttps://billing.flokinet.is/cart.php?a=add&domain=register (used for many pirated websites)
+https://securednet.su (bulletproof domains, they are resellers of BizCN and R01 which make the process more easier, never used them)
+https://alexhost.com/domains/ (they use a domain registrar based in Canada)
+https://prq.se/?p=domains (this is very good, never used them but they are from TPB = ThePiratebay)
+
+Privacy domains aren't cheap, they don't want to be. Privacy have a cost and to be online you need to pay a little more than usual.
+Good luck.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Starmer
+Topic: It seems to me that you can use any information during registration with most registrars.
+Imagine the situation: you buy domain name and use fake info, you develop web site and start monetizing. One day you will be asked to verify your data associated with the domain name and ... you can't do that.
+In my view you should thing twice and take into account all possible risks.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: NetShop ISP
+Topic: In the most cases domain name purchase ends up with creating and hosting some web site.
+And if web site violates something - first abuse goes to your web hosting provider not to registrar.
+ICAAN coordinates domain name registration and all registrars: with cheap prices, with high prices, "secured" ones etc... are being regulated by that organization.
+I think you should consider web hosting part not domain name registration in this matter.
+NetShop ISP - Leading Data Center & Hosting Provider
+Bare-metal Servers | Cloud & VPS | Colocation | cPanel Web Hosting
+https://netshop-isp.com.cy
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: sageshark
+Topic: While your objective behind registering with anonymity is not clear to me, why don't you buy privacy option with the domain registrar? It may cost you 5 usd or so, but it will keep your information private from the world.
+
+Also as @Starmer said, do consider the possibility of verification issue. You may lose your business if you are not able to do this.
+Questions? Please feel free to reach out to us at - BHW Support
+New to BHW? Don't forget to read this Newbie Guide to learn the basics of the forum.
+Would you like to get top-level FREE services? ☞ Make sure to WATCH THE FRC Subforum ⛱
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: No text found
+Topic: Starmer said:
+It seems to me that you can use any information during registration with most registrars.
+Imagine the situation: you buy domain name and use fake info, you develop web site and start monetizing. One day you will be asked to verify your data associated with the domain name and ... you can't do that.
+In my view you should thing twice and take into account all possible risks.
+Njal.la uses their own information in their domain, there is not risk in that. Unless they are forced to seize, block or suspend the domain.
+But njal.la is safe and isn't bulletproof. Njal.la owns the domain, but you can use the domain like it as your own.
+
+Simple as that.. For this reason if you will use fake info, use instead njal.la no information required...
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Urbanist
+Topic: For_Karl said:
+Hello Guys,
+
+I need some tips on how to "securely" register a Domain, so that in best case its anonymous.
+The Thing is I want to keep my Data private.
+I've read about njalla, but it seems that they should be avoided for several reasons.
+
+Would you recommend just registering a Domain with fake Whois information?
+Which Domain Registrar can you recommend ?
+Basically i am looking for something which doesnt care about DMCA Requests.
+
+Also Registrar should not be located in the EU Area .
+Any recommendations are welcome
+Click to expand...
+
+Would like to know near same as @For_Karl, would namecheap+privacy works for this? And if content, getting issue for duplicate content, would be the best go with offshore hosting or enough nc+privacy or similar?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Shibbi90
+Topic: Njalla will ban your account and take your domain if you get some decent traffic to a website thats even just slightly BH! Stay far away. Their servers are bad too, they just had a 3 days outage lol.
+
+Bpw is the best option by far! They never ban you for anything. Fake info is expected and you pay with btc.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: No text found
+Topic: Shibbi90 said:
+Njalla will ban your account and take your domain if you get some decent traffic to a website thats even just slightly BH! Stay far away. Their servers are bad too, they just had a 3 days outage lol.
+
+Bpw is the best option by far! They never ban you for anything. Fake info is expected and you pay with btc.
+
+Securednet.su for example another good alternative
+
+Urbanist said:
+Would like to know near same as @For_Karl, would namecheap+privacy works for this? And if content, getting issue for duplicate content, would be the best go with offshore hosting or enough nc+privacy or similar?
+No, namecheap is US based company. You should use Anonymous provider like Njal.la, flokinet, securednet.su and many others.
+Read this post carefully I already told many alternatives.
+
+Offshore Hosting is always required, no matter what. Offshore Hosting is more important than domain, since you can lose your data in hosting rather domain.
+
+Cheers.
+Liked by: Urbanist
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Enserio
+Topic: Be aware that buying "privacy" is not absolute. Whois leaks can occur, ime. If you let the name drop and expire- you are exposed at that moment. Also, law enforcement through ICANN have Gov subcontractor sites like Legit Script who police and chase after pharma sites and close them down, and turn them into 3 letter agencies. The world seems to be changing quickly on this privacy thing, just read the news about Flakebook exposing private DM's of their users just in the news today. Also, the EU has been trying to make legislation to disallow privacy on registrations, also in the past 6 months no idea how far that extends (EU only? doubt it), assume the worst.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Dewalala
+Topic: You just need a bulletproof domain registrar like:
+
+https://cheapprivacy.ru/
+https://xuid.ru/
+https://sarek.fi/
+
+there are a lot of registrars there.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: No text found
+Topic: Dewalala said:
+You just need a bulletproof domain registrar like:
+
+https://cheapprivacy.ru
+xUID - Bulletproof Offshore Hosting Service
+https://sarek.fi
+
+there are a lot of registrars there.
+add also Securednet.su
+Liked by: SecuredNet
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Ender57
+Topic: Dewalala said:
+You just need a bulletproof domain registrar like:
+
+https://cheapprivacy.ru/
+https://xuid.ru/
+https://sarek.fi/
+
+there are a lot of registrars there.
+DO NOT BUY FROM https://xuid.ru/ – THEY ARE A SCAM!
+I bought a domain from XUID.ru thinking it was a "truly offshore" service with "no suspension" and "abuse ignored", as they advertise. I specifically got it for a proxy to stream movies, expecting them to stand by their claims.
+Guess what? The moment they received a copyright complaint, they took my domain down without warning. No support, no refund, nothing. They market themselves as "freedom hosting", but in reality, they’ll fold instantly if someone sends them an email.
+If you’re looking for a real offshore service, STAY AWAY from XUID.ru. They’re just another scam hiding behind fake promises.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Proxy Cake
+Topic: You can use namecheap and use fake details
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: nicenic
+Topic: At present for most generic domain extensions including new gTLDs will be enabled whois privacy by default, so it is not necessary to worry about your private contact information being displayed in the public whois.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: usapvasells
+Topic: You can use fake info when registering with most registrars, but if you need to verify your domain later, you could run into issues. It’s important to think twice and consider the risks.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

@@ -1,0 +1,35 @@
+--- Main Post Title ---
+Learning C# Programming Language ?
+
+Total comments in the thread: 3
+
+Topic User: ptejaswani
+Topic: Hi everyone,
+
+I'm new to C# Program Language how can i start my carrer with this can you suggent you guys how to start and which one is good to learn.i am thinking here i want to take a course https://nareshit.com/courses/c-net-online-training. but the doubt is it good choice to move forward.
+Liked by: You, Emma xx
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: NeoThePrime
+Topic: hahaha hydrabad seo things,
+Liked by: ptejaswani
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: SyNNk
+Topic: Hey!
+C# is a good choice, especially for game dev or web apps. That Naresh IT course looks solid, but I'd recommend checking out reviews first to make sure it's the right fit for you. Either way, start with small projects to get hands-on experience. C# is pretty nice once you get it. How’s it going so far?
+Liked by: Emma xx
+Number of likes: 1
+-----
+
+Replies:
+
+

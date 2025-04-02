@@ -1,0 +1,44 @@
+--- Main Post Title ---
+How can I cloak affiliate links on a directory website?
+
+Total comments in the thread: 3
+
+Topic User: MyMoneyDripper
+Topic: I built a directory website and now I want to monetize it with affiliate links, but I don't want it to be obvious.
+
+Instead of just adding the link is there some tool (ideally free) that "hide" the links so they don't look like affiliate links.
+
+So instead of the link being something like http://www.affiliateprogram.com/r/ABCD it will just show up as something less obvious?
+
+I would apply this to all the links in the directory to further cloak the links.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: rookerycarry
+Topic: You can use link cloaking to make your affiliate URLs look cleaner! A free and easy way is using a WordPress plugin like Pretty Links or ThirstyAffiliates - if you're on WordPress.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: MyMoneyDripper
+Topic: rookerycarry said:
+You can use link cloaking to make your affiliate URLs look cleaner! A free and easy way is using a WordPress plugin like Pretty Links or ThirstyAffiliates - if you're on WordPress.
+No I built the website using Angular so I don't have access to plugins.
+
+What I want to do is just make all the links on the page look uniform.
+
+Like maybe I can use a link shortener on all of them but I wanted to see if there is a better way
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

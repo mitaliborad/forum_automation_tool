@@ -1,0 +1,111 @@
+2025-04-01 10:50:45,964 - INFO - Current time: 1743484845.9642186
+2025-04-01 10:50:45,967 - INFO - Token expiration time: 1743491120.0368915
+2025-04-01 10:50:45,968 - INFO - Token expiration time: 1743491120.0368915
+2025-04-01 10:50:45,969 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-01 10:50:55,405 - INFO - Profile Emaxx: Pausing for 40.19 seconds...
+2025-04-01 10:51:35,601 - INFO - Profile Emaxx: Resuming...
+2025-04-01 10:51:35,684 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-01 10:51:35,685 - INFO - performing random action
+2025-04-01 10:51:35,734 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 10:51:35,745 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:51:35,748 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:51:37,324 - DEBUG - Page scrolled.
+2025-04-01 10:51:39,331 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:51:40,481 - DEBUG - Page scrolled.
+2025-04-01 10:51:42,484 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:51:44,288 - DEBUG - Page scrolled.
+2025-04-01 10:51:46,293 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:51:47,432 - DEBUG - Page scrolled.
+2025-04-01 10:51:49,444 - DEBUG - Random scrolls complete.
+2025-04-01 10:51:49,446 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:51:49,448 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:51:50,531 - DEBUG - Page scrolled.
+2025-04-01 10:51:52,534 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:51:54,482 - DEBUG - Page scrolled.
+2025-04-01 10:51:56,484 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:51:57,539 - DEBUG - Page scrolled.
+2025-04-01 10:51:59,543 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:52:01,264 - DEBUG - Page scrolled.
+2025-04-01 10:52:03,272 - DEBUG - Random scrolls complete.
+2025-04-01 10:52:10,704 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-04-01 10:52:15,389 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-selling-guest-posts-still-a-reliable-and-stable-source-of-income.1700241/unread
+2025-04-01 10:52:15,390 - INFO - performing random action
+2025-04-01 10:52:26,127 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-selling-guest-posts-still-a-reliable-and-stable-source-of-income.1700241/unread
+2025-04-01 10:52:26,135 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-selling-guest-posts-still-a-reliable-and-stable-source-of-income.1700241/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 10:52:26,170 - INFO - Extracted thread title: Is selling guest posts still a reliable and stable source of income
+2025-04-01 10:52:26,172 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:52:26,172 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:52:27,919 - DEBUG - Page scrolled.
+2025-04-01 10:52:29,921 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:52:31,374 - DEBUG - Page scrolled.
+2025-04-01 10:52:33,375 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:52:35,005 - DEBUG - Page scrolled.
+2025-04-01 10:52:37,008 - DEBUG - Random scrolls complete.
+2025-04-01 10:52:39,851 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:52:39,853 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:52:41,672 - DEBUG - Page scrolled.
+2025-04-01 10:52:44,675 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:52:45,981 - DEBUG - Page scrolled.
+2025-04-01 10:52:48,982 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:52:50,807 - DEBUG - Page scrolled.
+2025-04-01 10:52:53,809 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:52:55,713 - DEBUG - Page scrolled.
+2025-04-01 10:52:58,715 - DEBUG - Random scrolls complete.
+2025-04-01 10:52:58,731 - DEBUG - Found 6 like buttons.
+2025-04-01 10:53:01,733 - INFO - Attempting to like 4 posts. There are 6 available.
+2025-04-01 10:53:02,500 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:53:02,537 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:53:02,539 - DEBUG - Liked post number 1 of 4.
+2025-04-01 10:53:07,606 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:53:07,637 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:53:07,638 - DEBUG - Liked post number 2 of 4.
+2025-04-01 10:53:12,739 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:53:12,810 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:53:12,813 - DEBUG - Liked post number 3 of 4.
+2025-04-01 10:53:17,969 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:53:17,976 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:53:17,977 - DEBUG - Liked post number 4 of 4.
+2025-04-01 10:53:22,701 - INFO - Liked 4 posts successfully.
+2025-04-01 10:53:22,704 - INFO - Liked 4 posts successfully.
+2025-04-01 10:53:25,082 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-01 10:53:34,641 - INFO - Profile Emaxx: Pausing for 44.76 seconds...
+2025-04-01 10:54:19,403 - INFO - Profile Emaxx: Resuming...
+2025-04-01 10:54:19,425 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-01 10:54:19,426 - INFO - performing random action
+2025-04-01 10:54:19,427 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:54:19,429 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:54:21,285 - DEBUG - Page scrolled.
+2025-04-01 10:54:24,286 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:54:26,036 - DEBUG - Page scrolled.
+2025-04-01 10:54:29,038 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:54:30,504 - DEBUG - Page scrolled.
+2025-04-01 10:54:33,505 - DEBUG - Random scrolls complete.
+2025-04-01 10:54:36,167 - DEBUG - Total comments in the thread: 6
+2025-04-01 10:54:36,804 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is selling guest posts still a reliable and stable source of income.txt
+2025-04-01 10:54:39,715 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 10:54:39,744 - DEBUG - Extracted main post content: I was wondering if selling guest posts is still a reliable and stable source of income or not. I see less want to buy posts goe this on BHW now.
+2025-04-01 10:54:44,540 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 10:54:44,556 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 10:54:46,951 - INFO - performing random action
+2025-04-01 10:54:46,954 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:54:46,955 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:54:47,012 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:54:47,068 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:54:47,077 - DEBUG - Text box scrolled into view
+2025-04-01 10:54:47,685 - DEBUG - Initializing actionchains
+2025-04-01 10:54:47,732 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2659}, size: {'height': 21, 'width': 68}
+2025-04-01 10:54:47,733 - DEBUG - Target click coordinates: (1121, 2669)
+2025-04-01 10:54:56,799 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 10:54:56,801 - DEBUG - Moving mouse to text box element.
+2025-04-01 10:54:56,803 - DEBUG - Clicking on the text box.
+2025-04-01 10:54:56,806 - DEBUG - Sending keys with content: I've noticed the same thing, maybe try diversifying your services beyond just guest posts to stay afloat.
+
+2025-04-01 10:55:01,856 - DEBUG - Clicking on post reply button.
+2025-04-01 10:55:13,041 - DEBUG - Performed Actionchains
+2025-04-01 10:55:13,044 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 10:55:17,047 - INFO - Comment posted successfully.
+2025-04-01 10:55:17,052 - INFO - Task Completed!!
+2025-04-01 10:55:27,038 - INFO - Navigated back to the homepage.
+2025-04-01 10:55:29,250 - INFO - Attempting to clear memory and resources.
+2025-04-01 10:55:29,297 - INFO - Garbage collection completed.
+2025-04-01 10:55:29,298 - INFO - Waiting for 2000 seconds before next execution.

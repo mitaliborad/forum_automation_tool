@@ -1,0 +1,1 @@
+Honestly, skip the course for now and hit up Microsoft's own C# documentation – it's surprisingly good and free. Then, build something, *anything* – that's where the real learning happens.

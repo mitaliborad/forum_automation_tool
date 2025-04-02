@@ -1,0 +1,1 @@
+Honestly, the best way is to just dive in and start testing things yourself, but don't use it on any websites you care about.

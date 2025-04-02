@@ -1,0 +1,95 @@
+2025-04-01 10:22:18,294 - INFO - Current time: 1743483138.2945292
+2025-04-01 10:22:18,295 - INFO - Token expiration time: 1743491702.1990118
+2025-04-01 10:22:18,296 - INFO - Token expiration time: 1743491702.1990118
+2025-04-01 10:22:18,297 - INFO - Profile PhantomRoot: Opening random website: https://www.netflix.com/in/
+2025-04-01 10:22:41,678 - INFO - Profile PhantomRoot: Pausing for 32.97 seconds...
+2025-04-01 10:23:14,649 - INFO - Profile PhantomRoot: Resuming...
+2025-04-01 10:23:14,672 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-01 10:23:14,673 - INFO - performing random action
+2025-04-01 10:23:14,674 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 10:23:14,675 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:23:14,676 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:23:16,194 - DEBUG - Page scrolled.
+2025-04-01 10:23:18,196 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:23:20,137 - DEBUG - Page scrolled.
+2025-04-01 10:23:22,338 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:23:23,773 - DEBUG - Page scrolled.
+2025-04-01 10:23:25,788 - DEBUG - Random scrolls complete.
+2025-04-01 10:23:25,791 - DEBUG - Scrolling page 2 times.
+2025-04-01 10:23:25,792 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:23:27,145 - DEBUG - Page scrolled.
+2025-04-01 10:23:29,146 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:23:30,422 - DEBUG - Page scrolled.
+2025-04-01 10:23:32,424 - DEBUG - Random scrolls complete.
+2025-04-01 10:23:40,302 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-04-01 10:23:44,531 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-send-appeal-to-linkedin-support-team.1699312/unread
+2025-04-01 10:23:44,532 - INFO - performing random action
+2025-04-01 10:23:54,191 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-send-appeal-to-linkedin-support-team.1699312/unread
+2025-04-01 10:23:54,198 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-send-appeal-to-linkedin-support-team.1699312/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 10:23:54,235 - INFO - Extracted thread title: How to send appeal to linkedin support team
+2025-04-01 10:23:54,236 - DEBUG - Scrolling page 2 times.
+2025-04-01 10:23:54,237 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:23:56,147 - DEBUG - Page scrolled.
+2025-04-01 10:23:58,316 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:23:59,584 - DEBUG - Page scrolled.
+2025-04-01 10:24:01,586 - DEBUG - Random scrolls complete.
+2025-04-01 10:24:04,378 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:24:04,379 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:24:06,124 - DEBUG - Page scrolled.
+2025-04-01 10:24:09,178 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:24:10,576 - DEBUG - Page scrolled.
+2025-04-01 10:24:13,589 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:24:15,102 - DEBUG - Page scrolled.
+2025-04-01 10:24:18,103 - DEBUG - Random scrolls complete.
+2025-04-01 10:24:18,118 - DEBUG - Found 1 like buttons.
+2025-04-01 10:24:21,120 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-01 10:24:22,107 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:24:22,118 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:24:22,120 - DEBUG - Liked post number 1 of 1.
+2025-04-01 10:24:26,944 - INFO - Liked 1 posts successfully.
+2025-04-01 10:24:26,946 - INFO - Liked 1 posts successfully.
+2025-04-01 10:24:29,631 - INFO - performing random action
+2025-04-01 10:24:29,633 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:24:29,635 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:24:31,539 - DEBUG - Page scrolled.
+2025-04-01 10:24:34,568 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:24:35,855 - DEBUG - Page scrolled.
+2025-04-01 10:24:38,891 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:24:40,425 - DEBUG - Page scrolled.
+2025-04-01 10:24:43,427 - DEBUG - Random scrolls complete.
+2025-04-01 10:24:46,113 - DEBUG - Total comments in the thread: 1
+2025-04-01 10:24:46,205 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to send appeal to linkedin support team.txt
+2025-04-01 10:24:48,763 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 10:24:48,797 - DEBUG - Extracted main post content: Currently, I can't access my account.
+And I don't know anything about just how to send my appeal to linkedin support team, and about the urls to send my appeal
+Could you send me the urls without access the account to send the appeal?
+
+Please help me.
+Thank you in advance
+
+intereno_o
+2025-04-01 10:24:54,320 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 10:24:54,327 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 10:24:57,065 - INFO - performing random action
+2025-04-01 10:24:57,066 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:24:57,067 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:24:57,081 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:24:57,125 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:24:57,133 - DEBUG - Text box scrolled into view
+2025-04-01 10:24:57,954 - DEBUG - Initializing actionchains
+2025-04-01 10:24:57,983 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1179}, size: {'height': 21, 'width': 68}
+2025-04-01 10:24:57,984 - DEBUG - Target click coordinates: (1121, 1189)
+2025-04-01 10:25:04,005 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 10:25:04,007 - DEBUG - Moving mouse to text box element.
+2025-04-01 10:25:04,008 - DEBUG - Clicking on the text box.
+2025-04-01 10:25:04,009 - DEBUG - Sending keys with content: Shoot, that's frustrating. Try this link, it might bypass the login: linkedin.com/help/linkedin/contact/c-account. Hope it works out!
+
+2025-04-01 10:25:09,028 - DEBUG - Clicking on post reply button.
+2025-04-01 10:25:19,985 - DEBUG - Performed Actionchains
+2025-04-01 10:25:19,985 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 10:25:23,987 - INFO - Comment posted successfully.
+2025-04-01 10:25:23,989 - INFO - Task Completed!!
+2025-04-01 10:25:33,003 - INFO - Navigated back to the homepage.
+2025-04-01 10:25:35,800 - INFO - Attempting to clear memory and resources.
+2025-04-01 10:25:35,832 - INFO - Garbage collection completed.
+2025-04-01 10:25:35,833 - INFO - Waiting for 2000 seconds before next execution.

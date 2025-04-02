@@ -1,0 +1,1 @@
+Honestly, faking Whois info might seem easy, but it could backfire legally. Have you looked into using a proxy service that handles domain registration for you? They often offer better anonymity than you could achieve yourself.

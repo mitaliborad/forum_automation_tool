@@ -1,0 +1,77 @@
+--- Main Post Title ---
+Twitter clickable videos?
+
+Total comments in the thread: 7
+
+Topic User: pinimini
+Topic: Hi all.
+I continue to came across clickable video tweets which after click continue to play video in top half of the screen while in bottom part of the screen loading a web page. Almost all of these tweets are NSFW so I guess they are not created with XAds. Is there any third party tool that can do this?
+Liked by: You, sam_ups89
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: imccafey
+Topic: I see some of those on Facebook and it's likely not third party, but built in as a service on the platform itself. Not entirely sure about Twitter's version though, I'd say it's likely a Twitter feature for certain ads.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: sam_ups89
+Topic: pinimini said:
+Hi all.
+I continue to came across clickable video tweets which after click continue to play video in top half of the screen while in bottom part of the screen loading a web page. Almost all of these tweets are NSFW so I guess they are not created with XAds. Is there any third party tool that can do this?
+I am also looking for answers
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Reuben Smith
+Topic: sam_ups89 said:
+I am also looking for answers
+try the composer on X,
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Sheenue
+Topic: Ads dashboard, that’s how you can do that.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: BalticProxy_Eu
+Topic: I always see this on X. It's weird cause the ads dont even load on the bottom half, it's just white.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: rookerycarry
+Topic: pinimini said:
+Hi all.
+I continue to came across clickable video tweets which after click continue to play video in top half of the screen while in bottom part of the screen loading a web page. Almost all of these tweets are NSFW so I guess they are not created with XAds. Is there any third party tool that can do this?
+Hey there! Have you tried looking into third-party tools for creating that kind of content?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

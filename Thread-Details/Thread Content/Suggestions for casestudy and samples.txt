@@ -1,0 +1,44 @@
+--- Main Post Title ---
+Suggestions for casestudy and samples
+
+Total comments in the thread: 3
+
+Topic User: indianmojojojo
+Topic: Any suggestions for Suggestions for casestudy and samples. Wordpress theme would work. I looked up on codecanyon but couldnt find one
+
+Something like a clickup doc
+
+
+
+To put a document like this
+Liked by: xReminisce
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: RoiBox
+Topic: Not really on top of what you are asking, but for case studies I used to do a CPT with the field I need and a nice layout template for it would work in any theme, I used the Elements function in GeneratePress for setting the layout on that specific CPT.
+Liked by: _heron, indianmojojojo
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: indianmojojojo
+Topic: RoiBox said:
+Not really on top of what you are asking, but for case studies I used to do a CPT with the field I need and a nice layout template for it would work in any theme, I used the Elements function in GeneratePress for setting the layout on that specific CPT.
+i have seen people have some sort of a knowledge base for case studies and samples(previous work, results etc)
+
+Let me know explore CPT and https://generatepress.com
+
+Thank you
+Liked by: RoiBox, _heron
+Number of likes: 2
+-----
+
+Replies:
+
+

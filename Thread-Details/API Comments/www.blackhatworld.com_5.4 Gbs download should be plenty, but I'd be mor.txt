@@ -1,0 +1,1 @@
+5.4 Gb/s download should be plenty, but I'd be more concerned about the stability of 5G with that many connections. Have you load-tested the setup at even 25% capacity?

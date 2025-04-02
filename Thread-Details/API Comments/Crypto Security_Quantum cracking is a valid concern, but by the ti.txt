@@ -1,0 +1,1 @@
+Quantum cracking is a valid concern, but by the time quantum computers are powerful enough, we'll probably have quantum-resistant algorithms in place. Are you backing up that phrase somewhere safe, though? That's a bigger risk right now.

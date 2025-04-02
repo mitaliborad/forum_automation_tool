@@ -1,0 +1,1 @@
+Honestly, I'd skip the theme and just use a page builder plugin like Elementor or Brizy with a free theme; gives you way more flexibility to showcase those case studies exactly how you want. Have you looked at those?

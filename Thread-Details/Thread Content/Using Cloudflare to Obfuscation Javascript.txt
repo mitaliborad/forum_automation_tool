@@ -1,0 +1,26 @@
+--- Main Post Title ---
+Using Cloudflare to Obfuscation Javascript?
+
+Total comments in the thread: 2
+
+Topic User: superaff1984
+Topic: Is there a way in Cloudflare to obfuscation javascript, does anyone know if there is a setting in there for that?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Steptoe
+Topic: I don't think there's a simple setting except for minifying javascript. To obfuscate you will have to look into Cloudflare Workers and things like webpack and an obfuscation plugin: https://developers.cloudflare.com/workers/wrangler/migration/v1-to-v2/wrangler-legacy/webpack/
+LINKDEXING The Link Indexer that WorksUpto 90% Indexing Rate.
+Many people have improved their rankings with these strong PBN links
+Bulk do-follow contextual links from unique platforms (33% discount for BHW members) ➜
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+

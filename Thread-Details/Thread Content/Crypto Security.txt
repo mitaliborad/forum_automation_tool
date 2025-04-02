@@ -1,0 +1,73 @@
+--- Main Post Title ---
+Crypto Security
+
+Total comments in the thread: 6
+
+Topic User: AtomSMM
+Topic: Crypto access relies on a 12-word phrase from a 2048-word set—seems secure. I know the odds of brute-forcing it are tiny, but still, I can’t help but wonder: what if quantum computers eventually crack it? Is there a guarantee our crypto stays safe, or is it a ticking time bomb? What do you think?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: natsuko
+Topic: Bruh, if quantum computers can crack seed phrases, we got bigger problems than just crypto
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: Couldn't they increase the word set from 2048 to 8192 if necessary? There are already wallets with 24-words seedphrase.
+
+Anyway, new technologies would emerge to protect crypto assets
+Liked by: UrbanSnake, xReminisce, MayhemBH
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: slowslow
+Topic: Usable quantum computers that can run Shor’s Algorithm at the scale needed to break ECC are not here yet.
+Real estimates for this level of capability range from 10–30 years, and that’s assuming the tech progresses as hoped.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: xReminisce
+Topic: RichMedusa said:
+Couldn't they increase the word set from 2048 to 8192 if necessary? There are already wallets with 24-words seedphrase.
+yup
+RichMedusa said:
+Anyway, new technologies would emerge to protect crypto assets
+only if they move assets
+old assets will always be vulnerable iirc
+Liked by: RichMedusa
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: slowslow
+Topic: RichMedusa said:
+Couldn't they increase the word set from 2048 to 8192 if necessary? There are already wallets with 24-words seedphrase.
+
+Anyway, new technologies would emerge to protect crypto assets
+for quantum computers it will make no difference 2048 or 8192 or any other number, but there are different algorithms that are quantum calculations proof
+Last edited: Yesterday at 5:33 PM
+Liked by: RichMedusa
+Number of likes: 1
+-----
+
+Replies:
+
+

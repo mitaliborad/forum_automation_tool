@@ -1,0 +1,100 @@
+2025-04-01 10:18:37,366 - INFO - Current time: 1743482917.3666694
+2025-04-01 10:18:37,369 - INFO - Token expiration time: 1743491284.0683281
+2025-04-01 10:18:37,372 - INFO - Token expiration time: 1743491284.0683281
+2025-04-01 10:18:37,374 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-01 10:18:39,379 - INFO - performing random action
+2025-04-01 10:18:39,381 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 10:18:39,390 - DEBUG - Scrolling page 2 times.
+2025-04-01 10:18:39,391 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:18:40,715 - DEBUG - Page scrolled.
+2025-04-01 10:18:42,717 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:18:44,275 - DEBUG - Page scrolled.
+2025-04-01 10:18:46,279 - DEBUG - Random scrolls complete.
+2025-04-01 10:18:46,280 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:18:46,282 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:18:47,842 - DEBUG - Page scrolled.
+2025-04-01 10:18:49,845 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:18:51,381 - DEBUG - Page scrolled.
+2025-04-01 10:18:53,384 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:18:54,510 - DEBUG - Page scrolled.
+2025-04-01 10:18:56,514 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:18:58,337 - DEBUG - Page scrolled.
+2025-04-01 10:19:00,345 - DEBUG - Random scrolls complete.
+2025-04-01 10:19:06,809 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-01 10:19:12,477 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/black-hat-seo.1654215/unread
+2025-04-01 10:19:12,478 - INFO - performing random action
+2025-04-01 10:19:21,223 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/black-hat-seo.1654215/unread
+2025-04-01 10:19:21,226 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/black-hat-seo.1654215/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 10:19:21,307 - INFO - Extracted thread title: Black Hat SEO
+2025-04-01 10:19:21,308 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:19:21,308 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:19:22,807 - DEBUG - Page scrolled.
+2025-04-01 10:19:24,817 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:19:26,301 - DEBUG - Page scrolled.
+2025-04-01 10:19:28,309 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:19:30,245 - DEBUG - Page scrolled.
+2025-04-01 10:19:32,249 - DEBUG - Random scrolls complete.
+2025-04-01 10:19:34,622 - DEBUG - Scrolling page 2 times.
+2025-04-01 10:19:34,624 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:19:35,744 - DEBUG - Page scrolled.
+2025-04-01 10:19:38,749 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:19:40,382 - DEBUG - Page scrolled.
+2025-04-01 10:19:43,384 - DEBUG - Random scrolls complete.
+2025-04-01 10:19:43,428 - DEBUG - Found 6 like buttons.
+2025-04-01 10:19:46,430 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-04-01 10:19:47,379 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:19:47,416 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:19:47,418 - DEBUG - Liked post number 1 of 2.
+2025-04-01 10:19:53,100 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:19:53,139 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:19:53,143 - DEBUG - Liked post number 2 of 2.
+2025-04-01 10:19:57,686 - INFO - Liked 2 posts successfully.
+2025-04-01 10:19:57,687 - INFO - Liked 2 posts successfully.
+2025-04-01 10:20:00,531 - INFO - Profile DarkCodeX: Pausing for 43.37 seconds...
+2025-04-01 10:20:43,909 - INFO - Profile DarkCodeX: Resuming...
+2025-04-01 10:20:43,911 - INFO - performing random action
+2025-04-01 10:20:43,914 - DEBUG - Scrolling page 7 times.
+2025-04-01 10:20:43,916 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:20:45,319 - DEBUG - Page scrolled.
+2025-04-01 10:20:48,321 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:20:50,013 - DEBUG - Page scrolled.
+2025-04-01 10:20:53,015 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:20:54,634 - DEBUG - Page scrolled.
+2025-04-01 10:20:57,635 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:20:59,225 - DEBUG - Page scrolled.
+2025-04-01 10:21:02,227 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:21:04,115 - DEBUG - Page scrolled.
+2025-04-01 10:21:07,116 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:21:08,704 - DEBUG - Page scrolled.
+2025-04-01 10:21:11,706 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:21:13,717 - DEBUG - Page scrolled.
+2025-04-01 10:21:16,719 - DEBUG - Random scrolls complete.
+2025-04-01 10:21:19,424 - DEBUG - Total comments in the thread: 6
+2025-04-01 10:21:51,062 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Black Hat SEO.txt
+2025-04-01 10:21:53,702 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 10:21:53,750 - DEBUG - Extracted main post content: How Can I Learn Black Hat SEO
+2025-04-01 10:21:59,117 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 10:21:59,121 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 10:22:02,096 - INFO - performing random action
+2025-04-01 10:22:02,098 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:22:02,098 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:22:02,118 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:22:02,174 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:22:02,183 - DEBUG - Text box scrolled into view
+2025-04-01 10:22:03,034 - DEBUG - Initializing actionchains
+2025-04-01 10:22:03,078 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2720}, size: {'height': 21, 'width': 68}
+2025-04-01 10:22:03,079 - DEBUG - Target click coordinates: (1121, 2730)
+2025-04-01 10:22:12,520 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 10:22:12,521 - DEBUG - Moving mouse to text box element.
+2025-04-01 10:22:12,521 - DEBUG - Clicking on the text box.
+2025-04-01 10:22:12,522 - DEBUG - Sending keys with content: Honestly, the best way is to just dive in and start testing things yourself, but don't use it on any websites you care about.
+
+2025-04-01 10:22:18,507 - DEBUG - Clicking on post reply button.
+2025-04-01 10:22:20,422 - DEBUG - Performed Actionchains
+2025-04-01 10:22:20,423 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 10:22:24,428 - INFO - Comment posted successfully.
+2025-04-01 10:22:24,430 - INFO - Task Completed!!
+2025-04-01 10:22:28,567 - INFO - Navigated back to the homepage.
+2025-04-01 10:22:30,879 - INFO - Attempting to clear memory and resources.
+2025-04-01 10:22:30,939 - INFO - Garbage collection completed.
+2025-04-01 10:22:30,939 - INFO - Waiting for 2000 seconds before next execution.

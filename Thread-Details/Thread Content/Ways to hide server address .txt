@@ -1,0 +1,217 @@
+--- Main Post Title ---
+Ways to hide server address ???
+
+Total comments in the thread: 20
+
+Topic User: bristerbunte
+Topic: Hello everyone, I'm having a headache thinking about how to hide the main IP of the hosting to avoid being tracked by the hosting server address.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Black Hat Earth
+Topic: bristerbunte said:
+Hello everyone, I'm having a headache thinking about how to hide the main IP of the hosting to avoid being tracked by the hosting server address.
+Use the new IP to replace the address
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: BlogPro
+Topic: Tracked by whom? Authorities?
+
+If it's authorities, then no amount of hiding will help.
+
+If you're hiding from hackers et al. You can use a reverse proxy like Cloudflare or Pomerium.
+❛❛ Something AI is brewing ❜❜
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: golodaevamaria
+Topic: Consider CDN service or proxy server to mask your hosting IP and prevent direct tracking
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: BPName
+Topic: Cloudflare / DDOs-Guard
+rProxy
+Fast flux
+https://bpname.cc/ | Offshore Domain by Cnobin/BiZCN from 25$
+https://bpnode.cc/ | BPNode - Bulletproof Hosting from 5$| Spamhaus ignored(SBL etc)
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: bristerbunte
+Topic: BPName said:
+Cloudflare / DDOs-Guard
+rProxy
+Fast flux
+Is it okay to use 3 at once?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: tyesil
+Topic: Cloudflare free option is enough almost for everything. IMO
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: BPName
+Topic: bristerbunte said:
+Is it okay to use 3 at once?
+Cloudflare or DDos-Guard + rProxy to use is safe/very god
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: MuayThai
+Topic: bristerbunte said:
+Hello everyone, I'm having a headache thinking about how to hide the main IP of the hosting to avoid being tracked by the hosting server address.
+CloudFlare for sure
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: xReminisce
+Topic: bristerbunte said:
+Is it okay to use 3 at once?
+Yes, it's technically possible to chain them to obscure the origin of your website
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: bristerbunte
+Topic: xReminisce said:
+Yes, it's technically possible to chain them to obscure the origin of your website
+thanks
+Liked by: xReminisce
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: AdventureSeeker
+Topic: Cloudflare
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: remeser779
+Topic: If it's from hackers, cloudflare is sufficient.
+Otherwise use ovpn public IPV4 : https://www.ovpn.com/en/features/public-ipv4 you can host your website/server besides it. Thepiratebay used it successfully : https://www.google.com/search?client=firefox-b-d&q=site:torrentfreak.com+ovpn+thepiratebay
+Liked by: f4hr9fu, BossBaby
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: bristerbunte
+Topic: remeser779 said:
+If it's from hackers, cloudflare is sufficient.
+Otherwise use ovpn public IPV4 : https://www.ovpn.com/en/features/public-ipv4 you can host your website/server besides it. Thepiratebay used it successfully : https://www.google.com/search?client=firefox-b-d&q=site%3Atorrentfreak.com+ovpn+thepiratebay
+thank sir
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: JudasProxy
+Topic: CDM or reverse proxy
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: karolannsyre
+Topic: You could try using a reverse proxy
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: saferidge
+Topic: Dedicated hosting or a VPS (Virtual Private Server)? You can get more control over your server because you're not sharing it with anyone else.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: an999
+Topic: +1 for Cloudflare.
+www.atalnetworks.com
+partners@atalnetworks.com
+Telegram https://t.me/Aryans999
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: BulkyDomains
+Topic: Cloudflare is the easiest way to hide the origin ip.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: loveeecat
+Topic: bristerbunte said:
+Hello everyone, I'm having a headache thinking about how to hide the main IP of the hosting to avoid being tracked by the hosting server address.
+There arehttps://www.adspower.com/blog/7-effective-ways-to-hide-ip-address. You can consider using a proxy server, which can help you hide your real IP well, or SSH tunneling or a VPN.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

@@ -1,0 +1,1 @@
+Not directly, but Cloudflare's bot fight mode makes it harder for scrapers to read your JS. Consider that, and maybe a dedicated obfuscation tool.

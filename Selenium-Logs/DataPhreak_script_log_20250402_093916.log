@@ -1,0 +1,110 @@
+2025-04-02 09:39:16,291 - INFO - Current time: 1743566956.2912462
+2025-04-02 09:39:16,292 - INFO - Token expiration time: 1743577750.8135016
+2025-04-02 09:39:16,293 - INFO - Token expiration time: 1743577750.8135016
+2025-04-02 09:39:16,294 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-02 09:39:29,590 - INFO - Profile DataPhreak: Pausing for 34.11 seconds...
+2025-04-02 09:40:03,703 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 09:40:03,721 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-02 09:40:03,722 - INFO - performing random action
+2025-04-02 09:40:03,724 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 09:40:03,725 - DEBUG - Scrolling page 4 times.
+2025-04-02 09:40:03,725 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:40:05,239 - DEBUG - Page scrolled.
+2025-04-02 09:40:07,243 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:40:08,322 - DEBUG - Page scrolled.
+2025-04-02 09:40:10,325 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:40:11,820 - DEBUG - Page scrolled.
+2025-04-02 09:40:13,823 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:40:15,803 - DEBUG - Page scrolled.
+2025-04-02 09:40:17,805 - DEBUG - Random scrolls complete.
+2025-04-02 09:40:17,808 - DEBUG - Scrolling page 2 times.
+2025-04-02 09:40:17,810 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:40:19,081 - DEBUG - Page scrolled.
+2025-04-02 09:40:21,084 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:40:22,525 - DEBUG - Page scrolled.
+2025-04-02 09:40:24,528 - DEBUG - Random scrolls complete.
+2025-04-02 09:40:32,018 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-04-02 09:40:38,389 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/twitter-clickable-videos.1546130/unread
+2025-04-02 09:40:38,391 - INFO - performing random action
+2025-04-02 09:40:54,506 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/twitter-clickable-videos.1546130/unread
+2025-04-02 09:40:54,510 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/twitter-clickable-videos.1546130/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 09:40:54,591 - INFO - Extracted thread title: Twitter clickable videos
+2025-04-02 09:40:54,592 - DEBUG - Scrolling page 4 times.
+2025-04-02 09:40:54,594 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:40:56,602 - DEBUG - Page scrolled.
+2025-04-02 09:40:58,604 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:40:59,853 - DEBUG - Page scrolled.
+2025-04-02 09:41:01,855 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:03,414 - DEBUG - Page scrolled.
+2025-04-02 09:41:05,416 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:07,325 - DEBUG - Page scrolled.
+2025-04-02 09:41:09,327 - DEBUG - Random scrolls complete.
+2025-04-02 09:41:11,620 - DEBUG - Scrolling page 4 times.
+2025-04-02 09:41:11,621 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:12,777 - DEBUG - Page scrolled.
+2025-04-02 09:41:15,784 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:17,017 - DEBUG - Page scrolled.
+2025-04-02 09:41:20,022 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:21,426 - DEBUG - Page scrolled.
+2025-04-02 09:41:24,427 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:26,098 - DEBUG - Page scrolled.
+2025-04-02 09:41:29,100 - DEBUG - Random scrolls complete.
+2025-04-02 09:41:29,144 - DEBUG - Found 7 like buttons.
+2025-04-02 09:41:32,154 - INFO - Attempting to like 4 posts. There are 7 available.
+2025-04-02 09:41:33,073 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:41:33,098 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:41:33,101 - DEBUG - Liked post number 1 of 4.
+2025-04-02 09:41:37,703 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:41:37,728 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:41:37,730 - DEBUG - Liked post number 2 of 4.
+2025-04-02 09:41:43,097 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:41:43,123 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:41:43,125 - DEBUG - Liked post number 3 of 4.
+2025-04-02 09:41:47,956 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:41:47,967 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:41:47,967 - DEBUG - Liked post number 4 of 4.
+2025-04-02 09:41:52,278 - INFO - Liked 4 posts successfully.
+2025-04-02 09:41:52,279 - INFO - Liked 4 posts successfully.
+2025-04-02 09:41:54,439 - INFO - performing random action
+2025-04-02 09:41:54,457 - DEBUG - Scrolling page 5 times.
+2025-04-02 09:41:54,468 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:56,245 - DEBUG - Page scrolled.
+2025-04-02 09:41:59,246 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:01,016 - DEBUG - Page scrolled.
+2025-04-02 09:42:04,269 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:05,479 - DEBUG - Page scrolled.
+2025-04-02 09:42:08,483 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:09,610 - DEBUG - Page scrolled.
+2025-04-02 09:42:12,613 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:13,915 - DEBUG - Page scrolled.
+2025-04-02 09:42:16,917 - DEBUG - Random scrolls complete.
+2025-04-02 09:42:19,791 - DEBUG - Total comments in the thread: 7
+2025-04-02 09:42:51,536 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Twitter clickable videos.txt
+2025-04-02 09:42:53,960 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 09:42:53,999 - DEBUG - Extracted main post content: Hi all.
+I continue to came across clickable video tweets which after click continue to play video in top half of the screen while in bottom part of the screen loading a web page. Almost all of these tweets are NSFW so I guess they are not created with XAds. Is there any third party tool that can do this?
+2025-04-02 09:42:58,048 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 09:42:58,050 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 09:43:00,623 - INFO - performing random action
+2025-04-02 09:43:00,624 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:43:00,625 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:43:00,639 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:43:00,695 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:43:00,702 - DEBUG - Text box scrolled into view
+2025-04-02 09:43:01,376 - DEBUG - Initializing actionchains
+2025-04-02 09:43:01,420 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2991}, size: {'height': 21, 'width': 68}
+2025-04-02 09:43:01,421 - DEBUG - Target click coordinates: (1121, 3001)
+2025-04-02 09:43:11,851 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 09:43:11,852 - DEBUG - Moving mouse to text box element.
+2025-04-02 09:43:11,853 - DEBUG - Clicking on the text box.
+2025-04-02 09:43:11,855 - DEBUG - Sending keys with content: I've seen those too, pretty clever. You might be able to pull something similar off using a landing page builder that lets you embed a video at the top and then customize the rest of the page.
+
+2025-04-02 09:43:17,744 - DEBUG - Clicking on post reply button.
+2025-04-02 09:43:28,944 - DEBUG - Performed Actionchains
+2025-04-02 09:43:28,946 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 09:43:32,948 - INFO - Comment posted successfully.
+2025-04-02 09:43:32,949 - INFO - Task Completed!!
+2025-04-02 09:43:42,335 - INFO - Navigated back to the homepage.
+2025-04-02 09:43:44,486 - INFO - Attempting to clear memory and resources.
+2025-04-02 09:43:44,518 - INFO - Garbage collection completed.
+2025-04-02 09:43:44,519 - INFO - Waiting for 2000 seconds before next execution.

@@ -1,0 +1,99 @@
+2025-04-01 09:35:24,737 - INFO - Current time: 1743480324.737152
+2025-04-01 09:35:24,737 - INFO - Token expiration time: 1743491120.0368915
+2025-04-01 09:35:24,738 - INFO - Token expiration time: 1743491120.0368915
+2025-04-01 09:35:24,742 - INFO - performing random action
+2025-04-01 09:35:24,743 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 09:35:24,743 - DEBUG - Scrolling page 4 times.
+2025-04-01 09:35:24,744 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:35:26,582 - DEBUG - Page scrolled.
+2025-04-01 09:35:28,584 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:35:29,791 - DEBUG - Page scrolled.
+2025-04-01 09:35:31,793 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:35:32,858 - DEBUG - Page scrolled.
+2025-04-01 09:35:34,860 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:35:36,599 - DEBUG - Page scrolled.
+2025-04-01 09:35:38,602 - DEBUG - Random scrolls complete.
+2025-04-01 09:35:38,604 - DEBUG - Scrolling page 3 times.
+2025-04-01 09:35:38,606 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:35:39,700 - DEBUG - Page scrolled.
+2025-04-01 09:35:41,701 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:35:43,624 - DEBUG - Page scrolled.
+2025-04-01 09:35:45,626 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:35:47,207 - DEBUG - Page scrolled.
+2025-04-01 09:35:49,210 - DEBUG - Random scrolls complete.
+2025-04-01 09:36:02,888 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-01 09:36:07,553 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-can-i-cloak-affiliate-links-on-a-directory-website.1700288/unread
+2025-04-01 09:36:07,554 - INFO - performing random action
+2025-04-01 09:36:17,857 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-can-i-cloak-affiliate-links-on-a-directory-website.1700288/unread
+2025-04-01 09:36:17,862 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-can-i-cloak-affiliate-links-on-a-directory-website.1700288/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 09:36:17,904 - INFO - Extracted thread title: How can I cloak affiliate links on a directory website
+2025-04-01 09:36:17,905 - DEBUG - Scrolling page 3 times.
+2025-04-01 09:36:17,906 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:36:19,722 - DEBUG - Page scrolled.
+2025-04-01 09:36:21,725 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:36:23,534 - DEBUG - Page scrolled.
+2025-04-01 09:36:25,536 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:36:26,721 - DEBUG - Page scrolled.
+2025-04-01 09:36:28,724 - DEBUG - Random scrolls complete.
+2025-04-01 09:36:30,857 - DEBUG - Scrolling page 1 times.
+2025-04-01 09:36:30,858 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:36:32,856 - DEBUG - Page scrolled.
+2025-04-01 09:36:35,858 - DEBUG - Random scrolls complete.
+2025-04-01 09:36:35,886 - DEBUG - Found 3 like buttons.
+2025-04-01 09:36:38,887 - INFO - Attempting to like 1 posts. There are 3 available.
+2025-04-01 09:36:39,481 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 09:36:39,510 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 09:36:39,512 - DEBUG - Liked post number 1 of 1.
+2025-04-01 09:36:43,906 - INFO - Liked 1 posts successfully.
+2025-04-01 09:36:43,910 - INFO - Liked 1 posts successfully.
+2025-04-01 09:36:46,880 - INFO - Profile Emaxx: Minimizing window...
+2025-04-01 09:36:46,885 - INFO - Profile Emaxx: Window minimized. Pausing for 17.51 seconds...
+2025-04-01 09:37:04,405 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-01 09:37:04,407 - INFO - performing random action
+2025-04-01 09:37:04,408 - DEBUG - Scrolling page 5 times.
+2025-04-01 09:37:04,408 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:37:06,282 - DEBUG - Page scrolled.
+2025-04-01 09:37:09,285 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:37:11,285 - DEBUG - Page scrolled.
+2025-04-01 09:37:14,286 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:37:15,409 - DEBUG - Page scrolled.
+2025-04-01 09:37:18,411 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:37:20,196 - DEBUG - Page scrolled.
+2025-04-01 09:37:23,198 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:37:25,133 - DEBUG - Page scrolled.
+2025-04-01 09:37:28,135 - DEBUG - Random scrolls complete.
+2025-04-01 09:37:30,936 - DEBUG - Total comments in the thread: 3
+2025-04-01 09:37:52,043 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How can I cloak affiliate links on a directory website.txt
+2025-04-01 09:37:54,699 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 09:37:54,739 - DEBUG - Extracted main post content: I built a directory website and now I want to monetize it with affiliate links, but I don't want it to be obvious.
+
+Instead of just adding the link is there some tool (ideally free) that "hide" the links so they don't look like affiliate links.
+
+So instead of the link being something like http://www.affiliateprogram.com/r/ABCD it will just show up as something less obvious?
+
+I would apply this to all the links in the directory to further cloak the links.
+2025-04-01 09:37:59,685 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 09:37:59,689 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 09:38:01,771 - INFO - performing random action
+2025-04-01 09:38:01,774 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:38:01,776 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:38:01,796 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:38:01,852 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:38:01,861 - DEBUG - Text box scrolled into view
+2025-04-01 09:38:02,587 - DEBUG - Initializing actionchains
+2025-04-01 09:38:02,639 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1993}, size: {'height': 21, 'width': 68}
+2025-04-01 09:38:02,639 - DEBUG - Target click coordinates: (1121, 2003)
+2025-04-01 09:38:10,317 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 09:38:10,319 - DEBUG - Moving mouse to text box element.
+2025-04-01 09:38:10,321 - DEBUG - Clicking on the text box.
+2025-04-01 09:38:10,322 - DEBUG - Sending keys with content: Instead of a cloaker, could you rebrand by negotiating unique coupon codes for your users?
+
+2025-04-01 09:38:15,776 - DEBUG - Clicking on post reply button.
+2025-04-01 09:38:26,659 - DEBUG - Performed Actionchains
+2025-04-01 09:38:26,665 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 09:38:30,669 - INFO - Comment posted successfully.
+2025-04-01 09:38:30,670 - INFO - Task Completed!!
+2025-04-01 09:38:42,046 - INFO - Navigated back to the homepage.
+2025-04-01 09:38:44,646 - INFO - Attempting to clear memory and resources.
+2025-04-01 09:38:44,690 - INFO - Garbage collection completed.
+2025-04-01 09:38:44,693 - INFO - Waiting for 2000 seconds before next execution.
