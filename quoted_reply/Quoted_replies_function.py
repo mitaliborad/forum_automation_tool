@@ -25,7 +25,7 @@ from gemini_api import GeminiHandler
 # --- Configuration ---
 BASE_URL = "https://www.blackhatworld.com/"
 QUOTED_REPLIES_FOLDER = "quoted_replies"
-API_GENERATED_REPLIES_FOLDER = "API Generated Replies"
+API_GENERATED_REPLIES_FOLDER = "API_Generated_Replies"
 PROMPT_FILE = "prompt.txt"
 ALERT_BUTTON_LOCATOR = (By.XPATH, "//div//a[@data-xf-click='menu'][@title='Alerts']")
 SHOW_ALL_LINK_TEXT = (By.LINK_TEXT,"Show all")
