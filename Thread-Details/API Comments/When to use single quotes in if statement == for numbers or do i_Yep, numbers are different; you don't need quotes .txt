@@ -1,0 +1,1 @@
+Yep, numbers are different; you don't need quotes there. Just make sure your variable's actually an integer if you're expecting an integer comparison!

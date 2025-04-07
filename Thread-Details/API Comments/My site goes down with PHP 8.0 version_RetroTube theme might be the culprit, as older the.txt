@@ -1,0 +1,1 @@
+RetroTube theme might be the culprit, as older themes sometimes throw fits with newer PHP versions; have you tried switching to a default WP theme temporarily to see if that fixes it?

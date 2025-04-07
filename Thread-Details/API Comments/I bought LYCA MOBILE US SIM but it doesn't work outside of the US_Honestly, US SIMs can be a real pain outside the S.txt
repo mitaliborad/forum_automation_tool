@@ -1,0 +1,1 @@
+Honestly, US SIMs can be a real pain outside the States. Could be the lack of US IP tripped it up from the start, but have you tried manually selecting the German networks in your phone's settings? Sometimes that does the trick.

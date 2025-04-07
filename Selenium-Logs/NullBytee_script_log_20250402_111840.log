@@ -1,0 +1,8 @@
+2025-04-02 11:18:40,459 - INFO - Starting automation for profile: NullBytee
+2025-04-02 11:18:41,406 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-02 11:18:41,407 - INFO - Calculated token expiration time: 1743583721.4079387
+2025-04-02 11:18:41,409 - INFO - Profile NullBytee: Successfully logged in.
+2025-04-02 11:18:41,410 - INFO - Profile NullBytee: Starting profile 33096624-f91e-4137-b999-8508a489375e...
+2025-04-02 11:18:49,453 - ERROR - Profile NullBytee: Error starting profile: {"status":{"error_code":"GET_PROXY_CONNECTION_IP_ERROR","http_code":400,"message":"couldn't get proxy connection ip data"}}
+2025-04-02 11:18:49,454 - ERROR - Failed to start MultiLogin profile: NullBytee. Skipping.
+2025-04-02 11:18:49,455 - WARNING - Driver was not initialized for NullBytee.  Skipping stop_profile.

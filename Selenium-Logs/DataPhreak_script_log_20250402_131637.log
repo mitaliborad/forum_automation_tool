@@ -1,0 +1,93 @@
+2025-04-02 13:16:37,598 - INFO - Current time: 1743579997.5988102
+2025-04-02 13:16:37,601 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 13:16:37,604 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 13:16:37,606 - INFO - performing random action
+2025-04-02 13:16:37,609 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:16:37,612 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:16:37,613 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:39,531 - DEBUG - Page scrolled.
+2025-04-02 13:16:41,533 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:42,776 - DEBUG - Page scrolled.
+2025-04-02 13:16:44,777 - DEBUG - Random scrolls complete.
+2025-04-02 13:16:44,780 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:16:44,781 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:46,287 - DEBUG - Page scrolled.
+2025-04-02 13:16:48,289 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:50,195 - DEBUG - Page scrolled.
+2025-04-02 13:16:52,198 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:53,846 - DEBUG - Page scrolled.
+2025-04-02 13:16:55,850 - DEBUG - Random scrolls complete.
+2025-04-02 13:17:03,329 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-04-02 13:17:07,950 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/howdy-everyone.1699812/unread
+2025-04-02 13:17:07,951 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-02 13:17:17,981 - INFO - Profile DataPhreak: Pausing for 49.69 seconds...
+2025-04-02 13:18:07,671 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 13:18:07,701 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-02 13:18:07,702 - INFO - performing random action
+2025-04-02 13:18:23,135 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/howdy-everyone.1699812/unread
+2025-04-02 13:18:23,137 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/howdy-everyone.1699812/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 13:18:23,163 - INFO - Extracted thread title: Howdy everyone!
+2025-04-02 13:18:23,164 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:18:23,164 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:24,444 - DEBUG - Page scrolled.
+2025-04-02 13:18:26,445 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:28,260 - DEBUG - Page scrolled.
+2025-04-02 13:18:30,262 - DEBUG - Random scrolls complete.
+2025-04-02 13:18:32,415 - DEBUG - Scrolling page 1 times.
+2025-04-02 13:18:32,416 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:34,192 - DEBUG - Page scrolled.
+2025-04-02 13:18:37,193 - DEBUG - Random scrolls complete.
+2025-04-02 13:18:37,218 - DEBUG - Found 8 like buttons.
+2025-04-02 13:18:40,219 - INFO - Attempting to like 2 posts. There are 8 available.
+2025-04-02 13:18:41,153 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:18:41,164 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:18:41,165 - DEBUG - Liked post number 1 of 2.
+2025-04-02 13:18:46,367 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:18:46,374 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:18:46,375 - DEBUG - Liked post number 2 of 2.
+2025-04-02 13:18:50,673 - INFO - Liked 2 posts successfully.
+2025-04-02 13:18:50,676 - INFO - Liked 2 posts successfully.
+2025-04-02 13:18:53,003 - INFO - performing random action
+2025-04-02 13:18:53,004 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:18:53,005 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:54,108 - DEBUG - Page scrolled.
+2025-04-02 13:18:57,110 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:58,915 - DEBUG - Page scrolled.
+2025-04-02 13:19:01,917 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:19:02,966 - DEBUG - Page scrolled.
+2025-04-02 13:19:05,969 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:19:07,803 - DEBUG - Page scrolled.
+2025-04-02 13:19:10,805 - DEBUG - Random scrolls complete.
+2025-04-02 13:19:13,889 - DEBUG - Total comments in the thread: 8
+2025-04-02 13:20:06,811 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Howdy everyone!.txt
+2025-04-02 13:20:09,005 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 13:20:09,043 - DEBUG - Extracted main post content: Hello! Very excited to be a part of BHW. I've had some colleagues mention the site and the opportunities it presented, so I just wanted to see what it was all about. Happy to be here, and looking forward to meeting people as well. Thanks!
+2025-04-02 13:20:12,328 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 13:20:12,331 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 13:20:14,552 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-02 13:20:24,030 - INFO - Profile DataPhreak: Pausing for 33.36 seconds...
+2025-04-02 13:20:57,393 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 13:20:57,420 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-02 13:20:57,421 - INFO - performing random action
+2025-04-02 13:20:57,423 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:20:57,424 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:20:57,444 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:20:57,486 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:20:57,495 - DEBUG - Text box scrolled into view
+2025-04-02 13:20:58,110 - DEBUG - Initializing actionchains
+2025-04-02 13:20:58,134 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3223}, size: {'height': 21, 'width': 68}
+2025-04-02 13:20:58,134 - DEBUG - Target click coordinates: (1121, 3233)
+2025-04-02 13:21:08,838 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 13:21:08,840 - DEBUG - Moving mouse to text box element.
+2025-04-02 13:21:08,841 - DEBUG - Clicking on the text box.
+2025-04-02 13:21:08,843 - DEBUG - Sending keys with content: Welcome! What kind of opportunities are you hoping to find here?
+
+2025-04-02 13:21:14,452 - DEBUG - Clicking on post reply button.
+2025-04-02 13:21:25,255 - DEBUG - Performed Actionchains
+2025-04-02 13:21:25,256 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 13:21:29,257 - INFO - Comment posted successfully.
+2025-04-02 13:21:29,260 - INFO - Task Completed!!
+2025-04-02 13:21:35,638 - INFO - Navigated back to the homepage.
+2025-04-02 13:21:38,516 - INFO - Attempting to clear memory and resources.
+2025-04-02 13:21:38,548 - INFO - Garbage collection completed.
+2025-04-02 13:21:38,549 - INFO - Waiting for 2000 seconds before next execution.

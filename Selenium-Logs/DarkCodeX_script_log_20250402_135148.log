@@ -1,0 +1,43 @@
+2025-04-02 13:51:48,662 - INFO - Current time: 1743582108.6624799
+2025-04-02 13:51:48,664 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 13:51:48,667 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 13:51:48,669 - INFO - performing random action
+2025-04-02 13:51:48,671 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:51:48,674 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:51:48,675 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:51:50,330 - DEBUG - Page scrolled.
+2025-04-02 13:51:52,332 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:51:54,141 - DEBUG - Page scrolled.
+2025-04-02 13:51:56,143 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:51:58,070 - DEBUG - Page scrolled.
+2025-04-02 13:52:00,072 - DEBUG - Random scrolls complete.
+2025-04-02 13:52:00,073 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:52:00,074 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:01,788 - DEBUG - Page scrolled.
+2025-04-02 13:52:03,790 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:05,395 - DEBUG - Page scrolled.
+2025-04-02 13:52:07,398 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:08,930 - DEBUG - Page scrolled.
+2025-04-02 13:52:10,932 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:12,857 - DEBUG - Page scrolled.
+2025-04-02 13:52:14,858 - DEBUG - Random scrolls complete.
+2025-04-02 13:52:21,777 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-02 13:52:32,159 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:52:32,170 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-02 13:52:49,635 - INFO - Profile DarkCodeX: Pausing for 31.48 seconds...
+2025-04-02 13:53:21,116 - INFO - Profile DarkCodeX: Resuming...
+2025-04-02 13:53:21,150 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-02 13:53:21,153 - INFO - performing random action
+2025-04-02 13:53:21,154 - WARNING - Skipping thread processing due to no thread link being found in subforum.

@@ -1,0 +1,40 @@
+2025-04-02 13:48:07,237 - INFO - Current time: 1743581887.237724
+2025-04-02 13:48:07,240 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:48:07,242 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:48:07,244 - INFO - performing random action
+2025-04-02 13:48:07,249 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:48:07,250 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:48:07,252 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:08,514 - DEBUG - Page scrolled.
+2025-04-02 13:48:10,517 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:11,634 - DEBUG - Page scrolled.
+2025-04-02 13:48:13,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:14,911 - DEBUG - Page scrolled.
+2025-04-02 13:48:16,913 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:18,327 - DEBUG - Page scrolled.
+2025-04-02 13:48:20,329 - DEBUG - Random scrolls complete.
+2025-04-02 13:48:20,331 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:48:20,333 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:21,741 - DEBUG - Page scrolled.
+2025-04-02 13:48:23,743 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:25,735 - DEBUG - Page scrolled.
+2025-04-02 13:48:27,737 - DEBUG - Random scrolls complete.
+2025-04-02 13:48:34,577 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/video-production.170/
+2025-04-02 13:48:44,967 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:48:44,981 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-02 13:48:44,984 - INFO - Profile PhantomRoot: Window minimized. Pausing for 15.60 seconds...
+2025-04-02 13:49:00,586 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-02 13:49:00,589 - INFO - performing random action
+2025-04-02 13:49:00,591 - WARNING - Skipping thread processing due to no thread link being found in subforum.

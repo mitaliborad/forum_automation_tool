@@ -1,0 +1,118 @@
+2025-04-02 12:39:31,802 - INFO - Current time: 1743577771.8027513
+2025-04-02 12:39:31,804 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 12:39:31,805 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 12:39:31,806 - INFO - performing random action
+2025-04-02 12:39:31,807 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 12:39:31,807 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:39:31,808 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:33,466 - DEBUG - Page scrolled.
+2025-04-02 12:39:35,468 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:36,700 - DEBUG - Page scrolled.
+2025-04-02 12:39:38,702 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:39,723 - DEBUG - Page scrolled.
+2025-04-02 12:39:41,725 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:43,305 - DEBUG - Page scrolled.
+2025-04-02 12:39:45,307 - DEBUG - Random scrolls complete.
+2025-04-02 12:39:45,308 - DEBUG - Scrolling page 3 times.
+2025-04-02 12:39:45,309 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:46,337 - DEBUG - Page scrolled.
+2025-04-02 12:39:48,339 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:50,006 - DEBUG - Page scrolled.
+2025-04-02 12:39:52,009 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:53,227 - DEBUG - Page scrolled.
+2025-04-02 12:39:55,229 - DEBUG - Random scrolls complete.
+2025-04-02 12:40:04,020 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-04-02 12:40:08,234 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/reach-us-tiktok-proxy-sim-ive-read-100-threads-and-still-in-doubt.1701113/unread
+2025-04-02 12:40:08,235 - INFO - performing random action
+2025-04-02 12:40:20,092 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/reach-us-tiktok-proxy-sim-ive-read-100-threads-and-still-in-doubt.1701113/unread
+2025-04-02 12:40:20,093 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/reach-us-tiktok-proxy-sim-ive-read-100-threads-and-still-in-doubt.1701113/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 12:40:20,134 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-02 12:40:20,134 - DEBUG - Scrolling page 2 times.
+2025-04-02 12:40:20,135 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:40:21,267 - DEBUG - Page scrolled.
+2025-04-02 12:40:23,269 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:40:25,037 - DEBUG - Page scrolled.
+2025-04-02 12:40:27,038 - DEBUG - Random scrolls complete.
+2025-04-02 12:40:29,823 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:40:29,824 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:40:32,775 - DEBUG - Page scrolled.
+2025-04-02 12:40:35,777 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:40:37,779 - DEBUG - Page scrolled.
+2025-04-02 12:40:40,781 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:40:41,878 - DEBUG - Page scrolled.
+2025-04-02 12:40:44,881 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:40:45,965 - DEBUG - Page scrolled.
+2025-04-02 12:40:48,967 - DEBUG - Random scrolls complete.
+2025-04-02 12:40:48,997 - DEBUG - Found 4 like buttons.
+2025-04-02 12:40:51,998 - INFO - Attempting to like 2 posts. There are 4 available.
+2025-04-02 12:40:52,631 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:40:52,657 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:40:52,659 - DEBUG - Liked post number 1 of 2.
+2025-04-02 12:40:57,298 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:40:57,318 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:40:57,321 - DEBUG - Liked post number 2 of 2.
+2025-04-02 12:41:01,613 - INFO - Liked 2 posts successfully.
+2025-04-02 12:41:01,615 - INFO - Liked 2 posts successfully.
+2025-04-02 12:41:03,734 - INFO - performing random action
+2025-04-02 12:41:03,736 - DEBUG - Scrolling page 6 times.
+2025-04-02 12:41:03,737 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:41:05,126 - DEBUG - Page scrolled.
+2025-04-02 12:41:08,129 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:41:09,802 - DEBUG - Page scrolled.
+2025-04-02 12:41:12,804 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:41:13,963 - DEBUG - Page scrolled.
+2025-04-02 12:41:16,965 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:41:18,311 - DEBUG - Page scrolled.
+2025-04-02 12:41:21,313 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:41:22,391 - DEBUG - Page scrolled.
+2025-04-02 12:41:25,393 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:41:27,164 - DEBUG - Page scrolled.
+2025-04-02 12:41:30,166 - DEBUG - Random scrolls complete.
+2025-04-02 12:41:32,539 - DEBUG - Total comments in the thread: 4
+2025-04-02 12:41:53,682 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-02 12:41:56,077 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 12:41:56,108 - DEBUG - Extracted main post content: I need to do TikTok marketing for some apps, never did this before but in the last few weeks I've read a lot of content from multiple sources and some threads here in BHW were the most helpful one.
+
+But, the problem is that after reading +100 threads I still don't get what's the best setup.
+
+Some people say the best is to use Mobile Proxies with rotating IPs, other say static Residential Proxies are the best, others say you shouldn't use proxy and instead use just a US e-SIM...
+
+What I already know:
+- I bought an used iPhone from eBay
+- I will factory reset it with a new US Apple ID
+- I will have a maximum of 3 accounts per platform per device
+- I will create a brand new TikTok account and warm it up interacting like a user for a week with my target audience
+
+Questions:
+- Residential Proxy vs. Mobile Proxy ? Should I use static or let the IPs rotate?
+- Is it ok to use pay-per-GB proxy provider?
+- Can I use cheaper proxy providers although with good ratings(Soax, Evomi, DataImpulse)?
+- If I use a proxy will I still need a us e-SIM? Even if I create the TT account with email instead of phone number?
+- The best way to setup the proxy is using apps like Shadowrocket or on the network itself?
+
+This forum is really helpful, thanks!
+2025-04-02 12:42:00,387 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 12:42:00,390 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 12:42:03,073 - INFO - performing random action
+2025-04-02 12:42:03,075 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:42:03,078 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:42:03,094 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:42:03,142 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:42:03,152 - DEBUG - Text box scrolled into view
+2025-04-02 12:42:03,870 - DEBUG - Initializing actionchains
+2025-04-02 12:42:03,906 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3069}, size: {'height': 21, 'width': 68}
+2025-04-02 12:42:03,906 - DEBUG - Target click coordinates: (1121, 3079)
+2025-04-02 12:42:13,386 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 12:42:13,388 - DEBUG - Moving mouse to text box element.
+2025-04-02 12:42:13,390 - DEBUG - Clicking on the text box.
+2025-04-02 12:42:13,392 - DEBUG - Sending keys with content: Forget the proxy rabbit hole for now. Focus on creating killer content that resonates, then scale with e-SIMs if needed.
+
+2025-04-02 12:42:18,926 - DEBUG - Clicking on post reply button.
+2025-04-02 12:42:29,581 - DEBUG - Performed Actionchains
+2025-04-02 12:42:29,583 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 12:42:33,586 - INFO - Comment posted successfully.
+2025-04-02 12:42:33,587 - INFO - Task Completed!!
+2025-04-02 12:42:45,461 - INFO - Navigated back to the homepage.
+2025-04-02 12:42:47,958 - INFO - Attempting to clear memory and resources.
+2025-04-02 12:42:47,988 - INFO - Garbage collection completed.
+2025-04-02 12:42:47,989 - INFO - Waiting for 2000 seconds before next execution.

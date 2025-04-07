@@ -1,0 +1,43 @@
+2025-04-02 14:05:06,315 - INFO - Current time: 1743582906.3153973
+2025-04-02 14:05:06,316 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 14:05:06,318 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 14:05:06,319 - INFO - Profile PhantomRoot: Pausing for 46.54 seconds...
+2025-04-02 14:05:52,860 - INFO - Profile PhantomRoot: Resuming...
+2025-04-02 14:05:52,861 - INFO - performing random action
+2025-04-02 14:05:52,863 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 14:05:52,864 - DEBUG - Scrolling page 4 times.
+2025-04-02 14:05:52,864 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:05:54,725 - DEBUG - Page scrolled.
+2025-04-02 14:05:56,729 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:05:57,868 - DEBUG - Page scrolled.
+2025-04-02 14:05:59,871 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:06:01,189 - DEBUG - Page scrolled.
+2025-04-02 14:06:03,191 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:06:04,309 - DEBUG - Page scrolled.
+2025-04-02 14:06:06,311 - DEBUG - Random scrolls complete.
+2025-04-02 14:06:06,313 - DEBUG - Scrolling page 4 times.
+2025-04-02 14:06:06,315 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:06:07,906 - DEBUG - Page scrolled.
+2025-04-02 14:06:09,908 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:06:11,105 - DEBUG - Page scrolled.
+2025-04-02 14:06:13,108 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:06:14,506 - DEBUG - Page scrolled.
+2025-04-02 14:06:16,508 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:06:18,261 - DEBUG - Page scrolled.
+2025-04-02 14:06:20,263 - DEBUG - Random scrolls complete.
+2025-04-02 14:06:27,134 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/instagram.215/
+2025-04-02 14:06:37,469 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 14:06:37,482 - INFO - performing random action
+2025-04-02 14:06:37,483 - WARNING - Skipping thread processing due to no thread link being found in subforum.

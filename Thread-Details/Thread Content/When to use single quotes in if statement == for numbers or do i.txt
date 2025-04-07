@@ -1,0 +1,113 @@
+--- Main Post Title ---
+When to use single quotes in if statement == for numbers or do i?
+
+Total comments in the thread: 7
+
+Topic User: superaff1984
+Topic: I have a question, I can't recall, but when using if statements. I know when using == towards letters you have to use single quotes. For example if(variable == 'dog'){ this is true}
+
+However, are numbers different. I think this code below would execute to true if the $starcard variable matched the number or do I need to put the number into single quotes?
+
+Clearly, I am going to test it, but just making sure to avoid any issues.
+
+if($strcard == 533248){
+will be true?
+}else{}
+Liked by: PhantomRoot
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Steptoe
+Topic: Single quotes shouldn't be needed when matching numbers like that. But there are many different programming languages out there - there might be one where they are needed. So like you say, just test anyway.
+LINKDEXING The Link Indexer that WorksUpto 90% Indexing Rate.
+Many people have improved their rankings with these strong PBN links
+Bulk do-follow contextual links from unique platforms (33% discount for BHW members) ➜
+Liked by: You, PhantomRoot
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: SolicitingHamster
+Topic: superaff1984 said:
+I have a question, I can't recall, but when using if statements. I know when using == towards letters you have to use single quotes. For example if(variable == 'dog'){ this is true}
+
+However, are numbers different. I think this code below would execute to true if the $starcard variable matched the number or do I need to put the number into single quotes?
+
+Clearly, I am going to test it, but just making sure to avoid any issues.
+
+if($strcard == 533248){
+will be true?
+}else{}
+Click to expand...
+Is this PHP?
+
+Figured you probably know the answer by now, but just in case anyone else is interested, you can use the == operator on both strings (the letters in your example) and numbers.
+
+You should not put the 533248 value in quotes as it'll then be a string. Strings and numbers are different data types in programming languages, so you'd want to omit the quotes for the number, just like you have in your example.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Assclown
+Topic: superaff1984 said:
+I have a question, I can't recall, but when using if statements. I know when using == towards letters you have to use single quotes. For example if(variable == 'dog'){ this is true}
+
+However, are numbers different. I think this code below would execute to true if the $starcard variable matched the number or do I need to put the number into single quotes?
+
+Clearly, I am going to test it, but just making sure to avoid any issues.
+
+if($strcard == 533248){
+will be true?
+}else{}
+Click to expand...
+I am not a "php" guy, but you might want to relook at data types in the programming language. == is just a loose equality checker
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: PhantomRoot
+Topic: Yep, numbers are different; you don't need the single quotes there.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Duda Soft
+Topic: 
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: CyberHR
+Topic: You're absolutely on the right track! No need for single quotes around numbers—PHP can handle that like a champ.
+
+So, your if($strcard == 533248) will indeed be true if $strcard holds the number 533248, even if it's a string like "533248", because PHP will do some loose comparison magic and convert it for you.
+
+But if you want to be extra strict (like a teacher checking homework with a magnifying glass), use === instead of ==. That way, it’ll only return true if $strcard is exactly the same type and value (i.e., an integer, not a string).
+
+So:
+if($strcard == 533248) {} → Works fine (loose comparison)
+if($strcard === 533248) {} → Works, but only if $strcard is really an integer
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

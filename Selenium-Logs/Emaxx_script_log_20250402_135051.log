@@ -1,0 +1,33 @@
+2025-04-02 13:50:51,647 - INFO - Current time: 1743582051.6473165
+2025-04-02 13:50:51,648 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:50:51,648 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:50:51,649 - INFO - performing random action
+2025-04-02 13:50:51,650 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:50:51,651 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:50:51,651 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:50:53,046 - DEBUG - Page scrolled.
+2025-04-02 13:50:55,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:50:56,951 - DEBUG - Page scrolled.
+2025-04-02 13:50:58,953 - DEBUG - Random scrolls complete.
+2025-04-02 13:50:58,956 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:50:58,957 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:51:00,747 - DEBUG - Page scrolled.
+2025-04-02 13:51:02,748 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:51:04,365 - DEBUG - Page scrolled.
+2025-04-02 13:51:06,367 - DEBUG - Random scrolls complete.
+2025-04-02 13:51:13,168 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-04-02 13:51:23,487 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:51:23,493 - INFO - performing random action
+2025-04-02 13:51:23,494 - WARNING - Skipping thread processing due to no thread link being found in subforum.

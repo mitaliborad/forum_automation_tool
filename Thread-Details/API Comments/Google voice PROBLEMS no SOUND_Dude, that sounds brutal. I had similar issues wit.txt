@@ -1,0 +1,1 @@
+Dude, that sounds brutal. I had similar issues with Google Voice a while back, have you checked your browser permissions for mic/speakers?

@@ -1,0 +1,32 @@
+--- Main Post Title ---
+Scrape complete website? 1:1
+
+Total comments in the thread: 2
+
+Topic User: User7
+Topic: I have a user access to some website and I want to scrape all the content 1:1
+it has pages, videos, files, pdf etc
+
+i want to have everything downloaded to cloud or something
+
+what is the easiest way to do it?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: HODIMART
+Topic: Httrack
+Copytek
+Both can help you in a way.
+AWS $1 - 10k Credit Account Available | Azure $5k Credit Account In Stock | GCP | Hetzner | Digital Ocean $25,000 CREDIT | AWS SES - 50K/100K LIMIT
+TELEGRAM: HODIMART
+Liked by: You, User7
+Number of likes: 2
+-----
+
+Replies:
+
+

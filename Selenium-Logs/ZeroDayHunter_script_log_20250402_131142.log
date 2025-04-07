@@ -1,0 +1,109 @@
+2025-04-02 13:11:42,902 - INFO - Current time: 1743579702.9019444
+2025-04-02 13:11:42,904 - INFO - Token expiration time: 1743583576.8093786
+2025-04-02 13:11:42,907 - INFO - Token expiration time: 1743583576.8093786
+2025-04-02 13:11:42,909 - INFO - Profile ZeroDayHunter: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-02 13:11:51,535 - INFO - Profile ZeroDayHunter: Pausing for 40.69 seconds...
+2025-04-02 13:12:32,234 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-02 13:12:32,282 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-02 13:12:32,284 - INFO - performing random action
+2025-04-02 13:12:32,286 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:12:32,288 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:12:32,288 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:34,078 - DEBUG - Page scrolled.
+2025-04-02 13:12:36,080 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:38,084 - DEBUG - Page scrolled.
+2025-04-02 13:12:40,086 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:41,480 - DEBUG - Page scrolled.
+2025-04-02 13:12:43,483 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:44,656 - DEBUG - Page scrolled.
+2025-04-02 13:12:46,658 - DEBUG - Random scrolls complete.
+2025-04-02 13:12:46,659 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:12:46,659 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:48,406 - DEBUG - Page scrolled.
+2025-04-02 13:12:50,409 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:51,853 - DEBUG - Page scrolled.
+2025-04-02 13:12:53,855 - DEBUG - Random scrolls complete.
+2025-04-02 13:13:02,260 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-04-02 13:13:06,746 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/are-twitter-panels-still-a-thing.1700374/unread
+2025-04-02 13:13:06,748 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-02 13:13:08,749 - INFO - performing random action
+2025-04-02 13:13:17,296 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/are-twitter-panels-still-a-thing.1700374/unread
+2025-04-02 13:13:17,302 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/are-twitter-panels-still-a-thing.1700374/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 13:13:17,350 - INFO - Extracted thread title: Are Twitter Panels Still A Thing
+2025-04-02 13:13:17,351 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:13:17,351 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:19,112 - DEBUG - Page scrolled.
+2025-04-02 13:13:21,115 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:22,740 - DEBUG - Page scrolled.
+2025-04-02 13:13:24,741 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:26,347 - DEBUG - Page scrolled.
+2025-04-02 13:13:28,350 - DEBUG - Random scrolls complete.
+2025-04-02 13:13:31,142 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:13:31,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:32,179 - DEBUG - Page scrolled.
+2025-04-02 13:13:35,181 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:36,323 - DEBUG - Page scrolled.
+2025-04-02 13:13:39,331 - DEBUG - Random scrolls complete.
+2025-04-02 13:13:39,396 - DEBUG - Found 5 like buttons.
+2025-04-02 13:13:42,397 - INFO - Attempting to like 4 posts. There are 5 available.
+2025-04-02 13:13:43,190 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:13:43,244 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:13:43,245 - DEBUG - Liked post number 1 of 4.
+2025-04-02 13:13:48,531 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:13:48,542 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:13:48,543 - DEBUG - Liked post number 2 of 4.
+2025-04-02 13:13:53,237 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:13:53,268 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:13:53,268 - DEBUG - Liked post number 3 of 4.
+2025-04-02 13:13:58,615 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:13:58,633 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:13:58,635 - DEBUG - Liked post number 4 of 4.
+2025-04-02 13:14:03,326 - INFO - Liked 4 posts successfully.
+2025-04-02 13:14:03,330 - INFO - Liked 4 posts successfully.
+2025-04-02 13:14:06,053 - INFO - performing random action
+2025-04-02 13:14:06,054 - DEBUG - Scrolling page 6 times.
+2025-04-02 13:14:06,055 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:07,795 - DEBUG - Page scrolled.
+2025-04-02 13:14:10,798 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:12,415 - DEBUG - Page scrolled.
+2025-04-02 13:14:15,417 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:16,851 - DEBUG - Page scrolled.
+2025-04-02 13:14:19,852 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:21,544 - DEBUG - Page scrolled.
+2025-04-02 13:14:24,546 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:25,934 - DEBUG - Page scrolled.
+2025-04-02 13:14:28,936 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:30,926 - DEBUG - Page scrolled.
+2025-04-02 13:14:33,928 - DEBUG - Random scrolls complete.
+2025-04-02 13:14:36,820 - DEBUG - Total comments in the thread: 5
+2025-04-02 13:14:47,648 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Are Twitter Panels Still A Thing.txt
+2025-04-02 13:14:49,816 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 13:14:49,862 - DEBUG - Extracted main post content: I remember years ago when you could pay someone that had a tweet deck with big accounts on it to all retweet your tweet and it would drive a lot of traffic to your page.
+
+Is something like that still around?
+2025-04-02 13:14:54,724 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 13:14:54,735 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 13:14:57,144 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-02 13:14:59,149 - INFO - performing random action
+2025-04-02 13:14:59,151 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:14:59,155 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:14:59,191 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:14:59,237 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:14:59,245 - DEBUG - Text box scrolled into view
+2025-04-02 13:15:00,156 - DEBUG - Initializing actionchains
+2025-04-02 13:15:00,183 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2480}, size: {'height': 21, 'width': 68}
+2025-04-02 13:15:00,184 - DEBUG - Target click coordinates: (1121, 2490)
+2025-04-02 13:15:08,989 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 13:15:08,991 - DEBUG - Moving mouse to text box element.
+2025-04-02 13:15:08,993 - DEBUG - Clicking on the text box.
+2025-04-02 13:15:08,996 - DEBUG - Sending keys with content: Things have changed, but influencers still pack a punch. Have you thought about micro-influencers in your niche instead of those big accounts?
+
+2025-04-02 13:15:14,398 - DEBUG - Clicking on post reply button.
+2025-04-02 13:15:15,661 - DEBUG - Performed Actionchains
+2025-04-02 13:15:15,661 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 13:15:19,663 - INFO - Comment posted successfully.
+2025-04-02 13:15:19,665 - INFO - Task Completed!!
+2025-04-02 13:15:23,650 - INFO - Navigated back to the homepage.
+2025-04-02 13:15:26,535 - INFO - Attempting to clear memory and resources.
+2025-04-02 13:15:26,567 - INFO - Garbage collection completed.
+2025-04-02 13:15:26,568 - INFO - Waiting for 2000 seconds before next execution.

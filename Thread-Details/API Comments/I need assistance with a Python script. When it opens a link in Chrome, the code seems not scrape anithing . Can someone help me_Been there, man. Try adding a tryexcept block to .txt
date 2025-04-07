@@ -1,0 +1,1 @@
+Been there, man. Try adding a try/except block to specifically handle that popup – might need to find the accept button element and click it before proceeding with the scrape.

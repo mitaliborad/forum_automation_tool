@@ -1,0 +1,40 @@
+2025-04-02 14:10:17,660 - INFO - Current time: 1743583217.6608233
+2025-04-02 14:10:17,662 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 14:10:17,663 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 14:10:17,665 - INFO - Profile Emaxx: Restoring window...
+2025-04-02 14:10:19,676 - INFO - performing random action
+2025-04-02 14:10:19,679 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 14:10:19,682 - DEBUG - Scrolling page 3 times.
+2025-04-02 14:10:19,683 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:10:20,868 - DEBUG - Page scrolled.
+2025-04-02 14:10:22,872 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:10:23,942 - DEBUG - Page scrolled.
+2025-04-02 14:10:25,946 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:10:27,145 - DEBUG - Page scrolled.
+2025-04-02 14:10:29,147 - DEBUG - Random scrolls complete.
+2025-04-02 14:10:29,149 - DEBUG - Scrolling page 3 times.
+2025-04-02 14:10:29,151 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:10:30,877 - DEBUG - Page scrolled.
+2025-04-02 14:10:32,879 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:10:34,429 - DEBUG - Page scrolled.
+2025-04-02 14:10:36,431 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:10:38,333 - DEBUG - Page scrolled.
+2025-04-02 14:10:40,336 - DEBUG - Random scrolls complete.
+2025-04-02 14:10:47,253 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-02 14:10:57,775 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 14:10:57,781 - INFO - Profile Emaxx: Pausing for 49.51 seconds...
+2025-04-02 14:11:47,293 - INFO - Profile Emaxx: Resuming...
+2025-04-02 14:11:47,296 - INFO - performing random action
+2025-04-02 14:11:47,298 - WARNING - Skipping thread processing due to no thread link being found in subforum.

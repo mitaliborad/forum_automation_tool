@@ -1,0 +1,110 @@
+2025-04-02 13:48:46,572 - INFO - Current time: 1743581926.5728602
+2025-04-02 13:48:46,575 - INFO - Token expiration time: 1743583576.8093786
+2025-04-02 13:48:46,577 - INFO - Token expiration time: 1743583576.8093786
+2025-04-02 13:48:46,580 - INFO - performing random action
+2025-04-02 13:48:46,582 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:48:46,584 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:48:46,586 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:47,782 - DEBUG - Page scrolled.
+2025-04-02 13:48:49,784 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:50,922 - DEBUG - Page scrolled.
+2025-04-02 13:48:52,924 - DEBUG - Random scrolls complete.
+2025-04-02 13:48:52,927 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:48:52,929 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:54,472 - DEBUG - Page scrolled.
+2025-04-02 13:48:56,474 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:58,243 - DEBUG - Page scrolled.
+2025-04-02 13:49:00,245 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:49:02,046 - DEBUG - Page scrolled.
+2025-04-02 13:49:04,048 - DEBUG - Random scrolls complete.
+2025-04-02 13:49:15,658 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-04-02 13:49:19,809 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/decode-a-single-file.1676563/
+2025-04-02 13:49:19,810 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-02 13:49:21,812 - INFO - performing random action
+2025-04-02 13:49:30,021 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/decode-a-single-file.1676563/
+2025-04-02 13:49:30,024 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/decode-a-single-file.1676563/' to visited threads file 'Thread_links.txt'.
+2025-04-02 13:49:30,073 - INFO - Extracted thread title: Decode a single file
+2025-04-02 13:49:30,074 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:49:30,075 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:49:31,950 - DEBUG - Page scrolled.
+2025-04-02 13:49:33,952 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:49:35,681 - DEBUG - Page scrolled.
+2025-04-02 13:49:37,683 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:49:39,319 - DEBUG - Page scrolled.
+2025-04-02 13:49:41,322 - DEBUG - Random scrolls complete.
+2025-04-02 13:49:44,109 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:49:44,111 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:49:45,483 - DEBUG - Page scrolled.
+2025-04-02 13:49:48,485 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:49:50,128 - DEBUG - Page scrolled.
+2025-04-02 13:49:53,130 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:49:54,546 - DEBUG - Page scrolled.
+2025-04-02 13:49:57,548 - DEBUG - Random scrolls complete.
+2025-04-02 13:49:57,566 - DEBUG - Found 1 like buttons.
+2025-04-02 13:50:00,567 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-02 13:50:01,586 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:50:01,613 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:50:01,615 - DEBUG - Liked post number 1 of 1.
+2025-04-02 13:50:05,892 - INFO - Liked 1 posts successfully.
+2025-04-02 13:50:05,894 - INFO - Liked 1 posts successfully.
+2025-04-02 13:50:07,927 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-02 13:50:07,932 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 27.09 seconds...
+2025-04-02 13:50:35,026 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-02 13:50:35,027 - INFO - performing random action
+2025-04-02 13:50:35,028 - DEBUG - Scrolling page 5 times.
+2025-04-02 13:50:35,029 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:50:36,212 - DEBUG - Page scrolled.
+2025-04-02 13:50:39,213 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:50:40,442 - DEBUG - Page scrolled.
+2025-04-02 13:50:43,443 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:50:45,268 - DEBUG - Page scrolled.
+2025-04-02 13:50:48,271 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:50:49,348 - DEBUG - Page scrolled.
+2025-04-02 13:50:52,350 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:50:54,245 - DEBUG - Page scrolled.
+2025-04-02 13:50:57,246 - DEBUG - Random scrolls complete.
+2025-04-02 13:50:59,804 - DEBUG - Total comments in the thread: 1
+2025-04-02 13:50:59,907 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Decode a single file.txt
+2025-04-02 13:51:02,544 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 13:51:02,585 - DEBUG - Extracted main post content: Hi everyone, I don't have PayPal for using easytoyou.eu website for decode my file
+Anyone can help me and decode this file for me? Plzzzz, tnx for your time
+Attachments
+functions.zip
+2025-04-02 13:51:06,301 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 13:51:06,305 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 13:51:09,292 - INFO - performing random action
+2025-04-02 13:51:09,294 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:51:09,296 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:51:09,321 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:51:09,364 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:51:09,371 - DEBUG - Text box scrolled into view
+2025-04-02 13:51:09,963 - DEBUG - Initializing actionchains
+2025-04-02 13:51:10,012 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1249}, size: {'height': 21, 'width': 68}
+2025-04-02 13:51:10,013 - DEBUG - Target click coordinates: (1121, 1259)
+2025-04-02 13:51:16,260 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 13:51:16,262 - DEBUG - Moving mouse to text box element.
+2025-04-02 13:51:16,263 - DEBUG - Clicking on the text box.
+2025-04-02 13:51:16,266 - DEBUG - Sending keys with content: Bummer about the PayPal issue. Maybe try a temp card from Privacy.com if you're comfortable with that, otherwise DM me the file and I'll see what I can do.
+
+2025-04-02 13:51:21,906 - DEBUG - Clicking on post reply button.
+2025-04-02 13:51:32,998 - DEBUG - Performed Actionchains
+2025-04-02 13:51:32,999 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 13:51:37,001 - INFO - Comment posted successfully.
+2025-04-02 13:51:37,003 - INFO - Task Completed!!
+2025-04-02 13:51:47,109 - INFO - Navigated back to the homepage.
+2025-04-02 13:51:49,962 - INFO - Attempting to clear memory and resources.
+2025-04-02 13:51:49,994 - INFO - Garbage collection completed.
+2025-04-02 13:51:49,996 - INFO - Waiting for 2000 seconds before next execution.
+2025-04-02 14:25:09,998 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-02 14:25:10,002 - INFO - Stopping browser for profile: ZeroDayHunter...
+2025-04-02 14:25:10,005 - INFO - Refreshing token before stopping profile...
+2025-04-02 14:25:10,007 - INFO - Refreshing token for ZeroDayHunter...
+2025-04-02 14:25:10,893 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-02 14:25:10,895 - INFO - Calculated token expiration time: 1743594910.8957717
+2025-04-02 14:25:10,897 - INFO - Profile ZeroDayHunter: Successfully logged in.
+2025-04-02 14:25:10,900 - INFO - Token refreshed successfully before stopping.
+2025-04-02 14:25:10,902 - INFO - Profile ZeroDayHunter: Attempting to stop (Attempt 1/3)...
+2025-04-02 14:25:10,917 - INFO - Profile ZeroDayHunter: Browser closed successfully in 0.01 seconds.
+2025-04-02 14:25:14,511 - INFO - Profile ZeroDayHunter: API call took 3.59 seconds.
+2025-04-02 14:25:14,512 - INFO - Profile ZeroDayHunter: Stopped successfully.
+2025-04-02 14:25:14,514 - INFO - Browser stopped successfully for profile: ZeroDayHunter.

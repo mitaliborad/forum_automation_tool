@@ -1,0 +1,1 @@
+Honestly, the biggest thing is making sure the business info matches *everything* you use – domain, bank account, etc. Cloaking's about showing Stripe a "safe" version of your site while real visitors see something else...dodgy ground, IMO.

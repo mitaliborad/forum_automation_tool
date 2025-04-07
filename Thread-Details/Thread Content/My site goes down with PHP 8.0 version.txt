@@ -1,7 +1,7 @@
 --- Main Post Title ---
 My site goes down with PHP 8.0 version
 
-Total comments in the thread: 3
+Total comments in the thread: 4
 
 Topic User: YoungNik
 Topic: Hi guys!
@@ -9,7 +9,7 @@ Topic: Hi guys!
 I have a WordPress adult site built with WP script. I have the PHP version at 7.2 and I should bring it to at least 7.4 but when I switch to the new ones my site goes down with the classic “ 404 error page not found” .
 I don’t know if is a problem with some plugin or the Retrotube theme that I’m using.
 I hope anyone can help me
-Liked by: No user likes
+Liked by: 
 Number of likes: 0
 -----
 
@@ -21,7 +21,7 @@ Topic: first thing i do before i google everything is rename my plugins folder, 
 you can quickly tick that off your list before you tackle anything else.
 The best WP themes I have ever used are with Themify. They have a great range and are all secure, updated, and affordable
 50 Slot Website Monitoring - Helps keep you alert of your uptime so you don't lose ranking
-Liked by: You
+Liked by: Emma xx
 Number of likes: 1
 -----
 
@@ -33,8 +33,17 @@ Topic: It’s likely your theme or plugins are incompatible with PHP 7.4. Start 
 Take Control of Your Traffic with Qliker.io
 Advanced Link Tracking | Click Rotators | ️ Bot Detection (QIQ)
 Start Your 14-Day Free Trial Today!
-Liked by: You
+Liked by: Emma xx
 Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: Probably one of your plugins hasn't been updated to support the newer PHP versions. Try deactivating them one by one to see if it fixes the issue.
+Liked by: No user likes
+Number of likes: 0
 -----
 
 Replies:

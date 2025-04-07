@@ -1,0 +1,33 @@
+2025-04-02 13:45:41,642 - INFO - Current time: 1743581741.6428132
+2025-04-02 13:45:41,644 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:45:41,645 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:45:41,646 - INFO - performing random action
+2025-04-02 13:45:41,648 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:45:41,648 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:45:41,649 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:45:43,206 - DEBUG - Page scrolled.
+2025-04-02 13:45:45,208 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:45:47,114 - DEBUG - Page scrolled.
+2025-04-02 13:45:49,116 - DEBUG - Random scrolls complete.
+2025-04-02 13:45:49,119 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:45:49,121 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:45:51,111 - DEBUG - Page scrolled.
+2025-04-02 13:45:53,113 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:45:54,156 - DEBUG - Page scrolled.
+2025-04-02 13:45:56,158 - DEBUG - Random scrolls complete.
+2025-04-02 13:46:02,997 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-02 13:46:13,411 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:46:13,428 - INFO - performing random action
+2025-04-02 13:46:13,430 - WARNING - Skipping thread processing due to no thread link being found in subforum.

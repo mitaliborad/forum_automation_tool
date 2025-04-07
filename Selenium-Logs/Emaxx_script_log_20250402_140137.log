@@ -1,0 +1,44 @@
+2025-04-02 14:01:37,379 - INFO - Current time: 1743582697.3790386
+2025-04-02 14:01:37,381 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 14:01:37,384 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 14:01:37,386 - INFO - Profile Emaxx: Pausing for 47.44 seconds...
+2025-04-02 14:02:24,829 - INFO - Profile Emaxx: Resuming...
+2025-04-02 14:02:24,832 - INFO - performing random action
+2025-04-02 14:02:24,834 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 14:02:24,836 - DEBUG - Scrolling page 4 times.
+2025-04-02 14:02:24,838 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:02:26,543 - DEBUG - Page scrolled.
+2025-04-02 14:02:28,544 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:02:30,368 - DEBUG - Page scrolled.
+2025-04-02 14:02:32,371 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:02:33,506 - DEBUG - Page scrolled.
+2025-04-02 14:02:35,507 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:02:37,468 - DEBUG - Page scrolled.
+2025-04-02 14:02:39,470 - DEBUG - Random scrolls complete.
+2025-04-02 14:02:39,472 - DEBUG - Scrolling page 4 times.
+2025-04-02 14:02:39,473 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:02:41,256 - DEBUG - Page scrolled.
+2025-04-02 14:02:43,259 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:02:45,128 - DEBUG - Page scrolled.
+2025-04-02 14:02:47,130 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:02:48,902 - DEBUG - Page scrolled.
+2025-04-02 14:02:50,904 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:02:52,519 - DEBUG - Page scrolled.
+2025-04-02 14:02:54,521 - DEBUG - Random scrolls complete.
+2025-04-02 14:03:01,336 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/local-seo.209/
+2025-04-02 14:03:11,717 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 14:03:11,731 - INFO - Profile Emaxx: Restoring window...
+2025-04-02 14:03:13,734 - INFO - performing random action
+2025-04-02 14:03:13,737 - WARNING - Skipping thread processing due to no thread link being found in subforum.

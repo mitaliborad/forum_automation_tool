@@ -1,0 +1,42 @@
+2025-04-02 13:26:14,768 - INFO - Current time: 1743580574.7684882
+2025-04-02 13:26:14,770 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:26:14,773 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:26:14,775 - INFO - performing random action
+2025-04-02 13:26:14,778 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:26:14,780 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:26:14,781 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:26:16,233 - DEBUG - Page scrolled.
+2025-04-02 13:26:18,234 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:26:19,491 - DEBUG - Page scrolled.
+2025-04-02 13:26:21,494 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:26:23,317 - DEBUG - Page scrolled.
+2025-04-02 13:26:25,319 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:26:27,005 - DEBUG - Page scrolled.
+2025-04-02 13:26:29,007 - DEBUG - Random scrolls complete.
+2025-04-02 13:26:29,009 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:26:29,011 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:26:30,592 - DEBUG - Page scrolled.
+2025-04-02 13:26:32,594 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:26:33,701 - DEBUG - Page scrolled.
+2025-04-02 13:26:35,702 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:26:37,653 - DEBUG - Page scrolled.
+2025-04-02 13:26:39,657 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:26:41,487 - DEBUG - Page scrolled.
+2025-04-02 13:26:43,490 - DEBUG - Random scrolls complete.
+2025-04-02 13:26:51,410 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-02 13:27:01,771 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:27:01,776 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-02 13:27:03,778 - INFO - performing random action
+2025-04-02 13:27:03,779 - WARNING - Skipping thread processing due to no thread link being found in subforum.

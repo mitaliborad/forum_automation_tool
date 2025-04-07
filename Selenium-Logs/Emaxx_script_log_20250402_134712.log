@@ -1,0 +1,41 @@
+2025-04-02 13:47:12,265 - INFO - Current time: 1743581832.265027
+2025-04-02 13:47:12,267 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:47:12,269 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:47:12,273 - INFO - Profile Emaxx: Opening random website: https://letshyphen.com/
+2025-04-02 13:47:28,929 - INFO - Profile Emaxx: Pausing for 32.92 seconds...
+2025-04-02 13:48:01,853 - INFO - Profile Emaxx: Resuming...
+2025-04-02 13:48:01,884 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 13:48:01,885 - INFO - performing random action
+2025-04-02 13:48:01,886 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:48:01,888 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:48:01,889 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:03,256 - DEBUG - Page scrolled.
+2025-04-02 13:48:05,258 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:07,067 - DEBUG - Page scrolled.
+2025-04-02 13:48:09,070 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:10,625 - DEBUG - Page scrolled.
+2025-04-02 13:48:12,627 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:14,436 - DEBUG - Page scrolled.
+2025-04-02 13:48:16,437 - DEBUG - Random scrolls complete.
+2025-04-02 13:48:16,438 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:48:16,439 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:17,883 - DEBUG - Page scrolled.
+2025-04-02 13:48:19,885 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:48:21,440 - DEBUG - Page scrolled.
+2025-04-02 13:48:23,442 - DEBUG - Random scrolls complete.
+2025-04-02 13:48:30,312 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-04-02 13:48:40,687 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:48:40,702 - INFO - performing random action
+2025-04-02 13:48:40,704 - WARNING - Skipping thread processing due to no thread link being found in subforum.

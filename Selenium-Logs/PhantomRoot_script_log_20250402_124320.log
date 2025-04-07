@@ -1,0 +1,88 @@
+2025-04-02 12:43:20,964 - INFO - Current time: 1743578000.9642317
+2025-04-02 12:43:20,967 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 12:43:20,970 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 12:43:20,971 - INFO - performing random action
+2025-04-02 12:43:20,972 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 12:43:20,973 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:43:20,974 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:43:22,844 - DEBUG - Page scrolled.
+2025-04-02 12:43:24,847 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:43:26,364 - DEBUG - Page scrolled.
+2025-04-02 12:43:28,366 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:43:29,971 - DEBUG - Page scrolled.
+2025-04-02 12:43:31,974 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:43:33,111 - DEBUG - Page scrolled.
+2025-04-02 12:43:35,114 - DEBUG - Random scrolls complete.
+2025-04-02 12:43:35,116 - DEBUG - Scrolling page 3 times.
+2025-04-02 12:43:35,117 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:43:36,194 - DEBUG - Page scrolled.
+2025-04-02 12:43:38,196 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:43:39,286 - DEBUG - Page scrolled.
+2025-04-02 12:43:41,288 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:43:42,426 - DEBUG - Page scrolled.
+2025-04-02 12:43:44,429 - DEBUG - Random scrolls complete.
+2025-04-02 12:43:52,539 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-02 12:43:56,906 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/who-still-has-a-myspace.396097/unread
+2025-04-02 12:43:56,908 - INFO - performing random action
+2025-04-02 12:44:06,786 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/who-still-has-a-myspace.396097/unread
+2025-04-02 12:44:06,791 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/who-still-has-a-myspace.396097/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 12:44:06,822 - INFO - Extracted thread title: Who still has a myspace
+2025-04-02 12:44:06,823 - DEBUG - Scrolling page 2 times.
+2025-04-02 12:44:06,823 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:44:07,854 - DEBUG - Page scrolled.
+2025-04-02 12:44:09,855 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:44:11,298 - DEBUG - Page scrolled.
+2025-04-02 12:44:13,301 - DEBUG - Random scrolls complete.
+2025-04-02 12:44:16,176 - DEBUG - Scrolling page 1 times.
+2025-04-02 12:44:16,178 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:44:17,704 - DEBUG - Page scrolled.
+2025-04-02 12:44:20,706 - DEBUG - Random scrolls complete.
+2025-04-02 12:44:20,735 - DEBUG - Found 20 like buttons.
+2025-04-02 12:44:23,736 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-02 12:44:24,266 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:44:24,285 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:44:24,286 - DEBUG - Liked post number 1 of 1.
+2025-04-02 12:44:29,274 - INFO - Liked 1 posts successfully.
+2025-04-02 12:44:29,275 - INFO - Liked 1 posts successfully.
+2025-04-02 12:44:31,555 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-02 12:44:33,562 - INFO - performing random action
+2025-04-02 12:44:33,563 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:44:33,563 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:44:35,202 - DEBUG - Page scrolled.
+2025-04-02 12:44:38,203 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:44:40,069 - DEBUG - Page scrolled.
+2025-04-02 12:44:43,071 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:44:44,738 - DEBUG - Page scrolled.
+2025-04-02 12:44:47,740 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:44:49,501 - DEBUG - Page scrolled.
+2025-04-02 12:44:52,504 - DEBUG - Random scrolls complete.
+2025-04-02 12:44:55,048 - DEBUG - Total comments in the thread: 20
+2025-04-02 12:48:06,609 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Who still has a myspace.txt
+2025-04-02 12:48:09,409 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 12:48:09,448 - DEBUG - Extracted main post content: So goodbye and good riddance to MySpace. Well, not ?good riddance,? exactly, because the service was sold and its new owners (an online ad agency named ?Specific Media? and Justin Timberlake) do intend to shock MySpace back into sinus rhythm, likely by refocusing it on its early successes as a platform for independent musicians. But its days as a player in conventional social networking are really most sincerely dead.
+2025-04-02 12:48:12,879 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 12:48:12,882 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 12:48:15,487 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-02 12:48:17,490 - INFO - performing random action
+2025-04-02 12:48:17,496 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:48:17,497 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:48:17,520 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:48:17,588 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:48:17,601 - DEBUG - Text box scrolled into view
+2025-04-02 12:48:18,496 - DEBUG - Initializing actionchains
+2025-04-02 12:48:18,541 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5824}, size: {'height': 21, 'width': 68}
+2025-04-02 12:48:18,542 - DEBUG - Target click coordinates: (1121, 5834)
+2025-04-02 12:48:33,011 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 12:48:33,013 - DEBUG - Moving mouse to text box element.
+2025-04-02 12:48:33,013 - DEBUG - Clicking on the text box.
+2025-04-02 12:48:33,014 - DEBUG - Sending keys with content: I'm more curious if anyone's actually going to *pay* to use it again, considering how many free options are out there now.
+
+2025-04-02 12:48:38,910 - DEBUG - Clicking on post reply button.
+2025-04-02 12:48:45,880 - DEBUG - Performed Actionchains
+2025-04-02 12:48:45,881 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 12:48:49,883 - INFO - Comment posted successfully.
+2025-04-02 12:48:49,885 - INFO - Task Completed!!
+2025-04-02 12:48:59,963 - INFO - Navigated back to the homepage.
+2025-04-02 12:49:02,692 - INFO - Attempting to clear memory and resources.
+2025-04-02 12:49:02,745 - INFO - Garbage collection completed.
+2025-04-02 12:49:02,747 - INFO - Waiting for 2000 seconds before next execution.

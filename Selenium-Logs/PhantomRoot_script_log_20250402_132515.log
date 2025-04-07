@@ -1,0 +1,36 @@
+2025-04-02 13:25:15,549 - INFO - Current time: 1743580515.549641
+2025-04-02 13:25:15,551 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:25:15,553 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:25:15,555 - INFO - performing random action
+2025-04-02 13:25:15,558 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:25:15,560 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:25:15,561 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:25:17,526 - DEBUG - Page scrolled.
+2025-04-02 13:25:19,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:25:21,318 - DEBUG - Page scrolled.
+2025-04-02 13:25:23,320 - DEBUG - Random scrolls complete.
+2025-04-02 13:25:23,322 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:25:23,323 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:25:25,088 - DEBUG - Page scrolled.
+2025-04-02 13:25:27,090 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:25:28,304 - DEBUG - Page scrolled.
+2025-04-02 13:25:30,307 - DEBUG - Random scrolls complete.
+2025-04-02 13:25:37,243 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-02 13:25:47,625 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:25:47,632 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-02 13:25:47,633 - INFO - Profile PhantomRoot: Window minimized. Pausing for 27.12 seconds...
+2025-04-02 13:26:14,756 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-02 13:26:14,758 - INFO - performing random action
+2025-04-02 13:26:14,761 - WARNING - Skipping thread processing due to no thread link being found in subforum.

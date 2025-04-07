@@ -1,0 +1,69 @@
+--- Main Post Title ---
+Keeping Stripe Stealth Account Safe
+
+Total comments in the thread: 6
+
+Topic User: ightttttt
+Topic: Im buying a stripe stealth how do i minimize the chance of a suspension etc , people talk about cloaking your idk what they mean by that
+people with experience pls lmk
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: rookerycarry
+Topic: ightttttt said:
+Im buying a stripe stealth how do i minimize the chance of a suspension etc , people talk about cloaking your idk what they mean by that
+people with experience pls lmk
+Cloaking usually means masking your site’s true purpose from payment processors, but it’s risky (and against most TOS). Better to play it safe: keep transactions transparent, use clear billing descriptors, and avoid sudden spikes in activity. Double-check your biz complies with Stripe’s policies. If you’re in a gray area, maybe chat with a dev who’s navigated this before.
+Liked by: RichMedusa
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: What is your niche? If you are dealing with black hat industries, you need to cloak your website to prevent Stripe to find out you are involved in unsupported businesses. This will protect your account and avoid bans.
+Liked by: MR.Spuf, mmikaal
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: ightttttt
+Topic: RichMedusa said:
+What is your niche? If you are dealing with black hat industries, you need to cloak your website to prevent Stripe to find out you are involved in unsupported businesses. This will protect your account and avoid bans.
+I'd say its whitehat, i have someone elses running the same business with stripe and they've been fine. Anymore advice?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: debbyodo
+Topic: RichMedusa said:
+What is your niche? If you are dealing with black hat industries, you need to cloak your website to prevent Stripe to find out you are involved in unsupported businesses. This will protect your account and avoid bans.
+If you use stripe against the TOS, you will be liable to being banned which sooner or later. One should also be willing to accept his fate when it is fannaly banned when used for blackhat purposes
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: ightttttt said:
+I'd say its whitehat, i have someone elses running the same business with stripe and they've been fine. Anymore advice?
+Well, if it's a white hat industry, you should be fine. Just make sure to hide your fingerprints. Do not use IDs, domains, bank accounts, phone numbers or emails previously linked to banned accounts
+Liked by: MR.Spuf, ightttttt
+Number of likes: 2
+-----
+
+Replies:
+
+

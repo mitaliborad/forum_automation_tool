@@ -1,0 +1,33 @@
+--- Main Post Title ---
+I need assistance with a Python script. When it opens a link in Chrome, the code seems not scrape anithing . Can someone help me
+
+Total comments in the thread: 2
+
+Topic User: vittorianicolosi1994
+Topic: i cannot scrape the website due the " privacy and trasparency accept to continue (image ) .
+it should scrapes website ,it is python code use selenium undetected chromedriver
+
+
+I was new to web scraping and I was trying to create a scraper which scarpe data and otput json file.
+
+
+It 's not worked. But idk the problem
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: daddybot
+Topic: use bs4 (BeautifulSoup) to parser html
+Python:
+html = bs4(driver.page_source, "html.parser")
+High-Performance VPS & Dedicated Servers – Blazing Fast, Secure, & Affordable!
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+

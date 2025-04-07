@@ -1,0 +1,44 @@
+2025-04-02 13:53:00,039 - INFO - Current time: 1743582180.0390446
+2025-04-02 13:53:00,039 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:53:00,040 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:53:00,040 - INFO - performing random action
+2025-04-02 13:53:00,041 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:53:00,041 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:53:00,042 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:53:02,003 - DEBUG - Page scrolled.
+2025-04-02 13:53:04,007 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:53:05,742 - DEBUG - Page scrolled.
+2025-04-02 13:53:07,745 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:53:09,138 - DEBUG - Page scrolled.
+2025-04-02 13:53:11,141 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:53:12,393 - DEBUG - Page scrolled.
+2025-04-02 13:53:14,395 - DEBUG - Random scrolls complete.
+2025-04-02 13:53:14,397 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:53:14,399 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:53:16,259 - DEBUG - Page scrolled.
+2025-04-02 13:53:18,261 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:53:19,528 - DEBUG - Page scrolled.
+2025-04-02 13:53:21,530 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:53:22,865 - DEBUG - Page scrolled.
+2025-04-02 13:53:24,867 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:53:26,638 - DEBUG - Page scrolled.
+2025-04-02 13:53:28,640 - DEBUG - Random scrolls complete.
+2025-04-02 13:53:35,436 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-04-02 13:53:45,808 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:53:45,823 - INFO - Profile Emaxx: Minimizing window...
+2025-04-02 13:53:45,826 - INFO - Profile Emaxx: Window minimized. Pausing for 16.55 seconds...
+2025-04-02 13:54:02,374 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-02 13:54:02,376 - INFO - performing random action
+2025-04-02 13:54:02,379 - WARNING - Skipping thread processing due to no thread link being found in subforum.

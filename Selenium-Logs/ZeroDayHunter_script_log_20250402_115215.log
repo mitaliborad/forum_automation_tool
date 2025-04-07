@@ -1,0 +1,100 @@
+2025-04-02 11:52:15,482 - INFO - Current time: 1743574935.4827583
+2025-04-02 11:52:15,485 - INFO - Token expiration time: 1743583576.8093786
+2025-04-02 11:52:15,487 - INFO - Token expiration time: 1743583576.8093786
+2025-04-02 11:52:15,490 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-02 11:52:15,508 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 19.95 seconds...
+2025-04-02 11:52:35,457 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-02 11:52:35,458 - INFO - performing random action
+2025-04-02 11:52:35,460 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 11:52:35,462 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:52:35,464 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:52:36,974 - DEBUG - Page scrolled.
+2025-04-02 11:52:38,977 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:52:40,384 - DEBUG - Page scrolled.
+2025-04-02 11:52:42,386 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:52:43,773 - DEBUG - Page scrolled.
+2025-04-02 11:52:45,775 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:52:47,691 - DEBUG - Page scrolled.
+2025-04-02 11:52:49,693 - DEBUG - Random scrolls complete.
+2025-04-02 11:52:49,693 - DEBUG - Scrolling page 2 times.
+2025-04-02 11:52:49,694 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:52:51,462 - DEBUG - Page scrolled.
+2025-04-02 11:52:53,465 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:52:55,293 - DEBUG - Page scrolled.
+2025-04-02 11:52:57,295 - DEBUG - Random scrolls complete.
+2025-04-02 11:53:14,778 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-02 11:53:19,449 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/wise-were-closing-your-account-on-may-xx-please-take-your-money-out-before-it-closes.1687726/unread
+2025-04-02 11:53:19,451 - INFO - performing random action
+2025-04-02 11:53:31,508 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/wise-were-closing-your-account-on-may-xx-please-take-your-money-out-before-it-closes.1687726/unread
+2025-04-02 11:53:31,512 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/wise-were-closing-your-account-on-may-xx-please-take-your-money-out-before-it-closes.1687726/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 11:53:31,557 - INFO - Extracted thread title: Wise We're closing your account on May XX. Please take your money out before it closes.
+2025-04-02 11:53:31,559 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:53:31,559 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:33,543 - DEBUG - Page scrolled.
+2025-04-02 11:53:35,545 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:37,221 - DEBUG - Page scrolled.
+2025-04-02 11:53:39,223 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:41,035 - DEBUG - Page scrolled.
+2025-04-02 11:53:43,038 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:44,179 - DEBUG - Page scrolled.
+2025-04-02 11:53:46,181 - DEBUG - Random scrolls complete.
+2025-04-02 11:53:48,763 - DEBUG - Scrolling page 1 times.
+2025-04-02 11:53:48,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:50,763 - DEBUG - Page scrolled.
+2025-04-02 11:53:53,765 - DEBUG - Random scrolls complete.
+2025-04-02 11:53:53,785 - DEBUG - Found 11 like buttons.
+2025-04-02 11:53:56,785 - INFO - Attempting to like 1 posts. There are 11 available.
+2025-04-02 11:53:57,341 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:53:57,357 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:53:57,358 - DEBUG - Liked post number 1 of 1.
+2025-04-02 11:54:02,154 - INFO - Liked 1 posts successfully.
+2025-04-02 11:54:02,155 - INFO - Liked 1 posts successfully.
+2025-04-02 11:54:04,585 - INFO - Profile ZeroDayHunter: Opening random website: https://www.canva.com/en_in/
+2025-04-02 11:54:42,821 - INFO - Profile ZeroDayHunter: Pausing for 33.92 seconds...
+2025-04-02 11:55:16,747 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-02 11:55:16,775 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-02 11:55:16,776 - INFO - performing random action
+2025-04-02 11:55:16,776 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:55:16,777 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:55:18,675 - DEBUG - Page scrolled.
+2025-04-02 11:55:21,678 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:55:23,376 - DEBUG - Page scrolled.
+2025-04-02 11:55:26,378 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:55:27,924 - DEBUG - Page scrolled.
+2025-04-02 11:55:30,927 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:55:32,663 - DEBUG - Page scrolled.
+2025-04-02 11:55:35,665 - DEBUG - Random scrolls complete.
+2025-04-02 11:55:38,632 - DEBUG - Total comments in the thread: 11
+2025-04-02 11:56:52,841 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Wise We're closing your account on May XX. Please take your money out before it closes..txt
+2025-04-02 11:56:55,476 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 11:56:55,499 - DEBUG - Extracted main post content: I just receiving a payment from a Marketplace and suddenly received that message, and my wise account will be blocked
+
+Any experience?
+2025-04-02 11:56:59,329 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 11:56:59,332 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 11:57:01,705 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-02 11:57:01,706 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 15.72 seconds...
+2025-04-02 11:57:17,445 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-02 11:57:17,448 - INFO - performing random action
+2025-04-02 11:57:17,450 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:57:17,452 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:57:17,483 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:57:17,524 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:57:17,532 - DEBUG - Text box scrolled into view
+2025-04-02 11:57:18,258 - DEBUG - Initializing actionchains
+2025-04-02 11:57:18,298 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4319}, size: {'height': 21, 'width': 68}
+2025-04-02 11:57:18,298 - DEBUG - Target click coordinates: (1121, 4329)
+2025-04-02 11:57:30,830 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 11:57:30,834 - DEBUG - Moving mouse to text box element.
+2025-04-02 11:57:30,836 - DEBUG - Clicking on the text box.
+2025-04-02 11:57:30,839 - DEBUG - Sending keys with content: Ugh, that sucks! I'd contact Wise support ASAP and maybe double-check the marketplace's payment policies, just in case.
+
+2025-04-02 11:57:35,892 - DEBUG - Clicking on post reply button.
+2025-04-02 11:57:46,872 - DEBUG - Performed Actionchains
+2025-04-02 11:57:46,873 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 11:57:50,875 - INFO - Comment posted successfully.
+2025-04-02 11:57:50,876 - INFO - Task Completed!!
+2025-04-02 11:58:03,749 - INFO - Navigated back to the homepage.
+2025-04-02 11:58:05,961 - INFO - Attempting to clear memory and resources.
+2025-04-02 11:58:05,991 - INFO - Garbage collection completed.
+2025-04-02 11:58:05,992 - INFO - Waiting for 2000 seconds before next execution.
