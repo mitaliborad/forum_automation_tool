@@ -1,0 +1,84 @@
+2025-04-07 17:50:37,809 - INFO - Starting automation for profile: PixelPirate99
+2025-04-07 17:50:37,810 - DEBUG - Signin payload (excluding password hash): {'email': 'armanmishra1115@gmail.com'}
+2025-04-07 17:50:39,466 - DEBUG - Signin response status code: 200
+2025-04-07 17:50:39,466 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-07 17:50:39,467 - DEBUG - Received 'expires_in': 10800 seconds from MultiLogin API.
+2025-04-07 17:50:39,468 - INFO - Calculated token expiration time: 1744039239.4689326
+2025-04-07 17:50:39,470 - DEBUG - Calculated token expiration time: 1744039239.4689326
+2025-04-07 17:50:39,471 - INFO - Profile PixelPirate99: Successfully logged in.
+2025-04-07 17:50:39,473 - DEBUG - Profile PixelPirate99: Successfully logged in.
+2025-04-07 17:50:39,475 - INFO - Profile PixelPirate99: Starting profile 1038850a-a71c-4c6e-9f86-19b7937ee408...
+2025-04-07 17:50:39,476 - DEBUG - Attempting to start profile via URL: https://launcher.mlx.yt:45001/api/v1/profile/f/2895cd9a-0e5f-44bc-a1f5-344a8d81baaa/p/1038850a-a71c-4c6e-9f86-19b7937ee408/start?automation_type=selenium
+2025-04-07 17:50:46,386 - INFO - Profile PixelPirate99: Extracted port: 59072
+2025-04-07 17:50:46,387 - DEBUG - Profile PixelPirate99: Extracted port: 59072
+2025-04-07 17:50:46,848 - INFO - Profile PixelPirate99: Started on port 59072.
+2025-04-07 17:50:46,849 - DEBUG - Profile PixelPirate99: Started on port 59072.
+2025-04-07 17:50:56,426 - INFO - Profile PixelPirate99: Navigated to https://www.blackhatworld.com/
+2025-04-07 17:50:56,427 - DEBUG - Profile PixelPirate99: Navigated to https://www.blackhatworld.com/
+2025-04-07 17:51:00,570 - INFO - Profile PixelPirate99: Clicked on alert button.
+2025-04-07 17:51:00,571 - DEBUG - Profile PixelPirate99: Clicked on alert button.
+2025-04-07 17:51:04,288 - INFO - Profile PixelPirate99: Clicked on 'Show all' link.
+2025-04-07 17:51:04,289 - DEBUG - Profile PixelPirate99: Clicked on 'Show all' link.
+2025-04-07 17:51:06,221 - DEBUG - Scrolling attempt 1/15
+2025-04-07 17:51:06,249 - DEBUG - Found 1 potential alert list items on this view.
+2025-04-07 17:51:06,287 - DEBUG - Found quote alert: Title='Where to buy twitch chatbot', Link='https://www.blackhatworld.com/posts/19085855/'
+2025-04-07 17:51:06,287 - INFO - Added 1 new unique quote alerts in this scroll.
+2025-04-07 17:51:06,288 - DEBUG - Added 1 new unique quote alerts in this scroll.
+2025-04-07 17:51:07,822 - DEBUG - Scrolling attempt 2/15
+2025-04-07 17:51:07,835 - DEBUG - Found 1 potential alert list items on this view.
+2025-04-07 17:51:07,861 - INFO - Added 0 new unique quote alerts in this scroll.
+2025-04-07 17:51:07,862 - DEBUG - Added 0 new unique quote alerts in this scroll.
+2025-04-07 17:51:09,384 - INFO - Profile PixelPirate99: Reached end of scroll (height didn't change).
+2025-04-07 17:51:09,386 - DEBUG - Profile PixelPirate99: Reached end of scroll (height didn't change).
+2025-04-07 17:51:09,387 - INFO - Profile PixelPirate99: Saved 1 unique quoted comments to PixelPirate99_quoted_reply_list.txt
+2025-04-07 17:51:09,389 - DEBUG - Profile PixelPirate99: Saved 1 unique quoted comments to PixelPirate99_quoted_reply_list.txt
+2025-04-07 17:51:12,588 - INFO - Profile PixelPirate99: Selected comment - Where to buy twitch chatbot
+2025-04-07 17:51:12,589 - DEBUG - Profile PixelPirate99: Selected comment - Where to buy twitch chatbot
+2025-04-07 17:51:23,839 - INFO - Quoted comment extracted: Just creating a conversation and ranking my stream I do plan on building an organic community for sure, as driving traffic alone would indeed be hollow
+2025-04-07 17:51:23,841 - INFO - Profile PixelPirate99: Extracted details saved to quoted_replies\Where to buy twitch chatbot_reply.txt
+2025-04-07 17:51:23,842 - DEBUG - Profile PixelPirate99: Extracted details saved to quoted_replies\Where to buy twitch chatbot_reply.txt
+2025-04-07 17:51:23,860 - INFO - Extracted thread title: Where to buy twitch chatbot
+2025-04-07 17:51:23,861 - DEBUG - Extracted thread title: Where to buy twitch chatbot
+2025-04-07 17:51:23,861 - INFO - thread title found
+2025-04-07 17:51:23,862 - DEBUG - thread title found
+2025-04-07 17:51:23,925 - DEBUG - Total comments in the thread: 11
+2025-04-07 17:52:16,811 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Where to buy twitch chatbot.txt
+2025-04-07 17:52:16,811 - DEBUG - Post content extracted and saved to Thread-Details/Thread Content\Where to buy twitch chatbot.txt
+2025-04-07 17:52:22,607 - INFO - API Generated Reply: Cool, yeah, makes sense. Just be careful the fake engagement doesn't backfire when you actually DO get a real audience, you know?
+2025-04-07 17:52:22,609 - DEBUG - API Generated Reply: Cool, yeah, makes sense. Just be careful the fake engagement doesn't backfire when you actually DO get a real audience, you know?
+2025-04-07 17:52:22,610 - INFO - API generated comment saved to API Generated Replies\Where to buy twitch chatbot_Cool, yeah, makes sense. Just be careful the fake.txt
+2025-04-07 17:52:22,612 - DEBUG - API generated comment saved to API Generated Replies\Where to buy twitch chatbot_Cool, yeah, makes sense. Just be careful the fake.txt
+2025-04-07 17:52:26,253 - INFO - Found the article containing the quoted comment for 'PixelPirate99'.
+2025-04-07 17:52:26,253 - DEBUG - Found the article containing the quoted comment for 'PixelPirate99'.
+2025-04-07 17:52:27,309 - INFO - Profile PixelPirate99: Found reply/quote button within the specific post.
+2025-04-07 17:52:27,310 - DEBUG - Profile PixelPirate99: Found reply/quote button within the specific post.
+2025-04-07 17:52:27,353 - INFO - Profile PixelPirate99: Clicked reply/quote button using JavaScript.
+2025-04-07 17:52:27,354 - DEBUG - Profile PixelPirate99: Clicked reply/quote button using JavaScript.
+2025-04-07 17:52:31,085 - DEBUG - Waiting for comment editor (('xpath', "//form[@method='post']//div[@contenteditable='true' and @aria-disabled='false' and @spellcheck='true']"))...
+2025-04-07 17:52:40,557 - INFO - Comment editor is present and contains a blockquote.
+2025-04-07 17:52:40,558 - DEBUG - Comment editor is present and contains a blockquote.
+2025-04-07 17:52:42,191 - INFO - Attempting to insert reply using JavaScript insertAdjacentHTML.
+2025-04-07 17:52:42,193 - DEBUG - Attempting to insert reply using JavaScript insertAdjacentHTML.
+2025-04-07 17:52:42,228 - INFO - Inserted API generated reply using JavaScript after the blockquote.
+2025-04-07 17:52:42,229 - DEBUG - Inserted API generated reply using JavaScript after the blockquote.
+2025-04-07 17:52:44,400 - INFO - Found 'Post reply' button.
+2025-04-07 17:52:44,401 - DEBUG - Found 'Post reply' button.
+2025-04-07 17:52:45,145 - INFO - Clicked 'Post reply' button using JavaScript.
+2025-04-07 17:52:45,146 - DEBUG - Clicked 'Post reply' button using JavaScript.
+2025-04-07 17:53:10,471 - WARNING - Editor did not become stale. Reply might have posted, but confirmation failed. Check the thread manually.
+2025-04-07 17:55:53,329 - INFO - Profile PixelPirate99: Navigated back to homepage.
+2025-04-07 17:55:53,330 - DEBUG - Profile PixelPirate99: Navigated back to homepage.
+2025-04-07 17:55:59,357 - INFO - Profile PixelPirate99: Attempting to stop (Attempt 1/3)...
+2025-04-07 17:55:59,359 - DEBUG - Profile PixelPirate99: Attempting to stop (Attempt 1/3)...
+2025-04-07 17:55:59,368 - INFO - Profile PixelPirate99: Browser closed successfully in 0.01 seconds.
+2025-04-07 17:55:59,369 - DEBUG - Profile PixelPirate99: Browser closed successfully in 0.01 seconds.
+2025-04-07 17:56:03,358 - INFO - Profile PixelPirate99: API call took 3.99 seconds.
+2025-04-07 17:56:03,360 - DEBUG - Profile PixelPirate99: API call took 3.99 seconds.
+2025-04-07 17:56:03,361 - INFO - Profile PixelPirate99: Stopped successfully.
+2025-04-07 17:56:03,362 - DEBUG - Profile PixelPirate99: Stopped successfully.
+2025-04-07 17:56:03,363 - INFO - Profile PixelPirate99: Finished processing.
+2025-04-07 17:56:03,364 - DEBUG - Profile PixelPirate99: Finished processing.
+2025-04-07 17:56:03,364 - INFO - Attempting to clear memory and resources.
+2025-04-07 17:56:03,365 - DEBUG - Attempting to clear memory and resources.
+2025-04-07 17:56:03,399 - INFO - Garbage collection completed.
+2025-04-07 17:56:03,400 - DEBUG - Garbage collection completed.
