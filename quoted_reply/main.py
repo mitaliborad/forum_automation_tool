@@ -3,17 +3,14 @@ import time
 import logging
 import random
 import re
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, StaleElementReferenceException
-
 from Quoted_replies_config import setup_logger  
 from Quoted_replies_manager import PROFILES, configure_logger, start_profile, stop_profile, signin, refresh_token
 from gemini_api import GeminiHandler
-
 from Quoted_replies_config import (LOG_DIRECTORY)
 from Quoted_replies_function import (
     sanitize_filename,
@@ -30,7 +27,6 @@ from Quoted_replies_function import (
 )
 
 # --- Configuration ---
-
 BASE_URL = "https://www.blackhatworld.com/"
 QUOTED_REPLIES_FOLDER = "quoted_replies"
 API_GENERATED_REPLIES_FOLDER = "API Generated Replies"
@@ -90,8 +86,7 @@ def main():
 
             # perform_random_action(driver, profile_logger, profile_name) # Add random human-like actions
 
-            # Get Quoted Comments
-            
+            # Get Quoted Comments 
             quoted_comments = get_quoted_comments(driver, profile_logger, profile_name)
             if not quoted_comments:
                 profile_logger.info(f"Profile {profile_name}: No quoted comments found. Skipping.")

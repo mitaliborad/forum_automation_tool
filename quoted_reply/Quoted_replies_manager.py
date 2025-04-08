@@ -20,55 +20,55 @@ HEADERS = {"Accept": "application/json", "Content-Type": "application/json"}
 
 # --- Profile Configuration (moved out of class - Manager Style) ---
 PROFILES = {    
-    # "Emaxx": {
-    #     "username": "armanmishra1115@gmail.com",
-    #     "password": "Nik&291411",
-    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-    #     "profile_id": "ece3d7b0-6dd3-4189-94c7-20c2dfa82943",
-    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    # },
-    # "DarkCodeX": {
-    #     "username": "armanmishra1115@gmail.com",
-    #     "password": "Nik&291411",
-    #     "folder_id": "fedd6c4d-f3d0-4bcd-8b25-e6ce25559ea8",
-    #     "profile_id": "d949ef43-c834-44b4-9628-f60bb0c33b77",
-    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    # },
-    # "ZeroDayHunter":{
-    #     "username": "armanmishra1115@gmail.com",
-    #     "password": "Nik&291411",
-    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-    #     "profile_id": "e70a0144-441c-40ec-92fc-84a43bc03e6a",
-    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    # },
-    # "BinaryGhost":{
-    #     "username": "armanmishra1115@gmail.com",
-    #     "password": "Nik&291411",
-    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-    #     "profile_id": "8bede9f0-d352-4430-acd5-fd8df8f4a8cb",
-    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    # },
-    # "NullBytee":{
-    #     "username": "armanmishra1115@gmail.com",
-    #     "password": "Nik&291411",
-    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-    #     "profile_id": "33096624-f91e-4137-b999-8508a489375e",
-    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    # },
-    # "PhantomRoot":{
-    #     "username": "armanmishra1115@gmail.com",
-    #     "password": "Nik&291411",
-    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-    #     "profile_id": "8c98d4bf-a650-472e-ada8-4f3ae5d61152",
-    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    # },
-    # "DataPhreak":{
-    #     "username": "armanmishra1115@gmail.com",
-    #     "password": "Nik&291411",
-    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-    #     "profile_id": "54a81ba0-2713-4c85-bdc6-78e91dee21ab",
-    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    # },
+    "Emaxx": {
+        "username": "armanmishra1115@gmail.com",
+        "password": "Nik&291411",
+        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+        "profile_id": "ece3d7b0-6dd3-4189-94c7-20c2dfa82943",
+        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    },
+    "DarkCodeX": {
+        "username": "armanmishra1115@gmail.com",
+        "password": "Nik&291411",
+        "folder_id": "fedd6c4d-f3d0-4bcd-8b25-e6ce25559ea8",
+        "profile_id": "d949ef43-c834-44b4-9628-f60bb0c33b77",
+        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    },
+    "ZeroDayHunter":{
+        "username": "armanmishra1115@gmail.com",
+        "password": "Nik&291411",
+        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+        "profile_id": "e70a0144-441c-40ec-92fc-84a43bc03e6a",
+        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    },
+    "BinaryGhost":{
+        "username": "armanmishra1115@gmail.com",
+        "password": "Nik&291411",
+        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+        "profile_id": "8bede9f0-d352-4430-acd5-fd8df8f4a8cb",
+        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    },
+    "NullBytee":{
+        "username": "armanmishra1115@gmail.com",
+        "password": "Nik&291411",
+        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+        "profile_id": "33096624-f91e-4137-b999-8508a489375e",
+        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    },
+    "PhantomRoot":{
+        "username": "armanmishra1115@gmail.com",
+        "password": "Nik&291411",
+        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+        "profile_id": "8c98d4bf-a650-472e-ada8-4f3ae5d61152",
+        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    },
+    "DataPhreak":{
+        "username": "armanmishra1115@gmail.com",
+        "password": "Nik&291411",
+        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+        "profile_id": "54a81ba0-2713-4c85-bdc6-78e91dee21ab",
+        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    },
     "PixelPirate99":{
         "username": "armanmishra1115@gmail.com",
         "password": "Nik&291411",
@@ -77,10 +77,6 @@ PROFILES = {
         "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
     }
 }
-
-# # --- Logging Configuration ---
-# logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
-# profile_logger = logging.getLogger("Test")
 
 # --- Configuration Constants ---
 STAGGER_DELAY_MINUTES_MIN = 0
@@ -96,48 +92,6 @@ SCROLL_PAUSE_TIME = 0.9
 
 LOG_FOLDER = "Selenium_Logs"
 
-# --- Logger Configuration ---
-# def configure_logger(profile_name):
-#     """Configures a dedicated logger for a specific profile."""
-#     # Create the main log folder if it doesn't exist
-#     if not os.path.exists(LOG_FOLDER):
-#         try:
-#             os.makedirs(LOG_FOLDER)
-#             print(f"Created log directory: {LOG_FOLDER}")
-#         except OSError as e:
-#             print(f"Error creating log directory {LOG_FOLDER}: {e}")
-#             # Fallback or raise error if needed
-#             return logging.getLogger(profile_name) # Return basic logger
-
-#     logger = logging.getLogger(profile_name)
-#     if logger.hasHandlers(): # Avoid adding multiple handlers if called again
-#         logger.handlers.clear()
-
-#     logger.setLevel(logging.INFO) # Set desired level (INFO, DEBUG, etc.)
-
-#     log_file_path = os.path.join(LOG_FOLDER, f"{profile_name}.log")
-
-#     # File Handler
-#     try:
-#         fh = logging.FileHandler(log_file_path, encoding='utf-8')
-#         fh.setLevel(logging.INFO) # Set level for file handler
-#         formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-#         fh.setFormatter(formatter)
-#         logger.addHandler(fh)
-#     except Exception as e:
-#         print(f"Error setting up file handler for {profile_name}: {e}")
-
-#     # Console Handler (Optional, but good for seeing output)
-#     ch = logging.StreamHandler()
-#     ch.setLevel(logging.INFO) # Set level for console handler
-#     ch_formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-#     ch.setFormatter(ch_formatter)
-#     logger.addHandler(ch)
-
-#     # Prevent log messages from propagating to the root logger
-#     logger.propagate = False
-
-#     return logger
 
 # --- Absolute Path for Log Folder ---
 try:
@@ -149,81 +103,6 @@ except NameError:
     # Fallback if __file__ is not defined (e.g., interactive session)
     LOG_FOLDER = os.path.join(os.getcwd(), "Selenium_Logs")
     print(f"[WARN] Could not determine script directory, using CWD for logs: {LOG_FOLDER}")
-
-# def configure_logger(profile_name):
-#     """Configures a dedicated logger for a specific profile."""
-#     logger = logging.getLogger(profile_name) # Use profile_name as logger name
-
-#     # Prevent adding handlers multiple times if function is called again for same profile
-#     if logger.hasHandlers():
-#         # print(f"Logger for {profile_name} already configured. Clearing existing handlers.") # Optional debug print
-#         logger.handlers.clear()
-
-#     logger.setLevel(logging.INFO) # Set desired base level (can be overridden by handlers)
-
-#     # Create the main log folder if it doesn't exist
-#     if not os.path.exists(LOG_FOLDER):
-#         try:
-#             os.makedirs(LOG_FOLDER)
-#             # Use root logger temporarily for this message if needed, or just print
-#             print(f"Created log directory: {LOG_FOLDER}")
-#         except OSError as e:
-#             print(f"Error creating log directory {LOG_FOLDER}: {e}. Logs may not be saved to file.")
-#             # Return a basic logger if directory creation fails
-#             # Add a StreamHandler to still see output
-#             ch = logging.StreamHandler()
-#             ch.setLevel(logging.INFO)
-#             formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-#             ch.setFormatter(formatter)
-#             logger.addHandler(ch)
-#             logger.propagate = False # Prevent propagation
-#             return logger
-
-#     log_file_path = os.path.join(LOG_FOLDER, f"{profile_name}.log")
-
-#     # File Handler
-#     try:
-#         # Use 'a' mode to append if file exists, 'w' to overwrite each run
-#         fh = logging.FileHandler(log_file_path, mode='a', encoding='utf-8')
-#         fh.setLevel(logging.DEBUG) # Capture DEBUG level and above in the file
-#         formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-#         fh.setFormatter(formatter)
-#         logger.addHandler(fh)
-#         # print(f"Logging for {profile_name} configured to file: {log_file_path}") # Optional debug print
-#     except Exception as e:
-#         print(f"Error setting up file handler for {profile_name} at {log_file_path}: {e}")
-
-#     # Console Handler (Optional, but good for seeing INFO level output)
-#     ch = logging.StreamHandler()
-#     ch.setLevel(logging.INFO) # Show INFO level and above on console
-#     ch_formatter = logging.Formatter('%(asctime)s - %(name)s [%(levelname)s] - %(message)s') # Slightly different format for console
-#     ch.setFormatter(ch_formatter)
-#     logger.addHandler(ch)
-
-#     # Prevent log messages from propagating to the root logger
-#     # This stops messages from appearing twice if the root logger also has a handler (e.g., a default StreamHandler)
-#     logger.propagate = False
-
-#     # logger.info(f"Logger configured for {profile_name}.") # Initial log message from the logger itself
-#     return logger
-
-
-# # --- Global Controller Instances for Pynput ---
-# try:
-#     keyboard_controller = Controller()
-#     mouse_controller = MouseController()
-# except Exception as e:
-#     # Use root logger or print if controllers fail early
-#     logging.basicConfig(level=logging.ERROR) # Basic config for early errors
-#     logging.error(f"Failed to initialize pynput controllers: {e}", exc_info=True)
-#     # Decide how to handle this - maybe exit or disable features using them
-#     keyboard_controller = None
-#     mouse_controller = None
-
-
-# # --- Global Controller Instances for Pynput ---
-# keyboard_controller = Controller()
-# mouse_controller = MouseController()
 
 # --- Logger Configuration Function ---
 def configure_logger(profile_name):

@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import (
     TimeoutException,
     NoSuchElementException,
@@ -17,7 +18,7 @@ from selenium.common.exceptions import (
 )
 
 from selenium.common.exceptions import TimeoutException, NoSuchElementException, StaleElementReferenceException
-
+from Quoted_replies_config import MouseMovement
 from Quoted_replies_manager import configure_logger, start_profile, stop_profile, signin, refresh_token
 from gemini_api import GeminiHandler
 
@@ -58,116 +59,12 @@ def setup_folders():
     if not os.path.exists(API_GENERATED_REPLIES_FOLDER):
         os.makedirs(API_GENERATED_REPLIES_FOLDER)
 
-def scroll_page(profile_logger, driver, scroll_amount=SCROLL_AMOUNT, min_delay=1, max_delay=2.0):
-    profile_logger.debug(f"Scrolling page by {scroll_amount} pixels.")
-    try:
-        driver.execute_script(f"window.scrollBy(0, {scroll_amount});")
-    except Exception as e:
-        profile_logger.warning(f"Scrolling failed: {e}")
-    time.sleep(random.uniform(min_delay, max_delay))
-    profile_logger.debug("Page scrolled.")
-
-def find_element_with_scroll(profile_logger, driver, locator, max_scrolls=5):
-    profile_logger.debug(f"Attempting to find element with locator: {locator}")
-    for i in range(max_scrolls):
-        try:
-            element = WebDriverWait(driver, 5).until(
-                EC.presence_of_element_located(locator)
-            )
-            profile_logger.info(f"Element found after {i + 1} scrolls: {locator}")
-            profile_logger.debug(f"Element found after {i + 1} scrolls: {locator}")
-            return element
-        except:
-            profile_logger.debug(
-                f"Element not found, scrolling page (attempt {i + 1}/{max_scrolls})."
-            )
-            scroll_page(profile_logger, driver, scroll_amount=400)
-    profile_logger.warning(f"Element not found after {max_scrolls} scrolls: {locator}")
-    return None
-
-# def get_quoted_comments(driver, profile_logger, profile_name):
-#     """Finds all quoted comments and saves their details."""
-#     quoted_comments = []
-#     try:
-#         # Click on the alert button
-#         try:
-#             alert_button = WebDriverWait(driver, 10).until(
-#                 EC.element_to_be_clickable(ALERT_BUTTON_LOCATOR)
-#             )
-#             alert_button.click()
-#             profile_logger.info(f"Profile {profile_name}: Clicked on alert button.")
-#         except (TimeoutException, NoSuchElementException) as e:
-#             profile_logger.error(f"Profile {profile_name}: Alert button not found or not clickable: {e}")
-#             return quoted_comments
-
-#         # Click on "Show all" link
-#         try:
-#             show_all_link = WebDriverWait(driver, 10).until(
-#                 EC.element_to_be_clickable((By.LINK_TEXT, "Show all"))
-#             )
-#             show_all_link.click()
-#             profile_logger.info(f"Profile {profile_name}: Clicked on 'Show all' link.")
-#         except (TimeoutException, NoSuchElementException) as e:
-#             profile_logger.error(f"Profile {profile_name}: 'Show all' link not found or not clickable: {e}")
-#             return quoted_comments
-
-#         # Scroll and find quoted comments
-#         scroll_pause_time = 1
-#         last_height = driver.execute_script("return document.body.scrollHeight")
-
-#         while True:
-#             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-#             time.sleep(scroll_pause_time)
-#             new_height = driver.execute_script("return document.body.scrollHeight")
-
-#             # Find elements that contain quoted replies. Adapt the selector as needed
-#             try:
-#                 quoted_elements = driver.find_elements(By.XPATH, "//li//div//text()[contains(., 'quoted your post in the thread')]/following-sibling::a")
-
-#                 for element in quoted_elements:
-#                     try:
-#                         # Extract thread title
-#                         try:
-#                             thread_title_element = element.find_element(By.XPATH, "//li//div//text()[contains(., 'quoted your post in the thread')]/following-sibling::a")  # Updated selector
-#                             thread_title = thread_title_element.text.strip()
-#                             profile_link = thread_title_element.get_attribute("href")
-
-#                         except NoSuchElementException:
-#                             profile_logger.warning(f"Profile {profile_name}: Thread title or link not found for an alert.")
-#                             continue
-                        
-#                         quoted_comments.append({"thread_title": thread_title, "profile_link": profile_link})
-                        
-#                     except (StaleElementReferenceException, NoSuchElementException) as e:
-#                         profile_logger.warning(f"Profile {profile_name}: Error extracting data from quoted comment element: {e}")
-#                         continue
-#             except NoSuchElementException:
-#                 profile_logger.info(f"Profile {profile_name}: No quoted comments found on this page.")
-#                 break
-
-#             if new_height == last_height:
-#                 break
-#             last_height = new_height
-
-#         # Save the quoted comments to a file
-#         output_file = f"{profile_name}_quoted_reply_list.txt"
-#         with open(output_file, "w", encoding="utf-8") as f:
-#             for comment in quoted_comments:
-#                 f.write(f"Thread Title: {comment['thread_title']}\n")
-#                 f.write(f"Profile Link: {comment['profile_link']}\n")
-#                 f.write("-" * 40 + "\n")
-#         profile_logger.info(f"Profile {profile_name}: Saved quoted comments to {output_file}")
-
-#         return quoted_comments
-
-#     except Exception as e:
-#         profile_logger.error(f"Profile {profile_name}: Error getting quoted comments: {e}", exc_info=True)
-#         return []
 
 def get_quoted_comments(driver, profile_logger, profile_name):
     """Finds all unique quoted comments and saves their details."""
+
     quoted_comments = []
-    processed_links = set()  # --- ADDED: Keep track of processed links to ensure uniqueness ---
+    processed_links = set()  
     try:
         # Click on the alert button
         try:
@@ -177,10 +74,10 @@ def get_quoted_comments(driver, profile_logger, profile_name):
             alert_button.click()
             profile_logger.info(f"Profile {profile_name}: Clicked on alert button.")
             profile_logger.debug(f"Profile {profile_name}: Clicked on alert button.")
-            time.sleep(random.uniform(1, 2)) # Short pause after click
+            time.sleep(random.uniform(1, 2)) 
         except (TimeoutException, NoSuchElementException) as e:
             profile_logger.error(f"Profile {profile_name}: Alert button not found or not clickable: {e}")
-            return quoted_comments # Return empty list
+            return quoted_comments 
 
         # Click on "Show all" link
         try:
@@ -193,16 +90,14 @@ def get_quoted_comments(driver, profile_logger, profile_name):
             time.sleep(random.uniform(1, 2)) # Short pause after click
         except (TimeoutException, NoSuchElementException) as e:
             profile_logger.error(f"Profile {profile_name}: 'Show all' link not found or not clickable: {e}")
-            # Decide if you want to continue without clicking "Show All" or return
-            # Let's try to continue, maybe some alerts are visible anyway
             profile_logger.warning(f"Profile {profile_name}: Could not click 'Show all', proceeding with visible alerts.")
-            # return quoted_comments # Optionally return here
+            
 
         # Scroll and find quoted comments
-        scroll_pause_time = 1.5 # Slightly longer pause might help load elements
+        scroll_pause_time = 1.5 
         last_height = driver.execute_script("return document.body.scrollHeight")
         scroll_attempts = 0
-        max_scroll_attempts = 15 # Limit scrolls to prevent infinite loops
+        max_scroll_attempts = 15 
 
         while scroll_attempts < max_scroll_attempts:
             scroll_attempts += 1
@@ -225,7 +120,7 @@ def get_quoted_comments(driver, profile_logger, profile_name):
 
                         # Check if link is valid and not already processed
                         if profile_link and profile_link not in processed_links:
-                            if not thread_title: # Sometimes title might be empty, try to get it differently if needed
+                            if not thread_title: 
                                 thread_title = "Title Not Found"
                                 profile_logger.warning(f"Profile {profile_name}: Empty thread title for link {profile_link}")
 
@@ -287,8 +182,8 @@ def get_quoted_comments(driver, profile_logger, profile_name):
 def extract_details_and_save(driver, profile_logger, profile_name, quoted_comment):
     """Extracts thread details, quoted comment, and saves to a file."""
     try:
-        #selected_post = random.choice(quoted_comment['profile_link'])  # Incorrect!
-        selected_post = quoted_comment['profile_link'] # Correct. No Random Choice Needed
+        
+        selected_post = quoted_comment['profile_link'] 
         driver.get(selected_post)
         time.sleep(random.uniform(2, 5))    
 
@@ -306,7 +201,7 @@ def extract_details_and_save(driver, profile_logger, profile_name, quoted_commen
             profile_logger.warning(f"Profile {profile_name}: Could not find original thread content.")
             original_main_thread_content = "Not Found"
             
-        # Find "my previous comment" - This requires more specific targeting.  Assumes you can identify your comments by username/id.
+        # Find "my previous comment" 
         try:
             my_previous_comment_locator = driver.find_element(By.XPATH,f"//article[@data-author='{PROFILE}']")
             my_previous_comment_element = my_previous_comment_locator.find_element(By.XPATH,".//div[@itemprop='text']//div[text()]")
@@ -315,13 +210,7 @@ def extract_details_and_save(driver, profile_logger, profile_name, quoted_commen
             profile_logger.warning(f"Profile {profile_name}: Could not find my previous comment.")
             my_previous_comment = "Not Found"
 
-        # Find "quoted comment" (the comment quoting your comment). This is trickier - you need to locate the quote.
-        # try:
-            # quoted_comment_element = WebDriverWait(driver, 10).until(
-            #         EC.presence_of_element_located((By.XPATH, f"//blockquote[@data-quote='{PROFILE}']")))
-            # quoted_comment_text = quoted_comment_element.find_element(By.XPATH, "/following-sibling::text()[normalize-space()][1]").text.strip()
-            # profile_logger.info("Found Quote Comment Element")  
-            # Locate the div that holds the quote and the actual reply
+        # Find "quoted comment" help with beautifulsoup        
         try:
             wrapper_element = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.XPATH, f"//blockquote[@data-quote='{PROFILE}']/parent::div[contains(@class, 'bbWrapper')]"))
@@ -345,16 +234,10 @@ def extract_details_and_save(driver, profile_logger, profile_name, quoted_commen
             quoted_comment_text = "Not Found"
 
 
-
-        #     profile_logger.debug("Found Quote Comment Element")
-        #     quoted_comment_text = quoted_comment_element.text.strip()
-        # except NoSuchElementException:
-        #     profile_logger.warning(f"Profile {profile_name}: Could not find quoted comment.")
-        #     quoted_comment_text = "Not Found"
-
         # Save extracted details to file
         filename = f"{sanitize_filename(thread_title)}_reply.txt"
         filepath = os.path.join(QUOTED_REPLIES_FOLDER, filename)
+
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(f"\n\n** Thread Title : ** \n {thread_title}\n")
             f.write(f"\n\n** Original Thread Content: ** \n {original_main_thread_content}\n")
@@ -510,11 +393,10 @@ def generate_api_comment(profile_logger, reply_context_filepath, thread_content_
         comments = gemini_handler.get_comments(reply_context_filepath, thread_content_filepath, prompt_file=PROMPT_FILE)
 
         if comments:
-             # ... (rest of the filename generation and saving logic remains the same) ...
              # Sanitize the comment for use in the filename *prefix*
-             safe_comment_prefix = sanitize_filename(comments[:50])  # Use only a prefix
+             safe_comment_prefix = sanitize_filename(comments[:50])  
 
-             # Create a base filename using the sanitized prefix and thread title (from filepath)
+             
              # Extract thread title safely from the reply context filename
              base_reply_filename = os.path.basename(reply_context_filepath)
              thread_title_match = re.match(r"^(.*?)_reply\.txt$", base_reply_filename)
@@ -549,190 +431,6 @@ def generate_api_comment(profile_logger, reply_context_filepath, thread_content_
     except Exception as e:
          profile_logger.error(f"Error generating API comment: {e}", exc_info=True)
          return None
-                
-
-# def reply_to_comment(driver, profile_logger, profile_name, api_comment_filepath):
-#     """Finds the quoted comment, clicks reply, appends API comment *after* the quote using JS, and posts."""
-#     try:
-#         # Load API Generated Reply
-#         try:
-#             with open(api_comment_filepath, "r", encoding="utf-8") as f:
-#                 api_generated_reply = f.read().strip()
-#                 if not api_generated_reply:
-#                     profile_logger.error(f"Profile {profile_name}: API Generated Reply file is empty.")
-#                     return False # Indicate failure
-#         except FileNotFoundError:
-#             profile_logger.error(f"Profile {profile_name}: API Generated Reply file not found at {api_comment_filepath}.")
-#             return False # Indicate failure
-#         except Exception as e:
-#             profile_logger.error(f"Profile {profile_name}: Error reading API Generated Reply file: {e}", exc_info=True)
-#             return False # Indicate failure
-
-#         # --- Find the specific post containing the quote ---
-#         quoted_post_article_locator = (By.XPATH, f"//article[.//blockquote[@data-quote='{PROFILE}']]")
-#         try:
-#             quoted_post_article = WebDriverWait(driver, 15).until(
-#                 EC.presence_of_element_located(quoted_post_article_locator)
-#             )
-#             profile_logger.info(f"Found the article containing the quoted comment for '{PROFILE}'.")
-#             driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", quoted_post_article)
-#             time.sleep(random.uniform(0.5, 1.0))
-#         except TimeoutException:
-#             profile_logger.error(f"Profile {profile_name}: Could not find the article containing the quote for '{PROFILE}'.")
-#             return False
-#         except Exception as e:
-#             profile_logger.error(f"Profile {profile_name}: Error finding or scrolling to the quoted post article: {e}", exc_info=True)
-#             return False
-
-#         # --- Find and Click the Reply/Quote button *within that specific article* ---
-#         reply_button_locator = (By.XPATH, ".//footer//a[contains(@class, 'actionBar-action--reply') or contains(@class, 'actionBar-action--quote') or @data-xf-click='quote']")
-#         reply_button = None
-#         try:
-#             reply_button = WebDriverWait(quoted_post_article, 10).until(
-#                 EC.element_to_be_clickable(reply_button_locator)
-#             )
-#             profile_logger.info(f"Profile {profile_name}: Found reply/quote button.")
-#             driver.execute_script("arguments[0].click();", reply_button)
-#             profile_logger.info(f"Profile {profile_name}: Clicked reply/quote button using JavaScript.")
-#             time.sleep(random.uniform(2.5, 4.5)) # Increased wait slightly for editor to fully load quote
-
-#         except TimeoutException:
-#             profile_logger.error(f"Profile {profile_name}: Reply/Quote button within the specific article not found or clickable within timeout.")
-#             return False
-#         except ElementNotInteractableException:
-#              profile_logger.warning(f"Profile {profile_name}: Reply/Quote button found but not interactable. Trying JS click again.")
-#              try:
-#                  driver.execute_script("arguments[0].click();", reply_button)
-#                  profile_logger.info(f"Profile {profile_name}: Clicked reply/quote button using JavaScript (second attempt).")
-#                  time.sleep(random.uniform(2.5, 4.5))
-#              except Exception as js_e:
-#                   profile_logger.error(f"Profile {profile_name}: Error clicking reply/quote button even with JS: {js_e}", exc_info=True)
-#                   return False
-#         except Exception as e:
-#             profile_logger.error(f"Profile {profile_name}: Error finding or clicking reply/quote button: {e}", exc_info=True)
-#             return False
-
-#         # --- Wait for the comment editor to be ready ---
-#         try:
-#             profile_logger.debug(f"Waiting for comment editor ({COMMENT_EDITOR_LOCATOR})...")
-#             comment_editor_element = WebDriverWait(driver, 20).until(
-#                 # Waiting for presence is enough before JS interaction, clickable might be too strict if overlays exist temporarily
-#                 EC.presence_of_element_located(COMMENT_EDITOR_LOCATOR)
-#             )
-#             # Additionally wait for the blockquote *inside* the editor to ensure quote is loaded
-#             WebDriverWait(comment_editor_element, 10).until(
-#                 EC.presence_of_element_located((By.XPATH, ".//blockquote"))
-#             )
-#             profile_logger.info("Comment editor is present and quote block detected.")
-#             time.sleep(random.uniform(1, 2)) # Short delay before interacting
-
-#         except TimeoutException:
-#             profile_logger.error(f"Comment editor or blockquote within it did not become present within timeout.", exc_info=True)
-#             return False
-#         except Exception as e:
-#              profile_logger.error(f"Unexpected error waiting for comment editor/quote: {e}", exc_info=True)
-#              return False
-
-#         # --- Enter reply text AFTER the quote using JavaScript innerHTML append ---
-#         try:
-#             # Ensure the editor is scrolled into view
-#             driver.execute_script("arguments[0].scrollIntoViewIfNeeded(true);", comment_editor_element)
-#             time.sleep(0.5)
-#             # It's often still good to click it briefly to ensure it *could* receive focus if needed by page JS
-#             try:
-#                 comment_editor_element.click()
-#             except ElementNotInteractableException:
-#                 profile_logger.warning("Editor wasn't directly clickable, proceeding with JS append anyway.")
-#             time.sleep(random.uniform(0.5, 1.0))
-
-#             profile_logger.info("Attempting to append reply using JavaScript innerHTML.")
-
-#             # Prepare the reply text for HTML insertion
-#             # Convert newlines to <br> for HTML display within a paragraph
-#             # Basic escaping for JS string context needed by execute_script
-#             escaped_reply_for_html = api_generated_reply.replace('\\', '\\\\') \
-#                                                        .replace('"', '\\"') \
-#                                                        .replace('\n', '<br>') \
-#                                                        .replace('\r', '')
-#             #    .replace("'", "\\'") \
-
-#             # Construct the HTML to append:
-#             # Use <p> </p> or <p><br></p> for spacing, then the reply in its own <p>
-#             # This ensures it starts as a new paragraph below existing content.
-#             html_to_append = f"<p><br></p><p>{escaped_reply_for_html}</p>" # Add a line break paragraph then the reply paragraph
-
-#             # Find the blockquote element *within* the editor element we already found
-#             blockquote_element = comment_editor_element.find_element(By.XPATH, ".//blockquote")
-
-
-#             # Execute JS to append the prepared HTML to the editor's current innerHTML
-#             # This adds the new HTML content to the very end of the editor's content
-#             driver.execute_script("arguments[0].innerHTML += arguments[1];",
-#                                   comment_editor_element,
-#                                   html_to_append)
-
-#             profile_logger.info("Appended API generated reply using JavaScript.")
-#             time.sleep(random.uniform(1.5, 2.5)) # Slightly longer pause after JS manipulation
-
-#         except Exception as e:
-#              profile_logger.error(f"Failed to append reply using JavaScript: {e}", exc_info=True)
-#              # If JS fails, maybe log error and return, or attempt send_keys as a less reliable fallback
-#              return False # JS append failed
-
-#         # --- Find and Click the "Post reply" Button ---
-#         try:
-#             # Locate the button relative to the form containing the editor
-#             post_reply_button = WebDriverWait(driver, 15).until(
-#                 EC.element_to_be_clickable(POST_REPLY_BUTTON_LOCATOR)
-#             )
-#             profile_logger.info("Found 'Post reply' button.")
-#             # Scroll into view just before clicking
-#         #driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", post_reply_button)
-#             time.sleep(random.uniform(0.5, 1.0)) # Short delay after scroll
-#              # Prefer JS click for reliability
-#         #driver.execute_script("arguments[0].click();", post_reply_button)
-#             profile_logger.info("Clicked 'Post reply' button using JavaScript.")
-
-#             # --- Wait for confirmation ---
-#             try:
-#                 WebDriverWait(driver, 25).until(
-#                     EC.staleness_of(comment_editor_element)
-#                 )
-#                 profile_logger.info("Reply posted successfully (editor became stale).")
-#             except TimeoutException:
-#                  try:
-#                      # Check if *a* post by the user exists on the page now
-#                      # More specific checks could look for the text, but this is simpler
-#                      WebDriverWait(driver, 15).until(
-#                          EC.presence_of_element_located((By.XPATH, f"//article[@data-author='{PROFILE}']"))
-#                      )
-#                      profile_logger.info("Reply likely posted successfully (found a post by profile).")
-#                  except TimeoutException:
-#                     profile_logger.warning("Editor did not disappear, and couldn't quickly confirm new post. Reply might have failed or page update is slow.")
-#             time.sleep(random.uniform(3, 5))
-#             return True # Indicate success
-
-#         except TimeoutException:
-#             profile_logger.error(f"'Post reply' button not found or not clickable within timeout.")
-#             return False
-#         except Exception as e:
-#             profile_logger.error(f"Unexpected error clicking 'Post reply' or waiting for success: {e}", exc_info=True)
-#             return False
-
-#     except Exception as e:
-#         profile_logger.error(f"Profile {profile_name}: A critical error occurred during the reply process: {e}", exc_info=True)
-#         return False # Indicate failure
-
-#     finally:
-#         # Navigate back to homepage regardless of success/failure inside the function
-#         try:
-#             # Add a check if driver still exists
-#             if driver:
-#                 driver.get(BASE_URL)
-#                 profile_logger.info(f"Profile {profile_name}: Navigated back to homepage.")
-#                 time.sleep(random.uniform(2, 4)) # Allow homepage to load
-#         except Exception as nav_e:
-#             profile_logger.error(f"Profile {profile_name}: Failed to navigate back to homepage: {nav_e}")
 
 def reply_to_comment(driver, profile_logger, profile_name, api_comment_filepath):
     """Finds the quoted comment, clicks reply, inserts API comment *after* the quote using precise JS, and posts."""
@@ -772,6 +470,7 @@ def reply_to_comment(driver, profile_logger, profile_name, api_comment_filepath)
         # --- Find and Click the Reply/Quote button *within that specific article* ---
         reply_button_locator = (By.XPATH, ".//footer//a[contains(@class, 'actionBar-action--reply') or contains(@class, 'actionBar-action--quote') or @data-xf-click='quote']")
         reply_button = None
+
         try:
             # Ensure we are looking *within* the specific article we found
             reply_button = WebDriverWait(quoted_post_article, 10).until(
@@ -788,6 +487,7 @@ def reply_to_comment(driver, profile_logger, profile_name, api_comment_filepath)
             profile_logger.error(f"Profile {profile_name}: Reply/Quote button within the specific article not found or clickable.")
             # Attempt to find a more general reply button as a fallback? Maybe not ideal.
             return False
+        
         except ElementNotInteractableException:
              profile_logger.warning(f"Profile {profile_name}: Reply/Quote button found but not interactable. Trying JS click again.")
              try:
@@ -832,13 +532,6 @@ def reply_to_comment(driver, profile_logger, profile_name, api_comment_filepath)
 
             profile_logger.info("Attempting to insert reply using JavaScript insertAdjacentHTML.")
             profile_logger.debug("Attempting to insert reply using JavaScript insertAdjacentHTML.")
-
-            # Prepare the reply text for HTML insertion:
-            # 1. Escape characters needed for JS *string literal* (using double quotes below)
-            #    - Backslash needs escaping: \\ -> \\\\
-            #    - Double quote needs escaping: " -> \\"
-            #    - Single quote DOES NOT need escaping here: ' -> '
-            # 2. Convert newlines to <br> for HTML display.
             escaped_reply_for_html = api_generated_reply.replace('\\', '\\\\') \
                                                        .replace('"', '\\"') \
                                                        .replace('\n', '<br>') \
@@ -873,8 +566,30 @@ def reply_to_comment(driver, profile_logger, profile_name, api_comment_filepath)
             post_reply_button = WebDriverWait(driver, 15).until(
                 EC.element_to_be_clickable(POST_REPLY_BUTTON_LOCATOR)
             )
+            element = WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable(COMMENT_EDITOR_LOCATOR)
+                )
+            actions = ActionChains(driver)
+            location = post_reply_button.location
+            size = post_reply_button.size
+            profile_logger.debug(f"Post reply Element location: {location}, size: {size}")
+
+            target_x = location["x"] + size["width"] // 2
+            target_y = location["y"] + size["height"] // 2
+            profile_logger.debug(f"Target click coordinates: ({target_x}, {target_y})")
+
+            mouse_movement = MouseMovement()  # Create an instance if not already done
+            mouse_movement.move_mouse_with_curve(target_x, target_y)
+
+            profile_logger.debug("Moved mouse to target location using bezier curve.")
+
+            actions.move_to_element(element)
+            profile_logger.debug("Moving mouse to text box element.")
+
+
             profile_logger.info("Found 'Post reply' button.")
             profile_logger.debug("Found 'Post reply' button.")
+
             # Scroll into view just before clicking
             driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", post_reply_button)
             time.sleep(random.uniform(0.5, 1.0))

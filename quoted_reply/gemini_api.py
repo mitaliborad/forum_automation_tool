@@ -1,4 +1,5 @@
 # gemini_api.py
+
 import os
 import logging
 import google.generativeai as genai
@@ -56,13 +57,7 @@ class GeminiHandler:
         """Sends the prepared content to the Gemini API and returns the text response."""
         logger.debug(f"Sending prompt to Gemini API. Length: {len(prompt_content)}")
         try:
-            # Generate content using the combined prompt and context
-            # Consider adding safety settings if needed
-            # safety_settings = [
-            #     {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_MEDIUM_AND_ABOVE"},
-            #     {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_MEDIUM_AND_ABOVE"},
-            # ]
-            # response = self.model.generate_content(prompt_content, safety_settings=safety_settings)
+            
             response = self.model.generate_content(prompt_content)
 
 
