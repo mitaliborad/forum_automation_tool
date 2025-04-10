@@ -1,0 +1,9 @@
+2025-04-10 09:32:41,894 - INFO - Starting automation for profile: DarkCodeX
+2025-04-10 09:32:43,097 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 09:32:43,098 - INFO - Calculated token expiration time: 1744268563.0983894
+2025-04-10 09:32:43,099 - INFO - Profile DarkCodeX: Successfully logged in.
+2025-04-10 09:32:43,099 - INFO - Profile DarkCodeX: Starting profile d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-04-10 09:32:48,358 - INFO - Profile DarkCodeX: Extracted port: 51486
+2025-04-10 09:32:48,899 - INFO - Profile DarkCodeX: Started on port 51486.
+2025-04-10 09:32:48,901 - INFO - Loaded 562 visited threads from Thread_links.txt
+2025-04-10 09:32:48,901 - INFO - Successfully loaded links that was already visited!

@@ -1,0 +1,117 @@
+2025-04-10 12:00:11,666 - INFO - Current time: 1744266611.6665888
+2025-04-10 12:00:11,669 - INFO - Token expiration time: 1744268563.0983894
+2025-04-10 12:00:11,672 - INFO - Token expiration time: 1744268563.0983894
+2025-04-10 12:00:11,674 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-10 12:00:19,344 - INFO - Profile DarkCodeX: Pausing for 42.89 seconds...
+2025-04-10 12:01:02,233 - INFO - Profile DarkCodeX: Resuming...
+2025-04-10 12:01:02,254 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-10 12:01:02,255 - INFO - performing random action
+2025-04-10 12:01:02,256 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 12:01:02,257 - DEBUG - Scrolling page 2 times.
+2025-04-10 12:01:02,258 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:01:03,734 - DEBUG - Page scrolled.
+2025-04-10 12:01:05,736 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:01:07,068 - DEBUG - Page scrolled.
+2025-04-10 12:01:09,071 - DEBUG - Random scrolls complete.
+2025-04-10 12:01:09,072 - DEBUG - Scrolling page 3 times.
+2025-04-10 12:01:09,073 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:01:11,058 - DEBUG - Page scrolled.
+2025-04-10 12:01:13,060 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:01:14,764 - DEBUG - Page scrolled.
+2025-04-10 12:01:16,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:01:17,821 - DEBUG - Page scrolled.
+2025-04-10 12:01:19,823 - DEBUG - Random scrolls complete.
+2025-04-10 12:01:30,002 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/pinterest.211/
+2025-04-10 12:01:33,450 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-your-opinion-about-page-taskon-xyz.1700282/unread
+2025-04-10 12:01:33,451 - INFO - Profile DarkCodeX: Pausing for 41.88 seconds...
+2025-04-10 12:02:15,332 - INFO - Profile DarkCodeX: Resuming...
+2025-04-10 12:02:15,335 - INFO - performing random action
+2025-04-10 12:02:30,695 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-your-opinion-about-page-taskon-xyz.1700282/unread
+2025-04-10 12:02:30,696 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-your-opinion-about-page-taskon-xyz.1700282/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 12:02:30,723 - INFO - Extracted thread title: what is your opinion about page taskon.xyz
+2025-04-10 12:02:30,724 - DEBUG - Scrolling page 2 times.
+2025-04-10 12:02:30,724 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:02:32,729 - DEBUG - Page scrolled.
+2025-04-10 12:02:34,732 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:02:36,172 - DEBUG - Page scrolled.
+2025-04-10 12:02:38,174 - DEBUG - Random scrolls complete.
+2025-04-10 12:02:40,845 - DEBUG - Scrolling page 4 times.
+2025-04-10 12:02:40,847 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:02:42,326 - DEBUG - Page scrolled.
+2025-04-10 12:02:45,328 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:02:46,922 - DEBUG - Page scrolled.
+2025-04-10 12:02:49,924 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:02:51,779 - DEBUG - Page scrolled.
+2025-04-10 12:02:54,781 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:02:56,582 - DEBUG - Page scrolled.
+2025-04-10 12:02:59,585 - DEBUG - Random scrolls complete.
+2025-04-10 12:02:59,615 - DEBUG - Found 3 like buttons.
+2025-04-10 12:03:02,616 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-04-10 12:03:03,349 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 12:03:03,372 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 12:03:03,373 - DEBUG - Liked post number 1 of 3.
+2025-04-10 12:03:08,879 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 12:03:08,896 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 12:03:08,897 - DEBUG - Liked post number 2 of 3.
+2025-04-10 12:03:14,253 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 12:03:14,264 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 12:03:14,265 - DEBUG - Liked post number 3 of 3.
+2025-04-10 12:03:18,380 - INFO - Liked 3 posts successfully.
+2025-04-10 12:03:18,381 - INFO - Liked 3 posts successfully.
+2025-04-10 12:03:20,745 - INFO - performing random action
+2025-04-10 12:03:20,748 - DEBUG - Scrolling page 5 times.
+2025-04-10 12:03:20,749 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:03:22,236 - DEBUG - Page scrolled.
+2025-04-10 12:03:25,239 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:03:26,819 - DEBUG - Page scrolled.
+2025-04-10 12:03:29,820 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:03:31,414 - DEBUG - Page scrolled.
+2025-04-10 12:03:34,417 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:03:36,349 - DEBUG - Page scrolled.
+2025-04-10 12:03:39,352 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 12:03:40,548 - DEBUG - Page scrolled.
+2025-04-10 12:03:43,550 - DEBUG - Random scrolls complete.
+2025-04-10 12:03:45,694 - DEBUG - Total comments in the thread: 3
+2025-04-10 12:03:45,919 - INFO - Post content extracted and saved to Thread-Details/Thread Content\what is your opinion about page taskon.xyz.txt
+2025-04-10 12:03:48,607 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 12:03:48,645 - DEBUG - Extracted main post content: I heard more time that is scam
+2025-04-10 12:03:52,058 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 12:03:52,061 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 12:03:54,260 - INFO - Profile DarkCodeX: Pausing for 49.60 seconds...
+2025-04-10 12:04:43,861 - INFO - Profile DarkCodeX: Resuming...
+2025-04-10 12:04:43,864 - INFO - performing random action
+2025-04-10 12:04:43,866 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 12:04:43,868 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 12:04:43,895 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 12:04:43,930 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 12:04:43,935 - DEBUG - Text box scrolled into view
+2025-04-10 12:04:44,725 - DEBUG - Initializing actionchains
+2025-04-10 12:04:44,766 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1863}, size: {'height': 21, 'width': 68}
+2025-04-10 12:04:44,767 - DEBUG - Target click coordinates: (1265, 1873)
+2025-04-10 12:04:52,209 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 12:04:52,211 - DEBUG - Moving mouse to text box element.
+2025-04-10 12:04:52,212 - DEBUG - Clicking on the text box.
+2025-04-10 12:04:52,215 - DEBUG - Sending keys with content: Really? Never had any issues myself, but I'm curious, what makes you say that?
+
+2025-04-10 12:04:57,356 - DEBUG - Clicking on post reply button.
+2025-04-10 12:05:08,138 - DEBUG - Performed Actionchains
+2025-04-10 12:05:08,138 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 12:05:12,139 - INFO - Comment posted successfully.
+2025-04-10 12:05:12,142 - INFO - Task Completed!!
+2025-04-10 12:05:20,069 - INFO - Navigated back to the homepage.
+2025-04-10 12:05:23,025 - INFO - Attempting to clear memory and resources.
+2025-04-10 12:05:23,054 - INFO - Garbage collection completed.
+2025-04-10 12:05:23,055 - INFO - Waiting for 1850 seconds before next execution.
+2025-04-10 15:14:38,871 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-10 15:14:38,874 - INFO - Stopping browser for profile: DarkCodeX...
+2025-04-10 15:14:38,876 - INFO - Refreshing token before stopping profile...
+2025-04-10 15:14:38,879 - INFO - Refreshing token for DarkCodeX...
+2025-04-10 15:14:39,785 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 15:14:39,786 - INFO - Calculated token expiration time: 1744289079.7865596
+2025-04-10 15:14:39,787 - INFO - Profile DarkCodeX: Successfully logged in.
+2025-04-10 15:14:39,788 - INFO - Token refreshed successfully before stopping.
+2025-04-10 15:14:39,789 - INFO - Profile DarkCodeX: Attempting to stop (Attempt 1/3)...
+2025-04-10 15:14:39,791 - INFO - Profile DarkCodeX: Browser closed successfully in 0.00 seconds.
+2025-04-10 15:14:43,346 - INFO - Profile DarkCodeX: API call took 3.55 seconds.
+2025-04-10 15:14:43,349 - INFO - Profile DarkCodeX: Stopped successfully.
+2025-04-10 15:14:43,352 - INFO - Browser stopped successfully for profile: DarkCodeX.

@@ -1,0 +1,9 @@
+2025-04-10 09:27:49,182 - INFO - Starting automation for profile: BinaryGhost
+2025-04-10 09:27:50,320 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 09:27:50,323 - INFO - Calculated token expiration time: 1744268270.3235562
+2025-04-10 09:27:50,326 - INFO - Profile BinaryGhost: Successfully logged in.
+2025-04-10 09:27:50,328 - INFO - Profile BinaryGhost: Starting profile 8bede9f0-d352-4430-acd5-fd8df8f4a8cb...
+2025-04-10 09:27:55,269 - INFO - Profile BinaryGhost: Extracted port: 51253
+2025-04-10 09:27:56,129 - INFO - Profile BinaryGhost: Started on port 51253.
+2025-04-10 09:27:56,131 - INFO - Loaded 560 visited threads from Thread_links.txt
+2025-04-10 09:27:56,132 - INFO - Successfully loaded links that was already visited!

@@ -1,0 +1,102 @@
+2025-04-10 10:05:38,216 - INFO - Current time: 1744259738.2162526
+2025-04-10 10:05:38,219 - INFO - Token expiration time: 1744268355.724446
+2025-04-10 10:05:38,221 - INFO - Token expiration time: 1744268355.724446
+2025-04-10 10:05:38,224 - INFO - performing random action
+2025-04-10 10:05:38,227 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:05:38,229 - DEBUG - Scrolling page 3 times.
+2025-04-10 10:05:38,231 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:40,084 - DEBUG - Page scrolled.
+2025-04-10 10:05:42,086 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:43,306 - DEBUG - Page scrolled.
+2025-04-10 10:05:45,309 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:46,441 - DEBUG - Page scrolled.
+2025-04-10 10:05:48,443 - DEBUG - Random scrolls complete.
+2025-04-10 10:05:48,446 - DEBUG - Scrolling page 3 times.
+2025-04-10 10:05:48,448 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:49,976 - DEBUG - Page scrolled.
+2025-04-10 10:05:51,977 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:53,818 - DEBUG - Page scrolled.
+2025-04-10 10:05:55,822 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:57,126 - DEBUG - Page scrolled.
+2025-04-10 10:05:59,127 - DEBUG - Random scrolls complete.
+2025-04-10 10:06:08,784 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-04-10 10:06:13,277 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-does-googles-helpful-content-update-affect-white-hat-seo-strategies.1703451/unread
+2025-04-10 10:06:13,278 - INFO - Profile NullBytee: Opening random website: https://www.netflix.com/in/
+2025-04-10 10:06:19,782 - INFO - Profile NullBytee: Pausing for 37.44 seconds...
+2025-04-10 10:06:57,228 - INFO - Profile NullBytee: Resuming...
+2025-04-10 10:06:57,240 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-10 10:06:57,242 - INFO - performing random action
+2025-04-10 10:07:05,658 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-does-googles-helpful-content-update-affect-white-hat-seo-strategies.1703451/unread
+2025-04-10 10:07:05,663 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-does-googles-helpful-content-update-affect-white-hat-seo-strategies.1703451/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:07:05,714 - INFO - Extracted thread title: How does Google’s Helpful Content Update affect White Hat SEO strategies
+2025-04-10 10:07:05,715 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:07:05,716 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:07,386 - DEBUG - Page scrolled.
+2025-04-10 10:07:09,388 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:10,777 - DEBUG - Page scrolled.
+2025-04-10 10:07:12,779 - DEBUG - Random scrolls complete.
+2025-04-10 10:07:15,580 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:07:15,582 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:17,396 - DEBUG - Page scrolled.
+2025-04-10 10:07:20,398 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:21,953 - DEBUG - Page scrolled.
+2025-04-10 10:07:24,955 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:26,769 - DEBUG - Page scrolled.
+2025-04-10 10:07:29,771 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:31,071 - DEBUG - Page scrolled.
+2025-04-10 10:07:34,072 - DEBUG - Random scrolls complete.
+2025-04-10 10:07:34,121 - DEBUG - Found 5 like buttons.
+2025-04-10 10:07:37,122 - INFO - Attempting to like 3 posts. There are 5 available.
+2025-04-10 10:07:37,929 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:07:37,944 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:07:37,945 - DEBUG - Liked post number 1 of 3.
+2025-04-10 10:07:43,188 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:07:43,211 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:07:43,214 - DEBUG - Liked post number 2 of 3.
+2025-04-10 10:07:47,863 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:07:47,889 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:07:47,889 - DEBUG - Liked post number 3 of 3.
+2025-04-10 10:07:52,452 - INFO - Liked 3 posts successfully.
+2025-04-10 10:07:52,454 - INFO - Liked 3 posts successfully.
+2025-04-10 10:07:55,358 - INFO - Profile NullBytee: Restoring window...
+2025-04-10 10:07:57,364 - INFO - performing random action
+2025-04-10 10:07:57,366 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:07:57,367 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:58,917 - DEBUG - Page scrolled.
+2025-04-10 10:08:01,919 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:08:03,171 - DEBUG - Page scrolled.
+2025-04-10 10:08:06,173 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:08:07,188 - DEBUG - Page scrolled.
+2025-04-10 10:08:10,190 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:08:11,867 - DEBUG - Page scrolled.
+2025-04-10 10:08:14,869 - DEBUG - Random scrolls complete.
+2025-04-10 10:08:17,907 - DEBUG - Total comments in the thread: 5
+2025-04-10 10:08:38,783 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How does Google’s Helpful Content Update affect White Hat SEO strategies.txt
+2025-04-10 10:08:40,946 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:08:40,998 - DEBUG - Extracted main post content: I want to understand how google's helpful content update affects White Hat SEO strategies. Does it change the way we should create content or optimize our blogs to rank better?
+2025-04-10 10:08:45,675 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:08:45,679 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:08:48,365 - INFO - Profile NullBytee: Restoring window...
+2025-04-10 10:08:50,370 - INFO - performing random action
+2025-04-10 10:08:50,373 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:08:50,375 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:08:50,415 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:08:50,461 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:08:50,467 - DEBUG - Text box scrolled into view
+2025-04-10 10:08:51,203 - DEBUG - Initializing actionchains
+2025-04-10 10:08:51,262 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2558}, size: {'height': 21, 'width': 68}
+2025-04-10 10:08:51,263 - DEBUG - Target click coordinates: (1265, 2568)
+2025-04-10 10:09:00,195 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:09:00,196 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:09:00,197 - DEBUG - Clicking on the text box.
+2025-04-10 10:09:00,198 - DEBUG - Sending keys with content: It's less about changing SEO tactics and more about genuinely answering user questions better than anyone else. Are you truly solving a problem with your content?
+
+2025-04-10 10:09:05,392 - DEBUG - Clicking on post reply button.
+2025-04-10 10:09:16,351 - DEBUG - Performed Actionchains
+2025-04-10 10:09:16,352 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:09:20,353 - INFO - Comment posted successfully.
+2025-04-10 10:09:20,356 - INFO - Task Completed!!
+2025-04-10 10:09:27,890 - INFO - Navigated back to the homepage.
+2025-04-10 10:09:30,852 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:09:30,881 - INFO - Garbage collection completed.
+2025-04-10 10:09:30,881 - INFO - Waiting for 1850 seconds before next execution.

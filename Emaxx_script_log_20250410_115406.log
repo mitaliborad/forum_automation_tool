@@ -1,0 +1,116 @@
+2025-04-10 11:54:06,425 - INFO - Current time: 1744266246.4254453
+2025-04-10 11:54:06,428 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 11:54:06,431 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 11:54:06,433 - INFO - performing random action
+2025-04-10 11:54:06,435 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:54:06,436 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:54:06,437 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:54:08,211 - DEBUG - Page scrolled.
+2025-04-10 11:54:10,213 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:54:11,418 - DEBUG - Page scrolled.
+2025-04-10 11:54:13,419 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:54:14,787 - DEBUG - Page scrolled.
+2025-04-10 11:54:16,789 - DEBUG - Random scrolls complete.
+2025-04-10 11:54:16,791 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:54:16,793 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:54:17,827 - DEBUG - Page scrolled.
+2025-04-10 11:54:19,830 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:54:21,038 - DEBUG - Page scrolled.
+2025-04-10 11:54:23,041 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:54:24,483 - DEBUG - Page scrolled.
+2025-04-10 11:54:26,485 - DEBUG - Random scrolls complete.
+2025-04-10 11:54:41,712 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-10 11:54:45,397 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-are-the-best-resources-for-vector-images-to-use-in-blog-posts.1251873/unread
+2025-04-10 11:54:45,398 - INFO - performing random action
+2025-04-10 11:54:56,461 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-are-the-best-resources-for-vector-images-to-use-in-blog-posts.1251873/unread
+2025-04-10 11:54:56,466 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-are-the-best-resources-for-vector-images-to-use-in-blog-posts.1251873/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:54:56,526 - INFO - Extracted thread title: What are the best resources for vector images to use in blog posts
+2025-04-10 11:54:56,527 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:54:56,527 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:54:58,325 - DEBUG - Page scrolled.
+2025-04-10 11:55:00,327 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:01,501 - DEBUG - Page scrolled.
+2025-04-10 11:55:03,504 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:05,403 - DEBUG - Page scrolled.
+2025-04-10 11:55:07,406 - DEBUG - Random scrolls complete.
+2025-04-10 11:55:09,540 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:55:09,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:10,590 - DEBUG - Page scrolled.
+2025-04-10 11:55:13,592 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:15,004 - DEBUG - Page scrolled.
+2025-04-10 11:55:18,005 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:19,721 - DEBUG - Page scrolled.
+2025-04-10 11:55:22,724 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:24,217 - DEBUG - Page scrolled.
+2025-04-10 11:55:27,220 - DEBUG - Random scrolls complete.
+2025-04-10 11:55:27,250 - DEBUG - Found 15 like buttons.
+2025-04-10 11:55:30,251 - INFO - Attempting to like 4 posts. There are 15 available.
+2025-04-10 11:55:30,908 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:55:30,918 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:55:30,919 - DEBUG - Liked post number 1 of 4.
+2025-04-10 11:55:36,418 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:55:36,437 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:55:36,439 - DEBUG - Liked post number 2 of 4.
+2025-04-10 11:55:41,658 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:55:41,677 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:55:41,680 - DEBUG - Liked post number 3 of 4.
+2025-04-10 11:55:47,341 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:55:47,360 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:55:47,363 - DEBUG - Liked post number 4 of 4.
+2025-04-10 11:55:52,025 - INFO - Liked 4 posts successfully.
+2025-04-10 11:55:52,027 - INFO - Liked 4 posts successfully.
+2025-04-10 11:55:54,783 - INFO - performing random action
+2025-04-10 11:55:54,786 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:55:54,787 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:56,177 - DEBUG - Page scrolled.
+2025-04-10 11:55:59,180 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:00,671 - DEBUG - Page scrolled.
+2025-04-10 11:56:03,673 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:05,461 - DEBUG - Page scrolled.
+2025-04-10 11:56:08,464 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:10,239 - DEBUG - Page scrolled.
+2025-04-10 11:56:13,240 - DEBUG - Random scrolls complete.
+2025-04-10 11:56:15,717 - DEBUG - Total comments in the thread: 15
+2025-04-10 11:57:50,302 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What are the best resources for vector images to use in blog posts.txt
+2025-04-10 11:57:52,630 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:57:52,679 - DEBUG - Extracted main post content: Do you know any good resources for vector images to use in blog posts?
+2025-04-10 11:57:57,824 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:57:57,827 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:58:00,190 - INFO - Profile Emaxx: Pausing for 42.88 seconds...
+2025-04-10 11:58:43,067 - INFO - Profile Emaxx: Resuming...
+2025-04-10 11:58:43,070 - INFO - performing random action
+2025-04-10 11:58:43,072 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:58:43,074 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:58:43,103 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:58:43,138 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:58:43,144 - DEBUG - Text box scrolled into view
+2025-04-10 11:58:43,739 - DEBUG - Initializing actionchains
+2025-04-10 11:58:43,801 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4610}, size: {'height': 21, 'width': 68}
+2025-04-10 11:58:43,803 - DEBUG - Target click coordinates: (1265, 4620)
+2025-04-10 11:58:57,152 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:58:57,154 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:58:57,155 - DEBUG - Clicking on the text box.
+2025-04-10 11:58:57,157 - DEBUG - Sending keys with content: Unsplash has some decent vector art mixed in with the photos, but honestly, have you tried just Googling free vectors? You'd be surprised what's out there.
+
+2025-04-10 11:59:02,637 - DEBUG - Clicking on post reply button.
+2025-04-10 11:59:13,636 - DEBUG - Performed Actionchains
+2025-04-10 11:59:13,637 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:59:17,639 - INFO - Comment posted successfully.
+2025-04-10 11:59:17,641 - INFO - Task Completed!!
+2025-04-10 11:59:25,376 - INFO - Navigated back to the homepage.
+2025-04-10 11:59:27,862 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:59:27,891 - INFO - Garbage collection completed.
+2025-04-10 11:59:27,892 - INFO - Waiting for 1850 seconds before next execution.
+2025-04-10 15:08:43,708 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-10 15:08:43,711 - INFO - Stopping browser for profile: Emaxx...
+2025-04-10 15:08:43,713 - INFO - Refreshing token before stopping profile...
+2025-04-10 15:08:43,716 - INFO - Refreshing token for Emaxx...
+2025-04-10 15:08:45,312 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 15:08:45,315 - INFO - Calculated token expiration time: 1744288725.3149352
+2025-04-10 15:08:45,317 - INFO - Profile Emaxx: Successfully logged in.
+2025-04-10 15:08:45,320 - INFO - Token refreshed successfully before stopping.
+2025-04-10 15:08:45,322 - INFO - Profile Emaxx: Attempting to stop (Attempt 1/3)...
+2025-04-10 15:08:45,326 - INFO - Profile Emaxx: Browser closed successfully in 0.00 seconds.
+2025-04-10 15:08:47,927 - INFO - Profile Emaxx: API call took 2.60 seconds.
+2025-04-10 15:08:47,930 - INFO - Profile Emaxx: Stopped successfully.
+2025-04-10 15:08:47,934 - INFO - Browser stopped successfully for profile: Emaxx.

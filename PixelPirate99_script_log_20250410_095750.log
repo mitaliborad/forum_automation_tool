@@ -1,0 +1,99 @@
+2025-04-10 09:57:50,812 - INFO - Current time: 1744259270.8119092
+2025-04-10 09:57:50,814 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 09:57:50,817 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 09:57:50,819 - INFO - performing random action
+2025-04-10 09:57:50,822 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 09:57:50,824 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:57:50,826 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:57:52,710 - DEBUG - Page scrolled.
+2025-04-10 09:57:54,713 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:57:56,686 - DEBUG - Page scrolled.
+2025-04-10 09:57:58,688 - DEBUG - Random scrolls complete.
+2025-04-10 09:57:58,691 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:57:58,693 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:00,059 - DEBUG - Page scrolled.
+2025-04-10 09:58:02,060 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:03,266 - DEBUG - Page scrolled.
+2025-04-10 09:58:05,268 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:07,280 - DEBUG - Page scrolled.
+2025-04-10 09:58:09,283 - DEBUG - Random scrolls complete.
+2025-04-10 09:58:18,211 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-04-10 09:58:22,024 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/marketing-question.1647165/unread
+2025-04-10 09:58:22,024 - INFO - performing random action
+2025-04-10 09:58:32,536 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/marketing-question.1647165/unread
+2025-04-10 09:58:32,540 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/marketing-question.1647165/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 09:58:32,582 - INFO - Extracted thread title: Marketing question
+2025-04-10 09:58:32,583 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:58:32,583 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:34,530 - DEBUG - Page scrolled.
+2025-04-10 09:58:36,532 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:37,660 - DEBUG - Page scrolled.
+2025-04-10 09:58:39,662 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:41,059 - DEBUG - Page scrolled.
+2025-04-10 09:58:43,061 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:44,147 - DEBUG - Page scrolled.
+2025-04-10 09:58:46,149 - DEBUG - Random scrolls complete.
+2025-04-10 09:58:48,489 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:58:48,491 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:49,613 - DEBUG - Page scrolled.
+2025-04-10 09:58:52,616 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:53,939 - DEBUG - Page scrolled.
+2025-04-10 09:58:56,941 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:58:58,341 - DEBUG - Page scrolled.
+2025-04-10 09:59:01,343 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:59:02,652 - DEBUG - Page scrolled.
+2025-04-10 09:59:05,655 - DEBUG - Random scrolls complete.
+2025-04-10 09:59:05,685 - DEBUG - Found 20 like buttons.
+2025-04-10 09:59:08,687 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-10 09:59:09,608 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:59:09,630 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:59:09,631 - DEBUG - Liked post number 1 of 1.
+2025-04-10 09:59:14,156 - INFO - Liked 1 posts successfully.
+2025-04-10 09:59:14,158 - INFO - Liked 1 posts successfully.
+2025-04-10 09:59:16,784 - INFO - performing random action
+2025-04-10 09:59:16,787 - DEBUG - Scrolling page 5 times.
+2025-04-10 09:59:16,788 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:59:18,427 - DEBUG - Page scrolled.
+2025-04-10 09:59:21,429 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:59:22,651 - DEBUG - Page scrolled.
+2025-04-10 09:59:25,653 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:59:26,869 - DEBUG - Page scrolled.
+2025-04-10 09:59:29,871 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:59:31,588 - DEBUG - Page scrolled.
+2025-04-10 09:59:34,590 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:59:35,957 - DEBUG - Page scrolled.
+2025-04-10 09:59:38,959 - DEBUG - Random scrolls complete.
+2025-04-10 09:59:41,765 - DEBUG - Total comments in the thread: 20
+2025-04-10 10:02:49,993 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Marketing question.txt
+2025-04-10 10:02:52,328 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:02:52,365 - DEBUG - Extracted main post content: Hey people of BHW!
+I know that out there we have a lot of experienced people regarding marketing so i wanted to ask this question.
+Lets say i have a product site and everything else ready execpt marketing (ads) and have only 15$ budget left more or less.
+Is it better to do ads free campaing on social media at that point or would you recomend me an ad provider that would more or less contribute to at least 4% CTR and 2% Conversion rate of lets say 100 clicks ?
+2025-04-10 10:02:56,215 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:02:56,218 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:02:58,476 - INFO - Profile PixelPirate99: Pausing for 38.32 seconds...
+2025-04-10 10:03:36,792 - INFO - Profile PixelPirate99: Resuming...
+2025-04-10 10:03:36,795 - INFO - performing random action
+2025-04-10 10:03:36,798 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:03:36,800 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:03:36,836 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:03:36,877 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:03:36,884 - DEBUG - Text box scrolled into view
+2025-04-10 10:03:37,764 - DEBUG - Initializing actionchains
+2025-04-10 10:03:37,783 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7147}, size: {'height': 21, 'width': 68}
+2025-04-10 10:03:37,783 - DEBUG - Target click coordinates: (1265, 7157)
+2025-04-10 10:03:55,333 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:03:55,337 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:03:55,338 - DEBUG - Clicking on the text box.
+2025-04-10 10:03:55,342 - DEBUG - Sending keys with content: $15 is tough, maybe focus on super-niche forums or communities related to your product and become an active, helpful member, subtly plugging your site where relevant. Free and slow, but it might get you somewhere.
+
+2025-04-10 10:04:00,896 - DEBUG - Clicking on post reply button.
+2025-04-10 10:04:12,111 - DEBUG - Performed Actionchains
+2025-04-10 10:04:12,113 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:04:16,116 - INFO - Comment posted successfully.
+2025-04-10 10:04:16,117 - INFO - Task Completed!!
+2025-04-10 10:04:22,349 - INFO - Navigated back to the homepage.
+2025-04-10 10:04:25,201 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:04:25,232 - INFO - Garbage collection completed.
+2025-04-10 10:04:25,233 - INFO - Waiting for 1850 seconds before next execution.

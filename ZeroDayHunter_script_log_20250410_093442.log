@@ -1,0 +1,8 @@
+2025-04-10 09:34:42,915 - INFO - Starting automation for profile: ZeroDayHunter
+2025-04-10 09:34:43,900 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 09:34:43,902 - INFO - Calculated token expiration time: 1744268683.9025466
+2025-04-10 09:34:43,904 - INFO - Profile ZeroDayHunter: Successfully logged in.
+2025-04-10 09:34:43,907 - INFO - Profile ZeroDayHunter: Starting profile e70a0144-441c-40ec-92fc-84a43bc03e6a...
+2025-04-10 09:34:54,996 - ERROR - Profile ZeroDayHunter: Error starting profile: {"status":{"error_code":"GET_PROXY_CONNECTION_IP_ERROR","http_code":400,"message":"couldn't get proxy connection ip data"}}
+2025-04-10 09:34:54,998 - ERROR - Failed to start MultiLogin profile: ZeroDayHunter. Skipping.
+2025-04-10 09:34:55,000 - WARNING - Driver was not initialized for ZeroDayHunter.  Skipping stop_profile.

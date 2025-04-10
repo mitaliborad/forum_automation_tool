@@ -1,0 +1,102 @@
+2025-04-10 09:23:04,110 - INFO - Current time: 1744257184.1100602
+2025-04-10 09:23:04,110 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 09:23:04,111 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 09:23:04,112 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-10 09:23:09,937 - INFO - Profile PixelPirate99: Pausing for 41.13 seconds...
+2025-04-10 09:23:51,071 - INFO - Profile PixelPirate99: Resuming...
+2025-04-10 09:23:51,082 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-10 09:23:51,085 - INFO - performing random action
+2025-04-10 09:23:51,088 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 09:23:51,091 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:23:51,093 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:23:52,813 - DEBUG - Page scrolled.
+2025-04-10 09:23:54,815 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:23:56,772 - DEBUG - Page scrolled.
+2025-04-10 09:23:58,774 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:23:59,897 - DEBUG - Page scrolled.
+2025-04-10 09:24:01,899 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:03,639 - DEBUG - Page scrolled.
+2025-04-10 09:24:05,642 - DEBUG - Random scrolls complete.
+2025-04-10 09:24:05,643 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:24:05,644 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:07,550 - DEBUG - Page scrolled.
+2025-04-10 09:24:09,552 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:10,807 - DEBUG - Page scrolled.
+2025-04-10 09:24:12,810 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:14,628 - DEBUG - Page scrolled.
+2025-04-10 09:24:16,631 - DEBUG - Random scrolls complete.
+2025-04-10 09:24:21,334 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-04-10 09:24:24,689 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-voice-ai.1689488/unread
+2025-04-10 09:24:24,690 - INFO - performing random action
+2025-04-10 09:24:31,282 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-voice-ai.1689488/unread
+2025-04-10 09:24:31,286 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-voice-ai.1689488/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 09:24:31,341 - INFO - Extracted thread title: Best Voice AI
+2025-04-10 09:24:31,342 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:24:31,343 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:33,218 - DEBUG - Page scrolled.
+2025-04-10 09:24:35,220 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:36,321 - DEBUG - Page scrolled.
+2025-04-10 09:24:38,323 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:40,071 - DEBUG - Page scrolled.
+2025-04-10 09:24:42,074 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:43,311 - DEBUG - Page scrolled.
+2025-04-10 09:24:45,314 - DEBUG - Random scrolls complete.
+2025-04-10 09:24:48,185 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:24:48,187 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:49,339 - DEBUG - Page scrolled.
+2025-04-10 09:24:52,340 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:53,413 - DEBUG - Page scrolled.
+2025-04-10 09:24:56,415 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:24:57,638 - DEBUG - Page scrolled.
+2025-04-10 09:25:00,639 - DEBUG - Random scrolls complete.
+2025-04-10 09:25:00,676 - DEBUG - Found 4 like buttons.
+2025-04-10 09:25:03,677 - INFO - Attempting to like 1 posts. There are 4 available.
+2025-04-10 09:25:04,237 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:25:04,276 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:25:04,278 - DEBUG - Liked post number 1 of 1.
+2025-04-10 09:25:09,180 - INFO - Liked 1 posts successfully.
+2025-04-10 09:25:09,183 - INFO - Liked 1 posts successfully.
+2025-04-10 09:25:11,913 - INFO - performing random action
+2025-04-10 09:25:11,914 - DEBUG - Scrolling page 6 times.
+2025-04-10 09:25:11,915 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:13,389 - DEBUG - Page scrolled.
+2025-04-10 09:25:16,391 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:17,480 - DEBUG - Page scrolled.
+2025-04-10 09:25:20,483 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:22,084 - DEBUG - Page scrolled.
+2025-04-10 09:25:25,087 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:26,841 - DEBUG - Page scrolled.
+2025-04-10 09:25:29,842 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:31,628 - DEBUG - Page scrolled.
+2025-04-10 09:25:34,631 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:35,890 - DEBUG - Page scrolled.
+2025-04-10 09:25:38,893 - DEBUG - Random scrolls complete.
+2025-04-10 09:25:41,628 - DEBUG - Total comments in the thread: 4
+2025-04-10 09:26:12,819 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Best Voice AI.txt
+2025-04-10 09:26:15,213 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 09:26:15,234 - DEBUG - Extracted main post content: Amazing Thanks
+2025-04-10 09:26:20,709 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 09:26:20,712 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 09:26:22,976 - INFO - performing random action
+2025-04-10 09:26:22,978 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:26:22,980 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:26:23,009 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:26:23,049 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:26:23,057 - DEBUG - Text box scrolled into view
+2025-04-10 09:26:23,899 - DEBUG - Initializing actionchains
+2025-04-10 09:26:23,922 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2040}, size: {'height': 21, 'width': 68}
+2025-04-10 09:26:23,923 - DEBUG - Target click coordinates: (1265, 2050)
+2025-04-10 09:26:32,190 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 09:26:32,192 - DEBUG - Moving mouse to text box element.
+2025-04-10 09:26:32,194 - DEBUG - Clicking on the text box.
+2025-04-10 09:26:32,196 - DEBUG - Sending keys with content: Awesome, glad it helped! What are you working on now?
+
+2025-04-10 09:26:37,734 - DEBUG - Clicking on post reply button.
+2025-04-10 09:26:48,752 - DEBUG - Performed Actionchains
+2025-04-10 09:26:48,753 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 09:26:52,754 - INFO - Comment posted successfully.
+2025-04-10 09:26:52,756 - INFO - Task Completed!!
+2025-04-10 09:26:57,867 - INFO - Navigated back to the homepage.
+2025-04-10 09:27:00,779 - INFO - Attempting to clear memory and resources.
+2025-04-10 09:27:00,808 - INFO - Garbage collection completed.
+2025-04-10 09:27:00,809 - INFO - Waiting for 1850 seconds before next execution.

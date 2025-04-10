@@ -1,0 +1,134 @@
+2025-04-10 09:32:48,903 - INFO - Current time: 1744257768.9033403
+2025-04-10 09:32:48,904 - INFO - Token expiration time: 1744268563.0983894
+2025-04-10 09:32:48,906 - INFO - Token expiration time: 1744268563.0983894
+2025-04-10 09:32:48,908 - INFO - performing random action
+2025-04-10 09:32:48,909 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 09:32:48,909 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:32:48,910 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:48,941 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF72ECE0C45+27221]
+	(No symbol) [0x00007FF72EC46F30]
+	(No symbol) [0x00007FF72EAC5ADA]
+	(No symbol) [0x00007FF72EAB599C]
+	(No symbol) [0x00007FF72EAB568A]
+	(No symbol) [0x00007FF72EAB320F]
+	(No symbol) [0x00007FF72EAB3CDF]
+	(No symbol) [0x00007FF72EABFD5E]
+	(No symbol) [0x00007FF72EAD5FE3]
+	(No symbol) [0x00007FF72EADD11A]
+	(No symbol) [0x00007FF72EAB444D]
+	(No symbol) [0x00007FF72EAD5D15]
+	(No symbol) [0x00007FF72EB7085E]
+	(No symbol) [0x00007FF72EB47A73]
+	(No symbol) [0x00007FF72EB10750]
+	(No symbol) [0x00007FF72EB11A03]
+	GetHandleVerifier [0x00007FF72F046E2D+3591229]
+	GetHandleVerifier [0x00007FF72F05E45A+3687018]
+	GetHandleVerifier [0x00007FF72F053323+3641651]
+	GetHandleVerifier [0x00007FF72EDAB6BA+857290]
+	(No symbol) [0x00007FF72EC5230F]
+	(No symbol) [0x00007FF72EC4E304]
+	(No symbol) [0x00007FF72EC4E4A6]
+	(No symbol) [0x00007FF72EC3D469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-10 09:37:50,438 - DEBUG - Page scrolled.
+2025-04-10 09:37:52,440 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:54,336 - DEBUG - Page scrolled.
+2025-04-10 09:37:56,337 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:57,817 - DEBUG - Page scrolled.
+2025-04-10 09:37:59,820 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:01,759 - DEBUG - Page scrolled.
+2025-04-10 09:38:03,762 - DEBUG - Random scrolls complete.
+2025-04-10 09:38:03,765 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:38:03,768 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:05,351 - DEBUG - Page scrolled.
+2025-04-10 09:38:07,356 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:08,749 - DEBUG - Page scrolled.
+2025-04-10 09:38:10,751 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:12,375 - DEBUG - Page scrolled.
+2025-04-10 09:38:14,376 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:16,021 - DEBUG - Page scrolled.
+2025-04-10 09:38:18,022 - DEBUG - Random scrolls complete.
+2025-04-10 09:38:23,964 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-10 09:38:28,312 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/keeping-stripe-account-safe-from-suspension.1703390/unread
+2025-04-10 09:38:28,312 - INFO - performing random action
+2025-04-10 09:38:36,218 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/keeping-stripe-account-safe-from-suspension.1703390/unread
+2025-04-10 09:38:36,221 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/keeping-stripe-account-safe-from-suspension.1703390/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 09:38:36,282 - INFO - Extracted thread title: Keeping Stripe account safe from suspension
+2025-04-10 09:38:36,283 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:38:36,283 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:37,323 - DEBUG - Page scrolled.
+2025-04-10 09:38:39,326 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:40,932 - DEBUG - Page scrolled.
+2025-04-10 09:38:42,936 - DEBUG - Random scrolls complete.
+2025-04-10 09:38:45,823 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:38:45,824 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:47,385 - DEBUG - Page scrolled.
+2025-04-10 09:38:50,386 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:52,332 - DEBUG - Page scrolled.
+2025-04-10 09:38:55,336 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:57,297 - DEBUG - Page scrolled.
+2025-04-10 09:39:00,299 - DEBUG - Random scrolls complete.
+2025-04-10 09:39:00,314 - DEBUG - Found 2 like buttons.
+2025-04-10 09:39:03,315 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-10 09:39:04,184 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:39:04,222 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:39:04,224 - DEBUG - Liked post number 1 of 2.
+2025-04-10 09:39:09,080 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:39:09,102 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:39:09,104 - DEBUG - Liked post number 2 of 2.
+2025-04-10 09:39:13,365 - INFO - Liked 2 posts successfully.
+2025-04-10 09:39:13,365 - INFO - Liked 2 posts successfully.
+2025-04-10 09:39:15,688 - INFO - performing random action
+2025-04-10 09:39:15,689 - DEBUG - Scrolling page 5 times.
+2025-04-10 09:39:15,690 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:39:17,487 - DEBUG - Page scrolled.
+2025-04-10 09:39:20,490 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:39:22,436 - DEBUG - Page scrolled.
+2025-04-10 09:39:25,438 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:39:27,376 - DEBUG - Page scrolled.
+2025-04-10 09:39:30,382 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:39:32,359 - DEBUG - Page scrolled.
+2025-04-10 09:39:35,361 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:39:36,438 - DEBUG - Page scrolled.
+2025-04-10 09:39:39,443 - DEBUG - Random scrolls complete.
+2025-04-10 09:39:42,097 - DEBUG - Total comments in the thread: 2
+2025-04-10 09:39:42,247 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Keeping Stripe account safe from suspension.txt
+2025-04-10 09:39:44,640 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 09:39:44,664 - DEBUG - Extracted main post content: When adding the API to your site for orders do you have to add the domain to the domain section to indicate what sites your running on?
+
+This is my first time actually using stripe (fresh stealth account) if anyone with experience with stealth stripes/stripe pls leave leave some advice below
+specficially on how to fully setup on a new acc / keep it safe from suspension
+2025-04-10 09:39:47,882 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 09:39:47,885 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 09:39:50,440 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-10 09:39:59,592 - INFO - Profile DarkCodeX: Pausing for 34.87 seconds...
+2025-04-10 09:40:34,467 - INFO - Profile DarkCodeX: Resuming...
+2025-04-10 09:40:34,491 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-10 09:40:34,496 - INFO - performing random action
+2025-04-10 09:40:34,499 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:40:34,499 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:40:34,517 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:40:34,558 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:40:34,565 - DEBUG - Text box scrolled into view
+2025-04-10 09:40:35,451 - DEBUG - Initializing actionchains
+2025-04-10 09:40:35,500 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1579}, size: {'height': 21, 'width': 68}
+2025-04-10 09:40:35,500 - DEBUG - Target click coordinates: (1265, 1589)
+2025-04-10 09:40:42,833 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 09:40:42,833 - DEBUG - Moving mouse to text box element.
+2025-04-10 09:40:42,834 - DEBUG - Clicking on the text box.
+2025-04-10 09:40:42,835 - DEBUG - Sending keys with content: Yeah, you gotta tell Stripe which sites are using the API, it's a security thing. As for keeping that stealth account alive, treat it like gold dust – don't rush, and keep everything consistent!
+
+2025-04-10 09:40:48,126 - DEBUG - Clicking on post reply button.
+2025-04-10 09:40:49,508 - DEBUG - Performed Actionchains
+2025-04-10 09:40:49,509 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 09:40:53,510 - INFO - Comment posted successfully.
+2025-04-10 09:40:53,512 - INFO - Task Completed!!
+2025-04-10 09:40:56,353 - INFO - Navigated back to the homepage.
+2025-04-10 09:40:59,011 - INFO - Attempting to clear memory and resources.
+2025-04-10 09:40:59,084 - INFO - Garbage collection completed.
+2025-04-10 09:40:59,085 - INFO - Waiting for 1850 seconds before next execution.

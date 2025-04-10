@@ -1,0 +1,99 @@
+2025-04-10 10:04:31,571 - INFO - Current time: 1744259671.571693
+2025-04-10 10:04:31,573 - INFO - Token expiration time: 1744268270.3235562
+2025-04-10 10:04:31,574 - INFO - Token expiration time: 1744268270.3235562
+2025-04-10 10:04:31,575 - INFO - Profile BinaryGhost: Opening random website: https://github.com/
+2025-04-10 10:04:41,606 - INFO - Profile BinaryGhost: Pausing for 39.98 seconds...
+2025-04-10 10:05:21,585 - INFO - Profile BinaryGhost: Resuming...
+2025-04-10 10:05:21,607 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-10 10:05:21,608 - INFO - performing random action
+2025-04-10 10:05:21,609 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:05:21,610 - DEBUG - Scrolling page 3 times.
+2025-04-10 10:05:21,610 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:23,445 - DEBUG - Page scrolled.
+2025-04-10 10:05:25,448 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:27,377 - DEBUG - Page scrolled.
+2025-04-10 10:05:29,379 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:30,508 - DEBUG - Page scrolled.
+2025-04-10 10:05:32,511 - DEBUG - Random scrolls complete.
+2025-04-10 10:05:32,512 - DEBUG - Scrolling page 3 times.
+2025-04-10 10:05:32,512 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:34,331 - DEBUG - Page scrolled.
+2025-04-10 10:05:36,333 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:38,136 - DEBUG - Page scrolled.
+2025-04-10 10:05:40,138 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:41,551 - DEBUG - Page scrolled.
+2025-04-10 10:05:43,553 - DEBUG - Random scrolls complete.
+2025-04-10 10:05:54,790 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/c-c-c.60/
+2025-04-10 10:05:58,418 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-help-please.1663136/
+2025-04-10 10:05:58,419 - INFO - Profile BinaryGhost: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-10 10:06:07,252 - INFO - Profile BinaryGhost: Pausing for 32.01 seconds...
+2025-04-10 10:06:39,264 - INFO - Profile BinaryGhost: Resuming...
+2025-04-10 10:06:39,297 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-10 10:06:39,298 - INFO - performing random action
+2025-04-10 10:06:52,767 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-help-please.1663136/
+2025-04-10 10:06:52,768 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-help-please.1663136/' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:06:52,803 - INFO - Extracted thread title: Need help please
+2025-04-10 10:06:52,804 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:06:52,805 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:06:54,649 - DEBUG - Page scrolled.
+2025-04-10 10:06:56,651 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:06:58,356 - DEBUG - Page scrolled.
+2025-04-10 10:07:00,358 - DEBUG - Random scrolls complete.
+2025-04-10 10:07:02,590 - DEBUG - Scrolling page 1 times.
+2025-04-10 10:07:02,592 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:04,512 - DEBUG - Page scrolled.
+2025-04-10 10:07:07,515 - DEBUG - Random scrolls complete.
+2025-04-10 10:07:07,556 - DEBUG - Found 1 like buttons.
+2025-04-10 10:07:10,558 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-10 10:07:11,486 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:07:11,510 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:07:11,511 - DEBUG - Liked post number 1 of 1.
+2025-04-10 10:07:16,406 - INFO - Liked 1 posts successfully.
+2025-04-10 10:07:16,407 - INFO - Liked 1 posts successfully.
+2025-04-10 10:07:18,636 - INFO - performing random action
+2025-04-10 10:07:18,639 - DEBUG - Scrolling page 7 times.
+2025-04-10 10:07:18,641 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:20,010 - DEBUG - Page scrolled.
+2025-04-10 10:07:23,013 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:24,250 - DEBUG - Page scrolled.
+2025-04-10 10:07:27,251 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:28,843 - DEBUG - Page scrolled.
+2025-04-10 10:07:31,844 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:33,103 - DEBUG - Page scrolled.
+2025-04-10 10:07:36,106 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:37,601 - DEBUG - Page scrolled.
+2025-04-10 10:07:40,603 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:42,002 - DEBUG - Page scrolled.
+2025-04-10 10:07:45,004 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:07:46,701 - DEBUG - Page scrolled.
+2025-04-10 10:07:49,704 - DEBUG - Random scrolls complete.
+2025-04-10 10:07:52,640 - DEBUG - Total comments in the thread: 1
+2025-04-10 10:07:52,736 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need help please.txt
+2025-04-10 10:07:54,920 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:07:54,961 - DEBUG - Extracted main post content: Can anyone help me with Australian Cashout Methods?
+2025-04-10 10:07:58,927 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:07:58,931 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:08:01,238 - INFO - Profile BinaryGhost: Restoring window...
+2025-04-10 10:08:03,243 - INFO - performing random action
+2025-04-10 10:08:03,246 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:08:03,247 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:08:03,279 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:08:03,322 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:08:03,330 - DEBUG - Text box scrolled into view
+2025-04-10 10:08:03,932 - DEBUG - Initializing actionchains
+2025-04-10 10:08:03,974 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1067}, size: {'height': 21, 'width': 68}
+2025-04-10 10:08:03,974 - DEBUG - Target click coordinates: (1265, 1077)
+2025-04-10 10:08:09,801 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:08:09,803 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:08:09,804 - DEBUG - Clicking on the text box.
+2025-04-10 10:08:09,807 - DEBUG - Sending keys with content: Why Aussie methods specifically? The principles are generally the same, but knowing the local nuances might help.
+
+2025-04-10 10:08:15,419 - DEBUG - Clicking on post reply button.
+2025-04-10 10:08:26,351 - DEBUG - Performed Actionchains
+2025-04-10 10:08:26,352 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:08:30,353 - INFO - Comment posted successfully.
+2025-04-10 10:08:30,354 - INFO - Task Completed!!
+2025-04-10 10:08:40,238 - INFO - Navigated back to the homepage.
+2025-04-10 10:08:42,958 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:08:42,988 - INFO - Garbage collection completed.
+2025-04-10 10:08:42,988 - INFO - Waiting for 1850 seconds before next execution.
