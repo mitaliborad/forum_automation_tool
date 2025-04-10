@@ -1,0 +1,39 @@
+2025-04-09 11:38:36,729 - INFO - Current time: 1744178916.7295551
+2025-04-09 11:38:36,732 - INFO - Token expiration time: 1744180989.5892174
+2025-04-09 11:38:36,735 - INFO - Token expiration time: 1744180989.5892174
+2025-04-09 11:38:36,737 - INFO - performing random action
+2025-04-09 11:38:36,741 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 11:38:36,744 - DEBUG - Scrolling page 3 times.
+2025-04-09 11:38:36,744 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:38:38,715 - DEBUG - Page scrolled.
+2025-04-09 11:38:40,718 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:38:42,596 - DEBUG - Page scrolled.
+2025-04-09 11:38:44,599 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:38:46,322 - DEBUG - Page scrolled.
+2025-04-09 11:38:48,324 - DEBUG - Random scrolls complete.
+2025-04-09 11:38:48,326 - DEBUG - Scrolling page 2 times.
+2025-04-09 11:38:48,328 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:38:49,849 - DEBUG - Page scrolled.
+2025-04-09 11:38:51,851 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:38:53,448 - DEBUG - Page scrolled.
+2025-04-09 11:38:55,450 - DEBUG - Random scrolls complete.
+2025-04-09 11:38:57,313 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-09 11:39:07,696 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-09 11:39:07,711 - INFO - Profile DataPhreak: Opening random website: https://www.canva.com/en_in/
+2025-04-09 11:39:13,920 - INFO - Profile DataPhreak: Pausing for 42.96 seconds...
+2025-04-09 11:39:56,883 - INFO - Profile DataPhreak: Resuming...
+2025-04-09 11:39:56,910 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-09 11:39:56,911 - INFO - performing random action
+2025-04-09 11:39:56,913 - WARNING - Skipping thread processing due to no thread link being found in subforum.

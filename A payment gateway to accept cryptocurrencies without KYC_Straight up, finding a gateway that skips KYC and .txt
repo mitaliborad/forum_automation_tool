@@ -1,0 +1,1 @@
+Straight up, finding a gateway that skips KYC and goes straight to cold storage is tough these days, have you checked out any of the DEX aggregators that are adding payment features?

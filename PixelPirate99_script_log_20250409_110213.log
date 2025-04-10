@@ -1,0 +1,100 @@
+2025-04-09 11:02:13,143 - INFO - Current time: 1744176733.1437416
+2025-04-09 11:02:13,146 - INFO - Token expiration time: 1744181075.509341
+2025-04-09 11:02:13,148 - INFO - Token expiration time: 1744181075.509341
+2025-04-09 11:02:13,160 - INFO - performing random action
+2025-04-09 11:02:13,163 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 11:02:13,165 - DEBUG - Scrolling page 2 times.
+2025-04-09 11:02:13,175 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:15,168 - DEBUG - Page scrolled.
+2025-04-09 11:02:17,170 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:18,993 - DEBUG - Page scrolled.
+2025-04-09 11:02:20,996 - DEBUG - Random scrolls complete.
+2025-04-09 11:02:20,999 - DEBUG - Scrolling page 3 times.
+2025-04-09 11:02:21,001 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:22,233 - DEBUG - Page scrolled.
+2025-04-09 11:02:24,242 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:25,998 - DEBUG - Page scrolled.
+2025-04-09 11:02:28,000 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:29,666 - DEBUG - Page scrolled.
+2025-04-09 11:02:31,674 - DEBUG - Random scrolls complete.
+2025-04-09 11:02:38,796 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-04-09 11:02:43,237 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-does-reddit-shadowban-accounts-my-upvotes-are-being-ignored.1700804/unread
+2025-04-09 11:02:43,237 - INFO - performing random action
+2025-04-09 11:02:52,264 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-does-reddit-shadowban-accounts-my-upvotes-are-being-ignored.1700804/unread
+2025-04-09 11:02:52,277 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-does-reddit-shadowban-accounts-my-upvotes-are-being-ignored.1700804/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 11:02:52,363 - INFO - Extracted thread title: how does reddit shadowban accounts my upvotes are being ignored
+2025-04-09 11:02:52,365 - DEBUG - Scrolling page 2 times.
+2025-04-09 11:02:52,365 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:54,018 - DEBUG - Page scrolled.
+2025-04-09 11:02:56,023 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:57,470 - DEBUG - Page scrolled.
+2025-04-09 11:02:59,471 - DEBUG - Random scrolls complete.
+2025-04-09 11:03:02,036 - DEBUG - Scrolling page 4 times.
+2025-04-09 11:03:02,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:03,588 - DEBUG - Page scrolled.
+2025-04-09 11:03:06,596 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:07,889 - DEBUG - Page scrolled.
+2025-04-09 11:03:10,890 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:12,003 - DEBUG - Page scrolled.
+2025-04-09 11:03:15,005 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:16,221 - DEBUG - Page scrolled.
+2025-04-09 11:03:19,223 - DEBUG - Random scrolls complete.
+2025-04-09 11:03:19,294 - DEBUG - Found 12 like buttons.
+2025-04-09 11:03:22,297 - INFO - Attempting to like 3 posts. There are 12 available.
+2025-04-09 11:03:23,294 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:03:23,337 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:03:23,340 - DEBUG - Liked post number 1 of 3.
+2025-04-09 11:03:28,035 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:03:28,072 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:03:28,075 - DEBUG - Liked post number 2 of 3.
+2025-04-09 11:03:33,831 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:03:33,863 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:03:33,872 - DEBUG - Liked post number 3 of 3.
+2025-04-09 11:03:38,240 - INFO - Liked 3 posts successfully.
+2025-04-09 11:03:38,243 - INFO - Liked 3 posts successfully.
+2025-04-09 11:03:41,233 - INFO - performing random action
+2025-04-09 11:03:41,236 - DEBUG - Scrolling page 4 times.
+2025-04-09 11:03:41,237 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:42,743 - DEBUG - Page scrolled.
+2025-04-09 11:03:45,749 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:47,479 - DEBUG - Page scrolled.
+2025-04-09 11:03:50,483 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:51,895 - DEBUG - Page scrolled.
+2025-04-09 11:03:54,897 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:56,544 - DEBUG - Page scrolled.
+2025-04-09 11:03:59,547 - DEBUG - Random scrolls complete.
+2025-04-09 11:04:01,759 - DEBUG - Total comments in the thread: 12
+2025-04-09 11:05:15,539 - INFO - Post content extracted and saved to Thread-Details/Thread Content\how does reddit shadowban accounts my upvotes are being ignored.txt
+2025-04-09 11:05:18,316 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 11:05:18,354 - DEBUG - Extracted main post content: hello! i made a reddit account generator that can generate 300 accounts per hour, the problem is, the accounts can sometimes be unusable, below are my observations
+
+i first used bulk IPORT proxies i bought from oxylabs and proxyscrape, sadly, seems like im not the only one using the proxies and going to reddit.com it shows "You’ve been blocked by network security" for about 60% of the proxies, however, if i keep generating accounts, im able to generate 50, i also recorded the IP addresses they were generated in, i made a script that logs in the accounts via the same proxies they were generated and upvote a post, only a few are able to upvote, BUT they are able to upvote
+
+now, because some IP addresses are blocked i switched to a residential proxy from oxylabs, the problem is, even if i use session parameters, a proxy is only available for one day until it is replaced, so, the accounts are logged in via a random ip, im not sure if that is the problem, but if i attempt to upvote a post from any of the accounts i generated, it NEVER updates, i refresh the page and the upvotes return to the original count
+
+is there any way i can bypass this? currently im looking into using the bulk iport proxies again instead of a rotating one, but the problem is, they are detected and sometimes blocked by reddit
+2025-04-09 11:05:23,728 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 11:05:23,730 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 11:05:25,882 - INFO - performing random action
+2025-04-09 11:05:25,885 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:05:25,887 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:05:25,926 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:05:25,967 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:05:25,973 - DEBUG - Text box scrolled into view
+2025-04-09 11:05:26,568 - DEBUG - Initializing actionchains
+2025-04-09 11:05:26,603 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4806}, size: {'height': 21, 'width': 68}
+2025-04-09 11:05:26,603 - DEBUG - Target click coordinates: (1265, 4816)
+2025-04-09 11:05:39,947 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 11:05:39,950 - DEBUG - Moving mouse to text box element.
+2025-04-09 11:05:39,952 - DEBUG - Clicking on the text box.
+2025-04-09 11:05:39,955 - DEBUG - Sending keys with content: Sounds like Reddit's getting wise to your methods. Have you tried mimicking human browsing behavior more closely before account creation, like visiting a few different pages?
+
+2025-04-09 11:05:45,230 - DEBUG - Clicking on post reply button.
+2025-04-09 11:05:56,280 - DEBUG - Performed Actionchains
+2025-04-09 11:05:56,281 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 11:06:00,284 - INFO - Comment posted successfully.
+2025-04-09 11:06:00,286 - INFO - Task Completed!!
+2025-04-09 11:06:09,518 - INFO - Navigated back to the homepage.
+2025-04-09 11:06:12,150 - INFO - Attempting to clear memory and resources.
+2025-04-09 11:06:12,181 - INFO - Garbage collection completed.
+2025-04-09 11:06:12,182 - INFO - Waiting for 1850 seconds before next execution.

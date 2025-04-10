@@ -1,0 +1,113 @@
+2025-04-09 11:02:39,903 - INFO - Current time: 1744176759.9038718
+2025-04-09 11:02:39,904 - INFO - Token expiration time: 1744180989.5892174
+2025-04-09 11:02:39,905 - INFO - Token expiration time: 1744180989.5892174
+2025-04-09 11:02:39,905 - INFO - performing random action
+2025-04-09 11:02:39,907 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 11:02:39,907 - DEBUG - Scrolling page 3 times.
+2025-04-09 11:02:39,908 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:41,772 - DEBUG - Page scrolled.
+2025-04-09 11:02:43,777 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:45,456 - DEBUG - Page scrolled.
+2025-04-09 11:02:47,458 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:48,838 - DEBUG - Page scrolled.
+2025-04-09 11:02:50,840 - DEBUG - Random scrolls complete.
+2025-04-09 11:02:50,841 - DEBUG - Scrolling page 2 times.
+2025-04-09 11:02:50,843 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:52,314 - DEBUG - Page scrolled.
+2025-04-09 11:02:54,316 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:02:55,491 - DEBUG - Page scrolled.
+2025-04-09 11:02:57,493 - DEBUG - Random scrolls complete.
+2025-04-09 11:03:06,885 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-04-09 11:03:11,483 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-tried-15-panels-here-here-my-reviews.1500886/unread
+2025-04-09 11:03:11,484 - INFO - performing random action
+2025-04-09 11:03:23,955 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-tried-15-panels-here-here-my-reviews.1500886/unread
+2025-04-09 11:03:23,958 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-tried-15-panels-here-here-my-reviews.1500886/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 11:03:24,042 - INFO - Extracted thread title: I tried +15 panels here - Here my reviews
+2025-04-09 11:03:24,043 - DEBUG - Scrolling page 4 times.
+2025-04-09 11:03:24,044 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:25,093 - DEBUG - Page scrolled.
+2025-04-09 11:03:27,096 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:28,938 - DEBUG - Page scrolled.
+2025-04-09 11:03:30,942 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:32,732 - DEBUG - Page scrolled.
+2025-04-09 11:03:34,735 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:35,928 - DEBUG - Page scrolled.
+2025-04-09 11:03:37,935 - DEBUG - Random scrolls complete.
+2025-04-09 11:03:40,463 - DEBUG - Scrolling page 2 times.
+2025-04-09 11:03:40,465 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:42,340 - DEBUG - Page scrolled.
+2025-04-09 11:03:45,347 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:03:47,240 - DEBUG - Page scrolled.
+2025-04-09 11:03:50,243 - DEBUG - Random scrolls complete.
+2025-04-09 11:03:50,259 - DEBUG - Found 20 like buttons.
+2025-04-09 11:03:53,260 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-09 11:03:53,829 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:03:53,853 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:03:53,854 - DEBUG - Liked post number 1 of 3.
+2025-04-09 11:03:58,670 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:03:58,693 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:03:58,695 - DEBUG - Liked post number 2 of 3.
+2025-04-09 11:04:03,765 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:04:03,785 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:04:03,788 - DEBUG - Liked post number 3 of 3.
+2025-04-09 11:04:08,424 - INFO - Liked 3 posts successfully.
+2025-04-09 11:04:08,425 - INFO - Liked 3 posts successfully.
+2025-04-09 11:04:10,494 - INFO - performing random action
+2025-04-09 11:04:10,496 - DEBUG - Scrolling page 5 times.
+2025-04-09 11:04:10,498 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:11,877 - DEBUG - Page scrolled.
+2025-04-09 11:04:14,879 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:16,331 - DEBUG - Page scrolled.
+2025-04-09 11:04:19,333 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:20,421 - DEBUG - Page scrolled.
+2025-04-09 11:04:23,422 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:25,138 - DEBUG - Page scrolled.
+2025-04-09 11:04:28,141 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:29,174 - DEBUG - Page scrolled.
+2025-04-09 11:04:32,175 - DEBUG - Random scrolls complete.
+2025-04-09 11:04:34,516 - DEBUG - Total comments in the thread: 20
+2025-04-09 11:06:40,029 - INFO - Post content extracted and saved to Thread-Details/Thread Content\I tried +15 panels here - Here my reviews.txt
+2025-04-09 11:06:42,334 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 11:06:42,357 - DEBUG - Extracted main post content: Hi guys,
+
+I would like to share with you my opinion after having tried a lot of panels here with ALL the differents services they sell for Youtube.
+Natives views, CTR, Ads targeted, RAV, monetizable, SEO views, Unique Real, HR, discovery, Niche related and many others...
+
+Belive me my video quality /thumb/SEO are very nice. Don't jump on this please
+
+ANY panels provide me a good ranking for my videos and allow me to get suggested, reach home page, get natural reach or anything else.
+
+You can easily imagine I spent a good amount of money though to MAYBE find a good service.
+I think there is some service that work but I never found it. So here me 2 cents, don't waste your money. If you want to build autority by just increasing your number of stats it's ok but thats it.
+
+Goole is not fool, he want your subscribers watch a nice percentage of you video, click on notifications and here he will suggest your video.
+The best is to have your own private network with google pva account and proxy. Again, maybe there are some services but don't you think I already found it since I'm on this forum ?
+Guys continue to maintain the myth so people will continue to spend money and believe they will find something...LOL
+
+Again just my 2 cents, I would like to be wrong believe me
+See ya
+2025-04-09 11:06:47,230 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 11:06:47,231 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 11:06:50,030 - INFO - performing random action
+2025-04-09 11:06:50,031 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:06:50,032 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:06:50,044 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:06:50,085 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:06:50,097 - DEBUG - Text box scrolled into view
+2025-04-09 11:06:50,817 - DEBUG - Initializing actionchains
+2025-04-09 11:06:50,866 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7339}, size: {'height': 21, 'width': 68}
+2025-04-09 11:06:50,866 - DEBUG - Target click coordinates: (1265, 7349)
+2025-04-09 11:07:09,153 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 11:07:09,160 - DEBUG - Moving mouse to text box element.
+2025-04-09 11:07:09,162 - DEBUG - Clicking on the text box.
+2025-04-09 11:07:09,165 - DEBUG - Sending keys with content: Interesting take. So, basically, focus on genuine engagement and forget the panel hype, huh? Makes sense, kinda like buying fake friends.
+
+2025-04-09 11:07:14,818 - DEBUG - Clicking on post reply button.
+2025-04-09 11:07:25,810 - DEBUG - Performed Actionchains
+2025-04-09 11:07:25,810 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 11:07:29,812 - INFO - Comment posted successfully.
+2025-04-09 11:07:29,814 - INFO - Task Completed!!
+2025-04-09 11:07:44,606 - INFO - Navigated back to the homepage.
+2025-04-09 11:07:46,632 - INFO - Attempting to clear memory and resources.
+2025-04-09 11:07:46,718 - INFO - Garbage collection completed.
+2025-04-09 11:07:46,725 - INFO - Waiting for 1850 seconds before next execution.

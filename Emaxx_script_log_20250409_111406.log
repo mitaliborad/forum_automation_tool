@@ -1,0 +1,108 @@
+2025-04-09 11:14:06,278 - INFO - Current time: 1744177446.278638
+2025-04-09 11:14:06,281 - INFO - Token expiration time: 1744181456.497543
+2025-04-09 11:14:06,284 - INFO - Token expiration time: 1744181456.497543
+2025-04-09 11:14:06,286 - INFO - Profile Emaxx: Minimizing window...
+2025-04-09 11:14:06,294 - INFO - Profile Emaxx: Window minimized. Pausing for 19.90 seconds...
+2025-04-09 11:14:26,194 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-09 11:14:26,196 - INFO - performing random action
+2025-04-09 11:14:26,197 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 11:14:26,198 - DEBUG - Scrolling page 3 times.
+2025-04-09 11:14:26,198 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:14:28,199 - DEBUG - Page scrolled.
+2025-04-09 11:14:30,201 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:14:31,288 - DEBUG - Page scrolled.
+2025-04-09 11:14:33,290 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:14:34,448 - DEBUG - Page scrolled.
+2025-04-09 11:14:36,451 - DEBUG - Random scrolls complete.
+2025-04-09 11:14:36,453 - DEBUG - Scrolling page 3 times.
+2025-04-09 11:14:36,454 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:14:38,369 - DEBUG - Page scrolled.
+2025-04-09 11:14:40,371 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:14:41,974 - DEBUG - Page scrolled.
+2025-04-09 11:14:43,976 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:14:45,443 - DEBUG - Page scrolled.
+2025-04-09 11:14:47,444 - DEBUG - Random scrolls complete.
+2025-04-09 11:14:57,837 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-04-09 11:15:01,387 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-safe-linkedin-automation-tool-in-2025.1701965/unread
+2025-04-09 11:15:01,387 - INFO - Profile Emaxx: Pausing for 34.81 seconds...
+2025-04-09 11:15:36,194 - INFO - Profile Emaxx: Resuming...
+2025-04-09 11:15:36,195 - INFO - performing random action
+2025-04-09 11:15:48,853 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-safe-linkedin-automation-tool-in-2025.1701965/unread
+2025-04-09 11:15:48,857 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-safe-linkedin-automation-tool-in-2025.1701965/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 11:15:48,889 - INFO - Extracted thread title: Best Safe LinkedIn Automation Tool in 2025
+2025-04-09 11:15:48,890 - DEBUG - Scrolling page 3 times.
+2025-04-09 11:15:48,891 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:15:50,737 - DEBUG - Page scrolled.
+2025-04-09 11:15:52,739 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:15:54,541 - DEBUG - Page scrolled.
+2025-04-09 11:15:56,544 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:15:58,422 - DEBUG - Page scrolled.
+2025-04-09 11:16:00,425 - DEBUG - Random scrolls complete.
+2025-04-09 11:16:02,668 - DEBUG - Scrolling page 4 times.
+2025-04-09 11:16:02,669 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:16:04,264 - DEBUG - Page scrolled.
+2025-04-09 11:16:07,267 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:16:09,051 - DEBUG - Page scrolled.
+2025-04-09 11:16:12,054 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:16:13,089 - DEBUG - Page scrolled.
+2025-04-09 11:16:16,092 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:16:17,459 - DEBUG - Page scrolled.
+2025-04-09 11:16:20,461 - DEBUG - Random scrolls complete.
+2025-04-09 11:16:20,492 - DEBUG - Found 3 like buttons.
+2025-04-09 11:16:23,494 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-04-09 11:16:24,448 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:16:24,461 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:16:24,462 - DEBUG - Liked post number 1 of 3.
+2025-04-09 11:16:29,654 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:16:29,674 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:16:29,675 - DEBUG - Liked post number 2 of 3.
+2025-04-09 11:16:34,412 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:16:34,432 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:16:34,434 - DEBUG - Liked post number 3 of 3.
+2025-04-09 11:16:38,497 - INFO - Liked 3 posts successfully.
+2025-04-09 11:16:38,500 - INFO - Liked 3 posts successfully.
+2025-04-09 11:16:40,625 - INFO - Profile Emaxx: Pausing for 46.29 seconds...
+2025-04-09 11:17:26,915 - INFO - Profile Emaxx: Resuming...
+2025-04-09 11:17:26,917 - INFO - performing random action
+2025-04-09 11:17:26,920 - DEBUG - Scrolling page 5 times.
+2025-04-09 11:17:26,922 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:17:28,074 - DEBUG - Page scrolled.
+2025-04-09 11:17:31,075 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:17:32,269 - DEBUG - Page scrolled.
+2025-04-09 11:17:35,270 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:17:36,590 - DEBUG - Page scrolled.
+2025-04-09 11:17:39,593 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:17:41,552 - DEBUG - Page scrolled.
+2025-04-09 11:17:44,554 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:17:46,373 - DEBUG - Page scrolled.
+2025-04-09 11:17:49,377 - DEBUG - Random scrolls complete.
+2025-04-09 11:17:51,765 - DEBUG - Total comments in the thread: 3
+2025-04-09 11:17:52,030 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Best Safe LinkedIn Automation Tool in 2025.txt
+2025-04-09 11:17:54,925 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 11:17:54,963 - DEBUG - Extracted main post content: what’s the safest LinkedIn automation tool right now (cloud-based or desktop) that doesn’t get you banned? Looking for something reliable for outreach without risking my profile.
+2025-04-09 11:17:59,009 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 11:17:59,013 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 11:18:01,919 - INFO - Profile Emaxx: Restoring window...
+2025-04-09 11:18:03,928 - INFO - performing random action
+2025-04-09 11:18:03,931 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:18:03,932 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:18:03,971 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:18:04,015 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:18:04,021 - DEBUG - Text box scrolled into view
+2025-04-09 11:18:04,670 - DEBUG - Initializing actionchains
+2025-04-09 11:18:04,732 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1998}, size: {'height': 21, 'width': 68}
+2025-04-09 11:18:04,733 - DEBUG - Target click coordinates: (1265, 2008)
+2025-04-09 11:18:12,373 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 11:18:12,374 - DEBUG - Moving mouse to text box element.
+2025-04-09 11:18:12,375 - DEBUG - Clicking on the text box.
+2025-04-09 11:18:12,376 - DEBUG - Sending keys with content: Honestly, I'd focus more on *how* you're using the tool rather than the tool itself to avoid getting flagged. Have you thought about personalizing your messages more?
+
+2025-04-09 11:18:18,345 - DEBUG - Clicking on post reply button.
+2025-04-09 11:18:29,460 - DEBUG - Performed Actionchains
+2025-04-09 11:18:29,464 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 11:18:33,466 - INFO - Comment posted successfully.
+2025-04-09 11:18:33,467 - INFO - Task Completed!!
+2025-04-09 11:18:41,591 - INFO - Navigated back to the homepage.
+2025-04-09 11:18:44,231 - INFO - Attempting to clear memory and resources.
+2025-04-09 11:18:44,287 - INFO - Garbage collection completed.
+2025-04-09 11:18:44,288 - INFO - Waiting for 1850 seconds before next execution.

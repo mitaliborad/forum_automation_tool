@@ -1,0 +1,100 @@
+2025-04-09 09:18:08,435 - INFO - Current time: 1744170488.4351964
+2025-04-09 09:18:08,435 - INFO - Token expiration time: 1744181283.1932187
+2025-04-09 09:18:08,436 - INFO - Token expiration time: 1744181283.1932187
+2025-04-09 09:18:08,436 - INFO - performing random action
+2025-04-09 09:18:08,437 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 09:18:08,438 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:18:08,438 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:18:15,595 - DEBUG - Page scrolled.
+2025-04-09 09:18:17,596 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:18:19,408 - DEBUG - Page scrolled.
+2025-04-09 09:18:21,410 - DEBUG - Random scrolls complete.
+2025-04-09 09:18:21,411 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:18:21,412 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:18:23,184 - DEBUG - Page scrolled.
+2025-04-09 09:18:25,186 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:18:27,200 - DEBUG - Page scrolled.
+2025-04-09 09:18:29,202 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:18:30,571 - DEBUG - Page scrolled.
+2025-04-09 09:18:32,573 - DEBUG - Random scrolls complete.
+2025-04-09 09:18:40,047 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-04-09 09:18:44,354 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-blogging-really-such-easy.1659949/unread
+2025-04-09 09:18:44,355 - INFO - performing random action
+2025-04-09 09:18:59,257 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-blogging-really-such-easy.1659949/unread
+2025-04-09 09:18:59,259 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-blogging-really-such-easy.1659949/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 09:18:59,286 - INFO - Extracted thread title: Is blogging really such easy
+2025-04-09 09:18:59,286 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:18:59,287 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:19:01,235 - DEBUG - Page scrolled.
+2025-04-09 09:19:03,237 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:19:04,330 - DEBUG - Page scrolled.
+2025-04-09 09:19:06,332 - DEBUG - Random scrolls complete.
+2025-04-09 09:19:08,405 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:19:08,407 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:19:09,762 - DEBUG - Page scrolled.
+2025-04-09 09:19:12,764 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:19:14,431 - DEBUG - Page scrolled.
+2025-04-09 09:19:17,435 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:19:18,637 - DEBUG - Page scrolled.
+2025-04-09 09:19:21,641 - DEBUG - Random scrolls complete.
+2025-04-09 09:19:21,660 - DEBUG - Found 20 like buttons.
+2025-04-09 09:19:24,662 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-09 09:19:25,292 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:19:25,324 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:19:25,327 - DEBUG - Liked post number 1 of 3.
+2025-04-09 09:19:30,994 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:19:31,002 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:19:31,003 - DEBUG - Liked post number 2 of 3.
+2025-04-09 09:19:36,747 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:19:36,763 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:19:36,764 - DEBUG - Liked post number 3 of 3.
+2025-04-09 09:19:41,056 - INFO - Liked 3 posts successfully.
+2025-04-09 09:19:41,058 - INFO - Liked 3 posts successfully.
+2025-04-09 09:19:43,950 - INFO - Profile BinaryGhost: Pausing for 39.93 seconds...
+2025-04-09 09:20:23,883 - INFO - Profile BinaryGhost: Resuming...
+2025-04-09 09:20:23,887 - INFO - performing random action
+2025-04-09 09:20:23,890 - DEBUG - Scrolling page 4 times.
+2025-04-09 09:20:23,890 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:20:25,097 - DEBUG - Page scrolled.
+2025-04-09 09:20:28,099 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:20:29,311 - DEBUG - Page scrolled.
+2025-04-09 09:20:32,314 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:20:33,412 - DEBUG - Page scrolled.
+2025-04-09 09:20:36,414 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:20:38,220 - DEBUG - Page scrolled.
+2025-04-09 09:20:41,223 - DEBUG - Random scrolls complete.
+2025-04-09 09:20:44,086 - DEBUG - Total comments in the thread: 20
+2025-04-09 09:22:49,904 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is blogging really such easy.txt
+2025-04-09 09:22:52,878 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 09:22:52,927 - DEBUG - Extracted main post content: Hi,
+
+Is blogging really such easy as youtubers are showing us?
+2025-04-09 09:22:57,723 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 09:22:57,727 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 09:23:00,636 - INFO - Profile BinaryGhost: Opening random website: https://www.netflix.com/in/
+2025-04-09 09:23:14,910 - INFO - Profile BinaryGhost: Pausing for 47.44 seconds...
+2025-04-09 09:24:02,357 - INFO - Profile BinaryGhost: Resuming...
+2025-04-09 09:24:02,422 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-09 09:24:02,423 - INFO - performing random action
+2025-04-09 09:24:02,424 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:24:02,425 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:24:02,443 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:24:02,479 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:24:02,484 - DEBUG - Text box scrolled into view
+2025-04-09 09:24:03,069 - DEBUG - Initializing actionchains
+2025-04-09 09:24:03,181 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7046}, size: {'height': 21, 'width': 68}
+2025-04-09 09:24:03,183 - DEBUG - Target click coordinates: (1265, 7056)
+2025-04-09 09:24:21,523 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 09:24:21,526 - DEBUG - Moving mouse to text box element.
+2025-04-09 09:24:21,528 - DEBUG - Clicking on the text box.
+2025-04-09 09:24:21,531 - DEBUG - Sending keys with content: Nah, it's more like planting a tree and waiting for it to bear fruit – looks easy 'til you're knee-deep in weeds and squirrels steal your harvest.
+
+2025-04-09 09:24:26,628 - DEBUG - Clicking on post reply button.
+2025-04-09 09:24:37,719 - DEBUG - Performed Actionchains
+2025-04-09 09:24:37,720 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 09:24:41,721 - INFO - Comment posted successfully.
+2025-04-09 09:24:41,724 - INFO - Task Completed!!
+2025-04-09 09:24:50,232 - INFO - Navigated back to the homepage.
+2025-04-09 09:24:52,909 - INFO - Attempting to clear memory and resources.
+2025-04-09 09:24:52,939 - INFO - Garbage collection completed.
+2025-04-09 09:24:52,940 - INFO - Waiting for 1850 seconds before next execution.

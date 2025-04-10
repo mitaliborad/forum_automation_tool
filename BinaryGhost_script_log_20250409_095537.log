@@ -1,0 +1,106 @@
+2025-04-09 09:55:37,087 - INFO - Current time: 1744172737.0876162
+2025-04-09 09:55:37,088 - INFO - Token expiration time: 1744181283.1932187
+2025-04-09 09:55:37,090 - INFO - Token expiration time: 1744181283.1932187
+2025-04-09 09:55:37,091 - INFO - Profile BinaryGhost: Opening random website: https://www.teejh.com/
+2025-04-09 09:56:05,274 - INFO - Profile BinaryGhost: Pausing for 38.07 seconds...
+2025-04-09 09:56:43,352 - INFO - Profile BinaryGhost: Resuming...
+2025-04-09 09:56:43,381 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-09 09:56:43,382 - INFO - performing random action
+2025-04-09 09:56:43,383 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 09:56:43,386 - DEBUG - Scrolling page 4 times.
+2025-04-09 09:56:43,388 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:56:45,089 - DEBUG - Page scrolled.
+2025-04-09 09:56:47,091 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:56:48,353 - DEBUG - Page scrolled.
+2025-04-09 09:56:50,355 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:56:52,222 - DEBUG - Page scrolled.
+2025-04-09 09:56:54,223 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:56:55,244 - DEBUG - Page scrolled.
+2025-04-09 09:56:57,246 - DEBUG - Random scrolls complete.
+2025-04-09 09:56:57,247 - DEBUG - Scrolling page 4 times.
+2025-04-09 09:56:57,249 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:56:59,222 - DEBUG - Page scrolled.
+2025-04-09 09:57:01,225 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:57:03,220 - DEBUG - Page scrolled.
+2025-04-09 09:57:05,222 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:57:06,424 - DEBUG - Page scrolled.
+2025-04-09 09:57:08,448 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:57:09,700 - DEBUG - Page scrolled.
+2025-04-09 09:57:11,703 - DEBUG - Random scrolls complete.
+2025-04-09 09:57:22,938 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-09 09:57:26,366 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-help-with-scrapping.1623642/
+2025-04-09 09:57:26,366 - INFO - performing random action
+2025-04-09 09:57:36,788 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-help-with-scrapping.1623642/
+2025-04-09 09:57:36,792 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-help-with-scrapping.1623642/' to visited threads file 'Thread_links.txt'.
+2025-04-09 09:57:36,852 - INFO - Extracted thread title: Need help with scrapping
+2025-04-09 09:57:36,853 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:57:36,854 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:57:38,372 - DEBUG - Page scrolled.
+2025-04-09 09:57:40,375 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:57:41,950 - DEBUG - Page scrolled.
+2025-04-09 09:57:43,952 - DEBUG - Random scrolls complete.
+2025-04-09 09:57:46,054 - DEBUG - Scrolling page 1 times.
+2025-04-09 09:57:46,056 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:57:47,192 - DEBUG - Page scrolled.
+2025-04-09 09:57:50,194 - DEBUG - Random scrolls complete.
+2025-04-09 09:57:50,222 - DEBUG - Found 11 like buttons.
+2025-04-09 09:57:53,224 - INFO - Attempting to like 1 posts. There are 11 available.
+2025-04-09 09:57:53,995 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:57:54,024 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:57:54,025 - DEBUG - Liked post number 1 of 1.
+2025-04-09 09:57:58,065 - INFO - Liked 1 posts successfully.
+2025-04-09 09:57:58,068 - INFO - Liked 1 posts successfully.
+2025-04-09 09:58:00,974 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-09 09:58:13,120 - INFO - Profile BinaryGhost: Pausing for 32.34 seconds...
+2025-04-09 09:58:45,459 - INFO - Profile BinaryGhost: Resuming...
+2025-04-09 09:58:45,477 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-09 09:58:45,478 - INFO - performing random action
+2025-04-09 09:58:45,479 - DEBUG - Scrolling page 7 times.
+2025-04-09 09:58:45,479 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:58:47,101 - DEBUG - Page scrolled.
+2025-04-09 09:58:50,103 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:58:51,520 - DEBUG - Page scrolled.
+2025-04-09 09:58:54,521 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:58:55,999 - DEBUG - Page scrolled.
+2025-04-09 09:58:59,001 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:59:00,222 - DEBUG - Page scrolled.
+2025-04-09 09:59:03,225 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:59:04,980 - DEBUG - Page scrolled.
+2025-04-09 09:59:07,982 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:59:09,436 - DEBUG - Page scrolled.
+2025-04-09 09:59:12,438 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:59:13,686 - DEBUG - Page scrolled.
+2025-04-09 09:59:16,689 - DEBUG - Random scrolls complete.
+2025-04-09 09:59:19,725 - DEBUG - Total comments in the thread: 11
+2025-04-09 10:00:22,545 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need help with scrapping.txt
+2025-04-09 10:00:25,503 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 10:00:25,541 - DEBUG - Extracted main post content: I need to scrap data about property owners in a certain location, suggest me tools and ways to do that please.
+2025-04-09 10:00:30,402 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 10:00:30,405 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 10:00:33,049 - INFO - Profile BinaryGhost: Opening random website: https://www.teejh.com/
+2025-04-09 10:00:50,828 - INFO - Profile BinaryGhost: Pausing for 36.82 seconds...
+2025-04-09 10:01:27,654 - INFO - Profile BinaryGhost: Resuming...
+2025-04-09 10:01:27,686 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-09 10:01:27,688 - INFO - performing random action
+2025-04-09 10:01:27,690 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:01:27,690 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:01:27,743 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:01:27,790 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:01:27,802 - DEBUG - Text box scrolled into view
+2025-04-09 10:01:28,643 - DEBUG - Initializing actionchains
+2025-04-09 10:01:28,718 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4494}, size: {'height': 21, 'width': 68}
+2025-04-09 10:01:28,718 - DEBUG - Target click coordinates: (1265, 4504)
+2025-04-09 10:01:42,807 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 10:01:42,807 - DEBUG - Moving mouse to text box element.
+2025-04-09 10:01:42,808 - DEBUG - Clicking on the text box.
+2025-04-09 10:01:42,809 - DEBUG - Sending keys with content: Have you looked at using web scraping libraries in Python like Beautiful Soup or Scrapy? Just be mindful of the website's terms of service and robots.txt file before you start.
+
+2025-04-09 10:01:47,924 - DEBUG - Clicking on post reply button.
+2025-04-09 10:01:49,331 - DEBUG - Performed Actionchains
+2025-04-09 10:01:49,332 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 10:01:53,334 - INFO - Comment posted successfully.
+2025-04-09 10:01:53,336 - INFO - Task Completed!!
+2025-04-09 10:01:56,238 - INFO - Navigated back to the homepage.
+2025-04-09 10:01:59,000 - INFO - Attempting to clear memory and resources.
+2025-04-09 10:01:59,026 - INFO - Garbage collection completed.
+2025-04-09 10:01:59,027 - INFO - Waiting for 1850 seconds before next execution.

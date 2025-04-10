@@ -1,0 +1,103 @@
+2025-04-09 09:14:41,949 - INFO - Current time: 1744170281.9496996
+2025-04-09 09:14:41,951 - INFO - Token expiration time: 1744181075.509341
+2025-04-09 09:14:41,953 - INFO - Token expiration time: 1744181075.509341
+2025-04-09 09:14:41,954 - INFO - performing random action
+2025-04-09 09:14:41,955 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 09:14:41,955 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:14:41,956 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:47,345 - DEBUG - Page scrolled.
+2025-04-09 09:14:49,367 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:51,385 - DEBUG - Page scrolled.
+2025-04-09 09:14:53,387 - DEBUG - Random scrolls complete.
+2025-04-09 09:14:53,390 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:14:53,392 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:54,919 - DEBUG - Page scrolled.
+2025-04-09 09:14:56,922 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:58,864 - DEBUG - Page scrolled.
+2025-04-09 09:15:00,867 - DEBUG - Random scrolls complete.
+2025-04-09 09:15:02,802 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-04-09 09:15:06,670 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-many-post-publish-daily.1703225/unread
+2025-04-09 09:15:06,671 - INFO - Profile PixelPirate99: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-09 09:15:13,096 - INFO - Profile PixelPirate99: Pausing for 47.56 seconds...
+2025-04-09 09:16:00,657 - INFO - Profile PixelPirate99: Resuming...
+2025-04-09 09:16:00,677 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-09 09:16:00,680 - INFO - performing random action
+2025-04-09 09:16:11,468 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-many-post-publish-daily.1703225/unread
+2025-04-09 09:16:11,469 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-many-post-publish-daily.1703225/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 09:16:11,496 - INFO - Extracted thread title: how many post publish daily
+2025-04-09 09:16:11,497 - DEBUG - Scrolling page 4 times.
+2025-04-09 09:16:11,497 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:13,154 - DEBUG - Page scrolled.
+2025-04-09 09:16:15,156 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:16,465 - DEBUG - Page scrolled.
+2025-04-09 09:16:18,467 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:19,812 - DEBUG - Page scrolled.
+2025-04-09 09:16:21,815 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:23,336 - DEBUG - Page scrolled.
+2025-04-09 09:16:25,338 - DEBUG - Random scrolls complete.
+2025-04-09 09:16:27,356 - DEBUG - Scrolling page 4 times.
+2025-04-09 09:16:27,358 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:29,019 - DEBUG - Page scrolled.
+2025-04-09 09:16:32,022 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:33,239 - DEBUG - Page scrolled.
+2025-04-09 09:16:36,242 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:38,127 - DEBUG - Page scrolled.
+2025-04-09 09:16:41,129 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:42,538 - DEBUG - Page scrolled.
+2025-04-09 09:16:45,542 - DEBUG - Random scrolls complete.
+2025-04-09 09:16:45,557 - DEBUG - Found 7 like buttons.
+2025-04-09 09:16:48,558 - INFO - Attempting to like 2 posts. There are 7 available.
+2025-04-09 09:16:49,310 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:16:49,334 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:16:49,335 - DEBUG - Liked post number 1 of 2.
+2025-04-09 09:16:54,932 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:16:54,952 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:16:54,953 - DEBUG - Liked post number 2 of 2.
+2025-04-09 09:16:59,544 - INFO - Liked 2 posts successfully.
+2025-04-09 09:16:59,547 - INFO - Liked 2 posts successfully.
+2025-04-09 09:17:02,216 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-09 09:17:06,890 - INFO - Profile PixelPirate99: Pausing for 42.80 seconds...
+2025-04-09 09:17:49,689 - INFO - Profile PixelPirate99: Resuming...
+2025-04-09 09:17:49,704 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-09 09:17:49,707 - INFO - performing random action
+2025-04-09 09:17:49,709 - DEBUG - Scrolling page 5 times.
+2025-04-09 09:17:49,711 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:17:51,695 - DEBUG - Page scrolled.
+2025-04-09 09:17:54,698 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:17:56,429 - DEBUG - Page scrolled.
+2025-04-09 09:17:59,432 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:18:01,313 - DEBUG - Page scrolled.
+2025-04-09 09:18:04,316 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:18:06,127 - DEBUG - Page scrolled.
+2025-04-09 09:18:09,128 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:18:10,781 - DEBUG - Page scrolled.
+2025-04-09 09:18:13,783 - DEBUG - Random scrolls complete.
+2025-04-09 09:18:16,217 - DEBUG - Total comments in the thread: 7
+2025-04-09 09:18:58,464 - INFO - Post content extracted and saved to Thread-Details/Thread Content\how many post publish daily.txt
+2025-04-09 09:19:01,405 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 09:19:01,426 - DEBUG - Extracted main post content: is it ok to publish 2 or 3 daily? or it safer just 1?
+2025-04-09 09:19:06,467 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 09:19:06,471 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 09:19:08,618 - INFO - performing random action
+2025-04-09 09:19:08,622 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:19:08,624 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:19:08,662 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:19:08,709 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:19:08,716 - DEBUG - Text box scrolled into view
+2025-04-09 09:19:09,499 - DEBUG - Initializing actionchains
+2025-04-09 09:19:09,519 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3175}, size: {'height': 21, 'width': 68}
+2025-04-09 09:19:09,520 - DEBUG - Target click coordinates: (1265, 3185)
+2025-04-09 09:19:19,988 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 09:19:19,989 - DEBUG - Moving mouse to text box element.
+2025-04-09 09:19:19,990 - DEBUG - Clicking on the text box.
+2025-04-09 09:19:19,991 - DEBUG - Sending keys with content: I'd say test it and see what your audience prefers; could even depend on the day of the week.
+
+2025-04-09 09:19:25,159 - DEBUG - Clicking on post reply button.
+2025-04-09 09:19:26,177 - DEBUG - Performed Actionchains
+2025-04-09 09:19:26,178 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 09:19:30,179 - INFO - Comment posted successfully.
+2025-04-09 09:19:30,181 - INFO - Task Completed!!
+2025-04-09 09:19:32,233 - INFO - Navigated back to the homepage.
+2025-04-09 09:19:34,583 - INFO - Attempting to clear memory and resources.
+2025-04-09 09:19:34,618 - INFO - Garbage collection completed.
+2025-04-09 09:19:34,619 - INFO - Waiting for 1850 seconds before next execution.

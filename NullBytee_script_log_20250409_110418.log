@@ -1,0 +1,97 @@
+2025-04-09 11:04:18,249 - INFO - Current time: 1744176858.2490695
+2025-04-09 11:04:18,252 - INFO - Token expiration time: 1744181382.1282651
+2025-04-09 11:04:18,255 - INFO - Token expiration time: 1744181382.1282651
+2025-04-09 11:04:18,257 - INFO - performing random action
+2025-04-09 11:04:18,260 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 11:04:18,263 - DEBUG - Scrolling page 2 times.
+2025-04-09 11:04:18,264 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:20,115 - DEBUG - Page scrolled.
+2025-04-09 11:04:22,118 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:24,067 - DEBUG - Page scrolled.
+2025-04-09 11:04:26,070 - DEBUG - Random scrolls complete.
+2025-04-09 11:04:26,071 - DEBUG - Scrolling page 3 times.
+2025-04-09 11:04:26,071 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:28,012 - DEBUG - Page scrolled.
+2025-04-09 11:04:30,014 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:31,432 - DEBUG - Page scrolled.
+2025-04-09 11:04:33,434 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:04:35,400 - DEBUG - Page scrolled.
+2025-04-09 11:04:37,402 - DEBUG - Random scrolls complete.
+2025-04-09 11:04:47,537 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-09 11:04:51,005 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-can-i-fix-wordpress-arror.1703304/unread
+2025-04-09 11:04:51,006 - INFO - performing random action
+2025-04-09 11:05:00,803 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-can-i-fix-wordpress-arror.1703304/unread
+2025-04-09 11:05:00,807 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-can-i-fix-wordpress-arror.1703304/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 11:05:00,861 - INFO - Extracted thread title: how can I fix wordpress arror
+2025-04-09 11:05:00,862 - DEBUG - Scrolling page 2 times.
+2025-04-09 11:05:00,863 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:05:02,688 - DEBUG - Page scrolled.
+2025-04-09 11:05:04,689 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:05:06,663 - DEBUG - Page scrolled.
+2025-04-09 11:05:08,666 - DEBUG - Random scrolls complete.
+2025-04-09 11:05:10,794 - DEBUG - Scrolling page 1 times.
+2025-04-09 11:05:10,796 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:05:11,948 - DEBUG - Page scrolled.
+2025-04-09 11:05:14,951 - DEBUG - Random scrolls complete.
+2025-04-09 11:05:14,983 - DEBUG - Found 6 like buttons.
+2025-04-09 11:05:17,984 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-04-09 11:05:18,878 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:05:18,907 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:05:18,908 - DEBUG - Liked post number 1 of 2.
+2025-04-09 11:05:23,720 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:05:23,729 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:05:23,730 - DEBUG - Liked post number 2 of 2.
+2025-04-09 11:05:27,781 - INFO - Liked 2 posts successfully.
+2025-04-09 11:05:27,784 - INFO - Liked 2 posts successfully.
+2025-04-09 11:05:30,734 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-09 11:05:36,313 - INFO - Profile NullBytee: Pausing for 39.02 seconds...
+2025-04-09 11:06:15,335 - INFO - Profile NullBytee: Resuming...
+2025-04-09 11:06:15,338 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-09 11:06:15,339 - INFO - performing random action
+2025-04-09 11:06:15,339 - DEBUG - Scrolling page 6 times.
+2025-04-09 11:06:15,340 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:06:16,570 - DEBUG - Page scrolled.
+2025-04-09 11:06:19,574 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:06:21,318 - DEBUG - Page scrolled.
+2025-04-09 11:06:24,322 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:06:26,288 - DEBUG - Page scrolled.
+2025-04-09 11:06:29,291 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:06:31,304 - DEBUG - Page scrolled.
+2025-04-09 11:06:34,308 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:06:35,970 - DEBUG - Page scrolled.
+2025-04-09 11:06:38,974 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:06:40,271 - DEBUG - Page scrolled.
+2025-04-09 11:06:43,274 - DEBUG - Random scrolls complete.
+2025-04-09 11:06:45,893 - DEBUG - Total comments in the thread: 6
+2025-04-09 11:07:27,398 - INFO - Post content extracted and saved to Thread-Details/Thread Content\how can I fix wordpress arror.txt
+2025-04-09 11:07:30,125 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 11:07:30,193 - DEBUG - Extracted main post content: I have created a tool for WordPress, but when I add the tool's code to WordPress, the WordPress website gets completely disturbed. What is the solution to this? How can I fix it?
+2025-04-09 11:07:33,765 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 11:07:33,768 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 11:07:36,310 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-09 11:07:39,084 - INFO - Profile NullBytee: Pausing for 33.25 seconds...
+2025-04-09 11:08:12,341 - INFO - Profile NullBytee: Resuming...
+2025-04-09 11:08:12,351 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-09 11:08:12,353 - INFO - performing random action
+2025-04-09 11:08:12,356 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:08:12,357 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:08:12,401 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:08:12,455 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:08:12,463 - DEBUG - Text box scrolled into view
+2025-04-09 11:08:13,057 - DEBUG - Initializing actionchains
+2025-04-09 11:08:13,085 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3177}, size: {'height': 21, 'width': 68}
+2025-04-09 11:08:13,086 - DEBUG - Target click coordinates: (1265, 3187)
+2025-04-09 11:08:23,799 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 11:08:23,804 - DEBUG - Moving mouse to text box element.
+2025-04-09 11:08:23,806 - DEBUG - Clicking on the text box.
+2025-04-09 11:08:23,809 - DEBUG - Sending keys with content: Sounds like a conflict, maybe with another plugin? Try disabling them one by one to see if that fixes it; it's a pain, but usually works.
+
+2025-04-09 11:08:29,029 - DEBUG - Clicking on post reply button.
+2025-04-09 11:08:30,181 - DEBUG - Performed Actionchains
+2025-04-09 11:08:30,182 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 11:08:34,184 - INFO - Comment posted successfully.
+2025-04-09 11:08:34,185 - INFO - Task Completed!!
+2025-04-09 11:08:44,140 - INFO - Navigated back to the homepage.
+2025-04-09 11:08:46,914 - INFO - Attempting to clear memory and resources.
+2025-04-09 11:08:46,942 - INFO - Garbage collection completed.
+2025-04-09 11:08:46,943 - INFO - Waiting for 1850 seconds before next execution.

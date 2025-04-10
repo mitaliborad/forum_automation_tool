@@ -1,0 +1,99 @@
+2025-04-09 09:25:08,250 - INFO - Current time: 1744170908.2506948
+2025-04-09 09:25:08,251 - INFO - Token expiration time: 1744181701.7709851
+2025-04-09 09:25:08,252 - INFO - Token expiration time: 1744181701.7709851
+2025-04-09 09:25:08,252 - INFO - performing random action
+2025-04-09 09:25:08,253 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 09:25:08,254 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:25:08,254 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:25:14,130 - DEBUG - Page scrolled.
+2025-04-09 09:25:16,132 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:25:17,804 - DEBUG - Page scrolled.
+2025-04-09 09:25:19,806 - DEBUG - Random scrolls complete.
+2025-04-09 09:25:19,809 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:25:19,810 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:25:21,439 - DEBUG - Page scrolled.
+2025-04-09 09:25:23,440 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:25:25,307 - DEBUG - Page scrolled.
+2025-04-09 09:25:27,309 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:25:28,961 - DEBUG - Page scrolled.
+2025-04-09 09:25:30,963 - DEBUG - Random scrolls complete.
+2025-04-09 09:25:41,121 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-09 09:25:44,973 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-would-love-to-get-invited-to-canva-pro.1683086/unread
+2025-04-09 09:25:44,973 - INFO - Profile ZeroDayHunter: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-09 09:26:23,379 - INFO - Profile ZeroDayHunter: Pausing for 32.25 seconds...
+2025-04-09 09:26:55,636 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-09 09:26:55,682 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-09 09:26:55,683 - INFO - performing random action
+2025-04-09 09:27:08,429 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-would-love-to-get-invited-to-canva-pro.1683086/unread
+2025-04-09 09:27:08,431 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-would-love-to-get-invited-to-canva-pro.1683086/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 09:27:08,467 - INFO - Extracted thread title: i would love to get invited to canva pro
+2025-04-09 09:27:08,468 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:27:08,468 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:27:10,141 - DEBUG - Page scrolled.
+2025-04-09 09:27:12,143 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:27:13,446 - DEBUG - Page scrolled.
+2025-04-09 09:27:15,447 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:27:16,488 - DEBUG - Page scrolled.
+2025-04-09 09:27:18,491 - DEBUG - Random scrolls complete.
+2025-04-09 09:27:21,125 - DEBUG - Scrolling page 1 times.
+2025-04-09 09:27:21,127 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:27:22,250 - DEBUG - Page scrolled.
+2025-04-09 09:27:25,252 - DEBUG - Random scrolls complete.
+2025-04-09 09:27:25,286 - DEBUG - Found 9 like buttons.
+2025-04-09 09:27:28,287 - INFO - Attempting to like 3 posts. There are 9 available.
+2025-04-09 09:27:28,843 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:27:28,873 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:27:28,875 - DEBUG - Liked post number 1 of 3.
+2025-04-09 09:27:34,535 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:27:34,551 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:27:34,552 - DEBUG - Liked post number 2 of 3.
+2025-04-09 09:27:40,325 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:27:40,348 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:27:40,350 - DEBUG - Liked post number 3 of 3.
+2025-04-09 09:27:45,019 - INFO - Liked 3 posts successfully.
+2025-04-09 09:27:45,022 - INFO - Liked 3 posts successfully.
+2025-04-09 09:27:48,000 - INFO - performing random action
+2025-04-09 09:27:48,001 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:27:48,002 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:27:49,431 - DEBUG - Page scrolled.
+2025-04-09 09:27:52,435 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:27:54,256 - DEBUG - Page scrolled.
+2025-04-09 09:27:57,258 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:27:58,518 - DEBUG - Page scrolled.
+2025-04-09 09:28:01,520 - DEBUG - Random scrolls complete.
+2025-04-09 09:28:04,406 - DEBUG - Total comments in the thread: 9
+2025-04-09 09:29:07,046 - INFO - Post content extracted and saved to Thread-Details/Thread Content\i would love to get invited to canva pro.txt
+2025-04-09 09:29:09,464 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 09:29:09,486 - DEBUG - Extracted main post content: hello guys
+i searched the forum but each time someone offer an invite i found it expired , can anyone please show some love ?
+
+thanks
+2025-04-09 09:29:14,592 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 09:29:14,593 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 09:29:14,594 - WARNING - rename Error: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'Thread-Details/API Comments\\temp_comment.txt' -> 'Thread-Details/API Comments\\i would love to get invited to canva pro_Shoot me a DM; I might have a spare.\n.txt'
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_automation.py", line 184, in process_profile
+    os.rename(
+    ~~~~~~~~~^
+        os.path.join(api_comments_dir, "temp_comment.txt"),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        api_comment_file,
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'Thread-Details/API Comments\\temp_comment.txt' -> 'Thread-Details/API Comments\\i would love to get invited to canva pro_Shoot me a DM; I might have a spare.\n.txt'
+2025-04-09 09:29:14,623 - INFO - API comment generated and saved to Thread-Details/API Comments\i would love to get invited to canva pro_Shoot me a DM; I might have a spare.
+.txt
+2025-04-09 09:29:14,624 - ERROR - Error reading thread content file: [Errno 22] Invalid argument: 'Thread-Details/API Comments\\i would love to get invited to canva pro_Shoot me a DM; I might have a spare.\n.txt'
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 411, in read_thread_content
+    with open(file_path, "r", encoding="utf-8") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'Thread-Details/API Comments\\i would love to get invited to canva pro_Shoot me a DM; I might have a spare.\n.txt'
+2025-04-09 09:29:16,879 - INFO - performing random action
+2025-04-09 09:29:16,880 - WARNING - No comment available to post.
+2025-04-09 09:29:16,880 - INFO - Task Completed!!
+2025-04-09 09:29:21,269 - INFO - Navigated back to the homepage.
+2025-04-09 09:29:23,394 - INFO - Attempting to clear memory and resources.
+2025-04-09 09:29:23,419 - INFO - Garbage collection completed.
+2025-04-09 09:29:23,420 - INFO - Waiting for 1850 seconds before next execution.

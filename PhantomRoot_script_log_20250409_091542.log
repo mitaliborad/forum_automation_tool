@@ -1,0 +1,92 @@
+2025-04-09 09:15:42,724 - INFO - Current time: 1744170342.7245462
+2025-04-09 09:15:42,725 - INFO - Token expiration time: 1744181136.852054
+2025-04-09 09:15:42,725 - INFO - Token expiration time: 1744181136.852054
+2025-04-09 09:15:42,726 - INFO - performing random action
+2025-04-09 09:15:42,727 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 09:15:42,728 - DEBUG - Scrolling page 4 times.
+2025-04-09 09:15:42,728 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:15:46,838 - DEBUG - Page scrolled.
+2025-04-09 09:15:48,840 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:15:50,773 - DEBUG - Page scrolled.
+2025-04-09 09:15:52,776 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:15:54,509 - DEBUG - Page scrolled.
+2025-04-09 09:15:56,512 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:15:58,255 - DEBUG - Page scrolled.
+2025-04-09 09:16:00,257 - DEBUG - Random scrolls complete.
+2025-04-09 09:16:00,258 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:16:00,258 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:01,268 - DEBUG - Page scrolled.
+2025-04-09 09:16:03,271 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:05,052 - DEBUG - Page scrolled.
+2025-04-09 09:16:07,054 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:08,871 - DEBUG - Page scrolled.
+2025-04-09 09:16:10,874 - DEBUG - Random scrolls complete.
+2025-04-09 09:16:15,021 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-09 09:16:18,847 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/myspace-marketing.1162362/unread
+2025-04-09 09:16:18,848 - INFO - performing random action
+2025-04-09 09:16:27,993 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/myspace-marketing.1162362/unread
+2025-04-09 09:16:27,997 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/myspace-marketing.1162362/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 09:16:28,043 - INFO - Extracted thread title: Myspace marketing
+2025-04-09 09:16:28,044 - DEBUG - Scrolling page 4 times.
+2025-04-09 09:16:28,044 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:29,821 - DEBUG - Page scrolled.
+2025-04-09 09:16:31,824 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:32,887 - DEBUG - Page scrolled.
+2025-04-09 09:16:34,889 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:36,123 - DEBUG - Page scrolled.
+2025-04-09 09:16:38,127 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:39,305 - DEBUG - Page scrolled.
+2025-04-09 09:16:41,307 - DEBUG - Random scrolls complete.
+2025-04-09 09:16:43,693 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:16:43,695 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:45,064 - DEBUG - Page scrolled.
+2025-04-09 09:16:48,065 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:16:49,998 - DEBUG - Page scrolled.
+2025-04-09 09:16:52,999 - DEBUG - Random scrolls complete.
+2025-04-09 09:16:53,032 - DEBUG - Found 20 like buttons.
+2025-04-09 09:16:56,033 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-09 09:16:57,006 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:16:57,016 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:16:57,017 - DEBUG - Liked post number 1 of 1.
+2025-04-09 09:17:01,111 - INFO - Liked 1 posts successfully.
+2025-04-09 09:17:01,114 - INFO - Liked 1 posts successfully.
+2025-04-09 09:17:03,866 - INFO - performing random action
+2025-04-09 09:17:03,868 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:17:03,870 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:17:05,134 - DEBUG - Page scrolled.
+2025-04-09 09:17:08,135 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:17:09,618 - DEBUG - Page scrolled.
+2025-04-09 09:17:12,621 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:17:13,659 - DEBUG - Page scrolled.
+2025-04-09 09:17:16,662 - DEBUG - Random scrolls complete.
+2025-04-09 09:17:19,551 - DEBUG - Total comments in the thread: 20
+2025-04-09 09:20:21,221 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Myspace marketing.txt
+2025-04-09 09:20:23,467 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 09:20:23,501 - DEBUG - Extracted main post content: Hey there
+
+Does anyone receive any feedback from myspace anymore? or it is dead?
+2025-04-09 09:20:28,723 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 09:20:28,726 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 09:20:31,261 - INFO - performing random action
+2025-04-09 09:20:31,262 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:20:31,263 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:20:31,275 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:20:31,312 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:20:31,318 - DEBUG - Text box scrolled into view
+2025-04-09 09:20:32,232 - DEBUG - Initializing actionchains
+2025-04-09 09:20:32,261 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6245}, size: {'height': 21, 'width': 68}
+2025-04-09 09:20:32,261 - DEBUG - Target click coordinates: (1265, 6255)
+2025-04-09 09:20:48,695 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 09:20:48,696 - DEBUG - Moving mouse to text box element.
+2025-04-09 09:20:48,696 - DEBUG - Clicking on the text box.
+2025-04-09 09:20:48,697 - DEBUG - Sending keys with content: Myspace? Wow, blast from the past! I think it's pretty much a ghost town these days; haven't heard anyone mention it in ages.
+
+2025-04-09 09:20:54,219 - DEBUG - Clicking on post reply button.
+2025-04-09 09:21:05,221 - DEBUG - Performed Actionchains
+2025-04-09 09:21:05,223 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 09:21:09,226 - INFO - Comment posted successfully.
+2025-04-09 09:21:09,227 - INFO - Task Completed!!
+2025-04-09 09:21:16,947 - INFO - Navigated back to the homepage.
+2025-04-09 09:21:19,518 - INFO - Attempting to clear memory and resources.
+2025-04-09 09:21:19,554 - INFO - Garbage collection completed.
+2025-04-09 09:21:19,555 - INFO - Waiting for 1850 seconds before next execution.

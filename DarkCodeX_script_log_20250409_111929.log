@@ -1,0 +1,100 @@
+2025-04-09 11:19:29,133 - INFO - Current time: 1744177769.1330442
+2025-04-09 11:19:29,136 - INFO - Token expiration time: 1744181595.7993968
+2025-04-09 11:19:29,139 - INFO - Token expiration time: 1744181595.7993968
+2025-04-09 11:19:29,142 - INFO - performing random action
+2025-04-09 11:19:29,145 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 11:19:29,148 - DEBUG - Scrolling page 4 times.
+2025-04-09 11:19:29,149 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:19:30,912 - DEBUG - Page scrolled.
+2025-04-09 11:19:32,914 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:19:34,143 - DEBUG - Page scrolled.
+2025-04-09 11:19:36,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:19:37,600 - DEBUG - Page scrolled.
+2025-04-09 11:19:39,602 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:19:40,750 - DEBUG - Page scrolled.
+2025-04-09 11:19:42,752 - DEBUG - Random scrolls complete.
+2025-04-09 11:19:42,754 - DEBUG - Scrolling page 4 times.
+2025-04-09 11:19:42,756 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:19:44,025 - DEBUG - Page scrolled.
+2025-04-09 11:19:46,027 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:19:47,981 - DEBUG - Page scrolled.
+2025-04-09 11:19:49,984 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:19:51,073 - DEBUG - Page scrolled.
+2025-04-09 11:19:53,075 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:19:55,005 - DEBUG - Page scrolled.
+2025-04-09 11:19:57,007 - DEBUG - Random scrolls complete.
+2025-04-09 11:20:07,166 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-04-09 11:20:10,995 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/anyone-knows-fast-index-method-for-tumblr.1665003/
+2025-04-09 11:20:10,996 - INFO - Profile DarkCodeX: Minimizing window...
+2025-04-09 11:20:10,997 - INFO - Profile DarkCodeX: Window minimized. Pausing for 19.94 seconds...
+2025-04-09 11:20:30,940 - INFO - Profile DarkCodeX: Resuming after minimize...
+2025-04-09 11:20:30,943 - INFO - performing random action
+2025-04-09 11:20:37,911 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/anyone-knows-fast-index-method-for-tumblr.1665003/
+2025-04-09 11:20:37,912 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/anyone-knows-fast-index-method-for-tumblr.1665003/' to visited threads file 'Thread_links.txt'.
+2025-04-09 11:20:37,939 - INFO - Extracted thread title: Anyone knows fast Index method for Tumblr
+2025-04-09 11:20:37,940 - DEBUG - Scrolling page 4 times.
+2025-04-09 11:20:37,940 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:20:39,220 - DEBUG - Page scrolled.
+2025-04-09 11:20:41,223 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:20:42,411 - DEBUG - Page scrolled.
+2025-04-09 11:20:44,412 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:20:45,865 - DEBUG - Page scrolled.
+2025-04-09 11:20:47,868 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:20:49,026 - DEBUG - Page scrolled.
+2025-04-09 11:20:51,028 - DEBUG - Random scrolls complete.
+2025-04-09 11:20:53,968 - DEBUG - Scrolling page 1 times.
+2025-04-09 11:20:53,969 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:20:55,112 - DEBUG - Page scrolled.
+2025-04-09 11:20:58,114 - DEBUG - Random scrolls complete.
+2025-04-09 11:20:58,139 - DEBUG - Found 2 like buttons.
+2025-04-09 11:21:01,140 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-04-09 11:21:01,775 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:21:01,787 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:21:01,788 - DEBUG - Liked post number 1 of 1.
+2025-04-09 11:21:06,423 - INFO - Liked 1 posts successfully.
+2025-04-09 11:21:06,425 - INFO - Liked 1 posts successfully.
+2025-04-09 11:21:09,231 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-09 11:21:21,648 - INFO - Profile DarkCodeX: Pausing for 35.08 seconds...
+2025-04-09 11:21:56,730 - INFO - Profile DarkCodeX: Resuming...
+2025-04-09 11:21:56,757 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-09 11:21:56,759 - INFO - performing random action
+2025-04-09 11:21:56,759 - DEBUG - Scrolling page 4 times.
+2025-04-09 11:21:56,760 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:21:58,564 - DEBUG - Page scrolled.
+2025-04-09 11:22:01,567 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:22:02,666 - DEBUG - Page scrolled.
+2025-04-09 11:22:05,671 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:22:07,563 - DEBUG - Page scrolled.
+2025-04-09 11:22:10,565 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:22:12,094 - DEBUG - Page scrolled.
+2025-04-09 11:22:15,096 - DEBUG - Random scrolls complete.
+2025-04-09 11:22:17,314 - DEBUG - Total comments in the thread: 2
+2025-04-09 11:22:27,634 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Anyone knows fast Index method for Tumblr.txt
+2025-04-09 11:22:29,807 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 11:22:29,879 - DEBUG - Extracted main post content: As the title says. How to fast Index tumblr blogs?
+2025-04-09 11:22:34,422 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 11:22:34,426 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 11:22:36,796 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-09 11:22:38,807 - INFO - performing random action
+2025-04-09 11:22:38,810 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:22:38,811 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:22:38,849 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:22:38,893 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:22:38,900 - DEBUG - Text box scrolled into view
+2025-04-09 11:22:39,628 - DEBUG - Initializing actionchains
+2025-04-09 11:22:39,684 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1662}, size: {'height': 21, 'width': 68}
+2025-04-09 11:22:39,685 - DEBUG - Target click coordinates: (1265, 1672)
+2025-04-09 11:22:46,698 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 11:22:46,700 - DEBUG - Moving mouse to text box element.
+2025-04-09 11:22:46,702 - DEBUG - Clicking on the text box.
+2025-04-09 11:22:46,704 - DEBUG - Sending keys with content: Honestly, Tumblr's a pain. Have you tried submitting the sitemap to Google Search Console?
+
+2025-04-09 11:22:52,561 - DEBUG - Clicking on post reply button.
+2025-04-09 11:23:03,463 - DEBUG - Performed Actionchains
+2025-04-09 11:23:03,464 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 11:23:07,468 - INFO - Comment posted successfully.
+2025-04-09 11:23:07,471 - INFO - Task Completed!!
+2025-04-09 11:23:18,086 - INFO - Navigated back to the homepage.
+2025-04-09 11:23:20,995 - INFO - Attempting to clear memory and resources.
+2025-04-09 11:23:21,025 - INFO - Garbage collection completed.
+2025-04-09 11:23:21,026 - INFO - Waiting for 1850 seconds before next execution.
