@@ -1,0 +1,1 @@
+Huh, that's a tricky one. Have you tried using a dedicated Telegram session manager? Might be worth looking into those.

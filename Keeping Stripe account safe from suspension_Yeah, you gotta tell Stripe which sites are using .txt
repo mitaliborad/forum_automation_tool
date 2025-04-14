@@ -1,0 +1,1 @@
+Yeah, you gotta tell Stripe which sites are using the API, it's a security thing. As for keeping that stealth account alive, treat it like gold dust – don't rush, and keep everything consistent!

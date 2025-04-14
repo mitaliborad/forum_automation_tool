@@ -1,0 +1,26 @@
+--- Main Post Title ---
+Keeping Stripe account safe from suspension
+
+Total comments in the thread: 2
+
+Topic User: ightttttt
+Topic: When adding the API to your site for orders do you have to add the domain to the domain section to indicate what sites your running on?
+
+This is my first time actually using stripe (fresh stealth account) if anyone with experience with stealth stripes/stripe pls leave leave some advice below
+specficially on how to fully setup on a new acc / keep it safe from suspension
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Palantiri
+Topic: Yes, add the domain; helps verification. Crucially, keep disputes low (<0.75% target) & ensure site clearly reflects biz. Predictable volume > sudden spikes. Stripe values stability, even for 'stealth'.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+

@@ -1,0 +1,100 @@
+2025-04-10 11:23:19,064 - INFO - Current time: 1744264399.0641005
+2025-04-10 11:23:19,065 - INFO - Token expiration time: 1744268563.0983894
+2025-04-10 11:23:19,066 - INFO - Token expiration time: 1744268563.0983894
+2025-04-10 11:23:19,067 - INFO - Profile DarkCodeX: Minimizing window...
+2025-04-10 11:23:19,068 - INFO - Profile DarkCodeX: Window minimized. Pausing for 15.35 seconds...
+2025-04-10 11:23:34,419 - INFO - Profile DarkCodeX: Resuming after minimize...
+2025-04-10 11:23:34,420 - INFO - performing random action
+2025-04-10 11:23:34,421 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:23:34,421 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:23:34,422 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:23:35,679 - DEBUG - Page scrolled.
+2025-04-10 11:23:37,681 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:23:39,047 - DEBUG - Page scrolled.
+2025-04-10 11:23:41,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:23:42,956 - DEBUG - Page scrolled.
+2025-04-10 11:23:44,959 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:23:46,581 - DEBUG - Page scrolled.
+2025-04-10 11:23:48,584 - DEBUG - Random scrolls complete.
+2025-04-10 11:23:48,585 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:23:48,587 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:23:49,620 - DEBUG - Page scrolled.
+2025-04-10 11:23:51,622 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:23:53,378 - DEBUG - Page scrolled.
+2025-04-10 11:23:55,381 - DEBUG - Random scrolls complete.
+2025-04-10 11:24:02,871 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-04-10 11:24:06,507 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/free-hosting-alternatives-to-doodstream-and-filemoon.1688109/unread
+2025-04-10 11:24:06,507 - INFO - Profile DarkCodeX: Minimizing window...
+2025-04-10 11:24:06,508 - INFO - Profile DarkCodeX: Window minimized. Pausing for 19.85 seconds...
+2025-04-10 11:24:26,363 - INFO - Profile DarkCodeX: Resuming after minimize...
+2025-04-10 11:24:26,365 - INFO - performing random action
+2025-04-10 11:24:36,432 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/free-hosting-alternatives-to-doodstream-and-filemoon.1688109/unread
+2025-04-10 11:24:36,436 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/free-hosting-alternatives-to-doodstream-and-filemoon.1688109/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:24:36,479 - INFO - Extracted thread title: Free hosting alternatives to Doodstream and Filemoon
+2025-04-10 11:24:36,480 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:24:36,481 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:24:37,522 - DEBUG - Page scrolled.
+2025-04-10 11:24:39,524 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:24:41,100 - DEBUG - Page scrolled.
+2025-04-10 11:24:43,102 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:24:44,612 - DEBUG - Page scrolled.
+2025-04-10 11:24:46,614 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:24:47,736 - DEBUG - Page scrolled.
+2025-04-10 11:24:49,739 - DEBUG - Random scrolls complete.
+2025-04-10 11:24:52,016 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:24:52,017 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:24:53,652 - DEBUG - Page scrolled.
+2025-04-10 11:24:56,654 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:24:57,777 - DEBUG - Page scrolled.
+2025-04-10 11:25:00,779 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:25:02,091 - DEBUG - Page scrolled.
+2025-04-10 11:25:05,093 - DEBUG - Random scrolls complete.
+2025-04-10 11:25:05,124 - DEBUG - Found 20 like buttons.
+2025-04-10 11:25:08,125 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-10 11:25:08,975 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:25:08,984 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:25:08,985 - DEBUG - Liked post number 1 of 1.
+2025-04-10 11:25:13,963 - INFO - Liked 1 posts successfully.
+2025-04-10 11:25:13,966 - INFO - Liked 1 posts successfully.
+2025-04-10 11:25:16,775 - INFO - performing random action
+2025-04-10 11:25:16,777 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:25:16,779 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:25:18,413 - DEBUG - Page scrolled.
+2025-04-10 11:25:21,416 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:25:23,048 - DEBUG - Page scrolled.
+2025-04-10 11:25:26,050 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:25:27,428 - DEBUG - Page scrolled.
+2025-04-10 11:25:30,430 - DEBUG - Random scrolls complete.
+2025-04-10 11:25:32,935 - DEBUG - Total comments in the thread: 20
+2025-04-10 11:28:08,296 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Free hosting alternatives to Doodstream and Filemoon.txt
+2025-04-10 11:28:10,933 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:28:10,973 - DEBUG - Extracted main post content: Hi everyone,
+I have a movie website and I used to use doodstream and filemoon as my #1 and #2 player. However, after doodstream went down, I suddenly thought: Is it possible that Filemoon will also go down in the future? So now I want to ask you guys to recommend some hosting platforms that you feel are okay so that I can use them instead.
+2025-04-10 11:28:16,194 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:28:16,197 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:28:18,924 - INFO - Profile DarkCodeX: Minimizing window...
+2025-04-10 11:28:18,929 - INFO - Profile DarkCodeX: Window minimized. Pausing for 16.36 seconds...
+2025-04-10 11:28:35,291 - INFO - Profile DarkCodeX: Resuming after minimize...
+2025-04-10 11:28:35,294 - INFO - performing random action
+2025-04-10 11:28:35,296 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:28:35,298 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:28:35,320 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:28:35,356 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:28:35,363 - DEBUG - Text box scrolled into view
+2025-04-10 11:28:35,867 - DEBUG - Initializing actionchains
+2025-04-10 11:28:35,899 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6263}, size: {'height': 21, 'width': 68}
+2025-04-10 11:28:35,899 - DEBUG - Target click coordinates: (1265, 6273)
+2025-04-10 11:28:52,288 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:28:52,289 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:28:52,293 - DEBUG - Clicking on the text box.
+2025-04-10 11:28:52,297 - DEBUG - Sending keys with content: I'd say diversify. Don't put all your eggs in one basket, and have like 3-4 hosts ready to go.
+
+2025-04-10 11:28:58,294 - DEBUG - Clicking on post reply button.
+2025-04-10 11:29:09,166 - DEBUG - Performed Actionchains
+2025-04-10 11:29:09,166 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:29:13,167 - INFO - Comment posted successfully.
+2025-04-10 11:29:13,170 - INFO - Task Completed!!
+2025-04-10 11:29:19,400 - INFO - Navigated back to the homepage.
+2025-04-10 11:29:21,634 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:29:21,663 - INFO - Garbage collection completed.
+2025-04-10 11:29:21,664 - INFO - Waiting for 1850 seconds before next execution.

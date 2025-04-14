@@ -1,0 +1,103 @@
+2025-04-10 10:11:49,088 - INFO - Current time: 1744260109.0881922
+2025-04-10 10:11:49,090 - INFO - Token expiration time: 1744268563.0983894
+2025-04-10 10:11:49,093 - INFO - Token expiration time: 1744268563.0983894
+2025-04-10 10:11:49,095 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-10 10:11:51,100 - INFO - performing random action
+2025-04-10 10:11:51,104 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:11:51,106 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:11:51,108 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:52,864 - DEBUG - Page scrolled.
+2025-04-10 10:11:54,866 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:56,249 - DEBUG - Page scrolled.
+2025-04-10 10:11:58,251 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:59,781 - DEBUG - Page scrolled.
+2025-04-10 10:12:01,784 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:12:03,263 - DEBUG - Page scrolled.
+2025-04-10 10:12:05,266 - DEBUG - Random scrolls complete.
+2025-04-10 10:12:05,267 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:12:05,269 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:12:06,906 - DEBUG - Page scrolled.
+2025-04-10 10:12:08,910 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:12:10,620 - DEBUG - Page scrolled.
+2025-04-10 10:12:12,625 - DEBUG - Random scrolls complete.
+2025-04-10 10:12:20,148 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-04-10 10:12:23,913 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/searching-for-many-numbers-to-recieve-otp.1561947/unread
+2025-04-10 10:12:23,914 - INFO - Profile DarkCodeX: Opening random website: https://www.w3schools.com/
+2025-04-10 10:12:32,625 - INFO - Profile DarkCodeX: Pausing for 45.20 seconds...
+2025-04-10 10:13:17,828 - INFO - Profile DarkCodeX: Resuming...
+2025-04-10 10:13:17,855 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-10 10:13:17,855 - INFO - performing random action
+2025-04-10 10:18:20,004 - ERROR - An error occurred: Message: timeout: Timed out receiving message from renderer: -0.009
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF72ECE0C45+27221]
+	(No symbol) [0x00007FF72EC46F30]
+	(No symbol) [0x00007FF72EAC5ADA]
+	(No symbol) [0x00007FF72EAB599C]
+	(No symbol) [0x00007FF72EAB568A]
+	(No symbol) [0x00007FF72EAB320F]
+	(No symbol) [0x00007FF72EAB3CDF]
+	(No symbol) [0x00007FF72EABFD5E]
+	(No symbol) [0x00007FF72EAD5FE3]
+	(No symbol) [0x00007FF72EADD11A]
+	(No symbol) [0x00007FF72EAB444D]
+	(No symbol) [0x00007FF72EAD5D15]
+	(No symbol) [0x00007FF72EB703C5]
+	(No symbol) [0x00007FF72EB47A73]
+	(No symbol) [0x00007FF72EB10750]
+	(No symbol) [0x00007FF72EB11A03]
+	GetHandleVerifier [0x00007FF72F046E2D+3591229]
+	GetHandleVerifier [0x00007FF72F05E45A+3687018]
+	GetHandleVerifier [0x00007FF72F053323+3641651]
+	GetHandleVerifier [0x00007FF72EDAB6BA+857290]
+	(No symbol) [0x00007FF72EC5230F]
+	(No symbol) [0x00007FF72EC4E304]
+	(No symbol) [0x00007FF72EC4E4A6]
+	(No symbol) [0x00007FF72EC3D469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_automation.py", line 123, in process_profile
+    driver.get(thread_link)
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: -0.009
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF72ECE0C45+27221]
+	(No symbol) [0x00007FF72EC46F30]
+	(No symbol) [0x00007FF72EAC5ADA]
+	(No symbol) [0x00007FF72EAB599C]
+	(No symbol) [0x00007FF72EAB568A]
+	(No symbol) [0x00007FF72EAB320F]
+	(No symbol) [0x00007FF72EAB3CDF]
+	(No symbol) [0x00007FF72EABFD5E]
+	(No symbol) [0x00007FF72EAD5FE3]
+	(No symbol) [0x00007FF72EADD11A]
+	(No symbol) [0x00007FF72EAB444D]
+	(No symbol) [0x00007FF72EAD5D15]
+	(No symbol) [0x00007FF72EB703C5]
+	(No symbol) [0x00007FF72EB47A73]
+	(No symbol) [0x00007FF72EB10750]
+	(No symbol) [0x00007FF72EB11A03]
+	GetHandleVerifier [0x00007FF72F046E2D+3591229]
+	GetHandleVerifier [0x00007FF72F05E45A+3687018]
+	GetHandleVerifier [0x00007FF72F053323+3641651]
+	GetHandleVerifier [0x00007FF72EDAB6BA+857290]
+	(No symbol) [0x00007FF72EC5230F]
+	(No symbol) [0x00007FF72EC4E304]
+	(No symbol) [0x00007FF72EC4E4A6]
+	(No symbol) [0x00007FF72EC3D469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-10 10:18:20,074 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:18:20,099 - INFO - Garbage collection completed.
+2025-04-10 10:18:20,100 - INFO - Waiting for 1850 seconds before next execution.

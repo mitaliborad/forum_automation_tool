@@ -1,0 +1,123 @@
+2025-04-10 11:48:17,847 - INFO - Current time: 1744265897.8477757
+2025-04-10 11:48:17,849 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 11:48:17,851 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 11:48:17,854 - INFO - performing random action
+2025-04-10 11:48:17,856 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:48:17,858 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:48:17,860 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:19,384 - DEBUG - Page scrolled.
+2025-04-10 11:48:21,386 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:22,561 - DEBUG - Page scrolled.
+2025-04-10 11:48:24,564 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:25,863 - DEBUG - Page scrolled.
+2025-04-10 11:48:27,865 - DEBUG - Random scrolls complete.
+2025-04-10 11:48:27,867 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:48:27,868 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:29,119 - DEBUG - Page scrolled.
+2025-04-10 11:48:31,120 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:32,926 - DEBUG - Page scrolled.
+2025-04-10 11:48:34,929 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:36,535 - DEBUG - Page scrolled.
+2025-04-10 11:48:38,538 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:39,607 - DEBUG - Page scrolled.
+2025-04-10 11:48:41,608 - DEBUG - Random scrolls complete.
+2025-04-10 11:48:52,866 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-04-10 11:48:56,468 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/issues-with-reconnecting-to-telegram-accounts-via-tdata.1660823/unread
+2025-04-10 11:48:56,468 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-10 11:49:05,292 - INFO - Profile PhantomRoot: Pausing for 37.49 seconds...
+2025-04-10 11:49:42,786 - INFO - Profile PhantomRoot: Resuming...
+2025-04-10 11:49:42,814 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-10 11:49:42,815 - INFO - performing random action
+2025-04-10 11:49:51,803 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/issues-with-reconnecting-to-telegram-accounts-via-tdata.1660823/unread
+2025-04-10 11:49:51,806 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/issues-with-reconnecting-to-telegram-accounts-via-tdata.1660823/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:49:51,849 - INFO - Extracted thread title: Issues with Reconnecting to Telegram Accounts via tdata
+2025-04-10 11:49:51,850 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:49:51,851 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:53,598 - DEBUG - Page scrolled.
+2025-04-10 11:49:55,599 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:56,975 - DEBUG - Page scrolled.
+2025-04-10 11:49:58,976 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:00,646 - DEBUG - Page scrolled.
+2025-04-10 11:50:02,647 - DEBUG - Random scrolls complete.
+2025-04-10 11:50:05,348 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:50:05,349 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:07,324 - DEBUG - Page scrolled.
+2025-04-10 11:50:10,325 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:11,775 - DEBUG - Page scrolled.
+2025-04-10 11:50:14,777 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:16,599 - DEBUG - Page scrolled.
+2025-04-10 11:50:19,601 - DEBUG - Random scrolls complete.
+2025-04-10 11:50:19,630 - DEBUG - Found 6 like buttons.
+2025-04-10 11:50:22,631 - INFO - Attempting to like 3 posts. There are 6 available.
+2025-04-10 11:50:23,426 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:50:23,449 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:50:23,450 - DEBUG - Liked post number 1 of 3.
+2025-04-10 11:50:28,513 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:50:28,533 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:50:28,535 - DEBUG - Liked post number 2 of 3.
+2025-04-10 11:50:34,105 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:50:34,111 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:50:34,111 - DEBUG - Liked post number 3 of 3.
+2025-04-10 11:50:38,877 - INFO - Liked 3 posts successfully.
+2025-04-10 11:50:38,878 - INFO - Liked 3 posts successfully.
+2025-04-10 11:50:41,059 - INFO - performing random action
+2025-04-10 11:50:41,061 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:50:41,063 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:42,944 - DEBUG - Page scrolled.
+2025-04-10 11:50:45,946 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:47,696 - DEBUG - Page scrolled.
+2025-04-10 11:50:50,698 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:52,590 - DEBUG - Page scrolled.
+2025-04-10 11:50:55,592 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:56,876 - DEBUG - Page scrolled.
+2025-04-10 11:50:59,877 - DEBUG - Random scrolls complete.
+2025-04-10 11:51:02,647 - DEBUG - Total comments in the thread: 6
+2025-04-10 11:51:33,909 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Issues with Reconnecting to Telegram Accounts via tdata.txt
+2025-04-10 11:51:35,951 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:51:35,990 - DEBUG - Extracted main post content: Hi,
+
+I recently purchased Telegram profiles from a global provider.
+The connection process involved them providing me with a phone number, and when I logged in, they shared the verification code with me.
+
+I’m looking for a reliable way to save the profile data, like the tdata, so I can reconnect to the account in case it gets logged out.
+I’ve tried saving the tdata folder downloaded to my computer when logging in through the portable version of Telegram. However, it only works for the initial login session and doesn’t allow me to reconnect later.
+
+I’d appreciate suggestions or methods to solve this issue.
+2025-04-10 11:51:40,454 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:51:40,457 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:51:42,874 - INFO - performing random action
+2025-04-10 11:51:42,877 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:51:42,878 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:51:42,894 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:51:42,931 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:51:42,936 - DEBUG - Text box scrolled into view
+2025-04-10 11:51:43,473 - DEBUG - Initializing actionchains
+2025-04-10 11:51:43,526 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2803}, size: {'height': 21, 'width': 68}
+2025-04-10 11:51:43,527 - DEBUG - Target click coordinates: (1265, 2813)
+2025-04-10 11:51:53,191 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:51:53,193 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:51:53,195 - DEBUG - Clicking on the text box.
+2025-04-10 11:51:53,198 - DEBUG - Sending keys with content: Huh, that's a tricky one. Have you tried using a dedicated Telegram session manager? Might be worth looking into those.
+
+2025-04-10 11:51:58,816 - DEBUG - Clicking on post reply button.
+2025-04-10 11:52:09,692 - DEBUG - Performed Actionchains
+2025-04-10 11:52:09,692 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:52:13,694 - INFO - Comment posted successfully.
+2025-04-10 11:52:13,696 - INFO - Task Completed!!
+2025-04-10 11:52:21,639 - INFO - Navigated back to the homepage.
+2025-04-10 11:52:24,354 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:52:24,382 - INFO - Garbage collection completed.
+2025-04-10 11:52:24,383 - INFO - Waiting for 1850 seconds before next execution.
+2025-04-10 12:23:14,384 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-10 12:23:14,387 - INFO - Stopping browser for profile: PhantomRoot...
+2025-04-10 12:23:14,389 - INFO - Refreshing token before stopping profile...
+2025-04-10 12:23:14,391 - INFO - Refreshing token for PhantomRoot...
+2025-04-10 12:23:15,231 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 12:23:15,233 - INFO - Calculated token expiration time: 1744278795.233664
+2025-04-10 12:23:15,235 - INFO - Profile PhantomRoot: Successfully logged in.
+2025-04-10 12:23:15,237 - INFO - Token refreshed successfully before stopping.
+2025-04-10 12:23:15,239 - INFO - Profile PhantomRoot: Attempting to stop (Attempt 1/3)...
+2025-04-10 12:23:15,244 - INFO - Profile PhantomRoot: Browser closed successfully in 0.00 seconds.
+2025-04-10 12:23:19,579 - INFO - Profile PhantomRoot: API call took 4.33 seconds.
+2025-04-10 12:23:19,582 - INFO - Profile PhantomRoot: Stopped successfully.
+2025-04-10 12:23:19,585 - INFO - Browser stopped successfully for profile: PhantomRoot.

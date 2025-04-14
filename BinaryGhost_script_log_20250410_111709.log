@@ -1,0 +1,92 @@
+2025-04-10 11:17:09,918 - INFO - Current time: 1744264029.9186654
+2025-04-10 11:17:09,921 - INFO - Token expiration time: 1744268270.3235562
+2025-04-10 11:17:09,924 - INFO - Token expiration time: 1744268270.3235562
+2025-04-10 11:17:09,927 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-10 11:17:09,931 - INFO - Profile BinaryGhost: Window minimized. Pausing for 26.85 seconds...
+2025-04-10 11:17:36,789 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-10 11:17:36,792 - INFO - performing random action
+2025-04-10 11:17:36,795 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:17:36,797 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:17:36,800 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:17:38,645 - DEBUG - Page scrolled.
+2025-04-10 11:17:40,647 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:17:42,120 - DEBUG - Page scrolled.
+2025-04-10 11:17:44,121 - DEBUG - Random scrolls complete.
+2025-04-10 11:17:44,123 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:17:44,124 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:17:45,854 - DEBUG - Page scrolled.
+2025-04-10 11:17:47,857 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:17:49,144 - DEBUG - Page scrolled.
+2025-04-10 11:17:51,146 - DEBUG - Random scrolls complete.
+2025-04-10 11:18:02,243 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-10 11:18:05,929 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-can-i-achieve-cloaking-in-google-ads.1680771/unread
+2025-04-10 11:18:05,930 - INFO - Profile BinaryGhost: Opening random website: https://www.teejh.com/
+2025-04-10 11:18:29,245 - INFO - Profile BinaryGhost: Pausing for 46.74 seconds...
+2025-04-10 11:19:15,985 - INFO - Profile BinaryGhost: Resuming...
+2025-04-10 11:19:16,030 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-10 11:19:16,032 - INFO - performing random action
+2025-04-10 11:19:26,096 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-can-i-achieve-cloaking-in-google-ads.1680771/unread
+2025-04-10 11:19:26,099 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-can-i-achieve-cloaking-in-google-ads.1680771/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:19:26,139 - INFO - Extracted thread title: How can I achieve cloaking in Google Ads
+2025-04-10 11:19:26,140 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:19:26,141 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:19:27,666 - DEBUG - Page scrolled.
+2025-04-10 11:19:29,672 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:19:31,036 - DEBUG - Page scrolled.
+2025-04-10 11:19:33,037 - DEBUG - Random scrolls complete.
+2025-04-10 11:19:35,267 - DEBUG - Scrolling page 1 times.
+2025-04-10 11:19:35,268 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:19:37,039 - DEBUG - Page scrolled.
+2025-04-10 11:19:40,042 - DEBUG - Random scrolls complete.
+2025-04-10 11:19:40,064 - DEBUG - Found 20 like buttons.
+2025-04-10 11:19:43,065 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-04-10 11:19:43,651 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:19:43,685 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:19:43,686 - DEBUG - Liked post number 1 of 2.
+2025-04-10 11:19:48,410 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:19:48,430 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:19:48,432 - DEBUG - Liked post number 2 of 2.
+2025-04-10 11:19:52,553 - INFO - Liked 2 posts successfully.
+2025-04-10 11:19:52,556 - INFO - Liked 2 posts successfully.
+2025-04-10 11:19:55,406 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-10 11:19:55,408 - INFO - Profile BinaryGhost: Window minimized. Pausing for 23.78 seconds...
+2025-04-10 11:20:19,186 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-10 11:20:19,188 - INFO - performing random action
+2025-04-10 11:20:19,191 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:20:19,192 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:20,262 - DEBUG - Page scrolled.
+2025-04-10 11:20:23,264 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:24,521 - DEBUG - Page scrolled.
+2025-04-10 11:20:27,523 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:29,248 - DEBUG - Page scrolled.
+2025-04-10 11:20:32,250 - DEBUG - Random scrolls complete.
+2025-04-10 11:20:34,774 - DEBUG - Total comments in the thread: 20
+2025-04-10 11:23:01,069 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How can I achieve cloaking in Google Ads.txt
+2025-04-10 11:23:03,906 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:23:03,953 - DEBUG - Extracted main post content: How can I achieve cloaking in Google Ads? Without account suspension
+2025-04-10 11:23:08,428 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:23:08,432 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:23:10,919 - INFO - Profile BinaryGhost: Restoring window...
+2025-04-10 11:23:12,922 - INFO - performing random action
+2025-04-10 11:23:12,924 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:23:12,926 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:23:12,965 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:23:13,009 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:23:13,015 - DEBUG - Text box scrolled into view
+2025-04-10 11:23:13,544 - DEBUG - Initializing actionchains
+2025-04-10 11:23:13,596 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6565}, size: {'height': 21, 'width': 68}
+2025-04-10 11:23:13,597 - DEBUG - Target click coordinates: (1265, 6575)
+2025-04-10 11:23:30,976 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:23:30,979 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:23:30,984 - DEBUG - Clicking on the text box.
+2025-04-10 11:23:30,987 - DEBUG - Sending keys with content: Forget about cloaking; Google's way too smart for that these days. Focus on audience targeting and ad relevance instead – way less risky, way more effective.
+
+2025-04-10 11:23:36,864 - DEBUG - Clicking on post reply button.
+2025-04-10 11:23:47,668 - DEBUG - Performed Actionchains
+2025-04-10 11:23:47,669 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:23:51,670 - INFO - Comment posted successfully.
+2025-04-10 11:23:51,673 - INFO - Task Completed!!
+2025-04-10 11:23:59,367 - INFO - Navigated back to the homepage.
+2025-04-10 11:24:01,690 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:24:01,718 - INFO - Garbage collection completed.
+2025-04-10 11:24:01,719 - INFO - Waiting for 1850 seconds before next execution.

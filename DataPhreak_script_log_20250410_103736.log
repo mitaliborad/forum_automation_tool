@@ -1,0 +1,111 @@
+2025-04-10 10:37:36,508 - INFO - Current time: 1744261656.5085018
+2025-04-10 10:37:36,511 - INFO - Token expiration time: 1744267808.8557115
+2025-04-10 10:37:36,513 - INFO - Token expiration time: 1744267808.8557115
+2025-04-10 10:37:36,515 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-10 10:37:42,527 - INFO - Profile DataPhreak: Pausing for 34.17 seconds...
+2025-04-10 10:38:16,703 - INFO - Profile DataPhreak: Resuming...
+2025-04-10 10:38:16,726 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-10 10:38:16,727 - INFO - performing random action
+2025-04-10 10:38:16,728 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:38:16,729 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:38:16,729 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:18,351 - DEBUG - Page scrolled.
+2025-04-10 10:38:20,353 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:21,799 - DEBUG - Page scrolled.
+2025-04-10 10:38:23,801 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:25,634 - DEBUG - Page scrolled.
+2025-04-10 10:38:27,637 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:29,236 - DEBUG - Page scrolled.
+2025-04-10 10:38:31,238 - DEBUG - Random scrolls complete.
+2025-04-10 10:38:31,239 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:38:31,240 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:32,575 - DEBUG - Page scrolled.
+2025-04-10 10:38:34,577 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:36,481 - DEBUG - Page scrolled.
+2025-04-10 10:38:38,483 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:39,571 - DEBUG - Page scrolled.
+2025-04-10 10:38:41,573 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:43,020 - DEBUG - Page scrolled.
+2025-04-10 10:38:45,022 - DEBUG - Random scrolls complete.
+2025-04-10 10:38:49,750 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-04-10 10:38:53,139 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-wechat-a-good-platform-to-promote-in-china.1564030/
+2025-04-10 10:38:53,140 - INFO - performing random action
+2025-04-10 10:39:00,289 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-wechat-a-good-platform-to-promote-in-china.1564030/
+2025-04-10 10:39:00,292 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-wechat-a-good-platform-to-promote-in-china.1564030/' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:39:00,347 - INFO - Extracted thread title: Is wechat a good platform to promote in China
+2025-04-10 10:39:00,348 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:39:00,348 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:39:02,255 - DEBUG - Page scrolled.
+2025-04-10 10:39:04,258 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:39:06,007 - DEBUG - Page scrolled.
+2025-04-10 10:39:08,009 - DEBUG - Random scrolls complete.
+2025-04-10 10:39:10,695 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:39:10,697 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:39:12,141 - DEBUG - Page scrolled.
+2025-04-10 10:39:15,142 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:39:16,895 - DEBUG - Page scrolled.
+2025-04-10 10:39:19,897 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:39:21,025 - DEBUG - Page scrolled.
+2025-04-10 10:39:24,028 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:39:25,417 - DEBUG - Page scrolled.
+2025-04-10 10:39:28,419 - DEBUG - Random scrolls complete.
+2025-04-10 10:39:28,461 - DEBUG - Found 13 like buttons.
+2025-04-10 10:39:31,462 - INFO - Attempting to like 3 posts. There are 13 available.
+2025-04-10 10:39:32,412 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:39:32,448 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:39:32,449 - DEBUG - Liked post number 1 of 3.
+2025-04-10 10:39:37,578 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:39:37,586 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:39:37,587 - DEBUG - Liked post number 2 of 3.
+2025-04-10 10:39:42,816 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:39:42,826 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:39:42,827 - DEBUG - Liked post number 3 of 3.
+2025-04-10 10:39:47,474 - INFO - Liked 3 posts successfully.
+2025-04-10 10:39:47,477 - INFO - Liked 3 posts successfully.
+2025-04-10 10:39:49,752 - INFO - Profile DataPhreak: Restoring window...
+2025-04-10 10:39:51,758 - INFO - performing random action
+2025-04-10 10:39:51,761 - DEBUG - Scrolling page 5 times.
+2025-04-10 10:39:51,762 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:39:53,630 - DEBUG - Page scrolled.
+2025-04-10 10:39:56,634 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:39:58,144 - DEBUG - Page scrolled.
+2025-04-10 10:40:01,146 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:40:02,714 - DEBUG - Page scrolled.
+2025-04-10 10:40:05,716 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:40:07,463 - DEBUG - Page scrolled.
+2025-04-10 10:40:10,465 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:40:12,169 - DEBUG - Page scrolled.
+2025-04-10 10:40:15,170 - DEBUG - Random scrolls complete.
+2025-04-10 10:40:17,456 - DEBUG - Total comments in the thread: 13
+2025-04-10 10:42:01,454 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is wechat a good platform to promote in China.txt
+2025-04-10 10:42:03,758 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:42:03,797 - DEBUG - Extracted main post content: Not sure the ROI of ads in Wechat, any suggestions or experiences on that?
+2025-04-10 10:42:08,613 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:42:08,617 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:42:11,070 - INFO - Profile DataPhreak: Opening random website: https://www.canva.com/en_in/
+2025-04-10 10:42:32,091 - INFO - Profile DataPhreak: Pausing for 48.77 seconds...
+2025-04-10 10:43:20,867 - INFO - Profile DataPhreak: Resuming...
+2025-04-10 10:43:20,911 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-10 10:43:20,914 - INFO - performing random action
+2025-04-10 10:43:20,915 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:43:20,916 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:43:20,931 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:43:20,979 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:43:20,987 - DEBUG - Text box scrolled into view
+2025-04-10 10:43:21,977 - DEBUG - Initializing actionchains
+2025-04-10 10:43:22,027 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4391}, size: {'height': 21, 'width': 68}
+2025-04-10 10:43:22,028 - DEBUG - Target click coordinates: (1265, 4401)
+2025-04-10 10:43:34,995 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:43:34,997 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:43:34,999 - DEBUG - Clicking on the text box.
+2025-04-10 10:43:35,002 - DEBUG - Sending keys with content: WeChat ads can be tricky; are you targeting users in China or overseas Chinese? That makes a huge difference.
+
+2025-04-10 10:43:40,814 - DEBUG - Clicking on post reply button.
+2025-04-10 10:43:41,982 - DEBUG - Performed Actionchains
+2025-04-10 10:43:41,982 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:43:45,983 - INFO - Comment posted successfully.
+2025-04-10 10:43:45,985 - INFO - Task Completed!!
+2025-04-10 10:43:49,205 - INFO - Navigated back to the homepage.
+2025-04-10 10:43:51,991 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:43:52,019 - INFO - Garbage collection completed.
+2025-04-10 10:43:52,020 - INFO - Waiting for 1850 seconds before next execution.
