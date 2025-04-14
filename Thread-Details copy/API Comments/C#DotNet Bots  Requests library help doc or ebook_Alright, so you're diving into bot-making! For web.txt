@@ -1,0 +1,1 @@
+Alright, so you're diving into bot-making! For web scraping in C#, check out HtmlAgilityPack – it's pretty solid. As for reCAPTCHA, that's a tough nut to crack and might require some serious API usage.

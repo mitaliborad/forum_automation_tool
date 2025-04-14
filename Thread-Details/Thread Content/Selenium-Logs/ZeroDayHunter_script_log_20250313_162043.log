@@ -1,0 +1,100 @@
+2025-03-13 16:20:43,715 - INFO - Starting new automation task. Log file created at: Selenium-Logs\ZeroDayHunter_script_log_20250313_162043.log
+2025-03-13 16:20:43,716 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 16:20:43,718 - INFO - Loaded 212 visited threads from Thread_links.txt
+2025-03-13 16:20:43,719 - INFO - Successfully loaded links that was already visited!
+2025-03-13 16:20:43,720 - DEBUG - Scrolling page 7 times.
+2025-03-13 16:20:43,721 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:44,777 - DEBUG - Page scrolled.
+2025-03-13 16:20:46,777 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:48,435 - DEBUG - Page scrolled.
+2025-03-13 16:20:50,439 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:51,680 - DEBUG - Page scrolled.
+2025-03-13 16:20:53,755 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:55,483 - DEBUG - Page scrolled.
+2025-03-13 16:20:57,490 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:58,565 - DEBUG - Page scrolled.
+2025-03-13 16:21:00,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:02,030 - DEBUG - Page scrolled.
+2025-03-13 16:21:04,036 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:05,355 - DEBUG - Page scrolled.
+2025-03-13 16:21:07,357 - DEBUG - Random scrolls complete.
+2025-03-13 16:21:07,358 - DEBUG - Scrolling page 3 times.
+2025-03-13 16:21:07,365 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:08,501 - DEBUG - Page scrolled.
+2025-03-13 16:21:10,525 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:11,865 - DEBUG - Page scrolled.
+2025-03-13 16:21:13,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:15,628 - DEBUG - Page scrolled.
+2025-03-13 16:21:17,631 - DEBUG - Random scrolls complete.
+2025-03-13 16:21:24,063 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-03-13 16:21:28,598 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-check-if-proxies-are-clean.1655366/unread
+2025-03-13 16:21:40,919 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-check-if-proxies-are-clean.1655366/unread
+2025-03-13 16:21:40,921 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-check-if-proxies-are-clean.1655366/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 16:21:40,952 - INFO - Extracted thread title: How to Check if proxies are Clean
+2025-03-13 16:21:40,953 - DEBUG - Scrolling page 2 times.
+2025-03-13 16:21:40,954 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:42,747 - DEBUG - Page scrolled.
+2025-03-13 16:21:44,749 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:45,949 - DEBUG - Page scrolled.
+2025-03-13 16:21:47,951 - DEBUG - Random scrolls complete.
+2025-03-13 16:21:50,375 - DEBUG - Scrolling page 1 times.
+2025-03-13 16:21:50,376 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:51,612 - DEBUG - Page scrolled.
+2025-03-13 16:21:54,632 - DEBUG - Random scrolls complete.
+2025-03-13 16:21:54,654 - DEBUG - Found 19 like buttons.
+2025-03-13 16:21:57,656 - INFO - Attempting to like 2 posts. There are 19 available.
+2025-03-13 16:21:58,500 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:21:58,535 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:21:58,537 - DEBUG - Liked post number 1 of 2.
+2025-03-13 16:22:04,062 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:22:04,070 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:22:04,071 - DEBUG - Liked post number 2 of 2.
+2025-03-13 16:22:08,516 - INFO - Liked 2 posts successfully.
+2025-03-13 16:22:08,517 - INFO - Liked 2 posts successfully.
+2025-03-13 16:22:10,722 - DEBUG - Scrolling page 6 times.
+2025-03-13 16:22:10,723 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:12,042 - DEBUG - Page scrolled.
+2025-03-13 16:22:15,045 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:16,948 - DEBUG - Page scrolled.
+2025-03-13 16:22:19,951 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:21,255 - DEBUG - Page scrolled.
+2025-03-13 16:22:24,258 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:25,804 - DEBUG - Page scrolled.
+2025-03-13 16:22:28,807 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:30,054 - DEBUG - Page scrolled.
+2025-03-13 16:22:33,056 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:35,036 - DEBUG - Page scrolled.
+2025-03-13 16:22:38,056 - DEBUG - Random scrolls complete.
+2025-03-13 16:22:40,846 - DEBUG - Total comments in the thread: 19
+2025-03-13 16:24:47,138 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to Check if proxies are Clean.txt
+2025-03-13 16:24:50,039 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 16:24:50,072 - DEBUG - Extracted main post content: Hello,
+
+As the title says, what is the best method to check if a proxy is clean and not blacklisted etc?
+
+Thanks
+Trisum
+2025-03-13 16:24:54,627 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 16:24:54,629 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 16:24:59,189 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:24:59,201 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:24:59,240 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:24:59,287 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:24:59,297 - DEBUG - Text box scrolled into view
+2025-03-13 16:25:00,048 - DEBUG - Initializing actionchains
+2025-03-13 16:25:00,081 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6696}, size: {'height': 21, 'width': 68}
+2025-03-13 16:25:00,081 - DEBUG - Target click coordinates: (1121, 6706)
+2025-03-13 16:25:17,224 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 16:25:17,226 - DEBUG - Moving mouse to text box element.
+2025-03-13 16:25:17,227 - DEBUG - Clicking on the text box.
+2025-03-13 16:25:17,230 - DEBUG - Sending keys with content: Honestly, I just run a few searches on Google and DuckDuckGo to see what comes up – if I get hit with captchas immediately, I know it's a no-go.
+
+2025-03-13 16:25:22,591 - DEBUG - Clicking on post reply button.
+2025-03-13 16:25:24,191 - DEBUG - Performed Actionchains
+2025-03-13 16:25:24,192 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 16:25:28,196 - INFO - Comment posted successfully.
+2025-03-13 16:25:28,199 - INFO - Task Completed!!
+2025-03-13 16:25:31,718 - INFO - Navigated back to the homepage.
+2025-03-13 16:25:34,421 - INFO - Attempting to clear memory and resources.
+2025-03-13 16:25:34,458 - INFO - Garbage collection completed.
+2025-03-13 16:25:34,462 - INFO - Waiting for 120 seconds before next execution.

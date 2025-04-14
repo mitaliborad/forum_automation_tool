@@ -1,0 +1,98 @@
+2025-04-14 14:18:53,345 - INFO - Current time: 1744620533.3454015
+2025-04-14 14:18:53,347 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 14:18:53,349 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 14:18:53,351 - INFO - performing random action
+2025-04-14 14:18:53,359 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 14:18:53,361 - DEBUG - Scrolling page 3 times.
+2025-04-14 14:18:53,362 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:18:55,140 - DEBUG - Page scrolled.
+2025-04-14 14:18:57,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:18:59,096 - DEBUG - Page scrolled.
+2025-04-14 14:19:01,100 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:02,692 - DEBUG - Page scrolled.
+2025-04-14 14:19:04,694 - DEBUG - Random scrolls complete.
+2025-04-14 14:19:04,694 - DEBUG - Scrolling page 2 times.
+2025-04-14 14:19:04,695 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:06,078 - DEBUG - Page scrolled.
+2025-04-14 14:19:08,079 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:09,659 - DEBUG - Page scrolled.
+2025-04-14 14:19:11,665 - DEBUG - Random scrolls complete.
+2025-04-14 14:19:20,474 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-14 14:19:24,745 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-help-with-passing-recaptchav3.1660907/
+2025-04-14 14:19:24,747 - INFO - Profile NullBytee: Restoring window...
+2025-04-14 14:19:26,750 - INFO - performing random action
+2025-04-14 14:19:37,234 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-help-with-passing-recaptchav3.1660907/
+2025-04-14 14:19:37,237 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-help-with-passing-recaptchav3.1660907/' to visited threads file 'Thread_links.txt'.
+2025-04-14 14:19:37,331 - INFO - Extracted thread title: Need help with passing recaptchaV3
+2025-04-14 14:19:37,332 - DEBUG - Scrolling page 4 times.
+2025-04-14 14:19:37,332 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:38,985 - DEBUG - Page scrolled.
+2025-04-14 14:19:40,988 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:42,447 - DEBUG - Page scrolled.
+2025-04-14 14:19:44,450 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:45,607 - DEBUG - Page scrolled.
+2025-04-14 14:19:47,609 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:49,026 - DEBUG - Page scrolled.
+2025-04-14 14:19:51,027 - DEBUG - Random scrolls complete.
+2025-04-14 14:19:53,785 - DEBUG - Scrolling page 2 times.
+2025-04-14 14:19:53,787 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:55,410 - DEBUG - Page scrolled.
+2025-04-14 14:19:58,411 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:59,554 - DEBUG - Page scrolled.
+2025-04-14 14:20:02,556 - DEBUG - Random scrolls complete.
+2025-04-14 14:20:02,603 - DEBUG - Found 9 like buttons.
+2025-04-14 14:20:05,605 - INFO - Attempting to like 2 posts. There are 9 available.
+2025-04-14 14:20:06,421 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:20:06,455 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:20:06,457 - DEBUG - Liked post number 1 of 2.
+2025-04-14 14:20:11,538 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:20:11,544 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:20:11,545 - DEBUG - Liked post number 2 of 2.
+2025-04-14 14:20:15,881 - INFO - Liked 2 posts successfully.
+2025-04-14 14:20:15,883 - INFO - Liked 2 posts successfully.
+2025-04-14 14:20:18,450 - INFO - Profile NullBytee: Minimizing window...
+2025-04-14 14:20:18,463 - INFO - Profile NullBytee: Window minimized. Pausing for 15.18 seconds...
+2025-04-14 14:20:33,645 - INFO - Profile NullBytee: Resuming after minimize...
+2025-04-14 14:20:33,647 - INFO - performing random action
+2025-04-14 14:20:33,649 - DEBUG - Scrolling page 4 times.
+2025-04-14 14:20:33,650 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:20:34,997 - DEBUG - Page scrolled.
+2025-04-14 14:20:37,998 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:20:39,587 - DEBUG - Page scrolled.
+2025-04-14 14:20:42,589 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:20:44,020 - DEBUG - Page scrolled.
+2025-04-14 14:20:47,022 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:20:48,035 - DEBUG - Page scrolled.
+2025-04-14 14:20:51,037 - DEBUG - Random scrolls complete.
+2025-04-14 14:20:54,119 - DEBUG - Total comments in the thread: 9
+2025-04-14 14:21:45,795 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need help with passing recaptchaV3.txt
+2025-04-14 14:21:48,071 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 14:21:48,142 - DEBUG - Extracted main post content: I know it might be a stupid question. I see a thousand ways how v3 could be passed, but I have no luck with it.
+I am trying to automate it.
+Should I use Playwright or Puppeteer with stealth.
+My score is always low with any proxy I am using. I’m stuck and depressed right now.
+2025-04-14 14:21:52,091 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 14:21:52,093 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 14:21:54,630 - INFO - performing random action
+2025-04-14 14:21:54,632 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:21:54,633 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:21:54,680 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:21:54,764 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:21:54,771 - DEBUG - Text box scrolled into view
+2025-04-14 14:21:55,519 - DEBUG - Initializing actionchains
+2025-04-14 14:21:55,560 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3431}, size: {'height': 21, 'width': 68}
+2025-04-14 14:21:55,561 - DEBUG - Target click coordinates: (1265, 3441)
+2025-04-14 14:22:06,149 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 14:22:06,151 - DEBUG - Moving mouse to text box element.
+2025-04-14 14:22:06,152 - DEBUG - Clicking on the text box.
+2025-04-14 14:22:06,154 - DEBUG - Sending keys with content: Forget about the tool for a sec; are your proxies residential and rotating, or are they datacenter proxies? That's usually the first bottleneck.
+
+2025-04-14 14:22:11,989 - DEBUG - Clicking on post reply button.
+2025-04-14 14:22:23,144 - DEBUG - Performed Actionchains
+2025-04-14 14:22:23,145 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 14:22:27,147 - INFO - Comment posted successfully.
+2025-04-14 14:22:27,149 - INFO - Task Completed!!
+2025-04-14 14:22:42,774 - INFO - Navigated back to the homepage.
+2025-04-14 14:22:45,163 - INFO - Attempting to clear memory and resources.
+2025-04-14 14:22:45,221 - INFO - Garbage collection completed.
+2025-04-14 14:22:45,222 - INFO - Waiting for 2200 seconds before next execution.

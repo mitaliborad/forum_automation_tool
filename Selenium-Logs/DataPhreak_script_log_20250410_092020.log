@@ -1,0 +1,132 @@
+2025-04-10 09:20:20,080 - INFO - Current time: 1744257020.0809233
+2025-04-10 09:20:20,081 - INFO - Token expiration time: 1744267808.8557115
+2025-04-10 09:20:20,082 - INFO - Token expiration time: 1744267808.8557115
+2025-04-10 09:20:20,082 - INFO - performing random action
+2025-04-10 09:20:20,083 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 09:20:20,084 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:20:20,084 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:20,099 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF72ECE0C45+27221]
+	(No symbol) [0x00007FF72EC46F30]
+	(No symbol) [0x00007FF72EAC5ADA]
+	(No symbol) [0x00007FF72EAB599C]
+	(No symbol) [0x00007FF72EAB568A]
+	(No symbol) [0x00007FF72EAB320F]
+	(No symbol) [0x00007FF72EAB3CDF]
+	(No symbol) [0x00007FF72EABFD5E]
+	(No symbol) [0x00007FF72EAD5FE3]
+	(No symbol) [0x00007FF72EADD11A]
+	(No symbol) [0x00007FF72EAB444D]
+	(No symbol) [0x00007FF72EAD5D15]
+	(No symbol) [0x00007FF72EB703C5]
+	(No symbol) [0x00007FF72EB47A73]
+	(No symbol) [0x00007FF72EB10750]
+	(No symbol) [0x00007FF72EB11A03]
+	GetHandleVerifier [0x00007FF72F046E2D+3591229]
+	GetHandleVerifier [0x00007FF72F05E45A+3687018]
+	GetHandleVerifier [0x00007FF72F053323+3641651]
+	GetHandleVerifier [0x00007FF72EDAB6BA+857290]
+	(No symbol) [0x00007FF72EC5230F]
+	(No symbol) [0x00007FF72EC4E304]
+	(No symbol) [0x00007FF72EC4E4A6]
+	(No symbol) [0x00007FF72EC3D469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-10 09:25:21,413 - DEBUG - Page scrolled.
+2025-04-10 09:25:23,415 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:24,499 - DEBUG - Page scrolled.
+2025-04-10 09:25:26,502 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:28,110 - DEBUG - Page scrolled.
+2025-04-10 09:25:30,111 - DEBUG - Random scrolls complete.
+2025-04-10 09:25:30,114 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:25:30,115 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:32,008 - DEBUG - Page scrolled.
+2025-04-10 09:25:34,010 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:35,814 - DEBUG - Page scrolled.
+2025-04-10 09:25:37,817 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:25:38,970 - DEBUG - Page scrolled.
+2025-04-10 09:25:40,972 - DEBUG - Random scrolls complete.
+2025-04-10 09:25:56,352 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-10 09:26:00,483 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/mass-cold-emails.1697113/unread
+2025-04-10 09:26:00,484 - INFO - performing random action
+2025-04-10 09:26:12,111 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/mass-cold-emails.1697113/unread
+2025-04-10 09:26:12,115 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/mass-cold-emails.1697113/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 09:26:12,193 - INFO - Extracted thread title: Mass cold emails
+2025-04-10 09:26:12,195 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:26:12,196 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:14,081 - DEBUG - Page scrolled.
+2025-04-10 09:26:16,083 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:17,233 - DEBUG - Page scrolled.
+2025-04-10 09:26:19,235 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:20,401 - DEBUG - Page scrolled.
+2025-04-10 09:26:22,403 - DEBUG - Random scrolls complete.
+2025-04-10 09:26:24,549 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:26:24,551 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:25,896 - DEBUG - Page scrolled.
+2025-04-10 09:26:28,898 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:30,151 - DEBUG - Page scrolled.
+2025-04-10 09:26:33,152 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:35,045 - DEBUG - Page scrolled.
+2025-04-10 09:26:38,046 - DEBUG - Random scrolls complete.
+2025-04-10 09:26:38,063 - DEBUG - Found 20 like buttons.
+2025-04-10 09:26:41,065 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-10 09:26:42,030 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:26:42,040 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:26:42,041 - DEBUG - Liked post number 1 of 4.
+2025-04-10 09:26:46,892 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:26:46,899 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:26:46,900 - DEBUG - Liked post number 2 of 4.
+2025-04-10 09:26:51,914 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:26:51,933 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:26:51,935 - DEBUG - Liked post number 3 of 4.
+2025-04-10 09:26:57,023 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:26:57,035 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:26:57,036 - DEBUG - Liked post number 4 of 4.
+2025-04-10 09:27:01,308 - INFO - Liked 4 posts successfully.
+2025-04-10 09:27:01,311 - INFO - Liked 4 posts successfully.
+2025-04-10 09:27:04,216 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-10 09:27:04,220 - INFO - Profile DataPhreak: Window minimized. Pausing for 15.48 seconds...
+2025-04-10 09:27:19,707 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-10 09:27:19,710 - INFO - performing random action
+2025-04-10 09:27:19,712 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:27:19,714 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:20,942 - DEBUG - Page scrolled.
+2025-04-10 09:27:23,944 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:25,486 - DEBUG - Page scrolled.
+2025-04-10 09:27:28,488 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:30,136 - DEBUG - Page scrolled.
+2025-04-10 09:27:33,138 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:34,318 - DEBUG - Page scrolled.
+2025-04-10 09:27:37,320 - DEBUG - Random scrolls complete.
+2025-04-10 09:27:40,351 - DEBUG - Total comments in the thread: 20
+2025-04-10 09:29:57,368 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Mass cold emails.txt
+2025-04-10 09:30:00,120 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 09:30:00,165 - DEBUG - Extracted main post content: i want to send 10K cold emails in a day i have seen people here send 100K cold emails a day how should i go about it ? use gmail acc's or buy domains
+2025-04-10 09:30:05,296 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 09:30:05,299 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 09:30:07,303 - INFO - performing random action
+2025-04-10 09:30:07,304 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:30:07,305 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:30:07,316 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:30:07,356 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:30:07,362 - DEBUG - Text box scrolled into view
+2025-04-10 09:30:08,159 - DEBUG - Initializing actionchains
+2025-04-10 09:30:08,178 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7880}, size: {'height': 21, 'width': 68}
+2025-04-10 09:30:08,179 - DEBUG - Target click coordinates: (1265, 7890)
+2025-04-10 09:30:27,737 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 09:30:27,737 - DEBUG - Moving mouse to text box element.
+2025-04-10 09:30:27,739 - DEBUG - Clicking on the text box.
+2025-04-10 09:30:27,740 - DEBUG - Sending keys with content: Forget Gmail, you'll get shut down fast. Think about warming up dedicated IPs and using a reputable email service provider, or you're just wasting your time and money.
+
+2025-04-10 09:30:33,514 - DEBUG - Clicking on post reply button.
+2025-04-10 09:30:44,579 - DEBUG - Performed Actionchains
+2025-04-10 09:30:44,579 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 09:30:48,580 - INFO - Comment posted successfully.
+2025-04-10 09:30:48,581 - INFO - Task Completed!!
+2025-04-10 09:30:57,234 - INFO - Navigated back to the homepage.
+2025-04-10 09:31:00,099 - INFO - Attempting to clear memory and resources.
+2025-04-10 09:31:00,144 - INFO - Garbage collection completed.
+2025-04-10 09:31:00,145 - INFO - Waiting for 1850 seconds before next execution.

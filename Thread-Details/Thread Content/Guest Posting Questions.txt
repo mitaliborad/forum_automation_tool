@@ -1,0 +1,73 @@
+--- Main Post Title ---
+Guest Posting Questions
+
+Total comments in the thread: 3
+
+Topic User: butk2024
+Topic: I recently purchased a guest post through several sellers.
+We also checked the DR score and the quality of the backlinks that the domain has.
+What I think is important is the traffic on the guest posting website.
+For that reason, I first received a domain list from the sellers and then tried it by selecting the domain I wanted and purchasing it.
+
+
+However, I have a question here.
+
+It's been sold by BHW for a long time, and I've accessed the homepage of a seller with a lot of buyers.
+He was providing a high-quality guest posting service. Of course, he didn't provide a domain list first.
+
+There are also quite a few buyers and repurchasers, so I trusted them and bought 10 links.
+It's been a week, and I received the report.
+The domain was examined by Ahrefs.
+
+DR score is 50+, but traffic is zero.
+Can a website with zero traffic be applied to my money site with a high quality backlink?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Mehmad
+Topic: butk2024 said:
+I recently purchased a guest post through several sellers.
+We also checked the DR score and the quality of the backlinks that the domain has.
+What I think is important is the traffic on the guest posting website.
+For that reason, I first received a domain list from the sellers and then tried it by selecting the domain I wanted and purchasing it.
+
+
+However, I have a question here.
+
+It's been sold by BHW for a long time, and I've accessed the homepage of a seller with a lot of buyers.
+He was providing a high-quality guest posting service. Of course, he didn't provide a domain list first.
+
+There are also quite a few buyers and repurchasers, so I trusted them and bought 10 links.
+It's been a week, and I received the report.
+The domain was examined by Ahrefs.
+
+DR score is 50+, but traffic is zero.
+Can a website with zero traffic be applied to my money site with a high quality backlink?
+Click to expand...
+You should check if the Guest Post that links to your website is indexed or crawled by Google. If not, it will do nothing for your website. Most guest posting websites with 0 traffic do not get indexed anywhere, which is why they have 0 traffic in the first place. Thus providing no actual value.
+
+It is very straightforward. If Google does not crawl or index a page, it means it had no idea that a link to your website is present in the content. As for other tools like Ahrefs and SEMrush, they usually have their own bots and crawlers which is why they show these links as legit backlinks. But in the eyes of Google, these links does not even exists.
+
+Solution: You should try creating tier 2 backlinks for the Guest Post you purchased. And get these pages crawled and indexed.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: We Bring Rank
+Topic: The backlinks create a better authority for your website. A good Number of trusted backlinks helps to increase your SERP,
+
+But if you are looking for Better Brand visibility and exposure for your product, the Traffic-Based Guest Post links can help you. The Zero traffic Website are not helps to for your Brand visibility, But It's helps for your website some other ways.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+

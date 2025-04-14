@@ -1,0 +1,94 @@
+2025-03-13 11:59:12,591 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_115912.log
+2025-03-13 11:59:12,776 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 11:59:12,965 - INFO - Loaded 183 visited threads from Thread_links.txt
+2025-03-13 11:59:12,976 - INFO - Successfully loaded links that was already visited!
+2025-03-13 11:59:12,978 - DEBUG - Scrolling page 5 times.
+2025-03-13 11:59:12,980 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:59:14,268 - DEBUG - Page scrolled.
+2025-03-13 11:59:16,271 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:59:17,958 - DEBUG - Page scrolled.
+2025-03-13 11:59:19,966 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:59:21,053 - DEBUG - Page scrolled.
+2025-03-13 11:59:23,077 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:59:24,614 - DEBUG - Page scrolled.
+2025-03-13 11:59:26,621 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:59:28,497 - DEBUG - Page scrolled.
+2025-03-13 11:59:30,502 - DEBUG - Random scrolls complete.
+2025-03-13 11:59:30,503 - DEBUG - Scrolling page 4 times.
+2025-03-13 11:59:30,504 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:59:31,691 - DEBUG - Page scrolled.
+2025-03-13 11:59:33,699 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:59:35,485 - DEBUG - Page scrolled.
+2025-03-13 11:59:37,496 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:59:39,474 - DEBUG - Page scrolled.
+2025-03-13 11:59:41,491 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:59:43,282 - DEBUG - Page scrolled.
+2025-03-13 11:59:45,289 - DEBUG - Random scrolls complete.
+2025-03-13 11:59:49,357 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-03-13 11:59:59,639 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/im-looking-for-a-good-cloaker.1687728/unread
+2025-03-13 12:00:07,748 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/im-looking-for-a-good-cloaker.1687728/unread
+2025-03-13 12:00:07,750 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/im-looking-for-a-good-cloaker.1687728/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 12:00:07,806 - INFO - Extracted thread title: Im looking for a good cloaker
+2025-03-13 12:00:07,807 - DEBUG - Scrolling page 3 times.
+2025-03-13 12:00:07,807 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:00:09,345 - DEBUG - Page scrolled.
+2025-03-13 12:00:11,346 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:00:12,836 - DEBUG - Page scrolled.
+2025-03-13 12:00:14,842 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:00:16,247 - DEBUG - Page scrolled.
+2025-03-13 12:00:18,255 - DEBUG - Random scrolls complete.
+2025-03-13 12:00:20,282 - DEBUG - Scrolling page 2 times.
+2025-03-13 12:00:20,284 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:00:21,853 - DEBUG - Page scrolled.
+2025-03-13 12:00:24,861 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:00:26,454 - DEBUG - Page scrolled.
+2025-03-13 12:00:29,458 - DEBUG - Random scrolls complete.
+2025-03-13 12:00:29,481 - DEBUG - Found 9 like buttons.
+2025-03-13 12:00:32,487 - INFO - Attempting to like 1 posts. There are 9 available.
+2025-03-13 12:00:33,208 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 12:00:33,251 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 12:00:33,260 - DEBUG - Liked post number 1 of 1.
+2025-03-13 12:00:37,758 - INFO - Liked 1 posts successfully.
+2025-03-13 12:00:37,761 - INFO - Liked 1 posts successfully.
+2025-03-13 12:00:40,534 - DEBUG - Scrolling page 5 times.
+2025-03-13 12:00:40,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:00:42,187 - DEBUG - Page scrolled.
+2025-03-13 12:00:45,196 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:00:47,110 - DEBUG - Page scrolled.
+2025-03-13 12:00:50,119 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:00:51,765 - DEBUG - Page scrolled.
+2025-03-13 12:00:54,766 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:00:56,527 - DEBUG - Page scrolled.
+2025-03-13 12:00:59,529 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:01:01,185 - DEBUG - Page scrolled.
+2025-03-13 12:01:04,187 - DEBUG - Random scrolls complete.
+2025-03-13 12:01:06,571 - DEBUG - Total comments in the thread: 9
+2025-03-13 12:01:58,900 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Im looking for a good cloaker.txt
+2025-03-13 12:02:01,581 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 12:02:01,631 - DEBUG - Extracted main post content: Hello, im looking for a good cloacker for google ads, some recomendations?
+
+i see cloackerly but had a bad reviews....
+2025-03-13 12:02:05,488 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 12:02:05,493 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 12:02:07,858 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:02:07,859 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:02:07,893 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:02:07,958 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:02:07,968 - DEBUG - Text box scrolled into view
+2025-03-13 12:02:08,754 - DEBUG - Initializing actionchains
+2025-03-13 12:02:08,777 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3550}, size: {'height': 21, 'width': 68}
+2025-03-13 12:02:08,778 - DEBUG - Target click coordinates: (1121, 3560)
+2025-03-13 12:02:20,791 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 12:02:20,803 - DEBUG - Moving mouse to text box element.
+2025-03-13 12:02:20,804 - DEBUG - Clicking on the text box.
+2025-03-13 12:02:20,804 - DEBUG - Sending keys with content: Honestly, finding a reliable cloaker these days is tough, but have you checked out NoFraud? Heard mixed things, but might be worth a shot.
+
+2025-03-13 12:02:26,325 - DEBUG - Clicking on post reply button.
+2025-03-13 12:02:30,039 - DEBUG - Performed Actionchains
+2025-03-13 12:02:30,040 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 12:02:34,059 - INFO - Comment posted successfully.
+2025-03-13 12:02:34,061 - INFO - Task Completed!!
+2025-03-13 12:02:40,002 - INFO - Navigated back to the homepage.
+2025-03-13 12:02:42,298 - INFO - Attempting to clear memory and resources.
+2025-03-13 12:02:42,347 - INFO - Garbage collection completed.
+2025-03-13 12:02:42,348 - INFO - Waiting for 10 seconds before next execution.

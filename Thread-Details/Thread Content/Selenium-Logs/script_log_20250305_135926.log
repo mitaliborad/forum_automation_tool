@@ -1,0 +1,138 @@
+2025-03-05 13:59:26,797 - INFO - Starting new automation task. Log file created at: Selenium-Logs\script_log_20250305_135926.log
+2025-03-05 13:59:26,798 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-05 13:59:26,798 - INFO - Loaded 46 visited threads from Thread_links.txt
+2025-03-05 13:59:26,799 - INFO - Successfully loaded links that was already visited!
+2025-03-05 13:59:26,799 - DEBUG - Scrolling page 3 times.
+2025-03-05 13:59:26,800 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 13:59:28,351 - DEBUG - Page scrolled.
+2025-03-05 13:59:30,352 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 13:59:31,648 - DEBUG - Page scrolled.
+2025-03-05 13:59:33,650 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 13:59:35,487 - DEBUG - Page scrolled.
+2025-03-05 13:59:37,489 - DEBUG - Random scrolls complete.
+2025-03-05 13:59:49,333 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-03-05 13:59:53,111 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/image-to-html.1676502/unread
+2025-03-05 14:00:02,020 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/image-to-html.1676502/unread
+2025-03-05 14:00:02,023 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/image-to-html.1676502/unread' to visited threads file 'Thread_links.txt'.
+2025-03-05 14:00:02,056 - INFO - Extracted thread title: image to html
+2025-03-05 14:00:02,057 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:00:02,058 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:03,984 - DEBUG - Page scrolled.
+2025-03-05 14:00:05,988 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:07,875 - DEBUG - Page scrolled.
+2025-03-05 14:00:09,876 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:11,886 - DEBUG - Page scrolled.
+2025-03-05 14:00:13,888 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:15,556 - DEBUG - Page scrolled.
+2025-03-05 14:00:17,558 - DEBUG - Random scrolls complete.
+2025-03-05 14:00:20,305 - DEBUG - Scrolling page 1 times.
+2025-03-05 14:00:20,306 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:21,406 - DEBUG - Page scrolled.
+2025-03-05 14:00:24,407 - DEBUG - Random scrolls complete.
+2025-03-05 14:00:24,436 - DEBUG - Found 13 like buttons.
+2025-03-05 14:00:27,436 - INFO - Attempting to like 1 posts. There are 13 available.
+2025-03-05 14:00:28,197 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 14:00:28,227 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 14:00:28,228 - DEBUG - Liked post number 1 of 1.
+2025-03-05 14:00:32,508 - INFO - Liked 1 posts successfully.
+2025-03-05 14:00:32,510 - INFO - Liked 1 posts successfully.
+2025-03-05 14:00:32,512 - DEBUG - Scrolling page 5 times.
+2025-03-05 14:00:32,513 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:34,023 - DEBUG - Page scrolled.
+2025-03-05 14:00:37,024 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:39,035 - DEBUG - Page scrolled.
+2025-03-05 14:00:42,037 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:43,604 - DEBUG - Page scrolled.
+2025-03-05 14:00:46,606 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:47,842 - DEBUG - Page scrolled.
+2025-03-05 14:00:50,843 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:00:52,570 - DEBUG - Page scrolled.
+2025-03-05 14:00:55,571 - DEBUG - Random scrolls complete.
+2025-03-05 14:00:57,738 - DEBUG - Total comments in the thread: 14
+2025-03-05 14:01:30,246 - INFO - Post content extracted and saved to Thread-Details\Thread Content\image to html.txt
+2025-03-05 14:01:32,297 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-05 14:01:32,347 - DEBUG - Extracted main post content: hi
+
+how can i create an high quality html from an image cause everything I found was a total shit?
+
+thanks
+2025-03-05 14:01:36,255 - INFO - Successfully generated comments using Gemini API.
+2025-03-05 14:01:36,258 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-05 14:01:36,260 - INFO - API comment generated and saved to Thread-Details\API Comments\image to html_Oof, yeah, that sounds frustrating! Have you tried.txt
+2025-03-05 14:01:38,319 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:01:38,320 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:01:38,347 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:01:38,409 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:01:38,417 - DEBUG - Text box scrolled into view
+2025-03-05 14:01:39,227 - DEBUG - Initializing actionchains
+2025-03-05 14:01:39,263 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4605}, size: {'height': 21, 'width': 68}
+2025-03-05 14:01:39,264 - DEBUG - Target click coordinates: (1121, 4615)
+2025-03-05 14:01:39,264 - DEBUG - Moving mouse from (805, 645) to (1121, 4615).
+2025-03-05 14:01:39,264 - DEBUG - Generating Bezier path from (805, 645) to (1121, 4615) with 50 points.
+2025-03-05 14:01:39,265 - DEBUG - Control point: (836, 585)
+2025-03-05 14:01:39,265 - DEBUG - Generated Bezier path with 50 points.
+2025-03-05 14:01:39,266 - DEBUG - Moved mouse to (805, 645), delay: 0.0000
+2025-03-05 14:01:39,269 - DEBUG - Moved mouse to (806, 644), delay: 0.0018
+2025-03-05 14:01:39,273 - DEBUG - Moved mouse to (807, 646), delay: 0.0027
+2025-03-05 14:01:39,278 - DEBUG - Moved mouse to (809, 652), delay: 0.0035
+2025-03-05 14:01:39,284 - DEBUG - Moved mouse to (811, 662), delay: 0.0053
+2025-03-05 14:01:39,294 - DEBUG - Moved mouse to (813, 675), delay: 0.0081
+2025-03-05 14:01:39,303 - DEBUG - Moved mouse to (816, 691), delay: 0.0085
+2025-03-05 14:01:39,319 - DEBUG - Moved mouse to (819, 711), delay: 0.0133
+2025-03-05 14:01:39,334 - DEBUG - Moved mouse to (821, 734), delay: 0.0129
+2025-03-05 14:01:39,345 - DEBUG - Moved mouse to (824, 760), delay: 0.0093
+2025-03-05 14:01:39,365 - DEBUG - Moved mouse to (828, 790), delay: 0.0185
+2025-03-05 14:01:39,380 - DEBUG - Moved mouse to (831, 824), delay: 0.0134
+2025-03-05 14:01:39,395 - DEBUG - Moved mouse to (835, 860), delay: 0.0140
+2025-03-05 14:01:39,421 - DEBUG - Moved mouse to (839, 901), delay: 0.0243
+2025-03-05 14:01:39,445 - DEBUG - Moved mouse to (843, 944), delay: 0.0227
+2025-03-05 14:01:39,470 - DEBUG - Moved mouse to (847, 991), delay: 0.0241
+2025-03-05 14:01:39,495 - DEBUG - Moved mouse to (852, 1041), delay: 0.0223
+2025-03-05 14:01:39,525 - DEBUG - Moved mouse to (857, 1095), delay: 0.0285
+2025-03-05 14:01:39,548 - DEBUG - Moved mouse to (862, 1152), delay: 0.0213
+2025-03-05 14:01:39,574 - DEBUG - Moved mouse to (867, 1213), delay: 0.0250
+2025-03-05 14:01:39,597 - DEBUG - Moved mouse to (872, 1277), delay: 0.0204
+2025-03-05 14:01:39,632 - DEBUG - Moved mouse to (878, 1344), delay: 0.0334
+2025-03-05 14:01:39,670 - DEBUG - Moved mouse to (884, 1415), delay: 0.0364
+2025-03-05 14:01:39,692 - DEBUG - Moved mouse to (890, 1489), delay: 0.0208
+2025-03-05 14:01:39,720 - DEBUG - Moved mouse to (896, 1567), delay: 0.0270
+2025-03-05 14:01:39,758 - DEBUG - Moved mouse to (902, 1648), delay: 0.0350
+2025-03-05 14:01:39,786 - DEBUG - Moved mouse to (909, 1732), delay: 0.0257
+2025-03-05 14:01:39,814 - DEBUG - Moved mouse to (916, 1820), delay: 0.0270
+2025-03-05 14:01:39,849 - DEBUG - Moved mouse to (923, 1911), delay: 0.0334
+2025-03-05 14:01:39,883 - DEBUG - Moved mouse to (930, 2006), delay: 0.0330
+2025-03-05 14:01:39,928 - DEBUG - Moved mouse to (938, 2104), delay: 0.0433
+2025-03-05 14:01:39,958 - DEBUG - Moved mouse to (945, 2206), delay: 0.0288
+2025-03-05 14:01:39,998 - DEBUG - Moved mouse to (953, 2310), delay: 0.0387
+2025-03-05 14:01:40,038 - DEBUG - Moved mouse to (961, 2419), delay: 0.0380
+2025-03-05 14:01:40,087 - DEBUG - Moved mouse to (970, 2530), delay: 0.0472
+2025-03-05 14:01:40,135 - DEBUG - Moved mouse to (978, 2646), delay: 0.0453
+2025-03-05 14:01:40,166 - DEBUG - Moved mouse to (987, 2764), delay: 0.0289
+2025-03-05 14:01:40,219 - DEBUG - Moved mouse to (996, 2886), delay: 0.0511
+2025-03-05 14:01:40,264 - DEBUG - Moved mouse to (1005, 3011), delay: 0.0440
+2025-03-05 14:01:40,311 - DEBUG - Moved mouse to (1015, 3140), delay: 0.0449
+2025-03-05 14:01:40,345 - DEBUG - Moved mouse to (1024, 3272), delay: 0.0326
+2025-03-05 14:01:40,406 - DEBUG - Moved mouse to (1034, 3408), delay: 0.0593
+2025-03-05 14:01:40,447 - DEBUG - Moved mouse to (1044, 3547), delay: 0.0388
+2025-03-05 14:01:40,486 - DEBUG - Moved mouse to (1055, 3689), delay: 0.0367
+2025-03-05 14:01:40,529 - DEBUG - Moved mouse to (1065, 3835), delay: 0.0422
+2025-03-05 14:01:40,582 - DEBUG - Moved mouse to (1076, 3984), delay: 0.0510
+2025-03-05 14:01:40,637 - DEBUG - Moved mouse to (1087, 4136), delay: 0.0528
+2025-03-05 14:01:40,704 - DEBUG - Moved mouse to (1098, 4292), delay: 0.0660
+2025-03-05 14:01:40,762 - DEBUG - Moved mouse to (1109, 4452), delay: 0.0558
+2025-03-05 14:01:40,820 - DEBUG - Moved mouse to (1121, 4615), delay: 0.0555
+2025-03-05 14:01:40,821 - INFO - Successfully moved mouse to (1121, 4615) using Bezier curve.
+2025-03-05 14:01:40,822 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-05 14:01:40,823 - DEBUG - Moving mouse to text box element.
+2025-03-05 14:01:40,824 - DEBUG - Clicking on the text box.
+2025-03-05 14:01:40,829 - DEBUG - Sending keys with content: Oof, yeah, that sounds frustrating! Have you tried playing around with different image resolutions before converting? Sometimes that helps.
+
+2025-03-05 14:01:45,898 - DEBUG - Clicking on post reply button.
+2025-03-05 14:01:56,912 - DEBUG - Performed Actionchains
+2025-03-05 14:01:56,913 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-05 14:02:00,915 - INFO - Comment posted successfully.
+2025-03-05 14:02:00,916 - INFO - Task Completed!!
+2025-03-05 14:02:09,563 - INFO - Navigated back to the homepage.
+2025-03-05 14:02:12,355 - INFO - Attempting to clear memory and resources.
+2025-03-05 14:02:12,400 - INFO - Garbage collection completed.
+2025-03-05 14:02:12,401 - INFO - Waiting for 1240 seconds before next execution.

@@ -1,0 +1,101 @@
+2025-04-01 09:40:47,752 - INFO - Current time: 1743480647.7526298
+2025-04-01 09:40:47,753 - INFO - Token expiration time: 1743491441.3499718
+2025-04-01 09:40:47,753 - INFO - Token expiration time: 1743491441.3499718
+2025-04-01 09:40:47,754 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-01 09:41:10,040 - INFO - Profile BinaryGhost: Pausing for 42.36 seconds...
+2025-04-01 09:41:52,399 - INFO - Profile BinaryGhost: Resuming...
+2025-04-01 09:41:52,417 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-01 09:41:52,419 - INFO - performing random action
+2025-04-01 09:41:52,420 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 09:41:52,421 - DEBUG - Scrolling page 2 times.
+2025-04-01 09:41:52,422 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:41:54,393 - DEBUG - Page scrolled.
+2025-04-01 09:41:56,395 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:41:57,853 - DEBUG - Page scrolled.
+2025-04-01 09:41:59,855 - DEBUG - Random scrolls complete.
+2025-04-01 09:41:59,856 - DEBUG - Scrolling page 2 times.
+2025-04-01 09:41:59,857 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:42:01,687 - DEBUG - Page scrolled.
+2025-04-01 09:42:03,692 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:42:04,747 - DEBUG - Page scrolled.
+2025-04-01 09:42:06,749 - DEBUG - Random scrolls complete.
+2025-04-01 09:42:28,488 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-04-01 09:42:32,764 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/whats-the-best-way-to-buy-premium-domains.1700291/unread
+2025-04-01 09:42:32,765 - INFO - Profile BinaryGhost: Opening random website: https://www.canva.com/en_in/
+2025-04-01 09:43:26,223 - INFO - Profile BinaryGhost: Pausing for 46.55 seconds...
+2025-04-01 09:44:12,775 - INFO - Profile BinaryGhost: Resuming...
+2025-04-01 09:44:12,836 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-01 09:44:12,838 - INFO - performing random action
+2025-04-01 09:44:40,032 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/whats-the-best-way-to-buy-premium-domains.1700291/unread
+2025-04-01 09:44:40,047 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/whats-the-best-way-to-buy-premium-domains.1700291/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 09:44:40,178 - INFO - Extracted thread title: Whats the best way to buy premium domains
+2025-04-01 09:44:40,179 - DEBUG - Scrolling page 2 times.
+2025-04-01 09:44:40,179 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:44:41,299 - DEBUG - Page scrolled.
+2025-04-01 09:44:43,301 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:44:45,143 - DEBUG - Page scrolled.
+2025-04-01 09:44:47,145 - DEBUG - Random scrolls complete.
+2025-04-01 09:44:49,530 - DEBUG - Scrolling page 3 times.
+2025-04-01 09:44:49,531 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:44:50,703 - DEBUG - Page scrolled.
+2025-04-01 09:44:53,705 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:44:55,056 - DEBUG - Page scrolled.
+2025-04-01 09:44:58,059 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:44:59,980 - DEBUG - Page scrolled.
+2025-04-01 09:45:02,982 - DEBUG - Random scrolls complete.
+2025-04-01 09:45:03,009 - DEBUG - Found 3 like buttons.
+2025-04-01 09:45:06,011 - INFO - Attempting to like 1 posts. There are 3 available.
+2025-04-01 09:45:06,973 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 09:45:07,006 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 09:45:07,007 - DEBUG - Liked post number 1 of 1.
+2025-04-01 09:45:11,620 - INFO - Liked 1 posts successfully.
+2025-04-01 09:45:11,626 - INFO - Liked 1 posts successfully.
+2025-04-01 09:45:14,649 - INFO - performing random action
+2025-04-01 09:45:14,719 - DEBUG - Scrolling page 7 times.
+2025-04-01 09:45:14,721 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:45:16,242 - DEBUG - Page scrolled.
+2025-04-01 09:45:19,244 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:45:20,414 - DEBUG - Page scrolled.
+2025-04-01 09:45:23,415 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:45:24,897 - DEBUG - Page scrolled.
+2025-04-01 09:45:27,899 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:45:29,658 - DEBUG - Page scrolled.
+2025-04-01 09:45:32,660 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:45:33,685 - DEBUG - Page scrolled.
+2025-04-01 09:45:36,686 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:45:37,936 - DEBUG - Page scrolled.
+2025-04-01 09:45:40,937 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:45:42,687 - DEBUG - Page scrolled.
+2025-04-01 09:45:45,832 - DEBUG - Random scrolls complete.
+2025-04-01 09:45:48,133 - DEBUG - Total comments in the thread: 3
+2025-04-01 09:46:09,160 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Whats the best way to buy premium domains.txt
+2025-04-01 09:46:11,323 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 09:46:11,352 - DEBUG - Extracted main post content: Can someone suggest less popular site to buy premium domains. Has anyone contacted domain owner directly (via any method) . Its hard to get owners details online
+2025-04-01 09:46:15,463 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 09:46:15,464 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 09:46:18,249 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-01 09:46:18,254 - INFO - Profile BinaryGhost: Window minimized. Pausing for 21.54 seconds...
+2025-04-01 09:46:39,797 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-01 09:46:39,799 - INFO - performing random action
+2025-04-01 09:46:39,802 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:46:39,804 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:46:39,834 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:46:39,880 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:46:39,889 - DEBUG - Text box scrolled into view
+2025-04-01 09:46:40,730 - DEBUG - Initializing actionchains
+2025-04-01 09:46:40,779 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1868}, size: {'height': 21, 'width': 68}
+2025-04-01 09:46:40,780 - DEBUG - Target click coordinates: (1121, 1878)
+2025-04-01 09:46:48,058 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 09:46:48,061 - DEBUG - Moving mouse to text box element.
+2025-04-01 09:46:48,063 - DEBUG - Clicking on the text box.
+2025-04-01 09:46:48,067 - DEBUG - Sending keys with content: Have you tried looking up the domain's WHOIS information to find the owner's contact details? It's a bit of a rabbit hole, but sometimes you strike gold.
+
+2025-04-01 09:46:53,552 - DEBUG - Clicking on post reply button.
+2025-04-01 09:46:54,985 - DEBUG - Performed Actionchains
+2025-04-01 09:46:54,986 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 09:46:58,987 - INFO - Comment posted successfully.
+2025-04-01 09:46:58,988 - INFO - Task Completed!!
+2025-04-01 09:47:11,115 - INFO - Navigated back to the homepage.
+2025-04-01 09:47:13,571 - INFO - Attempting to clear memory and resources.
+2025-04-01 09:47:13,605 - INFO - Garbage collection completed.
+2025-04-01 09:47:13,606 - INFO - Waiting for 2000 seconds before next execution.

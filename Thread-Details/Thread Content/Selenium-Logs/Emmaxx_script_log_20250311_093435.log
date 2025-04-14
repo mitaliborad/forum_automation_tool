@@ -1,0 +1,98 @@
+2025-03-11 09:34:35,843 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_093435.log
+2025-03-11 09:34:35,846 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 09:34:35,849 - INFO - Loaded 119 visited threads from Thread_links.txt
+2025-03-11 09:34:35,852 - INFO - Successfully loaded links that was already visited!
+2025-03-11 09:34:35,855 - DEBUG - Scrolling page 3 times.
+2025-03-11 09:34:35,856 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:36,998 - DEBUG - Page scrolled.
+2025-03-11 09:34:38,999 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:40,207 - DEBUG - Page scrolled.
+2025-03-11 09:34:42,212 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:44,126 - DEBUG - Page scrolled.
+2025-03-11 09:34:46,128 - DEBUG - Random scrolls complete.
+2025-03-11 09:34:46,130 - DEBUG - Scrolling page 6 times.
+2025-03-11 09:34:46,131 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:47,371 - DEBUG - Page scrolled.
+2025-03-11 09:34:49,374 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:51,320 - DEBUG - Page scrolled.
+2025-03-11 09:34:53,322 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:54,863 - DEBUG - Page scrolled.
+2025-03-11 09:34:56,865 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:58,357 - DEBUG - Page scrolled.
+2025-03-11 09:35:00,360 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:01,438 - DEBUG - Page scrolled.
+2025-03-11 09:35:03,441 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:05,236 - DEBUG - Page scrolled.
+2025-03-11 09:35:07,238 - DEBUG - Random scrolls complete.
+2025-03-11 09:35:11,072 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-03-11 09:35:15,498 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/why-my-accounts-are-banned.1546294/
+2025-03-11 09:35:22,992 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/why-my-accounts-are-banned.1546294/
+2025-03-11 09:35:22,995 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/why-my-accounts-are-banned.1546294/' to visited threads file 'Thread_links.txt'.
+2025-03-11 09:35:23,047 - INFO - Extracted thread title: Why my accounts are banned
+2025-03-11 09:35:23,048 - DEBUG - Scrolling page 4 times.
+2025-03-11 09:35:23,049 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:24,975 - DEBUG - Page scrolled.
+2025-03-11 09:35:26,977 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:28,695 - DEBUG - Page scrolled.
+2025-03-11 09:35:30,698 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:31,818 - DEBUG - Page scrolled.
+2025-03-11 09:35:33,820 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:35,721 - DEBUG - Page scrolled.
+2025-03-11 09:35:37,722 - DEBUG - Random scrolls complete.
+2025-03-11 09:35:39,915 - DEBUG - Scrolling page 1 times.
+2025-03-11 09:35:39,917 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:41,218 - DEBUG - Page scrolled.
+2025-03-11 09:35:44,220 - DEBUG - Random scrolls complete.
+2025-03-11 09:35:44,236 - DEBUG - Found 16 like buttons.
+2025-03-11 09:35:47,238 - INFO - Attempting to like 1 posts. There are 16 available.
+2025-03-11 09:35:47,800 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:35:47,828 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:35:47,831 - DEBUG - Liked post number 1 of 1.
+2025-03-11 09:35:52,215 - INFO - Liked 1 posts successfully.
+2025-03-11 09:35:52,216 - INFO - Liked 1 posts successfully.
+2025-03-11 09:35:54,307 - DEBUG - Scrolling page 7 times.
+2025-03-11 09:35:54,308 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:55,378 - DEBUG - Page scrolled.
+2025-03-11 09:35:58,380 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:59,822 - DEBUG - Page scrolled.
+2025-03-11 09:36:02,824 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:36:03,964 - DEBUG - Page scrolled.
+2025-03-11 09:36:06,965 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:36:08,192 - DEBUG - Page scrolled.
+2025-03-11 09:36:11,194 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:36:13,155 - DEBUG - Page scrolled.
+2025-03-11 09:36:16,157 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:36:17,786 - DEBUG - Page scrolled.
+2025-03-11 09:36:20,791 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:36:21,980 - DEBUG - Page scrolled.
+2025-03-11 09:36:24,983 - DEBUG - Random scrolls complete.
+2025-03-11 09:36:27,686 - DEBUG - Total comments in the thread: 16
+2025-03-11 09:37:18,917 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Why my accounts are banned.txt
+2025-03-11 09:37:21,334 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 09:37:21,410 - DEBUG - Extracted main post content: Hello. I've used tumblr in the past when adult was allowed to generate lot of traffic and $ (heh golden ages)
+Now im testing it agan. Im creating blogs with good proxies, fingerprints etc. Uploading sexy spinned tik tok videos without adult tags and without any links. The blogs start to gain likes and followers then after 3 4 days are banned....
+Deos anyone know what can be the problem.?
+2025-03-11 09:37:26,182 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 09:37:26,185 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 09:37:29,197 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:37:29,198 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:37:29,211 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:37:29,257 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:37:29,265 - DEBUG - Text box scrolled into view
+2025-03-11 09:37:30,127 - DEBUG - Initializing actionchains
+2025-03-11 09:37:30,174 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5006}, size: {'height': 21, 'width': 68}
+2025-03-11 09:37:30,175 - DEBUG - Target click coordinates: (1121, 5016)
+2025-03-11 09:37:44,596 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 09:37:44,598 - DEBUG - Moving mouse to text box element.
+2025-03-11 09:37:44,599 - DEBUG - Clicking on the text box.
+2025-03-11 09:37:44,601 - DEBUG - Sending keys with content: Hmm, maybe Tumblr's getting better at spotting bot activity even without the obvious stuff? Have you tried varying the posting schedule to look less automated?
+
+2025-03-11 09:37:50,064 - DEBUG - Clicking on post reply button.
+2025-03-11 09:38:01,309 - DEBUG - Performed Actionchains
+2025-03-11 09:38:01,310 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 09:38:05,311 - INFO - Comment posted successfully.
+2025-03-11 09:38:05,314 - INFO - Task Completed!!
+2025-03-11 09:38:10,306 - INFO - Navigated back to the homepage.
+2025-03-11 09:38:12,360 - INFO - Attempting to clear memory and resources.
+2025-03-11 09:38:12,389 - INFO - Garbage collection completed.
+2025-03-11 09:38:12,390 - INFO - Waiting for 10 seconds before next execution.

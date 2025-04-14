@@ -1,0 +1,96 @@
+2025-03-13 15:37:11,064 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emaxx_script_log_20250313_153711.log
+2025-03-13 15:37:11,070 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:37:11,086 - INFO - Loaded 197 visited threads from Thread_links.txt
+2025-03-13 15:37:11,095 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:37:11,102 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:37:11,102 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:12,925 - DEBUG - Page scrolled.
+2025-03-13 15:37:14,927 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:16,364 - DEBUG - Page scrolled.
+2025-03-13 15:37:18,366 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:19,923 - DEBUG - Page scrolled.
+2025-03-13 15:37:21,932 - DEBUG - Random scrolls complete.
+2025-03-13 15:37:21,934 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:37:21,935 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:23,604 - DEBUG - Page scrolled.
+2025-03-13 15:37:25,608 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:26,818 - DEBUG - Page scrolled.
+2025-03-13 15:37:28,820 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:29,906 - DEBUG - Page scrolled.
+2025-03-13 15:37:31,908 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:33,495 - DEBUG - Page scrolled.
+2025-03-13 15:37:35,498 - DEBUG - Random scrolls complete.
+2025-03-13 15:37:42,237 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-13 15:37:48,145 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/looking-for-data-studies-that-show-a-brands-yt-channel-complementing-seo-strategies.1695218/unread
+2025-03-13 15:37:56,599 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/looking-for-data-studies-that-show-a-brands-yt-channel-complementing-seo-strategies.1695218/unread
+2025-03-13 15:37:56,612 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/looking-for-data-studies-that-show-a-brands-yt-channel-complementing-seo-strategies.1695218/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:37:56,648 - INFO - Extracted thread title: Looking for DataStudies that show a brand's YT channel complementing SEO strategies
+2025-03-13 15:37:56,651 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:37:56,652 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:58,358 - DEBUG - Page scrolled.
+2025-03-13 15:38:00,359 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:02,079 - DEBUG - Page scrolled.
+2025-03-13 15:38:04,080 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:05,561 - DEBUG - Page scrolled.
+2025-03-13 15:38:07,562 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:09,540 - DEBUG - Page scrolled.
+2025-03-13 15:38:11,542 - DEBUG - Random scrolls complete.
+2025-03-13 15:38:14,071 - DEBUG - Scrolling page 1 times.
+2025-03-13 15:38:14,072 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:15,876 - DEBUG - Page scrolled.
+2025-03-13 15:38:18,878 - DEBUG - Random scrolls complete.
+2025-03-13 15:38:18,893 - DEBUG - Found 1 like buttons.
+2025-03-13 15:38:21,895 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-03-13 15:38:22,761 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:38:22,774 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:38:22,776 - DEBUG - Liked post number 1 of 1.
+2025-03-13 15:38:27,348 - INFO - Liked 1 posts successfully.
+2025-03-13 15:38:27,350 - INFO - Liked 1 posts successfully.
+2025-03-13 15:38:29,706 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:38:29,709 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:31,284 - DEBUG - Page scrolled.
+2025-03-13 15:38:34,286 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:36,029 - DEBUG - Page scrolled.
+2025-03-13 15:38:39,033 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:40,665 - DEBUG - Page scrolled.
+2025-03-13 15:38:43,666 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:44,737 - DEBUG - Page scrolled.
+2025-03-13 15:38:47,740 - DEBUG - Random scrolls complete.
+2025-03-13 15:38:50,611 - DEBUG - Total comments in the thread: 1
+2025-03-13 15:38:50,694 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Looking for DataStudies that show a brand's YT channel complementing SEO strategies.txt
+2025-03-13 15:38:55,075 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:38:55,128 - DEBUG - Extracted main post content: What I'm NOT looking for is anything on YouTube SEO.
+
+Long story short, one of my clients is thinking of getting rid of their YT channel as it's too costly to maintain in its current form (with a dedicated presenter & in-house editing team)
+
+I'm trying to convince their CMO that we, the SEO team, could make use of the editing team to create more content and help our SEO strategies.
+
+Every bone in my body says that a good YT channel is fantastic for branding (which is good for SEO) and that videos embedded in my SEO content are going to help the organic performance of said content, but I can't find any studies, data or examples to back it up.
+
+I'd also appreciate any examples of brands that are using traditional organic Google search and YouTube side by side to help build a brand.
+
+Thanks in advance.
+2025-03-13 15:38:58,518 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:38:58,564 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:39:18,624 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:39:18,628 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:39:18,675 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:39:18,736 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:39:18,744 - DEBUG - Text box scrolled into view
+2025-03-13 15:39:19,399 - DEBUG - Initializing actionchains
+2025-03-13 15:39:19,463 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1331}, size: {'height': 21, 'width': 68}
+2025-03-13 15:39:19,464 - DEBUG - Target click coordinates: (1121, 1341)
+2025-03-13 15:39:25,699 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:39:25,702 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:39:25,705 - DEBUG - Clicking on the text box.
+2025-03-13 15:39:25,709 - DEBUG - Sending keys with content: Instead of scrapping it, could you repurpose snippets from old videos for social media? Might be a cheaper way to keep the brand visible and help with off-page SEO.
+
+2025-03-13 15:39:30,751 - DEBUG - Clicking on post reply button.
+2025-03-13 15:39:42,094 - DEBUG - Performed Actionchains
+2025-03-13 15:39:42,095 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:39:46,096 - INFO - Comment posted successfully.
+2025-03-13 15:39:46,098 - INFO - Task Completed!!
+2025-03-13 15:39:57,325 - INFO - Navigated back to the homepage.
+2025-03-13 15:39:59,948 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:39:59,987 - INFO - Garbage collection completed.
+2025-03-13 15:39:59,988 - INFO - Waiting for 10 seconds before next execution.

@@ -1,0 +1,102 @@
+2025-04-14 11:30:43,946 - INFO - Current time: 1744610443.9457853
+2025-04-14 11:30:43,952 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 11:30:43,966 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 11:30:43,979 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-14 11:30:56,160 - INFO - Profile NullBytee: Pausing for 38.05 seconds...
+2025-04-14 11:31:34,207 - INFO - Profile NullBytee: Resuming...
+2025-04-14 11:31:34,266 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-14 11:31:34,291 - INFO - performing random action
+2025-04-14 11:31:34,292 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 11:31:34,293 - DEBUG - Scrolling page 2 times.
+2025-04-14 11:31:34,294 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:31:35,448 - DEBUG - Page scrolled.
+2025-04-14 11:31:37,451 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:31:38,966 - DEBUG - Page scrolled.
+2025-04-14 11:31:40,972 - DEBUG - Random scrolls complete.
+2025-04-14 11:31:40,977 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:31:40,978 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:31:42,286 - DEBUG - Page scrolled.
+2025-04-14 11:31:44,288 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:31:46,230 - DEBUG - Page scrolled.
+2025-04-14 11:31:48,231 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:31:50,077 - DEBUG - Page scrolled.
+2025-04-14 11:31:52,078 - DEBUG - Random scrolls complete.
+2025-04-14 11:32:00,321 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-04-14 11:32:04,228 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-tumblr-really-dead.1645984/
+2025-04-14 11:32:04,228 - INFO - performing random action
+2025-04-14 11:32:15,076 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-tumblr-really-dead.1645984/
+2025-04-14 11:32:15,082 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-tumblr-really-dead.1645984/' to visited threads file 'Thread_links.txt'.
+2025-04-14 11:32:15,144 - INFO - Extracted thread title: is Tumblr really dead
+2025-04-14 11:32:15,146 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:32:15,146 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:32:16,993 - DEBUG - Page scrolled.
+2025-04-14 11:32:18,994 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:32:20,363 - DEBUG - Page scrolled.
+2025-04-14 11:32:22,369 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:32:23,549 - DEBUG - Page scrolled.
+2025-04-14 11:32:25,551 - DEBUG - Random scrolls complete.
+2025-04-14 11:32:28,366 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:32:28,367 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:32:29,390 - DEBUG - Page scrolled.
+2025-04-14 11:32:32,392 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:32:33,481 - DEBUG - Page scrolled.
+2025-04-14 11:32:36,482 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:32:38,487 - DEBUG - Page scrolled.
+2025-04-14 11:32:41,488 - DEBUG - Random scrolls complete.
+2025-04-14 11:32:41,547 - DEBUG - Found 20 like buttons.
+2025-04-14 11:32:44,550 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-14 11:32:45,096 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:32:45,142 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:32:45,144 - DEBUG - Liked post number 1 of 1.
+2025-04-14 11:32:49,543 - INFO - Liked 1 posts successfully.
+2025-04-14 11:32:49,545 - INFO - Liked 1 posts successfully.
+2025-04-14 11:32:51,609 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-14 11:32:58,134 - INFO - Profile NullBytee: Pausing for 44.83 seconds...
+2025-04-14 11:33:42,964 - INFO - Profile NullBytee: Resuming...
+2025-04-14 11:33:42,977 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-14 11:33:42,979 - INFO - performing random action
+2025-04-14 11:33:42,980 - DEBUG - Scrolling page 7 times.
+2025-04-14 11:33:42,982 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:33:44,879 - DEBUG - Page scrolled.
+2025-04-14 11:33:47,880 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:33:49,217 - DEBUG - Page scrolled.
+2025-04-14 11:33:52,220 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:33:53,861 - DEBUG - Page scrolled.
+2025-04-14 11:33:56,863 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:33:58,298 - DEBUG - Page scrolled.
+2025-04-14 11:34:01,300 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:34:02,569 - DEBUG - Page scrolled.
+2025-04-14 11:34:05,571 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:34:06,657 - DEBUG - Page scrolled.
+2025-04-14 11:34:09,659 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:34:11,358 - DEBUG - Page scrolled.
+2025-04-14 11:34:14,360 - DEBUG - Random scrolls complete.
+2025-04-14 11:34:17,147 - DEBUG - Total comments in the thread: 20
+2025-04-14 11:36:21,449 - INFO - Post content extracted and saved to Thread-Details/Thread Content\is Tumblr really dead.txt
+2025-04-14 11:36:24,315 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 11:36:24,398 - DEBUG - Extracted main post content: i'm assuming it's not since this topic still exists here. do you think posting NSFW contents still good there?
+2025-04-14 11:36:28,001 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 11:36:28,005 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 11:36:30,887 - INFO - performing random action
+2025-04-14 11:36:30,889 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:36:30,890 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:36:30,941 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:36:31,059 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:36:31,081 - DEBUG - Text box scrolled into view
+2025-04-14 11:36:31,756 - DEBUG - Initializing actionchains
+2025-04-14 11:36:31,843 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6415}, size: {'height': 21, 'width': 68}
+2025-04-14 11:36:31,845 - DEBUG - Target click coordinates: (1265, 6425)
+2025-04-14 11:36:49,077 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 11:36:49,079 - DEBUG - Moving mouse to text box element.
+2025-04-14 11:36:49,080 - DEBUG - Clicking on the text box.
+2025-04-14 11:36:49,082 - DEBUG - Sending keys with content: Honestly, it feels like a race to the bottom. What's the goal?
+
+2025-04-14 11:36:54,268 - DEBUG - Clicking on post reply button.
+2025-04-14 11:37:05,129 - DEBUG - Performed Actionchains
+2025-04-14 11:37:05,133 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 11:37:09,135 - INFO - Comment posted successfully.
+2025-04-14 11:37:09,137 - INFO - Task Completed!!
+2025-04-14 11:37:26,074 - INFO - Navigated back to the homepage.
+2025-04-14 11:37:28,724 - INFO - Attempting to clear memory and resources.
+2025-04-14 11:37:28,799 - INFO - Garbage collection completed.
+2025-04-14 11:37:28,800 - INFO - Waiting for 2200 seconds before next execution.

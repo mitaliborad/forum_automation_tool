@@ -1,0 +1,16 @@
+--- Main Post Title ---
+Encryption in WordPress Plugin Source Code
+
+Total comments in the thread: 1
+
+Topic User: Xizovrenia
+Topic: Hey guys, I'm currently learning how to create a WordPress plugin. Is there an effective method to encrypt or at least obfuscate the plugin's source code so that users can't easily peek into it? I've tried a few methods (including this one https://github(dot)com/pH-7/Obfuscator-Class) but I keep running into errors.
+
+If anyone knows a good solution, please share it in the comments. Thanks!
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+

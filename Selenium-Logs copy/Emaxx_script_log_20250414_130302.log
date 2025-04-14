@@ -1,0 +1,96 @@
+2025-04-14 13:03:02,549 - INFO - Current time: 1744615982.549571
+2025-04-14 13:03:02,554 - INFO - Token expiration time: 1744621329.3814306
+2025-04-14 13:03:02,556 - INFO - Token expiration time: 1744621329.3814306
+2025-04-14 13:03:02,558 - INFO - Profile Emaxx: Minimizing window...
+2025-04-14 13:03:02,566 - INFO - Profile Emaxx: Window minimized. Pausing for 27.97 seconds...
+2025-04-14 13:03:30,539 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-14 13:03:30,541 - INFO - performing random action
+2025-04-14 13:03:30,544 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:03:30,546 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:03:30,547 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:03:31,788 - DEBUG - Page scrolled.
+2025-04-14 13:03:33,792 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:03:35,750 - DEBUG - Page scrolled.
+2025-04-14 13:03:37,752 - DEBUG - Random scrolls complete.
+2025-04-14 13:03:37,754 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:03:37,755 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:03:38,909 - DEBUG - Page scrolled.
+2025-04-14 13:03:40,911 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:03:42,520 - DEBUG - Page scrolled.
+2025-04-14 13:03:44,522 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:03:46,441 - DEBUG - Page scrolled.
+2025-04-14 13:03:48,442 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:03:49,798 - DEBUG - Page scrolled.
+2025-04-14 13:03:51,799 - DEBUG - Random scrolls complete.
+2025-04-14 13:04:00,482 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-14 13:04:05,237 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/passive-income-ui-ux.1497032/unread
+2025-04-14 13:04:05,237 - INFO - performing random action
+2025-04-14 13:04:14,588 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/passive-income-ui-ux.1497032/unread
+2025-04-14 13:04:14,593 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/passive-income-ui-ux.1497032/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 13:04:14,636 - INFO - Extracted thread title: Passive Income UIUX
+2025-04-14 13:04:14,637 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:04:14,638 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:04:16,108 - DEBUG - Page scrolled.
+2025-04-14 13:04:18,110 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:04:19,246 - DEBUG - Page scrolled.
+2025-04-14 13:04:21,249 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:04:22,478 - DEBUG - Page scrolled.
+2025-04-14 13:04:24,487 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:04:25,795 - DEBUG - Page scrolled.
+2025-04-14 13:04:27,800 - DEBUG - Random scrolls complete.
+2025-04-14 13:04:30,516 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:04:30,517 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:04:32,340 - DEBUG - Page scrolled.
+2025-04-14 13:04:35,341 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:04:37,209 - DEBUG - Page scrolled.
+2025-04-14 13:04:40,211 - DEBUG - Random scrolls complete.
+2025-04-14 13:04:40,261 - DEBUG - Found 6 like buttons.
+2025-04-14 13:04:43,264 - INFO - Attempting to like 1 posts. There are 6 available.
+2025-04-14 13:04:44,147 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:04:44,186 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:04:44,187 - DEBUG - Liked post number 1 of 1.
+2025-04-14 13:04:48,226 - INFO - Liked 1 posts successfully.
+2025-04-14 13:04:48,228 - INFO - Liked 1 posts successfully.
+2025-04-14 13:04:50,806 - INFO - performing random action
+2025-04-14 13:04:50,808 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:04:50,809 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:04:52,639 - DEBUG - Page scrolled.
+2025-04-14 13:04:55,645 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:04:57,284 - DEBUG - Page scrolled.
+2025-04-14 13:05:00,287 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:05:01,361 - DEBUG - Page scrolled.
+2025-04-14 13:05:04,363 - DEBUG - Random scrolls complete.
+2025-04-14 13:05:07,299 - DEBUG - Total comments in the thread: 6
+2025-04-14 13:05:58,474 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Passive Income UIUX.txt
+2025-04-14 13:06:01,225 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:06:01,304 - DEBUG - Extracted main post content: Hello everyone! I've been taking part in contests on the 99designs platform, and while I do win some, I mostly end up losing due to the high number of designers involved in each contest. It often feels like a waste of time. Although I can't deny that this platform has helped me become a stronger competitor, I believe there must be better ways to utilize my time.
+
+I've been considering the concept of passive income as an alternative investment of my time. I have a knack for creating Ui/Ux designs for web and apps. Do you have any advice on how to get started with passive income? Additionally, I'm curious about the effectiveness of using Ui kits for generating sales. Any insights or recommendations on this matter would be greatly appreciated.
+2025-04-14 13:06:06,404 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:06:06,406 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:06:09,212 - INFO - Profile Emaxx: Minimizing window...
+2025-04-14 13:06:09,220 - INFO - Profile Emaxx: Window minimized. Pausing for 19.26 seconds...
+2025-04-14 13:06:28,481 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-14 13:06:28,482 - INFO - performing random action
+2025-04-14 13:06:28,482 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:06:28,483 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:06:28,501 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:06:28,548 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:06:28,554 - DEBUG - Text box scrolled into view
+2025-04-14 13:06:29,541 - DEBUG - Initializing actionchains
+2025-04-14 13:06:29,560 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2661}, size: {'height': 21, 'width': 68}
+2025-04-14 13:06:29,561 - DEBUG - Target click coordinates: (1265, 2671)
+2025-04-14 13:06:38,686 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:06:38,687 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:06:38,688 - DEBUG - Clicking on the text box.
+2025-04-14 13:06:38,692 - DEBUG - Sending keys with content: UI kits can be a good start, but honestly, building a unique niche product (like a specific plugin or icon set) might get you more traction and build your brand better in the long run. What problems do *you* see other designers constantly struggling with?
+
+2025-04-14 13:06:44,687 - DEBUG - Clicking on post reply button.
+2025-04-14 13:06:55,970 - DEBUG - Performed Actionchains
+2025-04-14 13:06:55,970 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 13:06:59,972 - INFO - Comment posted successfully.
+2025-04-14 13:06:59,974 - INFO - Task Completed!!
+2025-04-14 13:07:09,589 - INFO - Navigated back to the homepage.
+2025-04-14 13:07:12,590 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:07:12,658 - INFO - Garbage collection completed.
+2025-04-14 13:07:12,660 - INFO - Waiting for 2200 seconds before next execution.

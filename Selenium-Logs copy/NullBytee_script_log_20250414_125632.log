@@ -1,0 +1,93 @@
+2025-04-14 12:56:32,935 - INFO - Current time: 1744615592.9356394
+2025-04-14 12:56:32,938 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 12:56:32,940 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 12:56:32,947 - INFO - performing random action
+2025-04-14 12:56:32,950 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:56:32,952 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:56:32,954 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:56:34,592 - DEBUG - Page scrolled.
+2025-04-14 12:56:36,594 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:56:38,424 - DEBUG - Page scrolled.
+2025-04-14 12:56:40,427 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:56:41,631 - DEBUG - Page scrolled.
+2025-04-14 12:56:43,633 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:56:45,515 - DEBUG - Page scrolled.
+2025-04-14 12:56:47,517 - DEBUG - Random scrolls complete.
+2025-04-14 12:56:47,519 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:56:47,520 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:56:48,717 - DEBUG - Page scrolled.
+2025-04-14 12:56:50,719 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:56:52,326 - DEBUG - Page scrolled.
+2025-04-14 12:56:54,328 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:56:56,268 - DEBUG - Page scrolled.
+2025-04-14 12:56:58,270 - DEBUG - Random scrolls complete.
+2025-04-14 12:57:09,414 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-14 12:57:13,769 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/my-space-benefit.1513444/unread
+2025-04-14 12:57:13,770 - INFO - performing random action
+2025-04-14 12:57:25,149 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/my-space-benefit.1513444/unread
+2025-04-14 12:57:25,173 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/my-space-benefit.1513444/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:57:25,292 - INFO - Extracted thread title: My Space Benefit !!
+2025-04-14 12:57:25,294 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:57:25,294 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:57:27,218 - DEBUG - Page scrolled.
+2025-04-14 12:57:29,221 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:57:31,044 - DEBUG - Page scrolled.
+2025-04-14 12:57:33,051 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:57:34,611 - DEBUG - Page scrolled.
+2025-04-14 12:57:36,613 - DEBUG - Random scrolls complete.
+2025-04-14 12:57:39,604 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:57:39,605 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:57:40,904 - DEBUG - Page scrolled.
+2025-04-14 12:57:43,906 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:57:45,899 - DEBUG - Page scrolled.
+2025-04-14 12:57:48,902 - DEBUG - Random scrolls complete.
+2025-04-14 12:57:48,962 - DEBUG - Found 12 like buttons.
+2025-04-14 12:57:51,964 - INFO - Attempting to like 2 posts. There are 12 available.
+2025-04-14 12:57:52,628 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:57:52,641 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:57:52,642 - DEBUG - Liked post number 1 of 2.
+2025-04-14 12:57:57,989 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:57:58,001 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:57:58,002 - DEBUG - Liked post number 2 of 2.
+2025-04-14 12:58:02,986 - INFO - Liked 2 posts successfully.
+2025-04-14 12:58:02,988 - INFO - Liked 2 posts successfully.
+2025-04-14 12:58:05,970 - INFO - performing random action
+2025-04-14 12:58:05,975 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:58:05,976 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:07,917 - DEBUG - Page scrolled.
+2025-04-14 12:58:10,919 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:12,721 - DEBUG - Page scrolled.
+2025-04-14 12:58:15,724 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:16,757 - DEBUG - Page scrolled.
+2025-04-14 12:58:19,759 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:21,193 - DEBUG - Page scrolled.
+2025-04-14 12:58:24,194 - DEBUG - Random scrolls complete.
+2025-04-14 12:58:26,760 - DEBUG - Total comments in the thread: 12
+2025-04-14 12:59:50,626 - INFO - Post content extracted and saved to Thread-Details/Thread Content\My Space Benefit !!.txt
+2025-04-14 12:59:53,331 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:59:53,381 - DEBUG - Extracted main post content: How can I benefit from Myspace?
+2025-04-14 12:59:56,916 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:59:56,920 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:59:59,552 - INFO - performing random action
+2025-04-14 12:59:59,554 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:59:59,555 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:59:59,591 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:59:59,633 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:59:59,639 - DEBUG - Text box scrolled into view
+2025-04-14 13:00:00,371 - DEBUG - Initializing actionchains
+2025-04-14 13:00:00,423 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4215}, size: {'height': 21, 'width': 68}
+2025-04-14 13:00:00,424 - DEBUG - Target click coordinates: (1265, 4225)
+2025-04-14 13:00:13,491 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:00:13,492 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:00:13,492 - DEBUG - Clicking on the text box.
+2025-04-14 13:00:13,493 - DEBUG - Sending keys with content: Honestly, I thought Myspace died years ago. Is this a serious question, or are we throwing it back to 2005?
+
+2025-04-14 13:00:19,154 - DEBUG - Clicking on post reply button.
+2025-04-14 13:00:30,036 - DEBUG - Performed Actionchains
+2025-04-14 13:00:30,036 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 13:00:34,037 - INFO - Comment posted successfully.
+2025-04-14 13:00:34,038 - INFO - Task Completed!!
+2025-04-14 13:00:43,224 - INFO - Navigated back to the homepage.
+2025-04-14 13:00:45,487 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:00:45,532 - INFO - Garbage collection completed.
+2025-04-14 13:00:45,533 - INFO - Waiting for 2200 seconds before next execution.

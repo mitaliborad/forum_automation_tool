@@ -1,0 +1,94 @@
+2025-04-14 12:57:46,142 - INFO - Current time: 1744615666.1427102
+2025-04-14 12:57:46,145 - INFO - Token expiration time: 1744621607.0474901
+2025-04-14 12:57:46,146 - INFO - Token expiration time: 1744621607.0474901
+2025-04-14 12:57:46,153 - INFO - performing random action
+2025-04-14 12:57:46,156 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:57:46,158 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:57:46,159 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:57:47,662 - DEBUG - Page scrolled.
+2025-04-14 12:57:49,666 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:57:51,009 - DEBUG - Page scrolled.
+2025-04-14 12:57:53,010 - DEBUG - Random scrolls complete.
+2025-04-14 12:57:53,013 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:57:53,016 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:57:54,925 - DEBUG - Page scrolled.
+2025-04-14 12:57:56,926 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:57:58,271 - DEBUG - Page scrolled.
+2025-04-14 12:58:00,273 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:01,894 - DEBUG - Page scrolled.
+2025-04-14 12:58:03,896 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:04,981 - DEBUG - Page scrolled.
+2025-04-14 12:58:06,982 - DEBUG - Random scrolls complete.
+2025-04-14 12:58:19,146 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-04-14 12:58:22,977 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/remove-negative-google-reviews.1701750/unread
+2025-04-14 12:58:22,978 - INFO - performing random action
+2025-04-14 12:58:32,801 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/remove-negative-google-reviews.1701750/unread
+2025-04-14 12:58:32,806 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/remove-negative-google-reviews.1701750/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:58:32,871 - INFO - Extracted thread title: Remove Negative Google Reviews
+2025-04-14 12:58:32,872 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:58:32,872 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:34,070 - DEBUG - Page scrolled.
+2025-04-14 12:58:36,072 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:37,982 - DEBUG - Page scrolled.
+2025-04-14 12:58:39,984 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:41,430 - DEBUG - Page scrolled.
+2025-04-14 12:58:43,435 - DEBUG - Random scrolls complete.
+2025-04-14 12:58:46,101 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:58:46,104 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:47,766 - DEBUG - Page scrolled.
+2025-04-14 12:58:50,768 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:58:52,712 - DEBUG - Page scrolled.
+2025-04-14 12:58:55,714 - DEBUG - Random scrolls complete.
+2025-04-14 12:58:55,755 - DEBUG - Found 12 like buttons.
+2025-04-14 12:58:58,756 - INFO - Attempting to like 1 posts. There are 12 available.
+2025-04-14 12:58:59,557 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:58:59,587 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:58:59,588 - DEBUG - Liked post number 1 of 1.
+2025-04-14 12:59:04,166 - INFO - Liked 1 posts successfully.
+2025-04-14 12:59:04,168 - INFO - Liked 1 posts successfully.
+2025-04-14 12:59:06,915 - INFO - performing random action
+2025-04-14 12:59:06,917 - DEBUG - Scrolling page 7 times.
+2025-04-14 12:59:06,918 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:59:08,628 - DEBUG - Page scrolled.
+2025-04-14 12:59:11,630 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:59:13,201 - DEBUG - Page scrolled.
+2025-04-14 12:59:16,205 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:59:17,442 - DEBUG - Page scrolled.
+2025-04-14 12:59:20,443 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:59:22,237 - DEBUG - Page scrolled.
+2025-04-14 12:59:25,240 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:59:26,915 - DEBUG - Page scrolled.
+2025-04-14 12:59:29,917 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:59:31,344 - DEBUG - Page scrolled.
+2025-04-14 12:59:34,345 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:59:36,223 - DEBUG - Page scrolled.
+2025-04-14 12:59:39,225 - DEBUG - Random scrolls complete.
+2025-04-14 12:59:41,566 - DEBUG - Total comments in the thread: 12
+2025-04-14 13:01:25,421 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Remove Negative Google Reviews.txt
+2025-04-14 13:01:28,373 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:01:28,411 - DEBUG - Extracted main post content: is this possible ? searching for a service that removes google comments/ reviews
+2025-04-14 13:01:31,464 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:01:31,465 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:01:33,754 - INFO - performing random action
+2025-04-14 13:01:33,757 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:01:33,760 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:01:33,799 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:01:33,855 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:01:33,863 - DEBUG - Text box scrolled into view
+2025-04-14 13:01:34,398 - DEBUG - Initializing actionchains
+2025-04-14 13:01:34,439 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4039}, size: {'height': 21, 'width': 68}
+2025-04-14 13:01:34,439 - DEBUG - Target click coordinates: (1265, 4049)
+2025-04-14 13:01:46,801 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:01:46,802 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:01:46,803 - DEBUG - Clicking on the text box.
+2025-04-14 13:01:46,806 - DEBUG - Sending keys with content: Honestly, trying to scrub negative reviews rarely works out well, maybe focus on burying them with positive ones?
+
+2025-04-14 13:01:52,595 - DEBUG - Clicking on post reply button.
+2025-04-14 13:02:03,575 - DEBUG - Performed Actionchains
+2025-04-14 13:02:03,577 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 13:02:07,580 - INFO - Comment posted successfully.
+2025-04-14 13:02:07,583 - INFO - Task Completed!!
+2025-04-14 13:02:20,175 - INFO - Navigated back to the homepage.
+2025-04-14 13:02:22,516 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:02:22,555 - INFO - Garbage collection completed.
+2025-04-14 13:02:22,556 - INFO - Waiting for 2200 seconds before next execution.

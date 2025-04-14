@@ -1,0 +1,113 @@
+2025-04-14 12:19:19,480 - INFO - Current time: 1744613359.4804242
+2025-04-14 12:19:19,482 - INFO - Token expiration time: 1744621329.3814306
+2025-04-14 12:19:19,484 - INFO - Token expiration time: 1744621329.3814306
+2025-04-14 12:19:19,486 - INFO - Profile Emaxx: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-14 12:19:22,364 - INFO - Profile Emaxx: Pausing for 30.61 seconds...
+2025-04-14 12:19:52,977 - INFO - Profile Emaxx: Resuming...
+2025-04-14 12:19:52,981 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-14 12:19:52,982 - INFO - performing random action
+2025-04-14 12:19:52,982 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:19:52,983 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:19:52,984 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:54,252 - DEBUG - Page scrolled.
+2025-04-14 12:19:56,253 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:57,751 - DEBUG - Page scrolled.
+2025-04-14 12:19:59,753 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:00,822 - DEBUG - Page scrolled.
+2025-04-14 12:20:02,826 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:04,300 - DEBUG - Page scrolled.
+2025-04-14 12:20:06,305 - DEBUG - Random scrolls complete.
+2025-04-14 12:20:06,311 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:20:06,313 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:07,767 - DEBUG - Page scrolled.
+2025-04-14 12:20:09,773 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:11,162 - DEBUG - Page scrolled.
+2025-04-14 12:20:13,164 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:14,337 - DEBUG - Page scrolled.
+2025-04-14 12:20:16,339 - DEBUG - Random scrolls complete.
+2025-04-14 12:20:21,981 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-04-14 12:20:26,504 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/promote-in-china.1513593/
+2025-04-14 12:20:26,505 - INFO - performing random action
+2025-04-14 12:20:36,776 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/promote-in-china.1513593/
+2025-04-14 12:20:36,779 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/promote-in-china.1513593/' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:20:36,888 - INFO - Extracted thread title: PROMOTE IN CHINA
+2025-04-14 12:20:36,890 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:20:36,891 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:38,248 - DEBUG - Page scrolled.
+2025-04-14 12:20:40,250 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:41,711 - DEBUG - Page scrolled.
+2025-04-14 12:20:43,713 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:45,600 - DEBUG - Page scrolled.
+2025-04-14 12:20:47,603 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:48,963 - DEBUG - Page scrolled.
+2025-04-14 12:20:50,966 - DEBUG - Random scrolls complete.
+2025-04-14 12:20:53,827 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:20:53,828 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:55,788 - DEBUG - Page scrolled.
+2025-04-14 12:20:58,789 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:21:00,599 - DEBUG - Page scrolled.
+2025-04-14 12:21:03,603 - DEBUG - Random scrolls complete.
+2025-04-14 12:21:03,654 - DEBUG - Found 16 like buttons.
+2025-04-14 12:21:06,656 - INFO - Attempting to like 2 posts. There are 16 available.
+2025-04-14 12:21:07,565 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:21:07,581 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:21:07,582 - DEBUG - Liked post number 1 of 2.
+2025-04-14 12:21:12,645 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:21:12,667 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:21:12,669 - DEBUG - Liked post number 2 of 2.
+2025-04-14 12:21:16,791 - INFO - Liked 2 posts successfully.
+2025-04-14 12:21:16,793 - INFO - Liked 2 posts successfully.
+2025-04-14 12:21:18,902 - INFO - Profile Emaxx: Opening random website: https://www.netflix.com/in/
+2025-04-14 12:21:25,375 - INFO - Profile Emaxx: Pausing for 30.95 seconds...
+2025-04-14 12:21:56,322 - INFO - Profile Emaxx: Resuming...
+2025-04-14 12:21:56,335 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-14 12:21:56,337 - INFO - performing random action
+2025-04-14 12:21:56,338 - DEBUG - Scrolling page 7 times.
+2025-04-14 12:21:56,339 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:21:58,157 - DEBUG - Page scrolled.
+2025-04-14 12:22:01,159 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:22:02,353 - DEBUG - Page scrolled.
+2025-04-14 12:22:05,355 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:22:06,541 - DEBUG - Page scrolled.
+2025-04-14 12:22:09,544 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:22:10,828 - DEBUG - Page scrolled.
+2025-04-14 12:22:13,829 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:22:15,105 - DEBUG - Page scrolled.
+2025-04-14 12:22:18,108 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:22:19,879 - DEBUG - Page scrolled.
+2025-04-14 12:22:22,881 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:22:24,590 - DEBUG - Page scrolled.
+2025-04-14 12:22:27,596 - DEBUG - Random scrolls complete.
+2025-04-14 12:22:30,236 - DEBUG - Total comments in the thread: 16
+2025-04-14 12:24:52,969 - INFO - Post content extracted and saved to Thread-Details/Thread Content\PROMOTE IN CHINA.txt
+2025-04-14 12:24:55,553 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:24:55,577 - DEBUG - Extracted main post content: Hey! I'm looking for the ways to promote a website and the app in China. Most likely I think about bloggers who can promote in the video, maybe Bilibili?
+The question is how to reach the bloggers and buy ads? Please help
+2025-04-14 12:25:01,231 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:25:01,235 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:25:03,566 - INFO - Profile Emaxx: Minimizing window...
+2025-04-14 12:25:03,576 - INFO - Profile Emaxx: Window minimized. Pausing for 28.67 seconds...
+2025-04-14 12:25:32,254 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-14 12:25:32,256 - INFO - performing random action
+2025-04-14 12:25:32,258 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:25:32,259 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:25:32,303 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:25:32,359 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:25:32,368 - DEBUG - Text box scrolled into view
+2025-04-14 12:25:33,339 - DEBUG - Initializing actionchains
+2025-04-14 12:25:33,398 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4995}, size: {'height': 21, 'width': 68}
+2025-04-14 12:25:33,398 - DEBUG - Target click coordinates: (1265, 5005)
+2025-04-14 12:25:47,751 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:25:47,755 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:25:47,756 - DEBUG - Clicking on the text box.
+2025-04-14 12:25:47,759 - DEBUG - Sending keys with content: Forget the usual PR outreach; see if you can find a platform that connects Western brands with Chinese influencers, might save you a ton of time. Have you looked at Parklu or similar?
+
+2025-04-14 12:25:53,281 - DEBUG - Clicking on post reply button.
+2025-04-14 12:26:04,428 - DEBUG - Performed Actionchains
+2025-04-14 12:26:04,428 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:26:08,429 - INFO - Comment posted successfully.
+2025-04-14 12:26:08,431 - INFO - Task Completed!!
+2025-04-14 12:26:19,842 - INFO - Navigated back to the homepage.
+2025-04-14 12:26:22,516 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:26:22,546 - INFO - Garbage collection completed.
+2025-04-14 12:26:22,547 - INFO - Waiting for 2200 seconds before next execution.

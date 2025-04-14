@@ -1,0 +1,89 @@
+2025-03-11 14:06:43,926 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_140643.log
+2025-03-11 14:06:43,929 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 14:06:43,931 - INFO - Loaded 137 visited threads from Thread_links.txt
+2025-03-11 14:06:43,932 - INFO - Successfully loaded links that was already visited!
+2025-03-11 14:06:43,933 - DEBUG - Scrolling page 5 times.
+2025-03-11 14:06:43,933 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:06:45,820 - DEBUG - Page scrolled.
+2025-03-11 14:06:47,822 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:06:49,327 - DEBUG - Page scrolled.
+2025-03-11 14:06:51,330 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:06:52,499 - DEBUG - Page scrolled.
+2025-03-11 14:06:54,501 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:06:56,247 - DEBUG - Page scrolled.
+2025-03-11 14:06:58,249 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:06:59,643 - DEBUG - Page scrolled.
+2025-03-11 14:07:01,645 - DEBUG - Random scrolls complete.
+2025-03-11 14:07:01,646 - DEBUG - Scrolling page 3 times.
+2025-03-11 14:07:01,648 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:07:03,196 - DEBUG - Page scrolled.
+2025-03-11 14:07:05,197 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:07:06,991 - DEBUG - Page scrolled.
+2025-03-11 14:07:08,994 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:07:10,098 - DEBUG - Page scrolled.
+2025-03-11 14:07:12,101 - DEBUG - Random scrolls complete.
+2025-03-11 14:07:28,428 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-03-11 14:07:32,793 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-myspace.1575566/unread
+2025-03-11 14:07:43,832 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-myspace.1575566/unread
+2025-03-11 14:07:43,833 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-myspace.1575566/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 14:07:43,872 - INFO - Extracted thread title: What is myspace
+2025-03-11 14:07:43,873 - DEBUG - Scrolling page 4 times.
+2025-03-11 14:07:43,874 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:07:45,246 - DEBUG - Page scrolled.
+2025-03-11 14:07:47,248 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:07:49,171 - DEBUG - Page scrolled.
+2025-03-11 14:07:51,173 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:07:52,304 - DEBUG - Page scrolled.
+2025-03-11 14:07:54,306 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:07:55,563 - DEBUG - Page scrolled.
+2025-03-11 14:07:57,565 - DEBUG - Random scrolls complete.
+2025-03-11 14:08:00,002 - DEBUG - Scrolling page 1 times.
+2025-03-11 14:08:00,004 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:08:01,968 - DEBUG - Page scrolled.
+2025-03-11 14:08:04,970 - DEBUG - Random scrolls complete.
+2025-03-11 14:08:05,001 - DEBUG - Found 20 like buttons.
+2025-03-11 14:08:08,003 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-03-11 14:08:08,696 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 14:08:08,720 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 14:08:08,723 - DEBUG - Liked post number 1 of 2.
+2025-03-11 14:08:14,209 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 14:08:14,226 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 14:08:14,228 - DEBUG - Liked post number 2 of 2.
+2025-03-11 14:08:18,674 - INFO - Liked 2 posts successfully.
+2025-03-11 14:08:18,676 - INFO - Liked 2 posts successfully.
+2025-03-11 14:08:21,564 - DEBUG - Scrolling page 3 times.
+2025-03-11 14:08:21,565 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:08:22,888 - DEBUG - Page scrolled.
+2025-03-11 14:08:25,891 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:08:27,394 - DEBUG - Page scrolled.
+2025-03-11 14:08:30,414 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:08:32,218 - DEBUG - Page scrolled.
+2025-03-11 14:08:35,220 - DEBUG - Random scrolls complete.
+2025-03-11 14:08:37,610 - DEBUG - Total comments in the thread: 20
+2025-03-11 14:10:33,771 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What is myspace.txt
+2025-03-11 14:10:36,600 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 14:10:36,646 - DEBUG - Extracted main post content: What is myspace?
+2025-03-11 14:10:41,757 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 14:10:41,759 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 14:10:44,277 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:10:44,279 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:10:44,317 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:10:44,369 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:10:44,378 - DEBUG - Text box scrolled into view
+2025-03-11 14:10:44,982 - DEBUG - Initializing actionchains
+2025-03-11 14:10:45,018 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6839}, size: {'height': 21, 'width': 68}
+2025-03-11 14:10:45,018 - DEBUG - Target click coordinates: (1121, 6849)
+2025-03-11 14:11:03,886 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 14:11:03,889 - DEBUG - Moving mouse to text box element.
+2025-03-11 14:11:03,890 - DEBUG - Clicking on the text box.
+2025-03-11 14:11:03,892 - DEBUG - Sending keys with content: Wow, that's a blast from the past! I almost forgot about trying to customize my profile page.
+
+2025-03-11 14:11:09,339 - DEBUG - Clicking on post reply button.
+2025-03-11 14:11:20,343 - DEBUG - Performed Actionchains
+2025-03-11 14:11:20,345 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 14:11:24,347 - INFO - Comment posted successfully.
+2025-03-11 14:11:24,349 - INFO - Task Completed!!
+2025-03-11 14:11:35,106 - INFO - Navigated back to the homepage.
+2025-03-11 14:11:37,498 - INFO - Attempting to clear memory and resources.
+2025-03-11 14:11:37,539 - INFO - Garbage collection completed.
+2025-03-11 14:11:37,540 - INFO - Waiting for 1800 seconds before next execution.

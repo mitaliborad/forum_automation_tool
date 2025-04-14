@@ -1,0 +1,153 @@
+2025-03-05 14:22:52,404 - INFO - Starting new automation task. Log file created at: Selenium-Logs\script_log_20250305_142252.log
+2025-03-05 14:22:52,407 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-05 14:22:52,440 - INFO - Loaded 48 visited threads from Thread_links.txt
+2025-03-05 14:22:52,442 - INFO - Successfully loaded links that was already visited!
+2025-03-05 14:22:52,442 - DEBUG - Scrolling page 5 times.
+2025-03-05 14:22:52,443 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:22:53,750 - DEBUG - Page scrolled.
+2025-03-05 14:22:55,756 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:22:57,227 - DEBUG - Page scrolled.
+2025-03-05 14:22:59,228 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:00,386 - DEBUG - Page scrolled.
+2025-03-05 14:23:02,388 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:03,898 - DEBUG - Page scrolled.
+2025-03-05 14:23:05,900 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:07,507 - DEBUG - Page scrolled.
+2025-03-05 14:23:09,508 - DEBUG - Random scrolls complete.
+2025-03-05 14:23:16,552 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/instagram.215/
+2025-03-05 14:23:20,775 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ai-model-for-instagram.1673531/unread
+2025-03-05 14:23:29,494 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ai-model-for-instagram.1673531/unread
+2025-03-05 14:23:29,495 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ai-model-for-instagram.1673531/unread' to visited threads file 'Thread_links.txt'.
+2025-03-05 14:23:29,533 - INFO - Extracted thread title: AI model for Instagram
+2025-03-05 14:23:29,534 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:23:29,534 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:31,167 - DEBUG - Page scrolled.
+2025-03-05 14:23:33,168 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:34,609 - DEBUG - Page scrolled.
+2025-03-05 14:23:36,610 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:38,552 - DEBUG - Page scrolled.
+2025-03-05 14:23:40,553 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:41,838 - DEBUG - Page scrolled.
+2025-03-05 14:23:43,839 - DEBUG - Random scrolls complete.
+2025-03-05 14:23:46,406 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:23:46,407 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:48,400 - DEBUG - Page scrolled.
+2025-03-05 14:23:51,402 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:52,891 - DEBUG - Page scrolled.
+2025-03-05 14:23:55,893 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:23:57,591 - DEBUG - Page scrolled.
+2025-03-05 14:24:00,592 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:02,118 - DEBUG - Page scrolled.
+2025-03-05 14:24:05,119 - DEBUG - Random scrolls complete.
+2025-03-05 14:24:05,156 - DEBUG - Found 20 like buttons.
+2025-03-05 14:24:08,157 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-03-05 14:24:08,705 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 14:24:08,718 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 14:24:08,719 - DEBUG - Liked post number 1 of 2.
+2025-03-05 14:24:13,357 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 14:24:13,373 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 14:24:13,375 - DEBUG - Liked post number 2 of 2.
+2025-03-05 14:24:18,017 - INFO - Liked 2 posts successfully.
+2025-03-05 14:24:18,019 - INFO - Liked 2 posts successfully.
+2025-03-05 14:24:18,020 - DEBUG - Scrolling page 5 times.
+2025-03-05 14:24:18,021 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:19,665 - DEBUG - Page scrolled.
+2025-03-05 14:24:22,666 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:23,992 - DEBUG - Page scrolled.
+2025-03-05 14:24:27,000 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:28,789 - DEBUG - Page scrolled.
+2025-03-05 14:24:31,791 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:33,562 - DEBUG - Page scrolled.
+2025-03-05 14:24:36,563 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:24:38,071 - DEBUG - Page scrolled.
+2025-03-05 14:24:41,072 - DEBUG - Random scrolls complete.
+2025-03-05 14:24:43,389 - DEBUG - Total comments in the thread: 20
+2025-03-05 14:25:25,446 - INFO - Post content extracted and saved to Thread-Details\Thread Content\AI model for Instagram.txt
+2025-03-05 14:25:27,748 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-05 14:25:27,792 - DEBUG - Extracted main post content: I want to create my first AI model but i need help and recommendations for the software to use.
+
+Which are best ways to generate an AI model and then be able to create different images of the same model with dif clothes, dif backgrounds etc.
+
+Which are best softwares to then turn the images to videos for reels
+
+All content needs to be able to be made in NSFW as well as SFW
+2025-03-05 14:25:31,967 - INFO - Successfully generated comments using Gemini API.
+2025-03-05 14:25:31,969 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-05 14:25:31,971 - INFO - API comment generated and saved to Thread-Details\API Comments\AI model for Instagram_Honestly, it sounds like you're trying to run befo.txt
+2025-03-05 14:25:34,581 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:25:34,582 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:25:34,612 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:25:34,658 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:25:34,667 - DEBUG - Text box scrolled into view
+2025-03-05 14:25:35,327 - DEBUG - Initializing actionchains
+2025-03-05 14:25:35,372 - DEBUG - Post reply Element location: {'x': 1087, 'y': 8240}, size: {'height': 21, 'width': 68}
+2025-03-05 14:25:35,372 - DEBUG - Target click coordinates: (1121, 8250)
+2025-03-05 14:25:35,373 - DEBUG - Moving mouse from (664, 354) to (1121, 8250).
+2025-03-05 14:25:35,373 - DEBUG - Generating Bezier path from (664, 354) to (1121, 8250) with 50 points.
+2025-03-05 14:25:35,373 - DEBUG - Control point: (622, 306)
+2025-03-05 14:25:35,374 - DEBUG - Generated Bezier path with 50 points.
+2025-03-05 14:25:35,374 - DEBUG - Moved mouse to (664, 354), delay: 0.0000
+2025-03-05 14:25:35,376 - DEBUG - Moved mouse to (662, 355), delay: 0.0021
+2025-03-05 14:25:35,384 - DEBUG - Moved mouse to (661, 363), delay: 0.0066
+2025-03-05 14:25:35,396 - DEBUG - Moved mouse to (660, 378), delay: 0.0108
+2025-03-05 14:25:35,407 - DEBUG - Moved mouse to (660, 399), delay: 0.0087
+2025-03-05 14:25:35,420 - DEBUG - Moved mouse to (661, 427), delay: 0.0112
+2025-03-05 14:25:35,438 - DEBUG - Moved mouse to (661, 462), delay: 0.0157
+2025-03-05 14:25:35,457 - DEBUG - Moved mouse to (663, 503), delay: 0.0184
+2025-03-05 14:25:35,482 - DEBUG - Moved mouse to (664, 551), delay: 0.0243
+2025-03-05 14:25:35,512 - DEBUG - Moved mouse to (666, 605), delay: 0.0269
+2025-03-05 14:25:35,539 - DEBUG - Moved mouse to (669, 667), delay: 0.0246
+2025-03-05 14:25:35,560 - DEBUG - Moved mouse to (672, 735), delay: 0.0193
+2025-03-05 14:25:35,590 - DEBUG - Moved mouse to (675, 809), delay: 0.0280
+2025-03-05 14:25:35,622 - DEBUG - Moved mouse to (679, 891), delay: 0.0309
+2025-03-05 14:25:35,660 - DEBUG - Moved mouse to (684, 978), delay: 0.0372
+2025-03-05 14:25:35,685 - DEBUG - Moved mouse to (688, 1073), delay: 0.0245
+2025-03-05 14:25:35,729 - DEBUG - Moved mouse to (694, 1174), delay: 0.0424
+2025-03-05 14:25:35,779 - DEBUG - Moved mouse to (699, 1282), delay: 0.0492
+2025-03-05 14:25:35,809 - DEBUG - Moved mouse to (706, 1397), delay: 0.0286
+2025-03-05 14:25:35,855 - DEBUG - Moved mouse to (712, 1518), delay: 0.0443
+2025-03-05 14:25:35,899 - DEBUG - Moved mouse to (719, 1646), delay: 0.0415
+2025-03-05 14:25:35,957 - DEBUG - Moved mouse to (727, 1780), delay: 0.0567
+2025-03-05 14:25:35,999 - DEBUG - Moved mouse to (735, 1921), delay: 0.0396
+2025-03-05 14:25:36,035 - DEBUG - Moved mouse to (743, 2069), delay: 0.0344
+2025-03-05 14:25:36,102 - DEBUG - Moved mouse to (752, 2224), delay: 0.0650
+2025-03-05 14:25:36,145 - DEBUG - Moved mouse to (761, 2385), delay: 0.0412
+2025-03-05 14:25:36,214 - DEBUG - Moved mouse to (771, 2553), delay: 0.0673
+2025-03-05 14:25:36,271 - DEBUG - Moved mouse to (781, 2727), delay: 0.0553
+2025-03-05 14:25:36,317 - DEBUG - Moved mouse to (792, 2908), delay: 0.0438
+2025-03-05 14:25:36,369 - DEBUG - Moved mouse to (803, 3096), delay: 0.0497
+2025-03-05 14:25:36,426 - DEBUG - Moved mouse to (815, 3290), delay: 0.0542
+2025-03-05 14:25:36,496 - DEBUG - Moved mouse to (827, 3492), delay: 0.0684
+2025-03-05 14:25:36,578 - DEBUG - Moved mouse to (839, 3699), delay: 0.0808
+2025-03-05 14:25:36,634 - DEBUG - Moved mouse to (852, 3914), delay: 0.0527
+2025-03-05 14:25:36,711 - DEBUG - Moved mouse to (866, 4135), delay: 0.0760
+2025-03-05 14:25:36,771 - DEBUG - Moved mouse to (880, 4362), delay: 0.0577
+2025-03-05 14:25:36,824 - DEBUG - Moved mouse to (894, 4597), delay: 0.0519
+2025-03-05 14:25:36,897 - DEBUG - Moved mouse to (909, 4838), delay: 0.0714
+2025-03-05 14:25:36,953 - DEBUG - Moved mouse to (924, 5086), delay: 0.0547
+2025-03-05 14:25:37,042 - DEBUG - Moved mouse to (939, 5340), delay: 0.0862
+2025-03-05 14:25:37,116 - DEBUG - Moved mouse to (955, 5601), delay: 0.0719
+2025-03-05 14:25:37,213 - DEBUG - Moved mouse to (972, 5869), delay: 0.0945
+2025-03-05 14:25:37,278 - DEBUG - Moved mouse to (989, 6143), delay: 0.0639
+2025-03-05 14:25:37,380 - DEBUG - Moved mouse to (1006, 6424), delay: 0.1005
+2025-03-05 14:25:37,472 - DEBUG - Moved mouse to (1024, 6711), delay: 0.0901
+2025-03-05 14:25:37,556 - DEBUG - Moved mouse to (1043, 7006), delay: 0.0827
+2025-03-05 14:25:37,640 - DEBUG - Moved mouse to (1061, 7307), delay: 0.0824
+2025-03-05 14:25:37,734 - DEBUG - Moved mouse to (1081, 7614), delay: 0.0916
+2025-03-05 14:25:37,834 - DEBUG - Moved mouse to (1100, 7929), delay: 0.0987
+2025-03-05 14:25:37,903 - DEBUG - Moved mouse to (1121, 8250), delay: 0.0671
+2025-03-05 14:25:37,903 - INFO - Successfully moved mouse to (1121, 8250) using Bezier curve.
+2025-03-05 14:25:37,904 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-05 14:25:37,904 - DEBUG - Moving mouse to text box element.
+2025-03-05 14:25:37,905 - DEBUG - Clicking on the text box.
+2025-03-05 14:25:37,906 - DEBUG - Sending keys with content: Honestly, it sounds like you're trying to run before you can walk, but if you're set on jumping in headfirst, check out RunwayML and see if it's a good fit, and for video editing CapCut is surprisingly good.
+
+2025-03-05 14:25:43,841 - DEBUG - Clicking on post reply button.
+2025-03-05 14:25:55,057 - DEBUG - Performed Actionchains
+2025-03-05 14:25:55,057 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-05 14:25:59,059 - INFO - Comment posted successfully.
+2025-03-05 14:25:59,060 - INFO - Task Completed!!
+2025-03-05 14:26:08,381 - INFO - Navigated back to the homepage.
+2025-03-05 14:26:11,126 - INFO - Attempting to clear memory and resources.
+2025-03-05 14:26:11,160 - INFO - Garbage collection completed.
+2025-03-05 14:26:11,161 - INFO - Waiting for 1240 seconds before next execution.

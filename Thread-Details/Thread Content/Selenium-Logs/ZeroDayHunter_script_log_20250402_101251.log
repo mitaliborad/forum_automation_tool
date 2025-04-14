@@ -1,0 +1,112 @@
+2025-04-02 10:12:51,181 - INFO - Current time: 1743568971.1812255
+2025-04-02 10:12:51,182 - INFO - Token expiration time: 1743577426.6156447
+2025-04-02 10:12:51,183 - INFO - Token expiration time: 1743577426.6156447
+2025-04-02 10:12:51,184 - INFO - Profile ZeroDayHunter: Opening random website: https://www.netflix.com/in/
+2025-04-02 10:13:16,506 - INFO - Profile ZeroDayHunter: Pausing for 45.31 seconds...
+2025-04-02 10:14:01,816 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-02 10:14:01,847 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-02 10:14:01,848 - INFO - performing random action
+2025-04-02 10:14:01,849 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 10:14:01,851 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:14:01,851 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:14:03,588 - DEBUG - Page scrolled.
+2025-04-02 10:14:05,591 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:14:07,382 - DEBUG - Page scrolled.
+2025-04-02 10:14:09,385 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:14:10,750 - DEBUG - Page scrolled.
+2025-04-02 10:14:12,751 - DEBUG - Random scrolls complete.
+2025-04-02 10:14:12,753 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:14:12,754 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:14:14,127 - DEBUG - Page scrolled.
+2025-04-02 10:14:16,129 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:14:17,328 - DEBUG - Page scrolled.
+2025-04-02 10:14:19,330 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:14:20,700 - DEBUG - Page scrolled.
+2025-04-02 10:14:22,702 - DEBUG - Random scrolls complete.
+2025-04-02 10:14:32,860 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/instagram.215/
+2025-04-02 10:14:37,212 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/why-do-people-buy-instagram-accounts.1698233/unread
+2025-04-02 10:14:37,214 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-02 10:14:37,215 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 23.31 seconds...
+2025-04-02 10:15:00,525 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-02 10:15:00,526 - INFO - performing random action
+2025-04-02 10:15:10,871 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/why-do-people-buy-instagram-accounts.1698233/unread
+2025-04-02 10:15:10,875 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/why-do-people-buy-instagram-accounts.1698233/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 10:15:10,927 - INFO - Extracted thread title: Why do people buy instagram accounts
+2025-04-02 10:15:10,928 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:15:10,929 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:15:12,003 - DEBUG - Page scrolled.
+2025-04-02 10:15:14,005 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:15:15,862 - DEBUG - Page scrolled.
+2025-04-02 10:15:17,864 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:15:19,618 - DEBUG - Page scrolled.
+2025-04-02 10:15:21,619 - DEBUG - Random scrolls complete.
+2025-04-02 10:15:24,604 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:15:24,606 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:15:26,258 - DEBUG - Page scrolled.
+2025-04-02 10:15:29,260 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:15:31,136 - DEBUG - Page scrolled.
+2025-04-02 10:15:34,138 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:15:35,277 - DEBUG - Page scrolled.
+2025-04-02 10:15:38,280 - DEBUG - Random scrolls complete.
+2025-04-02 10:15:38,319 - DEBUG - Found 20 like buttons.
+2025-04-02 10:15:41,320 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-02 10:15:41,927 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:15:41,951 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:15:41,952 - DEBUG - Liked post number 1 of 4.
+2025-04-02 10:15:47,091 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:15:47,112 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:15:47,114 - DEBUG - Liked post number 2 of 4.
+2025-04-02 10:15:52,430 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:15:52,449 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:15:52,451 - DEBUG - Liked post number 3 of 4.
+2025-04-02 10:15:57,324 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:15:57,343 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:15:57,345 - DEBUG - Liked post number 4 of 4.
+2025-04-02 10:16:02,223 - INFO - Liked 4 posts successfully.
+2025-04-02 10:16:02,226 - INFO - Liked 4 posts successfully.
+2025-04-02 10:16:04,587 - INFO - Profile ZeroDayHunter: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-02 10:16:11,388 - INFO - Profile ZeroDayHunter: Pausing for 31.23 seconds...
+2025-04-02 10:16:42,619 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-02 10:16:42,663 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-02 10:16:42,665 - INFO - performing random action
+2025-04-02 10:16:42,666 - DEBUG - Scrolling page 4 times.
+2025-04-02 10:16:42,666 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:16:44,116 - DEBUG - Page scrolled.
+2025-04-02 10:16:47,119 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:16:48,428 - DEBUG - Page scrolled.
+2025-04-02 10:16:51,431 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:16:52,748 - DEBUG - Page scrolled.
+2025-04-02 10:16:55,750 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:16:57,074 - DEBUG - Page scrolled.
+2025-04-02 10:17:00,077 - DEBUG - Random scrolls complete.
+2025-04-02 10:17:03,052 - DEBUG - Total comments in the thread: 20
+2025-04-02 10:19:40,936 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Why do people buy instagram accounts.txt
+2025-04-02 10:19:43,497 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 10:19:43,567 - DEBUG - Extracted main post content: Like exactly with do they do with the instagram accounts they buy?
+Maybe they monetize them in some way like sending DMs to all the followers, maybe they do mother child method... Honestly I have no idea. Please enlighten me.
+I am curious.
+2025-04-02 10:19:47,075 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 10:19:47,078 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 10:19:49,977 - INFO - performing random action
+2025-04-02 10:19:49,978 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:19:49,979 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:19:49,994 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:19:50,043 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:19:50,053 - DEBUG - Text box scrolled into view
+2025-04-02 10:19:51,036 - DEBUG - Initializing actionchains
+2025-04-02 10:19:51,058 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6435}, size: {'height': 21, 'width': 68}
+2025-04-02 10:19:51,059 - DEBUG - Target click coordinates: (1121, 6445)
+2025-04-02 10:20:08,188 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 10:20:08,190 - DEBUG - Moving mouse to text box element.
+2025-04-02 10:20:08,192 - DEBUG - Clicking on the text box.
+2025-04-02 10:20:08,197 - DEBUG - Sending keys with content: Probably just pump them full of ads or try to redirect the followers somewhere else; wouldn't be surprised if some just sit on them hoping they appreciate in value.
+
+2025-04-02 10:20:13,336 - DEBUG - Clicking on post reply button.
+2025-04-02 10:20:14,747 - DEBUG - Performed Actionchains
+2025-04-02 10:20:14,748 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 10:20:18,750 - INFO - Comment posted successfully.
+2025-04-02 10:20:18,751 - INFO - Task Completed!!
+2025-04-02 10:20:21,424 - INFO - Navigated back to the homepage.
+2025-04-02 10:20:24,200 - INFO - Attempting to clear memory and resources.
+2025-04-02 10:20:24,249 - INFO - Garbage collection completed.
+2025-04-02 10:20:24,250 - INFO - Waiting for 2000 seconds before next execution.

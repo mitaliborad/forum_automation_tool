@@ -1,0 +1,115 @@
+2025-04-09 11:39:17,344 - INFO - Current time: 1744178957.3447711
+2025-04-09 11:39:17,347 - INFO - Token expiration time: 1744181136.852054
+2025-04-09 11:39:17,350 - INFO - Token expiration time: 1744181136.852054
+2025-04-09 11:39:17,352 - INFO - performing random action
+2025-04-09 11:39:17,356 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 11:39:17,360 - DEBUG - Scrolling page 2 times.
+2025-04-09 11:39:17,362 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:39:18,851 - DEBUG - Page scrolled.
+2025-04-09 11:39:20,854 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:39:22,741 - DEBUG - Page scrolled.
+2025-04-09 11:39:24,743 - DEBUG - Random scrolls complete.
+2025-04-09 11:39:24,746 - DEBUG - Scrolling page 4 times.
+2025-04-09 11:39:24,748 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:39:26,541 - DEBUG - Page scrolled.
+2025-04-09 11:39:28,543 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:39:30,412 - DEBUG - Page scrolled.
+2025-04-09 11:39:32,413 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:39:34,365 - DEBUG - Page scrolled.
+2025-04-09 11:39:36,366 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:39:38,132 - DEBUG - Page scrolled.
+2025-04-09 11:39:40,134 - DEBUG - Random scrolls complete.
+2025-04-09 11:39:51,760 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-04-09 11:39:55,372 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/getting-jobs-on-linkedin.1700331/unread
+2025-04-09 11:39:55,373 - INFO - performing random action
+2025-04-09 11:40:04,142 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/getting-jobs-on-linkedin.1700331/unread
+2025-04-09 11:40:04,146 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/getting-jobs-on-linkedin.1700331/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 11:40:04,205 - INFO - Extracted thread title: Getting jobs on LinkedIn
+2025-04-09 11:40:04,206 - DEBUG - Scrolling page 3 times.
+2025-04-09 11:40:04,207 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:40:06,176 - DEBUG - Page scrolled.
+2025-04-09 11:40:08,179 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:40:09,871 - DEBUG - Page scrolled.
+2025-04-09 11:40:11,872 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:40:12,941 - DEBUG - Page scrolled.
+2025-04-09 11:40:14,942 - DEBUG - Random scrolls complete.
+2025-04-09 11:40:17,413 - DEBUG - Scrolling page 2 times.
+2025-04-09 11:40:17,415 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:40:19,103 - DEBUG - Page scrolled.
+2025-04-09 11:40:22,106 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:40:23,726 - DEBUG - Page scrolled.
+2025-04-09 11:40:26,729 - DEBUG - Random scrolls complete.
+2025-04-09 11:40:26,764 - DEBUG - Found 3 like buttons.
+2025-04-09 11:40:29,765 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-04-09 11:40:30,566 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:40:30,576 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:40:30,577 - DEBUG - Liked post number 1 of 3.
+2025-04-09 11:40:36,084 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:40:36,105 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:40:36,108 - DEBUG - Liked post number 2 of 3.
+2025-04-09 11:40:41,673 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 11:40:41,680 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 11:40:41,681 - DEBUG - Liked post number 3 of 3.
+2025-04-09 11:40:46,440 - INFO - Liked 3 posts successfully.
+2025-04-09 11:40:46,443 - INFO - Liked 3 posts successfully.
+2025-04-09 11:40:49,214 - INFO - performing random action
+2025-04-09 11:40:49,217 - DEBUG - Scrolling page 6 times.
+2025-04-09 11:40:49,218 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:40:50,539 - DEBUG - Page scrolled.
+2025-04-09 11:40:53,540 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:40:54,549 - DEBUG - Page scrolled.
+2025-04-09 11:40:57,550 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:40:58,900 - DEBUG - Page scrolled.
+2025-04-09 11:41:01,902 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:41:02,947 - DEBUG - Page scrolled.
+2025-04-09 11:41:05,948 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:41:07,254 - DEBUG - Page scrolled.
+2025-04-09 11:41:10,256 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 11:41:11,340 - DEBUG - Page scrolled.
+2025-04-09 11:41:14,343 - DEBUG - Random scrolls complete.
+2025-04-09 11:41:17,243 - DEBUG - Total comments in the thread: 3
+2025-04-09 11:41:17,491 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Getting jobs on LinkedIn.txt
+2025-04-09 11:41:20,345 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 11:41:20,407 - DEBUG - Extracted main post content: How do you grow your LinkedIn account to get more jobs
+2025-04-09 11:41:24,048 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 11:41:24,050 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 11:41:26,823 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-09 11:41:38,434 - INFO - Profile PhantomRoot: Pausing for 37.25 seconds...
+2025-04-09 11:42:15,691 - INFO - Profile PhantomRoot: Resuming...
+2025-04-09 11:42:15,715 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-09 11:42:15,716 - INFO - performing random action
+2025-04-09 11:42:15,718 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:42:15,720 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:42:15,785 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:42:15,845 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 11:42:15,860 - DEBUG - Text box scrolled into view
+2025-04-09 11:42:16,656 - DEBUG - Initializing actionchains
+2025-04-09 11:42:16,729 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2006}, size: {'height': 21, 'width': 68}
+2025-04-09 11:42:16,731 - DEBUG - Target click coordinates: (1265, 2016)
+2025-04-09 11:42:25,133 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 11:42:25,142 - DEBUG - Moving mouse to text box element.
+2025-04-09 11:42:25,175 - DEBUG - Clicking on the text box.
+2025-04-09 11:42:25,221 - DEBUG - Sending keys with content: Honestly, I've found that engaging with other people's posts in a meaningful way and commenting on relevant discussions does more than just posting my resume and hoping for the best.
+
+2025-04-09 11:42:31,186 - DEBUG - Clicking on post reply button.
+2025-04-09 11:42:32,491 - DEBUG - Performed Actionchains
+2025-04-09 11:42:32,491 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 11:42:36,493 - INFO - Comment posted successfully.
+2025-04-09 11:42:36,497 - INFO - Task Completed!!
+2025-04-09 11:42:39,685 - INFO - Navigated back to the homepage.
+2025-04-09 11:42:41,878 - INFO - Attempting to clear memory and resources.
+2025-04-09 11:42:41,939 - INFO - Garbage collection completed.
+2025-04-09 11:42:41,940 - INFO - Waiting for 1850 seconds before next execution.
+2025-04-09 12:13:31,942 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-09 12:13:31,945 - INFO - Stopping browser for profile: PhantomRoot...
+2025-04-09 12:13:31,948 - INFO - Refreshing token before stopping profile...
+2025-04-09 12:13:31,950 - INFO - Refreshing token for PhantomRoot...
+2025-04-09 12:13:32,986 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-09 12:13:32,987 - INFO - Calculated token expiration time: 1744191812.9876611
+2025-04-09 12:13:32,988 - INFO - Profile PhantomRoot: Successfully logged in.
+2025-04-09 12:13:32,989 - INFO - Token refreshed successfully before stopping.
+2025-04-09 12:13:32,990 - INFO - Profile PhantomRoot: Attempting to stop (Attempt 1/3)...
+2025-04-09 12:13:33,000 - INFO - Profile PhantomRoot: Browser closed successfully in 0.01 seconds.
+2025-04-09 12:13:36,688 - INFO - Profile PhantomRoot: API call took 3.69 seconds.
+2025-04-09 12:13:36,691 - INFO - Profile PhantomRoot: Stopped successfully.
+2025-04-09 12:13:36,695 - INFO - Browser stopped successfully for profile: PhantomRoot.

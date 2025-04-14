@@ -1,0 +1,111 @@
+2025-03-13 14:06:11,261 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_140611.log
+2025-03-13 14:06:11,262 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 14:06:11,288 - INFO - Loaded 188 visited threads from Thread_links.txt
+2025-03-13 14:06:11,289 - INFO - Successfully loaded links that was already visited!
+2025-03-13 14:06:13,293 - DEBUG - Scrolling page 6 times.
+2025-03-13 14:06:13,295 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:18,063 - DEBUG - Page scrolled.
+2025-03-13 14:06:20,068 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:21,887 - DEBUG - Page scrolled.
+2025-03-13 14:06:23,891 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:25,362 - DEBUG - Page scrolled.
+2025-03-13 14:06:27,365 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:29,206 - DEBUG - Page scrolled.
+2025-03-13 14:06:31,209 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:32,513 - DEBUG - Page scrolled.
+2025-03-13 14:06:34,519 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:36,271 - DEBUG - Page scrolled.
+2025-03-13 14:06:38,284 - DEBUG - Random scrolls complete.
+2025-03-13 14:06:38,288 - DEBUG - Scrolling page 6 times.
+2025-03-13 14:06:38,290 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:39,884 - DEBUG - Page scrolled.
+2025-03-13 14:06:41,895 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:43,056 - DEBUG - Page scrolled.
+2025-03-13 14:06:45,059 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:46,344 - DEBUG - Page scrolled.
+2025-03-13 14:06:48,351 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:50,097 - DEBUG - Page scrolled.
+2025-03-13 14:06:52,102 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:53,881 - DEBUG - Page scrolled.
+2025-03-13 14:06:55,889 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:06:57,039 - DEBUG - Page scrolled.
+2025-03-13 14:06:59,042 - DEBUG - Random scrolls complete.
+2025-03-13 14:07:03,517 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-03-13 14:07:08,886 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-create-10-telegram-accounts.1694290/unread
+2025-03-13 14:07:19,778 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-create-10-telegram-accounts.1694290/unread
+2025-03-13 14:07:19,783 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-create-10-telegram-accounts.1694290/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 14:07:19,867 - INFO - Extracted thread title: How to create 10 telegram accounts
+2025-03-13 14:07:19,867 - DEBUG - Scrolling page 3 times.
+2025-03-13 14:07:19,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:07:21,014 - DEBUG - Page scrolled.
+2025-03-13 14:07:23,023 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:07:24,515 - DEBUG - Page scrolled.
+2025-03-13 14:07:26,519 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:07:28,224 - DEBUG - Page scrolled.
+2025-03-13 14:07:30,231 - DEBUG - Random scrolls complete.
+2025-03-13 14:07:32,695 - DEBUG - Scrolling page 1 times.
+2025-03-13 14:07:32,697 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:07:34,714 - DEBUG - Page scrolled.
+2025-03-13 14:07:37,719 - DEBUG - Random scrolls complete.
+2025-03-13 14:07:37,785 - DEBUG - Found 6 like buttons.
+2025-03-13 14:07:40,788 - INFO - Attempting to like 3 posts. There are 6 available.
+2025-03-13 14:07:41,549 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 14:07:41,614 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 14:07:41,616 - DEBUG - Liked post number 1 of 3.
+2025-03-13 14:07:46,936 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 14:07:46,982 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 14:07:46,984 - DEBUG - Liked post number 2 of 3.
+2025-03-13 14:07:52,594 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 14:07:52,623 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 14:07:52,636 - DEBUG - Liked post number 3 of 3.
+2025-03-13 14:07:57,232 - INFO - Liked 3 posts successfully.
+2025-03-13 14:07:57,235 - INFO - Liked 3 posts successfully.
+2025-03-13 14:08:02,215 - DEBUG - Scrolling page 6 times.
+2025-03-13 14:08:02,216 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:08:03,275 - DEBUG - Page scrolled.
+2025-03-13 14:08:06,277 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:08:08,087 - DEBUG - Page scrolled.
+2025-03-13 14:08:11,089 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:08:12,981 - DEBUG - Page scrolled.
+2025-03-13 14:08:15,984 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:08:17,275 - DEBUG - Page scrolled.
+2025-03-13 14:08:20,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:08:21,664 - DEBUG - Page scrolled.
+2025-03-13 14:08:24,666 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:08:26,116 - DEBUG - Page scrolled.
+2025-03-13 14:08:29,119 - DEBUG - Random scrolls complete.
+2025-03-13 14:08:31,897 - DEBUG - Total comments in the thread: 6
+2025-03-13 14:09:03,752 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to create 10 telegram accounts.txt
+2025-03-13 14:09:06,337 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 14:09:06,396 - DEBUG - Extracted main post content: Hello everyone !
+Right now I have 4 telegrams numbers under the same telegram app that I have on my mobile phone, but I want to have 6 additional numbers (for a total of 10 numbers in the end).
+But I can't add a new one, telegram tells me that I have reached the maximum numbers (4).
+So I tried to buy numbers on an online service that provides phone numbers and tried to create a new telegram on another session of my computer, but I don't receive the verification SMS code and the phone call to receive the code. I searched online and I saw that the phone numbers I bought are probably "blacklisted" as VOIP numbers etc...
+
+So my question is :
+
+What setup would you do in order to have 10 telegrams numbers and to keep these 10 accounts for a long time ? (2-3 years minimum, and not just a oneshot for few days)
+2025-03-13 14:09:09,613 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 14:09:09,615 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 14:09:11,892 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:09:11,893 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:09:11,911 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:09:11,975 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:09:11,985 - DEBUG - Text box scrolled into view
+2025-03-13 14:09:12,756 - DEBUG - Initializing actionchains
+2025-03-13 14:09:12,781 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3265}, size: {'height': 21, 'width': 68}
+2025-03-13 14:09:12,782 - DEBUG - Target click coordinates: (1121, 3275)
+2025-03-13 14:09:23,221 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 14:09:23,224 - DEBUG - Moving mouse to text box element.
+2025-03-13 14:09:23,228 - DEBUG - Clicking on the text box.
+2025-03-13 14:09:23,231 - DEBUG - Sending keys with content: Instead of buying numbers, have you considered using multiple devices with separate SIM cards? It might be more reliable long term.
+
+2025-03-13 14:09:28,482 - DEBUG - Clicking on post reply button.
+2025-03-13 14:09:39,513 - DEBUG - Performed Actionchains
+2025-03-13 14:09:39,514 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 14:09:43,518 - INFO - Comment posted successfully.
+2025-03-13 14:09:43,520 - INFO - Task Completed!!
+2025-03-13 14:09:54,596 - INFO - Navigated back to the homepage.
+2025-03-13 14:09:57,299 - INFO - Attempting to clear memory and resources.
+2025-03-13 14:09:57,356 - INFO - Garbage collection completed.
+2025-03-13 14:09:57,357 - INFO - Waiting for 10 seconds before next execution.

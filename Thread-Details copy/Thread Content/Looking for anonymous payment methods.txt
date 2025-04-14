@@ -1,0 +1,119 @@
+--- Main Post Title ---
+Looking for anonymous payment methods
+
+Total comments in the thread: 9
+
+Topic User: GermanNSFW
+Topic: Hey, I moderate a few very big subreddits, focused on NSFW pictures/videos of celebs.
+We currently direct the traffic to our new Telegram group, which is growing very fast.
+
+We now want to make a premium/vip group, to share onlyfans content.
+The idea is to sell access to the vip group to all members of the main Telegram group and monatize it that way.
+
+We are looking for anonymous payment methods (at least on our end), which are also easily accessible for everyone.
+Direct crypto tranfer would be perfect but I dont think many people have this opportunity. Crypto vouchers, Paysafecards or Amazon giftcards are great at first glance, but cant be cashed out anonymously.
+
+I guess in the best case scenario we would just have crypto in the end, no matter on which way but without giving out our data.
+We live in Germany and would like to evade any taxes.
+
+Do you guys have any ideas? Thanks a lot
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: natsuko
+Topic: Stripe abd fake LLC if you wanna play semi-legit but still lowkey.
+Buy Reddit Accounts at Redditaccsbuy.com with Female Nicknames, Age, Comment And Post Karma from 50+ to 500+ from 1.3$
+Liked by: You, GermanNSFW
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: beverlie
+Topic: you know .... you still have to pay taxes for crypto right ?
+and you have to declare exactly where this funds come from and have a solid track record of all transaction ids etc
+if you can't prove the source of funds they can confiscate, give you a big fine or some jail time
+just saying
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: QTrex786
+Topic: natsuko said:
+Stripe abd fake LLC if you wanna play semi-legit but still lowkey.
+stripe is terrible. why would you even recommend it,
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: OB_One
+Topic: You could use an Open Banking solution if you're operating in Europe only. It also means instant bank transfer with no settlement time.
+
+I know quite a few adult merchants using OB now.
+Liked by: GermanNSFW
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: GermanNSFW
+Topic: beverlie said:
+you know .... you still have to pay taxes for crypto right ?
+and you have to declare exactly where this funds come from and have a solid track record of all transaction ids etc
+if you can't prove the source of funds they can confiscate, give you a big fine or some jail time
+just saying
+I thought that maybe I could buy some crypto, transfer this and the earned crypto to a crypto casino and then cash out the earnings to a crypto exchange. For them it would look like casino winnings XD But I think you are right, that is probably a bad idea …
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: GermanNSFW
+Topic: Is there maybe something like a vouchers/coupons system that I can also cash out? I mean no government institution can proof from where those vouchers came from, right?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Dr Links
+Topic: OB_One said:
+You could use an Open Banking solution if you're operating in Europe only. It also means instant bank transfer with no settlement time.
+
+I know quite a few adult merchants using OB now.
+How can I get an OB ?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: OB_One
+Topic: Dr Links said:
+How can I get an OB ?
+You'd have to reach out to an Open Banking PSP such as Klyme or Volt. They should be able to accommodate for high risk sectors such as adult.
+
+As there are no payment schemes (Visa, Mastercard) involved within Open Banking payments, it's a lot more feasible for merchant to obtain the service.
+Liked by: Dr Links
+Number of likes: 1
+-----
+
+Replies:
+
+

@@ -1,1 +1,0 @@
-Never used Muadata, but before you commit, have you checked if Shopify's TOS plays nice with cloakers? Might save you some headaches down the road.

@@ -1,0 +1,94 @@
+2025-04-14 11:26:20,803 - INFO - Current time: 1744610180.8039384
+2025-04-14 11:26:20,805 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 11:26:20,806 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 11:26:20,806 - INFO - performing random action
+2025-04-14 11:26:20,807 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 11:26:20,808 - DEBUG - Scrolling page 4 times.
+2025-04-14 11:26:20,809 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:29,508 - DEBUG - Page scrolled.
+2025-04-14 11:26:31,510 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:33,034 - DEBUG - Page scrolled.
+2025-04-14 11:26:35,036 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:36,831 - DEBUG - Page scrolled.
+2025-04-14 11:26:38,833 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:40,256 - DEBUG - Page scrolled.
+2025-04-14 11:26:42,258 - DEBUG - Random scrolls complete.
+2025-04-14 11:26:42,259 - DEBUG - Scrolling page 4 times.
+2025-04-14 11:26:42,260 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:43,538 - DEBUG - Page scrolled.
+2025-04-14 11:26:45,540 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:46,629 - DEBUG - Page scrolled.
+2025-04-14 11:26:48,630 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:50,102 - DEBUG - Page scrolled.
+2025-04-14 11:26:52,104 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:53,361 - DEBUG - Page scrolled.
+2025-04-14 11:26:55,362 - DEBUG - Random scrolls complete.
+2025-04-14 11:27:06,724 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/video-production.170/
+2025-04-14 11:27:10,443 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/using-another-paypal-account-for-adobe.1595898/unread
+2025-04-14 11:27:10,444 - INFO - performing random action
+2025-04-14 11:27:19,606 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/using-another-paypal-account-for-adobe.1595898/unread
+2025-04-14 11:27:19,610 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/using-another-paypal-account-for-adobe.1595898/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 11:27:19,638 - INFO - Extracted thread title: Using another paypal account for adobe
+2025-04-14 11:27:19,638 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:27:19,639 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:21,022 - DEBUG - Page scrolled.
+2025-04-14 11:27:23,023 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:24,936 - DEBUG - Page scrolled.
+2025-04-14 11:27:26,937 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:28,370 - DEBUG - Page scrolled.
+2025-04-14 11:27:30,371 - DEBUG - Random scrolls complete.
+2025-04-14 11:27:32,414 - DEBUG - Scrolling page 1 times.
+2025-04-14 11:27:32,415 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:34,307 - DEBUG - Page scrolled.
+2025-04-14 11:27:37,308 - DEBUG - Random scrolls complete.
+2025-04-14 11:27:37,332 - DEBUG - Found 6 like buttons.
+2025-04-14 11:27:40,333 - INFO - Attempting to like 3 posts. There are 6 available.
+2025-04-14 11:27:41,037 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:27:41,069 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:27:41,071 - DEBUG - Liked post number 1 of 3.
+2025-04-14 11:27:46,626 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:27:46,633 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:27:46,634 - DEBUG - Liked post number 2 of 3.
+2025-04-14 11:27:51,653 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:27:51,661 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:27:51,662 - DEBUG - Liked post number 3 of 3.
+2025-04-14 11:27:55,924 - INFO - Liked 3 posts successfully.
+2025-04-14 11:27:55,925 - INFO - Liked 3 posts successfully.
+2025-04-14 11:27:58,123 - INFO - performing random action
+2025-04-14 11:27:58,129 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:27:58,130 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:28:00,006 - DEBUG - Page scrolled.
+2025-04-14 11:28:03,013 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:28:04,216 - DEBUG - Page scrolled.
+2025-04-14 11:28:07,218 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:28:08,611 - DEBUG - Page scrolled.
+2025-04-14 11:28:11,615 - DEBUG - Random scrolls complete.
+2025-04-14 11:28:13,858 - DEBUG - Total comments in the thread: 6
+2025-04-14 11:28:45,425 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Using another paypal account for adobe.txt
+2025-04-14 11:28:48,229 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 11:28:48,290 - DEBUG - Extracted main post content: If i use another paypal account with different details including a different name but with the same card thats used for other paypal account for adobe trail, will they charge me has anyone tried doing this?
+2025-04-14 11:28:52,035 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 11:28:52,038 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 11:28:54,850 - INFO - performing random action
+2025-04-14 11:28:54,851 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:28:54,853 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:28:54,902 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:28:54,986 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:28:54,994 - DEBUG - Text box scrolled into view
+2025-04-14 11:28:55,743 - DEBUG - Initializing actionchains
+2025-04-14 11:28:55,825 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2504}, size: {'height': 21, 'width': 68}
+2025-04-14 11:28:55,826 - DEBUG - Target click coordinates: (1265, 2514)
+2025-04-14 11:29:05,156 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 11:29:05,157 - DEBUG - Moving mouse to text box element.
+2025-04-14 11:29:05,158 - DEBUG - Clicking on the text box.
+2025-04-14 11:29:05,166 - DEBUG - Sending keys with content: I wouldn't risk it; they're pretty good at flagging that stuff, and you might get both accounts limited. Ever thought of using a prepaid card instead?
+
+2025-04-14 11:29:10,634 - DEBUG - Clicking on post reply button.
+2025-04-14 11:29:21,998 - DEBUG - Performed Actionchains
+2025-04-14 11:29:22,000 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 11:29:26,002 - INFO - Comment posted successfully.
+2025-04-14 11:29:26,005 - INFO - Task Completed!!
+2025-04-14 11:29:39,338 - INFO - Navigated back to the homepage.
+2025-04-14 11:29:41,928 - INFO - Attempting to clear memory and resources.
+2025-04-14 11:29:42,014 - INFO - Garbage collection completed.
+2025-04-14 11:29:42,016 - INFO - Waiting for 2200 seconds before next execution.

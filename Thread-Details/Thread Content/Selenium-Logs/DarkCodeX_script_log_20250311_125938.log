@@ -1,0 +1,106 @@
+2025-03-11 12:59:38,427 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_125938.log
+2025-03-11 12:59:38,431 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 12:59:38,452 - INFO - Loaded 133 visited threads from Thread_links.txt
+2025-03-11 12:59:38,458 - INFO - Successfully loaded links that was already visited!
+2025-03-11 12:59:38,475 - DEBUG - Scrolling page 5 times.
+2025-03-11 12:59:38,489 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 12:59:44,819 - DEBUG - Page scrolled.
+2025-03-11 12:59:46,821 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 12:59:48,312 - DEBUG - Page scrolled.
+2025-03-11 12:59:50,316 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 12:59:52,033 - DEBUG - Page scrolled.
+2025-03-11 12:59:54,035 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 12:59:55,978 - DEBUG - Page scrolled.
+2025-03-11 12:59:57,980 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 12:59:59,302 - DEBUG - Page scrolled.
+2025-03-11 13:00:01,306 - DEBUG - Random scrolls complete.
+2025-03-11 13:00:01,308 - DEBUG - Scrolling page 4 times.
+2025-03-11 13:00:01,311 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:02,585 - DEBUG - Page scrolled.
+2025-03-11 13:00:04,587 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:06,551 - DEBUG - Page scrolled.
+2025-03-11 13:00:08,552 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:10,065 - DEBUG - Page scrolled.
+2025-03-11 13:00:12,066 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:13,174 - DEBUG - Page scrolled.
+2025-03-11 13:00:15,175 - DEBUG - Random scrolls complete.
+2025-03-11 13:00:21,697 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-03-11 13:00:25,558 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-directory-website-create.1692204/unread
+2025-03-11 13:00:34,557 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-directory-website-create.1692204/unread
+2025-03-11 13:00:34,560 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-directory-website-create.1692204/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 13:00:34,608 - INFO - Extracted thread title: How to Directory Website Create
+2025-03-11 13:00:34,609 - DEBUG - Scrolling page 3 times.
+2025-03-11 13:00:34,610 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:35,713 - DEBUG - Page scrolled.
+2025-03-11 13:00:37,715 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:38,747 - DEBUG - Page scrolled.
+2025-03-11 13:00:40,749 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:42,173 - DEBUG - Page scrolled.
+2025-03-11 13:00:44,174 - DEBUG - Random scrolls complete.
+2025-03-11 13:00:46,484 - DEBUG - Scrolling page 3 times.
+2025-03-11 13:00:46,485 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:47,865 - DEBUG - Page scrolled.
+2025-03-11 13:00:50,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:52,053 - DEBUG - Page scrolled.
+2025-03-11 13:00:55,055 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:00:56,724 - DEBUG - Page scrolled.
+2025-03-11 13:00:59,727 - DEBUG - Random scrolls complete.
+2025-03-11 13:00:59,741 - DEBUG - Found 6 like buttons.
+2025-03-11 13:01:02,742 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-03-11 13:01:03,596 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 13:01:03,607 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 13:01:03,608 - DEBUG - Liked post number 1 of 2.
+2025-03-11 13:01:09,416 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 13:01:09,425 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 13:01:09,426 - DEBUG - Liked post number 2 of 2.
+2025-03-11 13:01:13,498 - INFO - Liked 2 posts successfully.
+2025-03-11 13:01:13,499 - INFO - Liked 2 posts successfully.
+2025-03-11 13:01:16,031 - DEBUG - Scrolling page 6 times.
+2025-03-11 13:01:16,031 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:01:17,319 - DEBUG - Page scrolled.
+2025-03-11 13:01:20,321 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:01:21,730 - DEBUG - Page scrolled.
+2025-03-11 13:01:24,732 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:01:26,047 - DEBUG - Page scrolled.
+2025-03-11 13:01:29,048 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:01:30,185 - DEBUG - Page scrolled.
+2025-03-11 13:01:33,188 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:01:34,752 - DEBUG - Page scrolled.
+2025-03-11 13:01:37,753 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:01:39,440 - DEBUG - Page scrolled.
+2025-03-11 13:01:42,442 - DEBUG - Random scrolls complete.
+2025-03-11 13:01:45,408 - DEBUG - Total comments in the thread: 6
+2025-03-11 13:02:06,545 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to Directory Website Create.txt
+2025-03-11 13:02:08,774 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 13:02:08,811 - DEBUG - Extracted main post content: Hey everyone, I need some guidance on my new project.
+
+I am creating a Directory website in India and I want to create it something like this:
+
+
+But I want to create it in WordPress. Can anyone suggest how I can create a Directory website like above in WordPress with most of Free plugins and themes?
+
+If anyone knows about it, then please share it with me.
+2025-03-11 13:02:14,110 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 13:02:14,111 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 13:02:16,671 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 13:02:16,673 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 13:02:16,704 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 13:02:16,750 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 13:02:16,758 - DEBUG - Text box scrolled into view
+2025-03-11 13:02:17,316 - DEBUG - Initializing actionchains
+2025-03-11 13:02:17,363 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3909}, size: {'height': 21, 'width': 68}
+2025-03-11 13:02:17,364 - DEBUG - Target click coordinates: (1121, 3919)
+2025-03-11 13:02:29,227 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 13:02:29,229 - DEBUG - Moving mouse to text box element.
+2025-03-11 13:02:29,231 - DEBUG - Clicking on the text box.
+2025-03-11 13:02:29,233 - DEBUG - Sending keys with content: Honestly, finding a *perfect* free theme might be tough, but have you looked into using a page builder plugin with a basic, lightweight theme? That could give you the most flexibility without costing anything.
+
+2025-03-11 13:02:34,813 - DEBUG - Clicking on post reply button.
+2025-03-11 13:02:46,054 - DEBUG - Performed Actionchains
+2025-03-11 13:02:46,055 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 13:02:50,057 - INFO - Comment posted successfully.
+2025-03-11 13:02:50,058 - INFO - Task Completed!!
+2025-03-11 13:03:02,253 - INFO - Navigated back to the homepage.
+2025-03-11 13:03:04,814 - INFO - Attempting to clear memory and resources.
+2025-03-11 13:03:04,845 - INFO - Garbage collection completed.
+2025-03-11 13:03:04,846 - INFO - Waiting for 1800 seconds before next execution.

@@ -1,0 +1,115 @@
+2025-04-14 11:32:16,767 - INFO - Current time: 1744610536.7672622
+2025-04-14 11:32:16,771 - INFO - Token expiration time: 1744621329.3814306
+2025-04-14 11:32:16,771 - INFO - Token expiration time: 1744621329.3814306
+2025-04-14 11:32:16,772 - INFO - Profile Emaxx: Opening random website: https://www.canva.com/en_in/
+2025-04-14 11:37:16,787 - ERROR - Profile Emaxx: Error opening random website: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798270C45+27221]
+	(No symbol) [0x00007FF7981D6F30]
+	(No symbol) [0x00007FF798055ADA]
+	(No symbol) [0x00007FF79804599C]
+	(No symbol) [0x00007FF79804568A]
+	(No symbol) [0x00007FF79804320F]
+	(No symbol) [0x00007FF798043CDF]
+	(No symbol) [0x00007FF79804FD5E]
+	(No symbol) [0x00007FF798065FE3]
+	(No symbol) [0x00007FF79806D11A]
+	(No symbol) [0x00007FF79804444D]
+	(No symbol) [0x00007FF798065D15]
+	(No symbol) [0x00007FF7981003C5]
+	(No symbol) [0x00007FF7980D7A73]
+	(No symbol) [0x00007FF7980A0750]
+	(No symbol) [0x00007FF7980A1A03]
+	GetHandleVerifier [0x00007FF7985D6E2D+3591229]
+	GetHandleVerifier [0x00007FF7985EE45A+3687018]
+	GetHandleVerifier [0x00007FF7985E3323+3641651]
+	GetHandleVerifier [0x00007FF79833B6BA+857290]
+	(No symbol) [0x00007FF7981E230F]
+	(No symbol) [0x00007FF7981DE304]
+	(No symbol) [0x00007FF7981DE4A6]
+	(No symbol) [0x00007FF7981CD469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-14 11:37:16,830 - INFO - performing random action
+2025-04-14 11:37:16,832 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 11:37:16,833 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:37:16,833 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:37:18,695 - DEBUG - Page scrolled.
+2025-04-14 11:37:20,699 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:37:22,325 - DEBUG - Page scrolled.
+2025-04-14 11:37:24,329 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:37:26,234 - DEBUG - Page scrolled.
+2025-04-14 11:37:28,235 - DEBUG - Random scrolls complete.
+2025-04-14 11:37:28,237 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:37:28,238 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:37:29,541 - DEBUG - Page scrolled.
+2025-04-14 11:37:31,543 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:37:33,423 - DEBUG - Page scrolled.
+2025-04-14 11:37:35,425 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:37:37,372 - DEBUG - Page scrolled.
+2025-04-14 11:37:39,374 - DEBUG - Random scrolls complete.
+2025-04-14 11:37:51,785 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-14 11:37:55,944 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/myspace-still-active.1620910/
+2025-04-14 11:37:55,944 - INFO - performing random action
+2025-04-14 11:38:12,263 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/myspace-still-active.1620910/
+2025-04-14 11:38:12,272 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/myspace-still-active.1620910/' to visited threads file 'Thread_links.txt'.
+2025-04-14 11:38:12,334 - INFO - Extracted thread title: Myspace still active
+2025-04-14 11:38:12,335 - DEBUG - Scrolling page 2 times.
+2025-04-14 11:38:12,335 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:38:13,755 - DEBUG - Page scrolled.
+2025-04-14 11:38:15,758 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:38:17,412 - DEBUG - Page scrolled.
+2025-04-14 11:38:19,414 - DEBUG - Random scrolls complete.
+2025-04-14 11:38:21,640 - DEBUG - Scrolling page 1 times.
+2025-04-14 11:38:21,642 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:38:23,283 - DEBUG - Page scrolled.
+2025-04-14 11:38:26,285 - DEBUG - Random scrolls complete.
+2025-04-14 11:38:26,340 - DEBUG - Found 20 like buttons.
+2025-04-14 11:38:29,342 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-14 11:38:30,300 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:38:30,310 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:38:30,311 - DEBUG - Liked post number 1 of 1.
+2025-04-14 11:38:34,560 - INFO - Liked 1 posts successfully.
+2025-04-14 11:38:34,565 - INFO - Liked 1 posts successfully.
+2025-04-14 11:38:37,097 - INFO - performing random action
+2025-04-14 11:38:37,098 - DEBUG - Scrolling page 4 times.
+2025-04-14 11:38:37,100 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:38:39,057 - DEBUG - Page scrolled.
+2025-04-14 11:38:42,058 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:38:43,497 - DEBUG - Page scrolled.
+2025-04-14 11:38:46,499 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:38:47,927 - DEBUG - Page scrolled.
+2025-04-14 11:38:50,929 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:38:52,296 - DEBUG - Page scrolled.
+2025-04-14 11:38:55,296 - DEBUG - Random scrolls complete.
+2025-04-14 11:38:58,013 - DEBUG - Total comments in the thread: 20
+2025-04-14 11:41:44,180 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Myspace still active.txt
+2025-04-14 11:41:47,076 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 11:41:47,142 - DEBUG - Extracted main post content: I think facebook almost killed myspace. Is it still active?
+2025-04-14 11:41:50,378 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 11:41:50,382 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 11:41:52,944 - INFO - performing random action
+2025-04-14 11:41:52,947 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:41:52,948 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:41:52,966 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:41:53,005 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:41:53,016 - DEBUG - Text box scrolled into view
+2025-04-14 11:41:53,769 - DEBUG - Initializing actionchains
+2025-04-14 11:41:53,849 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6170}, size: {'height': 21, 'width': 68}
+2025-04-14 11:41:53,849 - DEBUG - Target click coordinates: (1265, 6180)
+2025-04-14 11:42:09,630 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 11:42:09,635 - DEBUG - Moving mouse to text box element.
+2025-04-14 11:42:09,637 - DEBUG - Clicking on the text box.
+2025-04-14 11:42:09,639 - DEBUG - Sending keys with content: Myspace is kinda like that old high school friend you occasionally stalk online – it's still kicking, but definitely not the prom king anymore.
+
+2025-04-14 11:42:15,205 - DEBUG - Clicking on post reply button.
+2025-04-14 11:42:26,401 - DEBUG - Performed Actionchains
+2025-04-14 11:42:26,402 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 11:42:30,405 - INFO - Comment posted successfully.
+2025-04-14 11:42:30,407 - INFO - Task Completed!!
+2025-04-14 11:42:38,413 - INFO - Navigated back to the homepage.
+2025-04-14 11:42:40,731 - INFO - Attempting to clear memory and resources.
+2025-04-14 11:42:40,797 - INFO - Garbage collection completed.
+2025-04-14 11:42:40,798 - INFO - Waiting for 2200 seconds before next execution.

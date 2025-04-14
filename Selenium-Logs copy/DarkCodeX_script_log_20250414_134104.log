@@ -1,0 +1,118 @@
+2025-04-14 13:41:04,498 - INFO - Current time: 1744618264.4985404
+2025-04-14 13:41:04,499 - INFO - Token expiration time: 1744621471.1287334
+2025-04-14 13:41:04,500 - INFO - Token expiration time: 1744621471.1287334
+2025-04-14 13:41:04,501 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-14 13:41:18,508 - INFO - Profile DarkCodeX: Pausing for 48.82 seconds...
+2025-04-14 13:42:07,331 - INFO - Profile DarkCodeX: Resuming...
+2025-04-14 13:42:07,361 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-14 13:42:07,369 - INFO - performing random action
+2025-04-14 13:42:07,372 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:42:07,374 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:42:07,375 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:42:08,623 - DEBUG - Page scrolled.
+2025-04-14 13:42:10,628 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:42:12,208 - DEBUG - Page scrolled.
+2025-04-14 13:42:14,210 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:42:15,665 - DEBUG - Page scrolled.
+2025-04-14 13:42:17,667 - DEBUG - Random scrolls complete.
+2025-04-14 13:42:17,669 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:42:17,670 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:42:19,276 - DEBUG - Page scrolled.
+2025-04-14 13:42:21,282 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:42:23,202 - DEBUG - Page scrolled.
+2025-04-14 13:42:25,205 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:42:27,018 - DEBUG - Page scrolled.
+2025-04-14 13:42:29,019 - DEBUG - Random scrolls complete.
+2025-04-14 13:42:34,739 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-14 13:42:38,577 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/wordpress-help.1679922/unread
+2025-04-14 13:42:38,578 - INFO - performing random action
+2025-04-14 13:42:49,792 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/wordpress-help.1679922/unread
+2025-04-14 13:42:49,800 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/wordpress-help.1679922/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 13:42:49,902 - INFO - Extracted thread title: Wordpress help!!!
+2025-04-14 13:42:49,903 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:42:49,903 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:42:51,402 - DEBUG - Page scrolled.
+2025-04-14 13:42:53,406 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:42:54,693 - DEBUG - Page scrolled.
+2025-04-14 13:42:56,697 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:42:58,127 - DEBUG - Page scrolled.
+2025-04-14 13:43:00,129 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:43:01,252 - DEBUG - Page scrolled.
+2025-04-14 13:43:03,254 - DEBUG - Random scrolls complete.
+2025-04-14 13:43:05,303 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:43:05,305 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:43:06,731 - DEBUG - Page scrolled.
+2025-04-14 13:43:09,735 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:43:11,464 - DEBUG - Page scrolled.
+2025-04-14 13:43:14,466 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:43:15,730 - DEBUG - Page scrolled.
+2025-04-14 13:43:18,735 - DEBUG - Random scrolls complete.
+2025-04-14 13:43:18,785 - DEBUG - Found 5 like buttons.
+2025-04-14 13:43:21,786 - INFO - Attempting to like 4 posts. There are 5 available.
+2025-04-14 13:43:22,566 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:43:22,621 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:43:22,623 - DEBUG - Liked post number 1 of 4.
+2025-04-14 13:43:27,589 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:43:27,618 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:43:27,620 - DEBUG - Liked post number 2 of 4.
+2025-04-14 13:43:32,707 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:43:32,738 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:43:32,740 - DEBUG - Liked post number 3 of 4.
+2025-04-14 13:43:38,127 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:43:38,157 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:43:38,159 - DEBUG - Liked post number 4 of 4.
+2025-04-14 13:43:42,949 - INFO - Liked 4 posts successfully.
+2025-04-14 13:43:42,953 - INFO - Liked 4 posts successfully.
+2025-04-14 13:43:45,284 - INFO - performing random action
+2025-04-14 13:43:45,287 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:43:45,295 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:43:46,846 - DEBUG - Page scrolled.
+2025-04-14 13:43:49,862 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:43:51,205 - DEBUG - Page scrolled.
+2025-04-14 13:43:54,209 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:43:55,582 - DEBUG - Page scrolled.
+2025-04-14 13:43:58,583 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:44:00,316 - DEBUG - Page scrolled.
+2025-04-14 13:44:03,318 - DEBUG - Random scrolls complete.
+2025-04-14 13:44:05,833 - DEBUG - Total comments in the thread: 5
+2025-04-14 13:44:16,366 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Wordpress help!!!.txt
+2025-04-14 13:44:18,946 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:44:19,037 - DEBUG - Extracted main post content: Pls i need a wordpress theme for a job niche website and any script to auto post job contents.
+2025-04-14 13:44:22,706 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:44:22,709 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:44:25,490 - INFO - performing random action
+2025-04-14 13:44:25,492 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:44:25,494 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:44:25,532 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:44:25,577 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:44:25,587 - DEBUG - Text box scrolled into view
+2025-04-14 13:44:26,296 - DEBUG - Initializing actionchains
+2025-04-14 13:44:26,381 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2535}, size: {'height': 21, 'width': 68}
+2025-04-14 13:44:26,383 - DEBUG - Target click coordinates: (1265, 2545)
+2025-04-14 13:44:35,233 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:44:35,235 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:44:35,237 - DEBUG - Clicking on the text box.
+2025-04-14 13:44:35,240 - DEBUG - Sending keys with content: Honestly, skip the auto-post; it's usually pretty obvious and hurts credibility. Check out ThemeForest for job board themes, but make sure it's mobile-friendly and customizable – you'll want to stand out.
+
+2025-04-14 13:44:40,520 - DEBUG - Clicking on post reply button.
+2025-04-14 13:44:51,879 - DEBUG - Performed Actionchains
+2025-04-14 13:44:51,880 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 13:44:55,882 - INFO - Comment posted successfully.
+2025-04-14 13:44:55,884 - INFO - Task Completed!!
+2025-04-14 13:45:03,944 - INFO - Navigated back to the homepage.
+2025-04-14 13:45:06,279 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:45:06,355 - INFO - Garbage collection completed.
+2025-04-14 13:45:06,359 - INFO - Waiting for 2200 seconds before next execution.
+2025-04-14 14:21:46,362 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-14 14:21:46,363 - INFO - Stopping browser for profile: DarkCodeX...
+2025-04-14 14:21:46,364 - INFO - Refreshing token before stopping profile...
+2025-04-14 14:21:46,364 - INFO - Refreshing token for DarkCodeX...
+2025-04-14 14:21:47,031 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-14 14:21:47,032 - INFO - Calculated token expiration time: 1744631507.032515
+2025-04-14 14:21:47,033 - INFO - Profile DarkCodeX: Successfully logged in.
+2025-04-14 14:21:47,034 - INFO - Token refreshed successfully before stopping.
+2025-04-14 14:21:47,034 - INFO - Profile DarkCodeX: Attempting to stop (Attempt 1/3)...
+2025-04-14 14:21:47,040 - INFO - Profile DarkCodeX: Browser closed successfully in 0.01 seconds.
+2025-04-14 14:21:50,776 - INFO - Profile DarkCodeX: API call took 3.74 seconds.
+2025-04-14 14:21:50,780 - INFO - Profile DarkCodeX: Stopped successfully.
+2025-04-14 14:21:50,783 - INFO - Browser stopped successfully for profile: DarkCodeX.

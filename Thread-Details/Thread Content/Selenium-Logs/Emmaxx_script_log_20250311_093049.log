@@ -1,0 +1,10 @@
+2025-03-11 09:30:49,354 - INFO - Starting automation for profile: Emmaxx
+2025-03-11 09:30:50,530 - INFO - Profile Emmaxx: Successfully logged in.
+2025-03-11 09:30:50,533 - INFO - Profile Emmaxx: Starting profile ece3d7b0-6dd3-4189-94c7-20c2dfa82943...
+2025-03-11 09:30:55,496 - INFO - Profile Emmaxx: Extracted port: 60405
+2025-03-11 09:30:56,848 - INFO - Profile Emmaxx: Started on port 60405.
+2025-03-11 09:38:22,394 - INFO - Stopping browser for profile: Emmaxx...
+2025-03-11 09:38:22,397 - INFO - Profile Emmaxx: Attempting to stop...
+2025-03-11 09:38:22,405 - INFO - Profile Emmaxx: Browser closed successfully.
+2025-03-11 09:38:25,577 - INFO - Profile Emmaxx: Stopped successfully.
+2025-03-11 09:38:25,583 - INFO - Browser stopped successfully for profile: Emmaxx.

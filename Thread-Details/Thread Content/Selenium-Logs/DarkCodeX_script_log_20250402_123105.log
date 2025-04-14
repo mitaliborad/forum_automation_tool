@@ -1,0 +1,102 @@
+2025-04-02 12:31:05,808 - INFO - Current time: 1743577265.8083322
+2025-04-02 12:31:05,810 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 12:31:05,813 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 12:31:05,816 - INFO - Profile DarkCodeX: Minimizing window...
+2025-04-02 12:31:05,832 - INFO - Profile DarkCodeX: Window minimized. Pausing for 19.15 seconds...
+2025-04-02 12:31:25,083 - INFO - Profile DarkCodeX: Resuming after minimize...
+2025-04-02 12:31:25,086 - INFO - performing random action
+2025-04-02 12:31:25,089 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 12:31:25,091 - DEBUG - Scrolling page 2 times.
+2025-04-02 12:31:25,094 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:31:27,020 - DEBUG - Page scrolled.
+2025-04-02 12:31:29,021 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:31:30,471 - DEBUG - Page scrolled.
+2025-04-02 12:31:32,473 - DEBUG - Random scrolls complete.
+2025-04-02 12:31:32,474 - DEBUG - Scrolling page 3 times.
+2025-04-02 12:31:32,474 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:31:33,995 - DEBUG - Page scrolled.
+2025-04-02 12:31:35,997 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:31:37,525 - DEBUG - Page scrolled.
+2025-04-02 12:31:39,527 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:31:40,890 - DEBUG - Page scrolled.
+2025-04-02 12:31:42,896 - DEBUG - Random scrolls complete.
+2025-04-02 12:31:53,193 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-04-02 12:31:56,783 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-will-be-the-next-shock-in-ai.1575957/unread
+2025-04-02 12:31:56,784 - INFO - performing random action
+2025-04-02 12:32:23,906 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-will-be-the-next-shock-in-ai.1575957/unread
+2025-04-02 12:32:23,908 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-will-be-the-next-shock-in-ai.1575957/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 12:32:23,939 - INFO - Extracted thread title: What will be the next shock in AI
+2025-04-02 12:32:23,940 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:32:23,941 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:32:25,308 - DEBUG - Page scrolled.
+2025-04-02 12:32:27,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:32:28,474 - DEBUG - Page scrolled.
+2025-04-02 12:32:30,476 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:32:32,377 - DEBUG - Page scrolled.
+2025-04-02 12:32:34,380 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:32:35,603 - DEBUG - Page scrolled.
+2025-04-02 12:32:37,606 - DEBUG - Random scrolls complete.
+2025-04-02 12:32:39,747 - DEBUG - Scrolling page 3 times.
+2025-04-02 12:32:39,748 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:32:41,754 - DEBUG - Page scrolled.
+2025-04-02 12:32:44,757 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:32:46,166 - DEBUG - Page scrolled.
+2025-04-02 12:32:49,169 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:32:50,195 - DEBUG - Page scrolled.
+2025-04-02 12:32:53,198 - DEBUG - Random scrolls complete.
+2025-04-02 12:32:53,217 - DEBUG - Found 20 like buttons.
+2025-04-02 12:32:56,219 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-02 12:32:56,838 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:32:56,869 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:32:56,869 - DEBUG - Liked post number 1 of 4.
+2025-04-02 12:33:02,177 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:33:02,192 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:33:02,193 - DEBUG - Liked post number 2 of 4.
+2025-04-02 12:33:07,651 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:33:07,672 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:33:07,674 - DEBUG - Liked post number 3 of 4.
+2025-04-02 12:33:12,911 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:33:12,920 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:33:12,921 - DEBUG - Liked post number 4 of 4.
+2025-04-02 12:33:17,183 - INFO - Liked 4 posts successfully.
+2025-04-02 12:33:17,184 - INFO - Liked 4 posts successfully.
+2025-04-02 12:33:19,454 - INFO - performing random action
+2025-04-02 12:33:19,456 - DEBUG - Scrolling page 3 times.
+2025-04-02 12:33:19,457 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:33:20,780 - DEBUG - Page scrolled.
+2025-04-02 12:33:23,789 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:33:25,393 - DEBUG - Page scrolled.
+2025-04-02 12:33:28,397 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:33:30,398 - DEBUG - Page scrolled.
+2025-04-02 12:33:33,400 - DEBUG - Random scrolls complete.
+2025-04-02 12:33:36,141 - DEBUG - Total comments in the thread: 20
+2025-04-02 12:35:55,491 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What will be the next shock in AI.txt
+2025-04-02 12:35:57,543 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 12:35:57,595 - DEBUG - Extracted main post content: 2023: ChatGPT and LLMs and image generators
+2024: SORA and video creators
+2025: ?
+2025-04-02 12:36:00,939 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 12:36:00,942 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 12:36:03,234 - INFO - performing random action
+2025-04-02 12:36:03,235 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:36:03,237 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:36:03,261 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:36:03,307 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:36:03,317 - DEBUG - Text box scrolled into view
+2025-04-02 12:36:04,316 - DEBUG - Initializing actionchains
+2025-04-02 12:36:04,362 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6981}, size: {'height': 21, 'width': 68}
+2025-04-02 12:36:04,363 - DEBUG - Target click coordinates: (1121, 6991)
+2025-04-02 12:36:22,001 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 12:36:22,002 - DEBUG - Moving mouse to text box element.
+2025-04-02 12:36:22,003 - DEBUG - Clicking on the text box.
+2025-04-02 12:36:22,003 - DEBUG - Sending keys with content: 2025 will be the year of agents doing actual stuff, not just spitting out text.
+
+2025-04-02 12:36:27,421 - DEBUG - Clicking on post reply button.
+2025-04-02 12:36:28,511 - DEBUG - Performed Actionchains
+2025-04-02 12:36:28,512 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 12:36:32,513 - INFO - Comment posted successfully.
+2025-04-02 12:36:32,521 - INFO - Task Completed!!
+2025-04-02 12:36:40,591 - INFO - Navigated back to the homepage.
+2025-04-02 12:36:42,688 - INFO - Attempting to clear memory and resources.
+2025-04-02 12:36:42,755 - INFO - Garbage collection completed.
+2025-04-02 12:36:42,758 - INFO - Waiting for 2000 seconds before next execution.

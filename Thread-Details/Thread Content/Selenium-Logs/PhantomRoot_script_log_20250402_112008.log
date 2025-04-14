@@ -1,0 +1,98 @@
+2025-04-02 11:20:08,719 - INFO - Current time: 1743573008.7190146
+2025-04-02 11:20:08,735 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 11:20:08,745 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 11:20:08,747 - INFO - performing random action
+2025-04-02 11:20:08,749 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 11:20:08,752 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:20:08,757 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:20:21,317 - DEBUG - Page scrolled.
+2025-04-02 11:20:23,320 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:20:25,172 - DEBUG - Page scrolled.
+2025-04-02 11:20:27,174 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:20:28,679 - DEBUG - Page scrolled.
+2025-04-02 11:20:30,682 - DEBUG - Random scrolls complete.
+2025-04-02 11:20:30,684 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:20:30,686 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:20:31,941 - DEBUG - Page scrolled.
+2025-04-02 11:20:33,943 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:20:35,507 - DEBUG - Page scrolled.
+2025-04-02 11:20:37,514 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:20:38,643 - DEBUG - Page scrolled.
+2025-04-02 11:20:40,645 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:20:41,713 - DEBUG - Page scrolled.
+2025-04-02 11:20:43,715 - DEBUG - Random scrolls complete.
+2025-04-02 11:21:01,466 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-02 11:21:06,053 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/alternatives-to-figma.1700822/unread
+2025-04-02 11:21:06,054 - INFO - performing random action
+2025-04-02 11:21:21,042 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/alternatives-to-figma.1700822/unread
+2025-04-02 11:21:21,045 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/alternatives-to-figma.1700822/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 11:21:21,098 - INFO - Extracted thread title: Alternatives to Figma
+2025-04-02 11:21:21,099 - DEBUG - Scrolling page 2 times.
+2025-04-02 11:21:21,099 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:21:22,832 - DEBUG - Page scrolled.
+2025-04-02 11:21:24,835 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:21:26,695 - DEBUG - Page scrolled.
+2025-04-02 11:21:28,697 - DEBUG - Random scrolls complete.
+2025-04-02 11:21:31,254 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:21:31,255 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:21:33,016 - DEBUG - Page scrolled.
+2025-04-02 11:21:36,019 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:21:37,239 - DEBUG - Page scrolled.
+2025-04-02 11:21:40,241 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:21:41,402 - DEBUG - Page scrolled.
+2025-04-02 11:21:44,434 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:21:46,383 - DEBUG - Page scrolled.
+2025-04-02 11:21:49,384 - DEBUG - Random scrolls complete.
+2025-04-02 11:21:49,400 - DEBUG - Found 2 like buttons.
+2025-04-02 11:21:52,402 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-04-02 11:21:52,992 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:21:53,011 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:21:53,012 - DEBUG - Liked post number 1 of 1.
+2025-04-02 11:21:57,907 - INFO - Liked 1 posts successfully.
+2025-04-02 11:21:57,908 - INFO - Liked 1 posts successfully.
+2025-04-02 11:22:00,863 - INFO - Profile PhantomRoot: Pausing for 43.23 seconds...
+2025-04-02 11:22:44,104 - INFO - Profile PhantomRoot: Resuming...
+2025-04-02 11:22:44,106 - INFO - performing random action
+2025-04-02 11:22:44,108 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:22:44,110 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:22:46,060 - DEBUG - Page scrolled.
+2025-04-02 11:22:49,065 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:22:50,554 - DEBUG - Page scrolled.
+2025-04-02 11:22:53,558 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:22:55,488 - DEBUG - Page scrolled.
+2025-04-02 11:22:58,489 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:23:00,147 - DEBUG - Page scrolled.
+2025-04-02 11:23:03,148 - DEBUG - Random scrolls complete.
+2025-04-02 11:23:06,054 - DEBUG - Total comments in the thread: 2
+2025-04-02 11:23:06,271 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Alternatives to Figma.txt
+2025-04-02 11:23:08,862 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 11:23:08,892 - DEBUG - Extracted main post content: Looking for quick recommendations on tools similar to Figma for UI/UX design—something affordable, user-friendly, and collaborative. What’s out there?
+2025-04-02 11:23:12,735 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 11:23:12,739 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 11:23:14,987 - INFO - Profile PhantomRoot: Opening random website: https://www.w3schools.com/
+2025-04-02 11:23:54,269 - INFO - Profile PhantomRoot: Pausing for 39.31 seconds...
+2025-04-02 11:24:33,582 - INFO - Profile PhantomRoot: Resuming...
+2025-04-02 11:24:33,661 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-02 11:24:33,663 - INFO - performing random action
+2025-04-02 11:24:33,664 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:24:33,665 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:24:33,691 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:24:33,755 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:24:33,762 - DEBUG - Text box scrolled into view
+2025-04-02 11:24:34,725 - DEBUG - Initializing actionchains
+2025-04-02 11:24:34,812 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1549}, size: {'height': 21, 'width': 68}
+2025-04-02 11:24:34,813 - DEBUG - Target click coordinates: (1121, 1559)
+2025-04-02 11:24:40,969 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 11:24:40,971 - DEBUG - Moving mouse to text box element.
+2025-04-02 11:24:40,972 - DEBUG - Clicking on the text box.
+2025-04-02 11:24:40,975 - DEBUG - Sending keys with content: Have you checked out Sketch or Adobe XD? Both are pretty solid and often have deals for new users.
+
+2025-04-02 11:24:46,400 - DEBUG - Clicking on post reply button.
+2025-04-02 11:24:47,599 - DEBUG - Performed Actionchains
+2025-04-02 11:24:47,605 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 11:24:51,607 - INFO - Comment posted successfully.
+2025-04-02 11:24:51,608 - INFO - Task Completed!!
+2025-04-02 11:25:09,191 - INFO - Navigated back to the homepage.
+2025-04-02 11:25:11,303 - INFO - Attempting to clear memory and resources.
+2025-04-02 11:25:11,387 - INFO - Garbage collection completed.
+2025-04-02 11:25:11,389 - INFO - Waiting for 2000 seconds before next execution.

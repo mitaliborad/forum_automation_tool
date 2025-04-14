@@ -1,0 +1,1 @@
+Huh, that's a weird one. Have you tried comparing the TCP settings between your desktop setup and the proxy server to see what's causing the discrepancy?

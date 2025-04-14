@@ -1,0 +1,108 @@
+2025-03-13 16:16:55,145 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_161655.log
+2025-03-13 16:16:55,147 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 16:16:55,172 - INFO - Loaded 211 visited threads from Thread_links.txt
+2025-03-13 16:16:55,174 - INFO - Successfully loaded links that was already visited!
+2025-03-13 16:16:55,176 - DEBUG - Scrolling page 5 times.
+2025-03-13 16:16:55,178 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:16:56,355 - DEBUG - Page scrolled.
+2025-03-13 16:16:58,357 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:16:59,441 - DEBUG - Page scrolled.
+2025-03-13 16:17:01,443 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:02,849 - DEBUG - Page scrolled.
+2025-03-13 16:17:04,855 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:06,853 - DEBUG - Page scrolled.
+2025-03-13 16:17:08,855 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:10,762 - DEBUG - Page scrolled.
+2025-03-13 16:17:12,767 - DEBUG - Random scrolls complete.
+2025-03-13 16:17:12,769 - DEBUG - Scrolling page 4 times.
+2025-03-13 16:17:12,777 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:14,053 - DEBUG - Page scrolled.
+2025-03-13 16:17:16,056 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:17,710 - DEBUG - Page scrolled.
+2025-03-13 16:17:19,712 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:20,770 - DEBUG - Page scrolled.
+2025-03-13 16:17:22,773 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:24,117 - DEBUG - Page scrolled.
+2025-03-13 16:17:26,119 - DEBUG - Random scrolls complete.
+2025-03-13 16:17:32,455 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-03-13 16:17:37,112 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/tiktok-reupload.1691649/unread
+2025-03-13 16:17:45,497 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/tiktok-reupload.1691649/unread
+2025-03-13 16:17:45,499 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/tiktok-reupload.1691649/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 16:17:45,534 - INFO - Extracted thread title: Tiktok Reupload
+2025-03-13 16:17:45,538 - DEBUG - Scrolling page 4 times.
+2025-03-13 16:17:45,539 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:46,647 - DEBUG - Page scrolled.
+2025-03-13 16:17:48,654 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:50,524 - DEBUG - Page scrolled.
+2025-03-13 16:17:52,533 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:54,368 - DEBUG - Page scrolled.
+2025-03-13 16:17:56,393 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:17:58,078 - DEBUG - Page scrolled.
+2025-03-13 16:18:00,082 - DEBUG - Random scrolls complete.
+2025-03-13 16:18:02,088 - DEBUG - Scrolling page 3 times.
+2025-03-13 16:18:02,101 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:03,543 - DEBUG - Page scrolled.
+2025-03-13 16:18:06,545 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:07,617 - DEBUG - Page scrolled.
+2025-03-13 16:18:10,619 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:12,243 - DEBUG - Page scrolled.
+2025-03-13 16:18:15,245 - DEBUG - Random scrolls complete.
+2025-03-13 16:18:15,287 - DEBUG - Found 12 like buttons.
+2025-03-13 16:18:18,289 - INFO - Attempting to like 3 posts. There are 12 available.
+2025-03-13 16:18:18,830 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:18:18,855 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:18:18,857 - DEBUG - Liked post number 1 of 3.
+2025-03-13 16:18:24,120 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:18:24,144 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:18:24,147 - DEBUG - Liked post number 2 of 3.
+2025-03-13 16:18:29,588 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:18:29,598 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:18:29,599 - DEBUG - Liked post number 3 of 3.
+2025-03-13 16:18:33,716 - INFO - Liked 3 posts successfully.
+2025-03-13 16:18:33,717 - INFO - Liked 3 posts successfully.
+2025-03-13 16:18:36,598 - DEBUG - Scrolling page 7 times.
+2025-03-13 16:18:36,599 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:38,355 - DEBUG - Page scrolled.
+2025-03-13 16:18:41,357 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:43,029 - DEBUG - Page scrolled.
+2025-03-13 16:18:46,032 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:47,513 - DEBUG - Page scrolled.
+2025-03-13 16:18:50,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:51,670 - DEBUG - Page scrolled.
+2025-03-13 16:18:54,672 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:18:56,052 - DEBUG - Page scrolled.
+2025-03-13 16:18:59,053 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:19:00,245 - DEBUG - Page scrolled.
+2025-03-13 16:19:03,249 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:19:04,498 - DEBUG - Page scrolled.
+2025-03-13 16:19:07,500 - DEBUG - Random scrolls complete.
+2025-03-13 16:19:09,692 - DEBUG - Total comments in the thread: 12
+2025-03-13 16:20:33,228 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Tiktok Reupload.txt
+2025-03-13 16:20:36,017 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 16:20:36,058 - DEBUG - Extracted main post content: I started reposting tiktoks of a lady and im having atleast 100 profile view per video upload. pls how can i monetize this? i have about 10 Dms as well.
+
+i cnt even attach a link yet as its just 50 followers. I bought a domain redirected to linktree where i attach my crakrevenue link buh it has a warning sign on it before users can decide if to click it or not (because its adults). Is there any linktree alternative that wnt put any notice on my link? how can i monetize this profile views better. and the dms as well
+2025-03-13 16:20:40,884 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 16:20:40,887 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 16:20:43,414 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:20:43,415 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:20:43,440 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:20:43,494 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:20:43,503 - DEBUG - Text box scrolled into view
+2025-03-13 16:20:44,164 - DEBUG - Initializing actionchains
+2025-03-13 16:20:44,193 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4563}, size: {'height': 21, 'width': 68}
+2025-03-13 16:20:44,194 - DEBUG - Target click coordinates: (1121, 4573)
+2025-03-13 16:20:57,505 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 16:20:57,506 - DEBUG - Moving mouse to text box element.
+2025-03-13 16:20:57,507 - DEBUG - Clicking on the text box.
+2025-03-13 16:20:57,510 - DEBUG - Sending keys with content: Forget the dating offers for now. Can you pivot to showcasing similar creators and build a bigger audience before pushing any links?
+
+2025-03-13 16:21:02,618 - DEBUG - Clicking on post reply button.
+2025-03-13 16:21:03,862 - DEBUG - Performed Actionchains
+2025-03-13 16:21:03,863 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 16:21:07,869 - INFO - Comment posted successfully.
+2025-03-13 16:21:07,870 - INFO - Task Completed!!
+2025-03-13 16:21:12,717 - INFO - Navigated back to the homepage.
+2025-03-13 16:21:15,241 - INFO - Attempting to clear memory and resources.
+2025-03-13 16:21:15,279 - INFO - Garbage collection completed.
+2025-03-13 16:21:15,280 - INFO - Waiting for 120 seconds before next execution.

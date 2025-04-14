@@ -1,0 +1,224 @@
+--- Main Post Title ---
+Please help with Google scrapping
+
+Total comments in the thread: 12
+
+Topic User: santis
+Topic: Hi!
+I need to scrap domain names URLs from Google search like this: I will provide a keyword, ex."physiocare" and it will give me domain name results containing this keyword, ex: physiocaretz.com, physiocarehealthsolutions.com etc.
+I have attached 2 screenshots.
+
+Please suggest me tools and ways to do that.
+Attachments
+ph.png
+myl.png
+Liked by: You, PhantomRoot
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: redwatermelon
+Topic: Use scrapebox to help you with that.
+Liked by: You, PhantomRoot
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Wilson Grant Fisk
+Topic: If you don't want anything fancy, then Simple SERP Scraper should be OK
+https://urlprofiler.com/free-tools/
+Liked by: GameLabXtention
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: amberlawan37
+Topic: You can scrape Google search results using Beautiful Soup.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: santis
+Topic: Thank you for your messages!
+
+I've checked those tools, unfortunately, they don't do what I wanted
+
+I hope I can find someone who can make a tool like this...
+Is there a thread for custom tools?
+
+Thank you!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Wilson Grant Fisk
+Topic: santis said:
+Thank you for your messages!
+
+I've checked those tools, unfortunately, they don't do what I wanted
+
+I hope I can find someone who can make a tool like this...
+Is there a thread for custom tools?
+
+Thank you!
+Click to expand...
+
+Use the WtB or HaF sections, somebody should be able to write you a script/app/program.
+
+https://www.blackhatworld.com/forums/hire-a-freelancer.76/
+https://www.blackhatworld.com/forums/want-to-buy.92/
+Liked by: GameLabXtention
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Wilson Grant Fisk
+Topic: i have a tool for this, kindly send me a pm
+
+Share the tool in the download section, you can't sell via PM unless you upgrade.
+Liked by: GameLabXtention, RoiBox, BassTrackerBoats
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: loopline
+Topic: Your just asking about filtering it sounds like. If you only want domain names that contain your keyword, then you either need to do 1 of 2 things.
+
+1 - scrape google for inurl:keyword
+
+and that should get you pretty close, you could try some other variants.
+
+2 - filtering. So if you want to scrape a list of urls just based on your keywords - because that gets your ips banned less - then you could simply just "remove urls not containing" and give it a list of your keywords and it will remove anything that doesn't have your keyword in it.
+
+
+
+Scrapebox can definitely do all of this.
+
+If you use another tool you could just take the results and feed them to chat gpt and ask it to do the filtering.
+
+Else probably there is some online tool that would allow you to do filtering of scraped urls.
+GSA Website Contact and Scrapebox Contact Form Lists
+Scrapebox AA List limited slots available
+Make Money With Scrapebox, GSA and other Automation Software - Youtube
+Liked by: GameLabXtention, Wilson Grant Fisk
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: santis
+Topic: loopline said:
+Your just asking about filtering it sounds like. If you only want domain names that contain your keyword, then you either need to do 1 of 2 things.
+
+1 - scrape google for inurl:keyword
+
+and that should get you pretty close, you could try some other variants.
+
+2 - filtering. So if you want to scrape a list of urls just based on your keywords - because that gets your ips banned less - then you could simply just "remove urls not containing" and give it a list of your keywords and it will remove anything that doesn't have your keyword in it.
+
+
+
+Scrapebox can definitely do all of this.
+
+If you use another tool you could just take the results and feed them to chat gpt and ask it to do the filtering.
+
+Else probably there is some online tool that would allow you to do filtering of scraped urls.
+Click to expand...
+Loopline, thank you for your reply!
+
+1. inurl doesn't work here, because, in my case, keywords from URL is different from keywords from domain names,
+Good example of "physiocare" keyword in domain name: physiocarepro.com
+Bad example of "physiocare" keyword in URL: nature.com/physiocare-services
+
+Basically, I need to scrap domain names URLs, rather than just URLs.
+
+I hope you understand what I'm trying to say, and maybe you have an idea how to do it.
+
+Thanks again!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: gamball
+Topic: santis said:
+Loopline, thank you for your reply!
+
+1. inurl doesn't work here, because, in my case, keywords from URL is different from keywords from domain names,
+Good example of "physiocare" keyword in domain name: physiocarepro.com
+Bad example of "physiocare" keyword in URL: nature.com/physiocare-services
+
+Basically, I need to scrap domain names URLs, rather than just URLs.
+
+I hope you understand what I'm trying to say, and maybe you have an idea how to do it.
+
+Thanks again!
+Click to expand...
+you can try "keyword here" site:hysiocarepro.com
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: loopline
+Topic: santis said:
+Loopline, thank you for your reply!
+
+1. inurl doesn't work here, because, in my case, keywords from URL is different from keywords from domain names,
+Good example of "physiocare" keyword in domain name: physiocarepro.com
+Bad example of "physiocare" keyword in URL: nature.com/physiocare-services
+
+Basically, I need to scrap domain names URLs, rather than just URLs.
+
+I hope you understand what I'm trying to say, and maybe you have an idea how to do it.
+
+Thanks again!
+Click to expand...
+Ok, sure, same concept applies to my 2 options.
+
+option 1 - do like @gamball said and just do site: operator. You can test this in a browser and see if you get the results you want.
+
+Option 2 - just filter. you can just trim urls to domain level and then remove urls that don't contain your keywords and your done.
+
+Scrapebox does all of this.
+
+Other tools may do both.
+
+Or you can combo some tools. Find a tool that scrapes and then feed an AI the results and let it filter or just do the same steps with different tools.
+Liked by: gamball
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: PhantomRoot
+Topic: Have you tried using a custom Google search engine and then scraping those results? Might be easier than trying to parse the standard results page.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

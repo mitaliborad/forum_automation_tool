@@ -1,0 +1,106 @@
+2025-04-14 13:28:53,513 - INFO - Current time: 1744617533.513664
+2025-04-14 13:28:53,514 - INFO - Token expiration time: 1744620828.6163933
+2025-04-14 13:28:53,514 - INFO - Token expiration time: 1744620828.6163933
+2025-04-14 13:28:53,515 - INFO - performing random action
+2025-04-14 13:28:53,515 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:28:53,516 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:28:53,516 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:28:55,500 - DEBUG - Page scrolled.
+2025-04-14 13:28:57,501 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:28:58,960 - DEBUG - Page scrolled.
+2025-04-14 13:29:00,961 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:29:02,236 - DEBUG - Page scrolled.
+2025-04-14 13:29:04,238 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:29:05,365 - DEBUG - Page scrolled.
+2025-04-14 13:29:07,398 - DEBUG - Random scrolls complete.
+2025-04-14 13:29:07,435 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:29:07,499 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:29:09,139 - DEBUG - Page scrolled.
+2025-04-14 13:29:11,143 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:29:12,900 - DEBUG - Page scrolled.
+2025-04-14 13:29:14,902 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:29:15,981 - DEBUG - Page scrolled.
+2025-04-14 13:29:17,984 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:29:19,958 - DEBUG - Page scrolled.
+2025-04-14 13:29:21,959 - DEBUG - Random scrolls complete.
+2025-04-14 13:29:30,654 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-14 13:29:34,250 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-develop-a-wordpress-website-in-an-affordable-price.1701732/unread
+2025-04-14 13:29:34,251 - INFO - Profile PixelPirate99: Minimizing window...
+2025-04-14 13:29:34,254 - INFO - Profile PixelPirate99: Window minimized. Pausing for 27.51 seconds...
+2025-04-14 13:30:01,762 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-04-14 13:30:01,764 - INFO - performing random action
+2025-04-14 13:30:12,896 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-develop-a-wordpress-website-in-an-affordable-price.1701732/unread
+2025-04-14 13:30:12,901 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-develop-a-wordpress-website-in-an-affordable-price.1701732/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 13:30:12,973 - INFO - Extracted thread title: How to Develop a WordPress Website in an Affordable Price
+2025-04-14 13:30:12,974 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:30:12,975 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:30:14,595 - DEBUG - Page scrolled.
+2025-04-14 13:30:16,597 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:30:18,277 - DEBUG - Page scrolled.
+2025-04-14 13:30:20,278 - DEBUG - Random scrolls complete.
+2025-04-14 13:30:22,995 - DEBUG - Scrolling page 1 times.
+2025-04-14 13:30:22,997 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:30:24,336 - DEBUG - Page scrolled.
+2025-04-14 13:30:27,339 - DEBUG - Random scrolls complete.
+2025-04-14 13:30:27,383 - DEBUG - Found 2 like buttons.
+2025-04-14 13:30:30,384 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-14 13:30:31,209 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:30:31,249 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:30:31,250 - DEBUG - Liked post number 1 of 2.
+2025-04-14 13:30:36,227 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:30:36,250 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:30:36,252 - DEBUG - Liked post number 2 of 2.
+2025-04-14 13:30:40,469 - INFO - Liked 2 posts successfully.
+2025-04-14 13:30:40,470 - INFO - Liked 2 posts successfully.
+2025-04-14 13:30:43,039 - INFO - Profile PixelPirate99: Opening random website: https://www.canva.com/en_in/
+2025-04-14 13:30:49,595 - INFO - Profile PixelPirate99: Pausing for 36.41 seconds...
+2025-04-14 13:31:26,007 - INFO - Profile PixelPirate99: Resuming...
+2025-04-14 13:31:26,028 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-14 13:31:26,030 - INFO - performing random action
+2025-04-14 13:31:26,031 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:31:26,032 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:31:27,929 - DEBUG - Page scrolled.
+2025-04-14 13:31:30,931 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:31:32,217 - DEBUG - Page scrolled.
+2025-04-14 13:31:35,219 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:31:36,243 - DEBUG - Page scrolled.
+2025-04-14 13:31:39,245 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:31:41,244 - DEBUG - Page scrolled.
+2025-04-14 13:31:44,245 - DEBUG - Random scrolls complete.
+2025-04-14 13:31:46,853 - DEBUG - Total comments in the thread: 2
+2025-04-14 13:31:47,034 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to Develop a WordPress Website in an Affordable Price.txt
+2025-04-14 13:31:50,016 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:31:50,070 - DEBUG - Extracted main post content: WordPress is one of the most popular Content Management Systems (CMS) globally, powering over 40% of websites on the internet. Here’s why it’s the best choice for budget-friendly website development:
+
+Free and Open-Source: WordPress is free to use, and you only need to pay for hosting and domain registration.
+Customizable Themes and Plugins: There are thousands of free and premium themes that allow you to design a unique website.
+SEO-Friendly: Built-in SEO features help improve search engine rankings.
+E-Commerce Solution: With plugins like WooCommerce, you can set up an online store at a low cost.
+Scalability: Suitable for both small business websites and large enterprise solutions
+2025-04-14 13:31:53,441 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:31:53,444 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:31:55,855 - INFO - Profile PixelPirate99: Pausing for 47.80 seconds...
+2025-04-14 13:32:43,669 - INFO - Profile PixelPirate99: Resuming...
+2025-04-14 13:32:43,683 - INFO - performing random action
+2025-04-14 13:32:43,684 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:32:43,684 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:32:43,701 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:32:43,835 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:32:43,840 - DEBUG - Text box scrolled into view
+2025-04-14 13:32:44,423 - DEBUG - Initializing actionchains
+2025-04-14 13:32:44,456 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1728}, size: {'height': 21, 'width': 68}
+2025-04-14 13:32:44,456 - DEBUG - Target click coordinates: (1265, 1738)
+2025-04-14 13:32:51,594 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:32:51,595 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:32:51,597 - DEBUG - Clicking on the text box.
+2025-04-14 13:32:51,599 - DEBUG - Sending keys with content: True, but don't forget the learning curve for non-techies can eat up time and money in the long run. Have you considered a drag-and-drop builder for simplicity?
+
+2025-04-14 13:32:57,465 - DEBUG - Clicking on post reply button.
+2025-04-14 13:33:08,553 - DEBUG - Performed Actionchains
+2025-04-14 13:33:08,554 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 13:33:12,556 - INFO - Comment posted successfully.
+2025-04-14 13:33:12,558 - INFO - Task Completed!!
+2025-04-14 13:33:21,485 - INFO - Navigated back to the homepage.
+2025-04-14 13:33:24,020 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:33:24,066 - INFO - Garbage collection completed.
+2025-04-14 13:33:24,068 - INFO - Waiting for 2200 seconds before next execution.

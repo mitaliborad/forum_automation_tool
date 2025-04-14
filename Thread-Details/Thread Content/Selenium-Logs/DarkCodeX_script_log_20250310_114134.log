@@ -1,0 +1,99 @@
+2025-03-10 11:41:34,559 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250310_114134.log
+2025-03-10 11:41:34,568 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-10 11:41:34,570 - INFO - Loaded 107 visited threads from Thread_links.txt
+2025-03-10 11:41:34,572 - INFO - Successfully loaded links that was already visited!
+2025-03-10 11:41:34,576 - DEBUG - Scrolling page 4 times.
+2025-03-10 11:41:34,580 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:39,189 - DEBUG - Page scrolled.
+2025-03-10 11:41:41,191 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:42,993 - DEBUG - Page scrolled.
+2025-03-10 11:41:44,997 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:46,820 - DEBUG - Page scrolled.
+2025-03-10 11:41:48,823 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:50,165 - DEBUG - Page scrolled.
+2025-03-10 11:41:52,167 - DEBUG - Random scrolls complete.
+2025-03-10 11:41:52,169 - DEBUG - Scrolling page 5 times.
+2025-03-10 11:41:52,171 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:53,434 - DEBUG - Page scrolled.
+2025-03-10 11:41:55,437 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:57,120 - DEBUG - Page scrolled.
+2025-03-10 11:41:59,125 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:00,504 - DEBUG - Page scrolled.
+2025-03-10 11:42:02,505 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:04,356 - DEBUG - Page scrolled.
+2025-03-10 11:42:06,359 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:07,773 - DEBUG - Page scrolled.
+2025-03-10 11:42:09,775 - DEBUG - Random scrolls complete.
+2025-03-10 11:42:18,212 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-10 11:42:23,245 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/palau-id-is-it-possible-to-create-an-online-bank-account-revolut-wise.1693463/unread
+2025-03-10 11:42:35,928 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/palau-id-is-it-possible-to-create-an-online-bank-account-revolut-wise.1693463/unread
+2025-03-10 11:42:35,933 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/palau-id-is-it-possible-to-create-an-online-bank-account-revolut-wise.1693463/unread' to visited threads file 'Thread_links.txt'.
+2025-03-10 11:42:36,008 - INFO - Extracted thread title: Palau ID is it possible to create an online bank account (revolut, wise, ...)
+2025-03-10 11:42:36,013 - DEBUG - Scrolling page 4 times.
+2025-03-10 11:42:36,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:37,183 - DEBUG - Page scrolled.
+2025-03-10 11:42:39,192 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:40,613 - DEBUG - Page scrolled.
+2025-03-10 11:42:42,617 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:44,457 - DEBUG - Page scrolled.
+2025-03-10 11:42:46,459 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:47,598 - DEBUG - Page scrolled.
+2025-03-10 11:42:49,602 - DEBUG - Random scrolls complete.
+2025-03-10 11:42:51,785 - DEBUG - Scrolling page 2 times.
+2025-03-10 11:42:51,786 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:53,244 - DEBUG - Page scrolled.
+2025-03-10 11:42:56,247 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:57,948 - DEBUG - Page scrolled.
+2025-03-10 11:43:00,950 - DEBUG - Random scrolls complete.
+2025-03-10 11:43:00,987 - DEBUG - Found 2 like buttons.
+2025-03-10 11:43:03,989 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-10 11:43:04,713 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 11:43:04,724 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 11:43:04,725 - DEBUG - Liked post number 1 of 2.
+2025-03-10 11:43:09,686 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 11:43:09,704 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 11:43:09,705 - DEBUG - Liked post number 2 of 2.
+2025-03-10 11:43:13,749 - INFO - Liked 2 posts successfully.
+2025-03-10 11:43:13,752 - INFO - Liked 2 posts successfully.
+2025-03-10 11:43:13,755 - DEBUG - Scrolling page 5 times.
+2025-03-10 11:43:13,756 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:43:15,266 - DEBUG - Page scrolled.
+2025-03-10 11:43:18,268 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:43:19,815 - DEBUG - Page scrolled.
+2025-03-10 11:43:22,817 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:43:24,537 - DEBUG - Page scrolled.
+2025-03-10 11:43:27,538 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:43:28,587 - DEBUG - Page scrolled.
+2025-03-10 11:43:31,589 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:43:33,424 - DEBUG - Page scrolled.
+2025-03-10 11:43:36,426 - DEBUG - Random scrolls complete.
+2025-03-10 11:43:39,004 - DEBUG - Total comments in the thread: 2
+2025-03-10 11:43:45,382 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Palau ID is it possible to create an online bank account (revolut, wise, ...).txt
+2025-03-10 11:43:47,833 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-10 11:43:47,859 - DEBUG - Extracted main post content: I wanted to know if with the Palau card ID I could create an online bank account like Revolut, Wise or another bank.
+
+Thank you for your feedback if you have done so.
+2025-03-10 11:43:51,157 - INFO - Successfully generated comments using Gemini API.
+2025-03-10 11:43:51,159 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-10 11:43:53,187 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:43:53,189 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:43:53,205 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:43:53,259 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:43:53,273 - DEBUG - Text box scrolled into view
+2025-03-10 11:43:53,980 - DEBUG - Initializing actionchains
+2025-03-10 11:43:54,028 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1543}, size: {'height': 21, 'width': 68}
+2025-03-10 11:43:54,029 - DEBUG - Target click coordinates: (1121, 1553)
+2025-03-10 11:44:00,805 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-10 11:44:00,810 - DEBUG - Moving mouse to text box element.
+2025-03-10 11:44:00,811 - DEBUG - Clicking on the text box.
+2025-03-10 11:44:00,814 - DEBUG - Sending keys with content: I'm not sure about those specific banks, but have you checked if they have a list of accepted IDs on their website?
+
+2025-03-10 11:44:06,435 - DEBUG - Clicking on post reply button.
+2025-03-10 11:44:07,705 - DEBUG - Performed Actionchains
+2025-03-10 11:44:07,707 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-10 11:44:11,712 - INFO - Comment posted successfully.
+2025-03-10 11:44:11,716 - INFO - Task Completed!!
+2025-03-10 11:44:22,556 - INFO - Navigated back to the homepage.
+2025-03-10 11:44:25,351 - INFO - Attempting to clear memory and resources.
+2025-03-10 11:44:25,392 - INFO - Garbage collection completed.
+2025-03-10 11:44:25,395 - INFO - Waiting for 1000 seconds before next execution.

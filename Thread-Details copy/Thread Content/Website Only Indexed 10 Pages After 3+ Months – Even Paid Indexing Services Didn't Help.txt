@@ -1,0 +1,45 @@
+--- Main Post Title ---
+Website Only Indexed 10 Pages After 3+ Months – Even Paid Indexing Services Didn't Help
+
+Total comments in the thread: 2
+
+Topic User: s2maxno1s2
+Topic: Hi everyone,
+
+I’m facing a frustrating issue and would really appreciate your advice.
+
+My website apkflex.com has been live for over 3 months now. All content is original (no copy-paste), and I’ve done a decent job optimizing on-page SEO. But after the recent Google core update, only 10 pages are indexed — and that number hasn’t improved.
+
+I’ve already tried:
+
+Manually submitting URLs via Search Console
+Regularly pinging URLs
+Updating internal linking structure & sitemap
+Even purchased indexing services (including those that use API and ping tools)
+=> But nothing worked, and I’m still stuck at just 10 indexed pages.
+What’s interesting is that I do get consistent traffic from YouTube, Twitter, and Facebook, so the content is getting real user attention. It's not spammy or AI-generated junk.
+
+So I have a few questions:
+
+Could this be a case of my site being sandboxed by Google?
+Are there any reliable ways to boost indexing in 2025 that actually work?
+Has anyone experienced a similar situation and successfully fixed it?
+Any tips, tools, or insights would be greatly appreciated. Thanks in advance!
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Carnaged
+Topic: so paid indexing is a scam, lets start with that.
+ur sitemaps are crazy though, youve got them all separated.
+but what error are u getting from GSC when indexing a singular page?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+

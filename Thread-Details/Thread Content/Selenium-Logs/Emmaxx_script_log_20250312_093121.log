@@ -1,0 +1,109 @@
+2025-03-12 09:31:21,542 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_093121.log
+2025-03-12 09:31:21,546 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 09:31:21,552 - INFO - Loaded 147 visited threads from Thread_links.txt
+2025-03-12 09:31:21,555 - INFO - Successfully loaded links that was already visited!
+2025-03-12 09:31:21,570 - DEBUG - Scrolling page 7 times.
+2025-03-12 09:31:21,616 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:25,952 - DEBUG - Page scrolled.
+2025-03-12 09:31:27,954 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:29,152 - DEBUG - Page scrolled.
+2025-03-12 09:31:31,154 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:32,806 - DEBUG - Page scrolled.
+2025-03-12 09:31:34,808 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:35,982 - DEBUG - Page scrolled.
+2025-03-12 09:31:37,984 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:39,789 - DEBUG - Page scrolled.
+2025-03-12 09:31:41,790 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:43,316 - DEBUG - Page scrolled.
+2025-03-12 09:31:45,318 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:47,111 - DEBUG - Page scrolled.
+2025-03-12 09:31:49,115 - DEBUG - Random scrolls complete.
+2025-03-12 09:31:49,117 - DEBUG - Scrolling page 6 times.
+2025-03-12 09:31:49,119 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:50,583 - DEBUG - Page scrolled.
+2025-03-12 09:31:52,586 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:53,875 - DEBUG - Page scrolled.
+2025-03-12 09:31:55,876 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:31:57,622 - DEBUG - Page scrolled.
+2025-03-12 09:31:59,624 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:32:01,269 - DEBUG - Page scrolled.
+2025-03-12 09:32:03,272 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:32:04,426 - DEBUG - Page scrolled.
+2025-03-12 09:32:06,430 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:32:07,535 - DEBUG - Page scrolled.
+2025-03-12 09:32:09,536 - DEBUG - Random scrolls complete.
+2025-03-12 09:32:15,466 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cryptocurrency.218/
+2025-03-12 09:32:20,110 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-defi-is-revolutionizing-lending-and-borrowing.1693048/unread
+2025-03-12 09:32:39,492 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-defi-is-revolutionizing-lending-and-borrowing.1693048/unread
+2025-03-12 09:32:39,494 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-defi-is-revolutionizing-lending-and-borrowing.1693048/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 09:32:39,526 - INFO - Extracted thread title: How Defi Is Revolutionizing Lending And Borrowing
+2025-03-12 09:32:39,527 - DEBUG - Scrolling page 3 times.
+2025-03-12 09:32:39,528 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:32:40,665 - DEBUG - Page scrolled.
+2025-03-12 09:32:42,667 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:32:43,874 - DEBUG - Page scrolled.
+2025-03-12 09:32:45,876 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:32:47,739 - DEBUG - Page scrolled.
+2025-03-12 09:32:49,742 - DEBUG - Random scrolls complete.
+2025-03-12 09:32:51,884 - DEBUG - Scrolling page 4 times.
+2025-03-12 09:32:51,886 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:32:53,174 - DEBUG - Page scrolled.
+2025-03-12 09:32:56,177 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:32:57,602 - DEBUG - Page scrolled.
+2025-03-12 09:33:00,605 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:33:02,605 - DEBUG - Page scrolled.
+2025-03-12 09:33:05,608 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:33:07,031 - DEBUG - Page scrolled.
+2025-03-12 09:33:10,034 - DEBUG - Random scrolls complete.
+2025-03-12 09:33:10,073 - DEBUG - Found 10 like buttons.
+2025-03-12 09:33:13,075 - INFO - Attempting to like 2 posts. There are 10 available.
+2025-03-12 09:33:14,068 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 09:33:14,095 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 09:33:14,096 - DEBUG - Liked post number 1 of 2.
+2025-03-12 09:33:18,854 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 09:33:18,877 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 09:33:18,879 - DEBUG - Liked post number 2 of 2.
+2025-03-12 09:33:23,269 - INFO - Liked 2 posts successfully.
+2025-03-12 09:33:23,272 - INFO - Liked 2 posts successfully.
+2025-03-12 09:33:25,682 - DEBUG - Scrolling page 6 times.
+2025-03-12 09:33:25,684 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:33:27,699 - DEBUG - Page scrolled.
+2025-03-12 09:33:30,703 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:33:32,067 - DEBUG - Page scrolled.
+2025-03-12 09:33:35,070 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:33:36,128 - DEBUG - Page scrolled.
+2025-03-12 09:33:39,133 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:33:40,515 - DEBUG - Page scrolled.
+2025-03-12 09:33:43,518 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:33:45,355 - DEBUG - Page scrolled.
+2025-03-12 09:33:48,359 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 09:33:49,989 - DEBUG - Page scrolled.
+2025-03-12 09:33:52,991 - DEBUG - Random scrolls complete.
+2025-03-12 09:33:55,205 - DEBUG - Total comments in the thread: 10
+2025-03-12 09:35:19,537 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How Defi Is Revolutionizing Lending And Borrowing.txt
+2025-03-12 09:35:22,260 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 09:35:22,285 - DEBUG - Extracted main post content: I'm convinced that 90% of people are unaware that borrowing money on the blockchain is a reality. Thanks to DeFi, platforms like Compound, Aave, and MakerDAO have made it possible for individuals to lend and borrow from each other, bypassing traditional banking systems that charge exorbitant interest rates. That’s why whenever I hear people say DeFi is dead, I just laugh. Recent projects emerging from the DeFi space clearly demonstrate a strong focus on building for the future. For instance, opportunities like locking BGB and DEUSD to receive a share of $ELX—courtesy of the new Bitget Launchpool for Elixir—are thriving within the ecosystem. And that’s not even mentioning other opportunities in DAO, Aave, and the modular decentralized finance protocol, $ELX. Don't sleep on DeFi. I suggest you explore it further.
+2025-03-12 09:35:27,549 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 09:35:27,552 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 09:35:30,381 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 09:35:30,383 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 09:35:30,409 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 09:35:30,456 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 09:35:30,464 - DEBUG - Text box scrolled into view
+2025-03-12 09:35:31,180 - DEBUG - Initializing actionchains
+2025-03-12 09:35:31,210 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4264}, size: {'height': 21, 'width': 68}
+2025-03-12 09:35:31,210 - DEBUG - Target click coordinates: (1121, 4274)
+2025-03-12 09:35:43,573 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 09:35:43,575 - DEBUG - Moving mouse to text box element.
+2025-03-12 09:35:43,575 - DEBUG - Clicking on the text box.
+2025-03-12 09:35:43,578 - DEBUG - Sending keys with content: True, but a lot of folks probably find it too complicated to even get started. Maybe easier-to-use interfaces would get more people on board?
+
+2025-03-12 09:35:48,705 - DEBUG - Clicking on post reply button.
+2025-03-12 09:35:59,766 - DEBUG - Performed Actionchains
+2025-03-12 09:35:59,771 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 09:36:03,772 - INFO - Comment posted successfully.
+2025-03-12 09:36:03,773 - INFO - Task Completed!!
+2025-03-12 09:36:12,973 - INFO - Navigated back to the homepage.
+2025-03-12 09:36:15,222 - INFO - Attempting to clear memory and resources.
+2025-03-12 09:36:15,261 - INFO - Garbage collection completed.
+2025-03-12 09:36:15,263 - INFO - Waiting for 1800 seconds before next execution.

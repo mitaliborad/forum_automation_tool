@@ -9,8 +9,8 @@ from pynput.mouse import Button, Controller
 #from blackhatworld_automation import process_profile
 
 # --- Automation Configuration ---
-LOG_DIRECTORY = "Selenium-Logs"
-AUTOMATION_WAIT_TIME = 1000
+LOG_DIRECTORY = "Selenium-New-Logs"
+AUTOMATION_WAIT_TIME = 2200
 MIN_SCROLLS = 2
 MAX_SCROLLS = 4
 MAX_SCROLL_ATTEMPS =3
@@ -26,7 +26,7 @@ BASE_SPEED = 0.001
 SUB_FORUM_LIST_FILE = "Sub-Forum-List.txt"
 VISITED_THREADS_FILE = "Thread_links.txt"
 start_time = datetime.now()
-run_duration = timedelta(minutes=90) 
+run_duration = timedelta(minutes=180) 
 
 
 # Logger setup

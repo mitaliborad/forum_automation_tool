@@ -1,0 +1,97 @@
+2025-04-10 10:35:15,236 - INFO - Current time: 1744261515.2360206
+2025-04-10 10:35:15,238 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 10:35:15,241 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 10:35:15,243 - INFO - Profile PixelPirate99: Minimizing window...
+2025-04-10 10:35:15,247 - INFO - Profile PixelPirate99: Window minimized. Pausing for 15.80 seconds...
+2025-04-10 10:35:31,050 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-04-10 10:35:31,053 - INFO - performing random action
+2025-04-10 10:35:31,056 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:35:31,058 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:35:31,061 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:35:32,959 - DEBUG - Page scrolled.
+2025-04-10 10:35:34,961 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:35:36,820 - DEBUG - Page scrolled.
+2025-04-10 10:35:38,823 - DEBUG - Random scrolls complete.
+2025-04-10 10:35:38,825 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:35:38,826 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:35:40,052 - DEBUG - Page scrolled.
+2025-04-10 10:35:42,054 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:35:43,255 - DEBUG - Page scrolled.
+2025-04-10 10:35:45,258 - DEBUG - Random scrolls complete.
+2025-04-10 10:35:52,243 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-04-10 10:35:55,848 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/which-is-clean-residential-proxy-provider-for-twitter-automation.1702478/unread
+2025-04-10 10:35:55,849 - INFO - performing random action
+2025-04-10 10:36:05,406 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/which-is-clean-residential-proxy-provider-for-twitter-automation.1702478/unread
+2025-04-10 10:36:05,408 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/which-is-clean-residential-proxy-provider-for-twitter-automation.1702478/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:36:05,437 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-10 10:36:05,438 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:36:05,439 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:06,444 - DEBUG - Page scrolled.
+2025-04-10 10:36:08,446 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:10,202 - DEBUG - Page scrolled.
+2025-04-10 10:36:12,203 - DEBUG - Random scrolls complete.
+2025-04-10 10:36:14,613 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:36:14,615 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:16,583 - DEBUG - Page scrolled.
+2025-04-10 10:36:19,585 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:21,014 - DEBUG - Page scrolled.
+2025-04-10 10:36:24,016 - DEBUG - Random scrolls complete.
+2025-04-10 10:36:24,034 - DEBUG - Found 12 like buttons.
+2025-04-10 10:36:27,035 - INFO - Attempting to like 1 posts. There are 12 available.
+2025-04-10 10:36:27,875 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:36:27,888 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:36:27,889 - DEBUG - Liked post number 1 of 1.
+2025-04-10 10:36:32,761 - INFO - Liked 1 posts successfully.
+2025-04-10 10:36:32,763 - INFO - Liked 1 posts successfully.
+2025-04-10 10:36:35,231 - INFO - Profile PixelPirate99: Pausing for 42.80 seconds...
+2025-04-10 10:37:18,029 - INFO - Profile PixelPirate99: Resuming...
+2025-04-10 10:37:18,031 - INFO - performing random action
+2025-04-10 10:37:18,034 - DEBUG - Scrolling page 7 times.
+2025-04-10 10:37:18,035 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:19,401 - DEBUG - Page scrolled.
+2025-04-10 10:37:22,403 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:23,626 - DEBUG - Page scrolled.
+2025-04-10 10:37:26,628 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:27,708 - DEBUG - Page scrolled.
+2025-04-10 10:37:30,710 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:32,102 - DEBUG - Page scrolled.
+2025-04-10 10:37:35,104 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:36,607 - DEBUG - Page scrolled.
+2025-04-10 10:37:39,608 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:41,377 - DEBUG - Page scrolled.
+2025-04-10 10:37:44,380 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:45,669 - DEBUG - Page scrolled.
+2025-04-10 10:37:48,671 - DEBUG - Random scrolls complete.
+2025-04-10 10:37:50,983 - DEBUG - Total comments in the thread: 12
+2025-04-10 10:39:03,903 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-10 10:39:05,918 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:39:05,959 - DEBUG - Extracted main post content: I am looking for a residential proxy provider for twitter automation who provides clean proxies. Recently tried bright data and smart proxy. Both doesnt works. those are already abused and google also detects it as suspicious. I thought bright data is the best one. Help me to get it guys.
+2025-04-10 10:39:11,083 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:39:11,086 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:39:13,724 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-10 10:39:20,275 - INFO - Profile PixelPirate99: Pausing for 34.51 seconds...
+2025-04-10 10:39:54,788 - INFO - Profile PixelPirate99: Resuming...
+2025-04-10 10:39:54,807 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-10 10:39:54,809 - INFO - performing random action
+2025-04-10 10:39:54,811 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:39:54,813 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:39:54,837 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:39:54,878 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:39:54,888 - DEBUG - Text box scrolled into view
+2025-04-10 10:39:55,463 - DEBUG - Initializing actionchains
+2025-04-10 10:39:55,478 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4457}, size: {'height': 21, 'width': 68}
+2025-04-10 10:39:55,479 - DEBUG - Target click coordinates: (1265, 4467)
+2025-04-10 10:40:08,580 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:40:08,582 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:40:08,588 - DEBUG - Clicking on the text box.
+2025-04-10 10:40:08,591 - DEBUG - Sending keys with content: Yeah, I hear you. Have you tried looking into rotating residential proxies? Might be a good option to check out.
+
+2025-04-10 10:40:13,595 - DEBUG - Clicking on post reply button.
+2025-04-10 10:40:24,693 - DEBUG - Performed Actionchains
+2025-04-10 10:40:24,694 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:40:28,695 - INFO - Comment posted successfully.
+2025-04-10 10:40:28,698 - INFO - Task Completed!!
+2025-04-10 10:40:33,886 - INFO - Navigated back to the homepage.
+2025-04-10 10:40:36,278 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:40:36,320 - INFO - Garbage collection completed.
+2025-04-10 10:40:36,321 - INFO - Waiting for 1850 seconds before next execution.

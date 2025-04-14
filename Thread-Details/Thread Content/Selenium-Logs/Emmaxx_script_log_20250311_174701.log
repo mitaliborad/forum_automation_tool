@@ -1,0 +1,90 @@
+2025-03-11 17:47:01,834 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_174701.log
+2025-03-11 17:47:01,839 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 17:47:01,844 - INFO - Loaded 145 visited threads from Thread_links.txt
+2025-03-11 17:47:01,848 - INFO - Successfully loaded links that was already visited!
+2025-03-11 17:47:01,852 - DEBUG - Scrolling page 5 times.
+2025-03-11 17:47:01,854 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:03,393 - DEBUG - Page scrolled.
+2025-03-11 17:47:05,396 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:06,721 - DEBUG - Page scrolled.
+2025-03-11 17:47:08,724 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:09,979 - DEBUG - Page scrolled.
+2025-03-11 17:47:11,982 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:13,698 - DEBUG - Page scrolled.
+2025-03-11 17:47:15,700 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:17,170 - DEBUG - Page scrolled.
+2025-03-11 17:47:19,173 - DEBUG - Random scrolls complete.
+2025-03-11 17:47:19,175 - DEBUG - Scrolling page 3 times.
+2025-03-11 17:47:19,177 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:21,073 - DEBUG - Page scrolled.
+2025-03-11 17:47:23,075 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:24,308 - DEBUG - Page scrolled.
+2025-03-11 17:47:26,311 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:27,989 - DEBUG - Page scrolled.
+2025-03-11 17:47:29,992 - DEBUG - Random scrolls complete.
+2025-03-11 17:47:37,400 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-03-11 17:47:42,130 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-and-cheap-vps-provider.1690344/unread
+2025-03-11 17:47:50,961 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-and-cheap-vps-provider.1690344/unread
+2025-03-11 17:47:50,964 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-and-cheap-vps-provider.1690344/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 17:47:51,045 - INFO - Extracted thread title: Best and cheap VPS provider
+2025-03-11 17:47:51,046 - DEBUG - Scrolling page 4 times.
+2025-03-11 17:47:51,047 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:52,373 - DEBUG - Page scrolled.
+2025-03-11 17:47:54,374 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:55,919 - DEBUG - Page scrolled.
+2025-03-11 17:47:57,921 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:47:59,343 - DEBUG - Page scrolled.
+2025-03-11 17:48:01,345 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:48:03,361 - DEBUG - Page scrolled.
+2025-03-11 17:48:05,363 - DEBUG - Random scrolls complete.
+2025-03-11 17:48:07,765 - DEBUG - Scrolling page 2 times.
+2025-03-11 17:48:07,767 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:48:09,017 - DEBUG - Page scrolled.
+2025-03-11 17:48:12,018 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:48:13,393 - DEBUG - Page scrolled.
+2025-03-11 17:48:16,400 - DEBUG - Random scrolls complete.
+2025-03-11 17:48:16,444 - DEBUG - Found 8 like buttons.
+2025-03-11 17:48:19,446 - INFO - Attempting to like 1 posts. There are 8 available.
+2025-03-11 17:48:20,150 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:48:20,180 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:48:20,182 - DEBUG - Liked post number 1 of 1.
+2025-03-11 17:48:24,459 - INFO - Liked 1 posts successfully.
+2025-03-11 17:48:24,461 - INFO - Liked 1 posts successfully.
+2025-03-11 17:48:26,517 - DEBUG - Scrolling page 4 times.
+2025-03-11 17:48:26,519 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:48:27,676 - DEBUG - Page scrolled.
+2025-03-11 17:48:30,679 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:48:31,996 - DEBUG - Page scrolled.
+2025-03-11 17:48:34,999 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:48:36,801 - DEBUG - Page scrolled.
+2025-03-11 17:48:39,802 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:48:41,698 - DEBUG - Page scrolled.
+2025-03-11 17:48:44,861 - DEBUG - Random scrolls complete.
+2025-03-11 17:48:47,695 - DEBUG - Total comments in the thread: 9
+2025-03-11 17:49:40,555 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Best and cheap VPS provider.txt
+2025-03-11 17:49:43,407 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 17:49:43,437 - DEBUG - Extracted main post content: Hello, I need a VPS for 24/7 streaming of pre-recorded videos. What’s the best provider? Thanks
+2025-03-11 17:49:47,316 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 17:49:47,318 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 17:49:49,617 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:49:49,617 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:49:49,630 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:49:49,681 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:49:49,692 - DEBUG - Text box scrolled into view
+2025-03-11 17:49:50,462 - DEBUG - Initializing actionchains
+2025-03-11 17:49:50,498 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3280}, size: {'height': 21, 'width': 68}
+2025-03-11 17:49:50,499 - DEBUG - Target click coordinates: (1121, 3290)
+2025-03-11 17:50:01,157 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 17:50:01,159 - DEBUG - Moving mouse to text box element.
+2025-03-11 17:50:01,160 - DEBUG - Clicking on the text box.
+2025-03-11 17:50:01,165 - DEBUG - Sending keys with content: Forget specific providers; check their TOS first to avoid takedowns.
+
+2025-03-11 17:50:06,779 - DEBUG - Clicking on post reply button.
+2025-03-11 17:50:10,568 - DEBUG - Performed Actionchains
+2025-03-11 17:50:10,569 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 17:50:14,571 - INFO - Comment posted successfully.
+2025-03-11 17:50:14,575 - INFO - Task Completed!!
+2025-03-11 17:50:22,660 - INFO - Navigated back to the homepage.
+2025-03-11 17:50:25,119 - INFO - Attempting to clear memory and resources.
+2025-03-11 17:50:25,185 - INFO - Garbage collection completed.
+2025-03-11 17:50:25,187 - INFO - Waiting for 1800 seconds before next execution.

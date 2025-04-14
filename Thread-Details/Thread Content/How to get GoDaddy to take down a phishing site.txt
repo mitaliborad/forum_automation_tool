@@ -1,0 +1,41 @@
+--- Main Post Title ---
+How to get GoDaddy to take down a phishing site?
+
+Total comments in the thread: 2
+
+Topic User: Robert79
+Topic: Hey everyone,
+
+I’m having a really frustrating experience with GoDaddy and hoping someone here can help or share their experience.
+
+I registered on a website that turned out to be a phishing site. As a result, I lost 70 USDT. It's not a huge amount, but it's still money, and the site just disappeared with it.
+
+I checked the site on Netcraft and it's already flagged as malicious/phishing. I reported it to GoDaddy because the domain is registered with them. But they keep telling me to contact the hosting provider instead – saying that phishing is related to website content, not the domain. But the domain is still active and so is the site. The hosting provider ignores me completely.
+
+GoDaddy's abuse form even has "Phishing" as a reason to report a domain. So why do they offer that option if they don’t act on it?
+
+I’ve emailed GoDaddy support, used their abuse form, and even contacted Domains By Proxy (they’re listed on the WHOIS as well). No useful replies from anyone. I even tried calling GoDaddy support and messaged them on Twitter – nothing helped.
+
+Has anyone here ever had success getting a phishing domain suspended through GoDaddy or Domains By Proxy? If yes, which contacts or channels actually worked for you?
+
+I also reported the domain to ICANN over a week ago, but all I got was an automated response saying they’ve received the complaint.
+
+I read online that GoDaddy often ignores abuse reports unless there’s legal pressure or media attention. Is there a fast or effective way to actually get a malicious domain taken down if it's registered with them?
+
+Any advice is really appreciated
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: FocusFocus
+Topic: There are many people who have experienced the failure of GoDaddy to effectively manage copyright and website abuse and such violations. If you have had inefficiency by GoDaddy addressing such concerns inspite of you having provided all relevant information, then perhaps you may consider to report such abuse directly to ICANN. Google for "report abuse directly to ICANN" and go to their actual website and you will get the info for that process.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

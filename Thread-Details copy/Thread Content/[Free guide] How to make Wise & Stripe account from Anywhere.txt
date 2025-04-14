@@ -1,0 +1,290 @@
+--- Main Post Title ---
+[Free guide] How to make Wise & Stripe account from Anywhere
+
+Total comments in the thread: 20
+
+Topic User: ZeroEyes
+Topic: It is all from my personal experience (not stripe) and i am not endorsing any service or anything
+
+I have read many posts looking for ways to have wise account or to buy one so here's an easy guide on how to make it I have made few personally so it works
+
+Requirements for a UK LLC:
+Address: You can get a virtual address from many online services.
+UK Phone Number: Use VYKE to get a UK number for $6 for 3 months.
+Step 1: Form a UK LLC Company
+Register through Companies House: The registration cost has increased from £12 to £50.
+Requirements:
+Address: Get a virtual address with mail forwarding services. I used IconOffices. Avoid UKPostOffice.
+UK Phone Number: Use VYKE to get a UK number for $6 for 3 months.
+The process is straightforward. If you get stuck, search for YouTube videos for guidance. I recommend opening an LLC under the category "retail not in store..." as it simplifies opening a Stripe account.
+
+Approval:
+After submitting the application, you will receive company approval via email in 2 days.
+Within 10-40 days, you will receive your UTR code at your registered address. IconOffice will provide you with a scanned copy.
+Step 2: Create a Dummy Website
+This is not necessary for Wise but is needed for Stripe.
+
+Step 3: Create a Wise Business Account
+Setup: Once your company is set up, go to Wise and create a business account using your UK company details. Pay the fees.
+Debit Card: Request a debit card or use Wise’s virtual card.
+Now you have a UK Wise business account, which you can use everywhere.
+
+Step 4: Sign Up on Stripe
+Use your company details and Wise account to sign up on Stripe.
+Website: You must have a website to get approved by Stripe.
+so thats all. P.s i used AI to make my english gramatically correct so its easily readable, my grammar is whack.
+JV: EARN PASSIVE 200$ MONTHLY IF YOU ARE A RESIDENT OF
+USA, UK, CANDA + ANY OCED COUNTRY. Skype: live:.cid.6e209a7679400d0c
+Working With BHW Users Since 2+ years.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: BionicMarketing
+Topic: You use f@ke docs or your real ones to open?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: WhiteBeast
+Topic: Thanks for the advice
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ZeroEyes
+Topic: BionicMarketing said:
+You use f@ke docs or your real ones to open?
+real ones, why even fake it when u can create company to open business account on
+Liked by: Reddevil007
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: TheCalfOfMyGrandma
+Topic: I wouldn't do that. These cheap UK LTD companies need to pay taxes every year.
+You should buy a UK LLP if you live abroad and you are not from the UK
+So you just need to file a tax report instead of paying taxes, it's more expensive but in the long run it definitely worth it
+Liked by: Reddevil007, Rufai, Darof
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: ZeroEyes
+Topic: TheCalfOfMyGrandma said:
+I wouldn't do that. These cheap UK LTD companies need to pay taxes every year.
+You should buy a UK LLP if you live abroad and you are not from the UK
+So you just need to file a tax report instead of paying taxes, it's more expensive but in the long run it definitely worth it
+no taxes as long as your business is generating under 80,000$
+
+also when you are making that much other opportunities open anyway so its easier to start from UK company , fast and cheap
+
+also idk about LLP but dont u need additional partners for that
+Liked by: Rufai, imnew
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: olaegbe quadri
+Topic: sumair7230 said:
+no taxes as long as your business is generating under 80,000$
+
+also when you are making that much other opportunities open anyway so its easier to start from UK company , fast and cheap
+
+also idk about LLP but dont u need additional partners for that
+are u sure there is no tax? i stay in d UK. what do you mean by ‘you register through house’ is there any link to register?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: SEO Duke
+Topic: Using stripe in this method, but facing problem with wise, as wise declining my cards for the initial payment.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TheCalfOfMyGrandma
+Topic: sumair7230 said:
+no taxes as long as your business is generating under 80,000$
+
+also when you are making that much other opportunities open anyway so its easier to start from UK company , fast and cheap
+
+also idk about LLP but dont u need additional partners for that
+Yes, it is possible to create a single member LLP.
+There are some annoying conditions about UK LTD, make sure to read before creating one.
+Liked by: imnew
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: BionicMarketing
+Topic: sumair7230 said:
+real ones, why even fake it when u can create company to open business account on
+because if you get banned form Stripe like happens 80% of times, you will need to have new company new docs
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: GoodBully
+Topic: UK companies are 100% anti-privacy
+Your name and even your address may be publicly available for everyone who check it
+Besides, it is not a tax heaven, you don't have many tax benefits there
+I would buy a Delaware LLC if you need this kind of company in a more reliable country
+Liked by: imnew
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ZeroEyes
+Topic: BionicMarketing said:
+because if you get banned form Stripe like happens 80% of times, you will need to have new company new docs
+you still makes zero sense, even if assumingly you get your business acc banned why is there a need to fake the documents. the account is still being assumingly banned overall, also it doesn't get banned if all u do is legal bizniz
+Liked by: imnew
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ZeroEyes
+Topic: GoodBully said:
+UK companies are 100% anti-privacy
+Your name and even your address may be publicly available for everyone who check it
+Besides, it is not a tax heaven, you don't have many tax benefits there
+I would buy a Delaware LLC if you need this kind of company in a more reliable country
+I mean even BHW owner uses UK company, you dont have to care much about your name as long as you are not selling something illegal
+
+secondly Its expensive
+
+thirdly it takes 14 weeks to get ITIN number to open bank account also cost like 300$ to file for ITIN
+Liked by: imnew
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ZeroEyes
+Topic: olaegbe quadri said:
+are u sure there is no tax? i stay in d UK. what do you mean by ‘you register through house’ is there any link to register?
+companies house register is what keep companys records
+
+here's the link to form your company :
+https://www.gov.uk/limited-company-formation/register-your-company
+Liked by: imnew, olaegbe quadri
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: ZeroEyes
+Topic: TheCalfOfMyGrandma said:
+Yes, it is possible to create a single member LLP.
+There are some annoying conditions about UK LTD, make sure to read before creating one.
+there are no annoying conditions about UK LTD i have got 3
+Liked by: imnew
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: GoodBully
+Topic: sumair7230 said:
+I mean even BHW owner uses UK company, you dont have to care much about your name as long as you are not selling something illegal
+
+secondly Its expensive
+
+thirdly it takes 14 weeks to get ITIN number to open bank account also cost like 300$ to file for ITIN
+You don't need an ITIN to create a Delaware LLC, especially a single-member one that is disregarded for tax purposes.
+Liked by: imnew
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: olaegbe quadri
+Topic: sumair7230 said:
+companies house register is what keep companys records
+
+here's the link to form your company :
+https://www.gov.uk/limited-company-formation/register-your-company
+thank you
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ZeroEyes
+Topic: GoodBully said:
+You don't need an ITIN to create a Delaware LLC, especially a single-member one that is disregarded for tax purposes.
+You Need ITIN to create Bank account on your Company name if you are not from US,
+No other way to make any Bank account without ITIN except wise which is also getting harder
+
+bet me
+Liked by: imnew
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: GoodBully
+Topic: sumair7230 said:
+You Need ITIN to create Bank account on your Company name if you are not from US,
+No other way to make any Bank account without ITIN except wise which is also getting harder
+
+bet me
+You can use Mercury and other online banks (Brex, Novel, Zenus, etc). They don't require you to have an ITIN, visit the US or being american.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ZeroEyes
+Topic: GoodBully said:
+You can use Mercury and other online banks (Brex, Novel, Zenus, etc). They don't require you to have an ITIN, visit the US or being american.
+Mercury Brex only accept your application if you belong to a tier 1 country
+
+try with indian, pakistani, vietnamese and majority of the asian passports and find out.
+Liked by: Abyssinica, imnew
+Number of likes: 2
+-----
+
+Replies:
+
+

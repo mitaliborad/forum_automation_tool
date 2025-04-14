@@ -1,0 +1,102 @@
+2025-04-14 12:04:43,754 - INFO - Current time: 1744612483.7544465
+2025-04-14 12:04:43,756 - INFO - Token expiration time: 1744620828.6163933
+2025-04-14 12:04:43,758 - INFO - Token expiration time: 1744620828.6163933
+2025-04-14 12:04:43,760 - INFO - performing random action
+2025-04-14 12:04:43,763 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:04:43,764 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:04:43,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:04:45,472 - DEBUG - Page scrolled.
+2025-04-14 12:04:47,474 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:04:49,167 - DEBUG - Page scrolled.
+2025-04-14 12:04:51,168 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:04:52,927 - DEBUG - Page scrolled.
+2025-04-14 12:04:54,928 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:04:56,089 - DEBUG - Page scrolled.
+2025-04-14 12:04:58,091 - DEBUG - Random scrolls complete.
+2025-04-14 12:04:58,092 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:04:58,093 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:04:59,566 - DEBUG - Page scrolled.
+2025-04-14 12:05:01,568 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:05:02,668 - DEBUG - Page scrolled.
+2025-04-14 12:05:04,673 - DEBUG - Random scrolls complete.
+2025-04-14 12:05:15,054 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-14 12:05:20,055 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/boosting-youtube-video-rankings-strategies-to-move-from-page-2-to-page-1-on-google.1702672/unread
+2025-04-14 12:05:20,056 - INFO - performing random action
+2025-04-14 12:05:28,923 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/boosting-youtube-video-rankings-strategies-to-move-from-page-2-to-page-1-on-google.1702672/unread
+2025-04-14 12:05:28,926 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/boosting-youtube-video-rankings-strategies-to-move-from-page-2-to-page-1-on-google.1702672/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:05:28,986 - INFO - Extracted thread title: Boosting YouTube Video Rankings Strategies to Move from Page 2 to Page 1 on Google 
+2025-04-14 12:05:28,987 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:05:28,988 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:05:30,138 - DEBUG - Page scrolled.
+2025-04-14 12:05:32,140 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:05:33,468 - DEBUG - Page scrolled.
+2025-04-14 12:05:35,470 - DEBUG - Random scrolls complete.
+2025-04-14 12:05:37,747 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:05:37,749 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:05:39,633 - DEBUG - Page scrolled.
+2025-04-14 12:05:42,635 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:05:43,682 - DEBUG - Page scrolled.
+2025-04-14 12:05:46,685 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:05:47,850 - DEBUG - Page scrolled.
+2025-04-14 12:05:50,854 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:05:52,070 - DEBUG - Page scrolled.
+2025-04-14 12:05:55,072 - DEBUG - Random scrolls complete.
+2025-04-14 12:05:55,116 - DEBUG - Found 9 like buttons.
+2025-04-14 12:05:58,117 - INFO - Attempting to like 2 posts. There are 9 available.
+2025-04-14 12:05:58,751 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:05:58,779 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:05:58,781 - DEBUG - Liked post number 1 of 2.
+2025-04-14 12:06:04,222 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:06:04,245 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:06:04,247 - DEBUG - Liked post number 2 of 2.
+2025-04-14 12:06:08,608 - INFO - Liked 2 posts successfully.
+2025-04-14 12:06:08,610 - INFO - Liked 2 posts successfully.
+2025-04-14 12:06:11,602 - INFO - Profile PixelPirate99: Minimizing window...
+2025-04-14 12:06:11,611 - INFO - Profile PixelPirate99: Window minimized. Pausing for 25.86 seconds...
+2025-04-14 12:06:37,474 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-04-14 12:06:37,475 - INFO - performing random action
+2025-04-14 12:06:37,477 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:06:37,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:06:38,688 - DEBUG - Page scrolled.
+2025-04-14 12:06:41,691 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:06:42,827 - DEBUG - Page scrolled.
+2025-04-14 12:06:45,829 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:06:46,924 - DEBUG - Page scrolled.
+2025-04-14 12:06:49,926 - DEBUG - Random scrolls complete.
+2025-04-14 12:06:52,695 - DEBUG - Total comments in the thread: 9
+2025-04-14 12:07:54,538 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Boosting YouTube Video Rankings Strategies to Move from Page 2 to Page 1 on Google .txt
+2025-04-14 12:07:56,655 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:07:56,729 - DEBUG - Extracted main post content: I have two YouTube videos that are currently ranked on the second page of Google. I want to improve their rankings so they appear on the first page. When I search for my videos on Google video search, they appear in position number 3, but when I search generally on Google, they are on page 2, position 12.
+
+I would like to know how I can improve my ranking for a specific keyword. Any help or strategies would be appreciated. The first position is held by another YouTube video, which I believe I can compete with. If you know of any good services, I would be interested as well.
+
+Thank you!
+2025-04-14 12:08:00,764 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:08:00,767 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:08:03,307 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-14 12:08:06,191 - INFO - Profile PixelPirate99: Pausing for 49.16 seconds...
+2025-04-14 12:08:55,358 - INFO - Profile PixelPirate99: Resuming...
+2025-04-14 12:08:55,370 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-14 12:08:55,372 - INFO - performing random action
+2025-04-14 12:08:55,379 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:08:55,381 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:08:55,430 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:08:55,578 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:08:55,601 - DEBUG - Text box scrolled into view
+2025-04-14 12:08:56,112 - DEBUG - Initializing actionchains
+2025-04-14 12:08:56,141 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4095}, size: {'height': 21, 'width': 68}
+2025-04-14 12:08:56,141 - DEBUG - Target click coordinates: (1265, 4105)
+2025-04-14 12:09:08,004 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:09:08,006 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:09:08,007 - DEBUG - Clicking on the text box.
+2025-04-14 12:09:08,010 - DEBUG - Sending keys with content: Focus on increasing the watch time and engagement; Google loves videos that keep people watching. Ever tried creating a playlist to encourage longer viewing sessions?
+
+2025-04-14 12:09:13,390 - DEBUG - Clicking on post reply button.
+2025-04-14 12:09:14,620 - DEBUG - Performed Actionchains
+2025-04-14 12:09:14,621 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:09:18,622 - INFO - Comment posted successfully.
+2025-04-14 12:09:18,623 - INFO - Task Completed!!
+2025-04-14 12:09:24,530 - INFO - Navigated back to the homepage.
+2025-04-14 12:09:27,522 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:09:27,578 - INFO - Garbage collection completed.
+2025-04-14 12:09:27,579 - INFO - Waiting for 2200 seconds before next execution.

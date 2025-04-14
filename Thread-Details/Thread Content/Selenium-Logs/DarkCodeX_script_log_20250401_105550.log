@@ -1,0 +1,100 @@
+2025-04-01 10:55:50,942 - INFO - Current time: 1743485150.9427342
+2025-04-01 10:55:50,945 - INFO - Token expiration time: 1743491284.0683281
+2025-04-01 10:55:50,947 - INFO - Token expiration time: 1743491284.0683281
+2025-04-01 10:55:50,952 - INFO - performing random action
+2025-04-01 10:55:50,958 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 10:55:50,960 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:55:50,961 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:55:52,255 - DEBUG - Page scrolled.
+2025-04-01 10:55:54,257 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:55:56,209 - DEBUG - Page scrolled.
+2025-04-01 10:55:58,211 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:55:59,762 - DEBUG - Page scrolled.
+2025-04-01 10:56:01,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:56:03,079 - DEBUG - Page scrolled.
+2025-04-01 10:56:05,084 - DEBUG - Random scrolls complete.
+2025-04-01 10:56:05,086 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:56:05,087 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:56:06,483 - DEBUG - Page scrolled.
+2025-04-01 10:56:08,485 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:56:10,169 - DEBUG - Page scrolled.
+2025-04-01 10:56:12,171 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:56:13,476 - DEBUG - Page scrolled.
+2025-04-01 10:56:15,479 - DEBUG - Random scrolls complete.
+2025-04-01 10:56:22,636 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-04-01 10:56:26,910 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-there-any-way-to-remove-a-negative-google-review.1696174/
+2025-04-01 10:56:26,911 - INFO - performing random action
+2025-04-01 10:56:34,609 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-there-any-way-to-remove-a-negative-google-review.1696174/
+2025-04-01 10:56:34,618 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-there-any-way-to-remove-a-negative-google-review.1696174/' to visited threads file 'Thread_links.txt'.
+2025-04-01 10:56:34,648 - INFO - Extracted thread title: Is there any way to remove a negative Google review
+2025-04-01 10:56:34,649 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:56:34,650 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:56:36,601 - DEBUG - Page scrolled.
+2025-04-01 10:56:38,632 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:56:39,829 - DEBUG - Page scrolled.
+2025-04-01 10:56:41,833 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:56:43,840 - DEBUG - Page scrolled.
+2025-04-01 10:56:45,852 - DEBUG - Random scrolls complete.
+2025-04-01 10:56:48,106 - DEBUG - Scrolling page 1 times.
+2025-04-01 10:56:48,108 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:56:50,117 - DEBUG - Page scrolled.
+2025-04-01 10:56:53,120 - DEBUG - Random scrolls complete.
+2025-04-01 10:56:53,134 - DEBUG - Found 4 like buttons.
+2025-04-01 10:56:56,136 - INFO - Attempting to like 3 posts. There are 4 available.
+2025-04-01 10:56:56,655 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:56:56,678 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:56:56,679 - DEBUG - Liked post number 1 of 3.
+2025-04-01 10:57:02,013 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:57:02,038 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:57:02,040 - DEBUG - Liked post number 2 of 3.
+2025-04-01 10:57:07,128 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:57:07,164 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:57:07,165 - DEBUG - Liked post number 3 of 3.
+2025-04-01 10:57:11,697 - INFO - Liked 3 posts successfully.
+2025-04-01 10:57:11,700 - INFO - Liked 3 posts successfully.
+2025-04-01 10:57:14,397 - INFO - performing random action
+2025-04-01 10:57:14,399 - DEBUG - Scrolling page 6 times.
+2025-04-01 10:57:14,400 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:57:16,128 - DEBUG - Page scrolled.
+2025-04-01 10:57:19,128 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:57:20,625 - DEBUG - Page scrolled.
+2025-04-01 10:57:23,627 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:57:24,836 - DEBUG - Page scrolled.
+2025-04-01 10:57:27,838 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:57:29,326 - DEBUG - Page scrolled.
+2025-04-01 10:57:32,328 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:57:34,335 - DEBUG - Page scrolled.
+2025-04-01 10:57:37,337 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:57:38,750 - DEBUG - Page scrolled.
+2025-04-01 10:57:41,752 - DEBUG - Random scrolls complete.
+2025-04-01 10:57:44,630 - DEBUG - Total comments in the thread: 4
+2025-04-01 10:57:55,412 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is there any way to remove a negative Google review.txt
+2025-04-01 10:57:58,111 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 10:57:58,168 - DEBUG - Extracted main post content: Client is willing to pay to get a particular review removed. We'll do whatever it takes. Please let me know or message me.
+2025-04-01 10:58:01,595 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 10:58:01,597 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 10:58:03,653 - INFO - Profile DarkCodeX: Pausing for 31.84 seconds...
+2025-04-01 10:58:35,494 - INFO - Profile DarkCodeX: Resuming...
+2025-04-01 10:58:35,496 - INFO - performing random action
+2025-04-01 10:58:35,497 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:58:35,498 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:58:35,512 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:58:35,569 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:58:35,582 - DEBUG - Text box scrolled into view
+2025-04-01 10:58:36,196 - DEBUG - Initializing actionchains
+2025-04-01 10:58:36,292 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2122}, size: {'height': 21, 'width': 68}
+2025-04-01 10:58:36,293 - DEBUG - Target click coordinates: (1121, 2132)
+2025-04-01 10:58:44,481 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 10:58:44,481 - DEBUG - Moving mouse to text box element.
+2025-04-01 10:58:44,482 - DEBUG - Clicking on the text box.
+2025-04-01 10:58:44,483 - DEBUG - Sending keys with content: Before you go scorched earth, have you tried just...talking to the reviewer and seeing what their issue is? Might be simpler than you think.
+
+2025-04-01 10:58:49,753 - DEBUG - Clicking on post reply button.
+2025-04-01 10:58:51,180 - DEBUG - Performed Actionchains
+2025-04-01 10:58:51,181 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 10:58:55,183 - INFO - Comment posted successfully.
+2025-04-01 10:58:55,184 - INFO - Task Completed!!
+2025-04-01 10:58:58,415 - INFO - Navigated back to the homepage.
+2025-04-01 10:59:00,488 - INFO - Attempting to clear memory and resources.
+2025-04-01 10:59:00,561 - INFO - Garbage collection completed.
+2025-04-01 10:59:00,562 - INFO - Waiting for 2000 seconds before next execution.

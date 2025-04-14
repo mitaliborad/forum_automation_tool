@@ -1,0 +1,93 @@
+2025-04-02 11:15:08,208 - INFO - Current time: 1743572708.2084296
+2025-04-02 11:15:08,209 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 11:15:08,210 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 11:15:08,210 - INFO - Profile DarkCodeX: Opening random website: https://letshyphen.com/
+2025-04-02 11:15:36,116 - INFO - Profile DarkCodeX: Pausing for 36.76 seconds...
+2025-04-02 11:16:12,877 - INFO - Profile DarkCodeX: Resuming...
+2025-04-02 11:16:12,897 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-02 11:16:12,898 - INFO - performing random action
+2025-04-02 11:16:12,898 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 11:16:12,900 - DEBUG - Scrolling page 2 times.
+2025-04-02 11:16:12,900 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:14,795 - DEBUG - Page scrolled.
+2025-04-02 11:16:16,797 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:17,968 - DEBUG - Page scrolled.
+2025-04-02 11:16:19,974 - DEBUG - Random scrolls complete.
+2025-04-02 11:16:19,976 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:16:19,978 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:21,359 - DEBUG - Page scrolled.
+2025-04-02 11:16:23,360 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:24,638 - DEBUG - Page scrolled.
+2025-04-02 11:16:26,639 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:28,638 - DEBUG - Page scrolled.
+2025-04-02 11:16:30,640 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:32,165 - DEBUG - Page scrolled.
+2025-04-02 11:16:34,166 - DEBUG - Random scrolls complete.
+2025-04-02 11:16:40,964 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-02 11:16:46,640 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/low-capital-intensive-businesses-with-stable-earnings.1701082/unread
+2025-04-02 11:16:46,641 - INFO - Profile DarkCodeX: Pausing for 43.05 seconds...
+2025-04-02 11:17:29,696 - INFO - Profile DarkCodeX: Resuming...
+2025-04-02 11:17:29,698 - INFO - performing random action
+2025-04-02 11:17:38,196 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/low-capital-intensive-businesses-with-stable-earnings.1701082/unread
+2025-04-02 11:17:38,200 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/low-capital-intensive-businesses-with-stable-earnings.1701082/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 11:17:38,239 - INFO - Extracted thread title: Low capital intensive businesses with stable earnings
+2025-04-02 11:17:38,240 - DEBUG - Scrolling page 2 times.
+2025-04-02 11:17:38,241 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:40,081 - DEBUG - Page scrolled.
+2025-04-02 11:17:42,082 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:43,629 - DEBUG - Page scrolled.
+2025-04-02 11:17:45,631 - DEBUG - Random scrolls complete.
+2025-04-02 11:17:48,012 - DEBUG - Scrolling page 1 times.
+2025-04-02 11:17:48,012 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:49,708 - DEBUG - Page scrolled.
+2025-04-02 11:17:52,710 - DEBUG - Random scrolls complete.
+2025-04-02 11:17:52,732 - DEBUG - Found 5 like buttons.
+2025-04-02 11:17:55,733 - INFO - Attempting to like 1 posts. There are 5 available.
+2025-04-02 11:17:56,380 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:17:56,394 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:17:56,396 - DEBUG - Liked post number 1 of 1.
+2025-04-02 11:18:00,511 - INFO - Liked 1 posts successfully.
+2025-04-02 11:18:00,512 - INFO - Liked 1 posts successfully.
+2025-04-02 11:18:03,102 - INFO - Profile DarkCodeX: Minimizing window...
+2025-04-02 11:18:03,105 - INFO - Profile DarkCodeX: Window minimized. Pausing for 19.65 seconds...
+2025-04-02 11:18:22,762 - INFO - Profile DarkCodeX: Resuming after minimize...
+2025-04-02 11:18:22,763 - INFO - performing random action
+2025-04-02 11:18:22,764 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:18:22,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:18:23,887 - DEBUG - Page scrolled.
+2025-04-02 11:18:26,889 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:18:28,812 - DEBUG - Page scrolled.
+2025-04-02 11:18:31,814 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:18:33,520 - DEBUG - Page scrolled.
+2025-04-02 11:18:36,522 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:18:37,800 - DEBUG - Page scrolled.
+2025-04-02 11:18:40,804 - DEBUG - Random scrolls complete.
+2025-04-02 11:18:43,400 - DEBUG - Total comments in the thread: 5
+2025-04-02 11:19:15,252 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Low capital intensive businesses with stable earnings.txt
+2025-04-02 11:19:17,824 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 11:19:17,855 - DEBUG - Extracted main post content: Can you guys suggest me low capital intensive businesses with stable earnings?
+2025-04-02 11:19:22,337 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 11:19:22,339 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 11:19:24,515 - INFO - performing random action
+2025-04-02 11:19:24,517 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:19:24,519 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:19:24,548 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:19:24,597 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:19:24,608 - DEBUG - Text box scrolled into view
+2025-04-02 11:19:25,240 - DEBUG - Initializing actionchains
+2025-04-02 11:19:25,291 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2254}, size: {'height': 21, 'width': 68}
+2025-04-02 11:19:25,292 - DEBUG - Target click coordinates: (1121, 2264)
+2025-04-02 11:19:34,137 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 11:19:34,139 - DEBUG - Moving mouse to text box element.
+2025-04-02 11:19:34,140 - DEBUG - Clicking on the text box.
+2025-04-02 11:19:34,143 - DEBUG - Sending keys with content: Ever thought about offering a niche service, like resume writing or virtual assistant work, online? Steady demand, and your startup costs are basically zero.
+
+2025-04-02 11:19:39,805 - DEBUG - Clicking on post reply button.
+2025-04-02 11:19:50,481 - DEBUG - Performed Actionchains
+2025-04-02 11:19:50,483 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 11:19:54,486 - INFO - Comment posted successfully.
+2025-04-02 11:19:54,489 - INFO - Task Completed!!
+2025-04-02 11:20:08,865 - INFO - Navigated back to the homepage.
+2025-04-02 11:20:11,313 - INFO - Attempting to clear memory and resources.
+2025-04-02 11:20:11,365 - INFO - Garbage collection completed.
+2025-04-02 11:20:11,366 - INFO - Waiting for 2000 seconds before next execution.

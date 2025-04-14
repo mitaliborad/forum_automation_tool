@@ -1,0 +1,96 @@
+2025-04-02 11:53:31,373 - INFO - Current time: 1743575011.3735943
+2025-04-02 11:53:31,375 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 11:53:31,377 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 11:53:31,378 - INFO - performing random action
+2025-04-02 11:53:31,380 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 11:53:31,382 - DEBUG - Scrolling page 2 times.
+2025-04-02 11:53:31,383 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:32,470 - DEBUG - Page scrolled.
+2025-04-02 11:53:34,472 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:36,176 - DEBUG - Page scrolled.
+2025-04-02 11:53:38,179 - DEBUG - Random scrolls complete.
+2025-04-02 11:53:38,181 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:53:38,183 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:39,734 - DEBUG - Page scrolled.
+2025-04-02 11:53:41,736 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:43,691 - DEBUG - Page scrolled.
+2025-04-02 11:53:45,693 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:46,726 - DEBUG - Page scrolled.
+2025-04-02 11:53:48,728 - DEBUG - Random scrolls complete.
+2025-04-02 11:53:59,426 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-04-02 11:54:03,783 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/my-site-goes-down-with-php-8-0-version.1351022/unread
+2025-04-02 11:54:03,784 - INFO - Profile DarkCodeX: Pausing for 34.56 seconds...
+2025-04-02 11:54:38,349 - INFO - Profile DarkCodeX: Resuming...
+2025-04-02 11:54:38,351 - INFO - performing random action
+2025-04-02 11:54:48,720 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/my-site-goes-down-with-php-8-0-version.1351022/unread
+2025-04-02 11:54:48,724 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/my-site-goes-down-with-php-8-0-version.1351022/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 11:54:48,778 - INFO - Extracted thread title: My site goes down with PHP 8.0 version
+2025-04-02 11:54:48,779 - DEBUG - Scrolling page 2 times.
+2025-04-02 11:54:48,780 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:54:50,063 - DEBUG - Page scrolled.
+2025-04-02 11:54:52,065 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:54:54,008 - DEBUG - Page scrolled.
+2025-04-02 11:54:56,010 - DEBUG - Random scrolls complete.
+2025-04-02 11:54:58,192 - DEBUG - Scrolling page 1 times.
+2025-04-02 11:54:58,193 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:54:59,819 - DEBUG - Page scrolled.
+2025-04-02 11:55:02,821 - DEBUG - Random scrolls complete.
+2025-04-02 11:55:02,836 - DEBUG - Found 4 like buttons.
+2025-04-02 11:55:05,837 - INFO - Attempting to like 1 posts. There are 4 available.
+2025-04-02 11:55:06,539 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:55:06,567 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:55:06,573 - DEBUG - Liked post number 1 of 1.
+2025-04-02 11:55:11,368 - INFO - Liked 1 posts successfully.
+2025-04-02 11:55:11,371 - INFO - Liked 1 posts successfully.
+2025-04-02 11:55:14,325 - INFO - Profile DarkCodeX: Opening random website: https://www.netflix.com/in/
+2025-04-02 11:55:34,092 - INFO - Profile DarkCodeX: Pausing for 41.36 seconds...
+2025-04-02 11:56:15,452 - INFO - Profile DarkCodeX: Resuming...
+2025-04-02 11:56:15,489 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-02 11:56:15,489 - INFO - performing random action
+2025-04-02 11:56:15,490 - DEBUG - Scrolling page 6 times.
+2025-04-02 11:56:15,491 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:56:17,466 - DEBUG - Page scrolled.
+2025-04-02 11:56:20,469 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:56:22,369 - DEBUG - Page scrolled.
+2025-04-02 11:56:25,371 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:56:27,218 - DEBUG - Page scrolled.
+2025-04-02 11:56:30,221 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:56:31,639 - DEBUG - Page scrolled.
+2025-04-02 11:56:34,642 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:56:35,785 - DEBUG - Page scrolled.
+2025-04-02 11:56:38,788 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:56:40,668 - DEBUG - Page scrolled.
+2025-04-02 11:56:43,670 - DEBUG - Random scrolls complete.
+2025-04-02 11:56:46,761 - DEBUG - Total comments in the thread: 4
+2025-04-02 11:56:57,553 - INFO - Post content extracted and saved to Thread-Details/Thread Content\My site goes down with PHP 8.0 version.txt
+2025-04-02 11:56:59,819 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 11:56:59,863 - DEBUG - Extracted main post content: Hi guys!
+
+I have a WordPress adult site built with WP script. I have the PHP version at 7.2 and I should bring it to at least 7.4 but when I switch to the new ones my site goes down with the classic “ 404 error page not found” .
+I don’t know if is a problem with some plugin or the Retrotube theme that I’m using.
+I hope anyone can help me
+2025-04-02 11:57:03,089 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 11:57:03,091 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 11:57:05,572 - INFO - performing random action
+2025-04-02 11:57:05,575 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:57:05,576 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:57:05,593 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:57:05,640 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:57:05,649 - DEBUG - Text box scrolled into view
+2025-04-02 11:57:06,246 - DEBUG - Initializing actionchains
+2025-04-02 11:57:06,283 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2164}, size: {'height': 21, 'width': 68}
+2025-04-02 11:57:06,284 - DEBUG - Target click coordinates: (1121, 2174)
+2025-04-02 11:57:14,477 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 11:57:14,478 - DEBUG - Moving mouse to text box element.
+2025-04-02 11:57:14,479 - DEBUG - Clicking on the text box.
+2025-04-02 11:57:14,481 - DEBUG - Sending keys with content: RetroTube theme might be the culprit, as older themes sometimes throw fits with newer PHP versions; have you tried switching to a default WP theme temporarily to see if that fixes it?
+
+2025-04-02 11:57:20,277 - DEBUG - Clicking on post reply button.
+2025-04-02 11:57:31,408 - DEBUG - Performed Actionchains
+2025-04-02 11:57:31,408 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 11:57:35,410 - INFO - Comment posted successfully.
+2025-04-02 11:57:35,412 - INFO - Task Completed!!
+2025-04-02 11:57:43,286 - INFO - Navigated back to the homepage.
+2025-04-02 11:57:45,764 - INFO - Attempting to clear memory and resources.
+2025-04-02 11:57:45,802 - INFO - Garbage collection completed.
+2025-04-02 11:57:45,803 - INFO - Waiting for 2000 seconds before next execution.

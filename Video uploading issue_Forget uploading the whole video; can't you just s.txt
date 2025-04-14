@@ -1,1 +1,0 @@
-Forget uploading the whole video; can't you just store the YouTube video ID? Seems way easier.

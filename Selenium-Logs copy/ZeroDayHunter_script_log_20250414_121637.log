@@ -1,0 +1,104 @@
+2025-04-14 12:16:37,078 - INFO - Current time: 1744613197.0781446
+2025-04-14 12:16:37,079 - INFO - Token expiration time: 1744621607.0474901
+2025-04-14 12:16:37,079 - INFO - Token expiration time: 1744621607.0474901
+2025-04-14 12:16:37,080 - INFO - performing random action
+2025-04-14 12:16:37,081 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:16:37,082 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:16:37,082 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:38,426 - DEBUG - Page scrolled.
+2025-04-14 12:16:40,430 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:42,352 - DEBUG - Page scrolled.
+2025-04-14 12:16:44,353 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:45,647 - DEBUG - Page scrolled.
+2025-04-14 12:16:47,649 - DEBUG - Random scrolls complete.
+2025-04-14 12:16:47,650 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:16:47,652 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:49,177 - DEBUG - Page scrolled.
+2025-04-14 12:16:51,179 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:52,224 - DEBUG - Page scrolled.
+2025-04-14 12:16:54,227 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:56,041 - DEBUG - Page scrolled.
+2025-04-14 12:16:58,043 - DEBUG - Random scrolls complete.
+2025-04-14 12:17:05,729 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-04-14 12:17:09,845 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/hello-guys.1703341/unread
+2025-04-14 12:17:09,846 - INFO - performing random action
+2025-04-14 12:17:19,613 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/hello-guys.1703341/unread
+2025-04-14 12:17:19,616 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/hello-guys.1703341/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:17:19,674 - INFO - Extracted thread title: Hello guys
+2025-04-14 12:17:19,675 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:17:19,675 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:17:20,889 - DEBUG - Page scrolled.
+2025-04-14 12:17:22,891 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:17:24,454 - DEBUG - Page scrolled.
+2025-04-14 12:17:26,459 - DEBUG - Random scrolls complete.
+2025-04-14 12:17:29,130 - DEBUG - Scrolling page 1 times.
+2025-04-14 12:17:29,132 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:17:30,829 - DEBUG - Page scrolled.
+2025-04-14 12:17:33,831 - DEBUG - Random scrolls complete.
+2025-04-14 12:17:33,877 - DEBUG - Found 14 like buttons.
+2025-04-14 12:17:36,878 - INFO - Attempting to like 3 posts. There are 14 available.
+2025-04-14 12:17:37,625 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:17:37,658 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:17:37,659 - DEBUG - Liked post number 1 of 3.
+2025-04-14 12:17:43,134 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:17:43,156 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:17:43,158 - DEBUG - Liked post number 2 of 3.
+2025-04-14 12:17:47,824 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:17:47,846 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:17:47,848 - DEBUG - Liked post number 3 of 3.
+2025-04-14 12:17:52,635 - INFO - Liked 3 posts successfully.
+2025-04-14 12:17:52,638 - INFO - Liked 3 posts successfully.
+2025-04-14 12:17:55,491 - INFO - Profile ZeroDayHunter: Opening random website: https://letshyphen.com/
+2025-04-14 12:18:26,561 - INFO - Profile ZeroDayHunter: Pausing for 49.49 seconds...
+2025-04-14 12:19:16,052 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-14 12:19:16,071 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-14 12:19:16,072 - INFO - performing random action
+2025-04-14 12:19:16,073 - DEBUG - Scrolling page 6 times.
+2025-04-14 12:19:16,074 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:17,279 - DEBUG - Page scrolled.
+2025-04-14 12:19:20,287 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:21,919 - DEBUG - Page scrolled.
+2025-04-14 12:19:24,923 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:26,887 - DEBUG - Page scrolled.
+2025-04-14 12:19:29,888 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:31,410 - DEBUG - Page scrolled.
+2025-04-14 12:19:34,411 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:35,727 - DEBUG - Page scrolled.
+2025-04-14 12:19:38,729 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:39,927 - DEBUG - Page scrolled.
+2025-04-14 12:19:42,929 - DEBUG - Random scrolls complete.
+2025-04-14 12:19:45,101 - DEBUG - Total comments in the thread: 14
+2025-04-14 12:20:06,578 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Hello guys.txt
+2025-04-14 12:20:09,231 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:20:09,318 - DEBUG - Extracted main post content: Hello everyone,
+I’m HIU, specializing in Facebook advertising services. I provide Business Manager (BM) rental accounts for ad campaigns, ensuring smooth operations with pre-funded ad accounts and controlled spending limits.
+I’ve been working in the ad industry for a while, continuously learning and optimizing strategies to maximize performance. I joined BHW to connect with like-minded professionals, share knowledge, and explore new opportunities in digital marketing.
+Looking forward to networking and exchanging valuable insights with you all!
+
+Best regard
+HIU HIU
+2025-04-14 12:20:13,077 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:20:13,079 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:20:15,905 - INFO - performing random action
+2025-04-14 12:20:15,909 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:20:15,911 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:20:15,956 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:20:16,038 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:20:16,047 - DEBUG - Text box scrolled into view
+2025-04-14 12:20:16,616 - DEBUG - Initializing actionchains
+2025-04-14 12:20:16,706 - DEBUG - Post reply Element location: {'x': 1231, 'y': 5154}, size: {'height': 21, 'width': 68}
+2025-04-14 12:20:16,707 - DEBUG - Target click coordinates: (1265, 5164)
+2025-04-14 12:20:32,017 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:20:32,019 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:20:32,020 - DEBUG - Clicking on the text box.
+2025-04-14 12:20:32,022 - DEBUG - Sending keys with content: Welcome to the forum! What kind of results are you typically seeing with the pre-funded accounts, and in what niches?
+
+2025-04-14 12:20:37,767 - DEBUG - Clicking on post reply button.
+2025-04-14 12:20:48,828 - DEBUG - Performed Actionchains
+2025-04-14 12:20:48,830 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:20:52,832 - INFO - Comment posted successfully.
+2025-04-14 12:20:52,834 - INFO - Task Completed!!
+2025-04-14 12:21:03,754 - INFO - Navigated back to the homepage.
+2025-04-14 12:21:06,068 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:21:06,138 - INFO - Garbage collection completed.
+2025-04-14 12:21:06,139 - INFO - Waiting for 2200 seconds before next execution.

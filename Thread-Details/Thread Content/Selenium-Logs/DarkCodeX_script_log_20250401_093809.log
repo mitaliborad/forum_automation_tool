@@ -1,0 +1,113 @@
+2025-04-01 09:38:09,686 - INFO - Current time: 1743480489.686943
+2025-04-01 09:38:09,687 - INFO - Token expiration time: 1743491284.0683281
+2025-04-01 09:38:09,688 - INFO - Token expiration time: 1743491284.0683281
+2025-04-01 09:38:09,689 - INFO - performing random action
+2025-04-01 09:38:09,690 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 09:38:09,690 - DEBUG - Scrolling page 4 times.
+2025-04-01 09:38:09,691 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:38:15,957 - DEBUG - Page scrolled.
+2025-04-01 09:38:17,959 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:38:19,423 - DEBUG - Page scrolled.
+2025-04-01 09:38:21,425 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:38:22,990 - DEBUG - Page scrolled.
+2025-04-01 09:38:24,992 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:38:26,408 - DEBUG - Page scrolled.
+2025-04-01 09:38:28,413 - DEBUG - Random scrolls complete.
+2025-04-01 09:38:28,415 - DEBUG - Scrolling page 3 times.
+2025-04-01 09:38:28,416 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:38:29,520 - DEBUG - Page scrolled.
+2025-04-01 09:38:31,524 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:38:33,421 - DEBUG - Page scrolled.
+2025-04-01 09:38:35,428 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:38:37,316 - DEBUG - Page scrolled.
+2025-04-01 09:38:39,317 - DEBUG - Random scrolls complete.
+2025-04-01 09:38:47,890 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-01 09:38:52,079 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-is-this-done.1656620/unread
+2025-04-01 09:38:52,080 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-01 09:39:00,930 - INFO - Profile DarkCodeX: Pausing for 49.10 seconds...
+2025-04-01 09:39:50,029 - INFO - Profile DarkCodeX: Resuming...
+2025-04-01 09:39:50,042 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-01 09:39:50,043 - INFO - performing random action
+2025-04-01 09:40:02,637 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-is-this-done.1656620/unread
+2025-04-01 09:40:02,639 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-is-this-done.1656620/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 09:40:02,669 - INFO - Extracted thread title: How is this done
+2025-04-01 09:40:02,671 - DEBUG - Scrolling page 4 times.
+2025-04-01 09:40:02,672 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:40:03,710 - DEBUG - Page scrolled.
+2025-04-01 09:40:05,711 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:40:07,299 - DEBUG - Page scrolled.
+2025-04-01 09:40:09,300 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:40:10,903 - DEBUG - Page scrolled.
+2025-04-01 09:40:12,904 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:40:13,992 - DEBUG - Page scrolled.
+2025-04-01 09:40:15,994 - DEBUG - Random scrolls complete.
+2025-04-01 09:40:18,270 - DEBUG - Scrolling page 4 times.
+2025-04-01 09:40:18,272 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:40:19,694 - DEBUG - Page scrolled.
+2025-04-01 09:40:22,696 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:40:24,287 - DEBUG - Page scrolled.
+2025-04-01 09:40:27,289 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:40:28,934 - DEBUG - Page scrolled.
+2025-04-01 09:40:31,935 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:40:33,371 - DEBUG - Page scrolled.
+2025-04-01 09:40:36,373 - DEBUG - Random scrolls complete.
+2025-04-01 09:40:36,396 - DEBUG - Found 11 like buttons.
+2025-04-01 09:40:39,397 - INFO - Attempting to like 1 posts. There are 11 available.
+2025-04-01 09:40:40,142 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 09:40:40,167 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 09:40:40,169 - DEBUG - Liked post number 1 of 1.
+2025-04-01 09:40:45,087 - INFO - Liked 1 posts successfully.
+2025-04-01 09:40:45,090 - INFO - Liked 1 posts successfully.
+2025-04-01 09:40:47,152 - INFO - Profile DarkCodeX: Opening random website: https://letshyphen.com/
+2025-04-01 09:41:37,955 - INFO - Profile DarkCodeX: Pausing for 44.21 seconds...
+2025-04-01 09:42:22,168 - INFO - Profile DarkCodeX: Resuming...
+2025-04-01 09:42:22,196 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-01 09:42:22,197 - INFO - performing random action
+2025-04-01 09:42:22,198 - DEBUG - Scrolling page 7 times.
+2025-04-01 09:42:22,198 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:42:23,728 - DEBUG - Page scrolled.
+2025-04-01 09:42:26,730 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:42:28,484 - DEBUG - Page scrolled.
+2025-04-01 09:42:31,485 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:42:32,820 - DEBUG - Page scrolled.
+2025-04-01 09:42:35,827 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:42:37,520 - DEBUG - Page scrolled.
+2025-04-01 09:42:40,522 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:42:42,360 - DEBUG - Page scrolled.
+2025-04-01 09:42:45,363 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:42:46,411 - DEBUG - Page scrolled.
+2025-04-01 09:42:49,413 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:42:50,573 - DEBUG - Page scrolled.
+2025-04-01 09:42:53,574 - DEBUG - Random scrolls complete.
+2025-04-01 09:42:56,227 - DEBUG - Total comments in the thread: 11
+2025-04-01 09:44:21,882 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How is this done.txt
+2025-04-01 09:44:23,986 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 09:44:24,066 - DEBUG - Extracted main post content: Any help would be much appreciated.
+Attachments
+11.jpg
+2025-04-01 09:44:28,127 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 09:44:28,129 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 09:44:30,667 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-01 09:44:32,671 - INFO - performing random action
+2025-04-01 09:44:32,674 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:44:32,676 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:44:32,740 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:44:32,810 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:44:32,826 - DEBUG - Text box scrolled into view
+2025-04-01 09:44:33,703 - DEBUG - Initializing actionchains
+2025-04-01 09:44:33,779 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3938}, size: {'height': 21, 'width': 68}
+2025-04-01 09:44:33,780 - DEBUG - Target click coordinates: (1121, 3948)
+2025-04-01 09:44:45,693 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 09:44:45,695 - DEBUG - Moving mouse to text box element.
+2025-04-01 09:44:45,697 - DEBUG - Clicking on the text box.
+2025-04-01 09:44:45,699 - DEBUG - Sending keys with content: Instead of spinning your wheels, have you tried reverse image searching that pic to see where else it pops up?
+
+2025-04-01 09:44:51,655 - DEBUG - Clicking on post reply button.
+2025-04-01 09:45:02,691 - DEBUG - Performed Actionchains
+2025-04-01 09:45:02,692 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 09:45:06,693 - INFO - Comment posted successfully.
+2025-04-01 09:45:06,694 - INFO - Task Completed!!
+2025-04-01 09:45:14,734 - INFO - Navigated back to the homepage.
+2025-04-01 09:45:17,314 - INFO - Attempting to clear memory and resources.
+2025-04-01 09:45:17,361 - INFO - Garbage collection completed.
+2025-04-01 09:45:17,362 - INFO - Waiting for 2000 seconds before next execution.

@@ -1,0 +1,129 @@
+2025-04-09 09:23:20,944 - INFO - Current time: 1744170800.9440665
+2025-04-09 09:23:20,945 - INFO - Token expiration time: 1744181595.7993968
+2025-04-09 09:23:20,947 - INFO - Token expiration time: 1744181595.7993968
+2025-04-09 09:23:20,949 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-09 09:23:23,022 - INFO - performing random action
+2025-04-09 09:23:23,025 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 09:23:23,027 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:23:23,028 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:28:23,059 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF684270C45+27221]
+	(No symbol) [0x00007FF6841D6F30]
+	(No symbol) [0x00007FF684055ADA]
+	(No symbol) [0x00007FF68404599C]
+	(No symbol) [0x00007FF68404568A]
+	(No symbol) [0x00007FF68404320F]
+	(No symbol) [0x00007FF684043CDF]
+	(No symbol) [0x00007FF68404FD5E]
+	(No symbol) [0x00007FF684065FE3]
+	(No symbol) [0x00007FF68406D11A]
+	(No symbol) [0x00007FF68404444D]
+	(No symbol) [0x00007FF684065D15]
+	(No symbol) [0x00007FF6841003C5]
+	(No symbol) [0x00007FF6840D7A73]
+	(No symbol) [0x00007FF6840A0750]
+	(No symbol) [0x00007FF6840A1A03]
+	GetHandleVerifier [0x00007FF6845D6E2D+3591229]
+	GetHandleVerifier [0x00007FF6845EE45A+3687018]
+	GetHandleVerifier [0x00007FF6845E3323+3641651]
+	GetHandleVerifier [0x00007FF68433B6BA+857290]
+	(No symbol) [0x00007FF6841E230F]
+	(No symbol) [0x00007FF6841DE304]
+	(No symbol) [0x00007FF6841DE4A6]
+	(No symbol) [0x00007FF6841CD469]
+	BaseThreadInitThunk [0x00007FFA29D07374+20]
+	RtlUserThreadStart [0x00007FFA2B79CC91+33]
+
+2025-04-09 09:28:24,601 - DEBUG - Page scrolled.
+2025-04-09 09:28:26,603 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:28:28,017 - DEBUG - Page scrolled.
+2025-04-09 09:28:30,019 - DEBUG - Random scrolls complete.
+2025-04-09 09:28:30,021 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:28:30,024 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:28:31,196 - DEBUG - Page scrolled.
+2025-04-09 09:28:33,198 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:28:34,793 - DEBUG - Page scrolled.
+2025-04-09 09:28:36,795 - DEBUG - Random scrolls complete.
+2025-04-09 09:28:52,985 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-09 09:28:56,662 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-it-is-helpful-for-seo.1696742/unread
+2025-04-09 09:28:56,662 - INFO - performing random action
+2025-04-09 09:29:06,060 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-it-is-helpful-for-seo.1696742/unread
+2025-04-09 09:29:06,062 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-it-is-helpful-for-seo.1696742/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 09:29:06,089 - INFO - Extracted thread title: How it is helpful for SEO
+2025-04-09 09:29:06,090 - DEBUG - Scrolling page 4 times.
+2025-04-09 09:29:06,090 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:29:07,920 - DEBUG - Page scrolled.
+2025-04-09 09:29:09,922 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:29:11,942 - DEBUG - Page scrolled.
+2025-04-09 09:29:13,944 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:29:15,257 - DEBUG - Page scrolled.
+2025-04-09 09:29:17,259 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:29:18,451 - DEBUG - Page scrolled.
+2025-04-09 09:29:20,453 - DEBUG - Random scrolls complete.
+2025-04-09 09:29:23,116 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:29:23,117 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:29:24,789 - DEBUG - Page scrolled.
+2025-04-09 09:29:21,945 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:29:23,448 - DEBUG - Page scrolled.
+2025-04-09 09:29:26,449 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:29:27,910 - DEBUG - Page scrolled.
+2025-04-09 09:29:30,911 - DEBUG - Random scrolls complete.
+2025-04-09 09:29:30,924 - DEBUG - Found 2 like buttons.
+2025-04-09 09:29:33,925 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-04-09 09:29:34,605 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:29:34,615 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:29:34,616 - DEBUG - Liked post number 1 of 1.
+2025-04-09 09:29:38,759 - INFO - Liked 1 posts successfully.
+2025-04-09 09:29:38,760 - INFO - Liked 1 posts successfully.
+2025-04-09 09:29:41,647 - INFO - Profile DarkCodeX: Pausing for 38.71 seconds...
+2025-04-09 09:30:20,362 - INFO - Profile DarkCodeX: Resuming...
+2025-04-09 09:30:20,362 - INFO - performing random action
+2025-04-09 09:30:20,363 - DEBUG - Scrolling page 6 times.
+2025-04-09 09:30:20,364 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:30:21,424 - DEBUG - Page scrolled.
+2025-04-09 09:30:24,425 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:30:26,110 - DEBUG - Page scrolled.
+2025-04-09 09:30:29,111 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:30:31,032 - DEBUG - Page scrolled.
+2025-04-09 09:30:34,033 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:30:35,537 - DEBUG - Page scrolled.
+2025-04-09 09:30:38,539 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:30:40,100 - DEBUG - Page scrolled.
+2025-04-09 09:30:43,102 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:30:44,286 - DEBUG - Page scrolled.
+2025-04-09 09:30:47,287 - DEBUG - Random scrolls complete.
+2025-04-09 09:30:49,507 - DEBUG - Total comments in the thread: 2
+2025-04-09 09:30:59,938 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How it is helpful for SEO.txt
+2025-04-09 09:31:02,681 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 09:31:02,703 - DEBUG - Extracted main post content: What is the role of Myspace in SEO activities, and how does it contribute to improving website rankings and visibility?
+2025-04-09 09:31:08,079 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 09:31:08,082 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 09:31:10,907 - INFO - Profile DarkCodeX: Opening random website: https://www.netflix.com/in/
+2025-04-09 09:31:26,221 - INFO - Profile DarkCodeX: Pausing for 45.97 seconds...
+2025-04-09 09:32:12,189 - INFO - Profile DarkCodeX: Resuming...
+2025-04-09 09:32:12,202 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-09 09:32:12,203 - INFO - performing random action
+2025-04-09 09:32:12,203 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:32:12,204 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:32:12,238 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:32:12,277 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:32:12,283 - DEBUG - Text box scrolled into view
+2025-04-09 09:32:12,785 - DEBUG - Initializing actionchains
+2025-04-09 09:32:12,803 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1530}, size: {'height': 21, 'width': 68}
+2025-04-09 09:32:12,803 - DEBUG - Target click coordinates: (1265, 1540)
+2025-04-09 09:32:19,482 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 09:32:19,485 - DEBUG - Moving mouse to text box element.
+2025-04-09 09:32:19,487 - DEBUG - Clicking on the text box.
+2025-04-09 09:32:19,488 - DEBUG - Sending keys with content: Myspace for SEO in this day and age? I think you'd get better results shouting into the void, honestly.
+
+2025-04-09 09:32:25,137 - DEBUG - Clicking on post reply button.
+2025-04-09 09:32:36,092 - DEBUG - Performed Actionchains
+2025-04-09 09:32:36,093 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 09:32:40,093 - INFO - Comment posted successfully.
+2025-04-09 09:32:40,094 - INFO - Task Completed!!
+2025-04-09 09:32:50,391 - INFO - Navigated back to the homepage.
+2025-04-09 09:32:53,386 - INFO - Attempting to clear memory and resources.
+2025-04-09 09:32:53,415 - INFO - Garbage collection completed.
+2025-04-09 09:32:53,416 - INFO - Waiting for 1850 seconds before next execution.

@@ -1,0 +1,98 @@
+2025-03-12 14:00:04,152 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_140004.log
+2025-03-12 14:00:04,155 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 14:00:04,156 - INFO - Loaded 166 visited threads from Thread_links.txt
+2025-03-12 14:00:04,157 - INFO - Successfully loaded links that was already visited!
+2025-03-12 14:00:04,158 - DEBUG - Scrolling page 7 times.
+2025-03-12 14:00:04,158 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:05,477 - DEBUG - Page scrolled.
+2025-03-12 14:00:07,479 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:09,175 - DEBUG - Page scrolled.
+2025-03-12 14:00:11,178 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:24,302 - DEBUG - Page scrolled.
+2025-03-12 14:00:26,305 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:27,562 - DEBUG - Page scrolled.
+2025-03-12 14:00:29,564 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:30,988 - DEBUG - Page scrolled.
+2025-03-12 14:00:32,991 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:34,646 - DEBUG - Page scrolled.
+2025-03-12 14:00:36,648 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:37,774 - DEBUG - Page scrolled.
+2025-03-12 14:00:39,777 - DEBUG - Random scrolls complete.
+2025-03-12 14:00:39,779 - DEBUG - Scrolling page 7 times.
+2025-03-12 14:00:39,781 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:40,875 - DEBUG - Page scrolled.
+2025-03-12 14:00:42,878 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:44,472 - DEBUG - Page scrolled.
+2025-03-12 14:00:46,475 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:48,278 - DEBUG - Page scrolled.
+2025-03-12 14:00:50,281 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:51,433 - DEBUG - Page scrolled.
+2025-03-12 14:00:53,436 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:55,124 - DEBUG - Page scrolled.
+2025-03-12 14:00:57,126 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:00:58,796 - DEBUG - Page scrolled.
+2025-03-12 14:01:00,798 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:01:02,266 - DEBUG - Page scrolled.
+2025-03-12 14:01:04,268 - DEBUG - Random scrolls complete.
+2025-03-12 14:01:08,380 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-03-12 14:01:12,581 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/controlling-reviews.1670523/
+2025-03-12 14:01:19,495 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/controlling-reviews.1670523/
+2025-03-12 14:01:19,499 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/controlling-reviews.1670523/' to visited threads file 'Thread_links.txt'.
+2025-03-12 14:01:19,553 - INFO - Extracted thread title: Controlling reviews
+2025-03-12 14:01:19,554 - DEBUG - Scrolling page 4 times.
+2025-03-12 14:01:19,555 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:01:21,549 - DEBUG - Page scrolled.
+2025-03-12 14:01:23,551 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:01:25,263 - DEBUG - Page scrolled.
+2025-03-12 14:01:27,266 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:01:29,201 - DEBUG - Page scrolled.
+2025-03-12 14:01:31,203 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:01:32,660 - DEBUG - Page scrolled.
+2025-03-12 14:01:34,663 - DEBUG - Random scrolls complete.
+2025-03-12 14:01:37,317 - DEBUG - Scrolling page 1 times.
+2025-03-12 14:01:37,319 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:01:38,756 - DEBUG - Page scrolled.
+2025-03-12 14:01:41,758 - DEBUG - Random scrolls complete.
+2025-03-12 14:01:41,794 - DEBUG - Found 1 like buttons.
+2025-03-12 14:01:44,796 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-03-12 14:01:45,611 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 14:01:45,639 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 14:01:45,640 - DEBUG - Liked post number 1 of 1.
+2025-03-12 14:01:50,312 - INFO - Liked 1 posts successfully.
+2025-03-12 14:01:50,315 - INFO - Liked 1 posts successfully.
+2025-03-12 14:01:52,381 - DEBUG - Scrolling page 3 times.
+2025-03-12 14:01:52,383 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:01:53,983 - DEBUG - Page scrolled.
+2025-03-12 14:01:56,986 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:01:58,114 - DEBUG - Page scrolled.
+2025-03-12 14:02:01,117 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:02:02,520 - DEBUG - Page scrolled.
+2025-03-12 14:02:05,523 - DEBUG - Random scrolls complete.
+2025-03-12 14:02:08,434 - DEBUG - Total comments in the thread: 1
+2025-03-12 14:02:08,540 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Controlling reviews.txt
+2025-03-12 14:02:11,391 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 14:02:11,444 - DEBUG - Extracted main post content: Hi there, have a local business and have one competitor who is playing some nasty idiotic games. We are barely competitors (we do it better) and they are just trying to pilfer people from us with bad reviews... They look very out of place in a sea of good ones. Can google fix this?
+2025-03-12 14:02:15,320 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 14:02:15,325 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 14:02:17,801 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:02:17,803 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:02:17,836 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:02:17,883 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:02:17,892 - DEBUG - Text box scrolled into view
+2025-03-12 14:02:18,740 - DEBUG - Initializing actionchains
+2025-03-12 14:02:18,763 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1065}, size: {'height': 21, 'width': 68}
+2025-03-12 14:02:18,764 - DEBUG - Target click coordinates: (1121, 1075)
+2025-03-12 14:02:24,768 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 14:02:24,773 - DEBUG - Moving mouse to text box element.
+2025-03-12 14:02:24,775 - DEBUG - Clicking on the text box.
+2025-03-12 14:02:24,778 - DEBUG - Sending keys with content: Google probably won't fix it directly, but reporting them and burying those fake reviews with genuine customer love might be your best bet.
+
+2025-03-12 14:02:29,785 - DEBUG - Clicking on post reply button.
+2025-03-12 14:02:40,798 - DEBUG - Performed Actionchains
+2025-03-12 14:02:40,799 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 14:02:44,800 - INFO - Comment posted successfully.
+2025-03-12 14:02:44,803 - INFO - Task Completed!!
+2025-03-12 14:02:57,463 - INFO - Navigated back to the homepage.
+2025-03-12 14:03:00,439 - INFO - Attempting to clear memory and resources.
+2025-03-12 14:03:00,506 - INFO - Garbage collection completed.
+2025-03-12 14:03:00,524 - INFO - Waiting for 1000 seconds before next execution.

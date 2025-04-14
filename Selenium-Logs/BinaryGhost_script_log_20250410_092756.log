@@ -1,0 +1,95 @@
+2025-04-10 09:27:56,133 - INFO - Current time: 1744257476.1336865
+2025-04-10 09:27:56,134 - INFO - Token expiration time: 1744268270.3235562
+2025-04-10 09:27:56,134 - INFO - Token expiration time: 1744268270.3235562
+2025-04-10 09:27:56,135 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-10 09:27:56,136 - INFO - Profile BinaryGhost: Window minimized. Pausing for 25.88 seconds...
+2025-04-10 09:28:22,013 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-10 09:28:22,015 - INFO - performing random action
+2025-04-10 09:28:22,018 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 09:28:22,021 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:28:22,023 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:28:23,671 - DEBUG - Page scrolled.
+2025-04-10 09:28:25,673 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:28:26,899 - DEBUG - Page scrolled.
+2025-04-10 09:28:28,902 - DEBUG - Random scrolls complete.
+2025-04-10 09:28:28,903 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:28:28,904 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:28:30,102 - DEBUG - Page scrolled.
+2025-04-10 09:28:32,105 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:28:33,806 - DEBUG - Page scrolled.
+2025-04-10 09:28:35,809 - DEBUG - Random scrolls complete.
+2025-04-10 09:28:42,527 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-04-10 09:28:45,858 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/why-is-godaddy-so-bad.1659060/unread
+2025-04-10 09:28:45,859 - INFO - performing random action
+2025-04-10 09:31:08,125 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/why-is-godaddy-so-bad.1659060/unread
+2025-04-10 09:31:08,129 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/why-is-godaddy-so-bad.1659060/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 09:31:08,193 - INFO - Extracted thread title: Why is GoDaddy so bad
+2025-04-10 09:31:08,194 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:31:08,195 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:09,992 - DEBUG - Page scrolled.
+2025-04-10 09:31:11,994 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:13,126 - DEBUG - Page scrolled.
+2025-04-10 09:31:15,128 - DEBUG - Random scrolls complete.
+2025-04-10 09:31:17,881 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:31:17,883 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:19,582 - DEBUG - Page scrolled.
+2025-04-10 09:31:22,585 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:23,693 - DEBUG - Page scrolled.
+2025-04-10 09:31:26,696 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:27,849 - DEBUG - Page scrolled.
+2025-04-10 09:31:30,851 - DEBUG - Random scrolls complete.
+2025-04-10 09:31:30,898 - DEBUG - Found 14 like buttons.
+2025-04-10 09:31:33,899 - INFO - Attempting to like 1 posts. There are 14 available.
+2025-04-10 09:31:34,600 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:31:34,630 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:31:34,631 - DEBUG - Liked post number 1 of 1.
+2025-04-10 09:31:39,330 - INFO - Liked 1 posts successfully.
+2025-04-10 09:31:39,333 - INFO - Liked 1 posts successfully.
+2025-04-10 09:31:41,886 - INFO - performing random action
+2025-04-10 09:31:41,889 - DEBUG - Scrolling page 6 times.
+2025-04-10 09:31:41,891 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:43,295 - DEBUG - Page scrolled.
+2025-04-10 09:31:46,297 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:47,480 - DEBUG - Page scrolled.
+2025-04-10 09:31:50,483 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:52,451 - DEBUG - Page scrolled.
+2025-04-10 09:31:55,454 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:57,184 - DEBUG - Page scrolled.
+2025-04-10 09:32:00,187 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:32:01,514 - DEBUG - Page scrolled.
+2025-04-10 09:32:04,516 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:32:06,334 - DEBUG - Page scrolled.
+2025-04-10 09:32:09,336 - DEBUG - Random scrolls complete.
+2025-04-10 09:32:11,491 - DEBUG - Total comments in the thread: 14
+2025-04-10 09:32:43,643 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Why is GoDaddy so bad.txt
+2025-04-10 09:32:46,313 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 09:32:46,363 - DEBUG - Extracted main post content: I see so many people here saying GoDaddy isn't good, transfer it away from GoDaddy, and buy your domain from everywhere else except GoDaddy.
+
+I have bought ~50 domains on GoDaddy in the last few years and honestly love it. I don't understand where all the hate is coming from and wonder if there is something I should know that makes it so terrible.
+
+I get almost all of my .com domains for 3 years for $44. Have I been overpaying all this time? Should I transfer them all somewhere else?
+2025-04-10 09:32:49,673 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 09:32:49,677 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 09:32:52,359 - INFO - performing random action
+2025-04-10 09:32:52,362 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:32:52,363 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:32:52,403 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:32:52,443 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:32:52,449 - DEBUG - Text box scrolled into view
+2025-04-10 09:32:53,113 - DEBUG - Initializing actionchains
+2025-04-10 09:32:53,132 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6606}, size: {'height': 21, 'width': 68}
+2025-04-10 09:32:53,133 - DEBUG - Target click coordinates: (1265, 6616)
+2025-04-10 09:33:10,420 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 09:33:10,423 - DEBUG - Moving mouse to text box element.
+2025-04-10 09:33:10,424 - DEBUG - Clicking on the text box.
+2025-04-10 09:33:10,427 - DEBUG - Sending keys with content: Honestly, for that price, you're probably fine, but just make sure you turn off auto-renewal; that's where they get you.
+
+2025-04-10 09:33:15,789 - DEBUG - Clicking on post reply button.
+2025-04-10 09:33:26,762 - DEBUG - Performed Actionchains
+2025-04-10 09:33:26,763 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 09:33:30,764 - INFO - Comment posted successfully.
+2025-04-10 09:33:30,767 - INFO - Task Completed!!
+2025-04-10 09:33:39,415 - INFO - Navigated back to the homepage.
+2025-04-10 09:33:41,538 - INFO - Attempting to clear memory and resources.
+2025-04-10 09:33:41,568 - INFO - Garbage collection completed.
+2025-04-10 09:33:41,569 - INFO - Waiting for 1850 seconds before next execution.

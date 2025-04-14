@@ -1,0 +1,292 @@
+--- Main Post Title ---
+Mass cold emails
+
+Total comments in the thread: 20
+
+Topic User: TechNovaX91
+Topic: i want to send 10K cold emails in a day i have seen people here send 100K cold emails a day how should i go about it ? use gmail acc's or buy domains
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: xcodes
+Topic: Buying a domain still needs a sender. So, use Gmail accounts, which can send 50 to 500 emails based on Gmail account type.
+
+Welcome to BHW
+
+Good Luck..
+EMAIL SMS ADULT JOBS DROPSHIP QUIZ RDP MAC BULLETPROOF
+
+TELEGRAM - SIGNAL - LIVE CHAT
+Liked by: You, TechNovaX91
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: TechNovaX91
+Topic: xcodes said:
+Buying a domain still needs a sender. So, use Gmail accounts, which can send 50 to 500 emails based on Gmail account type.
+
+Welcome to BHW
+
+Good Luck..
+Thanks ,
+What are the types? also has the delivery or open rate significantly dropped recently someone said about 90%
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: TechNovaX91
+Topic: strep said:
+You can use Gmail account but there is limitation on number of message can send from a account in 24 hour to avoid spam delivery.
+Hi,
+how can i automate the process of sending mails ? The old SMTP with email password dosent seem to work its asking for login using browser
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: DorthyHorn1791992JUL
+Topic: For 10K, start with Gmail Workspace ($60-180/mo for 10 accounts) + 5 domains for flexibility. It's cheap, fast, and will reach your goals. For 100K, domains are king - 700 domains + SMTP is what the pros do (think @scaling_shields
+“400 accounts, 10K, scale up”). Gmail alone can't handle that burden - too many bans, too few controls. Budget $10K-15K upfront for 100K (domains, proxies, tools), then run $5K-7K/mo.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TechNovaX91
+Topic: DorthyHorn1791992JUL said:
+For 10K, start with Gmail Workspace ($60-180/mo for 10 accounts) + 5 domains for flexibility. It's cheap, fast, and will reach your goals. For 100K, domains are king - 700 domains + SMTP is what the pros do (think @scaling_shields
+“400 accounts, 10K, scale up”). Gmail alone can't handle that burden - too many bans, too few controls. Budget $10K-15K upfront for 100K (domains, proxies, tools), then run $5K-7K/mo.
+Ok, thankyou.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: xcodes
+Topic: TechNovaX91 said:
+Thanks ,
+What are the types? also has the delivery or open rate significantly dropped recently someone said about 90%
+
+Like age, business type, student, etc., True, because email spam has increased based on spam filters sending emails mostly to SPAM, but not always. Optimize your template and use good links. You will see better results over time.
+
+> Residential Proxy Rotation
+> Spintax
+> Dont sent more than 50 emails per day from each account
+
+Small, minor tweaks will improve your inbox over time.
+
+Good luck
+Liked by: Nuur RecruiterAgent, TechNovaX91
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: JWQ1215
+Topic: I'm curious, what is the real delivery rate of bulk emails?
+Why are so many people still obsessed with bulk emails?
+Why not try bulk SMS and Whatsapp messages.
+Live Collection of Potential Customer DataSales Leads Phone Number ListGambling Sites - Cryptocurrency - Stock
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: cokoporta
+Topic: Gmail is great for small emails, but 10K emails a day? No, that won't work at all
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: eNzim
+Topic: cokoporta said:
+Gmail is great for small emails, but 10K emails a day? No, that won't work at all
+You're not too familiar with mass emailing I suppose.
+
+Gmail is perfect for mass amounts. We create setups that send 5k, 10k, 20k daily using gmail accs. You just have to know how to do it.
+by the way, I use this tool for mass emailing: https://gmonster.co
+
+Lmk how it works for you.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Md945
+Topic: Hello experts, can Google workspace for nonprofit do the trick- sending bulk emails?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TechNovaX91
+Topic: xcodes said:
+Like age, business type, student, etc., True, because email spam has increased based on spam filters sending emails mostly to SPAM, but not always. Optimize your template and use good links. You will see better results over time.
+
+> Residential Proxy Rotation
+> Spintax
+> Dont sent more than 50 emails per day from each account
+
+Small, minor tweaks will improve your inbox over time.
+
+Good luck
+Click to expand...
+thanks do you know whats the real delivery rate is of bulk gmails ?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TechNovaX91
+Topic: eNzim said:
+You're not too familiar with mass emailing I suppose.
+
+Gmail is perfect for mass amounts. We create setups that send 5k, 10k, 20k daily using gmail accs. You just have to know how to do it.
+is there a difference between sending from a business account or normal accounts
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Nuur RecruiterAgent
+Topic: Gmail isn’t built for mass cold emails - you’ll get flagged fast. You need multiple warmed-up domains with proper SPF, DKIM, and DMARC setup. Use email automation tools like Instantly, Lemlist, or Gmass. Rotate IPs, use spintax, and throttle sending to stay under the radar.
+
+Scaling to 100K/day takes a solid infrastructure. I was using n8n workflows for this purpose, works well if you know how to use them.
+
+Good luck!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: eNzim
+Topic: TechNovaX91 said:
+is there a difference between sending from a business account or normal accounts
+No difference regarding inboxing capabilities. Workspace business accounts might have the slight benefit of having the custom domain in the address, therefore b2b could take you more seriously. That said, regular Gmail works for that purpose as well.
+Nuur RecruiterAgent said:
+Gmail isn’t built for mass cold emails - you’ll get flagged fast. You need multiple warmed-up domains with proper SPF, DKIM, and DMARC setup. Use email automation tools like Instantly, Lemlist, or Gmass. Rotate IPs, use spintax, and throttle sending to stay under the radar.
+
+Scaling to 100K/day takes a solid infrastructure. I was using n8n workflows for this purpose, works well if you know how to use them.
+
+Good luck!
+Click to expand...
+- Gmails use Google's own smtp servers. They all have the correct setups you mentioned.
+- Instantly uses the same exact AWS vps and static IP for all your accounts.
+- Gmass is browser based, therefore also uses Google static ip and smtp servers.
+
+100k/day does need a solid infra though. It can be done with Gmail, Workspace even Outlook.. whatever you want.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Algo
+Topic: You can achieve sending 100k using Gmail accounts and proxies.
+
+You'll need an automation that rotates accounts and proxies, send with delays and spintax.
+Liked by: TechNovaX91
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: code API
+Topic: The first thing to take care of is the quality of your email list. And watch out for spam trigger words and avoid them as much as you can.
+SMTP + Mailer and API for sending 30 million emails per month
+30 MILLION+ eMails Per month = Ready, set, win. YES NOW
+Liked by: TechNovaX91
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Toelorbo
+Topic: JWQ1215 said:
+I'm curious, what is the real delivery rate of bulk emails?
+Why are so many people still obsessed with bulk emails?
+Why not try bulk SMS and Whatsapp messages.
+Sending bulk sms has similar spam issues too.
+IPTV Payment SolutionsDigital Products Payment
+Telegram https://t.me/pp4iptv Whatsapp: https://wa.me/13235706436
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: tal2151
+Topic: Hi, happy to help
+
+We send over 100k cold emails per day.
+
+What we do is we buy multiple domains, and setup 4 inboxes per each domain.
+
+Each cold email accounts sends 25 cold emails per day per inbox (after a 2 week warm-up)
+
+We use Instantly.ai to send the cold emails.
+
+we manage over 5,000 google workspace inboxes ourselves (and we set up thousands more for our clients)
+
+We have this at a reseller price at 2-3 USD/mo intstead of the full $7.2/mo per inbox.
+
+Attached is one of our Instantly workspaces.
+Attachments
+Sending volume.png
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: UndercoverBrother
+Topic: Find someone who can set you up on a self-hosted Email Marketing Software with your own SMTP server. You can send whatever amount for a fixed price a month no need to deal with bans or burning accounts or whatever.
+
+Your main task will be to maintain the reputation of your IP based on delivery rates, bounces etc which will be a function of the quality of your email lists, the emails that you send etc.
+
+
+If you want want to increase the sending rate you simply buy more capacity from the provider.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

@@ -1,0 +1,99 @@
+2025-03-11 10:35:20,778 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_103520.log
+2025-03-11 10:35:20,779 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 10:35:20,786 - INFO - Loaded 124 visited threads from Thread_links.txt
+2025-03-11 10:35:20,811 - INFO - Successfully loaded links that was already visited!
+2025-03-11 10:35:20,813 - DEBUG - Scrolling page 4 times.
+2025-03-11 10:35:20,817 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:26,256 - DEBUG - Page scrolled.
+2025-03-11 10:35:28,258 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:29,395 - DEBUG - Page scrolled.
+2025-03-11 10:35:31,398 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:32,426 - DEBUG - Page scrolled.
+2025-03-11 10:35:34,430 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:35,515 - DEBUG - Page scrolled.
+2025-03-11 10:35:37,517 - DEBUG - Random scrolls complete.
+2025-03-11 10:35:37,519 - DEBUG - Scrolling page 7 times.
+2025-03-11 10:35:37,520 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:38,639 - DEBUG - Page scrolled.
+2025-03-11 10:35:40,642 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:41,955 - DEBUG - Page scrolled.
+2025-03-11 10:35:43,958 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:45,203 - DEBUG - Page scrolled.
+2025-03-11 10:35:47,206 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:48,963 - DEBUG - Page scrolled.
+2025-03-11 10:35:50,965 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:52,750 - DEBUG - Page scrolled.
+2025-03-11 10:35:54,753 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:56,115 - DEBUG - Page scrolled.
+2025-03-11 10:35:58,117 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:35:59,637 - DEBUG - Page scrolled.
+2025-03-11 10:36:01,639 - DEBUG - Random scrolls complete.
+2025-03-11 10:36:08,626 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-03-11 10:36:12,743 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/google-voice-number-site.1519571/
+2025-03-11 10:36:22,848 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/google-voice-number-site.1519571/
+2025-03-11 10:36:22,851 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/google-voice-number-site.1519571/' to visited threads file 'Thread_links.txt'.
+2025-03-11 10:36:22,884 - INFO - Extracted thread title: Google voice number site
+2025-03-11 10:36:22,885 - DEBUG - Scrolling page 2 times.
+2025-03-11 10:36:22,886 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:36:24,478 - DEBUG - Page scrolled.
+2025-03-11 10:36:26,480 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:36:28,300 - DEBUG - Page scrolled.
+2025-03-11 10:36:30,302 - DEBUG - Random scrolls complete.
+2025-03-11 10:36:33,181 - DEBUG - Scrolling page 1 times.
+2025-03-11 10:36:33,183 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:36:35,130 - DEBUG - Page scrolled.
+2025-03-11 10:36:38,134 - DEBUG - Random scrolls complete.
+2025-03-11 10:36:38,173 - DEBUG - Found 18 like buttons.
+2025-03-11 10:36:41,175 - INFO - Attempting to like 2 posts. There are 18 available.
+2025-03-11 10:36:41,888 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:36:41,913 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:36:41,914 - DEBUG - Liked post number 1 of 2.
+2025-03-11 10:36:47,121 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:36:47,144 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:36:47,146 - DEBUG - Liked post number 2 of 2.
+2025-03-11 10:36:51,970 - INFO - Liked 2 posts successfully.
+2025-03-11 10:36:51,973 - INFO - Liked 2 posts successfully.
+2025-03-11 10:36:54,037 - DEBUG - Scrolling page 7 times.
+2025-03-11 10:36:54,039 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:36:55,366 - DEBUG - Page scrolled.
+2025-03-11 10:36:58,369 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:36:59,748 - DEBUG - Page scrolled.
+2025-03-11 10:37:02,750 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:37:04,671 - DEBUG - Page scrolled.
+2025-03-11 10:37:07,673 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:37:09,665 - DEBUG - Page scrolled.
+2025-03-11 10:37:12,668 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:37:14,359 - DEBUG - Page scrolled.
+2025-03-11 10:37:17,361 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:37:19,043 - DEBUG - Page scrolled.
+2025-03-11 10:37:22,045 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:37:23,193 - DEBUG - Page scrolled.
+2025-03-11 10:37:26,195 - DEBUG - Random scrolls complete.
+2025-03-11 10:37:28,545 - DEBUG - Total comments in the thread: 18
+2025-03-11 10:37:30,068 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Google voice number site.txt
+2025-03-11 10:37:32,573 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 10:37:32,631 - DEBUG - Extracted main post content: Last few days. I can't create google voice accounts for number sites. Please help me and suggest me where I can get google voice numbers with cheap rate. Please help
+2025-03-11 10:37:35,929 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 10:37:35,934 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 10:37:38,311 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:37:38,332 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:37:38,367 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:37:38,408 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:37:38,414 - DEBUG - Text box scrolled into view
+2025-03-11 10:37:39,017 - DEBUG - Initializing actionchains
+2025-03-11 10:37:39,084 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5753}, size: {'height': 21, 'width': 68}
+2025-03-11 10:37:39,086 - DEBUG - Target click coordinates: (1121, 5763)
+2025-03-11 10:37:55,257 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 10:37:55,260 - DEBUG - Moving mouse to text box element.
+2025-03-11 10:37:55,262 - DEBUG - Clicking on the text box.
+2025-03-11 10:37:55,267 - DEBUG - Sending keys with content: It's tough finding reliable Google Voice numbers these days, have you tried any of the smaller VoIP providers?
+
+2025-03-11 10:38:00,740 - DEBUG - Clicking on post reply button.
+2025-03-11 10:38:11,755 - DEBUG - Performed Actionchains
+2025-03-11 10:38:11,757 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 10:38:15,759 - INFO - Comment posted successfully.
+2025-03-11 10:38:15,762 - INFO - Task Completed!!
+2025-03-11 10:38:25,751 - INFO - Navigated back to the homepage.
+2025-03-11 10:38:28,712 - INFO - Attempting to clear memory and resources.
+2025-03-11 10:38:28,740 - INFO - Garbage collection completed.
+2025-03-11 10:38:28,742 - INFO - Waiting for 100 seconds before next execution.

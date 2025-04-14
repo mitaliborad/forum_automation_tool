@@ -1,0 +1,112 @@
+2025-04-02 13:54:16,237 - INFO - Current time: 1743582256.236972
+2025-04-02 13:54:16,238 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 13:54:16,240 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 13:54:16,241 - INFO - performing random action
+2025-04-02 13:54:16,243 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:54:16,244 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:54:16,245 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:17,308 - DEBUG - Page scrolled.
+2025-04-02 13:54:19,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:20,895 - DEBUG - Page scrolled.
+2025-04-02 13:54:22,898 - DEBUG - Random scrolls complete.
+2025-04-02 13:54:22,900 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:54:22,900 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:24,065 - DEBUG - Page scrolled.
+2025-04-02 13:54:26,068 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:27,435 - DEBUG - Page scrolled.
+2025-04-02 13:54:29,437 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:30,925 - DEBUG - Page scrolled.
+2025-04-02 13:54:32,927 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:34,513 - DEBUG - Page scrolled.
+2025-04-02 13:54:36,515 - DEBUG - Random scrolls complete.
+2025-04-02 13:54:42,891 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-04-02 13:54:47,580 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/hello-to-all-of-you.1701195/unread
+2025-04-02 13:54:47,581 - INFO - performing random action
+2025-04-02 13:54:56,547 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/hello-to-all-of-you.1701195/unread
+2025-04-02 13:54:56,550 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/hello-to-all-of-you.1701195/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 13:54:56,607 - INFO - Extracted thread title: Hello to all of you
+2025-04-02 13:54:56,607 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:54:56,608 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:58,026 - DEBUG - Page scrolled.
+2025-04-02 13:55:00,027 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:01,283 - DEBUG - Page scrolled.
+2025-04-02 13:55:03,285 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:04,318 - DEBUG - Page scrolled.
+2025-04-02 13:55:06,321 - DEBUG - Random scrolls complete.
+2025-04-02 13:55:08,716 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:55:08,717 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:10,234 - DEBUG - Page scrolled.
+2025-04-02 13:55:13,236 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:14,385 - DEBUG - Page scrolled.
+2025-04-02 13:55:17,387 - DEBUG - Random scrolls complete.
+2025-04-02 13:55:17,428 - DEBUG - Found 16 like buttons.
+2025-04-02 13:55:20,430 - INFO - Attempting to like 1 posts. There are 16 available.
+2025-04-02 13:55:21,275 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:55:21,285 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:55:21,287 - DEBUG - Liked post number 1 of 1.
+2025-04-02 13:55:25,983 - INFO - Liked 1 posts successfully.
+2025-04-02 13:55:25,986 - INFO - Liked 1 posts successfully.
+2025-04-02 13:55:28,679 - INFO - performing random action
+2025-04-02 13:55:28,680 - DEBUG - Scrolling page 6 times.
+2025-04-02 13:55:28,681 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:30,671 - DEBUG - Page scrolled.
+2025-04-02 13:55:33,673 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:35,040 - DEBUG - Page scrolled.
+2025-04-02 13:55:38,043 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:39,979 - DEBUG - Page scrolled.
+2025-04-02 13:55:42,981 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:44,958 - DEBUG - Page scrolled.
+2025-04-02 13:55:47,960 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:49,713 - DEBUG - Page scrolled.
+2025-04-02 13:55:52,716 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:53,866 - DEBUG - Page scrolled.
+2025-04-02 13:55:56,868 - DEBUG - Random scrolls complete.
+2025-04-02 13:55:59,143 - DEBUG - Total comments in the thread: 16
+2025-04-02 13:56:52,648 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Hello to all of you.txt
+2025-04-02 13:56:55,274 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 13:56:55,314 - DEBUG - Extracted main post content: Hey everyone,
+I'll briefly introduce myself - your everyday guy who's done a bit of selling Nutra stuff on the phone in call centers, then moved up to a manager position, helped affiliates and advertisers in some affiliate network, then tried to open my own network, bought paid adult / mainstream traffic and other stuff, promoted Dating offers, but it didn't work - I was spending most of my time at my day job. Also worked in online reputation management, which can be pretty lucrative, but I'm still searching for my ideal niche for ORM.
+
+I suppose this forum is where I should have signed up a long time ago.
+
+I'm on the lookout for opportunities to make decent money online without having to deal with linked.in again
+
+Honestly, I'm not quite sure what else to add here, hope everyone has peace and plenty of "gold and silver".
+2025-04-02 13:56:59,308 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 13:56:59,313 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 13:57:02,002 - INFO - performing random action
+2025-04-02 13:57:02,004 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:57:02,007 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:57:02,033 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:57:02,072 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:57:02,078 - DEBUG - Text box scrolled into view
+2025-04-02 13:57:02,764 - DEBUG - Initializing actionchains
+2025-04-02 13:57:02,818 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5767}, size: {'height': 21, 'width': 68}
+2025-04-02 13:57:02,819 - DEBUG - Target click coordinates: (1121, 5777)
+2025-04-02 13:57:18,491 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 13:57:18,493 - DEBUG - Moving mouse to text box element.
+2025-04-02 13:57:18,495 - DEBUG - Clicking on the text box.
+2025-04-02 13:57:18,498 - DEBUG - Sending keys with content: Sounds like you've been around the block a few times. Ever thought about combining your ORM skills with helping affiliates clean up their online image?
+
+2025-04-02 13:57:23,527 - DEBUG - Clicking on post reply button.
+2025-04-02 13:57:34,567 - DEBUG - Performed Actionchains
+2025-04-02 13:57:34,568 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 13:57:38,570 - INFO - Comment posted successfully.
+2025-04-02 13:57:38,571 - INFO - Task Completed!!
+2025-04-02 13:57:47,068 - INFO - Navigated back to the homepage.
+2025-04-02 13:57:49,312 - INFO - Attempting to clear memory and resources.
+2025-04-02 13:57:49,354 - INFO - Garbage collection completed.
+2025-04-02 13:57:49,356 - INFO - Waiting for 2000 seconds before next execution.
+2025-04-02 14:31:09,358 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-02 14:31:09,363 - INFO - Stopping browser for profile: PixelPirate99...
+2025-04-02 14:31:09,365 - INFO - Refreshing token before stopping profile...
+2025-04-02 14:31:09,368 - INFO - Refreshing token for PixelPirate99...
+2025-04-02 14:31:10,302 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-02 14:31:10,305 - INFO - Calculated token expiration time: 1743595270.305403
+2025-04-02 14:31:10,307 - INFO - Profile PixelPirate99: Successfully logged in.
+2025-04-02 14:31:10,310 - INFO - Token refreshed successfully before stopping.
+2025-04-02 14:31:10,312 - INFO - Profile PixelPirate99: Attempting to stop (Attempt 1/3)...
+2025-04-02 14:31:10,328 - INFO - Profile PixelPirate99: Browser closed successfully in 0.01 seconds.
+2025-04-02 14:31:13,746 - INFO - Profile PixelPirate99: API call took 3.42 seconds.
+2025-04-02 14:31:13,748 - INFO - Profile PixelPirate99: Stopped successfully.
+2025-04-02 14:31:13,751 - INFO - Browser stopped successfully for profile: PixelPirate99.

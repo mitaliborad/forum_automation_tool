@@ -1,0 +1,122 @@
+2025-03-10 11:41:33,520 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250310_114133.log
+2025-03-10 11:41:33,522 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-10 11:41:33,563 - INFO - Loaded 107 visited threads from Thread_links.txt
+2025-03-10 11:41:33,564 - INFO - Successfully loaded links that was already visited!
+2025-03-10 11:41:33,569 - DEBUG - Scrolling page 3 times.
+2025-03-10 11:41:33,572 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:38,226 - DEBUG - Page scrolled.
+2025-03-10 11:41:40,228 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:42,106 - DEBUG - Page scrolled.
+2025-03-10 11:41:44,110 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:46,039 - DEBUG - Page scrolled.
+2025-03-10 11:41:48,042 - DEBUG - Random scrolls complete.
+2025-03-10 11:41:48,045 - DEBUG - Scrolling page 4 times.
+2025-03-10 11:41:48,046 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:49,652 - DEBUG - Page scrolled.
+2025-03-10 11:41:51,656 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:53,591 - DEBUG - Page scrolled.
+2025-03-10 11:41:55,593 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:41:57,135 - DEBUG - Page scrolled.
+2025-03-10 11:41:59,137 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:00,879 - DEBUG - Page scrolled.
+2025-03-10 11:42:02,881 - DEBUG - Random scrolls complete.
+2025-03-10 11:42:09,158 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/pinterest.211/
+2025-03-10 11:42:13,536 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/drive-traffic-from-google-to-pinterest-what-i-discovered-today-a-must-read-guide.1686401/unread
+2025-03-10 11:42:24,016 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/drive-traffic-from-google-to-pinterest-what-i-discovered-today-a-must-read-guide.1686401/unread
+2025-03-10 11:42:24,022 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/drive-traffic-from-google-to-pinterest-what-i-discovered-today-a-must-read-guide.1686401/unread' to visited threads file 'Thread_links.txt'.
+2025-03-10 11:42:24,079 - INFO - Extracted thread title: Drive Traffic from Google to Pinterest What I Discovered Today ((( A Must-Read Guide! )))
+2025-03-10 11:42:24,080 - DEBUG - Scrolling page 2 times.
+2025-03-10 11:42:24,081 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:25,442 - DEBUG - Page scrolled.
+2025-03-10 11:42:27,447 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:29,442 - DEBUG - Page scrolled.
+2025-03-10 11:42:31,446 - DEBUG - Random scrolls complete.
+2025-03-10 11:42:33,483 - DEBUG - Scrolling page 3 times.
+2025-03-10 11:42:33,488 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:34,545 - DEBUG - Page scrolled.
+2025-03-10 11:42:37,547 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:39,135 - DEBUG - Page scrolled.
+2025-03-10 11:42:42,139 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:42:43,890 - DEBUG - Page scrolled.
+2025-03-10 11:42:46,893 - DEBUG - Random scrolls complete.
+2025-03-10 11:42:46,933 - DEBUG - Found 11 like buttons.
+2025-03-10 11:42:49,935 - INFO - Attempting to like 4 posts. There are 11 available.
+2025-03-10 11:42:50,919 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 11:42:50,933 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 11:42:50,934 - DEBUG - Liked post number 1 of 4.
+2025-03-10 11:42:56,626 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 11:42:56,647 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 11:42:56,651 - DEBUG - Liked post number 2 of 4.
+2025-03-10 11:43:02,109 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 11:43:02,131 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 11:43:02,133 - DEBUG - Liked post number 3 of 4.
+2025-03-10 11:43:07,566 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 11:43:07,578 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 11:43:07,579 - DEBUG - Liked post number 4 of 4.
+2025-03-10 11:43:12,321 - INFO - Liked 4 posts successfully.
+2025-03-10 11:43:12,324 - INFO - Liked 4 posts successfully.
+2025-03-10 11:43:12,326 - DEBUG - Scrolling page 4 times.
+2025-03-10 11:43:12,328 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:43:14,345 - DEBUG - Page scrolled.
+2025-03-10 11:43:17,348 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:43:18,819 - DEBUG - Page scrolled.
+2025-03-10 11:43:21,821 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:43:23,276 - DEBUG - Page scrolled.
+2025-03-10 11:43:26,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:43:27,396 - DEBUG - Page scrolled.
+2025-03-10 11:43:30,398 - DEBUG - Random scrolls complete.
+2025-03-10 11:43:32,970 - DEBUG - Total comments in the thread: 11
+2025-03-10 11:43:49,413 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Drive Traffic from Google to Pinterest What I Discovered Today ((( A Must-Read Guide! ))).txt
+2025-03-10 11:43:52,194 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-10 11:43:52,253 - DEBUG - Extracted main post content: Is Your Pinterest Pin Indexed on Google? Let’s Find Out!
+I recently made a surprising discovery—most of my Pinterest pins are not indexed on Google! Curious? You can check yours too!
+
+How to Check:
+Simply search on Google using this format:
+
+site:https://in.pinterest.com/pin/(your-pin-id)
+
+If your pin appears in the search results, congratulations! You can drive traffic to it directly from Google.
+
+This pin is for the example -
+
+
+
+
+I checked one of my old pins (2 years old), and guess what? It’s still not indexed!
+
+
+
+
+
+
+Your turn!
+Now it’s up to you—find a way to get your pins indexed and unlock more traffic!
+
+Have insights or tips? Share them below!
+
+Thank you!
+2025-03-10 11:43:55,893 - INFO - Successfully generated comments using Gemini API.
+2025-03-10 11:43:55,896 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-10 11:43:58,462 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:43:58,464 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:43:58,480 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:43:58,530 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:43:58,544 - DEBUG - Text box scrolled into view
+2025-03-10 11:43:59,161 - DEBUG - Initializing actionchains
+2025-03-10 11:43:59,215 - DEBUG - Post reply Element location: {'x': 1087, 'y': 7297}, size: {'height': 21, 'width': 68}
+2025-03-10 11:43:59,215 - DEBUG - Target click coordinates: (1121, 7307)
+2025-03-10 11:44:16,756 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-10 11:44:16,758 - DEBUG - Moving mouse to text box element.
+2025-03-10 11:44:16,759 - DEBUG - Clicking on the text box.
+2025-03-10 11:44:16,762 - DEBUG - Sending keys with content: Huh, that's good to know, I'm gonna try that out. I wonder if newer pins get indexed faster than older ones?
+
+2025-03-10 11:44:22,452 - DEBUG - Clicking on post reply button.
+2025-03-10 11:44:33,699 - DEBUG - Performed Actionchains
+2025-03-10 11:44:33,700 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-10 11:44:37,701 - INFO - Comment posted successfully.
+2025-03-10 11:44:37,705 - INFO - Task Completed!!
+2025-03-10 11:44:48,112 - INFO - Navigated back to the homepage.
+2025-03-10 11:44:50,396 - INFO - Attempting to clear memory and resources.
+2025-03-10 11:44:50,428 - INFO - Garbage collection completed.
+2025-03-10 11:44:50,429 - INFO - Waiting for 1000 seconds before next execution.

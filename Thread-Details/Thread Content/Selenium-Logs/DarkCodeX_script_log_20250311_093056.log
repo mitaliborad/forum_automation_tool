@@ -1,0 +1,99 @@
+2025-03-11 09:30:56,826 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_093056.log
+2025-03-11 09:30:56,827 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 09:30:56,828 - INFO - Loaded 117 visited threads from Thread_links.txt
+2025-03-11 09:30:56,830 - INFO - Successfully loaded links that was already visited!
+2025-03-11 09:30:56,832 - DEBUG - Scrolling page 4 times.
+2025-03-11 09:30:56,832 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:30:58,925 - DEBUG - Page scrolled.
+2025-03-11 09:31:00,926 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:02,091 - DEBUG - Page scrolled.
+2025-03-11 09:31:04,095 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:05,148 - DEBUG - Page scrolled.
+2025-03-11 09:31:07,149 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:08,535 - DEBUG - Page scrolled.
+2025-03-11 09:31:10,537 - DEBUG - Random scrolls complete.
+2025-03-11 09:31:10,539 - DEBUG - Scrolling page 7 times.
+2025-03-11 09:31:10,540 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:11,951 - DEBUG - Page scrolled.
+2025-03-11 09:31:13,954 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:15,076 - DEBUG - Page scrolled.
+2025-03-11 09:31:17,078 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:18,787 - DEBUG - Page scrolled.
+2025-03-11 09:31:20,789 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:22,570 - DEBUG - Page scrolled.
+2025-03-11 09:31:24,574 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:25,652 - DEBUG - Page scrolled.
+2025-03-11 09:31:27,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:29,503 - DEBUG - Page scrolled.
+2025-03-11 09:31:31,507 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:33,201 - DEBUG - Page scrolled.
+2025-03-11 09:31:35,204 - DEBUG - Random scrolls complete.
+2025-03-11 09:31:46,245 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/local-seo.209/
+2025-03-11 09:31:50,869 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/can-you-share-a-unique-approach-you-took-to-develop-local-citations-for-your-business.1690873/unread
+2025-03-11 09:31:58,131 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/can-you-share-a-unique-approach-you-took-to-develop-local-citations-for-your-business.1690873/unread
+2025-03-11 09:31:58,136 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/can-you-share-a-unique-approach-you-took-to-develop-local-citations-for-your-business.1690873/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 09:31:58,186 - INFO - Extracted thread title: Can you share a unique approach you took to develop local citations for your business
+2025-03-11 09:31:58,187 - DEBUG - Scrolling page 3 times.
+2025-03-11 09:31:58,189 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:31:59,911 - DEBUG - Page scrolled.
+2025-03-11 09:32:01,914 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:03,376 - DEBUG - Page scrolled.
+2025-03-11 09:32:05,379 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:06,739 - DEBUG - Page scrolled.
+2025-03-11 09:32:08,742 - DEBUG - Random scrolls complete.
+2025-03-11 09:32:11,183 - DEBUG - Scrolling page 3 times.
+2025-03-11 09:32:11,186 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:12,874 - DEBUG - Page scrolled.
+2025-03-11 09:32:15,876 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:17,123 - DEBUG - Page scrolled.
+2025-03-11 09:32:20,126 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:21,314 - DEBUG - Page scrolled.
+2025-03-11 09:32:24,317 - DEBUG - Random scrolls complete.
+2025-03-11 09:32:24,353 - DEBUG - Found 2 like buttons.
+2025-03-11 09:32:27,355 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-11 09:32:28,314 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:32:28,343 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:32:28,346 - DEBUG - Liked post number 1 of 2.
+2025-03-11 09:32:33,374 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:32:33,394 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:32:33,398 - DEBUG - Liked post number 2 of 2.
+2025-03-11 09:32:37,427 - INFO - Liked 2 posts successfully.
+2025-03-11 09:32:37,431 - INFO - Liked 2 posts successfully.
+2025-03-11 09:32:39,877 - DEBUG - Scrolling page 4 times.
+2025-03-11 09:32:39,879 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:41,271 - DEBUG - Page scrolled.
+2025-03-11 09:32:44,275 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:45,527 - DEBUG - Page scrolled.
+2025-03-11 09:32:48,529 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:49,801 - DEBUG - Page scrolled.
+2025-03-11 09:32:52,804 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:32:54,523 - DEBUG - Page scrolled.
+2025-03-11 09:32:57,526 - DEBUG - Random scrolls complete.
+2025-03-11 09:33:00,113 - DEBUG - Total comments in the thread: 2
+2025-03-11 09:33:06,600 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Can you share a unique approach you took to develop local citations for your business.txt
+2025-03-11 09:33:08,623 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 09:33:08,672 - DEBUG - Extracted main post content: Can you share a unique approach you took to develop local citations for your business? What effect did it have on your online presence?
+2025-03-11 09:33:13,282 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 09:33:13,287 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 09:33:15,466 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:33:15,468 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:33:15,505 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:33:15,557 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:33:15,568 - DEBUG - Text box scrolled into view
+2025-03-11 09:33:16,322 - DEBUG - Initializing actionchains
+2025-03-11 09:33:16,370 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1537}, size: {'height': 21, 'width': 68}
+2025-03-11 09:33:16,371 - DEBUG - Target click coordinates: (1121, 1547)
+2025-03-11 09:33:23,080 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 09:33:23,082 - DEBUG - Moving mouse to text box element.
+2025-03-11 09:33:23,084 - DEBUG - Clicking on the text box.
+2025-03-11 09:33:23,089 - DEBUG - Sending keys with content: I focused on building relationships with local journalists; got my business mentioned in a few articles, which boosted my citation profile significantly.
+
+2025-03-11 09:33:28,764 - DEBUG - Clicking on post reply button.
+2025-03-11 09:33:39,471 - DEBUG - Performed Actionchains
+2025-03-11 09:33:39,472 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 09:33:43,474 - INFO - Comment posted successfully.
+2025-03-11 09:33:43,478 - INFO - Task Completed!!
+2025-03-11 09:33:49,987 - INFO - Navigated back to the homepage.
+2025-03-11 09:33:52,117 - INFO - Attempting to clear memory and resources.
+2025-03-11 09:33:52,152 - INFO - Garbage collection completed.
+2025-03-11 09:33:52,153 - INFO - Waiting for 10 seconds before next execution.

@@ -1,0 +1,40 @@
+2025-04-02 13:28:24,804 - INFO - Current time: 1743580704.804796
+2025-04-02 13:28:24,807 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:28:24,809 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:28:24,811 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-02 13:28:26,815 - INFO - performing random action
+2025-04-02 13:28:26,819 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:28:26,821 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:28:26,823 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:28:28,216 - DEBUG - Page scrolled.
+2025-04-02 13:28:30,218 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:28:31,335 - DEBUG - Page scrolled.
+2025-04-02 13:28:33,337 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:28:35,206 - DEBUG - Page scrolled.
+2025-04-02 13:28:37,209 - DEBUG - Random scrolls complete.
+2025-04-02 13:28:37,211 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:28:37,213 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:28:39,187 - DEBUG - Page scrolled.
+2025-04-02 13:28:41,190 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:28:42,827 - DEBUG - Page scrolled.
+2025-04-02 13:28:44,829 - DEBUG - Random scrolls complete.
+2025-04-02 13:28:51,769 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-04-02 13:29:02,173 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:29:02,187 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-02 13:29:20,538 - INFO - Profile PhantomRoot: Pausing for 42.44 seconds...
+2025-04-02 13:30:02,978 - INFO - Profile PhantomRoot: Resuming...
+2025-04-02 13:30:03,009 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-02 13:30:03,011 - INFO - performing random action
+2025-04-02 13:30:03,012 - WARNING - Skipping thread processing due to no thread link being found in subforum.

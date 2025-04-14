@@ -1,0 +1,121 @@
+2025-03-11 10:00:47,834 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_100047.log
+2025-03-11 10:00:47,840 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 10:00:47,849 - INFO - Loaded 121 visited threads from Thread_links.txt
+2025-03-11 10:00:47,852 - INFO - Successfully loaded links that was already visited!
+2025-03-11 10:00:47,854 - DEBUG - Scrolling page 6 times.
+2025-03-11 10:00:47,855 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:00:53,526 - DEBUG - Page scrolled.
+2025-03-11 10:00:55,528 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:00:57,089 - DEBUG - Page scrolled.
+2025-03-11 10:00:59,098 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:00,955 - DEBUG - Page scrolled.
+2025-03-11 10:01:02,958 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:04,728 - DEBUG - Page scrolled.
+2025-03-11 10:01:06,731 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:08,277 - DEBUG - Page scrolled.
+2025-03-11 10:01:10,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:11,458 - DEBUG - Page scrolled.
+2025-03-11 10:01:13,463 - DEBUG - Random scrolls complete.
+2025-03-11 10:01:13,465 - DEBUG - Scrolling page 7 times.
+2025-03-11 10:01:13,465 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:15,268 - DEBUG - Page scrolled.
+2025-03-11 10:01:17,269 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:19,161 - DEBUG - Page scrolled.
+2025-03-11 10:01:21,163 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:22,725 - DEBUG - Page scrolled.
+2025-03-11 10:01:24,727 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:25,995 - DEBUG - Page scrolled.
+2025-03-11 10:01:27,996 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:29,382 - DEBUG - Page scrolled.
+2025-03-11 10:01:31,384 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:32,474 - DEBUG - Page scrolled.
+2025-03-11 10:01:34,476 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:35,999 - DEBUG - Page scrolled.
+2025-03-11 10:01:38,002 - DEBUG - Random scrolls complete.
+2025-03-11 10:01:43,642 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-11 10:01:48,160 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-do-payment-gateway-owners-market-their-services-to-high-risk-merchants.1676569/unread
+2025-03-11 10:01:57,866 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-do-payment-gateway-owners-market-their-services-to-high-risk-merchants.1676569/unread
+2025-03-11 10:01:57,871 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-do-payment-gateway-owners-market-their-services-to-high-risk-merchants.1676569/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 10:01:57,903 - INFO - Extracted thread title: How Do Payment Gateway Owners Market Their Services to High-Risk Merchants
+2025-03-11 10:01:57,905 - DEBUG - Scrolling page 3 times.
+2025-03-11 10:01:57,905 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:59,201 - DEBUG - Page scrolled.
+2025-03-11 10:02:01,203 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:02,588 - DEBUG - Page scrolled.
+2025-03-11 10:02:04,591 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:06,393 - DEBUG - Page scrolled.
+2025-03-11 10:02:08,395 - DEBUG - Random scrolls complete.
+2025-03-11 10:02:11,032 - DEBUG - Scrolling page 4 times.
+2025-03-11 10:02:11,034 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:13,053 - DEBUG - Page scrolled.
+2025-03-11 10:02:16,055 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:17,324 - DEBUG - Page scrolled.
+2025-03-11 10:02:20,328 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:21,745 - DEBUG - Page scrolled.
+2025-03-11 10:02:24,749 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:26,130 - DEBUG - Page scrolled.
+2025-03-11 10:02:29,133 - DEBUG - Random scrolls complete.
+2025-03-11 10:02:29,172 - DEBUG - Found 14 like buttons.
+2025-03-11 10:02:32,174 - INFO - Attempting to like 4 posts. There are 14 available.
+2025-03-11 10:02:32,893 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:02:32,921 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:02:32,922 - DEBUG - Liked post number 1 of 4.
+2025-03-11 10:02:38,079 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:02:38,101 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:02:38,104 - DEBUG - Liked post number 2 of 4.
+2025-03-11 10:02:43,703 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:02:43,723 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:02:43,726 - DEBUG - Liked post number 3 of 4.
+2025-03-11 10:02:48,806 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:02:48,814 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:02:48,815 - DEBUG - Liked post number 4 of 4.
+2025-03-11 10:02:53,043 - INFO - Liked 4 posts successfully.
+2025-03-11 10:02:53,045 - INFO - Liked 4 posts successfully.
+2025-03-11 10:02:55,240 - DEBUG - Scrolling page 5 times.
+2025-03-11 10:02:55,243 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:56,623 - DEBUG - Page scrolled.
+2025-03-11 10:02:59,625 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:03:01,248 - DEBUG - Page scrolled.
+2025-03-11 10:03:04,251 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:03:05,524 - DEBUG - Page scrolled.
+2025-03-11 10:03:08,528 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:03:10,006 - DEBUG - Page scrolled.
+2025-03-11 10:03:13,008 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:03:14,863 - DEBUG - Page scrolled.
+2025-03-11 10:03:17,866 - DEBUG - Random scrolls complete.
+2025-03-11 10:03:20,239 - DEBUG - Total comments in the thread: 14
+2025-03-11 10:03:30,958 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How Do Payment Gateway Owners Market Their Services to High-Risk Merchants.txt
+2025-03-11 10:03:33,263 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 10:03:33,311 - DEBUG - Extracted main post content: Hey BHW,
+
+I’m curious about how payment gateway owners successfully market their services, especially to high-risk merchants.
+
+My buddy and I have been exploring the payment space and are really interested in how businesses in this niche reach and build trust with their target audience.
+
+Would love to hear any thoughts or experiences from anyone involved in this space!
+
+Thanks in advance!
+2025-03-11 10:03:38,425 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 10:03:38,430 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 10:03:41,214 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:03:41,216 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:03:41,253 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:03:41,308 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:03:41,316 - DEBUG - Text box scrolled into view
+2025-03-11 10:03:41,928 - DEBUG - Initializing actionchains
+2025-03-11 10:03:41,978 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5353}, size: {'height': 21, 'width': 68}
+2025-03-11 10:03:41,979 - DEBUG - Target click coordinates: (1121, 5363)
+2025-03-11 10:03:56,864 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 10:03:56,865 - DEBUG - Moving mouse to text box element.
+2025-03-11 10:03:56,866 - DEBUG - Clicking on the text box.
+2025-03-11 10:03:56,867 - DEBUG - Sending keys with content: Building trust is key, especially with high-risk stuff; maybe showcasing some successful, but anonymized, case studies could ease potential clients' worries.
+
+2025-03-11 10:04:02,454 - DEBUG - Clicking on post reply button.
+2025-03-11 10:04:13,642 - DEBUG - Performed Actionchains
+2025-03-11 10:04:13,643 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 10:04:17,644 - INFO - Comment posted successfully.
+2025-03-11 10:04:17,646 - INFO - Task Completed!!
+2025-03-11 10:04:26,058 - INFO - Navigated back to the homepage.
+2025-03-11 10:04:28,342 - INFO - Attempting to clear memory and resources.
+2025-03-11 10:04:28,379 - INFO - Garbage collection completed.
+2025-03-11 10:04:28,380 - INFO - Waiting for 100 seconds before next execution.

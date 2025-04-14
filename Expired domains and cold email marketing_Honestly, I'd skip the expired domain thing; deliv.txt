@@ -1,1 +1,0 @@
-Honestly, I'd skip the expired domain thing; deliverability is a nightmare. Focus on warming up a fresh domain instead, way less hassle in the long run.

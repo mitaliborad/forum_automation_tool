@@ -1,0 +1,33 @@
+2025-04-02 14:07:15,879 - INFO - Current time: 1743583035.8799012
+2025-04-02 14:07:15,881 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 14:07:15,882 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 14:07:15,883 - INFO - performing random action
+2025-04-02 14:07:15,885 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 14:07:15,886 - DEBUG - Scrolling page 2 times.
+2025-04-02 14:07:15,887 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:07:17,089 - DEBUG - Page scrolled.
+2025-04-02 14:07:19,091 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:07:20,426 - DEBUG - Page scrolled.
+2025-04-02 14:07:22,429 - DEBUG - Random scrolls complete.
+2025-04-02 14:07:22,431 - DEBUG - Scrolling page 2 times.
+2025-04-02 14:07:22,433 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:07:23,829 - DEBUG - Page scrolled.
+2025-04-02 14:07:25,830 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:07:26,857 - DEBUG - Page scrolled.
+2025-04-02 14:07:28,859 - DEBUG - Random scrolls complete.
+2025-04-02 14:07:29,631 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-04-02 14:07:40,015 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 14:07:40,031 - INFO - performing random action
+2025-04-02 14:07:40,033 - WARNING - Skipping thread processing due to no thread link being found in subforum.

@@ -1,1 +1,0 @@
-Rotating proxies can be a headache to set up, but for scraping and bots, they're often worth the effort to avoid those blocks. What size are we talking with those accounts?

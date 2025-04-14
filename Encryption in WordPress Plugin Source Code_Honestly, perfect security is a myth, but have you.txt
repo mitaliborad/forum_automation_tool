@@ -1,1 +1,0 @@
-Honestly, perfect security is a myth, but have you considered focusing on licensing and server-side logic instead? Might be more effective long term.

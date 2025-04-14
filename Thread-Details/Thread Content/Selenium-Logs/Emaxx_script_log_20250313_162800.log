@@ -1,0 +1,101 @@
+2025-03-13 16:28:00,241 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emaxx_script_log_20250313_162800.log
+2025-03-13 16:28:00,244 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 16:28:00,245 - INFO - Loaded 215 visited threads from Thread_links.txt
+2025-03-13 16:28:00,247 - INFO - Successfully loaded links that was already visited!
+2025-03-13 16:28:00,248 - DEBUG - Scrolling page 5 times.
+2025-03-13 16:28:00,249 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:01,971 - DEBUG - Page scrolled.
+2025-03-13 16:28:04,010 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:05,316 - DEBUG - Page scrolled.
+2025-03-13 16:28:07,321 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:09,235 - DEBUG - Page scrolled.
+2025-03-13 16:28:11,237 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:13,059 - DEBUG - Page scrolled.
+2025-03-13 16:28:15,062 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:17,059 - DEBUG - Page scrolled.
+2025-03-13 16:28:19,060 - DEBUG - Random scrolls complete.
+2025-03-13 16:28:19,061 - DEBUG - Scrolling page 7 times.
+2025-03-13 16:28:19,062 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:20,223 - DEBUG - Page scrolled.
+2025-03-13 16:28:22,226 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:24,103 - DEBUG - Page scrolled.
+2025-03-13 16:28:26,106 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:27,798 - DEBUG - Page scrolled.
+2025-03-13 16:28:29,799 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:31,667 - DEBUG - Page scrolled.
+2025-03-13 16:28:33,668 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:35,086 - DEBUG - Page scrolled.
+2025-03-13 16:28:37,088 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:38,524 - DEBUG - Page scrolled.
+2025-03-13 16:28:40,526 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:41,699 - DEBUG - Page scrolled.
+2025-03-13 16:28:43,701 - DEBUG - Random scrolls complete.
+2025-03-13 16:28:49,461 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-13 16:28:55,003 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/payoneer-account.1671273/unread
+2025-03-13 16:29:02,793 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/payoneer-account.1671273/unread
+2025-03-13 16:29:02,795 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/payoneer-account.1671273/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 16:29:02,829 - INFO - Extracted thread title: Payoneer Account
+2025-03-13 16:29:02,831 - DEBUG - Scrolling page 2 times.
+2025-03-13 16:29:02,832 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:04,835 - DEBUG - Page scrolled.
+2025-03-13 16:29:07,023 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:08,194 - DEBUG - Page scrolled.
+2025-03-13 16:29:10,197 - DEBUG - Random scrolls complete.
+2025-03-13 16:29:12,464 - DEBUG - Scrolling page 2 times.
+2025-03-13 16:29:12,465 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:14,041 - DEBUG - Page scrolled.
+2025-03-13 16:29:17,042 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:18,205 - DEBUG - Page scrolled.
+2025-03-13 16:29:21,206 - DEBUG - Random scrolls complete.
+2025-03-13 16:29:21,224 - DEBUG - Found 20 like buttons.
+2025-03-13 16:29:24,225 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-03-13 16:29:24,875 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:29:24,887 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:29:24,889 - DEBUG - Liked post number 1 of 4.
+2025-03-13 16:29:29,591 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:29:29,615 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:29:29,617 - DEBUG - Liked post number 2 of 4.
+2025-03-13 16:29:34,724 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:29:34,740 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:29:34,746 - DEBUG - Liked post number 3 of 4.
+2025-03-13 16:29:39,720 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:29:39,729 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:29:39,730 - DEBUG - Liked post number 4 of 4.
+2025-03-13 16:29:44,072 - INFO - Liked 4 posts successfully.
+2025-03-13 16:29:44,075 - INFO - Liked 4 posts successfully.
+2025-03-13 16:29:46,761 - DEBUG - Scrolling page 3 times.
+2025-03-13 16:29:46,762 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:48,417 - DEBUG - Page scrolled.
+2025-03-13 16:29:51,418 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:53,147 - DEBUG - Page scrolled.
+2025-03-13 16:29:56,148 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:58,133 - DEBUG - Page scrolled.
+2025-03-13 16:30:01,135 - DEBUG - Random scrolls complete.
+2025-03-13 16:30:03,325 - DEBUG - Total comments in the thread: 20
+2025-03-13 16:32:40,355 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Payoneer Account.txt
+2025-03-13 16:32:43,165 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 16:32:43,211 - DEBUG - Extracted main post content: Hey BHW members, my Payoneer account was banned 5 months ago. But i need a new Payoneer account, is there an option to create another Payoneer account under another email address? I will use another document to verify my account, for example i will use my driver's license now. Can someone help me with this?
+2025-03-13 16:32:46,320 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 16:32:46,324 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 16:32:49,015 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:32:49,018 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:32:49,052 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:32:49,102 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:32:49,111 - DEBUG - Text box scrolled into view
+2025-03-13 16:32:49,723 - DEBUG - Initializing actionchains
+2025-03-13 16:32:49,769 - DEBUG - Post reply Element location: {'x': 1087, 'y': 7071}, size: {'height': 21, 'width': 68}
+2025-03-13 16:32:49,770 - DEBUG - Target click coordinates: (1121, 7081)
+2025-03-13 16:33:08,033 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 16:33:08,035 - DEBUG - Moving mouse to text box element.
+2025-03-13 16:33:08,037 - DEBUG - Clicking on the text box.
+2025-03-13 16:33:08,039 - DEBUG - Sending keys with content: Wouldn't risk it, they're pretty good at connecting the dots. Maybe try a different payment processor altogether?
+
+2025-03-13 16:33:13,587 - DEBUG - Clicking on post reply button.
+2025-03-13 16:33:24,654 - DEBUG - Performed Actionchains
+2025-03-13 16:33:24,656 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 16:33:28,658 - INFO - Comment posted successfully.
+2025-03-13 16:33:28,660 - INFO - Task Completed!!
+2025-03-13 16:33:36,768 - INFO - Navigated back to the homepage.
+2025-03-13 16:33:39,758 - INFO - Attempting to clear memory and resources.
+2025-03-13 16:33:39,793 - INFO - Garbage collection completed.
+2025-03-13 16:33:39,794 - INFO - Waiting for 120 seconds before next execution.

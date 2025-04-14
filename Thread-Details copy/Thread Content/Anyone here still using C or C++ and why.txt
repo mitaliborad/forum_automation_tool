@@ -1,0 +1,242 @@
+--- Main Post Title ---
+Anyone here still using C or C++ and why?
+
+Total comments in the thread: 20
+
+Topic User: wimiphp
+Topic: why?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ReverseEngineering
+Topic: Stability, not to be decompiled, system independent, rock solid, simply classic.
+Team of freelancing reverse engineers (iOS/Android), bot developers, full stack developers, C++ coders, encryption/decryption professionals from West Europe. - GitHub: https://github.com/BestBotsInTown - Telegram: @BestBotsInTown
+My latest journey thread: Snapchat Reverse Engineering - Development of a Snapchat mass account creator bot
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: dandan594594
+Topic: C++, but only for small edits to code.
+Liked by: wimiphp
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: wimiphp
+Topic: dandan594594 said:
+C++, but only for small edits to code.
+Do you integrate it into other programming languages? For example for code optimisation cases?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: wimiphp
+Topic: ReverseEngineering said:
+Stability, not to be decompiled, system independent, rock solid, simply classic.
+You use both correct? Is there any reason to use C over C++ given that C has no object orientation (at elast in its well known form if I remeber correctly)?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ReverseEngineering
+Topic: wimiphp said:
+You use both correct? Is there any reason to use C over C++ given that C has no object orientation (at elast in its well known form if I remeber correctly)?
+
+Yes, I use both, but only due to downwards compatibility reasons.
+
+The new projects I started since 2018 or so are 100 % C++ already.
+
+Another advantage: Customer X asks about a social media bot, high performance, but "as cheap as possible". No problem. He will receive the compiled/linked executable file to do everything, being happy, but he won't be able to start a copycat with it (no source code available, except he pays for the source code). If I would have delivered a Python script...
+Liked by: lucky.sparks, wimiphp
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: OccultKingdoms
+Topic: ReverseEngineering said:
+Yes, I use both, but only due to downwards compatibility reasons.
+
+The new projects I started since 2018 or so are 100 % C++ already.
+
+Another advantage: Customer X asks about a social media bot, high performance, but "as cheap as possible". No problem. He will receive the compiled/linked executable file to do everything, being happy, but he won't be able to start a copycat with it (no source code available, except he pays for the source code). If I would have delivered a Python script...
+I decompiled Python game as a kid. Not much was needed.
+
+Most people just do web apps which can't be decompiled. But can be hacked.
+
+
+
+----
+
+Everyone makes use of ffmpeg written in C. Without it, a bot for a lot of social media platforms would be a piece of shit. Indeed, you use that power even if you don't realize it.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ReverseEngineering
+Topic: reaaski said:
+I decompiled Python game as a kid. Not much was needed.
+
+Exactly! That's it. Therefore I don't use Python.
+
+But I always respect to get "review copies" made in Python to take a deep breath. ;-)
+
+BTW: My journey thread will start earlier, @reaaski
+Liked by: wimiphp, OccultKingdoms
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: mbtor
+Topic: Force of habit, excellent editing and debugging capabilities in Visual Studio. If you remove the bottleneck of typing by learning blind typing, you don't lose much by having to write more text. In the end, more time is spent coming up with algorithms or program structure than actually typing lines. I calculated my type time to take around 5% of development time, so why should I bother with optimizing line count when I win at debugging? Also, a strong typed language prevents many bugs during compile time. C could be preferable to C++ for 1 man or small team projects (but then again, Linux kernel, which is a gigantic project written by 5k people, is written in C). C++ allows to impose coding restrictions which makes f-ing up harder, but there's this tendency to overthink and ponder which language feature to use to achieve this or that (because there's too many). C is super straightforward so you end up thinking only about what's needed to get things done.
+Liked by: wimiphp, OccultKingdoms
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: ReverseEngineering
+Topic: I learned to code C++ when I was 14.
+
+Many years later, after scripting some stuff in PHP, I asked myself why Facebook released HipHop (a PHP to C++ converter on a low level).
+
+I remembered my C++ skills, thought about the Facebook structure, and I continued with C++ instead.
+Liked by: wimiphp
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: wimiphp
+Topic: ReverseEngineering said:
+I learned to code C++ when I was 14.
+
+Many years later, after scripting some stuff in PHP, I asked myself why Facebook released HipHop (a PHP to C++ converter on a low level).
+
+I remembered my C++ skills, thought about the Facebook structure, and I continued with C++ instead.
+Pretty wild, learning C++ at such a young age. Its one of the best if not the best (with C) from what I know, so it seems to have been a well paid off investment on your side.
+
+Do you have experience with Rusk? I read/heard much about it, similar to Huskel, but not sure what to make out of them, since they are less popular than the current perfomance giants C/C++
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: wimiphp
+Topic: mbtor said:
+Force of habit, excellent editing and debugging capabilities in Visual Studio. If you remove the bottleneck of typing by learning blind typing, you don't lose much by having to write more text. In the end, more time is spent coming up with algorithms or program structure than actually typing lines. I calculated my type time to take around 5% of development time, so why should I bother with optimizing line count when I win at debugging? Also, a strong typed language prevents many bugs during compile time. C could be preferable to C++ for 1 man or small team projects (but then again, Linux kernel, which is a gigantic project written by 5k people, is written in C). C++ allows to impose coding restrictions which makes f-ing up harder, but there's this tendency to overthink and ponder which language feature to use to achieve this or that (because there's too many). C is super straightforward so you end up thinking only about what's needed to get things done.
+Click to expand...
+I will start with C then I think, since its recommended usually to understand what is going on inside the PC, althouhg albeit not as well as assembly or binary, but still it will proably give a better grasp than higher level languages like Python, Javascript etc.
+Liked by: mbtor
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: XAI
+Topic: I make video game cheats and you can't make a kernel driver for windows in anything but c
+Liked by: OccultKingdoms, BobbyBummbleBee
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: MrBigFoot_77
+Topic: C++ because I'm learning Unreal Engine.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Zooker
+Topic: C++ because I need both performance and stability.
+
+A language is like a tool in the toolbox. You need the right one for the job. However, that means you need many tools so it’s always good to be well-versed in many languages.
+
+Plus C++ teaches you memory management, etc, so you learn good habits.
+Liked by: OccultKingdoms
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Mitico
+Topic: Yes, I use C++ because it was the language I learnt from the start and it is just classic and it also have performance and stability.
+
+So it is a win win
+Liked by: OccultKingdoms
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: BobbyBummbleBee
+Topic: C for embedded system projects
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: RobertSEO
+Topic: Yes, I use C++ it has everything that I need as a software developer
+Liked by: OccultKingdoms, BobbyBummbleBee
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: OccultKingdoms
+Topic: wimiphp said:
+I will start with C then I think, since its recommended usually to understand what is going on inside the PC, althouhg albeit not as well as assembly or binary, but still it will proably give a better grasp than higher level languages like Python, Javascript etc.
+It's not for understanding. (I mean, it is but it's a side effect ) It's for maximum power you had in the 90s or 80s or 70s and people in power have idiots underneath them and those idiots create tools for idiots. I hope that's clear why the whole industry looks the way it does. There's always some genius and cretin in the same room. Sometimes a genius becomes a cretin, and sometimes a cretin becomes a genius. This world is changing quickly.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: itz_styx
+Topic: i use C and C# as its still the best language out there.
+Liked by: OccultKingdoms
+Number of likes: 1
+-----
+
+Replies:
+
+

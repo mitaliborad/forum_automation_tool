@@ -1,0 +1,94 @@
+2025-03-12 14:43:09,306 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_144309.log
+2025-03-12 14:43:09,308 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 14:43:09,338 - INFO - Loaded 171 visited threads from Thread_links.txt
+2025-03-12 14:43:09,341 - INFO - Successfully loaded links that was already visited!
+2025-03-12 14:43:09,342 - DEBUG - Scrolling page 4 times.
+2025-03-12 14:43:09,343 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:43:10,452 - DEBUG - Page scrolled.
+2025-03-12 14:43:12,457 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:43:14,445 - DEBUG - Page scrolled.
+2025-03-12 14:43:16,449 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:43:18,057 - DEBUG - Page scrolled.
+2025-03-12 14:43:20,061 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:43:21,323 - DEBUG - Page scrolled.
+2025-03-12 14:43:23,325 - DEBUG - Random scrolls complete.
+2025-03-12 14:43:23,327 - DEBUG - Scrolling page 4 times.
+2025-03-12 14:43:23,328 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:43:24,515 - DEBUG - Page scrolled.
+2025-03-12 14:43:26,518 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:43:28,379 - DEBUG - Page scrolled.
+2025-03-12 14:43:30,381 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:43:31,631 - DEBUG - Page scrolled.
+2025-03-12 14:43:33,634 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:43:34,749 - DEBUG - Page scrolled.
+2025-03-12 14:43:36,751 - DEBUG - Random scrolls complete.
+2025-03-12 14:43:42,464 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-03-12 14:43:46,961 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/multiple-tiktok-accs-on-a-single-phone.1694127/unread
+2025-03-12 14:43:54,586 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/multiple-tiktok-accs-on-a-single-phone.1694127/unread
+2025-03-12 14:43:54,589 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/multiple-tiktok-accs-on-a-single-phone.1694127/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 14:43:54,664 - INFO - Extracted thread title: Multiple TikTok Accs on a Single Phone
+2025-03-12 14:43:54,665 - DEBUG - Scrolling page 4 times.
+2025-03-12 14:43:54,666 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:43:56,492 - DEBUG - Page scrolled.
+2025-03-12 14:43:58,494 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:44:00,414 - DEBUG - Page scrolled.
+2025-03-12 14:44:02,490 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:44:04,047 - DEBUG - Page scrolled.
+2025-03-12 14:44:06,053 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:44:07,709 - DEBUG - Page scrolled.
+2025-03-12 14:44:09,711 - DEBUG - Random scrolls complete.
+2025-03-12 14:44:11,993 - DEBUG - Scrolling page 3 times.
+2025-03-12 14:44:11,993 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:44:14,032 - DEBUG - Page scrolled.
+2025-03-12 14:44:17,034 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:44:18,631 - DEBUG - Page scrolled.
+2025-03-12 14:44:21,633 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:44:23,175 - DEBUG - Page scrolled.
+2025-03-12 14:44:26,179 - DEBUG - Random scrolls complete.
+2025-03-12 14:44:26,216 - DEBUG - Found 20 like buttons.
+2025-03-12 14:44:29,218 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-03-12 14:44:30,178 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 14:44:30,213 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 14:44:30,217 - DEBUG - Liked post number 1 of 1.
+2025-03-12 14:44:35,205 - INFO - Liked 1 posts successfully.
+2025-03-12 14:44:35,208 - INFO - Liked 1 posts successfully.
+2025-03-12 14:44:38,210 - DEBUG - Scrolling page 3 times.
+2025-03-12 14:44:38,214 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:44:39,939 - DEBUG - Page scrolled.
+2025-03-12 14:44:42,941 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:44:44,219 - DEBUG - Page scrolled.
+2025-03-12 14:44:47,220 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:44:48,736 - DEBUG - Page scrolled.
+2025-03-12 14:44:51,739 - DEBUG - Random scrolls complete.
+2025-03-12 14:44:54,542 - DEBUG - Total comments in the thread: 20
+2025-03-12 14:47:29,615 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Multiple TikTok Accs on a Single Phone.txt
+2025-03-12 14:47:32,359 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 14:47:32,455 - DEBUG - Extracted main post content: I am planning to run multiple TikTok accounts from my burner phones with residential proxies.
+
+Can I run 2-3 TikTok accounts per phone? Or should I stick to 1 account per phone?
+
+I guess it looks "more human" to have 1 account per phone, no?
+2025-03-12 14:47:37,329 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 14:47:37,333 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 14:47:40,353 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:47:40,356 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:47:40,407 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:47:40,532 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:47:40,551 - DEBUG - Text box scrolled into view
+2025-03-12 14:47:41,536 - DEBUG - Initializing actionchains
+2025-03-12 14:47:41,571 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6424}, size: {'height': 21, 'width': 68}
+2025-03-12 14:47:41,571 - DEBUG - Target click coordinates: (1121, 6434)
+2025-03-12 14:47:58,364 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 14:47:58,368 - DEBUG - Moving mouse to text box element.
+2025-03-12 14:47:58,370 - DEBUG - Clicking on the text box.
+2025-03-12 14:47:58,372 - DEBUG - Sending keys with content: Honestly, managing multiple accounts on one device sounds risky. I'd stick to one per phone to avoid getting flagged.
+
+2025-03-12 14:48:03,705 - DEBUG - Clicking on post reply button.
+2025-03-12 14:48:14,773 - DEBUG - Performed Actionchains
+2025-03-12 14:48:14,774 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 14:48:18,776 - INFO - Comment posted successfully.
+2025-03-12 14:48:18,778 - INFO - Task Completed!!
+2025-03-12 14:48:27,109 - INFO - Navigated back to the homepage.
+2025-03-12 14:48:30,009 - INFO - Attempting to clear memory and resources.
+2025-03-12 14:48:30,053 - INFO - Garbage collection completed.
+2025-03-12 14:48:30,054 - INFO - Waiting for 1000 seconds before next execution.

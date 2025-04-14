@@ -1,0 +1,108 @@
+2025-03-13 15:42:06,933 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_154206.log
+2025-03-13 15:42:06,934 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:42:06,951 - INFO - Loaded 201 visited threads from Thread_links.txt
+2025-03-13 15:42:06,953 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:42:08,957 - DEBUG - Scrolling page 5 times.
+2025-03-13 15:42:08,957 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:10,119 - DEBUG - Page scrolled.
+2025-03-13 15:42:12,124 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:13,205 - DEBUG - Page scrolled.
+2025-03-13 15:42:15,208 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:16,863 - DEBUG - Page scrolled.
+2025-03-13 15:42:18,876 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:20,711 - DEBUG - Page scrolled.
+2025-03-13 15:42:22,713 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:23,772 - DEBUG - Page scrolled.
+2025-03-13 15:42:25,781 - DEBUG - Random scrolls complete.
+2025-03-13 15:42:25,785 - DEBUG - Scrolling page 5 times.
+2025-03-13 15:42:25,788 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:27,443 - DEBUG - Page scrolled.
+2025-03-13 15:42:29,444 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:30,662 - DEBUG - Page scrolled.
+2025-03-13 15:42:32,665 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:33,953 - DEBUG - Page scrolled.
+2025-03-13 15:42:35,960 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:37,942 - DEBUG - Page scrolled.
+2025-03-13 15:42:39,949 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:41,492 - DEBUG - Page scrolled.
+2025-03-13 15:42:43,494 - DEBUG - Random scrolls complete.
+2025-03-13 15:42:46,615 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-03-13 15:42:51,419 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/my-space-how-to-run-now.1659899/unread
+2025-03-13 15:42:59,503 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/my-space-how-to-run-now.1659899/unread
+2025-03-13 15:42:59,507 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/my-space-how-to-run-now.1659899/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:42:59,576 - INFO - Extracted thread title: my space how to run now
+2025-03-13 15:43:07,839 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:43:07,842 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:09,816 - DEBUG - Page scrolled.
+2025-03-13 15:43:11,818 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:13,047 - DEBUG - Page scrolled.
+2025-03-13 15:43:15,050 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:16,804 - DEBUG - Page scrolled.
+2025-03-13 15:43:18,809 - DEBUG - Random scrolls complete.
+2025-03-13 15:43:21,591 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:43:21,594 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:23,556 - DEBUG - Page scrolled.
+2025-03-13 15:43:26,559 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:27,901 - DEBUG - Page scrolled.
+2025-03-13 15:43:30,903 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:32,086 - DEBUG - Page scrolled.
+2025-03-13 15:43:35,089 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:36,720 - DEBUG - Page scrolled.
+2025-03-13 15:43:39,723 - DEBUG - Random scrolls complete.
+2025-03-13 15:43:39,759 - DEBUG - Found 3 like buttons.
+2025-03-13 15:43:42,760 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-03-13 15:43:43,595 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:43:43,625 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:43:43,627 - DEBUG - Liked post number 1 of 3.
+2025-03-13 15:43:49,270 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:43:49,289 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:43:49,291 - DEBUG - Liked post number 2 of 3.
+2025-03-13 15:43:53,974 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:43:53,981 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:43:53,983 - DEBUG - Liked post number 3 of 3.
+2025-03-13 15:43:58,376 - INFO - Liked 3 posts successfully.
+2025-03-13 15:43:58,392 - INFO - Liked 3 posts successfully.
+2025-03-13 15:44:03,068 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:44:03,071 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:04,564 - DEBUG - Page scrolled.
+2025-03-13 15:44:07,568 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:09,361 - DEBUG - Page scrolled.
+2025-03-13 15:44:12,364 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:13,874 - DEBUG - Page scrolled.
+2025-03-13 15:44:16,876 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:18,156 - DEBUG - Page scrolled.
+2025-03-13 15:44:21,159 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:23,098 - DEBUG - Page scrolled.
+2025-03-13 15:44:26,101 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:27,785 - DEBUG - Page scrolled.
+2025-03-13 15:44:30,788 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:32,659 - DEBUG - Page scrolled.
+2025-03-13 15:44:35,662 - DEBUG - Random scrolls complete.
+2025-03-13 15:44:37,795 - DEBUG - Total comments in the thread: 3
+2025-03-13 15:44:38,034 - INFO - Post content extracted and saved to Thread-Details/Thread Content\my space how to run now.txt
+2025-03-13 15:44:52,948 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:44:52,988 - DEBUG - Extracted main post content: Find Search New People on Myspace
+2025-03-13 15:44:57,832 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:44:57,836 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:45:00,136 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:45:00,138 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:45:00,167 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:45:00,213 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:45:00,221 - DEBUG - Text box scrolled into view
+2025-03-13 15:45:00,994 - DEBUG - Initializing actionchains
+2025-03-13 15:45:01,041 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1827}, size: {'height': 21, 'width': 68}
+2025-03-13 15:45:01,042 - DEBUG - Target click coordinates: (1121, 1837)
+2025-03-13 15:45:08,148 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:45:08,150 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:45:08,152 - DEBUG - Clicking on the text box.
+2025-03-13 15:45:08,154 - DEBUG - Sending keys with content: Haven't thought about MySpace in ages. Is it still a thing or are you just feeling nostalgic?
+
+2025-03-13 15:45:13,645 - DEBUG - Clicking on post reply button.
+2025-03-13 15:45:24,611 - DEBUG - Performed Actionchains
+2025-03-13 15:45:24,612 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:45:28,614 - INFO - Comment posted successfully.
+2025-03-13 15:45:28,617 - INFO - Task Completed!!
+2025-03-13 15:45:33,417 - INFO - Navigated back to the homepage.
+2025-03-13 15:45:36,244 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:45:36,283 - INFO - Garbage collection completed.
+2025-03-13 15:45:36,283 - INFO - Waiting for 10 seconds before next execution.

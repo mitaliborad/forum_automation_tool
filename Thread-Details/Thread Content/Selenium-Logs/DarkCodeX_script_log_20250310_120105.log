@@ -1,0 +1,103 @@
+2025-03-10 12:01:05,398 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250310_120105.log
+2025-03-10 12:01:05,401 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-10 12:01:05,431 - INFO - Loaded 109 visited threads from Thread_links.txt
+2025-03-10 12:01:05,433 - INFO - Successfully loaded links that was already visited!
+2025-03-10 12:01:05,434 - DEBUG - Scrolling page 7 times.
+2025-03-10 12:01:05,434 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:07,343 - DEBUG - Page scrolled.
+2025-03-10 12:01:09,348 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:10,511 - DEBUG - Page scrolled.
+2025-03-10 12:01:12,514 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:14,513 - DEBUG - Page scrolled.
+2025-03-10 12:01:16,515 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:18,509 - DEBUG - Page scrolled.
+2025-03-10 12:01:20,511 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:21,640 - DEBUG - Page scrolled.
+2025-03-10 12:01:23,642 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:24,680 - DEBUG - Page scrolled.
+2025-03-10 12:01:26,682 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:28,382 - DEBUG - Page scrolled.
+2025-03-10 12:01:30,383 - DEBUG - Random scrolls complete.
+2025-03-10 12:01:30,385 - DEBUG - Scrolling page 4 times.
+2025-03-10 12:01:30,386 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:31,650 - DEBUG - Page scrolled.
+2025-03-10 12:01:33,652 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:35,621 - DEBUG - Page scrolled.
+2025-03-10 12:01:37,622 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:39,269 - DEBUG - Page scrolled.
+2025-03-10 12:01:41,271 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:42,775 - DEBUG - Page scrolled.
+2025-03-10 12:01:44,778 - DEBUG - Random scrolls complete.
+2025-03-10 12:01:54,273 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-03-10 12:01:58,632 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/this-extension-was-turned-off-because-it-is-no-longer-supported.1692552/unread
+2025-03-10 12:02:06,843 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/this-extension-was-turned-off-because-it-is-no-longer-supported.1692552/unread
+2025-03-10 12:02:06,847 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/this-extension-was-turned-off-because-it-is-no-longer-supported.1692552/unread' to visited threads file 'Thread_links.txt'.
+2025-03-10 12:02:06,899 - INFO - Extracted thread title: This extension was turned off because it is no longer supported
+2025-03-10 12:02:06,901 - DEBUG - Scrolling page 3 times.
+2025-03-10 12:02:06,901 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:08,095 - DEBUG - Page scrolled.
+2025-03-10 12:02:10,097 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:11,578 - DEBUG - Page scrolled.
+2025-03-10 12:02:13,580 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:15,395 - DEBUG - Page scrolled.
+2025-03-10 12:02:17,397 - DEBUG - Random scrolls complete.
+2025-03-10 12:02:19,756 - DEBUG - Scrolling page 2 times.
+2025-03-10 12:02:19,758 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:21,260 - DEBUG - Page scrolled.
+2025-03-10 12:02:24,262 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:25,585 - DEBUG - Page scrolled.
+2025-03-10 12:02:28,593 - DEBUG - Random scrolls complete.
+2025-03-10 12:02:28,645 - DEBUG - Found 7 like buttons.
+2025-03-10 12:02:31,652 - INFO - Attempting to like 3 posts. There are 7 available.
+2025-03-10 12:02:32,231 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:02:32,273 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:02:32,275 - DEBUG - Liked post number 1 of 3.
+2025-03-10 12:02:37,617 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:02:37,625 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:02:37,626 - DEBUG - Liked post number 2 of 3.
+2025-03-10 12:02:42,274 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:02:42,285 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:02:42,287 - DEBUG - Liked post number 3 of 3.
+2025-03-10 12:02:47,097 - INFO - Liked 3 posts successfully.
+2025-03-10 12:02:47,099 - INFO - Liked 3 posts successfully.
+2025-03-10 12:02:47,101 - DEBUG - Scrolling page 5 times.
+2025-03-10 12:02:47,103 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:48,833 - DEBUG - Page scrolled.
+2025-03-10 12:02:51,836 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:53,345 - DEBUG - Page scrolled.
+2025-03-10 12:02:56,347 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:57,831 - DEBUG - Page scrolled.
+2025-03-10 12:03:00,835 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:03:01,904 - DEBUG - Page scrolled.
+2025-03-10 12:03:04,906 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:03:06,367 - DEBUG - Page scrolled.
+2025-03-10 12:03:09,369 - DEBUG - Random scrolls complete.
+2025-03-10 12:03:12,357 - DEBUG - Total comments in the thread: 7
+2025-03-10 12:03:28,402 - INFO - Post content extracted and saved to Thread-Details/Thread Content\This extension was turned off because it is no longer supported.txt
+2025-03-10 12:03:30,445 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-10 12:03:30,559 - DEBUG - Extracted main post content: I'm using ublock origin to optimize bandwidth but I'm having a very strange problem. When I haven't turned on the proxy, everything is normal, but when I finish configuring ublock origin and closing the browser, assigning the proxy, I see this message "This extension was turned off because it is no longer supported" and I have to reopen it manually. But the bad thing is that even though I block ads, the capacity is still much larger than before.
+i don't understand why
+2025-03-10 12:03:34,067 - INFO - Successfully generated comments using Gemini API.
+2025-03-10 12:03:34,070 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-10 12:03:36,693 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:03:36,694 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:03:36,710 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:03:36,762 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:03:36,774 - DEBUG - Text box scrolled into view
+2025-03-10 12:03:37,737 - DEBUG - Initializing actionchains
+2025-03-10 12:03:37,777 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3198}, size: {'height': 21, 'width': 68}
+2025-03-10 12:03:37,778 - DEBUG - Target click coordinates: (1121, 3208)
+2025-03-10 12:03:48,387 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-10 12:03:48,389 - DEBUG - Moving mouse to text box element.
+2025-03-10 12:03:48,390 - DEBUG - Clicking on the text box.
+2025-03-10 12:03:48,392 - DEBUG - Sending keys with content: Hmm, that's odd. Maybe try checking if there's a conflict with another extension you have running? Sometimes they can mess with each other.
+
+2025-03-10 12:03:54,020 - DEBUG - Clicking on post reply button.
+2025-03-10 12:03:55,465 - DEBUG - Performed Actionchains
+2025-03-10 12:03:55,466 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-10 12:03:59,469 - INFO - Comment posted successfully.
+2025-03-10 12:03:59,471 - INFO - Task Completed!!
+2025-03-10 12:04:10,347 - INFO - Navigated back to the homepage.
+2025-03-10 12:04:13,007 - INFO - Attempting to clear memory and resources.
+2025-03-10 12:04:13,049 - INFO - Garbage collection completed.
+2025-03-10 12:04:13,050 - INFO - Waiting for 1000 seconds before next execution.

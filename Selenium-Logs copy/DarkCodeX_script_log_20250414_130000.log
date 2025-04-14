@@ -1,0 +1,186 @@
+2025-04-14 13:00:00,622 - INFO - Current time: 1744615800.6220303
+2025-04-14 13:00:00,623 - INFO - Token expiration time: 1744621471.1287334
+2025-04-14 13:00:00,624 - INFO - Token expiration time: 1744621471.1287334
+2025-04-14 13:00:00,626 - INFO - Profile DarkCodeX: Opening random website: https://github.com/
+2025-04-14 13:00:45,005 - INFO - Profile DarkCodeX: Pausing for 47.52 seconds...
+2025-04-14 13:01:32,524 - INFO - Profile DarkCodeX: Resuming...
+2025-04-14 13:01:32,555 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-14 13:01:32,558 - INFO - performing random action
+2025-04-14 13:01:32,560 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:01:32,563 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:01:32,564 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:01:33,744 - DEBUG - Page scrolled.
+2025-04-14 13:01:35,746 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:01:36,950 - DEBUG - Page scrolled.
+2025-04-14 13:01:38,951 - DEBUG - Random scrolls complete.
+2025-04-14 13:01:38,952 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:01:38,954 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:01:40,001 - DEBUG - Page scrolled.
+2025-04-14 13:01:42,026 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:01:43,115 - DEBUG - Page scrolled.
+2025-04-14 13:01:45,118 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:01:47,082 - DEBUG - Page scrolled.
+2025-04-14 13:01:49,084 - DEBUG - Random scrolls complete.
+2025-04-14 13:02:03,610 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/c-c-c.60/
+2025-04-14 13:02:07,366 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/c-dotnet-bots-requests-library-help-doc-or-ebook.1628084/unread
+2025-04-14 13:02:07,367 - INFO - performing random action
+2025-04-14 13:02:20,772 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/c-dotnet-bots-requests-library-help-doc-or-ebook.1628084/unread
+2025-04-14 13:02:20,777 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/c-dotnet-bots-requests-library-help-doc-or-ebook.1628084/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 13:02:20,835 - INFO - Extracted thread title: C#DotNet Bots  Requests library help doc or ebook
+2025-04-14 13:02:20,835 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:02:20,836 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:02:21,851 - DEBUG - Page scrolled.
+2025-04-14 13:02:23,853 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:02:25,506 - DEBUG - Page scrolled.
+2025-04-14 13:02:27,507 - DEBUG - Random scrolls complete.
+2025-04-14 13:02:30,316 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:02:30,317 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:02:31,999 - DEBUG - Page scrolled.
+2025-04-14 13:02:35,000 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:02:36,964 - DEBUG - Page scrolled.
+2025-04-14 13:02:39,966 - DEBUG - Random scrolls complete.
+2025-04-14 13:02:40,011 - DEBUG - Found 7 like buttons.
+2025-04-14 13:02:43,012 - INFO - Attempting to like 4 posts. There are 7 available.
+2025-04-14 13:02:43,576 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:02:43,601 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:02:43,603 - DEBUG - Liked post number 1 of 4.
+2025-04-14 13:02:49,103 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:02:49,124 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:02:49,126 - DEBUG - Liked post number 2 of 4.
+2025-04-14 13:02:54,299 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:02:54,319 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:02:54,320 - DEBUG - Liked post number 3 of 4.
+2025-04-14 13:02:59,426 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:02:59,446 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:02:59,448 - DEBUG - Liked post number 4 of 4.
+2025-04-14 13:03:03,980 - INFO - Liked 4 posts successfully.
+2025-04-14 13:03:03,981 - INFO - Liked 4 posts successfully.
+2025-04-14 13:03:06,312 - INFO - performing random action
+2025-04-14 13:03:06,313 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:03:06,313 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:03:07,988 - DEBUG - Page scrolled.
+2025-04-14 13:03:10,993 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:03:12,471 - DEBUG - Page scrolled.
+2025-04-14 13:03:15,473 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:03:16,705 - DEBUG - Page scrolled.
+2025-04-14 13:03:19,707 - DEBUG - Random scrolls complete.
+2025-04-14 13:03:22,233 - DEBUG - Total comments in the thread: 7
+2025-04-14 13:03:43,820 - INFO - Post content extracted and saved to Thread-Details/Thread Content\C#DotNet Bots  Requests library help doc or ebook.txt
+2025-04-14 13:03:46,354 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:03:46,384 - DEBUG - Extracted main post content: Hey, a while ago i started with the C# basics and i think im good with it. But im interested to make bots
+something like WebScraping / Login ..... these things but im stuck atm i dont really know which library i need to use
+and i heard something about bypassing recaptcha ?? csrf token i dont really know ..... and i cannot find anything good tbh..
+
+but one ppl said to me i have to use sometimes a API?
+
+my questions are
+
+How can i make a WebScraping bot in c#? - Which library do i need to use?
+How can i bypass recaptcha & csrf token - do i need another library for it ?
+How can i make a API if needed ? - An explanation of what an API is would be great too!
+
+if u cant reach me here (sometimes online)
+feel free to contact me
+
+on DC
+astrylxyz
+2025-04-14 13:03:51,225 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:03:51,229 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:03:53,388 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-14 13:03:55,396 - INFO - performing random action
+2025-04-14 13:03:55,397 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:03:55,398 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:03:55,445 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:03:55,514 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:03:55,521 - DEBUG - Text box scrolled into view
+2025-04-14 13:03:56,060 - DEBUG - Initializing actionchains
+2025-04-14 13:03:56,164 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3955}, size: {'height': 21, 'width': 68}
+2025-04-14 13:03:56,166 - DEBUG - Target click coordinates: (1265, 3965)
+2025-04-14 13:04:08,587 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:04:08,589 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:04:08,591 - DEBUG - Clicking on the text box.
+2025-04-14 13:04:08,594 - DEBUG - Sending keys with content: Alright, so you're diving into bot-making! For web scraping in C#, check out HtmlAgilityPack – it's pretty solid. As for reCAPTCHA, that's a tough nut to crack and might require some serious API usage.
+
+2025-04-14 13:04:14,009 - DEBUG - Clicking on post reply button.
+2025-04-14 13:04:18,769 - ERROR - Error posting comment: Message: stale element reference: stale element not found
+  (Session info: chrome=134.0.6998.44); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF798270C45+27221]
+	(No symbol) [0x00007FF7981D6F30]
+	(No symbol) [0x00007FF798055ADA]
+	(No symbol) [0x00007FF79806BBF4]
+	(No symbol) [0x00007FF79806A6C3]
+	(No symbol) [0x00007FF79805E161]
+	(No symbol) [0x00007FF79805BF42]
+	(No symbol) [0x00007FF7980601FC]
+	(No symbol) [0x00007FF7980602CF]
+	(No symbol) [0x00007FF7980B6D54]
+	(No symbol) [0x00007FF7980B5FB0]
+	(No symbol) [0x00007FF79810B940]
+	(No symbol) [0x00007FF7980D7C9A]
+	(No symbol) [0x00007FF7981004E3]
+	(No symbol) [0x00007FF7980D7A73]
+	(No symbol) [0x00007FF7980A0750]
+	(No symbol) [0x00007FF7980A1A03]
+	GetHandleVerifier [0x00007FF7985D6E2D+3591229]
+	GetHandleVerifier [0x00007FF7985EE45A+3687018]
+	GetHandleVerifier [0x00007FF7985E3323+3641651]
+	GetHandleVerifier [0x00007FF79833B6BA+857290]
+	(No symbol) [0x00007FF7981E230F]
+	(No symbol) [0x00007FF7981DE304]
+	(No symbol) [0x00007FF7981DE4A6]
+	(No symbol) [0x00007FF7981CD469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 505, in post_comment
+    actions.perform()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 94, in perform
+    self.w3c_actions.perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 170, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: stale element not found
+  (Session info: chrome=134.0.6998.44); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF798270C45+27221]
+	(No symbol) [0x00007FF7981D6F30]
+	(No symbol) [0x00007FF798055ADA]
+	(No symbol) [0x00007FF79806BBF4]
+	(No symbol) [0x00007FF79806A6C3]
+	(No symbol) [0x00007FF79805E161]
+	(No symbol) [0x00007FF79805BF42]
+	(No symbol) [0x00007FF7980601FC]
+	(No symbol) [0x00007FF7980602CF]
+	(No symbol) [0x00007FF7980B6D54]
+	(No symbol) [0x00007FF7980B5FB0]
+	(No symbol) [0x00007FF79810B940]
+	(No symbol) [0x00007FF7980D7C9A]
+	(No symbol) [0x00007FF7981004E3]
+	(No symbol) [0x00007FF7980D7A73]
+	(No symbol) [0x00007FF7980A0750]
+	(No symbol) [0x00007FF7980A1A03]
+	GetHandleVerifier [0x00007FF7985D6E2D+3591229]
+	GetHandleVerifier [0x00007FF7985EE45A+3687018]
+	GetHandleVerifier [0x00007FF7985E3323+3641651]
+	GetHandleVerifier [0x00007FF79833B6BA+857290]
+	(No symbol) [0x00007FF7981E230F]
+	(No symbol) [0x00007FF7981DE304]
+	(No symbol) [0x00007FF7981DE4A6]
+	(No symbol) [0x00007FF7981CD469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-14 13:04:18,799 - INFO - Comment posted successfully.
+2025-04-14 13:04:18,799 - INFO - Task Completed!!
+2025-04-14 13:04:21,568 - INFO - Navigated back to the homepage.
+2025-04-14 13:04:24,414 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:04:24,487 - INFO - Garbage collection completed.
+2025-04-14 13:04:24,495 - INFO - Waiting for 2200 seconds before next execution.

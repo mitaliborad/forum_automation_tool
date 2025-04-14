@@ -1,0 +1,114 @@
+2025-03-13 15:34:25,987 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_153425.log
+2025-03-13 15:34:25,989 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:34:25,990 - INFO - Loaded 195 visited threads from Thread_links.txt
+2025-03-13 15:34:25,991 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:34:25,993 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:34:25,994 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:27,118 - DEBUG - Page scrolled.
+2025-03-13 15:34:29,120 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:30,256 - DEBUG - Page scrolled.
+2025-03-13 15:34:32,259 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:33,644 - DEBUG - Page scrolled.
+2025-03-13 15:34:35,646 - DEBUG - Random scrolls complete.
+2025-03-13 15:34:35,647 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:34:35,648 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:36,685 - DEBUG - Page scrolled.
+2025-03-13 15:34:38,686 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:40,258 - DEBUG - Page scrolled.
+2025-03-13 15:34:42,260 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:43,466 - DEBUG - Page scrolled.
+2025-03-13 15:34:45,468 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:46,686 - DEBUG - Page scrolled.
+2025-03-13 15:34:48,687 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:49,820 - DEBUG - Page scrolled.
+2025-03-13 15:34:51,821 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:53,378 - DEBUG - Page scrolled.
+2025-03-13 15:34:55,380 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:56,404 - DEBUG - Page scrolled.
+2025-03-13 15:34:58,406 - DEBUG - Random scrolls complete.
+2025-03-13 15:35:05,591 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-13 15:35:10,176 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/website-chat-gpt-bot-optimisation-gptbo-c.1695022/unread
+2025-03-13 15:35:19,717 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/website-chat-gpt-bot-optimisation-gptbo-c.1695022/unread
+2025-03-13 15:35:19,719 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/website-chat-gpt-bot-optimisation-gptbo-c.1695022/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:35:19,754 - INFO - Extracted thread title: Website Chat gpt BOT optimisation (GPTBO ©)
+2025-03-13 15:35:19,755 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:35:19,756 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:21,030 - DEBUG - Page scrolled.
+2025-03-13 15:35:23,033 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:24,929 - DEBUG - Page scrolled.
+2025-03-13 15:35:26,930 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:28,728 - DEBUG - Page scrolled.
+2025-03-13 15:35:30,731 - DEBUG - Random scrolls complete.
+2025-03-13 15:35:33,431 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:35:33,432 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:35,421 - DEBUG - Page scrolled.
+2025-03-13 15:35:38,423 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:39,548 - DEBUG - Page scrolled.
+2025-03-13 15:35:42,551 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:43,763 - DEBUG - Page scrolled.
+2025-03-13 15:35:46,766 - DEBUG - Random scrolls complete.
+2025-03-13 15:35:46,791 - DEBUG - Found 4 like buttons.
+2025-03-13 15:35:49,799 - INFO - Attempting to like 4 posts. There are 4 available.
+2025-03-13 15:35:50,412 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:35:50,433 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:35:50,435 - DEBUG - Liked post number 1 of 4.
+2025-03-13 15:35:55,749 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:35:55,761 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:35:55,762 - DEBUG - Liked post number 2 of 4.
+2025-03-13 15:36:01,595 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:36:01,603 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:36:01,605 - DEBUG - Liked post number 3 of 4.
+2025-03-13 15:36:06,961 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:36:06,974 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:36:06,975 - DEBUG - Liked post number 4 of 4.
+2025-03-13 15:36:11,564 - INFO - Liked 4 posts successfully.
+2025-03-13 15:36:11,566 - INFO - Liked 4 posts successfully.
+2025-03-13 15:36:14,207 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:36:14,209 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:15,969 - DEBUG - Page scrolled.
+2025-03-13 15:36:18,970 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:20,586 - DEBUG - Page scrolled.
+2025-03-13 15:36:23,589 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:24,861 - DEBUG - Page scrolled.
+2025-03-13 15:36:27,862 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:29,011 - DEBUG - Page scrolled.
+2025-03-13 15:36:32,013 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:33,091 - DEBUG - Page scrolled.
+2025-03-13 15:36:36,092 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:37,330 - DEBUG - Page scrolled.
+2025-03-13 15:36:40,337 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:41,503 - DEBUG - Page scrolled.
+2025-03-13 15:36:44,504 - DEBUG - Random scrolls complete.
+2025-03-13 15:36:47,181 - DEBUG - Total comments in the thread: 4
+2025-03-13 15:36:47,599 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Website Chat gpt BOT optimisation (GPTBO ©).txt
+2025-03-13 15:36:50,353 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:36:50,379 - DEBUG - Extracted main post content: Probably many webmasters have noticed traffic from AI services on their sites: openAI, perplexity. What can be done to increase this traffic?
+1. Allow in robots.txt
+2. Structured scheme data
+3. Something else?
+
+Maybe there are some instructions and gray methods to interest AI bots?
+2025-03-13 15:36:54,344 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:36:54,356 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:36:56,690 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:36:56,692 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:36:56,727 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:36:56,787 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:36:56,801 - DEBUG - Text box scrolled into view
+2025-03-13 15:36:57,629 - DEBUG - Initializing actionchains
+2025-03-13 15:36:57,673 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2196}, size: {'height': 21, 'width': 68}
+2025-03-13 15:36:57,679 - DEBUG - Target click coordinates: (1121, 2206)
+2025-03-13 15:37:05,869 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:37:05,872 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:37:05,872 - DEBUG - Clicking on the text box.
+2025-03-13 15:37:05,873 - DEBUG - Sending keys with content: Honestly, focusing on quality content that those AI services would want to cite seems like a better long-term play than trying to game the bots themselves.
+
+2025-03-13 15:37:11,866 - DEBUG - Clicking on post reply button.
+2025-03-13 15:37:23,090 - DEBUG - Performed Actionchains
+2025-03-13 15:37:23,091 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:37:27,093 - INFO - Comment posted successfully.
+2025-03-13 15:37:27,099 - INFO - Task Completed!!
+2025-03-13 15:37:32,721 - INFO - Navigated back to the homepage.
+2025-03-13 15:37:35,235 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:37:35,265 - INFO - Garbage collection completed.
+2025-03-13 15:37:35,266 - INFO - Waiting for 10 seconds before next execution.

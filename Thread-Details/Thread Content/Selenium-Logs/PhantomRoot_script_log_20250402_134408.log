@@ -1,0 +1,35 @@
+2025-04-02 13:44:08,628 - INFO - Current time: 1743581648.627967
+2025-04-02 13:44:08,629 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:44:08,630 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:44:08,631 - INFO - performing random action
+2025-04-02 13:44:08,632 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:44:08,633 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:44:08,634 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:44:09,772 - DEBUG - Page scrolled.
+2025-04-02 13:44:11,775 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:44:13,273 - DEBUG - Page scrolled.
+2025-04-02 13:44:15,276 - DEBUG - Random scrolls complete.
+2025-04-02 13:44:15,278 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:44:15,279 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:44:17,268 - DEBUG - Page scrolled.
+2025-04-02 13:44:19,271 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:44:20,636 - DEBUG - Page scrolled.
+2025-04-02 13:44:22,639 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:44:24,498 - DEBUG - Page scrolled.
+2025-04-02 13:44:26,500 - DEBUG - Random scrolls complete.
+2025-04-02 13:44:33,302 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-02 13:44:43,682 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:44:43,697 - INFO - performing random action
+2025-04-02 13:44:43,698 - WARNING - Skipping thread processing due to no thread link being found in subforum.

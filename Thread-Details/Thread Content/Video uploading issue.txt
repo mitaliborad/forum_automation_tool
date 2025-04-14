@@ -1,0 +1,51 @@
+--- Main Post Title ---
+Video uploading issue
+
+Total comments in the thread: 3
+
+Topic User: reddensoft
+Topic: Hi, I want to upload a video in Php whose size more than 2GB. However I am unable to write the code as it is showing issues. Can anyone suggest me. The video is in the form of embedded code of YouTube.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ipolic
+Topic: Update php.ini with following:
+
+Code:
+; Maximum allowed size for uploaded files.
+upload_max_filesize = 5G
+
+; Maximum size of POST data that PHP will accept.
+post_max_size = 5G
+
+; Maximum execution time of each script, in seconds.
+max_execution_time = 3600
+
+; Maximum input time of each script, in seconds.
+max_input_time = 3600
+
+; Memory limit to accommodate the large file upload.
+memory_limit = 5G
+Take Control of Your Traffic with Qliker.io
+Advanced Link Tracking | Click Rotators | ️ Bot Detection (QIQ)
+Start Your 14-Day Free Trial Today!
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: YouTube's embedded code *is* the video; you're not uploading anything, just displaying it. Maybe clarify what you're actually trying to do?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

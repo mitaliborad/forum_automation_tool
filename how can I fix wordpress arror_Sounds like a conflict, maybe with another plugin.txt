@@ -1,1 +1,0 @@
-Sounds like a conflict, maybe with another plugin? Try disabling them one by one to see if that fixes it; it's a pain, but usually works.

@@ -1,0 +1,105 @@
+2025-03-08 12:53:14,221 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250308_125314.log
+2025-03-08 12:53:14,224 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-08 12:53:14,261 - INFO - Loaded 104 visited threads from Thread_links.txt
+2025-03-08 12:53:14,262 - INFO - Successfully loaded links that was already visited!
+2025-03-08 12:53:14,263 - DEBUG - Scrolling page 7 times.
+2025-03-08 12:53:14,265 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:15,590 - DEBUG - Page scrolled.
+2025-03-08 12:53:17,593 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:19,300 - DEBUG - Page scrolled.
+2025-03-08 12:53:21,306 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:23,275 - DEBUG - Page scrolled.
+2025-03-08 12:53:25,277 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:27,083 - DEBUG - Page scrolled.
+2025-03-08 12:53:29,086 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:30,552 - DEBUG - Page scrolled.
+2025-03-08 12:53:32,555 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:34,119 - DEBUG - Page scrolled.
+2025-03-08 12:53:36,121 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:37,624 - DEBUG - Page scrolled.
+2025-03-08 12:53:39,627 - DEBUG - Random scrolls complete.
+2025-03-08 12:53:39,629 - DEBUG - Scrolling page 5 times.
+2025-03-08 12:53:39,631 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:41,277 - DEBUG - Page scrolled.
+2025-03-08 12:53:43,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:44,408 - DEBUG - Page scrolled.
+2025-03-08 12:53:46,410 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:47,736 - DEBUG - Page scrolled.
+2025-03-08 12:53:49,739 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:51,218 - DEBUG - Page scrolled.
+2025-03-08 12:53:53,221 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:53:54,872 - DEBUG - Page scrolled.
+2025-03-08 12:53:56,875 - DEBUG - Random scrolls complete.
+2025-03-08 12:54:01,626 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-03-08 12:54:05,757 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/twitch-bot-proxies.1692535/unread
+2025-03-08 12:54:11,465 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/twitch-bot-proxies.1692535/unread
+2025-03-08 12:54:11,468 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/twitch-bot-proxies.1692535/unread' to visited threads file 'Thread_links.txt'.
+2025-03-08 12:54:11,523 - INFO - Extracted thread title: www.blackhatworld.com
+2025-03-08 12:54:11,524 - DEBUG - Scrolling page 4 times.
+2025-03-08 12:54:11,525 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:54:13,322 - DEBUG - Page scrolled.
+2025-03-08 12:54:15,324 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:54:17,187 - DEBUG - Page scrolled.
+2025-03-08 12:54:19,189 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:54:22,847 - DEBUG - Page scrolled.
+2025-03-08 12:54:24,848 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:54:26,855 - DEBUG - Page scrolled.
+2025-03-08 12:54:28,857 - DEBUG - Random scrolls complete.
+2025-03-08 12:54:31,661 - DEBUG - Scrolling page 4 times.
+2025-03-08 12:54:31,663 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:54:32,895 - DEBUG - Page scrolled.
+2025-03-08 12:54:35,896 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:54:37,155 - DEBUG - Page scrolled.
+2025-03-08 12:54:40,158 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:54:41,317 - DEBUG - Page scrolled.
+2025-03-08 12:54:44,319 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:54:46,133 - DEBUG - Page scrolled.
+2025-03-08 12:54:49,136 - DEBUG - Random scrolls complete.
+2025-03-08 12:54:49,152 - DEBUG - Found 8 like buttons.
+2025-03-08 12:54:52,153 - INFO - Attempting to like 2 posts. There are 8 available.
+2025-03-08 12:54:52,946 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-08 12:54:52,959 - INFO - Like button clicked successfully using JavaScript.
+2025-03-08 12:54:52,962 - DEBUG - Liked post number 1 of 2.
+2025-03-08 12:54:57,742 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-08 12:54:57,763 - INFO - Like button clicked successfully using JavaScript.
+2025-03-08 12:54:57,766 - DEBUG - Liked post number 2 of 2.
+2025-03-08 12:55:02,437 - INFO - Liked 2 posts successfully.
+2025-03-08 12:55:02,439 - INFO - Liked 2 posts successfully.
+2025-03-08 12:55:02,442 - DEBUG - Scrolling page 4 times.
+2025-03-08 12:55:02,445 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:55:03,787 - DEBUG - Page scrolled.
+2025-03-08 12:55:06,788 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:55:08,257 - DEBUG - Page scrolled.
+2025-03-08 12:55:11,260 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:55:13,231 - DEBUG - Page scrolled.
+2025-03-08 12:55:16,234 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:55:17,866 - DEBUG - Page scrolled.
+2025-03-08 12:55:20,868 - DEBUG - Random scrolls complete.
+2025-03-08 12:55:23,269 - DEBUG - Total comments in the thread: 8
+2025-03-08 12:55:49,257 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-03-08 12:55:51,520 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-08 12:55:51,546 - DEBUG - Extracted main post content: Was wondering where to get good proxies for some twitch bots i made also what kind would be the best to use. Thank you in advance for any help!
+2025-03-08 12:55:54,728 - INFO - Successfully generated comments using Gemini API.
+2025-03-08 12:55:54,731 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-08 12:55:57,382 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:55:57,384 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:55:57,421 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:55:57,470 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:55:57,481 - DEBUG - Text box scrolled into view
+2025-03-08 12:55:58,438 - DEBUG - Initializing actionchains
+2025-03-08 12:55:58,489 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3384}, size: {'height': 21, 'width': 68}
+2025-03-08 12:55:58,490 - DEBUG - Target click coordinates: (1121, 3394)
+2025-03-08 12:56:08,981 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-08 12:56:08,982 - DEBUG - Moving mouse to text box element.
+2025-03-08 12:56:08,983 - DEBUG - Clicking on the text box.
+2025-03-08 12:56:08,984 - DEBUG - Sending keys with content: Hey, that's a cool project! Have you looked into residential proxies? They're usually pretty reliable for that kind of thing.
+
+2025-03-08 12:56:14,795 - DEBUG - Clicking on post reply button.
+2025-03-08 12:56:25,869 - DEBUG - Performed Actionchains
+2025-03-08 12:56:25,871 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-08 12:56:29,874 - INFO - Comment posted successfully.
+2025-03-08 12:56:29,875 - INFO - Task Completed!!
+2025-03-08 12:56:37,276 - INFO - Navigated back to the homepage.
+2025-03-08 12:56:39,871 - INFO - Attempting to clear memory and resources.
+2025-03-08 12:56:39,911 - INFO - Garbage collection completed.
+2025-03-08 12:56:39,913 - INFO - Waiting for 10 seconds before next execution.

@@ -1,0 +1,41 @@
+2025-04-02 13:41:48,737 - INFO - Current time: 1743581508.7370257
+2025-04-02 13:41:48,739 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:41:48,741 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:41:48,743 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-02 13:42:07,206 - INFO - Profile Emaxx: Pausing for 41.14 seconds...
+2025-04-02 13:42:48,353 - INFO - Profile Emaxx: Resuming...
+2025-04-02 13:42:48,386 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 13:42:48,387 - INFO - performing random action
+2025-04-02 13:42:48,388 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:42:48,389 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:42:48,390 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:42:50,001 - DEBUG - Page scrolled.
+2025-04-02 13:42:52,003 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:42:53,752 - DEBUG - Page scrolled.
+2025-04-02 13:42:55,754 - DEBUG - Random scrolls complete.
+2025-04-02 13:42:55,756 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:42:55,758 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:42:56,816 - DEBUG - Page scrolled.
+2025-04-02 13:42:58,819 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:42:59,958 - DEBUG - Page scrolled.
+2025-04-02 13:43:01,960 - DEBUG - Random scrolls complete.
+2025-04-02 13:43:08,825 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-04-02 13:43:19,224 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:43:19,230 - INFO - Profile Emaxx: Opening random website: https://www.canva.com/en_in/
+2025-04-02 13:43:35,708 - INFO - Profile Emaxx: Pausing for 46.31 seconds...
+2025-04-02 13:44:22,022 - INFO - Profile Emaxx: Resuming...
+2025-04-02 13:44:22,044 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 13:44:22,044 - INFO - performing random action
+2025-04-02 13:44:22,045 - WARNING - Skipping thread processing due to no thread link being found in subforum.

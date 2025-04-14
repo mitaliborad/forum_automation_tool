@@ -1,0 +1,39 @@
+2025-04-02 14:08:10,336 - INFO - Current time: 1743583090.3364174
+2025-04-02 14:08:10,337 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 14:08:10,337 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 14:08:10,338 - INFO - Profile Emaxx: Pausing for 45.25 seconds...
+2025-04-02 14:08:55,592 - INFO - Profile Emaxx: Resuming...
+2025-04-02 14:08:55,594 - INFO - performing random action
+2025-04-02 14:08:55,598 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 14:08:55,600 - DEBUG - Scrolling page 2 times.
+2025-04-02 14:08:55,602 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:08:57,179 - DEBUG - Page scrolled.
+2025-04-02 14:08:59,181 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:09:00,665 - DEBUG - Page scrolled.
+2025-04-02 14:09:02,668 - DEBUG - Random scrolls complete.
+2025-04-02 14:09:02,669 - DEBUG - Scrolling page 2 times.
+2025-04-02 14:09:02,670 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:09:03,945 - DEBUG - Page scrolled.
+2025-04-02 14:09:05,946 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:09:06,963 - DEBUG - Page scrolled.
+2025-04-02 14:09:08,966 - DEBUG - Random scrolls complete.
+2025-04-02 14:09:15,801 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-04-02 14:09:26,209 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 14:09:26,226 - INFO - Profile Emaxx: Opening random website: https://www.w3schools.com/
+2025-04-02 14:09:43,820 - INFO - Profile Emaxx: Pausing for 33.79 seconds...
+2025-04-02 14:10:17,612 - INFO - Profile Emaxx: Resuming...
+2025-04-02 14:10:17,656 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 14:10:17,658 - INFO - performing random action
+2025-04-02 14:10:17,659 - WARNING - Skipping thread processing due to no thread link being found in subforum.

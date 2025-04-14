@@ -1,0 +1,188 @@
+2025-03-13 15:49:25,862 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emaxx_script_log_20250313_154925.log
+2025-03-13 15:49:25,862 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:49:25,863 - INFO - Loaded 206 visited threads from Thread_links.txt
+2025-03-13 15:49:25,864 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:49:25,864 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:49:25,865 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:49:27,063 - DEBUG - Page scrolled.
+2025-03-13 15:49:29,072 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:49:30,806 - DEBUG - Page scrolled.
+2025-03-13 15:49:32,809 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:49:34,543 - DEBUG - Page scrolled.
+2025-03-13 15:49:36,545 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:49:38,001 - DEBUG - Page scrolled.
+2025-03-13 15:49:40,003 - DEBUG - Random scrolls complete.
+2025-03-13 15:49:40,004 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:49:40,005 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:49:41,235 - DEBUG - Page scrolled.
+2025-03-13 15:49:43,237 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:49:44,711 - DEBUG - Page scrolled.
+2025-03-13 15:49:46,713 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:49:48,556 - DEBUG - Page scrolled.
+2025-03-13 15:49:50,558 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:49:52,202 - DEBUG - Page scrolled.
+2025-03-13 15:49:54,203 - DEBUG - Random scrolls complete.
+2025-03-13 15:49:59,803 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-13 15:50:04,570 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/looking-for-data-studies-that-show-a-brands-yt-channel-complementing-seo-strategies.1695218/
+2025-03-13 15:50:12,625 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/looking-for-data-studies-that-show-a-brands-yt-channel-complementing-seo-strategies.1695218/
+2025-03-13 15:50:12,630 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/looking-for-data-studies-that-show-a-brands-yt-channel-complementing-seo-strategies.1695218/' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:50:23,021 - WARNING - Could not extract thread title. Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A63C615+3167749]
+	(No symbol) [0x00007FF77A2AD190]
+	(No symbol) [0x00007FF77A13596A]
+	(No symbol) [0x00007FF77A18F066]
+	(No symbol) [0x00007FF77A18F29C]
+	(No symbol) [0x00007FF77A1E2847]
+	(No symbol) [0x00007FF77A1B706F]
+	(No symbol) [0x00007FF77A1DF513]
+	(No symbol) [0x00007FF77A1B6E03]
+	(No symbol) [0x00007FF77A17FD3E]
+	(No symbol) [0x00007FF77A180FC3]
+	GetHandleVerifier [0x00007FF77A69F57D+3573101]
+	GetHandleVerifier [0x00007FF77A6B9AB0+3680928]
+	GetHandleVerifier [0x00007FF77A6AF46D+3638365]
+	GetHandleVerifier [0x00007FF77A40123A+827946]
+	(No symbol) [0x00007FF77A2B85BF]
+	(No symbol) [0x00007FF77A2B4264]
+	(No symbol) [0x00007FF77A2B4406]
+	(No symbol) [0x00007FF77A2A3E49]
+	BaseThreadInitThunk [0x00007FFC4B657374+20]
+	RtlUserThreadStart [0x00007FFC4BA1CC91+33]
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 544, in get_thread_title
+    title_element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.XPATH, '//div//h1'))
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A63C615+3167749]
+	(No symbol) [0x00007FF77A2AD190]
+	(No symbol) [0x00007FF77A13596A]
+	(No symbol) [0x00007FF77A18F066]
+	(No symbol) [0x00007FF77A18F29C]
+	(No symbol) [0x00007FF77A1E2847]
+	(No symbol) [0x00007FF77A1B706F]
+	(No symbol) [0x00007FF77A1DF513]
+	(No symbol) [0x00007FF77A1B6E03]
+	(No symbol) [0x00007FF77A17FD3E]
+	(No symbol) [0x00007FF77A180FC3]
+	GetHandleVerifier [0x00007FF77A69F57D+3573101]
+	GetHandleVerifier [0x00007FF77A6B9AB0+3680928]
+	GetHandleVerifier [0x00007FF77A6AF46D+3638365]
+	GetHandleVerifier [0x00007FF77A40123A+827946]
+	(No symbol) [0x00007FF77A2B85BF]
+	(No symbol) [0x00007FF77A2B4264]
+	(No symbol) [0x00007FF77A2B4406]
+	(No symbol) [0x00007FF77A2A3E49]
+	BaseThreadInitThunk [0x00007FFC4B657374+20]
+	RtlUserThreadStart [0x00007FFC4BA1CC91+33]
+
+2025-03-13 15:50:23,048 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:50:23,049 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:24,487 - DEBUG - Page scrolled.
+2025-03-13 15:50:26,490 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:27,899 - DEBUG - Page scrolled.
+2025-03-13 15:50:29,901 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:31,099 - DEBUG - Page scrolled.
+2025-03-13 15:50:33,102 - DEBUG - Random scrolls complete.
+2025-03-13 15:50:35,749 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:50:35,751 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:36,789 - DEBUG - Page scrolled.
+2025-03-13 15:50:39,792 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:40,965 - DEBUG - Page scrolled.
+2025-03-13 15:50:43,967 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:50:45,780 - DEBUG - Page scrolled.
+2025-03-13 15:50:48,782 - DEBUG - Random scrolls complete.
+2025-03-13 15:50:53,963 - WARNING - Error finding like buttons: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 140, in find_like_buttons
+    like_buttons = WebDriverWait(driver, 5).until(
+        EC.presence_of_all_elements_located((By.XPATH, "//bdi[contains(text(), 'Like')]"))
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-13 15:50:53,968 - INFO - No like buttons found, skipping like_random_posts function...
+2025-03-13 15:51:07,803 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:51:07,804 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:51:09,452 - DEBUG - Page scrolled.
+2025-03-13 15:51:12,454 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:51:13,803 - DEBUG - Page scrolled.
+2025-03-13 15:51:16,806 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:51:18,768 - DEBUG - Page scrolled.
+2025-03-13 15:51:21,770 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:51:23,785 - DEBUG - Page scrolled.
+2025-03-13 15:51:26,788 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:51:28,342 - DEBUG - Page scrolled.
+2025-03-13 15:51:31,344 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:51:32,824 - DEBUG - Page scrolled.
+2025-03-13 15:51:35,826 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:51:37,807 - DEBUG - Page scrolled.
+2025-03-13 15:51:40,810 - DEBUG - Random scrolls complete.
+2025-03-13 15:51:54,195 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Untitled Thread.txt
+2025-03-13 15:52:05,076 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:52:15,495 - WARNING - Could not extract main post content. Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A63C615+3167749]
+	(No symbol) [0x00007FF77A2AD190]
+	(No symbol) [0x00007FF77A13596A]
+	(No symbol) [0x00007FF77A18F066]
+	(No symbol) [0x00007FF77A18F29C]
+	(No symbol) [0x00007FF77A1E2847]
+	(No symbol) [0x00007FF77A1B706F]
+	(No symbol) [0x00007FF77A1DF513]
+	(No symbol) [0x00007FF77A1B6E03]
+	(No symbol) [0x00007FF77A17FD3E]
+	(No symbol) [0x00007FF77A180FC3]
+	GetHandleVerifier [0x00007FF77A69F57D+3573101]
+	GetHandleVerifier [0x00007FF77A6B9AB0+3680928]
+	GetHandleVerifier [0x00007FF77A6AF46D+3638365]
+	GetHandleVerifier [0x00007FF77A40123A+827946]
+	(No symbol) [0x00007FF77A2B85BF]
+	(No symbol) [0x00007FF77A2B4264]
+	(No symbol) [0x00007FF77A2B4406]
+	(No symbol) [0x00007FF77A2A3E49]
+	BaseThreadInitThunk [0x00007FFC4B657374+20]
+	RtlUserThreadStart [0x00007FFC4BA1CC91+33]
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 280, in extract_main_post_content
+    main_post_element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located(main_post_locator)
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A63C615+3167749]
+	(No symbol) [0x00007FF77A2AD190]
+	(No symbol) [0x00007FF77A13596A]
+	(No symbol) [0x00007FF77A18F066]
+	(No symbol) [0x00007FF77A18F29C]
+	(No symbol) [0x00007FF77A1E2847]
+	(No symbol) [0x00007FF77A1B706F]
+	(No symbol) [0x00007FF77A1DF513]
+	(No symbol) [0x00007FF77A1B6E03]
+	(No symbol) [0x00007FF77A17FD3E]
+	(No symbol) [0x00007FF77A180FC3]
+	GetHandleVerifier [0x00007FF77A69F57D+3573101]
+	GetHandleVerifier [0x00007FF77A6B9AB0+3680928]
+	GetHandleVerifier [0x00007FF77A6AF46D+3638365]
+	GetHandleVerifier [0x00007FF77A40123A+827946]
+	(No symbol) [0x00007FF77A2B85BF]
+	(No symbol) [0x00007FF77A2B4264]
+	(No symbol) [0x00007FF77A2B4406]
+	(No symbol) [0x00007FF77A2A3E49]
+	BaseThreadInitThunk [0x00007FFC4B657374+20]
+	RtlUserThreadStart [0x00007FFC4BA1CC91+33]
+
+2025-03-13 15:52:17,944 - ERROR - Thread content file 'Thread-Details/API Comments\Untitled Thread_Probably one of your plugins hasn't been updated t.txt' not found.
+2025-03-13 15:52:20,356 - WARNING - No comment available to post.
+2025-03-13 15:52:20,359 - INFO - Task Completed!!
+2025-03-13 15:52:31,142 - INFO - Navigated back to the homepage.
+2025-03-13 15:52:34,002 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:52:34,030 - INFO - Garbage collection completed.
+2025-03-13 15:52:34,031 - INFO - Waiting for 10 seconds before next execution.

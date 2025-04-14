@@ -1,0 +1,105 @@
+2025-04-01 10:28:22,290 - INFO - Current time: 1743483502.2901928
+2025-04-01 10:28:22,292 - INFO - Token expiration time: 1743491769.3002143
+2025-04-01 10:28:22,293 - INFO - Token expiration time: 1743491769.3002143
+2025-04-01 10:28:22,322 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-01 10:28:22,326 - INFO - Profile DataPhreak: Window minimized. Pausing for 23.54 seconds...
+2025-04-01 10:28:45,879 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-01 10:28:45,881 - INFO - performing random action
+2025-04-01 10:28:45,884 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 10:28:45,886 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:28:45,889 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:47,270 - DEBUG - Page scrolled.
+2025-04-01 10:28:49,272 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:50,751 - DEBUG - Page scrolled.
+2025-04-01 10:28:52,753 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:54,317 - DEBUG - Page scrolled.
+2025-04-01 10:28:56,320 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:57,573 - DEBUG - Page scrolled.
+2025-04-01 10:28:59,576 - DEBUG - Random scrolls complete.
+2025-04-01 10:28:59,577 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:28:59,579 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:00,864 - DEBUG - Page scrolled.
+2025-04-01 10:29:02,867 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:03,938 - DEBUG - Page scrolled.
+2025-04-01 10:29:05,939 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:07,407 - DEBUG - Page scrolled.
+2025-04-01 10:29:09,409 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:10,688 - DEBUG - Page scrolled.
+2025-04-01 10:29:12,691 - DEBUG - Random scrolls complete.
+2025-04-01 10:29:21,212 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-04-01 10:29:24,945 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/free-traffic.1658361/unread
+2025-04-01 10:29:24,945 - INFO - Profile DataPhreak: Pausing for 41.29 seconds...
+2025-04-01 10:30:06,240 - INFO - Profile DataPhreak: Resuming...
+2025-04-01 10:30:06,241 - INFO - performing random action
+2025-04-01 10:30:18,261 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/free-traffic.1658361/unread
+2025-04-01 10:30:18,264 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/free-traffic.1658361/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 10:30:18,312 - INFO - Extracted thread title: Free traffic
+2025-04-01 10:30:18,314 - DEBUG - Scrolling page 2 times.
+2025-04-01 10:30:18,314 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:19,604 - DEBUG - Page scrolled.
+2025-04-01 10:30:21,605 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:22,855 - DEBUG - Page scrolled.
+2025-04-01 10:30:24,856 - DEBUG - Random scrolls complete.
+2025-04-01 10:30:27,555 - DEBUG - Scrolling page 2 times.
+2025-04-01 10:30:27,557 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:28,849 - DEBUG - Page scrolled.
+2025-04-01 10:30:31,852 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:33,078 - DEBUG - Page scrolled.
+2025-04-01 10:30:36,080 - DEBUG - Random scrolls complete.
+2025-04-01 10:30:36,117 - DEBUG - Found 13 like buttons.
+2025-04-01 10:30:39,118 - INFO - Attempting to like 1 posts. There are 13 available.
+2025-04-01 10:30:39,637 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:30:39,662 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:30:39,663 - DEBUG - Liked post number 1 of 1.
+2025-04-01 10:30:44,525 - INFO - Liked 1 posts successfully.
+2025-04-01 10:30:44,527 - INFO - Liked 1 posts successfully.
+2025-04-01 10:30:47,353 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-01 10:31:00,922 - INFO - Profile DataPhreak: Pausing for 40.44 seconds...
+2025-04-01 10:31:41,368 - INFO - Profile DataPhreak: Resuming...
+2025-04-01 10:31:41,407 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-01 10:31:41,408 - INFO - performing random action
+2025-04-01 10:31:41,408 - DEBUG - Scrolling page 6 times.
+2025-04-01 10:31:41,409 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:31:42,825 - DEBUG - Page scrolled.
+2025-04-01 10:31:45,827 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:31:47,582 - DEBUG - Page scrolled.
+2025-04-01 10:31:50,584 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:31:51,953 - DEBUG - Page scrolled.
+2025-04-01 10:31:54,955 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:31:56,309 - DEBUG - Page scrolled.
+2025-04-01 10:31:59,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:32:01,079 - DEBUG - Page scrolled.
+2025-04-01 10:32:04,080 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:32:05,707 - DEBUG - Page scrolled.
+2025-04-01 10:32:08,708 - DEBUG - Random scrolls complete.
+2025-04-01 10:32:11,591 - DEBUG - Total comments in the thread: 13
+2025-04-01 10:32:12,916 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Free traffic.txt
+2025-04-01 10:32:14,993 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 10:32:15,045 - DEBUG - Extracted main post content: Where can I do to get free traffic
+Can you give me a method to get free traffic
+I'm working in ogads
+2025-04-01 10:32:18,475 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 10:32:18,478 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 10:32:21,001 - INFO - performing random action
+2025-04-01 10:32:21,001 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:32:21,002 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:32:21,016 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:32:21,064 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:32:21,074 - DEBUG - Text box scrolled into view
+2025-04-01 10:32:21,736 - DEBUG - Initializing actionchains
+2025-04-01 10:32:21,792 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4992}, size: {'height': 21, 'width': 68}
+2025-04-01 10:32:21,793 - DEBUG - Target click coordinates: (1121, 5002)
+2025-04-01 10:32:36,095 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 10:32:36,097 - DEBUG - Moving mouse to text box element.
+2025-04-01 10:32:36,099 - DEBUG - Clicking on the text box.
+2025-04-01 10:32:36,101 - DEBUG - Sending keys with content: Content is still king, but promotion is queen and runs the household; try repurposing existing content on Medium or Quora for some quick wins.
+
+2025-04-01 10:32:41,711 - DEBUG - Clicking on post reply button.
+2025-04-01 10:32:45,898 - DEBUG - Performed Actionchains
+2025-04-01 10:32:45,899 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 10:32:49,902 - INFO - Comment posted successfully.
+2025-04-01 10:32:49,903 - INFO - Task Completed!!
+2025-04-01 10:32:53,741 - INFO - Navigated back to the homepage.
+2025-04-01 10:32:56,098 - INFO - Attempting to clear memory and resources.
+2025-04-01 10:32:56,186 - INFO - Garbage collection completed.
+2025-04-01 10:32:56,187 - INFO - Waiting for 2000 seconds before next execution.

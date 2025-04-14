@@ -1,0 +1,128 @@
+2025-04-14 11:21:45,707 - INFO - Current time: 1744609905.7078743
+2025-04-14 11:21:45,708 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 11:21:45,709 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 11:21:45,710 - INFO - performing random action
+2025-04-14 11:21:45,711 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 11:21:45,714 - DEBUG - Scrolling page 2 times.
+2025-04-14 11:21:45,720 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:45,738 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798270C45+27221]
+	(No symbol) [0x00007FF7981D6F30]
+	(No symbol) [0x00007FF798055ADA]
+	(No symbol) [0x00007FF79804599C]
+	(No symbol) [0x00007FF79804568A]
+	(No symbol) [0x00007FF79804320F]
+	(No symbol) [0x00007FF798043CDF]
+	(No symbol) [0x00007FF79804FD5E]
+	(No symbol) [0x00007FF798065FE3]
+	(No symbol) [0x00007FF79806D11A]
+	(No symbol) [0x00007FF79804444D]
+	(No symbol) [0x00007FF798065D15]
+	(No symbol) [0x00007FF7981003C5]
+	(No symbol) [0x00007FF7980D7A73]
+	(No symbol) [0x00007FF7980A0750]
+	(No symbol) [0x00007FF7980A1A03]
+	GetHandleVerifier [0x00007FF7985D6E2D+3591229]
+	GetHandleVerifier [0x00007FF7985EE45A+3687018]
+	GetHandleVerifier [0x00007FF7985E3323+3641651]
+	GetHandleVerifier [0x00007FF79833B6BA+857290]
+	(No symbol) [0x00007FF7981E230F]
+	(No symbol) [0x00007FF7981DE304]
+	(No symbol) [0x00007FF7981DE4A6]
+	(No symbol) [0x00007FF7981CD469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-14 11:26:46,941 - DEBUG - Page scrolled.
+2025-04-14 11:26:48,943 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:50,507 - DEBUG - Page scrolled.
+2025-04-14 11:26:52,509 - DEBUG - Random scrolls complete.
+2025-04-14 11:26:52,510 - DEBUG - Scrolling page 4 times.
+2025-04-14 11:26:52,512 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:54,476 - DEBUG - Page scrolled.
+2025-04-14 11:26:56,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:58,013 - DEBUG - Page scrolled.
+2025-04-14 11:27:00,015 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:01,270 - DEBUG - Page scrolled.
+2025-04-14 11:27:03,271 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:04,348 - DEBUG - Page scrolled.
+2025-04-14 11:27:06,349 - DEBUG - Random scrolls complete.
+2025-04-14 11:27:20,392 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/c-c-c.60/
+2025-04-14 11:27:24,084 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/bot-auto-search-and-click-your-site.1637272/
+2025-04-14 11:27:24,084 - INFO - performing random action
+2025-04-14 11:27:35,180 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/bot-auto-search-and-click-your-site.1637272/
+2025-04-14 11:27:35,181 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/bot-auto-search-and-click-your-site.1637272/' to visited threads file 'Thread_links.txt'.
+2025-04-14 11:27:35,218 - INFO - Extracted thread title: Bot auto search and click your site
+2025-04-14 11:27:35,219 - DEBUG - Scrolling page 4 times.
+2025-04-14 11:27:35,219 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:36,974 - DEBUG - Page scrolled.
+2025-04-14 11:27:38,975 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:40,777 - DEBUG - Page scrolled.
+2025-04-14 11:27:42,777 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:44,296 - DEBUG - Page scrolled.
+2025-04-14 11:27:46,298 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:48,009 - DEBUG - Page scrolled.
+2025-04-14 11:27:50,010 - DEBUG - Random scrolls complete.
+2025-04-14 11:27:52,161 - DEBUG - Scrolling page 2 times.
+2025-04-14 11:27:52,161 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:53,458 - DEBUG - Page scrolled.
+2025-04-14 11:27:56,464 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:27:58,179 - DEBUG - Page scrolled.
+2025-04-14 11:28:01,180 - DEBUG - Random scrolls complete.
+2025-04-14 11:28:01,242 - DEBUG - Found 20 like buttons.
+2025-04-14 11:28:04,244 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-14 11:28:05,140 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:28:05,188 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:28:05,190 - DEBUG - Liked post number 1 of 1.
+2025-04-14 11:28:09,503 - INFO - Liked 1 posts successfully.
+2025-04-14 11:28:09,505 - INFO - Liked 1 posts successfully.
+2025-04-14 11:28:11,705 - INFO - performing random action
+2025-04-14 11:28:11,710 - DEBUG - Scrolling page 6 times.
+2025-04-14 11:28:11,711 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:28:13,540 - DEBUG - Page scrolled.
+2025-04-14 11:28:16,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:28:17,580 - DEBUG - Page scrolled.
+2025-04-14 11:28:20,582 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:28:21,597 - DEBUG - Page scrolled.
+2025-04-14 11:28:24,599 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:28:26,492 - DEBUG - Page scrolled.
+2025-04-14 11:28:29,494 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:28:30,830 - DEBUG - Page scrolled.
+2025-04-14 11:28:33,832 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:28:35,217 - DEBUG - Page scrolled.
+2025-04-14 11:28:38,219 - DEBUG - Random scrolls complete.
+2025-04-14 11:28:40,935 - DEBUG - Total comments in the thread: 20
+2025-04-14 11:31:05,435 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Bot auto search and click your site.txt
+2025-04-14 11:31:08,179 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 11:31:08,256 - DEBUG - Extracted main post content: Hi everyone,
+I plan to make a bot that automatically creates a profile (with its own parameters, its own proxy like gologin, multi login,...)
+then searches for keywords and clicks on my website.
+Is this effective for SEO?
+Has anyone tried it?
+2025-04-14 11:31:11,304 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 11:31:11,308 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 11:31:13,890 - INFO - performing random action
+2025-04-14 11:31:13,892 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:31:13,894 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:31:13,938 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:31:14,011 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:31:14,019 - DEBUG - Text box scrolled into view
+2025-04-14 11:31:14,577 - DEBUG - Initializing actionchains
+2025-04-14 11:31:14,640 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6163}, size: {'height': 21, 'width': 68}
+2025-04-14 11:31:14,641 - DEBUG - Target click coordinates: (1265, 6173)
+2025-04-14 11:31:30,894 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 11:31:30,896 - DEBUG - Moving mouse to text box element.
+2025-04-14 11:31:30,897 - DEBUG - Clicking on the text box.
+2025-04-14 11:31:30,899 - DEBUG - Sending keys with content: Wouldn't that be considered click fraud? Google's pretty good at detecting that kinda stuff.
+
+2025-04-14 11:31:36,213 - DEBUG - Clicking on post reply button.
+2025-04-14 11:31:47,221 - DEBUG - Performed Actionchains
+2025-04-14 11:31:47,223 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 11:31:51,225 - INFO - Comment posted successfully.
+2025-04-14 11:31:51,230 - INFO - Task Completed!!
+2025-04-14 11:32:01,952 - INFO - Navigated back to the homepage.
+2025-04-14 11:32:04,790 - INFO - Attempting to clear memory and resources.
+2025-04-14 11:32:04,838 - INFO - Garbage collection completed.
+2025-04-14 11:32:04,839 - INFO - Waiting for 2200 seconds before next execution.

@@ -1,0 +1,128 @@
+2025-04-14 14:11:11,544 - INFO - Current time: 1744620071.5440807
+2025-04-14 14:11:11,548 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 14:11:11,550 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 14:11:11,551 - INFO - performing random action
+2025-04-14 14:11:11,553 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 14:11:11,555 - DEBUG - Scrolling page 4 times.
+2025-04-14 14:11:11,556 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:11:13,060 - DEBUG - Page scrolled.
+2025-04-14 14:11:15,062 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:11:16,448 - DEBUG - Page scrolled.
+2025-04-14 14:11:18,450 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:11:20,115 - DEBUG - Page scrolled.
+2025-04-14 14:11:22,117 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:11:23,499 - DEBUG - Page scrolled.
+2025-04-14 14:11:25,501 - DEBUG - Random scrolls complete.
+2025-04-14 14:11:25,501 - DEBUG - Scrolling page 3 times.
+2025-04-14 14:11:25,502 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:11:26,843 - DEBUG - Page scrolled.
+2025-04-14 14:11:28,845 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:11:30,777 - DEBUG - Page scrolled.
+2025-04-14 14:11:32,779 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:11:33,969 - DEBUG - Page scrolled.
+2025-04-14 14:11:35,971 - DEBUG - Random scrolls complete.
+2025-04-14 14:11:54,981 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-14 14:11:58,724 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/looking-for-anonymous-payment-methods.1703727/unread
+2025-04-14 14:11:58,725 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-14 14:12:06,099 - INFO - Profile PhantomRoot: Pausing for 39.77 seconds...
+2025-04-14 14:12:45,877 - INFO - Profile PhantomRoot: Resuming...
+2025-04-14 14:12:45,922 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-14 14:12:45,924 - INFO - performing random action
+2025-04-14 14:13:02,766 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/looking-for-anonymous-payment-methods.1703727/unread
+2025-04-14 14:13:02,769 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/looking-for-anonymous-payment-methods.1703727/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 14:13:02,826 - INFO - Extracted thread title: Looking for anonymous payment methods
+2025-04-14 14:13:02,827 - DEBUG - Scrolling page 3 times.
+2025-04-14 14:13:02,827 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:13:04,264 - DEBUG - Page scrolled.
+2025-04-14 14:13:06,266 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:13:07,838 - DEBUG - Page scrolled.
+2025-04-14 14:13:09,840 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:13:11,586 - DEBUG - Page scrolled.
+2025-04-14 14:13:13,588 - DEBUG - Random scrolls complete.
+2025-04-14 14:13:16,299 - DEBUG - Scrolling page 1 times.
+2025-04-14 14:13:16,300 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:13:17,653 - DEBUG - Page scrolled.
+2025-04-14 14:13:20,655 - DEBUG - Random scrolls complete.
+2025-04-14 14:13:20,678 - DEBUG - Found 9 like buttons.
+2025-04-14 14:13:23,680 - INFO - Attempting to like 3 posts. There are 9 available.
+2025-04-14 14:13:24,469 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:13:24,498 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:13:24,499 - DEBUG - Liked post number 1 of 3.
+2025-04-14 14:13:29,699 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:13:29,718 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:13:29,720 - DEBUG - Liked post number 2 of 3.
+2025-04-14 14:13:34,855 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:13:34,863 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:13:34,864 - DEBUG - Liked post number 3 of 3.
+2025-04-14 14:13:38,960 - INFO - Liked 3 posts successfully.
+2025-04-14 14:13:38,962 - INFO - Liked 3 posts successfully.
+2025-04-14 14:13:41,641 - INFO - performing random action
+2025-04-14 14:13:41,643 - DEBUG - Scrolling page 5 times.
+2025-04-14 14:13:41,645 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:13:43,474 - DEBUG - Page scrolled.
+2025-04-14 14:13:46,500 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:13:47,969 - DEBUG - Page scrolled.
+2025-04-14 14:13:50,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:13:52,151 - DEBUG - Page scrolled.
+2025-04-14 14:13:55,154 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:13:56,404 - DEBUG - Page scrolled.
+2025-04-14 14:13:59,406 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:14:01,309 - DEBUG - Page scrolled.
+2025-04-14 14:14:04,309 - DEBUG - Random scrolls complete.
+2025-04-14 14:14:06,719 - DEBUG - Total comments in the thread: 9
+2025-04-14 14:14:49,215 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Looking for anonymous payment methods.txt
+2025-04-14 14:14:51,474 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 14:14:51,521 - DEBUG - Extracted main post content: Hey, I moderate a few very big subreddits, focused on NSFW pictures/videos of celebs.
+We currently direct the traffic to our new Telegram group, which is growing very fast.
+
+We now want to make a premium/vip group, to share onlyfans content.
+The idea is to sell access to the vip group to all members of the main Telegram group and monatize it that way.
+
+We are looking for anonymous payment methods (at least on our end), which are also easily accessible for everyone.
+Direct crypto tranfer would be perfect but I dont think many people have this opportunity. Crypto vouchers, Paysafecards or Amazon giftcards are great at first glance, but cant be cashed out anonymously.
+
+I guess in the best case scenario we would just have crypto in the end, no matter on which way but without giving out our data.
+We live in Germany and would like to evade any taxes.
+
+Do you guys have any ideas? Thanks a lot
+2025-04-14 14:14:56,062 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 14:14:56,066 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 14:14:58,266 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-14 14:14:58,281 - INFO - Profile PhantomRoot: Window minimized. Pausing for 20.86 seconds...
+2025-04-14 14:15:19,147 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-14 14:15:19,149 - INFO - performing random action
+2025-04-14 14:15:19,153 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:15:19,155 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:15:19,209 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:15:19,276 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:15:19,282 - DEBUG - Text box scrolled into view
+2025-04-14 14:15:19,875 - DEBUG - Initializing actionchains
+2025-04-14 14:15:19,917 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3658}, size: {'height': 21, 'width': 68}
+2025-04-14 14:15:19,917 - DEBUG - Target click coordinates: (1265, 3668)
+2025-04-14 14:15:31,045 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 14:15:31,047 - DEBUG - Moving mouse to text box element.
+2025-04-14 14:15:31,048 - DEBUG - Clicking on the text box.
+2025-04-14 14:15:31,050 - DEBUG - Sending keys with content: Honestly, if you're serious about keeping it anonymous and evading taxes in Germany, you're playing with fire. Have you looked into privacy coins like Monero? Might be worth the hassle of learning if you want to stay off the radar.
+
+2025-04-14 14:15:36,261 - DEBUG - Clicking on post reply button.
+2025-04-14 14:15:47,526 - DEBUG - Performed Actionchains
+2025-04-14 14:15:47,527 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 14:15:51,528 - INFO - Comment posted successfully.
+2025-04-14 14:15:51,532 - INFO - Task Completed!!
+2025-04-14 14:16:08,597 - INFO - Navigated back to the homepage.
+2025-04-14 14:16:10,629 - INFO - Attempting to clear memory and resources.
+2025-04-14 14:16:10,680 - INFO - Garbage collection completed.
+2025-04-14 14:16:10,683 - INFO - Waiting for 2200 seconds before next execution.
+2025-04-14 14:52:50,685 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-14 14:52:50,686 - INFO - Stopping browser for profile: PhantomRoot...
+2025-04-14 14:52:50,688 - INFO - Refreshing token before stopping profile...
+2025-04-14 14:52:50,690 - INFO - Refreshing token for PhantomRoot...
+2025-04-14 14:52:51,862 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-14 14:52:53,995 - INFO - Calculated token expiration time: 1744633373.9956412
+2025-04-14 14:52:53,997 - INFO - Profile PhantomRoot: Successfully logged in.
+2025-04-14 14:52:54,000 - INFO - Token refreshed successfully before stopping.
+2025-04-14 14:52:54,001 - INFO - Profile PhantomRoot: Attempting to stop (Attempt 1/3)...
+2025-04-14 14:52:54,015 - INFO - Profile PhantomRoot: Browser closed successfully in 0.01 seconds.
+2025-04-14 14:52:57,946 - INFO - Profile PhantomRoot: API call took 3.93 seconds.
+2025-04-14 14:52:57,947 - INFO - Profile PhantomRoot: Stopped successfully.
+2025-04-14 14:52:57,953 - INFO - Browser stopped successfully for profile: PhantomRoot.

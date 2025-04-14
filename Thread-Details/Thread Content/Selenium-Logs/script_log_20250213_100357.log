@@ -1,0 +1,113 @@
+2025-02-13 10:03:57,009 - INFO - Log file created at: Selenium-Logs\script_log_20250213_100357.log
+2025-02-13 10:03:58,190 - DEBUG - Chrome driver initialized.
+2025-02-13 10:04:00,031 - DEBUG - Navigating to URL.
+2025-02-13 10:04:00,786 - INFO - Navigated to https://www.blackhatworld.com/
+2025-02-13 10:04:00,787 - DEBUG - Scrolling page 3 times.
+2025-02-13 10:04:00,787 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:03,489 - DEBUG - Page scrolled.
+2025-02-13 10:04:05,490 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:07,387 - DEBUG - Page scrolled.
+2025-02-13 10:04:09,388 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:10,820 - DEBUG - Page scrolled.
+2025-02-13 10:04:12,822 - DEBUG - Random scrolls complete.
+2025-02-13 10:04:14,293 - DEBUG - Element found, attempting to click using JavaScript: ('link text', 'Social Networking')
+2025-02-13 10:04:16,603 - INFO - Element clicked successfully using JavaScript: ('link text', 'Social Networking')
+2025-02-13 10:04:18,136 - INFO - Clicked Social Networking link successfully.
+2025-02-13 10:04:18,138 - DEBUG - Attempting to find element with locator: ('link text', 'Instagram')
+2025-02-13 10:04:18,224 - INFO - Element found after 1 scrolls: ('link text', 'Instagram')
+2025-02-13 10:04:19,943 - DEBUG - Element found, attempting to click using JavaScript: ('link text', 'Instagram')
+2025-02-13 10:04:21,819 - INFO - Element clicked successfully using JavaScript: ('link text', 'Instagram')
+2025-02-13 10:04:21,819 - INFO - Clicked Instagram link successfully.
+2025-02-13 10:04:23,990 - DEBUG - Scrolling page 4 times.
+2025-02-13 10:04:23,991 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:25,202 - DEBUG - Page scrolled.
+2025-02-13 10:04:27,203 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:28,936 - DEBUG - Page scrolled.
+2025-02-13 10:04:30,937 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:32,564 - DEBUG - Page scrolled.
+2025-02-13 10:04:34,566 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:36,105 - DEBUG - Page scrolled.
+2025-02-13 10:04:38,106 - DEBUG - Random scrolls complete.
+2025-02-13 10:04:39,664 - DEBUG - Attempting to find element with locator: ('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 10:04:39,731 - INFO - Element found after 1 scrolls: ('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 10:04:41,899 - DEBUG - Element found, attempting to click using JavaScript: ('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 10:04:43,566 - INFO - Element clicked successfully using JavaScript: ('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 10:04:43,568 - INFO - clicked on('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 10:04:46,214 - DEBUG - Scrolling page 3 times.
+2025-02-13 10:04:46,215 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:47,864 - DEBUG - Page scrolled.
+2025-02-13 10:04:49,865 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:51,487 - DEBUG - Page scrolled.
+2025-02-13 10:04:53,489 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:04:55,384 - DEBUG - Page scrolled.
+2025-02-13 10:04:57,385 - DEBUG - Random scrolls complete.
+2025-02-13 10:05:03,380 - INFO - Attempting to like 4 posts.
+2025-02-13 10:05:03,382 - DEBUG - Scrolling page 3 times.
+2025-02-13 10:05:03,383 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:05:04,494 - DEBUG - Page scrolled.
+2025-02-13 10:05:07,495 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:05:08,534 - DEBUG - Page scrolled.
+2025-02-13 10:05:11,535 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:05:13,466 - DEBUG - Page scrolled.
+2025-02-13 10:05:16,467 - DEBUG - Random scrolls complete.
+2025-02-13 10:05:16,484 - DEBUG - Found 7 like buttons.
+2025-02-13 10:05:17,248 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-13 10:05:17,269 - INFO - Like button clicked successfully using JavaScript.
+2025-02-13 10:05:17,271 - DEBUG - Liked post number 1 of 4.
+2025-02-13 10:05:22,614 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-13 10:05:22,634 - INFO - Like button clicked successfully using JavaScript.
+2025-02-13 10:05:22,635 - DEBUG - Liked post number 2 of 4.
+2025-02-13 10:05:27,296 - DEBUG - Scrolling page 2 times.
+2025-02-13 10:05:27,297 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:05:28,540 - DEBUG - Page scrolled.
+2025-02-13 10:05:31,541 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:05:33,224 - DEBUG - Page scrolled.
+2025-02-13 10:05:36,225 - DEBUG - Random scrolls complete.
+2025-02-13 10:05:36,249 - DEBUG - Found 7 like buttons.
+2025-02-13 10:05:36,809 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-13 10:05:36,818 - INFO - Like button clicked successfully using JavaScript.
+2025-02-13 10:05:36,819 - DEBUG - Liked post number 3 of 4.
+2025-02-13 10:05:42,006 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-13 10:05:42,014 - INFO - Like button clicked successfully using JavaScript.
+2025-02-13 10:05:42,015 - DEBUG - Liked post number 4 of 4.
+2025-02-13 10:05:46,076 - INFO - Liked 4 posts successfully.
+2025-02-13 10:05:46,078 - DEBUG - Scrolling page 7 times.
+2025-02-13 10:05:46,079 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:05:47,656 - DEBUG - Page scrolled.
+2025-02-13 10:05:50,658 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:05:52,589 - DEBUG - Page scrolled.
+2025-02-13 10:05:55,590 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:05:57,380 - DEBUG - Page scrolled.
+2025-02-13 10:06:00,381 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:06:02,397 - DEBUG - Page scrolled.
+2025-02-13 10:06:05,399 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:06:07,108 - DEBUG - Page scrolled.
+2025-02-13 10:06:10,110 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:06:11,389 - DEBUG - Page scrolled.
+2025-02-13 10:06:14,391 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 10:06:16,195 - DEBUG - Page scrolled.
+2025-02-13 10:06:19,196 - DEBUG - Random scrolls complete.
+2025-02-13 10:06:26,138 - INFO - Post content extracted and saved to Selenium-Logs\post_content_and_replies.txt
+2025-02-13 10:06:26,226 - DEBUG - Extracted main post content: I've been working on some instagram project lately... just testing algorithms and so on.
+For me to test, I signed up using protonmail email with my rooted phone.
+I have intercepted all the traffic, had a browse through which logs are sent and so on.
+I notice they use play integrity like most apps nowadays, my device passes that.
+However, upon registration my account was suspended instantly.
+I haven't been using my IP to create tons of accounts; this is my first time. However, I do have another Instagram account thats years old. That's my only IP tie to Instagram.
+
+I'm trying to figure out why exactly they suspended it instantly. I suppose the APK I tested with had a patched SSL bypass, which may be marked by Instagram by now.
+I will bypass their SSL pinning pretty easily anyway, despite which version. I used the patched version just to test.
+
+I also attempted to sign up via browser, and was hit with the following error:
+"Sorry, something went wrong while creating your account. Please try again soon." which to me screams they have marked my IP, or temporarily limited it.
+
+So my thoughts right now:
+The patched SSL pinning APK is maybe marked/patched by Instagram now, and they auto ban accounts that are registered from it.
+They don't like ProtonMail
+They don't like forwarded mails.
+They don't like devices that don't meet play integrity (MEETS_STRONG_INTEGRITY)
+
+If anyone wants to share their thoughts or experience, please do.
+2025-02-13 10:06:27,622 - INFO - Successfully generated comments using Gemini API.
+2025-02-13 10:06:27,623 - INFO - Comment saved to 'comment.txt'.
+2025-02-13 10:06:31,653 - INFO - Driver quit successfully.

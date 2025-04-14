@@ -1,0 +1,43 @@
+2025-04-02 13:33:14,445 - INFO - Current time: 1743580994.4458377
+2025-04-02 13:33:14,446 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:33:14,447 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:33:14,447 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-02 13:33:14,449 - INFO - Profile PhantomRoot: Window minimized. Pausing for 22.04 seconds...
+2025-04-02 13:33:36,495 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-02 13:33:36,497 - INFO - performing random action
+2025-04-02 13:33:36,500 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:33:36,502 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:33:36,504 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:33:37,628 - DEBUG - Page scrolled.
+2025-04-02 13:33:39,631 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:33:41,092 - DEBUG - Page scrolled.
+2025-04-02 13:33:43,094 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:33:44,300 - DEBUG - Page scrolled.
+2025-04-02 13:33:46,302 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:33:47,415 - DEBUG - Page scrolled.
+2025-04-02 13:33:49,418 - DEBUG - Random scrolls complete.
+2025-04-02 13:33:49,419 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:33:49,421 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:33:51,207 - DEBUG - Page scrolled.
+2025-04-02 13:33:53,209 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:33:54,677 - DEBUG - Page scrolled.
+2025-04-02 13:33:56,680 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:33:58,349 - DEBUG - Page scrolled.
+2025-04-02 13:34:00,351 - DEBUG - Random scrolls complete.
+2025-04-02 13:34:07,262 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-02 13:34:17,642 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:34:17,652 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-02 13:34:19,654 - INFO - performing random action
+2025-04-02 13:34:19,656 - WARNING - Skipping thread processing due to no thread link being found in subforum.

@@ -1,0 +1,99 @@
+2025-04-14 14:13:55,409 - INFO - Current time: 1744620235.4089386
+2025-04-14 14:13:55,410 - INFO - Token expiration time: 1744621139.9563973
+2025-04-14 14:13:55,411 - INFO - Token expiration time: 1744621139.9563973
+2025-04-14 14:13:55,413 - INFO - Profile BinaryGhost: Opening random website: https://github.com/
+2025-04-14 14:14:08,689 - INFO - Profile BinaryGhost: Pausing for 47.50 seconds...
+2025-04-14 14:14:56,188 - INFO - Profile BinaryGhost: Resuming...
+2025-04-14 14:14:56,216 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-14 14:14:56,217 - INFO - performing random action
+2025-04-14 14:14:56,218 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 14:14:56,219 - DEBUG - Scrolling page 4 times.
+2025-04-14 14:14:56,219 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:14:57,948 - DEBUG - Page scrolled.
+2025-04-14 14:14:59,949 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:15:01,404 - DEBUG - Page scrolled.
+2025-04-14 14:15:03,406 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:15:04,905 - DEBUG - Page scrolled.
+2025-04-14 14:15:06,906 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:15:08,232 - DEBUG - Page scrolled.
+2025-04-14 14:15:10,234 - DEBUG - Random scrolls complete.
+2025-04-14 14:15:10,237 - DEBUG - Scrolling page 4 times.
+2025-04-14 14:15:10,239 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:15:12,213 - DEBUG - Page scrolled.
+2025-04-14 14:15:14,214 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:15:15,983 - DEBUG - Page scrolled.
+2025-04-14 14:15:17,985 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:15:19,501 - DEBUG - Page scrolled.
+2025-04-14 14:15:21,504 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:15:22,993 - DEBUG - Page scrolled.
+2025-04-14 14:15:24,995 - DEBUG - Random scrolls complete.
+2025-04-14 14:15:34,011 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-04-14 14:15:38,588 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/can-boosting-blog-posts-via-facebook-ads-improve-seo-rankings-or-is-it-just-good-for-temporary-traffic.1704135/unread
+2025-04-14 14:15:38,589 - INFO - Profile BinaryGhost: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-14 14:15:46,195 - INFO - Profile BinaryGhost: Pausing for 45.57 seconds...
+2025-04-14 14:16:31,772 - INFO - Profile BinaryGhost: Resuming...
+2025-04-14 14:16:31,830 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-14 14:16:31,835 - INFO - performing random action
+2025-04-14 14:16:42,412 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/can-boosting-blog-posts-via-facebook-ads-improve-seo-rankings-or-is-it-just-good-for-temporary-traffic.1704135/unread
+2025-04-14 14:16:42,415 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/can-boosting-blog-posts-via-facebook-ads-improve-seo-rankings-or-is-it-just-good-for-temporary-traffic.1704135/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 14:16:42,519 - INFO - Extracted thread title: Can boosting blog posts via Facebook ads improve SEO rankings, or is it just good for temporary traffic
+2025-04-14 14:16:42,521 - DEBUG - Scrolling page 2 times.
+2025-04-14 14:16:42,522 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:16:44,247 - DEBUG - Page scrolled.
+2025-04-14 14:16:46,249 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:16:48,231 - DEBUG - Page scrolled.
+2025-04-14 14:16:50,234 - DEBUG - Random scrolls complete.
+2025-04-14 14:16:52,892 - DEBUG - Scrolling page 1 times.
+2025-04-14 14:16:52,894 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:16:53,974 - DEBUG - Page scrolled.
+2025-04-14 14:16:56,976 - DEBUG - Random scrolls complete.
+2025-04-14 14:16:57,025 - DEBUG - Found 7 like buttons.
+2025-04-14 14:17:00,028 - INFO - Attempting to like 1 posts. There are 7 available.
+2025-04-14 14:17:00,853 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:17:00,900 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:17:00,902 - DEBUG - Liked post number 1 of 1.
+2025-04-14 14:17:05,353 - INFO - Liked 1 posts successfully.
+2025-04-14 14:17:05,355 - INFO - Liked 1 posts successfully.
+2025-04-14 14:17:07,691 - INFO - Profile BinaryGhost: Restoring window...
+2025-04-14 14:17:09,714 - INFO - performing random action
+2025-04-14 14:17:09,715 - DEBUG - Scrolling page 5 times.
+2025-04-14 14:17:09,715 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:17:11,319 - DEBUG - Page scrolled.
+2025-04-14 14:17:14,325 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:17:15,728 - DEBUG - Page scrolled.
+2025-04-14 14:17:18,732 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:17:20,321 - DEBUG - Page scrolled.
+2025-04-14 14:17:23,323 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:17:24,826 - DEBUG - Page scrolled.
+2025-04-14 14:17:27,831 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:17:29,675 - DEBUG - Page scrolled.
+2025-04-14 14:17:32,679 - DEBUG - Random scrolls complete.
+2025-04-14 14:17:35,415 - DEBUG - Total comments in the thread: 7
+2025-04-14 14:18:16,831 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Can boosting blog posts via Facebook ads improve SEO rankings, or is it just good for temporary traffic.txt
+2025-04-14 14:18:19,645 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 14:18:19,725 - DEBUG - Extracted main post content: If boosting blog posts using Facebook ads can actually improve my SEO rankings, or is it only useful for getting short-term traffic?
+2025-04-14 14:18:25,082 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 14:18:25,084 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 14:18:28,069 - INFO - performing random action
+2025-04-14 14:18:28,071 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:18:28,073 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:18:28,124 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:18:28,203 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:18:28,209 - DEBUG - Text box scrolled into view
+2025-04-14 14:18:28,924 - DEBUG - Initializing actionchains
+2025-04-14 14:18:29,012 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2914}, size: {'height': 21, 'width': 68}
+2025-04-14 14:18:29,013 - DEBUG - Target click coordinates: (1265, 2924)
+2025-04-14 14:18:38,438 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 14:18:38,439 - DEBUG - Moving mouse to text box element.
+2025-04-14 14:18:38,441 - DEBUG - Clicking on the text box.
+2025-04-14 14:18:38,443 - DEBUG - Sending keys with content: Nah, direct SEO ranking boost? Unlikely. Think of it more like amplifying your content's reach, which *could* indirectly help.
+
+2025-04-14 14:18:43,927 - DEBUG - Clicking on post reply button.
+2025-04-14 14:18:55,046 - DEBUG - Performed Actionchains
+2025-04-14 14:18:55,047 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 14:18:59,048 - INFO - Comment posted successfully.
+2025-04-14 14:18:59,050 - INFO - Task Completed!!
+2025-04-14 14:19:06,580 - INFO - Navigated back to the homepage.
+2025-04-14 14:19:09,180 - INFO - Attempting to clear memory and resources.
+2025-04-14 14:19:09,256 - INFO - Garbage collection completed.
+2025-04-14 14:19:09,259 - INFO - Waiting for 2200 seconds before next execution.

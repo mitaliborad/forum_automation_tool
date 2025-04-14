@@ -1,0 +1,103 @@
+2025-04-02 11:16:21,952 - INFO - Current time: 1743572781.95214
+2025-04-02 11:16:21,953 - INFO - Token expiration time: 1743583576.8093786
+2025-04-02 11:16:21,955 - INFO - Token expiration time: 1743583576.8093786
+2025-04-02 11:16:21,956 - INFO - performing random action
+2025-04-02 11:16:21,957 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 11:16:21,961 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:16:21,962 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:28,287 - DEBUG - Page scrolled.
+2025-04-02 11:16:30,289 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:32,092 - DEBUG - Page scrolled.
+2025-04-02 11:16:34,093 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:35,125 - DEBUG - Page scrolled.
+2025-04-02 11:16:37,126 - DEBUG - Random scrolls complete.
+2025-04-02 11:16:37,129 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:16:37,130 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:38,765 - DEBUG - Page scrolled.
+2025-04-02 11:16:40,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:42,176 - DEBUG - Page scrolled.
+2025-04-02 11:16:44,177 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:16:45,418 - DEBUG - Page scrolled.
+2025-04-02 11:16:47,420 - DEBUG - Random scrolls complete.
+2025-04-02 11:17:04,585 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/pinterest.211/
+2025-04-02 11:17:10,674 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-your-opinion-about-page-taskon-xyz.1700282/unread
+2025-04-02 11:17:10,675 - INFO - performing random action
+2025-04-02 11:17:23,067 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-your-opinion-about-page-taskon-xyz.1700282/unread
+2025-04-02 11:17:23,069 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-your-opinion-about-page-taskon-xyz.1700282/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 11:17:23,106 - INFO - Extracted thread title: what is your opinion about page taskon.xyz
+2025-04-02 11:17:23,107 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:17:23,108 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:24,306 - DEBUG - Page scrolled.
+2025-04-02 11:17:26,308 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:28,086 - DEBUG - Page scrolled.
+2025-04-02 11:17:30,087 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:31,516 - DEBUG - Page scrolled.
+2025-04-02 11:17:33,517 - DEBUG - Random scrolls complete.
+2025-04-02 11:17:35,546 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:17:35,546 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:37,342 - DEBUG - Page scrolled.
+2025-04-02 11:17:40,344 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:41,509 - DEBUG - Page scrolled.
+2025-04-02 11:17:44,510 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:45,906 - DEBUG - Page scrolled.
+2025-04-02 11:17:48,908 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:17:50,821 - DEBUG - Page scrolled.
+2025-04-02 11:17:53,823 - DEBUG - Random scrolls complete.
+2025-04-02 11:17:53,840 - DEBUG - Found 3 like buttons.
+2025-04-02 11:17:56,842 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-04-02 11:17:57,815 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:17:57,831 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:17:57,832 - DEBUG - Liked post number 1 of 3.
+2025-04-02 11:18:02,691 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:18:02,704 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:18:02,705 - DEBUG - Liked post number 2 of 3.
+2025-04-02 11:18:07,588 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:18:07,598 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:18:07,599 - DEBUG - Liked post number 3 of 3.
+2025-04-02 11:18:12,033 - INFO - Liked 3 posts successfully.
+2025-04-02 11:18:12,035 - INFO - Liked 3 posts successfully.
+2025-04-02 11:18:14,376 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-02 11:18:16,378 - INFO - performing random action
+2025-04-02 11:18:16,380 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:18:16,380 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:18:18,194 - DEBUG - Page scrolled.
+2025-04-02 11:18:21,195 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:18:22,774 - DEBUG - Page scrolled.
+2025-04-02 11:18:25,776 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:18:27,609 - DEBUG - Page scrolled.
+2025-04-02 11:18:30,610 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:18:32,292 - DEBUG - Page scrolled.
+2025-04-02 11:18:35,294 - DEBUG - Random scrolls complete.
+2025-04-02 11:18:38,313 - DEBUG - Total comments in the thread: 3
+2025-04-02 11:18:38,597 - INFO - Post content extracted and saved to Thread-Details/Thread Content\what is your opinion about page taskon.xyz.txt
+2025-04-02 11:18:41,160 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 11:18:41,193 - DEBUG - Extracted main post content: I heard more time that is scam
+2025-04-02 11:18:45,556 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 11:18:45,558 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 11:18:45,560 - WARNING - rename Error: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'Thread-Details/API Comments\\temp_comment.txt' -> 'Thread-Details/API Comments\\what is your opinion about page taskon.xyz_Scammy how What exactly happened\n.txt'
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_automation.py", line 184, in process_profile
+    os.rename(
+    ~~~~~~~~~^
+        os.path.join(api_comments_dir, "temp_comment.txt"),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        api_comment_file,
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'Thread-Details/API Comments\\temp_comment.txt' -> 'Thread-Details/API Comments\\what is your opinion about page taskon.xyz_Scammy how What exactly happened\n.txt'
+2025-04-02 11:18:45,569 - INFO - API comment generated and saved to Thread-Details/API Comments\what is your opinion about page taskon.xyz_Scammy how What exactly happened
+.txt
+2025-04-02 11:18:45,570 - ERROR - Error reading thread content file: [Errno 22] Invalid argument: 'Thread-Details/API Comments\\what is your opinion about page taskon.xyz_Scammy how What exactly happened\n.txt'
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 411, in read_thread_content
+    with open(file_path, "r", encoding="utf-8") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: 'Thread-Details/API Comments\\what is your opinion about page taskon.xyz_Scammy how What exactly happened\n.txt'
+2025-04-02 11:18:48,420 - INFO - performing random action
+2025-04-02 11:18:48,423 - WARNING - No comment available to post.
+2025-04-02 11:18:48,426 - INFO - Task Completed!!
+2025-04-02 11:18:52,433 - INFO - Navigated back to the homepage.
+2025-04-02 11:18:55,422 - INFO - Attempting to clear memory and resources.
+2025-04-02 11:18:55,475 - INFO - Garbage collection completed.
+2025-04-02 11:18:55,476 - INFO - Waiting for 2000 seconds before next execution.

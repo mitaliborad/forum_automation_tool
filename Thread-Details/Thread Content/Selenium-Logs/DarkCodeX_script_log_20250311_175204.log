@@ -1,0 +1,96 @@
+2025-03-11 17:52:04,547 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_175204.log
+2025-03-11 17:52:04,550 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 17:52:04,552 - INFO - Loaded 146 visited threads from Thread_links.txt
+2025-03-11 17:52:04,554 - INFO - Successfully loaded links that was already visited!
+2025-03-11 17:52:04,565 - DEBUG - Scrolling page 5 times.
+2025-03-11 17:52:04,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:06,246 - DEBUG - Page scrolled.
+2025-03-11 17:52:08,249 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:10,073 - DEBUG - Page scrolled.
+2025-03-11 17:52:12,088 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:13,459 - DEBUG - Page scrolled.
+2025-03-11 17:52:15,466 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:16,612 - DEBUG - Page scrolled.
+2025-03-11 17:52:18,619 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:19,955 - DEBUG - Page scrolled.
+2025-03-11 17:52:21,959 - DEBUG - Random scrolls complete.
+2025-03-11 17:52:21,960 - DEBUG - Scrolling page 5 times.
+2025-03-11 17:52:21,961 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:23,210 - DEBUG - Page scrolled.
+2025-03-11 17:52:25,212 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:26,645 - DEBUG - Page scrolled.
+2025-03-11 17:52:28,646 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:29,685 - DEBUG - Page scrolled.
+2025-03-11 17:52:31,687 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:32,904 - DEBUG - Page scrolled.
+2025-03-11 17:52:34,907 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:36,408 - DEBUG - Page scrolled.
+2025-03-11 17:52:38,410 - DEBUG - Random scrolls complete.
+2025-03-11 17:52:44,574 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-03-11 17:52:49,344 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/why-does-this-still-exsist.1593834/
+2025-03-11 17:52:58,332 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/why-does-this-still-exsist.1593834/
+2025-03-11 17:52:58,334 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/why-does-this-still-exsist.1593834/' to visited threads file 'Thread_links.txt'.
+2025-03-11 17:52:58,371 - INFO - Extracted thread title: why does this still exsist
+2025-03-11 17:52:58,372 - DEBUG - Scrolling page 4 times.
+2025-03-11 17:52:58,373 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:52:59,937 - DEBUG - Page scrolled.
+2025-03-11 17:53:01,938 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:53:03,788 - DEBUG - Page scrolled.
+2025-03-11 17:53:05,791 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:53:07,478 - DEBUG - Page scrolled.
+2025-03-11 17:53:09,480 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:53:11,342 - DEBUG - Page scrolled.
+2025-03-11 17:53:13,350 - DEBUG - Random scrolls complete.
+2025-03-11 17:53:15,960 - DEBUG - Scrolling page 1 times.
+2025-03-11 17:53:15,963 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:53:17,215 - DEBUG - Page scrolled.
+2025-03-11 17:53:20,217 - DEBUG - Random scrolls complete.
+2025-03-11 17:53:20,259 - DEBUG - Found 15 like buttons.
+2025-03-11 17:53:23,261 - INFO - Attempting to like 3 posts. There are 15 available.
+2025-03-11 17:53:24,206 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:53:24,217 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:53:24,220 - DEBUG - Liked post number 1 of 3.
+2025-03-11 17:53:29,396 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:53:29,518 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:53:29,519 - DEBUG - Liked post number 2 of 3.
+2025-03-11 17:53:34,707 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:53:34,729 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:53:34,731 - DEBUG - Liked post number 3 of 3.
+2025-03-11 17:53:39,568 - INFO - Liked 3 posts successfully.
+2025-03-11 17:53:39,569 - INFO - Liked 3 posts successfully.
+2025-03-11 17:53:42,427 - DEBUG - Scrolling page 3 times.
+2025-03-11 17:53:42,428 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:53:44,311 - DEBUG - Page scrolled.
+2025-03-11 17:53:47,313 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:53:49,062 - DEBUG - Page scrolled.
+2025-03-11 17:53:52,065 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:53:53,137 - DEBUG - Page scrolled.
+2025-03-11 17:53:56,139 - DEBUG - Random scrolls complete.
+2025-03-11 17:53:59,023 - DEBUG - Total comments in the thread: 15
+2025-03-11 17:55:33,739 - INFO - Post content extracted and saved to Thread-Details/Thread Content\why does this still exsist.txt
+2025-03-11 17:55:36,385 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 17:55:36,546 - DEBUG - Extracted main post content: why does this section still exsist social medias such as vk have 50times as many users and doesnt even have a section here lol
+2025-03-11 17:55:40,321 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 17:55:40,325 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 17:55:42,829 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:55:42,830 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:55:42,884 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:55:42,950 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:55:42,961 - DEBUG - Text box scrolled into view
+2025-03-11 17:55:43,518 - DEBUG - Initializing actionchains
+2025-03-11 17:55:43,638 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5264}, size: {'height': 21, 'width': 68}
+2025-03-11 17:55:43,638 - DEBUG - Target click coordinates: (1121, 5274)
+2025-03-11 17:55:58,074 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 17:55:58,076 - DEBUG - Moving mouse to text box element.
+2025-03-11 17:55:58,077 - DEBUG - Clicking on the text box.
+2025-03-11 17:55:58,078 - DEBUG - Sending keys with content: Maybe the forum owners haven't gotten around to updating it yet, or maybe they're focusing on platforms that drive more relevant traffic to their site.
+
+2025-03-11 17:56:03,704 - DEBUG - Clicking on post reply button.
+2025-03-11 17:56:06,565 - DEBUG - Performed Actionchains
+2025-03-11 17:56:06,566 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 17:56:10,573 - INFO - Comment posted successfully.
+2025-03-11 17:56:10,578 - INFO - Task Completed!!
+2025-03-11 17:56:21,414 - INFO - Navigated back to the homepage.
+2025-03-11 17:56:23,559 - INFO - Attempting to clear memory and resources.
+2025-03-11 17:56:23,636 - INFO - Garbage collection completed.
+2025-03-11 17:56:23,637 - INFO - Waiting for 1800 seconds before next execution.

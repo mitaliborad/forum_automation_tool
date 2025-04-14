@@ -1,0 +1,14 @@
+2025-03-11 16:38:05,059 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_163805.log
+2025-03-11 16:38:05,060 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 16:38:05,062 - INFO - Loaded 141 visited threads from Thread_links.txt
+2025-03-11 16:38:05,064 - INFO - Successfully loaded links that was already visited!
+2025-03-11 16:38:05,064 - DEBUG - Scrolling page 5 times.
+2025-03-11 16:38:05,065 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:38:06,622 - DEBUG - Page scrolled.
+2025-03-11 16:38:08,624 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:38:10,371 - DEBUG - Page scrolled.
+2025-03-11 16:38:12,374 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:38:20,513 - WARNING - Scrolling failed: HTTPConnectionPool(host='127.0.0.1', port=52684): Max retries exceeded with url: /session/39986a1383068c6f815971daef53e275/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E98FC4D6D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-11 16:38:22,010 - DEBUG - Page scrolled.
+2025-03-11 16:38:24,011 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:38:32,167 - WARNING - Scrolling failed: HTTPConnectionPool(host='127.0.0.1', port=52684): Max retries exceeded with url: /session/39986a1383068c6f815971daef53e275/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001E98FCCCAF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))

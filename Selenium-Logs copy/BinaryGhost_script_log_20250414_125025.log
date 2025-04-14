@@ -1,0 +1,142 @@
+2025-04-14 12:50:25,113 - INFO - Current time: 1744615225.11385
+2025-04-14 12:50:25,116 - INFO - Token expiration time: 1744621139.9563973
+2025-04-14 12:50:25,124 - INFO - Token expiration time: 1744621139.9563973
+2025-04-14 12:50:25,126 - INFO - Profile BinaryGhost: Pausing for 49.54 seconds...
+2025-04-14 12:51:14,666 - INFO - Profile BinaryGhost: Resuming...
+2025-04-14 12:51:14,668 - INFO - performing random action
+2025-04-14 12:51:14,671 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:51:14,673 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:51:14,678 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:15,976 - DEBUG - Page scrolled.
+2025-04-14 12:51:17,980 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:19,951 - DEBUG - Page scrolled.
+2025-04-14 12:51:21,954 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:23,222 - DEBUG - Page scrolled.
+2025-04-14 12:51:25,225 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:27,074 - DEBUG - Page scrolled.
+2025-04-14 12:51:29,076 - DEBUG - Random scrolls complete.
+2025-04-14 12:51:29,076 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:51:29,077 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:30,263 - DEBUG - Page scrolled.
+2025-04-14 12:51:32,266 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:34,206 - DEBUG - Page scrolled.
+2025-04-14 12:51:36,208 - DEBUG - Random scrolls complete.
+2025-04-14 12:51:43,414 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-14 12:51:47,597 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/free-guide-how-to-make-wise-stripe-account-from-anywhere.1611864/unread
+2025-04-14 12:51:47,597 - INFO - performing random action
+2025-04-14 12:51:59,714 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/free-guide-how-to-make-wise-stripe-account-from-anywhere.1611864/unread
+2025-04-14 12:51:59,720 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/free-guide-how-to-make-wise-stripe-account-from-anywhere.1611864/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:51:59,778 - INFO - Extracted thread title: [Free guide] How to make Wise & Stripe account from Anywhere
+2025-04-14 12:51:59,779 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:51:59,780 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:01,216 - DEBUG - Page scrolled.
+2025-04-14 12:52:03,218 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:04,251 - DEBUG - Page scrolled.
+2025-04-14 12:52:06,253 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:07,621 - DEBUG - Page scrolled.
+2025-04-14 12:52:09,623 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:11,069 - DEBUG - Page scrolled.
+2025-04-14 12:52:13,080 - DEBUG - Random scrolls complete.
+2025-04-14 12:52:15,606 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:52:15,607 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:17,167 - DEBUG - Page scrolled.
+2025-04-14 12:52:20,174 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:21,730 - DEBUG - Page scrolled.
+2025-04-14 12:52:24,732 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:25,861 - DEBUG - Page scrolled.
+2025-04-14 12:52:28,863 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:29,914 - DEBUG - Page scrolled.
+2025-04-14 12:52:32,917 - DEBUG - Random scrolls complete.
+2025-04-14 12:52:32,986 - DEBUG - Found 20 like buttons.
+2025-04-14 12:52:35,987 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-14 12:52:36,618 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:52:36,653 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:52:36,655 - DEBUG - Liked post number 1 of 3.
+2025-04-14 12:52:41,750 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:52:41,772 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:52:41,774 - DEBUG - Liked post number 2 of 3.
+2025-04-14 12:52:47,090 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:52:47,113 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:52:47,120 - DEBUG - Liked post number 3 of 3.
+2025-04-14 12:52:51,166 - INFO - Liked 3 posts successfully.
+2025-04-14 12:52:51,168 - INFO - Liked 3 posts successfully.
+2025-04-14 12:52:54,133 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-14 12:53:01,402 - INFO - Profile BinaryGhost: Pausing for 47.05 seconds...
+2025-04-14 12:53:48,454 - INFO - Profile BinaryGhost: Resuming...
+2025-04-14 12:53:48,509 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-14 12:53:48,527 - INFO - performing random action
+2025-04-14 12:53:48,527 - DEBUG - Scrolling page 6 times.
+2025-04-14 12:53:48,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:53:49,636 - DEBUG - Page scrolled.
+2025-04-14 12:53:52,639 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:53:54,073 - DEBUG - Page scrolled.
+2025-04-14 12:53:57,075 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:53:58,543 - DEBUG - Page scrolled.
+2025-04-14 12:54:01,545 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:54:02,607 - DEBUG - Page scrolled.
+2025-04-14 12:54:05,614 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:54:06,816 - DEBUG - Page scrolled.
+2025-04-14 12:54:09,818 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:54:11,570 - DEBUG - Page scrolled.
+2025-04-14 12:54:14,571 - DEBUG - Random scrolls complete.
+2025-04-14 12:54:16,708 - DEBUG - Total comments in the thread: 20
+2025-04-14 12:55:09,209 - INFO - Post content extracted and saved to Thread-Details/Thread Content\[Free guide] How to make Wise & Stripe account from Anywhere.txt
+2025-04-14 12:55:11,889 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:55:11,993 - DEBUG - Extracted main post content: It is all from my personal experience (not stripe) and i am not endorsing any service or anything
+
+I have read many posts looking for ways to have wise account or to buy one so here's an easy guide on how to make it I have made few personally so it works
+
+Requirements for a UK LLC:
+Address: You can get a virtual address from many online services.
+UK Phone Number: Use VYKE to get a UK number for $6 for 3 months.
+Step 1: Form a UK LLC Company
+Register through Companies House: The registration cost has increased from £12 to £50.
+Requirements:
+Address: Get a virtual address with mail forwarding services. I used IconOffices. Avoid UKPostOffice.
+UK Phone Number: Use VYKE to get a UK number for $6 for 3 months.
+The process is straightforward. If you get stuck, search for YouTube videos for guidance. I recommend opening an LLC under the category "retail not in store..." as it simplifies opening a Stripe account.
+
+Approval:
+After submitting the application, you will receive company approval via email in 2 days.
+Within 10-40 days, you will receive your UTR code at your registered address. IconOffice will provide you with a scanned copy.
+Step 2: Create a Dummy Website
+This is not necessary for Wise but is needed for Stripe.
+
+Step 3: Create a Wise Business Account
+Setup: Once your company is set up, go to Wise and create a business account using your UK company details. Pay the fees.
+Debit Card: Request a debit card or use Wise’s virtual card.
+Now you have a UK Wise business account, which you can use everywhere.
+
+Step 4: Sign Up on Stripe
+Use your company details and Wise account to sign up on Stripe.
+Website: You must have a website to get approved by Stripe.
+so thats all. P.s i used AI to make my english gramatically correct so its easily readable, my grammar is whack.
+2025-04-14 12:55:16,122 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:55:16,127 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:55:19,093 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-14 12:55:25,281 - INFO - Profile BinaryGhost: Pausing for 35.49 seconds...
+2025-04-14 12:56:00,774 - INFO - Profile BinaryGhost: Resuming...
+2025-04-14 12:56:00,820 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-14 12:56:00,827 - INFO - performing random action
+2025-04-14 12:56:00,828 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:56:00,832 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:56:00,851 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:56:00,892 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:56:00,900 - DEBUG - Text box scrolled into view
+2025-04-14 12:56:01,462 - DEBUG - Initializing actionchains
+2025-04-14 12:56:01,515 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7947}, size: {'height': 21, 'width': 68}
+2025-04-14 12:56:01,516 - DEBUG - Target click coordinates: (1265, 7957)
+2025-04-14 12:56:20,459 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:56:20,461 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:56:20,463 - DEBUG - Clicking on the text box.
+2025-04-14 12:56:20,472 - DEBUG - Sending keys with content: Good write-up! Did you find opening an account as "retail not in store" made much of a difference in the Stripe approval process, or do you think that's just a bonus tip?
+
+2025-04-14 12:56:25,642 - DEBUG - Clicking on post reply button.
+2025-04-14 12:56:27,234 - DEBUG - Performed Actionchains
+2025-04-14 12:56:27,235 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:56:31,239 - INFO - Comment posted successfully.
+2025-04-14 12:56:31,242 - INFO - Task Completed!!
+2025-04-14 12:56:34,456 - INFO - Navigated back to the homepage.
+2025-04-14 12:56:36,649 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:56:36,692 - INFO - Garbage collection completed.
+2025-04-14 12:56:36,693 - INFO - Waiting for 2200 seconds before next execution.

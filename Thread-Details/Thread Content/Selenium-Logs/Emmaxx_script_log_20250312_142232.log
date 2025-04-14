@@ -1,0 +1,112 @@
+2025-03-12 14:22:32,266 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_142232.log
+2025-03-12 14:22:32,317 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 14:22:32,438 - INFO - Loaded 169 visited threads from Thread_links.txt
+2025-03-12 14:22:32,486 - INFO - Successfully loaded links that was already visited!
+2025-03-12 14:22:32,516 - DEBUG - Scrolling page 4 times.
+2025-03-12 14:22:32,520 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:22:34,304 - DEBUG - Page scrolled.
+2025-03-12 14:22:36,306 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:22:37,941 - DEBUG - Page scrolled.
+2025-03-12 14:22:39,943 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:22:41,430 - DEBUG - Page scrolled.
+2025-03-12 14:22:43,432 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:22:44,846 - DEBUG - Page scrolled.
+2025-03-12 14:22:46,847 - DEBUG - Random scrolls complete.
+2025-03-12 14:22:46,848 - DEBUG - Scrolling page 6 times.
+2025-03-12 14:22:46,849 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:22:48,284 - DEBUG - Page scrolled.
+2025-03-12 14:22:50,286 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:22:51,763 - DEBUG - Page scrolled.
+2025-03-12 14:22:53,764 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:22:54,991 - DEBUG - Page scrolled.
+2025-03-12 14:22:56,993 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:22:58,106 - DEBUG - Page scrolled.
+2025-03-12 14:23:00,107 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:23:01,196 - DEBUG - Page scrolled.
+2025-03-12 14:23:03,198 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:23:04,778 - DEBUG - Page scrolled.
+2025-03-12 14:23:06,780 - DEBUG - Random scrolls complete.
+2025-03-12 14:23:14,603 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-03-12 14:23:19,001 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/gbp-listing-from-india-to-canada-and-australia.1694647/unread
+2025-03-12 14:23:28,381 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/gbp-listing-from-india-to-canada-and-australia.1694647/unread
+2025-03-12 14:23:28,384 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/gbp-listing-from-india-to-canada-and-australia.1694647/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 14:23:28,425 - INFO - Extracted thread title: GBP Listing from India to Canada and Australia
+2025-03-12 14:23:28,427 - DEBUG - Scrolling page 4 times.
+2025-03-12 14:23:28,428 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:23:29,673 - DEBUG - Page scrolled.
+2025-03-12 14:23:31,674 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:23:33,338 - DEBUG - Page scrolled.
+2025-03-12 14:23:35,341 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:23:36,986 - DEBUG - Page scrolled.
+2025-03-12 14:23:38,988 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:23:40,497 - DEBUG - Page scrolled.
+2025-03-12 14:23:42,501 - DEBUG - Random scrolls complete.
+2025-03-12 14:23:44,654 - DEBUG - Scrolling page 3 times.
+2025-03-12 14:23:44,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:23:45,974 - DEBUG - Page scrolled.
+2025-03-12 14:23:48,975 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:23:50,169 - DEBUG - Page scrolled.
+2025-03-12 14:23:53,170 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:23:54,949 - DEBUG - Page scrolled.
+2025-03-12 14:23:57,951 - DEBUG - Random scrolls complete.
+2025-03-12 14:23:57,967 - DEBUG - Found 6 like buttons.
+2025-03-12 14:24:00,968 - INFO - Attempting to like 3 posts. There are 6 available.
+2025-03-12 14:24:01,564 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 14:24:01,597 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 14:24:01,599 - DEBUG - Liked post number 1 of 3.
+2025-03-12 14:24:07,320 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 14:24:07,329 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 14:24:07,330 - DEBUG - Liked post number 2 of 3.
+2025-03-12 14:24:12,440 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 14:24:12,449 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 14:24:12,451 - DEBUG - Liked post number 3 of 3.
+2025-03-12 14:24:17,365 - INFO - Liked 3 posts successfully.
+2025-03-12 14:24:17,367 - INFO - Liked 3 posts successfully.
+2025-03-12 14:24:19,964 - DEBUG - Scrolling page 7 times.
+2025-03-12 14:24:19,965 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:24:21,585 - DEBUG - Page scrolled.
+2025-03-12 14:24:24,586 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:24:26,524 - DEBUG - Page scrolled.
+2025-03-12 14:24:29,527 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:24:31,397 - DEBUG - Page scrolled.
+2025-03-12 14:24:34,399 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:24:35,534 - DEBUG - Page scrolled.
+2025-03-12 14:24:38,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:24:39,636 - DEBUG - Page scrolled.
+2025-03-12 14:24:42,637 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:24:43,701 - DEBUG - Page scrolled.
+2025-03-12 14:24:46,702 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 14:24:48,107 - DEBUG - Page scrolled.
+2025-03-12 14:24:51,108 - DEBUG - Random scrolls complete.
+2025-03-12 14:24:53,563 - DEBUG - Total comments in the thread: 6
+2025-03-12 14:25:24,993 - INFO - Post content extracted and saved to Thread-Details/Thread Content\GBP Listing from India to Canada and Australia.txt
+2025-03-12 14:25:27,334 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 14:25:27,360 - DEBUG - Extracted main post content: Hi BHW family
+I need your help
+I want to list a GBP profile in Canada and Australia for a Digital Marketing Company
+THey are located in India. How they can list their business in Canada and Australia or USA.
+Need assistance. Not looking for any service
+2025-03-12 14:25:31,041 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 14:25:31,043 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 14:25:34,015 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:25:34,016 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:25:34,032 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:25:34,091 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 14:25:34,104 - DEBUG - Text box scrolled into view
+2025-03-12 14:25:34,975 - DEBUG - Initializing actionchains
+2025-03-12 14:25:35,017 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2564}, size: {'height': 21, 'width': 68}
+2025-03-12 14:25:35,019 - DEBUG - Target click coordinates: (1121, 2574)
+2025-03-12 14:25:44,153 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 14:25:44,154 - DEBUG - Moving mouse to text box element.
+2025-03-12 14:25:44,155 - DEBUG - Clicking on the text box.
+2025-03-12 14:25:44,156 - DEBUG - Sending keys with content: Think about building citations for those locations; that can help with ranking once the GBP is up.
+
+2025-03-12 14:25:49,647 - DEBUG - Clicking on post reply button.
+2025-03-12 14:26:00,653 - DEBUG - Performed Actionchains
+2025-03-12 14:26:00,654 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 14:26:04,656 - INFO - Comment posted successfully.
+2025-03-12 14:26:04,657 - INFO - Task Completed!!
+2025-03-12 14:26:26,408 - INFO - Navigated back to the homepage.
+2025-03-12 14:26:29,268 - INFO - Attempting to clear memory and resources.
+2025-03-12 14:26:29,304 - INFO - Garbage collection completed.
+2025-03-12 14:26:29,305 - INFO - Waiting for 1000 seconds before next execution.

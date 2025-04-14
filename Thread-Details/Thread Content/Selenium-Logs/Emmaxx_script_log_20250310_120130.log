@@ -1,0 +1,101 @@
+2025-03-10 12:01:30,432 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250310_120130.log
+2025-03-10 12:01:30,433 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-10 12:01:30,434 - INFO - Loaded 109 visited threads from Thread_links.txt
+2025-03-10 12:01:30,435 - INFO - Successfully loaded links that was already visited!
+2025-03-10 12:01:30,436 - DEBUG - Scrolling page 4 times.
+2025-03-10 12:01:30,436 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:31,753 - DEBUG - Page scrolled.
+2025-03-10 12:01:33,755 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:35,171 - DEBUG - Page scrolled.
+2025-03-10 12:01:37,174 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:38,992 - DEBUG - Page scrolled.
+2025-03-10 12:01:40,993 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:42,056 - DEBUG - Page scrolled.
+2025-03-10 12:01:44,058 - DEBUG - Random scrolls complete.
+2025-03-10 12:01:44,060 - DEBUG - Scrolling page 5 times.
+2025-03-10 12:01:44,061 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:45,467 - DEBUG - Page scrolled.
+2025-03-10 12:01:47,470 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:49,203 - DEBUG - Page scrolled.
+2025-03-10 12:01:51,205 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:52,691 - DEBUG - Page scrolled.
+2025-03-10 12:01:54,693 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:55,741 - DEBUG - Page scrolled.
+2025-03-10 12:01:57,743 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:01:59,408 - DEBUG - Page scrolled.
+2025-03-10 12:02:01,410 - DEBUG - Random scrolls complete.
+2025-03-10 12:02:10,702 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-03-10 12:02:15,276 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ai-generated-text.1620279/unread
+2025-03-10 12:02:41,689 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ai-generated-text.1620279/unread
+2025-03-10 12:02:41,690 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ai-generated-text.1620279/unread' to visited threads file 'Thread_links.txt'.
+2025-03-10 12:02:41,721 - INFO - Extracted thread title: AI generated text
+2025-03-10 12:02:41,722 - DEBUG - Scrolling page 4 times.
+2025-03-10 12:02:41,723 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:43,472 - DEBUG - Page scrolled.
+2025-03-10 12:02:45,474 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:47,091 - DEBUG - Page scrolled.
+2025-03-10 12:02:49,093 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:50,307 - DEBUG - Page scrolled.
+2025-03-10 12:02:52,309 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:02:53,866 - DEBUG - Page scrolled.
+2025-03-10 12:02:55,868 - DEBUG - Random scrolls complete.
+2025-03-10 12:02:58,671 - DEBUG - Scrolling page 2 times.
+2025-03-10 12:02:58,672 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:03:00,273 - DEBUG - Page scrolled.
+2025-03-10 12:03:03,276 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:03:04,468 - DEBUG - Page scrolled.
+2025-03-10 12:03:07,470 - DEBUG - Random scrolls complete.
+2025-03-10 12:03:07,528 - DEBUG - Found 17 like buttons.
+2025-03-10 12:03:10,531 - INFO - Attempting to like 4 posts. There are 17 available.
+2025-03-10 12:03:11,224 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:03:11,240 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:03:11,241 - DEBUG - Liked post number 1 of 4.
+2025-03-10 12:03:16,470 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:03:16,488 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:03:16,490 - DEBUG - Liked post number 2 of 4.
+2025-03-10 12:03:21,736 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:03:21,749 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:03:21,751 - DEBUG - Liked post number 3 of 4.
+2025-03-10 12:03:26,783 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:03:26,806 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:03:26,808 - DEBUG - Liked post number 4 of 4.
+2025-03-10 12:03:31,560 - INFO - Liked 4 posts successfully.
+2025-03-10 12:03:31,563 - INFO - Liked 4 posts successfully.
+2025-03-10 12:03:31,565 - DEBUG - Scrolling page 4 times.
+2025-03-10 12:03:31,566 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:03:32,609 - DEBUG - Page scrolled.
+2025-03-10 12:03:35,611 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:03:36,658 - DEBUG - Page scrolled.
+2025-03-10 12:03:39,660 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:03:41,487 - DEBUG - Page scrolled.
+2025-03-10 12:03:44,489 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:03:46,112 - DEBUG - Page scrolled.
+2025-03-10 12:03:49,115 - DEBUG - Random scrolls complete.
+2025-03-10 12:03:51,388 - DEBUG - Total comments in the thread: 17
+2025-03-10 12:04:45,810 - INFO - Post content extracted and saved to Thread-Details/Thread Content\AI generated text.txt
+2025-03-10 12:04:47,830 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-10 12:04:47,906 - DEBUG - Extracted main post content: Is there a way to avoid detection of AI-generated text?
+2025-03-10 12:04:52,322 - INFO - Successfully generated comments using Gemini API.
+2025-03-10 12:04:52,324 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-10 12:04:54,715 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:04:54,716 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:04:54,738 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:04:54,783 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:04:54,791 - DEBUG - Text box scrolled into view
+2025-03-10 12:04:55,686 - DEBUG - Initializing actionchains
+2025-03-10 12:04:55,801 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5288}, size: {'height': 21, 'width': 68}
+2025-03-10 12:04:55,802 - DEBUG - Target click coordinates: (1121, 5298)
+2025-03-10 12:05:10,455 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-10 12:05:10,456 - DEBUG - Moving mouse to text box element.
+2025-03-10 12:05:10,457 - DEBUG - Clicking on the text box.
+2025-03-10 12:05:10,459 - DEBUG - Sending keys with content: Honestly, it's a cat-and-mouse game, but focusing on adding personal stories or unique perspectives seems to throw the detectors off more than just rewording things.
+
+2025-03-10 12:05:15,637 - DEBUG - Clicking on post reply button.
+2025-03-10 12:05:17,178 - DEBUG - Performed Actionchains
+2025-03-10 12:05:17,180 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-10 12:05:21,181 - INFO - Comment posted successfully.
+2025-03-10 12:05:21,183 - INFO - Task Completed!!
+2025-03-10 12:05:23,992 - INFO - Navigated back to the homepage.
+2025-03-10 12:05:26,738 - INFO - Attempting to clear memory and resources.
+2025-03-10 12:05:26,783 - INFO - Garbage collection completed.
+2025-03-10 12:05:26,784 - INFO - Waiting for 1000 seconds before next execution.

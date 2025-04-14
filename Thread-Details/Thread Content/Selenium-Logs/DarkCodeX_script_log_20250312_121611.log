@@ -1,0 +1,105 @@
+2025-03-12 12:16:11,321 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_121611.log
+2025-03-12 12:16:11,337 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 12:16:11,352 - INFO - Loaded 158 visited threads from Thread_links.txt
+2025-03-12 12:16:11,365 - INFO - Successfully loaded links that was already visited!
+2025-03-12 12:16:11,396 - DEBUG - Scrolling page 7 times.
+2025-03-12 12:16:11,397 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:16,013 - DEBUG - Page scrolled.
+2025-03-12 12:16:18,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:19,726 - DEBUG - Page scrolled.
+2025-03-12 12:16:21,730 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:23,101 - DEBUG - Page scrolled.
+2025-03-12 12:16:25,103 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:26,697 - DEBUG - Page scrolled.
+2025-03-12 12:16:28,699 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:29,861 - DEBUG - Page scrolled.
+2025-03-12 12:16:31,862 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:33,282 - DEBUG - Page scrolled.
+2025-03-12 12:16:35,285 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:37,062 - DEBUG - Page scrolled.
+2025-03-12 12:16:39,064 - DEBUG - Random scrolls complete.
+2025-03-12 12:16:39,066 - DEBUG - Scrolling page 6 times.
+2025-03-12 12:16:39,068 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:40,521 - DEBUG - Page scrolled.
+2025-03-12 12:16:42,524 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:43,893 - DEBUG - Page scrolled.
+2025-03-12 12:16:45,895 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:47,757 - DEBUG - Page scrolled.
+2025-03-12 12:16:49,759 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:51,201 - DEBUG - Page scrolled.
+2025-03-12 12:16:53,202 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:54,381 - DEBUG - Page scrolled.
+2025-03-12 12:16:56,384 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:16:57,448 - DEBUG - Page scrolled.
+2025-03-12 12:16:59,450 - DEBUG - Random scrolls complete.
+2025-03-12 12:17:05,740 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-03-12 12:17:10,039 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/google-voice-and-gmail-fb-acc-support.1280979/unread
+2025-03-12 12:17:18,979 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/google-voice-and-gmail-fb-acc-support.1280979/unread
+2025-03-12 12:17:18,985 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/google-voice-and-gmail-fb-acc-support.1280979/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 12:17:19,025 - INFO - Extracted thread title: Google voice and gmail fb acc support
+2025-03-12 12:17:19,026 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:17:19,027 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:17:20,385 - DEBUG - Page scrolled.
+2025-03-12 12:17:22,388 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:17:24,288 - DEBUG - Page scrolled.
+2025-03-12 12:17:26,290 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:17:27,466 - DEBUG - Page scrolled.
+2025-03-12 12:17:29,467 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:17:31,120 - DEBUG - Page scrolled.
+2025-03-12 12:17:33,123 - DEBUG - Random scrolls complete.
+2025-03-12 12:17:35,286 - DEBUG - Scrolling page 1 times.
+2025-03-12 12:17:35,288 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:17:36,621 - DEBUG - Page scrolled.
+2025-03-12 12:17:39,624 - DEBUG - Random scrolls complete.
+2025-03-12 12:17:39,650 - DEBUG - Found 18 like buttons.
+2025-03-12 12:17:42,651 - INFO - Attempting to like 2 posts. There are 18 available.
+2025-03-12 12:17:43,662 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:17:43,690 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:17:43,692 - DEBUG - Liked post number 1 of 2.
+2025-03-12 12:17:48,455 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:17:48,476 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:17:48,479 - DEBUG - Liked post number 2 of 2.
+2025-03-12 12:17:53,321 - INFO - Liked 2 posts successfully.
+2025-03-12 12:17:53,324 - INFO - Liked 2 posts successfully.
+2025-03-12 12:17:56,232 - DEBUG - Scrolling page 3 times.
+2025-03-12 12:17:56,234 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:17:57,320 - DEBUG - Page scrolled.
+2025-03-12 12:18:00,322 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:18:01,739 - DEBUG - Page scrolled.
+2025-03-12 12:18:04,743 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:18:05,954 - DEBUG - Page scrolled.
+2025-03-12 12:18:08,956 - DEBUG - Random scrolls complete.
+2025-03-12 12:18:11,757 - DEBUG - Total comments in the thread: 18
+2025-03-12 12:20:27,976 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Google voice and gmail fb acc support.txt
+2025-03-12 12:20:30,800 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 12:20:30,861 - DEBUG - Extracted main post content: Hello Every one
+Where i sell properly my
+Lots of google voice, gmail, facebook
+Facebook ads coupon and verified business manager account.
+
+I reseltly sell my social media acc but he was scam with me. Not pay my acc payment.
+So i tried to sell my service.
+Every where lots of scamer.
+So how can i findout and successfully sell my service.
+
+Any one help me please.
+2025-03-12 12:20:34,869 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 12:20:34,872 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 12:20:37,594 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:20:37,597 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:20:37,621 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:20:37,666 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:20:37,675 - DEBUG - Text box scrolled into view
+2025-03-12 12:20:38,517 - DEBUG - Initializing actionchains
+2025-03-12 12:20:38,541 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6538}, size: {'height': 21, 'width': 68}
+2025-03-12 12:20:38,541 - DEBUG - Target click coordinates: (1121, 6548)
+2025-03-12 12:20:55,393 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 12:20:55,396 - DEBUG - Moving mouse to text box element.
+2025-03-12 12:20:55,397 - DEBUG - Clicking on the text box.
+2025-03-12 12:20:55,400 - DEBUG - Sending keys with content: Honestly, finding trustworthy buyers for those things is tough anywhere. Maybe try using an escrow service, so you both get some protection.
+
+2025-03-12 12:21:00,815 - DEBUG - Clicking on post reply button.
+2025-03-12 12:21:11,903 - DEBUG - Performed Actionchains
+2025-03-12 12:21:11,904 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 12:21:15,905 - INFO - Comment posted successfully.
+2025-03-12 12:21:15,908 - INFO - Task Completed!!

@@ -1,0 +1,104 @@
+2025-04-14 12:08:38,347 - INFO - Current time: 1744612718.3477395
+2025-04-14 12:08:38,350 - INFO - Token expiration time: 1744621139.9563973
+2025-04-14 12:08:38,352 - INFO - Token expiration time: 1744621139.9563973
+2025-04-14 12:08:38,356 - INFO - performing random action
+2025-04-14 12:08:38,359 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:08:38,361 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:08:38,362 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:40,116 - DEBUG - Page scrolled.
+2025-04-14 12:08:42,117 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:43,535 - DEBUG - Page scrolled.
+2025-04-14 12:08:45,540 - DEBUG - Random scrolls complete.
+2025-04-14 12:08:45,542 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:08:45,543 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:47,480 - DEBUG - Page scrolled.
+2025-04-14 12:08:49,483 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:50,921 - DEBUG - Page scrolled.
+2025-04-14 12:08:52,922 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:54,541 - DEBUG - Page scrolled.
+2025-04-14 12:08:56,545 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:58,064 - DEBUG - Page scrolled.
+2025-04-14 12:09:00,070 - DEBUG - Random scrolls complete.
+2025-04-14 12:09:09,251 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-14 12:09:13,369 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/public-proxy-vs-free-public-vpn.1701442/unread
+2025-04-14 12:09:13,371 - INFO - performing random action
+2025-04-14 12:09:22,571 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/public-proxy-vs-free-public-vpn.1701442/unread
+2025-04-14 12:09:22,572 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/public-proxy-vs-free-public-vpn.1701442/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:09:22,599 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-14 12:09:22,600 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:09:22,600 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:09:24,051 - DEBUG - Page scrolled.
+2025-04-14 12:09:26,052 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:09:27,753 - DEBUG - Page scrolled.
+2025-04-14 12:09:29,757 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:09:32,792 - DEBUG - Page scrolled.
+2025-04-14 12:09:34,793 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:09:36,651 - DEBUG - Page scrolled.
+2025-04-14 12:09:38,655 - DEBUG - Random scrolls complete.
+2025-04-14 12:09:40,957 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:09:40,957 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:09:42,591 - DEBUG - Page scrolled.
+2025-04-14 12:09:45,593 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:09:47,166 - DEBUG - Page scrolled.
+2025-04-14 12:09:50,168 - DEBUG - Random scrolls complete.
+2025-04-14 12:09:50,184 - DEBUG - Found 20 like buttons.
+2025-04-14 12:09:53,185 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-14 12:09:54,083 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:09:54,113 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:09:54,117 - DEBUG - Liked post number 1 of 3.
+2025-04-14 12:09:59,684 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:09:59,711 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:09:59,713 - DEBUG - Liked post number 2 of 3.
+2025-04-14 12:10:04,887 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:10:04,911 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:10:04,913 - DEBUG - Liked post number 3 of 3.
+2025-04-14 12:10:09,459 - INFO - Liked 3 posts successfully.
+2025-04-14 12:10:09,461 - INFO - Liked 3 posts successfully.
+2025-04-14 12:10:12,165 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-14 12:10:20,459 - INFO - Profile BinaryGhost: Pausing for 35.73 seconds...
+2025-04-14 12:10:56,191 - INFO - Profile BinaryGhost: Resuming...
+2025-04-14 12:10:56,223 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-14 12:10:56,235 - INFO - performing random action
+2025-04-14 12:10:56,236 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:10:56,237 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:10:57,724 - DEBUG - Page scrolled.
+2025-04-14 12:11:00,725 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:11:02,260 - DEBUG - Page scrolled.
+2025-04-14 12:11:05,262 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:11:06,917 - DEBUG - Page scrolled.
+2025-04-14 12:11:09,924 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:11:11,521 - DEBUG - Page scrolled.
+2025-04-14 12:11:14,523 - DEBUG - Random scrolls complete.
+2025-04-14 12:11:16,999 - DEBUG - Total comments in the thread: 20
+2025-04-14 12:13:00,458 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-14 12:13:03,064 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:13:03,149 - DEBUG - Extracted main post content: Which one is a safer, cleaner choice:
+Public free proxy
+Free vpn
+
+We know that vpn ips are usually known and flagged, but still vpn works. How about public proxy? Is it more dangerous than vpn?
+2025-04-14 12:13:06,812 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:13:06,815 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:13:08,846 - INFO - performing random action
+2025-04-14 12:13:08,851 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:13:08,852 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:13:08,901 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:13:09,040 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:13:09,060 - DEBUG - Text box scrolled into view
+2025-04-14 12:13:09,843 - DEBUG - Initializing actionchains
+2025-04-14 12:13:09,903 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6943}, size: {'height': 21, 'width': 68}
+2025-04-14 12:13:09,904 - DEBUG - Target click coordinates: (1265, 6953)
+2025-04-14 12:13:27,636 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:13:27,638 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:13:27,639 - DEBUG - Clicking on the text box.
+2025-04-14 12:13:27,642 - DEBUG - Sending keys with content: Honestly, both are kinda sketchy, but I'd lean towards a free VPN, if I absolutely *had* to pick. At least they encrypt your traffic, even if they are selling your data.
+
+2025-04-14 12:13:33,252 - DEBUG - Clicking on post reply button.
+2025-04-14 12:13:34,714 - DEBUG - Performed Actionchains
+2025-04-14 12:13:34,716 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:13:38,718 - INFO - Comment posted successfully.
+2025-04-14 12:13:38,720 - INFO - Task Completed!!
+2025-04-14 12:13:42,313 - INFO - Navigated back to the homepage.
+2025-04-14 12:13:45,043 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:13:45,110 - INFO - Garbage collection completed.
+2025-04-14 12:13:45,111 - INFO - Waiting for 2200 seconds before next execution.

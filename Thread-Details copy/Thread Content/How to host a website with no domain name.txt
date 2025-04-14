@@ -1,0 +1,91 @@
+--- Main Post Title ---
+How to host a website with no domain name
+
+Total comments in the thread: 8
+
+Topic User: Jack Rodding
+Topic: How do you host a website without domain name. like this http://178.248.238.94/
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: mure
+Topic: You can host a website without a domain by using your server’s public IP address, like http://178.248.238.94. Just set up a web server (e.g., Apache, Nginx, or Node.js) on a VPS or server with a static IP, place your website files in the root directory, and ensure port 80 is open. While it works fine for development or internal use, you won’t be able to use HTTPS unless you have a domain or a special IP-based SSL certificate.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: tazarbm
+Topic: you can use web 2.0s (blogger, wordpress, wix, weebly, etc)...
+███ STRONG Backlinks ███ For All Kinds of Niches ███ Discount Avaialbe ███
+Is Your Website In ♛ Finance or Business ♛ Niche? Improve your rankings with ♛ these backlinks ♛.
+Many CASINO clients ranked their websites from nowhere to the 1st page with these backlinks.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: hideath
+Topic: Jack Rodding said:
+How do you host a website without domain name. like this http://178.248.238.94/
+there are plenty of video/blog guides out there, just do a quick google search or any AI tool for guideness,
+this should be for testing only, you can't rely on using an IP address for branding/SEO,
+a domain name is just a tiny investment to be made for this
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Untouche
+Topic: You can also use something free like ddns domains, and set to look to ip. Search a little bit. I strongly suggest you to use real domain name, and go on...
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: lienhevkt
+Topic: You can use a free domain service, but setting an IP address directly is more suitable for file-sharing services and makes it harder for users to remember your site.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: marcoruben
+Topic: You can use https://freedns.afraid.org/ which has lots and lots of domains you can use a subdomain of!
+
+Or Noip free dns
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: india
+Topic: All websites are like this only. Every website is hosted on an IP. The domain name is just to make it easy for humans.
+
+Once you singup for a VPS you get the hosting space. if you don't attach the domain you can view the website using the static IP that was assigned to your hosting.
+YTbot.com - Stable SMM Panel|Never-Drop Youtube Views|HQ Instagram Followers|Only Stable Services
+SMMLegend.com - All You Needs Met In One Place - TG @SMMLegend
+All Kinds of Removals - SM/Ads Accounts - SEO/Traffic - Lookups & More Unique Services
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

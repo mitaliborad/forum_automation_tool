@@ -1,0 +1,100 @@
+2025-04-02 11:24:14,379 - INFO - Current time: 1743573254.379218
+2025-04-02 11:24:14,380 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 11:24:14,388 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 11:24:14,390 - INFO - Profile PixelPirate99: Restoring window...
+2025-04-02 11:24:16,393 - INFO - performing random action
+2025-04-02 11:24:16,396 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 11:24:16,397 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:24:16,398 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:19,186 - DEBUG - Page scrolled.
+2025-04-02 11:24:21,189 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:22,313 - DEBUG - Page scrolled.
+2025-04-02 11:24:24,314 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:26,129 - DEBUG - Page scrolled.
+2025-04-02 11:24:28,130 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:29,753 - DEBUG - Page scrolled.
+2025-04-02 11:24:31,756 - DEBUG - Random scrolls complete.
+2025-04-02 11:24:31,758 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:24:31,760 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:33,258 - DEBUG - Page scrolled.
+2025-04-02 11:24:35,261 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:36,415 - DEBUG - Page scrolled.
+2025-04-02 11:24:38,418 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:40,054 - DEBUG - Page scrolled.
+2025-04-02 11:24:42,059 - DEBUG - Random scrolls complete.
+2025-04-02 11:24:47,944 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-02 11:24:53,113 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/scrape-complete-website-1-1.1636918/
+2025-04-02 11:24:53,114 - INFO - Profile PixelPirate99: Pausing for 43.57 seconds...
+2025-04-02 11:25:36,690 - INFO - Profile PixelPirate99: Resuming...
+2025-04-02 11:25:36,694 - INFO - performing random action
+2025-04-02 11:25:49,778 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/scrape-complete-website-1-1.1636918/
+2025-04-02 11:25:49,780 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/scrape-complete-website-1-1.1636918/' to visited threads file 'Thread_links.txt'.
+2025-04-02 11:25:49,814 - INFO - Extracted thread title: Scrape complete website 11
+2025-04-02 11:25:49,815 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:25:49,815 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:25:51,801 - DEBUG - Page scrolled.
+2025-04-02 11:25:53,804 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:25:55,473 - DEBUG - Page scrolled.
+2025-04-02 11:25:57,475 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:25:58,920 - DEBUG - Page scrolled.
+2025-04-02 11:26:00,923 - DEBUG - Random scrolls complete.
+2025-04-02 11:26:03,846 - DEBUG - Scrolling page 2 times.
+2025-04-02 11:26:03,848 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:26:05,570 - DEBUG - Page scrolled.
+2025-04-02 11:26:08,573 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:26:09,874 - DEBUG - Page scrolled.
+2025-04-02 11:26:12,876 - DEBUG - Random scrolls complete.
+2025-04-02 11:26:12,927 - DEBUG - Found 2 like buttons.
+2025-04-02 11:26:15,928 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-02 11:26:16,757 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:26:16,778 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:26:16,778 - DEBUG - Liked post number 1 of 2.
+2025-04-02 11:26:21,647 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:26:21,674 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:26:21,676 - DEBUG - Liked post number 2 of 2.
+2025-04-02 11:26:26,625 - INFO - Liked 2 posts successfully.
+2025-04-02 11:26:26,628 - INFO - Liked 2 posts successfully.
+2025-04-02 11:26:29,576 - INFO - performing random action
+2025-04-02 11:26:29,579 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:26:29,581 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:26:31,377 - DEBUG - Page scrolled.
+2025-04-02 11:26:34,380 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:26:36,253 - DEBUG - Page scrolled.
+2025-04-02 11:26:39,255 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:26:40,541 - DEBUG - Page scrolled.
+2025-04-02 11:26:43,543 - DEBUG - Random scrolls complete.
+2025-04-02 11:26:45,683 - DEBUG - Total comments in the thread: 2
+2025-04-02 11:26:45,886 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Scrape complete website 11.txt
+2025-04-02 11:26:48,185 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 11:26:48,223 - DEBUG - Extracted main post content: I have a user access to some website and I want to scrape all the content 1:1
+it has pages, videos, files, pdf etc
+
+i want to have everything downloaded to cloud or something
+
+what is the easiest way to do it?
+2025-04-02 11:26:51,509 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 11:26:51,513 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 11:26:53,775 - INFO - Profile PixelPirate99: Restoring window...
+2025-04-02 11:26:55,792 - INFO - performing random action
+2025-04-02 11:26:55,998 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:26:56,141 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:27:04,262 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:27:05,553 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:27:05,561 - DEBUG - Text box scrolled into view
+2025-04-02 11:27:06,533 - DEBUG - Initializing actionchains
+2025-04-02 11:27:06,563 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1655}, size: {'height': 21, 'width': 68}
+2025-04-02 11:27:06,564 - DEBUG - Target click coordinates: (1121, 1665)
+2025-04-02 11:27:13,484 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 11:27:13,485 - DEBUG - Moving mouse to text box element.
+2025-04-02 11:27:13,487 - DEBUG - Clicking on the text box.
+2025-04-02 11:27:13,489 - DEBUG - Sending keys with content: Honestly, for a 1:1 copy, just use a tool like HTTrack – it's old school, but it gets the job done, just watch out for rate limits. Are you planning on keeping it updated later?
+
+2025-04-02 11:27:19,217 - DEBUG - Clicking on post reply button.
+2025-04-02 11:27:30,383 - DEBUG - Performed Actionchains
+2025-04-02 11:27:30,385 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 11:27:34,388 - INFO - Comment posted successfully.
+2025-04-02 11:27:34,390 - INFO - Task Completed!!
+2025-04-02 11:27:45,582 - INFO - Navigated back to the homepage.
+2025-04-02 11:27:48,554 - INFO - Attempting to clear memory and resources.
+2025-04-02 11:27:48,599 - INFO - Garbage collection completed.
+2025-04-02 11:27:48,599 - INFO - Waiting for 2000 seconds before next execution.

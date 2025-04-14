@@ -1,0 +1,97 @@
+2025-03-13 16:10:04,110 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_161004.log
+2025-03-13 16:10:04,111 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 16:10:04,112 - INFO - Loaded 208 visited threads from Thread_links.txt
+2025-03-13 16:10:04,116 - INFO - Successfully loaded links that was already visited!
+2025-03-13 16:10:04,117 - DEBUG - Scrolling page 7 times.
+2025-03-13 16:10:04,118 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:06,098 - DEBUG - Page scrolled.
+2025-03-13 16:10:08,099 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:09,753 - DEBUG - Page scrolled.
+2025-03-13 16:10:11,755 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:13,186 - DEBUG - Page scrolled.
+2025-03-13 16:10:15,187 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:16,197 - DEBUG - Page scrolled.
+2025-03-13 16:10:18,199 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:19,374 - DEBUG - Page scrolled.
+2025-03-13 16:10:21,376 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:22,885 - DEBUG - Page scrolled.
+2025-03-13 16:10:24,887 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:26,740 - DEBUG - Page scrolled.
+2025-03-13 16:10:28,743 - DEBUG - Random scrolls complete.
+2025-03-13 16:10:28,745 - DEBUG - Scrolling page 6 times.
+2025-03-13 16:10:28,746 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:30,656 - DEBUG - Page scrolled.
+2025-03-13 16:10:32,661 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:33,838 - DEBUG - Page scrolled.
+2025-03-13 16:10:35,840 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:37,150 - DEBUG - Page scrolled.
+2025-03-13 16:10:39,153 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:40,850 - DEBUG - Page scrolled.
+2025-03-13 16:10:42,852 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:44,231 - DEBUG - Page scrolled.
+2025-03-13 16:10:46,233 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:10:48,173 - DEBUG - Page scrolled.
+2025-03-13 16:10:50,175 - DEBUG - Random scrolls complete.
+2025-03-13 16:10:55,464 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-03-13 16:10:59,936 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-create-weibo-account-in-vietnamese.1548736/
+2025-03-13 16:11:08,598 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-create-weibo-account-in-vietnamese.1548736/
+2025-03-13 16:11:08,601 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-create-weibo-account-in-vietnamese.1548736/' to visited threads file 'Thread_links.txt'.
+2025-03-13 16:11:08,667 - INFO - Extracted thread title: How to create Weibo account in Vietnamese
+2025-03-13 16:11:08,668 - DEBUG - Scrolling page 2 times.
+2025-03-13 16:11:08,668 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:11:10,008 - DEBUG - Page scrolled.
+2025-03-13 16:11:12,025 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:11:13,916 - DEBUG - Page scrolled.
+2025-03-13 16:11:15,918 - DEBUG - Random scrolls complete.
+2025-03-13 16:11:18,587 - DEBUG - Scrolling page 1 times.
+2025-03-13 16:11:18,588 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:11:20,155 - DEBUG - Page scrolled.
+2025-03-13 16:11:23,163 - DEBUG - Random scrolls complete.
+2025-03-13 16:11:23,185 - DEBUG - Found 13 like buttons.
+2025-03-13 16:11:26,187 - INFO - Attempting to like 2 posts. There are 13 available.
+2025-03-13 16:11:26,784 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:11:26,795 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:11:26,796 - DEBUG - Liked post number 1 of 2.
+2025-03-13 16:11:31,817 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:11:31,836 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:11:31,845 - DEBUG - Liked post number 2 of 2.
+2025-03-13 16:11:36,689 - INFO - Liked 2 posts successfully.
+2025-03-13 16:11:36,692 - INFO - Liked 2 posts successfully.
+2025-03-13 16:11:54,307 - DEBUG - Scrolling page 3 times.
+2025-03-13 16:11:54,308 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:11:55,915 - DEBUG - Page scrolled.
+2025-03-13 16:11:58,916 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:12:00,774 - DEBUG - Page scrolled.
+2025-03-13 16:12:03,783 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:12:05,024 - DEBUG - Page scrolled.
+2025-03-13 16:12:08,029 - DEBUG - Random scrolls complete.
+2025-03-13 16:12:10,528 - DEBUG - Total comments in the thread: 13
+2025-03-13 16:13:54,953 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to create Weibo account in Vietnamese.txt
+2025-03-13 16:13:57,153 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 16:13:57,211 - DEBUG - Extracted main post content: I saw my friend use Weibo account, and lots of good stuff there.
+
+Pls help me verify Weibo account. I think i will my phonenumber
+2025-03-13 16:14:02,040 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 16:14:02,043 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 16:14:13,917 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:14:13,918 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:14:13,939 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:14:13,989 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:14:14,001 - DEBUG - Text box scrolled into view
+2025-03-13 16:14:14,506 - DEBUG - Initializing actionchains
+2025-03-13 16:14:14,589 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4302}, size: {'height': 21, 'width': 68}
+2025-03-13 16:14:14,590 - DEBUG - Target click coordinates: (1121, 4312)
+2025-03-13 16:14:27,312 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 16:14:27,313 - DEBUG - Moving mouse to text box element.
+2025-03-13 16:14:27,314 - DEBUG - Clicking on the text box.
+2025-03-13 16:14:27,315 - DEBUG - Sending keys with content: Honestly, I'm not too sure about the phone number thing but be careful giving out personal info, there are lots of scams out there.
+
+2025-03-13 16:14:33,185 - DEBUG - Clicking on post reply button.
+2025-03-13 16:14:44,240 - DEBUG - Performed Actionchains
+2025-03-13 16:14:44,241 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 16:14:48,243 - INFO - Comment posted successfully.
+2025-03-13 16:14:48,257 - INFO - Task Completed!!
+2025-03-13 16:14:53,075 - INFO - Navigated back to the homepage.
+2025-03-13 16:14:55,105 - INFO - Attempting to clear memory and resources.
+2025-03-13 16:14:55,141 - INFO - Garbage collection completed.
+2025-03-13 16:14:55,142 - INFO - Waiting for 120 seconds before next execution.

@@ -1,0 +1,109 @@
+2025-03-12 10:04:03,948 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_100403.log
+2025-03-12 10:04:03,980 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 10:04:03,997 - INFO - Loaded 149 visited threads from Thread_links.txt
+2025-03-12 10:04:03,998 - INFO - Successfully loaded links that was already visited!
+2025-03-12 10:04:03,998 - DEBUG - Scrolling page 6 times.
+2025-03-12 10:04:03,999 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:05,400 - DEBUG - Page scrolled.
+2025-03-12 10:04:07,402 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:09,343 - DEBUG - Page scrolled.
+2025-03-12 10:04:11,347 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:12,530 - DEBUG - Page scrolled.
+2025-03-12 10:04:14,532 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:16,510 - DEBUG - Page scrolled.
+2025-03-12 10:04:18,513 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:19,664 - DEBUG - Page scrolled.
+2025-03-12 10:04:21,667 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:23,389 - DEBUG - Page scrolled.
+2025-03-12 10:04:25,390 - DEBUG - Random scrolls complete.
+2025-03-12 10:04:25,391 - DEBUG - Scrolling page 7 times.
+2025-03-12 10:04:25,391 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:27,289 - DEBUG - Page scrolled.
+2025-03-12 10:04:29,292 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:30,353 - DEBUG - Page scrolled.
+2025-03-12 10:04:32,355 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:33,954 - DEBUG - Page scrolled.
+2025-03-12 10:04:35,956 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:37,311 - DEBUG - Page scrolled.
+2025-03-12 10:04:39,315 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:40,639 - DEBUG - Page scrolled.
+2025-03-12 10:04:42,642 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:44,211 - DEBUG - Page scrolled.
+2025-03-12 10:04:46,213 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:04:47,858 - DEBUG - Page scrolled.
+2025-03-12 10:04:49,861 - DEBUG - Random scrolls complete.
+2025-03-12 10:04:58,682 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-03-12 10:05:02,921 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/youtube-watchtime.1686791/unread
+2025-03-12 10:05:14,554 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/youtube-watchtime.1686791/unread
+2025-03-12 10:05:14,558 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/youtube-watchtime.1686791/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 10:05:14,590 - INFO - Extracted thread title: YouTube Watchtime
+2025-03-12 10:05:14,591 - DEBUG - Scrolling page 4 times.
+2025-03-12 10:05:14,592 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:05:15,677 - DEBUG - Page scrolled.
+2025-03-12 10:05:17,679 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:05:18,761 - DEBUG - Page scrolled.
+2025-03-12 10:05:20,763 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:05:22,440 - DEBUG - Page scrolled.
+2025-03-12 10:05:24,443 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:05:26,189 - DEBUG - Page scrolled.
+2025-03-12 10:05:28,192 - DEBUG - Random scrolls complete.
+2025-03-12 10:05:31,193 - DEBUG - Scrolling page 4 times.
+2025-03-12 10:05:31,195 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:05:32,774 - DEBUG - Page scrolled.
+2025-03-12 10:05:35,778 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:05:37,034 - DEBUG - Page scrolled.
+2025-03-12 10:05:40,036 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:05:41,431 - DEBUG - Page scrolled.
+2025-03-12 10:05:44,434 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:05:45,722 - DEBUG - Page scrolled.
+2025-03-12 10:05:48,726 - DEBUG - Random scrolls complete.
+2025-03-12 10:05:48,763 - DEBUG - Found 14 like buttons.
+2025-03-12 10:05:51,765 - INFO - Attempting to like 1 posts. There are 14 available.
+2025-03-12 10:05:52,408 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 10:05:52,440 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 10:05:52,442 - DEBUG - Liked post number 1 of 1.
+2025-03-12 10:05:56,529 - INFO - Liked 1 posts successfully.
+2025-03-12 10:05:56,531 - INFO - Liked 1 posts successfully.
+2025-03-12 10:05:59,074 - DEBUG - Scrolling page 6 times.
+2025-03-12 10:05:59,076 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:00,820 - DEBUG - Page scrolled.
+2025-03-12 10:06:03,822 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:04,967 - DEBUG - Page scrolled.
+2025-03-12 10:06:07,970 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:09,860 - DEBUG - Page scrolled.
+2025-03-12 10:06:12,862 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:14,775 - DEBUG - Page scrolled.
+2025-03-12 10:06:17,778 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:19,052 - DEBUG - Page scrolled.
+2025-03-12 10:06:22,055 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:24,040 - DEBUG - Page scrolled.
+2025-03-12 10:06:27,042 - DEBUG - Random scrolls complete.
+2025-03-12 10:06:29,727 - DEBUG - Total comments in the thread: 14
+2025-03-12 10:08:25,482 - INFO - Post content extracted and saved to Thread-Details/Thread Content\YouTube Watchtime.txt
+2025-03-12 10:08:28,147 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 10:08:28,194 - DEBUG - Extracted main post content: I have check on whole internet many person offer watchtime and they drop is there anybody who can provide watchtime as a review copy 5 minute video +
+4000 watchtime I think on whole bhw any guts guy comes let's see atleast tell tg he server name
+2025-03-12 10:08:32,273 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 10:08:32,277 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 10:08:35,155 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:08:35,157 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:08:35,193 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:08:35,261 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:08:35,271 - DEBUG - Text box scrolled into view
+2025-03-12 10:08:36,002 - DEBUG - Initializing actionchains
+2025-03-12 10:08:36,032 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5051}, size: {'height': 21, 'width': 68}
+2025-03-12 10:08:36,033 - DEBUG - Target click coordinates: (1121, 5061)
+2025-03-12 10:08:50,308 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 10:08:50,311 - DEBUG - Moving mouse to text box element.
+2025-03-12 10:08:50,313 - DEBUG - Clicking on the text box.
+2025-03-12 10:08:50,315 - DEBUG - Sending keys with content: Why not ask for smaller chunks of watch time as a review, see who delivers consistently first?
+
+2025-03-12 10:08:55,972 - DEBUG - Clicking on post reply button.
+2025-03-12 10:09:06,958 - DEBUG - Performed Actionchains
+2025-03-12 10:09:06,959 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 10:09:10,961 - INFO - Comment posted successfully.
+2025-03-12 10:09:10,964 - INFO - Task Completed!!
+2025-03-12 10:09:18,831 - INFO - Navigated back to the homepage.
+2025-03-12 10:09:21,087 - INFO - Attempting to clear memory and resources.
+2025-03-12 10:09:21,138 - INFO - Garbage collection completed.
+2025-03-12 10:09:21,139 - INFO - Waiting for 1800 seconds before next execution.

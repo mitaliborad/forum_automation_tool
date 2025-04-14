@@ -1,0 +1,145 @@
+2025-04-09 10:23:54,574 - INFO - Current time: 1744174434.5739403
+2025-04-09 10:23:54,577 - INFO - Token expiration time: 1744180989.5892174
+2025-04-09 10:23:54,580 - INFO - Token expiration time: 1744180989.5892174
+2025-04-09 10:23:54,582 - INFO - performing random action
+2025-04-09 10:23:54,585 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 10:23:54,588 - DEBUG - Scrolling page 3 times.
+2025-04-09 10:23:54,589 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:23:55,690 - DEBUG - Page scrolled.
+2025-04-09 10:23:57,692 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:23:59,146 - DEBUG - Page scrolled.
+2025-04-09 10:24:01,148 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:24:02,723 - DEBUG - Page scrolled.
+2025-04-09 10:24:04,725 - DEBUG - Random scrolls complete.
+2025-04-09 10:24:04,727 - DEBUG - Scrolling page 3 times.
+2025-04-09 10:24:04,729 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:24:06,086 - DEBUG - Page scrolled.
+2025-04-09 10:24:08,088 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:24:10,057 - DEBUG - Page scrolled.
+2025-04-09 10:24:12,059 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:24:13,293 - DEBUG - Page scrolled.
+2025-04-09 10:24:15,295 - DEBUG - Random scrolls complete.
+2025-04-09 10:24:26,843 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-09 10:24:30,578 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/a-payment-gateway-to-accept-cryptocurrencies-without-kyc.1703311/unread
+2025-04-09 10:24:30,579 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-09 10:29:30,646 - ERROR - Profile DataPhreak: Error simulating scrolling: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF684270C45+27221]
+	(No symbol) [0x00007FF6841D6F30]
+	(No symbol) [0x00007FF684055ADA]
+	(No symbol) [0x00007FF68404599C]
+	(No symbol) [0x00007FF68404568A]
+	(No symbol) [0x00007FF68404320F]
+	(No symbol) [0x00007FF684043CDF]
+	(No symbol) [0x00007FF68404FD5E]
+	(No symbol) [0x00007FF684065FE3]
+	(No symbol) [0x00007FF68406D11A]
+	(No symbol) [0x00007FF68404444D]
+	(No symbol) [0x00007FF684065D15]
+	(No symbol) [0x00007FF6841003C5]
+	(No symbol) [0x00007FF6840D7A73]
+	(No symbol) [0x00007FF6840A0750]
+	(No symbol) [0x00007FF6840A1A03]
+	GetHandleVerifier [0x00007FF6845D6E2D+3591229]
+	GetHandleVerifier [0x00007FF6845EE45A+3687018]
+	GetHandleVerifier [0x00007FF6845E3323+3641651]
+	GetHandleVerifier [0x00007FF68433B6BA+857290]
+	(No symbol) [0x00007FF6841E230F]
+	(No symbol) [0x00007FF6841DE304]
+	(No symbol) [0x00007FF6841DE4A6]
+	(No symbol) [0x00007FF6841CD469]
+	BaseThreadInitThunk [0x00007FFA29D07374+20]
+	RtlUserThreadStart [0x00007FFA2B79CC91+33]
+
+2025-04-09 10:29:30,667 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-09 10:29:30,668 - INFO - performing random action
+2025-04-09 10:29:42,491 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/a-payment-gateway-to-accept-cryptocurrencies-without-kyc.1703311/unread
+2025-04-09 10:29:42,495 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/a-payment-gateway-to-accept-cryptocurrencies-without-kyc.1703311/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 10:29:42,553 - INFO - Extracted thread title: A payment gateway to accept cryptocurrencies without KYC
+2025-04-09 10:29:42,554 - DEBUG - Scrolling page 4 times.
+2025-04-09 10:29:42,554 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:44,505 - DEBUG - Page scrolled.
+2025-04-09 10:29:46,508 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:48,322 - DEBUG - Page scrolled.
+2025-04-09 10:29:50,324 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:51,519 - DEBUG - Page scrolled.
+2025-04-09 10:29:53,522 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:54,874 - DEBUG - Page scrolled.
+2025-04-09 10:29:56,876 - DEBUG - Random scrolls complete.
+2025-04-09 10:29:59,469 - DEBUG - Scrolling page 2 times.
+2025-04-09 10:29:59,470 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:30:00,854 - DEBUG - Page scrolled.
+2025-04-09 10:30:03,856 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:30:04,919 - DEBUG - Page scrolled.
+2025-04-09 10:30:07,921 - DEBUG - Random scrolls complete.
+2025-04-09 10:30:08,030 - DEBUG - Found 5 like buttons.
+2025-04-09 10:30:11,032 - INFO - Attempting to like 3 posts. There are 5 available.
+2025-04-09 10:30:11,684 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 10:30:11,694 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 10:30:11,695 - DEBUG - Liked post number 1 of 3.
+2025-04-09 10:30:16,401 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 10:30:16,423 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 10:30:16,425 - DEBUG - Liked post number 2 of 3.
+2025-04-09 10:30:21,480 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 10:30:21,501 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 10:30:21,504 - DEBUG - Liked post number 3 of 3.
+2025-04-09 10:30:26,137 - INFO - Liked 3 posts successfully.
+2025-04-09 10:30:26,139 - INFO - Liked 3 posts successfully.
+2025-04-09 10:30:28,242 - INFO - performing random action
+2025-04-09 10:30:28,245 - DEBUG - Scrolling page 5 times.
+2025-04-09 10:30:28,246 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:30:29,937 - DEBUG - Page scrolled.
+2025-04-09 10:30:32,939 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:30:34,685 - DEBUG - Page scrolled.
+2025-04-09 10:30:37,687 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:30:38,915 - DEBUG - Page scrolled.
+2025-04-09 10:30:41,917 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:30:43,451 - DEBUG - Page scrolled.
+2025-04-09 10:30:46,453 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:30:47,552 - DEBUG - Page scrolled.
+2025-04-09 10:30:50,556 - DEBUG - Random scrolls complete.
+2025-04-09 10:30:52,818 - DEBUG - Total comments in the thread: 5
+2025-04-09 10:31:13,631 - INFO - Post content extracted and saved to Thread-Details/Thread Content\A payment gateway to accept cryptocurrencies without KYC.txt
+2025-04-09 10:31:16,060 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 10:31:16,116 - DEBUG - Extracted main post content: Hey everyone!
+
+
+I’m on the lookout for a crypto payment gateway that lets clients pay in crypto, and allows us to withdraw the funds directly to our cold wallet—no fiat and no KYC process.
+
+
+Ideally, we’d love something that just needs an email for setup and withdrawals, without any complicated verification steps. And of course, the lower the fees, the better!
+
+
+If anyone knows of a platform that fits this, I’d really appreciate your help and recommendations!
+
+
+Also, it should work with WordPress websites if possible.
+
+
+Thanks so much in advance!
+2025-04-09 10:31:19,838 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 10:31:19,839 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 10:31:22,026 - INFO - performing random action
+2025-04-09 10:31:22,029 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:31:22,031 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:31:22,073 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:31:22,118 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:31:22,126 - DEBUG - Text box scrolled into view
+2025-04-09 10:31:23,139 - DEBUG - Initializing actionchains
+2025-04-09 10:31:23,160 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2898}, size: {'height': 21, 'width': 68}
+2025-04-09 10:31:23,160 - DEBUG - Target click coordinates: (1265, 2908)
+2025-04-09 10:31:33,187 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 10:31:33,189 - DEBUG - Moving mouse to text box element.
+2025-04-09 10:31:33,191 - DEBUG - Clicking on the text box.
+2025-04-09 10:31:33,195 - DEBUG - Sending keys with content: Straight up, finding a gateway that skips KYC and goes straight to cold storage is tough these days, have you checked out any of the DEX aggregators that are adding payment features?
+
+2025-04-09 10:31:38,794 - DEBUG - Clicking on post reply button.
+2025-04-09 10:31:40,163 - DEBUG - Performed Actionchains
+2025-04-09 10:31:40,163 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 10:31:44,165 - INFO - Comment posted successfully.
+2025-04-09 10:31:44,169 - INFO - Task Completed!!
+2025-04-09 10:31:47,712 - INFO - Navigated back to the homepage.
+2025-04-09 10:31:49,873 - INFO - Attempting to clear memory and resources.
+2025-04-09 10:31:49,901 - INFO - Garbage collection completed.
+2025-04-09 10:31:49,902 - INFO - Waiting for 1850 seconds before next execution.

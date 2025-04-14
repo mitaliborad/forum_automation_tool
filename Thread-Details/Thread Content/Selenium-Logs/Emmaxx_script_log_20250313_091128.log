@@ -1,0 +1,108 @@
+2025-03-13 09:11:28,938 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250313_091128.log
+2025-03-13 09:11:28,956 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 09:11:29,007 - INFO - Loaded 176 visited threads from Thread_links.txt
+2025-03-13 09:11:29,008 - INFO - Successfully loaded links that was already visited!
+2025-03-13 09:11:29,010 - DEBUG - Scrolling page 3 times.
+2025-03-13 09:11:29,011 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:11:48,712 - DEBUG - Page scrolled.
+2025-03-13 09:11:50,715 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:11:52,510 - DEBUG - Page scrolled.
+2025-03-13 09:11:54,512 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:11:55,793 - DEBUG - Page scrolled.
+2025-03-13 09:11:57,794 - DEBUG - Random scrolls complete.
+2025-03-13 09:11:57,796 - DEBUG - Scrolling page 7 times.
+2025-03-13 09:11:57,796 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:11:59,185 - DEBUG - Page scrolled.
+2025-03-13 09:12:01,188 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:03,078 - DEBUG - Page scrolled.
+2025-03-13 09:12:05,079 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:06,992 - DEBUG - Page scrolled.
+2025-03-13 09:12:08,993 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:10,166 - DEBUG - Page scrolled.
+2025-03-13 09:12:12,168 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:13,948 - DEBUG - Page scrolled.
+2025-03-13 09:12:15,950 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:17,443 - DEBUG - Page scrolled.
+2025-03-13 09:12:19,444 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:20,872 - DEBUG - Page scrolled.
+2025-03-13 09:12:22,873 - DEBUG - Random scrolls complete.
+2025-03-13 09:12:29,092 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/pinterest.211/
+2025-03-13 09:12:34,186 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/reddit-being-reddit-r-pinterestspampolice-slow-down-on-your-use-of-ai-on-pinterest.1691535/unread
+2025-03-13 09:12:44,668 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/reddit-being-reddit-r-pinterestspampolice-slow-down-on-your-use-of-ai-on-pinterest.1691535/unread
+2025-03-13 09:12:44,697 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/reddit-being-reddit-r-pinterestspampolice-slow-down-on-your-use-of-ai-on-pinterest.1691535/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 09:12:44,773 - INFO - Extracted thread title: Reddit Being Reddit rPinterestSpamPolice, Slow Down On Your Use of AI On Pinterest
+2025-03-13 09:12:44,773 - DEBUG - Scrolling page 3 times.
+2025-03-13 09:12:44,774 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:46,435 - DEBUG - Page scrolled.
+2025-03-13 09:12:48,445 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:50,449 - DEBUG - Page scrolled.
+2025-03-13 09:12:52,450 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:53,982 - DEBUG - Page scrolled.
+2025-03-13 09:12:55,984 - DEBUG - Random scrolls complete.
+2025-03-13 09:12:58,542 - DEBUG - Scrolling page 1 times.
+2025-03-13 09:12:58,543 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:59,945 - DEBUG - Page scrolled.
+2025-03-13 09:13:02,948 - DEBUG - Random scrolls complete.
+2025-03-13 09:13:02,966 - DEBUG - Found 4 like buttons.
+2025-03-13 09:13:05,968 - INFO - Attempting to like 2 posts. There are 4 available.
+2025-03-13 09:13:06,870 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 09:13:06,888 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 09:13:06,889 - DEBUG - Liked post number 1 of 2.
+2025-03-13 09:13:11,590 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 09:13:11,607 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 09:13:11,608 - DEBUG - Liked post number 2 of 2.
+2025-03-13 09:13:15,810 - INFO - Liked 2 posts successfully.
+2025-03-13 09:13:15,818 - INFO - Liked 2 posts successfully.
+2025-03-13 09:13:18,157 - DEBUG - Scrolling page 7 times.
+2025-03-13 09:13:18,160 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:20,041 - DEBUG - Page scrolled.
+2025-03-13 09:13:23,044 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:24,193 - DEBUG - Page scrolled.
+2025-03-13 09:13:27,196 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:28,578 - DEBUG - Page scrolled.
+2025-03-13 09:13:31,587 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:32,963 - DEBUG - Page scrolled.
+2025-03-13 09:13:35,965 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:37,812 - DEBUG - Page scrolled.
+2025-03-13 09:13:40,814 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:42,264 - DEBUG - Page scrolled.
+2025-03-13 09:13:45,269 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:46,392 - DEBUG - Page scrolled.
+2025-03-13 09:13:49,395 - DEBUG - Random scrolls complete.
+2025-03-13 09:13:52,197 - DEBUG - Total comments in the thread: 4
+2025-03-13 09:14:02,993 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Reddit Being Reddit rPinterestSpamPolice, Slow Down On Your Use of AI On Pinterest.txt
+2025-03-13 09:14:05,332 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 09:14:05,409 - DEBUG - Extracted main post content: This is classical case of Reddit being Reddit. A few redditors are not okay with the 'excessive' use of AI content on Pinterest so they do what redditors have always been known for, band together to create a spam police sub where they could report suspected AI and spam.
+
+I already have a recent thread discussing Reddit moderation. Clearly, members aren't any different. This is not substantially different from those guys who complained about your use of PBNs and other blackhat SEO methods.
+
+
+While, I agree excessive use of AI isn't good but why not let the platform do it their way?
+
+I also have a recent live thread talking about the attention AI content on Pinterest is attracting. An article discussing these AI content was published on a major publication.
+
+I don't want to link to the reddit sub but you can see it in the title.
+2025-03-13 09:14:10,186 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 09:14:10,188 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 09:14:12,693 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 09:14:12,723 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 09:14:12,745 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 09:14:13,034 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 09:14:13,051 - DEBUG - Text box scrolled into view
+2025-03-13 09:14:13,614 - DEBUG - Initializing actionchains
+2025-03-13 09:14:13,675 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2504}, size: {'height': 21, 'width': 68}
+2025-03-13 09:14:13,676 - DEBUG - Target click coordinates: (1121, 2514)
+2025-03-13 09:14:21,858 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 09:14:21,859 - DEBUG - Moving mouse to text box element.
+2025-03-13 09:14:21,861 - DEBUG - Clicking on the text box.
+2025-03-13 09:14:21,868 - DEBUG - Sending keys with content: People always find something to police, don't they? Just gotta keep doing your thing and ignore the noise.
+
+2025-03-13 09:14:27,692 - DEBUG - Clicking on post reply button.
+2025-03-13 09:14:30,751 - DEBUG - Performed Actionchains
+2025-03-13 09:14:30,752 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 09:14:34,754 - INFO - Comment posted successfully.
+2025-03-13 09:14:34,756 - INFO - Task Completed!!
+2025-03-13 09:14:41,312 - INFO - Navigated back to the homepage.
+2025-03-13 09:14:44,176 - INFO - Attempting to clear memory and resources.
+2025-03-13 09:14:44,223 - INFO - Garbage collection completed.
+2025-03-13 09:14:44,227 - INFO - Waiting for 1000 seconds before next execution.

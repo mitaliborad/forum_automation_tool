@@ -1,1 +1,0 @@
-Have you looked at using web scraping libraries in Python like Beautiful Soup or Scrapy? Just be mindful of the website's terms of service and robots.txt file before you start.

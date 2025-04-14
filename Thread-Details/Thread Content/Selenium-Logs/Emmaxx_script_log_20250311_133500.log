@@ -1,0 +1,97 @@
+2025-03-11 13:35:00,160 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_133500.log
+2025-03-11 13:35:00,164 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 13:35:00,167 - INFO - Loaded 136 visited threads from Thread_links.txt
+2025-03-11 13:35:00,169 - INFO - Successfully loaded links that was already visited!
+2025-03-11 13:35:00,172 - DEBUG - Scrolling page 6 times.
+2025-03-11 13:35:00,173 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:02,119 - DEBUG - Page scrolled.
+2025-03-11 13:35:04,122 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:06,118 - DEBUG - Page scrolled.
+2025-03-11 13:35:08,122 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:10,123 - DEBUG - Page scrolled.
+2025-03-11 13:35:12,126 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:14,024 - DEBUG - Page scrolled.
+2025-03-11 13:35:16,026 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:17,652 - DEBUG - Page scrolled.
+2025-03-11 13:35:19,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:20,758 - DEBUG - Page scrolled.
+2025-03-11 13:35:22,761 - DEBUG - Random scrolls complete.
+2025-03-11 13:35:22,763 - DEBUG - Scrolling page 3 times.
+2025-03-11 13:35:22,764 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:24,035 - DEBUG - Page scrolled.
+2025-03-11 13:35:26,037 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:27,545 - DEBUG - Page scrolled.
+2025-03-11 13:35:29,546 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:31,400 - DEBUG - Page scrolled.
+2025-03-11 13:35:33,403 - DEBUG - Random scrolls complete.
+2025-03-11 13:35:43,766 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-03-11 13:35:48,233 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/where-can-i-get-these-kinda-blackhat-redirect-links.1694369/unread
+2025-03-11 13:35:56,659 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/where-can-i-get-these-kinda-blackhat-redirect-links.1694369/unread
+2025-03-11 13:35:56,664 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/where-can-i-get-these-kinda-blackhat-redirect-links.1694369/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 13:35:56,712 - INFO - Extracted thread title: Where can I get these kinda blackhat redirect links
+2025-03-11 13:35:56,713 - DEBUG - Scrolling page 2 times.
+2025-03-11 13:35:56,714 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:58,006 - DEBUG - Page scrolled.
+2025-03-11 13:36:00,007 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:36:01,695 - DEBUG - Page scrolled.
+2025-03-11 13:36:03,697 - DEBUG - Random scrolls complete.
+2025-03-11 13:36:05,971 - DEBUG - Scrolling page 4 times.
+2025-03-11 13:36:05,972 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:36:07,377 - DEBUG - Page scrolled.
+2025-03-11 13:36:10,379 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:36:12,292 - DEBUG - Page scrolled.
+2025-03-11 13:36:15,294 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:36:17,308 - DEBUG - Page scrolled.
+2025-03-11 13:36:20,311 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:36:22,128 - DEBUG - Page scrolled.
+2025-03-11 13:36:25,130 - DEBUG - Random scrolls complete.
+2025-03-11 13:36:25,162 - DEBUG - Found 3 like buttons.
+2025-03-11 13:36:28,163 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-03-11 13:36:28,696 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 13:36:28,707 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 13:36:28,708 - DEBUG - Liked post number 1 of 3.
+2025-03-11 13:36:33,592 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 13:36:33,610 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 13:36:33,611 - DEBUG - Liked post number 2 of 3.
+2025-03-11 13:36:39,105 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 13:36:39,123 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 13:36:39,125 - DEBUG - Liked post number 3 of 3.
+2025-03-11 13:36:43,557 - INFO - Liked 3 posts successfully.
+2025-03-11 13:36:43,560 - INFO - Liked 3 posts successfully.
+2025-03-11 13:36:45,837 - DEBUG - Scrolling page 6 times.
+2025-03-11 13:36:45,839 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:36:47,048 - DEBUG - Page scrolled.
+2025-03-11 13:36:50,053 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:36:51,277 - DEBUG - Page scrolled.
+2025-03-11 13:36:54,280 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:36:55,446 - DEBUG - Page scrolled.
+2025-03-11 13:36:58,449 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:37:00,419 - DEBUG - Page scrolled.
+2025-03-11 13:37:03,421 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:37:04,919 - DEBUG - Page scrolled.
+2025-03-11 13:37:07,922 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:37:09,244 - DEBUG - Page scrolled.
+2025-03-11 13:37:12,247 - DEBUG - Random scrolls complete.
+2025-03-11 13:37:14,948 - DEBUG - Total comments in the thread: 3
+2025-03-11 13:37:15,193 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Where can I get these kinda blackhat redirect links.txt
+2025-03-11 13:37:17,536 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 13:37:17,571 - DEBUG - Extracted main post content: Hey guys, I hope y’all doing fantastic.
+
+Quick question, does anybody know where I can get a website with these kinda links.
+
+It’s redirecting links from the url.
+
+If you know what it is, you know.
+
+Please hook me up with it as I need a few thousands of these links …
+
+It’s also possible to trade as I have approx 2500 links.
+2025-03-11 13:47:16,463 - WARNING - Failed to generate comment using Gemini API.
+2025-03-11 13:47:16,464 - WARNING - Failed to generate comment, skipping saving.
+2025-03-11 13:47:16,465 - ERROR - Thread content file 'Thread-Details/API Comments\Where can I get these kinda blackhat redirect links_That's a cool idea! I wonder if there's an app tha.txt' not found.
+2025-03-11 13:47:18,797 - WARNING - No comment available to post.
+2025-03-11 13:47:18,799 - INFO - Task Completed!!
+2025-03-11 13:47:29,279 - INFO - Navigated back to the homepage.
+2025-03-11 13:47:31,567 - INFO - Attempting to clear memory and resources.
+2025-03-11 13:47:31,599 - INFO - Garbage collection completed.
+2025-03-11 13:47:31,600 - INFO - Waiting for 1800 seconds before next execution.

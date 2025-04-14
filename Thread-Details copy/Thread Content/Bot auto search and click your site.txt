@@ -1,0 +1,220 @@
+--- Main Post Title ---
+Bot auto search and click your site
+
+Total comments in the thread: 20
+
+Topic User: TonyTao
+Topic: Hi everyone,
+I plan to make a bot that automatically creates a profile (with its own parameters, its own proxy like gologin, multi login,...)
+then searches for keywords and clicks on my website.
+Is this effective for SEO?
+Has anyone tried it?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: hostonetech
+Topic: make some trial let people know here how that goes for you.
+Liked by: TonyTao
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Funiki
+Topic: Are you planning to code with Python ?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: PurpleSnowman
+Topic: they open sourced the google search code for a couple of minutes and there was a whole bunch of data they were tracking for every search. (hovering and time hovering over links was one of them).
+
+It probably won't be a success, but definitely worth a shot
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: pory1089
+Topic: TonyTao said:
+Hi everyone,
+I plan to make a bot that automatically creates a profile (with its own parameters, its own proxy like gologin, multi login,...)
+then searches for keywords and clicks on my website.
+Is this effective for SEO?
+Has anyone tried it?
+I see people doing it on microjob websites. it seems to be making them money because it's natural, but I don't think google is this dumb.
+Liked by: TonyTao
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: TonyTao
+Topic: Funiki said:
+Are you planning to code with Python ?
+I am do it by C#, but I can use Python? what difference?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TonyTao
+Topic: PurpleSnowman said:
+they open sourced the google search code for a couple of minutes and there was a whole bunch of data they were tracking for every search. (hovering and time hovering over links was one of them).
+
+It probably won't be a success, but definitely worth a shot
+thank you
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TonyTao
+Topic: kmii said:
+You can use tools and scripts to automate that. I’ve seen that both Gologin and Hidemium can do it, but Gologin tends to be more expensive
+I have built a tool to do this with Gologin, Also build tool to register new gmail automatic, but it not works
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: iAutoBot
+Topic: It won't work dont waste your time
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TOR SEO
+Topic: py always OP & go is super se##y language idk about c# a lot but you can go for py for this works
+Liked by: TonyTao
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Dr Google ads
+Topic: Using robots that automatically create accounts, search for keywords, and click on your website is ineffective and even harmful to SEO. Search engines will detect this unnatural traffic and may cause rankings to drop or even be de-indexed. In the long run, this behavior cannot improve the quality of the website, but may lead to penalties.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TonyTao
+Topic: iAutoBot said:
+It won't work dont waste your time
+Why bro?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TonyTao
+Topic: Dr Google ads said:
+Using robots that automatically create accounts, search for keywords, and click on your website is ineffective and even harmful to SEO. Search engines will detect this unnatural traffic and may cause rankings to drop or even be de-indexed. In the long run, this behavior cannot improve the quality of the website, but may lead to penalties.
+Can build tool to register gmail automatic? based on the tool?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TonyTao
+Topic: kmii said:
+Have you contacted technical support yet? Previously, I used Gologin but faced many issues, so recently I switched to Hidemium. I find it runs smoothly, is affordable, and the technical support is very responsive.
+Can you register mails bulk automatic with Hidemium?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: VitaBazan
+Topic: A strong factor,
+If the bot can reflect some cookies[social media/E-commerce platform or some other good reputed forum or website] before landing or after being on your website.
+It seems more natural to google
+Liked by: TonyTao
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: TonyTao
+Topic: VitaBazan said:
+A strong factor,
+If the bot can reflect some cookies[social media/E-commerce platform or some other good reputed forum or website] before landing or after being on your website.
+It seems more natural to google
+I have tried it but not works
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: DunderMannen
+Topic: Very tough to slide under the radar of Google's bot protection - but sure it's possible! A lot of CTR-services out there already, perhaps try them and see if you can find what they do?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TOR SEO
+Topic: you can be gen Gmail using emulator plus simple py automation i mean nox mimuplayer
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TonyTao
+Topic: DunderMannen said:
+Very tough to slide under the radar of Google's bot protection - but sure it's possible! A lot of CTR-services out there already, perhaps try them and see if you can find what they do?
+Thanks bro!
+What is CTR-services?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Katekinder
+Topic: Google's anti-bot says hi.
+Liked by: TonyTao
+Number of likes: 1
+-----
+
+Replies:
+
+

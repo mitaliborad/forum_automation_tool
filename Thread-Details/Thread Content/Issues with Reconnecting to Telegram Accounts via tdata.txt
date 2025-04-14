@@ -1,0 +1,71 @@
+--- Main Post Title ---
+Issues with Reconnecting to Telegram Accounts via tdata
+
+Total comments in the thread: 6
+
+Topic User: ollypoodel
+Topic: Hi,
+
+I recently purchased Telegram profiles from a global provider.
+The connection process involved them providing me with a phone number, and when I logged in, they shared the verification code with me.
+
+I’m looking for a reliable way to save the profile data, like the tdata, so I can reconnect to the account in case it gets logged out.
+I’ve tried saving the tdata folder downloaded to my computer when logging in through the portable version of Telegram. However, it only works for the initial login session and doesn’t allow me to reconnect later.
+
+I’d appreciate suggestions or methods to solve this issue.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Webmastermarket
+Topic: Bu mümkün değil. Telefon numarasına erişmeniz gerekiyor.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Funiki
+Topic: Webmastermarket said:
+Bu mümkün değil. Telefon numarasına erişmeniz gerekiyor.
+English , please
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Webmastermarket
+Topic: This is not possible. You need access to the phone number
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: andreitek
+Topic: its because accounts die after you open them or you session get killed by the seller...try another seller and see if this changes
+Telegram Bot Development | Telegram Fresh/Aged Accounts | Telegram Mass DM
+Contact: @Aeoliannbot
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Andy Henderson
+Topic: Using cloud phones can indeed help you achieve multi-account login for Telegram.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

@@ -1,0 +1,95 @@
+2025-03-08 12:50:24,143 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250308_125024.log
+2025-03-08 12:50:24,189 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-08 12:50:24,276 - INFO - Loaded 102 visited threads from Thread_links.txt
+2025-03-08 12:50:24,277 - INFO - Successfully loaded links that was already visited!
+2025-03-08 12:50:24,278 - DEBUG - Scrolling page 3 times.
+2025-03-08 12:50:24,278 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:30,423 - DEBUG - Page scrolled.
+2025-03-08 12:50:32,426 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:33,620 - DEBUG - Page scrolled.
+2025-03-08 12:50:35,623 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:37,289 - DEBUG - Page scrolled.
+2025-03-08 12:50:39,292 - DEBUG - Random scrolls complete.
+2025-03-08 12:50:39,294 - DEBUG - Scrolling page 3 times.
+2025-03-08 12:50:39,295 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:41,011 - DEBUG - Page scrolled.
+2025-03-08 12:50:43,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:44,729 - DEBUG - Page scrolled.
+2025-03-08 12:50:46,732 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:47,826 - DEBUG - Page scrolled.
+2025-03-08 12:50:49,829 - DEBUG - Random scrolls complete.
+2025-03-08 12:50:59,439 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-03-08 12:51:03,398 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/five-best-companies-for-full-stack-developers.1630324/unread
+2025-03-08 12:51:12,303 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/five-best-companies-for-full-stack-developers.1630324/unread
+2025-03-08 12:51:12,308 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/five-best-companies-for-full-stack-developers.1630324/unread' to visited threads file 'Thread_links.txt'.
+2025-03-08 12:51:12,353 - INFO - Extracted thread title: Five Best Companies for Full Stack Developers
+2025-03-08 12:51:12,355 - DEBUG - Scrolling page 2 times.
+2025-03-08 12:51:12,355 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:13,392 - DEBUG - Page scrolled.
+2025-03-08 12:51:15,394 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:16,595 - DEBUG - Page scrolled.
+2025-03-08 12:51:18,596 - DEBUG - Random scrolls complete.
+2025-03-08 12:51:21,369 - DEBUG - Scrolling page 1 times.
+2025-03-08 12:51:21,371 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:22,397 - DEBUG - Page scrolled.
+2025-03-08 12:51:25,399 - DEBUG - Random scrolls complete.
+2025-03-08 12:51:25,433 - DEBUG - Found 2 like buttons.
+2025-03-08 12:51:28,435 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-08 12:51:29,335 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-08 12:51:29,360 - INFO - Like button clicked successfully using JavaScript.
+2025-03-08 12:51:29,361 - DEBUG - Liked post number 1 of 2.
+2025-03-08 12:51:34,294 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-08 12:51:34,343 - INFO - Like button clicked successfully using JavaScript.
+2025-03-08 12:51:34,344 - DEBUG - Liked post number 2 of 2.
+2025-03-08 12:51:38,799 - INFO - Liked 2 posts successfully.
+2025-03-08 12:51:38,800 - INFO - Liked 2 posts successfully.
+2025-03-08 12:51:38,801 - DEBUG - Scrolling page 7 times.
+2025-03-08 12:51:38,802 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:40,410 - DEBUG - Page scrolled.
+2025-03-08 12:51:43,411 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:45,313 - DEBUG - Page scrolled.
+2025-03-08 12:51:48,315 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:49,948 - DEBUG - Page scrolled.
+2025-03-08 12:51:52,949 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:54,450 - DEBUG - Page scrolled.
+2025-03-08 12:51:57,453 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:58,659 - DEBUG - Page scrolled.
+2025-03-08 12:52:01,674 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:52:03,159 - DEBUG - Page scrolled.
+2025-03-08 12:52:06,162 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:52:07,564 - DEBUG - Page scrolled.
+2025-03-08 12:52:10,567 - DEBUG - Random scrolls complete.
+2025-03-08 12:52:12,970 - DEBUG - Total comments in the thread: 2
+2025-03-08 12:52:16,260 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Five Best Companies for Full Stack Developers.txt
+2025-03-08 12:52:19,073 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-08 12:52:19,122 - DEBUG - Extracted main post content: Here are five standout full-stack development companies offering custom software and digital services:
+
+CONTUS Tech: Provides scalable, fast, and reliable digital solutions at competitive prices.
+ELEKS: Specializes in innovative software for complex, enterprise-level projects.
+Altoros: Focuses on cloud-native development, DevOps, and machine learning expertise.
+SimbirSoft: Delivers full-cycle development with a strong commitment to quality assurance
+Netguru: Agile-focused development with a strong emphasis on design and user-centric apps.
+2025-03-08 12:52:23,852 - INFO - Successfully generated comments using Gemini API.
+2025-03-08 12:52:23,854 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-08 12:52:26,578 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:52:26,582 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:52:26,618 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:52:26,663 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:52:26,672 - DEBUG - Text box scrolled into view
+2025-03-08 12:52:27,470 - DEBUG - Initializing actionchains
+2025-03-08 12:52:27,568 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1762}, size: {'height': 21, 'width': 68}
+2025-03-08 12:52:27,569 - DEBUG - Target click coordinates: (1121, 1772)
+2025-03-08 12:52:34,824 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-08 12:52:34,828 - DEBUG - Moving mouse to text box element.
+2025-03-08 12:52:34,830 - DEBUG - Clicking on the text box.
+2025-03-08 12:52:34,833 - DEBUG - Sending keys with content: Interesting, thanks for the list! Have you worked with any of these companies personally, and if so, what was your experience?
+
+2025-03-08 12:52:40,299 - DEBUG - Clicking on post reply button.
+2025-03-08 12:52:51,281 - DEBUG - Performed Actionchains
+2025-03-08 12:52:51,282 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-08 12:52:55,284 - INFO - Comment posted successfully.
+2025-03-08 12:52:55,287 - INFO - Task Completed!!
+2025-03-08 12:53:01,950 - INFO - Navigated back to the homepage.
+2025-03-08 12:53:04,163 - INFO - Attempting to clear memory and resources.
+2025-03-08 12:53:04,217 - INFO - Garbage collection completed.
+2025-03-08 12:53:04,218 - INFO - Waiting for 10 seconds before next execution.

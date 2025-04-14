@@ -1,0 +1,93 @@
+2025-04-10 10:00:30,424 - INFO - Current time: 1744259430.424859
+2025-04-10 10:00:30,427 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 10:00:30,429 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 10:00:30,432 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-10 10:00:30,436 - INFO - Profile PhantomRoot: Window minimized. Pausing for 19.14 seconds...
+2025-04-10 10:00:49,579 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-10 10:00:49,581 - INFO - performing random action
+2025-04-10 10:00:49,582 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:00:49,583 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:00:49,584 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:00:50,880 - DEBUG - Page scrolled.
+2025-04-10 10:00:52,882 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:00:54,426 - DEBUG - Page scrolled.
+2025-04-10 10:00:56,428 - DEBUG - Random scrolls complete.
+2025-04-10 10:00:56,431 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:00:56,433 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:00:58,220 - DEBUG - Page scrolled.
+2025-04-10 10:01:00,222 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:01:01,495 - DEBUG - Page scrolled.
+2025-04-10 10:01:03,496 - DEBUG - Random scrolls complete.
+2025-04-10 10:01:14,456 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-04-10 10:01:17,784 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-much-is-it-worth-6-months-old-linkedin-accounts.1690301/unread
+2025-04-10 10:01:17,785 - INFO - performing random action
+2025-04-10 10:01:26,907 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-much-is-it-worth-6-months-old-linkedin-accounts.1690301/unread
+2025-04-10 10:01:26,910 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-much-is-it-worth-6-months-old-linkedin-accounts.1690301/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:01:26,953 - INFO - Extracted thread title: How much is it worth 6 months old linkedin accounts 
+2025-04-10 10:01:26,955 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:01:26,955 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:01:28,013 - DEBUG - Page scrolled.
+2025-04-10 10:01:30,016 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:01:31,987 - DEBUG - Page scrolled.
+2025-04-10 10:01:33,989 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:01:35,936 - DEBUG - Page scrolled.
+2025-04-10 10:01:37,938 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:01:39,323 - DEBUG - Page scrolled.
+2025-04-10 10:01:41,326 - DEBUG - Random scrolls complete.
+2025-04-10 10:01:43,948 - DEBUG - Scrolling page 1 times.
+2025-04-10 10:01:43,950 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:01:45,191 - DEBUG - Page scrolled.
+2025-04-10 10:01:48,193 - DEBUG - Random scrolls complete.
+2025-04-10 10:01:48,215 - DEBUG - Found 9 like buttons.
+2025-04-10 10:01:51,216 - INFO - Attempting to like 2 posts. There are 9 available.
+2025-04-10 10:01:52,191 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:01:52,222 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:01:52,224 - DEBUG - Liked post number 1 of 2.
+2025-04-10 10:01:57,793 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:01:57,803 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:01:57,804 - DEBUG - Liked post number 2 of 2.
+2025-04-10 10:02:02,625 - INFO - Liked 2 posts successfully.
+2025-04-10 10:02:02,627 - INFO - Liked 2 posts successfully.
+2025-04-10 10:02:04,909 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-10 10:02:13,734 - INFO - Profile PhantomRoot: Pausing for 45.47 seconds...
+2025-04-10 10:02:59,203 - INFO - Profile PhantomRoot: Resuming...
+2025-04-10 10:02:59,227 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-10 10:02:59,228 - INFO - performing random action
+2025-04-10 10:02:59,228 - DEBUG - Scrolling page 3 times.
+2025-04-10 10:02:59,229 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:03:00,407 - DEBUG - Page scrolled.
+2025-04-10 10:03:03,408 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:03:04,462 - DEBUG - Page scrolled.
+2025-04-10 10:03:07,464 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:03:08,708 - DEBUG - Page scrolled.
+2025-04-10 10:03:11,710 - DEBUG - Random scrolls complete.
+2025-04-10 10:03:14,204 - DEBUG - Total comments in the thread: 9
+2025-04-10 10:04:27,242 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How much is it worth 6 months old linkedin accounts .txt
+2025-04-10 10:04:29,445 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:04:29,496 - DEBUG - Extracted main post content: Hi , may i know average How much is it worth 6 months old linkedin accounts ? thanks
+2025-04-10 10:04:33,290 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:04:33,293 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:04:35,414 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-10 10:04:37,424 - INFO - performing random action
+2025-04-10 10:04:37,452 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:04:37,455 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:04:37,485 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:04:37,526 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:04:37,535 - DEBUG - Text box scrolled into view
+2025-04-10 10:04:38,164 - DEBUG - Initializing actionchains
+2025-04-10 10:04:38,213 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3428}, size: {'height': 21, 'width': 68}
+2025-04-10 10:04:38,214 - DEBUG - Target click coordinates: (1265, 3438)
+2025-04-10 10:04:49,531 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:04:49,534 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:04:49,535 - DEBUG - Clicking on the text box.
+2025-04-10 10:04:49,545 - DEBUG - Sending keys with content: Honestly, it depends on how active they are and the connections they've got. Are they just sitting there, or have they been used regularly?
+
+2025-04-10 10:04:55,018 - DEBUG - Clicking on post reply button.
+2025-04-10 10:04:56,359 - DEBUG - Performed Actionchains
+2025-04-10 10:04:56,361 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:05:00,364 - INFO - Comment posted successfully.
+2025-04-10 10:05:00,366 - INFO - Task Completed!!
+2025-04-10 10:05:00,472 - INFO - Navigated back to the homepage.
+2025-04-10 10:05:03,065 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:05:03,135 - INFO - Garbage collection completed.
+2025-04-10 10:05:03,142 - INFO - Waiting for 1850 seconds before next execution.

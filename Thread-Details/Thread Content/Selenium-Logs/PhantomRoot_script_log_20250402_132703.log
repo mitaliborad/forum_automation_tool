@@ -1,0 +1,37 @@
+2025-04-02 13:27:03,782 - INFO - Current time: 1743580623.78201
+2025-04-02 13:27:03,783 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:27:03,784 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:27:03,784 - INFO - performing random action
+2025-04-02 13:27:03,786 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:27:03,787 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:27:03,787 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:27:05,275 - DEBUG - Page scrolled.
+2025-04-02 13:27:07,278 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:27:08,356 - DEBUG - Page scrolled.
+2025-04-02 13:27:10,357 - DEBUG - Random scrolls complete.
+2025-04-02 13:27:10,360 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:27:10,362 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:27:11,869 - DEBUG - Page scrolled.
+2025-04-02 13:27:13,871 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:27:14,902 - DEBUG - Page scrolled.
+2025-04-02 13:27:16,905 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:27:18,596 - DEBUG - Page scrolled.
+2025-04-02 13:27:20,599 - DEBUG - Random scrolls complete.
+2025-04-02 13:27:27,420 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-04-02 13:27:37,786 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:27:37,801 - INFO - Profile PhantomRoot: Pausing for 46.99 seconds...
+2025-04-02 13:28:24,795 - INFO - Profile PhantomRoot: Resuming...
+2025-04-02 13:28:24,798 - INFO - performing random action
+2025-04-02 13:28:24,800 - WARNING - Skipping thread processing due to no thread link being found in subforum.

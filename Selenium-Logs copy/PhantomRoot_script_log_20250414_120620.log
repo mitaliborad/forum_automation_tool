@@ -1,0 +1,102 @@
+2025-04-14 12:06:20,699 - INFO - Current time: 1744612580.6988547
+2025-04-14 12:06:20,702 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 12:06:20,704 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 12:06:20,705 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-14 12:06:20,712 - INFO - Profile PhantomRoot: Window minimized. Pausing for 21.10 seconds...
+2025-04-14 12:06:41,823 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-14 12:06:41,825 - INFO - performing random action
+2025-04-14 12:06:41,828 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:06:41,830 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:06:41,832 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:06:42,971 - DEBUG - Page scrolled.
+2025-04-14 12:06:44,973 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:06:45,992 - DEBUG - Page scrolled.
+2025-04-14 12:06:47,993 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:06:49,548 - DEBUG - Page scrolled.
+2025-04-14 12:06:51,551 - DEBUG - Random scrolls complete.
+2025-04-14 12:06:51,552 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:06:51,554 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:06:53,523 - DEBUG - Page scrolled.
+2025-04-14 12:06:55,524 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:06:56,611 - DEBUG - Page scrolled.
+2025-04-14 12:06:58,612 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:07:00,568 - DEBUG - Page scrolled.
+2025-04-14 12:07:02,571 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:07:03,748 - DEBUG - Page scrolled.
+2025-04-14 12:07:05,752 - DEBUG - Random scrolls complete.
+2025-04-14 12:07:17,935 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-04-14 12:07:21,916 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/google-voice-number-site.1519571/unread
+2025-04-14 12:07:21,917 - INFO - Profile PhantomRoot: Pausing for 31.15 seconds...
+2025-04-14 12:07:53,070 - INFO - Profile PhantomRoot: Resuming...
+2025-04-14 12:07:53,075 - INFO - performing random action
+2025-04-14 12:08:03,682 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/google-voice-number-site.1519571/unread
+2025-04-14 12:08:03,686 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/google-voice-number-site.1519571/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:08:03,764 - INFO - Extracted thread title: Google voice number site
+2025-04-14 12:08:03,765 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:08:03,765 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:05,540 - DEBUG - Page scrolled.
+2025-04-14 12:08:07,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:08,790 - DEBUG - Page scrolled.
+2025-04-14 12:08:10,792 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:12,506 - DEBUG - Page scrolled.
+2025-04-14 12:08:14,510 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:16,089 - DEBUG - Page scrolled.
+2025-04-14 12:08:18,090 - DEBUG - Random scrolls complete.
+2025-04-14 12:08:20,845 - DEBUG - Scrolling page 1 times.
+2025-04-14 12:08:20,847 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:22,607 - DEBUG - Page scrolled.
+2025-04-14 12:08:25,613 - DEBUG - Random scrolls complete.
+2025-04-14 12:08:25,665 - DEBUG - Found 20 like buttons.
+2025-04-14 12:08:28,667 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-14 12:08:29,216 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:08:29,254 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:08:29,256 - DEBUG - Liked post number 1 of 4.
+2025-04-14 12:08:34,267 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:08:34,290 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:08:34,294 - DEBUG - Liked post number 2 of 4.
+2025-04-14 12:08:39,813 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:08:39,834 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:08:39,840 - DEBUG - Liked post number 3 of 4.
+2025-04-14 12:08:45,490 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:08:45,518 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:08:45,520 - DEBUG - Liked post number 4 of 4.
+2025-04-14 12:08:49,863 - INFO - Liked 4 posts successfully.
+2025-04-14 12:08:49,864 - INFO - Liked 4 posts successfully.
+2025-04-14 12:08:52,670 - INFO - performing random action
+2025-04-14 12:08:52,672 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:08:52,673 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:54,477 - DEBUG - Page scrolled.
+2025-04-14 12:08:57,479 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:58,848 - DEBUG - Page scrolled.
+2025-04-14 12:09:01,851 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:09:03,081 - DEBUG - Page scrolled.
+2025-04-14 12:09:06,082 - DEBUG - Random scrolls complete.
+2025-04-14 12:09:08,756 - DEBUG - Total comments in the thread: 20
+2025-04-14 12:11:01,898 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Google voice number site.txt
+2025-04-14 12:11:03,933 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:11:04,025 - DEBUG - Extracted main post content: Last few days. I can't create google voice accounts for number sites. Please help me and suggest me where I can get google voice numbers with cheap rate. Please help
+2025-04-14 12:11:07,797 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:11:07,799 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:11:10,796 - INFO - performing random action
+2025-04-14 12:11:10,797 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:11:10,801 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:11:10,846 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:11:10,994 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:11:11,015 - DEBUG - Text box scrolled into view
+2025-04-14 12:11:12,007 - DEBUG - Initializing actionchains
+2025-04-14 12:11:12,083 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6316}, size: {'height': 21, 'width': 68}
+2025-04-14 12:11:12,084 - DEBUG - Target click coordinates: (1265, 6326)
+2025-04-14 12:11:29,266 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:11:29,268 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:11:29,269 - DEBUG - Clicking on the text box.
+2025-04-14 12:11:29,272 - DEBUG - Sending keys with content: Honestly, getting GV numbers cheap these days is tough. Have you looked into alternatives like virtual phone services? They might be more reliable.
+
+2025-04-14 12:11:34,895 - DEBUG - Clicking on post reply button.
+2025-04-14 12:11:46,053 - DEBUG - Performed Actionchains
+2025-04-14 12:11:46,054 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:11:50,059 - INFO - Comment posted successfully.
+2025-04-14 12:11:50,060 - INFO - Task Completed!!
+2025-04-14 12:12:00,986 - INFO - Navigated back to the homepage.
+2025-04-14 12:12:03,564 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:12:03,640 - INFO - Garbage collection completed.
+2025-04-14 12:12:03,642 - INFO - Waiting for 2200 seconds before next execution.

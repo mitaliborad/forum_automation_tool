@@ -1,0 +1,95 @@
+2025-03-10 11:22:45,058 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250310_112245.log
+2025-03-10 11:22:45,064 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-10 11:22:45,074 - INFO - Loaded 105 visited threads from Thread_links.txt
+2025-03-10 11:22:45,075 - INFO - Successfully loaded links that was already visited!
+2025-03-10 11:22:45,076 - DEBUG - Scrolling page 4 times.
+2025-03-10 11:22:45,077 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:22:53,033 - DEBUG - Page scrolled.
+2025-03-10 11:22:55,034 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:22:56,678 - DEBUG - Page scrolled.
+2025-03-10 11:22:58,682 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:23:00,357 - DEBUG - Page scrolled.
+2025-03-10 11:23:02,359 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:23:03,646 - DEBUG - Page scrolled.
+2025-03-10 11:23:05,647 - DEBUG - Random scrolls complete.
+2025-03-10 11:23:05,649 - DEBUG - Scrolling page 4 times.
+2025-03-10 11:23:05,652 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:23:07,574 - DEBUG - Page scrolled.
+2025-03-10 11:23:09,577 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:23:10,691 - DEBUG - Page scrolled.
+2025-03-10 11:23:12,693 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:23:14,276 - DEBUG - Page scrolled.
+2025-03-10 11:23:16,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:23:17,822 - DEBUG - Page scrolled.
+2025-03-10 11:23:19,824 - DEBUG - Random scrolls complete.
+2025-03-10 11:23:34,954 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-03-10 11:23:39,744 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-tools-for-ai-interview-practice-any-recommendations.1693201/unread
+2025-03-10 11:23:50,580 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-tools-for-ai-interview-practice-any-recommendations.1693201/unread
+2025-03-10 11:23:50,581 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-tools-for-ai-interview-practice-any-recommendations.1693201/unread' to visited threads file 'Thread_links.txt'.
+2025-03-10 11:23:50,615 - INFO - Extracted thread title: Best Tools for AI Interview Practice – Any Recommendations
+2025-03-10 11:23:50,622 - DEBUG - Scrolling page 4 times.
+2025-03-10 11:23:50,622 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:23:52,265 - DEBUG - Page scrolled.
+2025-03-10 11:23:54,267 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:23:55,615 - DEBUG - Page scrolled.
+2025-03-10 11:23:57,618 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:23:58,932 - DEBUG - Page scrolled.
+2025-03-10 11:24:00,933 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:24:02,666 - DEBUG - Page scrolled.
+2025-03-10 11:24:04,677 - DEBUG - Random scrolls complete.
+2025-03-10 11:24:07,645 - DEBUG - Scrolling page 2 times.
+2025-03-10 11:24:07,645 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:24:09,167 - DEBUG - Page scrolled.
+2025-03-10 11:24:12,168 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:24:13,326 - DEBUG - Page scrolled.
+2025-03-10 11:24:16,329 - DEBUG - Random scrolls complete.
+2025-03-10 11:24:16,371 - DEBUG - Found 10 like buttons.
+2025-03-10 11:24:19,372 - INFO - Attempting to like 2 posts. There are 10 available.
+2025-03-10 11:24:20,319 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 11:24:20,342 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 11:24:20,343 - DEBUG - Liked post number 1 of 2.
+2025-03-10 11:24:25,675 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 11:24:25,707 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 11:24:25,711 - DEBUG - Liked post number 2 of 2.
+2025-03-10 11:24:29,728 - INFO - Liked 2 posts successfully.
+2025-03-10 11:24:29,733 - INFO - Liked 2 posts successfully.
+2025-03-10 11:24:29,736 - DEBUG - Scrolling page 5 times.
+2025-03-10 11:24:29,737 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:24:31,003 - DEBUG - Page scrolled.
+2025-03-10 11:24:34,006 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:24:35,913 - DEBUG - Page scrolled.
+2025-03-10 11:24:38,915 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:24:40,707 - DEBUG - Page scrolled.
+2025-03-10 11:24:43,708 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:24:45,436 - DEBUG - Page scrolled.
+2025-03-10 11:24:48,439 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 11:24:49,711 - DEBUG - Page scrolled.
+2025-03-10 11:24:52,712 - DEBUG - Random scrolls complete.
+2025-03-10 11:24:54,832 - DEBUG - Total comments in the thread: 10
+2025-03-10 11:25:27,082 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Best Tools for AI Interview Practice – Any Recommendations.txt
+2025-03-10 11:25:29,506 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-10 11:25:29,534 - DEBUG - Extracted main post content: I’m preparing for job interviews and looking for the best AI Interview Practice tools. I want something that can provide real-time feedback, assess my answers, and help me refine my communication skills. Has anyone used an AI tool for interview practice? Which one do you recommend? Would love to hear your experiences!
+2025-03-10 11:25:33,148 - INFO - Successfully generated comments using Gemini API.
+2025-03-10 11:25:33,151 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-10 11:25:35,934 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:25:35,935 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:25:35,955 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:25:36,043 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 11:25:36,056 - DEBUG - Text box scrolled into view
+2025-03-10 11:25:36,761 - DEBUG - Initializing actionchains
+2025-03-10 11:25:36,787 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3688}, size: {'height': 21, 'width': 68}
+2025-03-10 11:25:36,788 - DEBUG - Target click coordinates: (1121, 3698)
+2025-03-10 11:25:48,273 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-10 11:25:48,274 - DEBUG - Moving mouse to text box element.
+2025-03-10 11:25:48,275 - DEBUG - Clicking on the text box.
+2025-03-10 11:25:48,276 - DEBUG - Sending keys with content: I've been using Yoodli, and it's surprisingly helpful for catching filler words I didn't even realize I was using. It's not perfect, but it's worth checking out.
+
+2025-03-10 11:25:54,147 - DEBUG - Clicking on post reply button.
+2025-03-10 11:26:05,295 - DEBUG - Performed Actionchains
+2025-03-10 11:26:05,296 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-10 11:26:09,298 - INFO - Comment posted successfully.
+2025-03-10 11:26:09,300 - INFO - Task Completed!!
+2025-03-10 11:26:22,293 - INFO - Navigated back to the homepage.
+2025-03-10 11:26:25,048 - INFO - Attempting to clear memory and resources.
+2025-03-10 11:26:25,094 - INFO - Garbage collection completed.
+2025-03-10 11:26:25,095 - INFO - Waiting for 10 seconds before next execution.

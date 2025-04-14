@@ -1,0 +1,110 @@
+2025-03-13 15:42:34,231 - INFO - Starting new automation task. Log file created at: Selenium-Logs\ZeroDayHunter_script_log_20250313_154234.log
+2025-03-13 15:42:50,618 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:42:50,620 - INFO - Loaded 201 visited threads from Thread_links.txt
+2025-03-13 15:42:50,621 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:43:04,574 - DEBUG - Scrolling page 5 times.
+2025-03-13 15:43:04,575 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:05,977 - DEBUG - Page scrolled.
+2025-03-13 15:43:07,980 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:09,835 - DEBUG - Page scrolled.
+2025-03-13 15:43:11,838 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:13,164 - DEBUG - Page scrolled.
+2025-03-13 15:43:15,166 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:16,669 - DEBUG - Page scrolled.
+2025-03-13 15:43:18,671 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:19,786 - DEBUG - Page scrolled.
+2025-03-13 15:43:21,787 - DEBUG - Random scrolls complete.
+2025-03-13 15:43:21,788 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:43:21,791 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:23,717 - DEBUG - Page scrolled.
+2025-03-13 15:43:25,720 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:26,850 - DEBUG - Page scrolled.
+2025-03-13 15:43:28,852 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:30,298 - DEBUG - Page scrolled.
+2025-03-13 15:43:32,300 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:33,972 - DEBUG - Page scrolled.
+2025-03-13 15:43:35,976 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:37,139 - DEBUG - Page scrolled.
+2025-03-13 15:43:39,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:40,718 - DEBUG - Page scrolled.
+2025-03-13 15:43:42,720 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:43:43,941 - DEBUG - Page scrolled.
+2025-03-13 15:43:45,946 - DEBUG - Random scrolls complete.
+2025-03-13 15:43:49,819 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-13 15:43:54,812 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-need-somebody-to-help-withdraw-my-stripe-funds-that-are-locked-and-have-passed-180-days.1693600/unread
+2025-03-13 15:44:02,984 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-need-somebody-to-help-withdraw-my-stripe-funds-that-are-locked-and-have-passed-180-days.1693600/unread
+2025-03-13 15:44:02,990 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-need-somebody-to-help-withdraw-my-stripe-funds-that-are-locked-and-have-passed-180-days.1693600/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:44:03,042 - INFO - Extracted thread title: I need somebody to help withdraw my Stripe funds that are locked and have passed 180 days.
+2025-03-13 15:44:03,043 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:44:03,044 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:04,935 - DEBUG - Page scrolled.
+2025-03-13 15:44:06,947 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:08,819 - DEBUG - Page scrolled.
+2025-03-13 15:44:10,822 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:12,287 - DEBUG - Page scrolled.
+2025-03-13 15:44:14,290 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:15,919 - DEBUG - Page scrolled.
+2025-03-13 15:44:17,921 - DEBUG - Random scrolls complete.
+2025-03-13 15:44:20,903 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:44:20,904 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:21,956 - DEBUG - Page scrolled.
+2025-03-13 15:44:24,959 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:26,884 - DEBUG - Page scrolled.
+2025-03-13 15:44:29,888 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:31,673 - DEBUG - Page scrolled.
+2025-03-13 15:44:34,674 - DEBUG - Random scrolls complete.
+2025-03-13 15:44:34,704 - DEBUG - Found 5 like buttons.
+2025-03-13 15:44:37,705 - INFO - Attempting to like 3 posts. There are 5 available.
+2025-03-13 15:44:38,599 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:44:38,631 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:44:38,633 - DEBUG - Liked post number 1 of 3.
+2025-03-13 15:44:43,542 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:44:43,554 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:44:43,555 - DEBUG - Liked post number 2 of 3.
+2025-03-13 15:44:49,051 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:44:49,072 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:44:49,074 - DEBUG - Liked post number 3 of 3.
+2025-03-13 15:44:53,403 - INFO - Liked 3 posts successfully.
+2025-03-13 15:44:53,406 - INFO - Liked 3 posts successfully.
+2025-03-13 15:44:56,391 - DEBUG - Scrolling page 5 times.
+2025-03-13 15:44:56,393 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:44:57,748 - DEBUG - Page scrolled.
+2025-03-13 15:45:00,750 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:02,499 - DEBUG - Page scrolled.
+2025-03-13 15:45:05,500 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:07,215 - DEBUG - Page scrolled.
+2025-03-13 15:45:10,217 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:12,068 - DEBUG - Page scrolled.
+2025-03-13 15:45:15,070 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:45:16,354 - DEBUG - Page scrolled.
+2025-03-13 15:45:19,356 - DEBUG - Random scrolls complete.
+2025-03-13 15:45:21,533 - DEBUG - Total comments in the thread: 5
+2025-03-13 15:45:42,862 - INFO - Post content extracted and saved to Thread-Details/Thread Content\I need somebody to help withdraw my Stripe funds that are locked and have passed 180 days..txt
+2025-03-13 15:46:04,001 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:46:04,060 - DEBUG - Extracted main post content: I have an account with available balance on Stripe and funds that have been locked for over 180 days now. I am unable to withdraw it for some reason and stripe customer support is not helping. Any advice or help would be much appreciated. thanks
+Attachments
+Screenshot 2025-03-08 at 2.32.52 PM.png
+2025-03-13 15:46:08,702 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:46:08,706 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:46:11,446 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:46:11,449 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:46:11,490 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:46:11,549 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:46:11,560 - DEBUG - Text box scrolled into view
+2025-03-13 15:46:12,128 - DEBUG - Initializing actionchains
+2025-03-13 15:46:12,178 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2635}, size: {'height': 21, 'width': 68}
+2025-03-13 15:46:12,179 - DEBUG - Target click coordinates: (1121, 2645)
+2025-03-13 15:46:20,974 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:46:20,976 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:46:20,978 - DEBUG - Clicking on the text box.
+2025-03-13 15:46:20,981 - DEBUG - Sending keys with content: Ugh, Stripe hold times are the worst. Have you tried escalating your support ticket or reaching out on Twitter? Sometimes a little public pressure helps.
+
+2025-03-13 15:46:26,077 - DEBUG - Clicking on post reply button.
+2025-03-13 15:46:37,355 - DEBUG - Performed Actionchains
+2025-03-13 15:46:37,357 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:46:41,362 - INFO - Comment posted successfully.
+2025-03-13 15:46:41,363 - INFO - Task Completed!!
+2025-03-13 15:46:47,125 - INFO - Navigated back to the homepage.
+2025-03-13 15:46:49,778 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:46:49,826 - INFO - Garbage collection completed.
+2025-03-13 15:46:49,827 - INFO - Waiting for 10 seconds before next execution.

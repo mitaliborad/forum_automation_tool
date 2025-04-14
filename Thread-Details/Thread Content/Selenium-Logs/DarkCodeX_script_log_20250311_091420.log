@@ -1,0 +1,108 @@
+2025-03-11 09:14:20,252 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_091420.log
+2025-03-11 09:14:20,275 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 09:14:20,321 - INFO - Loaded 115 visited threads from Thread_links.txt
+2025-03-11 09:14:20,322 - INFO - Successfully loaded links that was already visited!
+2025-03-11 09:14:20,322 - DEBUG - Scrolling page 6 times.
+2025-03-11 09:14:20,323 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:21,844 - DEBUG - Page scrolled.
+2025-03-11 09:14:23,846 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:25,175 - DEBUG - Page scrolled.
+2025-03-11 09:14:27,177 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:28,665 - DEBUG - Page scrolled.
+2025-03-11 09:14:30,666 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:31,770 - DEBUG - Page scrolled.
+2025-03-11 09:14:33,773 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:35,526 - DEBUG - Page scrolled.
+2025-03-11 09:14:37,530 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:38,699 - DEBUG - Page scrolled.
+2025-03-11 09:14:40,701 - DEBUG - Random scrolls complete.
+2025-03-11 09:14:40,703 - DEBUG - Scrolling page 7 times.
+2025-03-11 09:14:40,705 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:42,017 - DEBUG - Page scrolled.
+2025-03-11 09:14:44,020 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:45,322 - DEBUG - Page scrolled.
+2025-03-11 09:14:47,324 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:48,522 - DEBUG - Page scrolled.
+2025-03-11 09:14:50,524 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:52,224 - DEBUG - Page scrolled.
+2025-03-11 09:14:54,226 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:55,540 - DEBUG - Page scrolled.
+2025-03-11 09:14:57,542 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:14:58,683 - DEBUG - Page scrolled.
+2025-03-11 09:15:00,685 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:02,498 - DEBUG - Page scrolled.
+2025-03-11 09:15:04,500 - DEBUG - Random scrolls complete.
+2025-03-11 09:15:19,676 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-11 09:15:25,012 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-make-the-website-rank-1.1694284/unread
+2025-03-11 09:15:37,039 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-make-the-website-rank-1.1694284/unread
+2025-03-11 09:15:37,041 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-make-the-website-rank-1.1694284/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 09:15:37,078 - INFO - Extracted thread title: HOW TO MAKE THE WEBSITE RANK 1
+2025-03-11 09:15:37,082 - DEBUG - Scrolling page 3 times.
+2025-03-11 09:15:37,082 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:38,417 - DEBUG - Page scrolled.
+2025-03-11 09:15:40,418 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:41,702 - DEBUG - Page scrolled.
+2025-03-11 09:15:43,707 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:45,647 - DEBUG - Page scrolled.
+2025-03-11 09:15:47,649 - DEBUG - Random scrolls complete.
+2025-03-11 09:15:50,047 - DEBUG - Scrolling page 3 times.
+2025-03-11 09:15:50,049 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:51,896 - DEBUG - Page scrolled.
+2025-03-11 09:15:54,898 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:15:56,317 - DEBUG - Page scrolled.
+2025-03-11 09:15:59,318 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:16:01,114 - DEBUG - Page scrolled.
+2025-03-11 09:16:04,117 - DEBUG - Random scrolls complete.
+2025-03-11 09:16:04,167 - DEBUG - Found 4 like buttons.
+2025-03-11 09:16:07,171 - INFO - Attempting to like 3 posts. There are 4 available.
+2025-03-11 09:16:07,795 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:16:07,809 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:16:07,810 - DEBUG - Liked post number 1 of 3.
+2025-03-11 09:16:12,947 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:16:12,970 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:16:12,974 - DEBUG - Liked post number 2 of 3.
+2025-03-11 09:16:18,397 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:16:18,419 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:16:18,420 - DEBUG - Liked post number 3 of 3.
+2025-03-11 09:16:22,863 - INFO - Liked 3 posts successfully.
+2025-03-11 09:16:22,864 - INFO - Liked 3 posts successfully.
+2025-03-11 09:16:25,176 - DEBUG - Scrolling page 5 times.
+2025-03-11 09:16:25,178 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:16:26,617 - DEBUG - Page scrolled.
+2025-03-11 09:16:29,623 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:16:30,867 - DEBUG - Page scrolled.
+2025-03-11 09:16:33,869 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:16:35,729 - DEBUG - Page scrolled.
+2025-03-11 09:16:38,731 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:16:40,658 - DEBUG - Page scrolled.
+2025-03-11 09:16:43,661 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:16:45,503 - DEBUG - Page scrolled.
+2025-03-11 09:16:48,506 - DEBUG - Random scrolls complete.
+2025-03-11 09:16:50,999 - DEBUG - Total comments in the thread: 4
+2025-03-11 09:16:51,315 - INFO - Post content extracted and saved to Thread-Details/Thread Content\HOW TO MAKE THE WEBSITE RANK 1.txt
+2025-03-11 09:16:53,894 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 09:16:53,927 - DEBUG - Extracted main post content: Hello Everyone, I am a newbie on SEO. does anyone know how to make my website rank 1? without me having to manually write articles to plant backlinks?
+2025-03-11 09:16:58,407 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 09:16:58,419 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 09:17:00,766 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:17:00,768 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:17:00,801 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:17:00,852 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:17:00,862 - DEBUG - Text box scrolled into view
+2025-03-11 09:17:01,460 - DEBUG - Initializing actionchains
+2025-03-11 09:17:01,497 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3033}, size: {'height': 21, 'width': 68}
+2025-03-11 09:17:01,497 - DEBUG - Target click coordinates: (1121, 3043)
+2025-03-11 09:17:11,242 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 09:17:11,244 - DEBUG - Moving mouse to text box element.
+2025-03-11 09:17:11,246 - DEBUG - Clicking on the text box.
+2025-03-11 09:17:11,250 - DEBUG - Sending keys with content: Ranking number one without any content creation or link building is a tough ask these days, but have you looked into optimizing your existing pages for very specific, long-tail keywords?
+
+2025-03-11 09:17:16,270 - DEBUG - Clicking on post reply button.
+2025-03-11 09:17:27,578 - DEBUG - Performed Actionchains
+2025-03-11 09:17:27,580 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 09:17:31,584 - INFO - Comment posted successfully.
+2025-03-11 09:17:31,587 - INFO - Task Completed!!
+2025-03-11 09:17:41,393 - INFO - Navigated back to the homepage.
+2025-03-11 09:17:44,374 - INFO - Attempting to clear memory and resources.
+2025-03-11 09:17:44,401 - INFO - Garbage collection completed.
+2025-03-11 09:17:44,402 - INFO - Waiting for 1000 seconds before next execution.

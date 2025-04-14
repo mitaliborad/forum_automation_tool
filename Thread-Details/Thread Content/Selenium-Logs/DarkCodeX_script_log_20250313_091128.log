@@ -1,0 +1,108 @@
+2025-03-13 09:11:28,931 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_091128.log
+2025-03-13 09:11:28,956 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 09:11:29,007 - INFO - Loaded 176 visited threads from Thread_links.txt
+2025-03-13 09:11:29,009 - INFO - Successfully loaded links that was already visited!
+2025-03-13 09:11:29,011 - DEBUG - Scrolling page 6 times.
+2025-03-13 09:11:29,011 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:11:50,820 - DEBUG - Page scrolled.
+2025-03-13 09:11:52,822 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:11:54,205 - DEBUG - Page scrolled.
+2025-03-13 09:11:56,207 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:11:57,601 - DEBUG - Page scrolled.
+2025-03-13 09:11:59,603 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:01,364 - DEBUG - Page scrolled.
+2025-03-13 09:12:03,366 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:04,736 - DEBUG - Page scrolled.
+2025-03-13 09:12:06,738 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:08,547 - DEBUG - Page scrolled.
+2025-03-13 09:12:10,549 - DEBUG - Random scrolls complete.
+2025-03-13 09:12:10,551 - DEBUG - Scrolling page 5 times.
+2025-03-13 09:12:10,552 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:12,445 - DEBUG - Page scrolled.
+2025-03-13 09:12:14,447 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:15,602 - DEBUG - Page scrolled.
+2025-03-13 09:12:17,604 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:19,011 - DEBUG - Page scrolled.
+2025-03-13 09:12:21,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:22,287 - DEBUG - Page scrolled.
+2025-03-13 09:12:24,288 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:25,420 - DEBUG - Page scrolled.
+2025-03-13 09:12:27,421 - DEBUG - Random scrolls complete.
+2025-03-13 09:12:32,315 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-03-13 09:12:37,360 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ask-me-about-tik-tok-algorithm.1667020/unread
+2025-03-13 09:12:48,578 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ask-me-about-tik-tok-algorithm.1667020/unread
+2025-03-13 09:12:48,580 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ask-me-about-tik-tok-algorithm.1667020/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 09:12:48,620 - INFO - Extracted thread title: Ask Me About Tik Tok Algorithm
+2025-03-13 09:12:48,621 - DEBUG - Scrolling page 4 times.
+2025-03-13 09:12:48,622 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:50,578 - DEBUG - Page scrolled.
+2025-03-13 09:12:52,580 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:53,804 - DEBUG - Page scrolled.
+2025-03-13 09:12:55,806 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:12:57,151 - DEBUG - Page scrolled.
+2025-03-13 09:12:59,155 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:00,720 - DEBUG - Page scrolled.
+2025-03-13 09:13:02,723 - DEBUG - Random scrolls complete.
+2025-03-13 09:13:04,984 - DEBUG - Scrolling page 2 times.
+2025-03-13 09:13:04,985 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:06,501 - DEBUG - Page scrolled.
+2025-03-13 09:13:09,503 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:10,783 - DEBUG - Page scrolled.
+2025-03-13 09:13:13,784 - DEBUG - Random scrolls complete.
+2025-03-13 09:13:13,829 - DEBUG - Found 20 like buttons.
+2025-03-13 09:13:16,832 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-13 09:13:17,748 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 09:13:17,797 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 09:13:17,800 - DEBUG - Liked post number 1 of 3.
+2025-03-13 09:13:23,150 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 09:13:23,163 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 09:13:23,164 - DEBUG - Liked post number 2 of 3.
+2025-03-13 09:13:28,296 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 09:13:28,319 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 09:13:28,330 - DEBUG - Liked post number 3 of 3.
+2025-03-13 09:13:32,760 - INFO - Liked 3 posts successfully.
+2025-03-13 09:13:32,764 - INFO - Liked 3 posts successfully.
+2025-03-13 09:13:34,816 - DEBUG - Scrolling page 6 times.
+2025-03-13 09:13:34,817 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:36,323 - DEBUG - Page scrolled.
+2025-03-13 09:13:39,325 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:40,986 - DEBUG - Page scrolled.
+2025-03-13 09:13:43,987 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:45,272 - DEBUG - Page scrolled.
+2025-03-13 09:13:48,275 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:50,155 - DEBUG - Page scrolled.
+2025-03-13 09:13:53,174 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:54,540 - DEBUG - Page scrolled.
+2025-03-13 09:13:57,541 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 09:13:58,993 - DEBUG - Page scrolled.
+2025-03-13 09:14:01,996 - DEBUG - Random scrolls complete.
+2025-03-13 09:14:04,148 - DEBUG - Total comments in the thread: 20
+2025-03-13 09:16:19,861 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Ask Me About Tik Tok Algorithm.txt
+2025-03-13 09:16:22,855 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 09:16:22,882 - DEBUG - Extracted main post content: I’ve taken accounts from zero to massive reach and interactions, with multiple accounts hitting the same levels of success. I know the TikTok algorithm can be tricky, but I’m here to answer your questions and help you navigate it to the best of my knowledge.
+
+I’d also love to hear what’s working for you—let’s share ideas and strategies! The new year is here, so let’s crush those goals
+2025-03-13 09:16:27,457 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 09:16:27,468 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 09:16:29,532 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 09:16:29,534 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 09:16:29,568 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 09:16:29,618 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 09:16:29,629 - DEBUG - Text box scrolled into view
+2025-03-13 09:16:30,344 - DEBUG - Initializing actionchains
+2025-03-13 09:16:30,372 - DEBUG - Post reply Element location: {'x': 1087, 'y': 9711}, size: {'height': 21, 'width': 68}
+2025-03-13 09:16:30,373 - DEBUG - Target click coordinates: (1121, 9721)
+2025-03-13 09:16:52,605 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 09:16:52,606 - DEBUG - Moving mouse to text box element.
+2025-03-13 09:16:52,606 - DEBUG - Clicking on the text box.
+2025-03-13 09:16:52,608 - DEBUG - Sending keys with content: What's your take on repurposing content from other platforms? Seen it work, but feels kinda hit or miss sometimes.
+
+2025-03-13 09:16:58,401 - DEBUG - Clicking on post reply button.
+2025-03-13 09:17:09,480 - DEBUG - Performed Actionchains
+2025-03-13 09:17:09,481 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 09:17:13,483 - INFO - Comment posted successfully.
+2025-03-13 09:17:13,484 - INFO - Task Completed!!
+2025-03-13 09:17:22,655 - INFO - Navigated back to the homepage.
+2025-03-13 09:17:24,923 - INFO - Attempting to clear memory and resources.
+2025-03-13 09:17:24,977 - INFO - Garbage collection completed.
+2025-03-13 09:17:24,978 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,114 @@
+2025-03-11 17:17:30,048 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_171730.log
+2025-03-11 17:17:30,050 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 17:17:30,051 - INFO - Loaded 144 visited threads from Thread_links.txt
+2025-03-11 17:17:30,052 - INFO - Successfully loaded links that was already visited!
+2025-03-11 17:17:30,053 - DEBUG - Scrolling page 6 times.
+2025-03-11 17:17:30,053 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:17:31,249 - DEBUG - Page scrolled.
+2025-03-11 17:17:33,252 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:17:35,193 - DEBUG - Page scrolled.
+2025-03-11 17:17:37,195 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:17:39,109 - DEBUG - Page scrolled.
+2025-03-11 17:17:41,110 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:17:42,415 - DEBUG - Page scrolled.
+2025-03-11 17:17:44,421 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:17:45,653 - DEBUG - Page scrolled.
+2025-03-11 17:17:47,655 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:17:48,907 - DEBUG - Page scrolled.
+2025-03-11 17:17:50,909 - DEBUG - Random scrolls complete.
+2025-03-11 17:17:50,910 - DEBUG - Scrolling page 3 times.
+2025-03-11 17:17:50,911 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:17:52,844 - DEBUG - Page scrolled.
+2025-03-11 17:17:54,847 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:17:56,058 - DEBUG - Page scrolled.
+2025-03-11 17:17:58,060 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:17:59,603 - DEBUG - Page scrolled.
+2025-03-11 17:18:01,610 - DEBUG - Random scrolls complete.
+2025-03-11 17:18:08,372 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-03-11 17:18:13,370 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/using-phone-as-a-mobile-hotspot-proxy.1694441/unread
+2025-03-11 17:18:19,716 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/using-phone-as-a-mobile-hotspot-proxy.1694441/unread
+2025-03-11 17:18:19,720 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/using-phone-as-a-mobile-hotspot-proxy.1694441/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 17:18:19,812 - INFO - Extracted thread title: www.blackhatworld.com
+2025-03-11 17:18:19,854 - DEBUG - Scrolling page 4 times.
+2025-03-11 17:18:19,856 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:18:21,724 - DEBUG - Page scrolled.
+2025-03-11 17:18:23,731 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:18:25,503 - DEBUG - Page scrolled.
+2025-03-11 17:18:27,504 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:18:28,923 - DEBUG - Page scrolled.
+2025-03-11 17:18:30,958 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:18:39,543 - DEBUG - Page scrolled.
+2025-03-11 17:18:41,546 - DEBUG - Random scrolls complete.
+2025-03-11 17:18:44,449 - DEBUG - Scrolling page 2 times.
+2025-03-11 17:18:44,450 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:18:46,137 - DEBUG - Page scrolled.
+2025-03-11 17:18:49,140 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:18:50,801 - DEBUG - Page scrolled.
+2025-03-11 17:18:53,803 - DEBUG - Random scrolls complete.
+2025-03-11 17:18:53,850 - DEBUG - Found 13 like buttons.
+2025-03-11 17:18:56,854 - INFO - Attempting to like 4 posts. There are 13 available.
+2025-03-11 17:18:57,494 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:18:57,544 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:18:57,545 - DEBUG - Liked post number 1 of 4.
+2025-03-11 17:19:02,655 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:19:02,680 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:19:02,684 - DEBUG - Liked post number 2 of 4.
+2025-03-11 17:19:08,278 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:19:08,296 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:19:08,298 - DEBUG - Liked post number 3 of 4.
+2025-03-11 17:19:13,489 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 17:19:13,506 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 17:19:13,509 - DEBUG - Liked post number 4 of 4.
+2025-03-11 17:19:18,327 - INFO - Liked 4 posts successfully.
+2025-03-11 17:19:18,330 - INFO - Liked 4 posts successfully.
+2025-03-11 17:19:20,776 - DEBUG - Scrolling page 6 times.
+2025-03-11 17:19:20,836 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:19:22,114 - DEBUG - Page scrolled.
+2025-03-11 17:19:25,305 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:19:26,777 - DEBUG - Page scrolled.
+2025-03-11 17:19:29,779 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:19:31,226 - DEBUG - Page scrolled.
+2025-03-11 17:19:34,229 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:19:35,809 - DEBUG - Page scrolled.
+2025-03-11 17:19:38,811 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:19:40,091 - DEBUG - Page scrolled.
+2025-03-11 17:19:43,129 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 17:19:44,281 - DEBUG - Page scrolled.
+2025-03-11 17:19:47,284 - DEBUG - Random scrolls complete.
+2025-03-11 17:19:49,977 - DEBUG - Total comments in the thread: 13
+2025-03-11 17:21:03,304 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-03-11 17:21:05,674 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 17:21:05,727 - DEBUG - Extracted main post content: Hello, I know people have turned extra cell phone lines into mobile proxies.
+
+Am I ok to run a hotspot from an extra phone and just turn the internet on and off to get a new ip?
+I am running android on a pixel phone in the USA. Will sites be able to see that I am running a hotspot from a phone?
+
+My cell provider is throttling me to 5ge is that an issue or a give away?
+
+I am making new accounts on reddit with adspower and I am having some difficulty in getting posts through. I am warming my accounts up for like 10 days sometimes with 100+ Karma and I am still having my posts removed. This makes me think it might be a proxy issue.
+
+Any advice would be much appreciated!
+2025-03-11 17:21:10,033 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 17:21:10,035 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 17:21:12,649 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:21:12,651 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:21:12,712 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:21:12,778 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 17:21:12,787 - DEBUG - Text box scrolled into view
+2025-03-11 17:21:13,500 - DEBUG - Initializing actionchains
+2025-03-11 17:21:13,572 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5959}, size: {'height': 21, 'width': 68}
+2025-03-11 17:21:13,573 - DEBUG - Target click coordinates: (1121, 5969)
+2025-03-11 17:21:29,734 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 17:21:29,736 - DEBUG - Moving mouse to text box element.
+2025-03-11 17:21:29,738 - DEBUG - Clicking on the text box.
+2025-03-11 17:21:29,741 - DEBUG - Sending keys with content: Honestly, the hotspot might work in a pinch, but those throttled speeds and the fingerprint of a mobile hotspot are probably screaming proxy issues to Reddit. Have you tried residential proxies instead?
+
+2025-03-11 17:21:34,752 - DEBUG - Clicking on post reply button.
+2025-03-11 17:21:46,238 - DEBUG - Performed Actionchains
+2025-03-11 17:21:46,241 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 17:21:50,243 - INFO - Comment posted successfully.
+2025-03-11 17:21:50,245 - INFO - Task Completed!!
+2025-03-11 17:22:01,693 - INFO - Navigated back to the homepage.
+2025-03-11 17:22:04,510 - INFO - Attempting to clear memory and resources.
+2025-03-11 17:22:04,543 - INFO - Garbage collection completed.
+2025-03-11 17:22:04,545 - INFO - Waiting for 1800 seconds before next execution.

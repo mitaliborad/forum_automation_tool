@@ -1,0 +1,96 @@
+2025-04-02 11:50:37,782 - INFO - Current time: 1743574837.782015
+2025-04-02 11:50:37,785 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 11:50:37,786 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 11:50:37,787 - INFO - performing random action
+2025-04-02 11:50:37,820 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 11:50:37,821 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:50:37,822 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:50:39,738 - DEBUG - Page scrolled.
+2025-04-02 11:50:41,739 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:50:42,888 - DEBUG - Page scrolled.
+2025-04-02 11:50:44,889 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:50:46,600 - DEBUG - Page scrolled.
+2025-04-02 11:50:48,602 - DEBUG - Random scrolls complete.
+2025-04-02 11:50:48,604 - DEBUG - Scrolling page 2 times.
+2025-04-02 11:50:48,606 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:50:50,408 - DEBUG - Page scrolled.
+2025-04-02 11:50:52,409 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:50:54,321 - DEBUG - Page scrolled.
+2025-04-02 11:50:56,323 - DEBUG - Random scrolls complete.
+2025-04-02 11:51:03,593 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-04-02 11:51:07,805 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/google-voice-problems-no-sound.1392647/unread
+2025-04-02 11:51:07,807 - INFO - performing random action
+2025-04-02 11:51:16,319 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/google-voice-problems-no-sound.1392647/unread
+2025-04-02 11:51:16,325 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/google-voice-problems-no-sound.1392647/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 11:51:16,359 - INFO - Extracted thread title: Google voice PROBLEMS no SOUND
+2025-04-02 11:51:16,361 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:51:16,361 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:51:17,687 - DEBUG - Page scrolled.
+2025-04-02 11:51:19,688 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:51:21,503 - DEBUG - Page scrolled.
+2025-04-02 11:51:23,504 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:51:25,328 - DEBUG - Page scrolled.
+2025-04-02 11:51:27,330 - DEBUG - Random scrolls complete.
+2025-04-02 11:51:29,462 - DEBUG - Scrolling page 1 times.
+2025-04-02 11:51:29,464 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:51:31,331 - DEBUG - Page scrolled.
+2025-04-02 11:51:34,333 - DEBUG - Random scrolls complete.
+2025-04-02 11:51:34,349 - DEBUG - Found 6 like buttons.
+2025-04-02 11:51:37,351 - INFO - Attempting to like 1 posts. There are 6 available.
+2025-04-02 11:51:38,284 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:51:38,309 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:51:38,310 - DEBUG - Liked post number 1 of 1.
+2025-04-02 11:51:42,663 - INFO - Liked 1 posts successfully.
+2025-04-02 11:51:42,665 - INFO - Liked 1 posts successfully.
+2025-04-02 11:51:44,688 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-02 11:52:20,580 - INFO - Profile Emaxx: Pausing for 38.83 seconds...
+2025-04-02 11:52:59,411 - INFO - Profile Emaxx: Resuming...
+2025-04-02 11:52:59,437 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 11:52:59,438 - INFO - performing random action
+2025-04-02 11:52:59,439 - DEBUG - Scrolling page 6 times.
+2025-04-02 11:52:59,452 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:01,117 - DEBUG - Page scrolled.
+2025-04-02 11:53:04,120 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:05,782 - DEBUG - Page scrolled.
+2025-04-02 11:53:08,784 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:10,301 - DEBUG - Page scrolled.
+2025-04-02 11:53:13,303 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:15,268 - DEBUG - Page scrolled.
+2025-04-02 11:53:18,270 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:19,278 - DEBUG - Page scrolled.
+2025-04-02 11:53:22,279 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:53:23,795 - DEBUG - Page scrolled.
+2025-04-02 11:53:26,796 - DEBUG - Random scrolls complete.
+2025-04-02 11:53:29,699 - DEBUG - Total comments in the thread: 6
+2025-04-02 11:54:22,166 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Google voice PROBLEMS no SOUND.txt
+2025-04-02 11:54:24,766 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 11:54:24,790 - DEBUG - Extracted main post content: OK i was breaking my balls since yesterday to get real usa sim to get google voice,yeah nice i finally go it. Jesus this was like a torture. So now once I have the damn number,speakers and mic is working when I press test but when I receive call I GET NO FREAKING SOUND,WHAT THE HECK? Seriously? I remember I used google voice 10 years ago and there was no problems and now I cant even hear a damn thing someone is calling me. Im total mental breakdown after this crap. I use web version,looks like nor in android or ios there is google voice app in my country. Anyone went through this crap?
+2025-04-02 11:54:29,086 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 11:54:29,088 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 11:54:31,733 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-02 11:54:42,828 - INFO - Profile Emaxx: Pausing for 37.63 seconds...
+2025-04-02 11:55:20,459 - INFO - Profile Emaxx: Resuming...
+2025-04-02 11:55:20,479 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 11:55:20,481 - INFO - performing random action
+2025-04-02 11:55:20,482 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:55:20,483 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:55:20,502 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:55:20,552 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:55:20,560 - DEBUG - Text box scrolled into view
+2025-04-02 11:55:21,168 - DEBUG - Initializing actionchains
+2025-04-02 11:55:21,199 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2571}, size: {'height': 21, 'width': 68}
+2025-04-02 11:55:21,200 - DEBUG - Target click coordinates: (1121, 2581)
+2025-04-02 11:55:29,658 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 11:55:29,661 - DEBUG - Moving mouse to text box element.
+2025-04-02 11:55:29,663 - DEBUG - Clicking on the text box.
+2025-04-02 11:55:29,666 - DEBUG - Sending keys with content: Dude, that sounds brutal. I had similar issues with Google Voice a while back, have you checked your browser permissions for mic/speakers?
+
+2025-04-02 11:55:35,427 - DEBUG - Clicking on post reply button.
+2025-04-02 11:55:46,446 - DEBUG - Performed Actionchains
+2025-04-02 11:55:46,447 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 11:55:50,449 - INFO - Comment posted successfully.
+2025-04-02 11:55:50,451 - INFO - Task Completed!!
+2025-04-02 11:55:59,706 - INFO - Navigated back to the homepage.
+2025-04-02 11:56:01,883 - INFO - Attempting to clear memory and resources.
+2025-04-02 11:56:01,982 - INFO - Garbage collection completed.
+2025-04-02 11:56:01,983 - INFO - Waiting for 2000 seconds before next execution.

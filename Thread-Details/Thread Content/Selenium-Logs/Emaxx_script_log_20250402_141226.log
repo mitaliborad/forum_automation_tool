@@ -1,0 +1,64 @@
+2025-04-02 14:12:26,599 - INFO - Current time: 1743583346.599439
+2025-04-02 14:12:26,600 - INFO - Token is about to expire. Refreshing...
+2025-04-02 14:12:26,600 - INFO - Refreshing token for Emaxx...
+2025-04-02 14:12:27,632 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-02 14:12:27,634 - INFO - Calculated token expiration time: 1743594147.6344986
+2025-04-02 14:12:27,636 - INFO - Profile Emaxx: Successfully logged in.
+2025-04-02 14:12:27,639 - INFO - Token refreshed successfully.
+2025-04-02 14:12:27,642 - INFO - New token expiration time: 1743594147.6344986
+2025-04-02 14:12:27,644 - INFO - Token expiration time: 1743594147.6344986
+2025-04-02 14:12:27,645 - INFO - Token expiration time: 1743594147.6344986
+2025-04-02 14:12:27,648 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-02 14:12:45,088 - INFO - Profile Emaxx: Pausing for 44.98 seconds...
+2025-04-02 14:13:30,069 - INFO - Profile Emaxx: Resuming...
+2025-04-02 14:13:30,087 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 14:13:30,088 - INFO - performing random action
+2025-04-02 14:13:30,090 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 14:13:30,091 - DEBUG - Scrolling page 3 times.
+2025-04-02 14:13:30,092 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:13:31,969 - DEBUG - Page scrolled.
+2025-04-02 14:13:33,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:13:35,729 - DEBUG - Page scrolled.
+2025-04-02 14:13:37,731 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:13:38,776 - DEBUG - Page scrolled.
+2025-04-02 14:13:40,782 - DEBUG - Random scrolls complete.
+2025-04-02 14:13:40,783 - DEBUG - Scrolling page 4 times.
+2025-04-02 14:13:40,784 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:13:42,556 - DEBUG - Page scrolled.
+2025-04-02 14:13:44,559 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:13:46,202 - DEBUG - Page scrolled.
+2025-04-02 14:13:48,204 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:13:49,968 - DEBUG - Page scrolled.
+2025-04-02 14:13:51,971 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:13:52,997 - DEBUG - Page scrolled.
+2025-04-02 14:13:54,999 - DEBUG - Random scrolls complete.
+2025-04-02 14:14:01,967 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-04-02 14:14:12,343 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 14:14:12,358 - INFO - Profile Emaxx: Restoring window...
+2025-04-02 14:14:14,363 - INFO - performing random action
+2025-04-02 14:14:14,365 - WARNING - Skipping thread processing due to no thread link being found in subforum.
+2025-04-02 14:14:14,367 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-02 14:14:14,370 - INFO - Stopping browser for profile: Emaxx...
+2025-04-02 14:14:14,372 - INFO - Refreshing token before stopping profile...
+2025-04-02 14:14:14,374 - INFO - Refreshing token for Emaxx...
+2025-04-02 14:14:15,260 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-02 14:14:15,261 - INFO - Calculated token expiration time: 1743594255.2616851
+2025-04-02 14:14:15,262 - INFO - Profile Emaxx: Successfully logged in.
+2025-04-02 14:14:15,264 - INFO - Token refreshed successfully before stopping.
+2025-04-02 14:14:15,265 - INFO - Profile Emaxx: Attempting to stop (Attempt 1/3)...
+2025-04-02 14:14:15,270 - INFO - Profile Emaxx: Browser closed successfully in 0.00 seconds.
+2025-04-02 14:14:17,411 - INFO - Profile Emaxx: API call took 2.14 seconds.
+2025-04-02 14:14:17,413 - INFO - Profile Emaxx: Stopped successfully.
+2025-04-02 14:14:17,417 - INFO - Browser stopped successfully for profile: Emaxx.

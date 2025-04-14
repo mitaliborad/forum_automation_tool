@@ -1,0 +1,111 @@
+2025-03-12 15:00:40,905 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_150040.log
+2025-03-12 15:00:40,911 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 15:00:40,956 - INFO - Loaded 172 visited threads from Thread_links.txt
+2025-03-12 15:00:40,958 - INFO - Successfully loaded links that was already visited!
+2025-03-12 15:00:40,961 - DEBUG - Scrolling page 7 times.
+2025-03-12 15:00:40,962 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:00:42,024 - DEBUG - Page scrolled.
+2025-03-12 15:00:44,026 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:00:45,406 - DEBUG - Page scrolled.
+2025-03-12 15:00:47,411 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:00:48,682 - DEBUG - Page scrolled.
+2025-03-12 15:00:50,684 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:00:52,690 - DEBUG - Page scrolled.
+2025-03-12 15:00:54,693 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:00:55,890 - DEBUG - Page scrolled.
+2025-03-12 15:00:57,891 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:00:59,025 - DEBUG - Page scrolled.
+2025-03-12 15:01:01,027 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:01:02,745 - DEBUG - Page scrolled.
+2025-03-12 15:01:04,748 - DEBUG - Random scrolls complete.
+2025-03-12 15:01:04,750 - DEBUG - Scrolling page 5 times.
+2025-03-12 15:01:04,751 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:01:06,607 - DEBUG - Page scrolled.
+2025-03-12 15:01:08,608 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:01:10,318 - DEBUG - Page scrolled.
+2025-03-12 15:01:12,320 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:01:13,960 - DEBUG - Page scrolled.
+2025-03-12 15:01:15,962 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:01:17,920 - DEBUG - Page scrolled.
+2025-03-12 15:01:19,924 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:01:21,874 - DEBUG - Page scrolled.
+2025-03-12 15:01:23,877 - DEBUG - Random scrolls complete.
+2025-03-12 15:01:34,838 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-03-12 15:01:39,340 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/real-and-live-linkedin-upwork-outlier-accounts-needed.1693365/unread
+2025-03-12 15:01:48,156 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/real-and-live-linkedin-upwork-outlier-accounts-needed.1693365/unread
+2025-03-12 15:01:48,158 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/real-and-live-linkedin-upwork-outlier-accounts-needed.1693365/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 15:01:48,191 - INFO - Extracted thread title: Real and live LinkedInUpworkOutlier accounts needed
+2025-03-12 15:01:48,192 - DEBUG - Scrolling page 2 times.
+2025-03-12 15:01:48,193 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:01:49,268 - DEBUG - Page scrolled.
+2025-03-12 15:01:51,271 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:01:52,639 - DEBUG - Page scrolled.
+2025-03-12 15:01:54,641 - DEBUG - Random scrolls complete.
+2025-03-12 15:01:56,697 - DEBUG - Scrolling page 4 times.
+2025-03-12 15:01:56,699 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:01:58,448 - DEBUG - Page scrolled.
+2025-03-12 15:02:01,451 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:02:02,719 - DEBUG - Page scrolled.
+2025-03-12 15:02:05,722 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:02:07,293 - DEBUG - Page scrolled.
+2025-03-12 15:02:10,294 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:02:11,531 - DEBUG - Page scrolled.
+2025-03-12 15:02:14,534 - DEBUG - Random scrolls complete.
+2025-03-12 15:02:14,571 - DEBUG - Found 2 like buttons.
+2025-03-12 15:02:17,574 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-12 15:02:18,493 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:02:18,505 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:02:18,506 - DEBUG - Liked post number 1 of 2.
+2025-03-12 15:02:24,076 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:02:24,098 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:02:24,100 - DEBUG - Liked post number 2 of 2.
+2025-03-12 15:02:28,781 - INFO - Liked 2 posts successfully.
+2025-03-12 15:02:28,782 - INFO - Liked 2 posts successfully.
+2025-03-12 15:02:31,353 - DEBUG - Scrolling page 6 times.
+2025-03-12 15:02:31,355 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:02:32,628 - DEBUG - Page scrolled.
+2025-03-12 15:02:35,631 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:02:37,094 - DEBUG - Page scrolled.
+2025-03-12 15:02:40,096 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:02:41,910 - DEBUG - Page scrolled.
+2025-03-12 15:02:44,912 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:02:46,194 - DEBUG - Page scrolled.
+2025-03-12 15:02:49,196 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:02:51,066 - DEBUG - Page scrolled.
+2025-03-12 15:02:54,069 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:02:56,031 - DEBUG - Page scrolled.
+2025-03-12 15:02:59,033 - DEBUG - Random scrolls complete.
+2025-03-12 15:03:01,353 - DEBUG - Total comments in the thread: 2
+2025-03-12 15:03:01,554 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Real and live LinkedInUpworkOutlier accounts needed.txt
+2025-03-12 15:03:03,928 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 15:03:03,996 - DEBUG - Extracted main post content: Hey fellow BHW members,
+
+I'm building a agency in which I'm recruiting people from EU/USA to open up LinkedIn/Upwork/Outlier accounts to rent them out for other people to get a job.
+
+A real person behind the account is needed.
+
+Where would be the best place to find these leads who could be interested to open up those accounts for a great profit margin?
+2025-03-12 15:03:07,026 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 15:03:07,027 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 15:03:09,638 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:03:09,640 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:03:09,673 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:03:09,728 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:03:09,740 - DEBUG - Text box scrolled into view
+2025-03-12 15:03:10,294 - DEBUG - Initializing actionchains
+2025-03-12 15:03:10,322 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1642}, size: {'height': 21, 'width': 68}
+2025-03-12 15:03:10,323 - DEBUG - Target click coordinates: (1121, 1652)
+2025-03-12 15:03:17,163 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 15:03:17,165 - DEBUG - Moving mouse to text box element.
+2025-03-12 15:03:17,167 - DEBUG - Clicking on the text box.
+2025-03-12 15:03:17,169 - DEBUG - Sending keys with content: Have you thought about targeting recent college grads? They might be looking for some extra cash while job hunting themselves.
+
+2025-03-12 15:03:22,598 - DEBUG - Clicking on post reply button.
+2025-03-12 15:03:33,618 - DEBUG - Performed Actionchains
+2025-03-12 15:03:33,619 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 15:03:37,621 - INFO - Comment posted successfully.
+2025-03-12 15:03:37,624 - INFO - Task Completed!!
+2025-03-12 15:03:53,160 - INFO - Navigated back to the homepage.
+2025-03-12 15:03:55,889 - INFO - Attempting to clear memory and resources.
+2025-03-12 15:03:55,933 - INFO - Garbage collection completed.
+2025-03-12 15:03:55,935 - INFO - Waiting for 1000 seconds before next execution.

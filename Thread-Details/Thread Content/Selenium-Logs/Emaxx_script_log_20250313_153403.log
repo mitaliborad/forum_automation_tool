@@ -1,0 +1,135 @@
+2025-03-13 15:34:03,611 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emaxx_script_log_20250313_153403.log
+2025-03-13 15:34:03,612 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:34:03,632 - INFO - Loaded 195 visited threads from Thread_links.txt
+2025-03-13 15:34:03,634 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:34:10,932 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:34:10,932 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:12,224 - DEBUG - Page scrolled.
+2025-03-13 15:34:14,226 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:16,066 - DEBUG - Page scrolled.
+2025-03-13 15:34:18,070 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:19,268 - DEBUG - Page scrolled.
+2025-03-13 15:34:21,271 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:22,890 - DEBUG - Page scrolled.
+2025-03-13 15:34:24,893 - DEBUG - Random scrolls complete.
+2025-03-13 15:34:24,894 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:34:24,896 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:26,674 - DEBUG - Page scrolled.
+2025-03-13 15:34:28,677 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:30,139 - DEBUG - Page scrolled.
+2025-03-13 15:34:32,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:33,562 - DEBUG - Page scrolled.
+2025-03-13 15:34:35,564 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:37,044 - DEBUG - Page scrolled.
+2025-03-13 15:34:39,046 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:40,376 - DEBUG - Page scrolled.
+2025-03-13 15:34:42,378 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:43,644 - DEBUG - Page scrolled.
+2025-03-13 15:34:45,647 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:34:47,390 - DEBUG - Page scrolled.
+2025-03-13 15:34:49,391 - DEBUG - Random scrolls complete.
+2025-03-13 15:34:56,528 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-03-13 15:35:01,223 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/rotate-ads-by-time-in-a-single-category.1663360/
+2025-03-13 15:35:15,883 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/rotate-ads-by-time-in-a-single-category.1663360/
+2025-03-13 15:35:15,885 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/rotate-ads-by-time-in-a-single-category.1663360/' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:35:15,914 - INFO - Extracted thread title: Rotate ads by time in a single category
+2025-03-13 15:35:15,915 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:35:15,916 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:17,892 - DEBUG - Page scrolled.
+2025-03-13 15:35:19,894 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:21,362 - DEBUG - Page scrolled.
+2025-03-13 15:35:23,364 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:25,373 - DEBUG - Page scrolled.
+2025-03-13 15:35:27,375 - DEBUG - Random scrolls complete.
+2025-03-13 15:35:29,566 - DEBUG - Scrolling page 1 times.
+2025-03-13 15:35:29,566 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:35:30,877 - DEBUG - Page scrolled.
+2025-03-13 15:35:33,878 - DEBUG - Random scrolls complete.
+2025-03-13 15:35:33,905 - DEBUG - Found 1 like buttons.
+2025-03-13 15:35:36,906 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-03-13 15:35:37,640 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:35:37,657 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:35:37,658 - DEBUG - Liked post number 1 of 1.
+2025-03-13 15:35:41,939 - INFO - Liked 1 posts successfully.
+2025-03-13 15:35:41,941 - INFO - Liked 1 posts successfully.
+2025-03-13 15:35:59,950 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:35:59,951 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:01,684 - DEBUG - Page scrolled.
+2025-03-13 15:36:04,686 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:06,052 - DEBUG - Page scrolled.
+2025-03-13 15:36:09,054 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:10,490 - DEBUG - Page scrolled.
+2025-03-13 15:36:13,493 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:15,483 - DEBUG - Page scrolled.
+2025-03-13 15:36:18,484 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:20,003 - DEBUG - Page scrolled.
+2025-03-13 15:36:23,005 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:24,328 - DEBUG - Page scrolled.
+2025-03-13 15:36:27,330 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:28,522 - DEBUG - Page scrolled.
+2025-03-13 15:36:31,523 - DEBUG - Random scrolls complete.
+2025-03-13 15:36:44,857 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Rotate ads by time in a single category.txt
+2025-03-13 15:36:47,598 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:36:57,943 - WARNING - Could not extract main post content. Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A63C615+3167749]
+	(No symbol) [0x00007FF77A2AD190]
+	(No symbol) [0x00007FF77A13596A]
+	(No symbol) [0x00007FF77A18F066]
+	(No symbol) [0x00007FF77A18F29C]
+	(No symbol) [0x00007FF77A1E2847]
+	(No symbol) [0x00007FF77A1B706F]
+	(No symbol) [0x00007FF77A1DF513]
+	(No symbol) [0x00007FF77A1B6E03]
+	(No symbol) [0x00007FF77A17FD3E]
+	(No symbol) [0x00007FF77A180FC3]
+	GetHandleVerifier [0x00007FF77A69F57D+3573101]
+	GetHandleVerifier [0x00007FF77A6B9AB0+3680928]
+	GetHandleVerifier [0x00007FF77A6AF46D+3638365]
+	GetHandleVerifier [0x00007FF77A40123A+827946]
+	(No symbol) [0x00007FF77A2B85BF]
+	(No symbol) [0x00007FF77A2B4264]
+	(No symbol) [0x00007FF77A2B4406]
+	(No symbol) [0x00007FF77A2A3E49]
+	BaseThreadInitThunk [0x00007FFC4B657374+20]
+	RtlUserThreadStart [0x00007FFC4BA1CC91+33]
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 280, in extract_main_post_content
+    main_post_element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located(main_post_locator)
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF77A63C615+3167749]
+	(No symbol) [0x00007FF77A2AD190]
+	(No symbol) [0x00007FF77A13596A]
+	(No symbol) [0x00007FF77A18F066]
+	(No symbol) [0x00007FF77A18F29C]
+	(No symbol) [0x00007FF77A1E2847]
+	(No symbol) [0x00007FF77A1B706F]
+	(No symbol) [0x00007FF77A1DF513]
+	(No symbol) [0x00007FF77A1B6E03]
+	(No symbol) [0x00007FF77A17FD3E]
+	(No symbol) [0x00007FF77A180FC3]
+	GetHandleVerifier [0x00007FF77A69F57D+3573101]
+	GetHandleVerifier [0x00007FF77A6B9AB0+3680928]
+	GetHandleVerifier [0x00007FF77A6AF46D+3638365]
+	GetHandleVerifier [0x00007FF77A40123A+827946]
+	(No symbol) [0x00007FF77A2B85BF]
+	(No symbol) [0x00007FF77A2B4264]
+	(No symbol) [0x00007FF77A2B4406]
+	(No symbol) [0x00007FF77A2A3E49]
+	BaseThreadInitThunk [0x00007FFC4B657374+20]
+	RtlUserThreadStart [0x00007FFC4BA1CC91+33]
+
+2025-03-13 15:37:00,999 - ERROR - An error occurred: cannot access local variable 'api_comments_dir' where it is not associated with a value
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld-automation.py", line 187, in process_profile
+    api_comments_dir, f"{thread_title}_{sanitized_comment}.txt"
+    ^^^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'api_comments_dir' where it is not associated with a value
+2025-03-13 15:37:01,011 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:37:01,051 - INFO - Garbage collection completed.
+2025-03-13 15:37:01,053 - INFO - Waiting for 10 seconds before next execution.

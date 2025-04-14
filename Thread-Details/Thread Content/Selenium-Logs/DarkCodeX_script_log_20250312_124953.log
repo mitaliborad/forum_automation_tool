@@ -1,0 +1,163 @@
+2025-03-12 12:49:53,930 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_124953.log
+2025-03-12 12:49:53,934 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 12:49:53,950 - INFO - Loaded 162 visited threads from Thread_links.txt
+2025-03-12 12:49:53,951 - INFO - Successfully loaded links that was already visited!
+2025-03-12 12:49:53,952 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:49:53,953 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:49:55,929 - DEBUG - Page scrolled.
+2025-03-12 12:49:57,930 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:49:59,169 - DEBUG - Page scrolled.
+2025-03-12 12:50:01,172 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:02,547 - DEBUG - Page scrolled.
+2025-03-12 12:50:04,550 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:05,772 - DEBUG - Page scrolled.
+2025-03-12 12:50:07,774 - DEBUG - Random scrolls complete.
+2025-03-12 12:50:07,776 - DEBUG - Scrolling page 5 times.
+2025-03-12 12:50:07,778 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:08,870 - DEBUG - Page scrolled.
+2025-03-12 12:50:10,872 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:12,119 - DEBUG - Page scrolled.
+2025-03-12 12:50:14,122 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:15,607 - DEBUG - Page scrolled.
+2025-03-12 12:50:17,610 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:19,323 - DEBUG - Page scrolled.
+2025-03-12 12:50:21,326 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:22,542 - DEBUG - Page scrolled.
+2025-03-12 12:50:24,545 - DEBUG - Random scrolls complete.
+2025-03-12 12:50:30,956 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-03-12 12:50:34,646 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-myspace-and-is-it-possible-to-make-money-on-myspace-with-affiliate-or-cpa-marketing.1491773/
+2025-03-12 12:50:43,948 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-myspace-and-is-it-possible-to-make-money-on-myspace-with-affiliate-or-cpa-marketing.1491773/
+2025-03-12 12:50:43,950 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-myspace-and-is-it-possible-to-make-money-on-myspace-with-affiliate-or-cpa-marketing.1491773/' to visited threads file 'Thread_links.txt'.
+2025-03-12 12:50:43,975 - INFO - Extracted thread title: What is MySpace and is it possible to make money on MySpace with Affiliate or CPA marketing
+2025-03-12 12:50:43,976 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:50:43,976 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:45,898 - DEBUG - Page scrolled.
+2025-03-12 12:50:47,899 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:49,347 - DEBUG - Page scrolled.
+2025-03-12 12:50:51,349 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:52,435 - DEBUG - Page scrolled.
+2025-03-12 12:50:54,437 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:56,071 - DEBUG - Page scrolled.
+2025-03-12 12:50:58,074 - DEBUG - Random scrolls complete.
+2025-03-12 12:51:00,900 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:51:00,902 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:01,996 - DEBUG - Page scrolled.
+2025-03-12 12:51:04,998 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:06,750 - DEBUG - Page scrolled.
+2025-03-12 12:51:09,751 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:11,402 - DEBUG - Page scrolled.
+2025-03-12 12:51:14,404 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:15,659 - DEBUG - Page scrolled.
+2025-03-12 12:51:18,661 - DEBUG - Random scrolls complete.
+2025-03-12 12:51:18,689 - DEBUG - Found 9 like buttons.
+2025-03-12 12:51:21,690 - INFO - Attempting to like 1 posts. There are 9 available.
+2025-03-12 12:51:22,565 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:51:22,578 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:51:22,579 - DEBUG - Liked post number 1 of 1.
+2025-03-12 12:51:26,952 - INFO - Liked 1 posts successfully.
+2025-03-12 12:51:26,955 - INFO - Liked 1 posts successfully.
+2025-03-12 12:51:29,436 - DEBUG - Scrolling page 7 times.
+2025-03-12 12:51:29,438 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:30,979 - DEBUG - Page scrolled.
+2025-03-12 12:51:33,981 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:35,820 - DEBUG - Page scrolled.
+2025-03-12 12:51:38,822 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:40,372 - DEBUG - Page scrolled.
+2025-03-12 12:51:43,375 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:44,598 - DEBUG - Page scrolled.
+2025-03-12 12:51:47,601 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:49,497 - DEBUG - Page scrolled.
+2025-03-12 12:51:52,499 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:53,936 - DEBUG - Page scrolled.
+2025-03-12 12:51:56,939 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:58,766 - DEBUG - Page scrolled.
+2025-03-12 12:52:01,769 - DEBUG - Random scrolls complete.
+2025-03-12 12:52:04,424 - DEBUG - Total comments in the thread: 0
+2025-03-12 12:53:07,700 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What is MySpace and is it possible to make money on MySpace with Affiliate or CPA marketing.txt
+2025-03-12 12:53:10,637 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 12:53:10,673 - DEBUG - Extracted main post content: Hey Everyone,
+
+I am new here and I want some info on My Space. My main concern is, Is it possible to make money on My Space with Affiliate or CPA marketing and what is meant by Monetization on My Space?
+
+Thank You,
+Ali
+2025-03-12 12:53:13,874 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 12:53:13,877 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 12:53:16,569 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:53:16,571 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:53:21,761 - DEBUG - Element not found, scrolling page (attempt 1/5).
+2025-03-12 12:53:21,762 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 12:53:23,072 - DEBUG - Page scrolled.
+2025-03-12 12:53:28,178 - DEBUG - Element not found, scrolling page (attempt 2/5).
+2025-03-12 12:53:28,178 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 12:53:29,282 - DEBUG - Page scrolled.
+2025-03-12 12:53:34,418 - DEBUG - Element not found, scrolling page (attempt 3/5).
+2025-03-12 12:53:34,419 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 12:53:36,128 - DEBUG - Page scrolled.
+2025-03-12 12:53:41,247 - DEBUG - Element not found, scrolling page (attempt 4/5).
+2025-03-12 12:53:41,248 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 12:53:43,124 - DEBUG - Page scrolled.
+2025-03-12 12:53:48,215 - DEBUG - Element not found, scrolling page (attempt 5/5).
+2025-03-12 12:53:48,216 - DEBUG - Scrolling page by 400 pixels.
+2025-03-12 12:53:49,890 - DEBUG - Page scrolled.
+2025-03-12 12:53:49,890 - WARNING - Element not found after 5 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:53:49,906 - ERROR - if comment closed then you should close the browser
+2025-03-12 12:53:49,906 - DEBUG - Searching for text with locator: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-12 12:53:49,907 - DEBUG - Attempting to find element with locator: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-12 12:53:49,921 - INFO - Element found after 1 scrolls: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-12 12:53:49,925 - INFO - Comment posted successfully.
+2025-03-12 12:53:49,926 - INFO - Task Completed!!
+2025-03-12 12:53:49,928 - ERROR - Failed to navigate back to the homepage: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF641B9C615+3167749]
+	(No symbol) [0x00007FF64180D190]
+	(No symbol) [0x00007FF64169579C]
+	(No symbol) [0x00007FF6416DEF5F]
+	(No symbol) [0x00007FF641716EF2]
+	(No symbol) [0x00007FF641711889]
+	(No symbol) [0x00007FF641710939]
+	(No symbol) [0x00007FF641665595]
+	GetHandleVerifier [0x00007FF641BFF57D+3573101]
+	GetHandleVerifier [0x00007FF641C19AB0+3680928]
+	GetHandleVerifier [0x00007FF641C0F46D+3638365]
+	GetHandleVerifier [0x00007FF64196123A+827946]
+	(No symbol) [0x00007FF6418185BF]
+	(No symbol) [0x00007FF6416641AE]
+	GetHandleVerifier [0x00007FF641C92BB8+4176808]
+	BaseThreadInitThunk [0x00007FFAA7097374+20]
+	RtlUserThreadStart [0x00007FFAA867CC91+33]
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 639, in navigate_home
+    driver.get("https://www.blackhatworld.com/")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 393, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF641B9C615+3167749]
+	(No symbol) [0x00007FF64180D190]
+	(No symbol) [0x00007FF64169579C]
+	(No symbol) [0x00007FF6416DEF5F]
+	(No symbol) [0x00007FF641716EF2]
+	(No symbol) [0x00007FF641711889]
+	(No symbol) [0x00007FF641710939]
+	(No symbol) [0x00007FF641665595]
+	GetHandleVerifier [0x00007FF641BFF57D+3573101]
+	GetHandleVerifier [0x00007FF641C19AB0+3680928]
+	GetHandleVerifier [0x00007FF641C0F46D+3638365]
+	GetHandleVerifier [0x00007FF64196123A+827946]
+	(No symbol) [0x00007FF6418185BF]
+	(No symbol) [0x00007FF6416641AE]
+	GetHandleVerifier [0x00007FF641C92BB8+4176808]
+	BaseThreadInitThunk [0x00007FFAA7097374+20]
+	RtlUserThreadStart [0x00007FFAA867CC91+33]
+
+2025-03-12 12:53:49,978 - INFO - Attempting to clear memory and resources.
+2025-03-12 12:53:50,004 - INFO - Garbage collection completed.
+2025-03-12 12:53:50,005 - INFO - Waiting for 1000 seconds before next execution.

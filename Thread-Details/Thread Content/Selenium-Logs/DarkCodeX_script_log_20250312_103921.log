@@ -1,0 +1,98 @@
+2025-03-12 10:39:21,143 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_103921.log
+2025-03-12 10:39:21,148 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 10:39:21,150 - INFO - Loaded 151 visited threads from Thread_links.txt
+2025-03-12 10:39:21,151 - INFO - Successfully loaded links that was already visited!
+2025-03-12 10:39:21,152 - DEBUG - Scrolling page 3 times.
+2025-03-12 10:39:21,152 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:22,382 - DEBUG - Page scrolled.
+2025-03-12 10:39:24,393 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:26,164 - DEBUG - Page scrolled.
+2025-03-12 10:39:28,168 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:30,135 - DEBUG - Page scrolled.
+2025-03-12 10:39:32,138 - DEBUG - Random scrolls complete.
+2025-03-12 10:39:32,143 - DEBUG - Scrolling page 7 times.
+2025-03-12 10:39:32,145 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:33,638 - DEBUG - Page scrolled.
+2025-03-12 10:39:35,644 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:36,873 - DEBUG - Page scrolled.
+2025-03-12 10:39:38,875 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:40,566 - DEBUG - Page scrolled.
+2025-03-12 10:39:42,569 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:44,399 - DEBUG - Page scrolled.
+2025-03-12 10:39:46,401 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:47,423 - DEBUG - Page scrolled.
+2025-03-12 10:39:49,425 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:51,242 - DEBUG - Page scrolled.
+2025-03-12 10:39:53,244 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:39:55,014 - DEBUG - Page scrolled.
+2025-03-12 10:39:57,017 - DEBUG - Random scrolls complete.
+2025-03-12 10:40:04,238 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-03-12 10:40:08,485 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/tumblr-monthly-stats.1687084/unread
+2025-03-12 10:40:24,570 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/tumblr-monthly-stats.1687084/unread
+2025-03-12 10:40:24,572 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/tumblr-monthly-stats.1687084/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 10:40:24,607 - INFO - Extracted thread title: Tumblr monthly stats
+2025-03-12 10:40:24,608 - DEBUG - Scrolling page 3 times.
+2025-03-12 10:40:24,609 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:40:25,656 - DEBUG - Page scrolled.
+2025-03-12 10:40:27,657 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:40:28,840 - DEBUG - Page scrolled.
+2025-03-12 10:40:30,842 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:40:32,403 - DEBUG - Page scrolled.
+2025-03-12 10:40:34,405 - DEBUG - Random scrolls complete.
+2025-03-12 10:40:36,795 - DEBUG - Scrolling page 2 times.
+2025-03-12 10:40:36,797 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:40:37,808 - DEBUG - Page scrolled.
+2025-03-12 10:40:40,809 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:40:42,032 - DEBUG - Page scrolled.
+2025-03-12 10:40:45,034 - DEBUG - Random scrolls complete.
+2025-03-12 10:40:45,071 - DEBUG - Found 3 like buttons.
+2025-03-12 10:40:48,074 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-03-12 10:40:49,095 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 10:40:49,124 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 10:40:49,126 - DEBUG - Liked post number 1 of 3.
+2025-03-12 10:40:54,623 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 10:40:54,645 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 10:40:54,647 - DEBUG - Liked post number 2 of 3.
+2025-03-12 10:41:00,056 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 10:41:00,065 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 10:41:00,066 - DEBUG - Liked post number 3 of 3.
+2025-03-12 10:41:04,197 - INFO - Liked 3 posts successfully.
+2025-03-12 10:41:04,200 - INFO - Liked 3 posts successfully.
+2025-03-12 10:41:06,731 - DEBUG - Scrolling page 3 times.
+2025-03-12 10:41:06,735 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:41:07,949 - DEBUG - Page scrolled.
+2025-03-12 10:41:10,951 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:41:12,073 - DEBUG - Page scrolled.
+2025-03-12 10:41:15,075 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:41:16,911 - DEBUG - Page scrolled.
+2025-03-12 10:41:19,914 - DEBUG - Random scrolls complete.
+2025-03-12 10:41:22,637 - DEBUG - Total comments in the thread: 3
+2025-03-12 10:41:22,895 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Tumblr monthly stats.txt
+2025-03-12 10:41:25,414 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 10:41:25,455 - DEBUG - Extracted main post content: Is there a way to get a cumulative notes count from all the original posts for the entire month even if archive is disabled?
+
+This tool https://jetblackcode.com/TumblrStats has it but it doesn't work with blogs which have archives disabled.
+2025-03-12 10:41:28,697 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 10:41:28,701 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 10:41:31,463 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:41:31,464 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:41:31,491 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:41:31,545 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 10:41:31,558 - DEBUG - Text box scrolled into view
+2025-03-12 10:41:32,537 - DEBUG - Initializing actionchains
+2025-03-12 10:41:32,585 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1900}, size: {'height': 21, 'width': 68}
+2025-03-12 10:41:32,586 - DEBUG - Target click coordinates: (1121, 1910)
+2025-03-12 10:41:40,252 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 10:41:40,255 - DEBUG - Moving mouse to text box element.
+2025-03-12 10:41:40,256 - DEBUG - Clicking on the text box.
+2025-03-12 10:41:40,259 - DEBUG - Sending keys with content: Honestly, if that tool is the only one showing that specific stat, you might be out of luck unless you can find some workaround to enable the archive temporarily.
+
+2025-03-12 10:41:45,580 - DEBUG - Clicking on post reply button.
+2025-03-12 10:41:56,681 - DEBUG - Performed Actionchains
+2025-03-12 10:41:56,682 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 10:42:00,684 - INFO - Comment posted successfully.
+2025-03-12 10:42:00,686 - INFO - Task Completed!!
+2025-03-12 10:42:15,668 - INFO - Navigated back to the homepage.
+2025-03-12 10:42:18,594 - INFO - Attempting to clear memory and resources.
+2025-03-12 10:42:18,629 - INFO - Garbage collection completed.
+2025-03-12 10:42:18,630 - INFO - Waiting for 1800 seconds before next execution.

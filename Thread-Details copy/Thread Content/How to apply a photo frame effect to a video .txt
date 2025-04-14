@@ -1,0 +1,140 @@
+--- Main Post Title ---
+How to apply a photo frame effect to a video ?
+
+Total comments in the thread: 10
+
+Topic User: Vlad2012
+Topic: Hi everyone!
+
+I'm working on a video project and would like to add a photo frame effect over my video, as shown in the attached example.
+
+
+
+The goal is to create the impression that the video is "framed" by visual elements to bypass TikTok's algorithm. I've done some research online, but I haven't found a method to achieve this. Does anyone have advice or tutorials on how to do this?
+
+Here’s what I have in mind:
+
+- A fixed frame surrounding the video.
+- The video should fit inside the frame and be tilted by 3%.
+- Ideally, I’d like to be able to customize the frame with different photos.
+
+I’m using DaVinci Resolve, but Canva seems more suitable for this type of manipulation. However, I’m open to other tools if necessary. Thanks in advance for your help! If you have any examples or useful links, I’d love to see them!
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Panther28
+Topic: In davinchi or permier you should be able top create an overlay or mask, that's the effect your looking for. What the heck is that picture it looks like a nipple with shrapnel and a staple in it, lol. Or a cinnamon bun with a price stick thing sticking out. lol ifs not either of those, I'll call you pen and teller! lol You could just use a png with transparent hole in the middle for quick and dirty?
+The best WP themes I have ever used are with Themify. They have a great range and are all secure, updated, and affordable
+50 Slot Website Monitoring - Helps keep you alert of your uptime so you don't lose ranking
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: sunny agency
+Topic: Hi everyone!
+Vlad2012 said:
+I'm working on a video project and would like to add a photo frame effect over my video, as shown in the attached example.
+
+View attachment 412726
+
+The goal is to create the impression that the video is "framed" by visual elements to bypass TikTok's algorithm. I've done some research online, but I haven't found a method to achieve this. Does anyone have advice or tutorials on how to do this?
+
+Here’s what I have in mind:
+
+- A fixed frame surrounding the video.
+- The video should fit inside the frame and be tilted by 3%.
+- Ideally, I’d like to be able to customize the frame with different photos.
+
+I’m using DaVinci Resolve, but Canva seems more suitable for this type of manipulation. However, I’m open to other tools if necessary. Thanks in advance for your help! If you have any examples or useful links, I’d love to see them!
+Click to expand...
+you should change the video size and color of the video, if necessary you should change the sound of that video too, these are the things i do to avoid tiktok algorithm.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Vlad2012
+Topic: Panther28 said:
+In davinchi or permier you should be able top create an overlay or mask, that's the effect your looking for. What the heck is that picture it looks like a nipple with shrapnel and a staple in it, lol. Or a cinnamon bun with a price stick thing sticking out. lol ifs not either of those, I'll call you pen and teller! lol You could just use a png with transparent hole in the middle for quick and dirty?
+I don't really understand your response, something like this: https://www.shutterstock.com/image-photo/tear-green-paper-on-white-background-319895351 ? A tear in green paper on a white background, for example?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Panther28
+Topic: Vlad2012 said:
+I don't really understand your response, something like this: https://www.shutterstock.com/image-photo/tear-green-paper-on-white-background-319895351 ? A tear in green paper on a white background, for example?
+Any PNG can have a tear in it right? You can draw out a tear in photoshop or whatever. Then just load the video editor and drop your image (that has a transparent centre) on the timeline above the video. Thats it. SHould work whatever software you use. Thats the gorilla marketing method of how to do this lol
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Vlad2012
+Topic: Panther28 said:
+Any PNG can have a tear in it right? You can draw out a tear in photoshop or whatever. Then just load the video editor and drop your image (that has a transparent centre) on the timeline above the video. Thats it. SHould work whatever software you use. Thats the gorilla marketing method of how to do this lol
+Yes, I understand that for my overlay, the center needs to be green, but how do I do this crappy photomontage around it ?
+I think I managed to do something similar with Canva !
+
+Last edited: Jan 17, 2025
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Panther28
+Topic: Vlad2012 said:
+Yes, I understand that for my overlay, the center needs to be green, but how do I do this crappy photomontage around it ?
+I'm confused, you said you uderstand this but my instruction is all you need take solid image, cut a transparent hole with the shape you want in the middle (the image should be same size as your video you want to show inside the hole.) You don't need a green screen, unless your doing that for a specific different reason, but to overlay around a video one layer on top of another with the bottom layer the video, and the top layer with the png image border with the shape drawn hyow you like it. The video will show under and through the hole that's all.
+
+If that doesn't help and you still need to green it, then same process, but instead you just fill the hole in with chroma key or whatever it is. What is the end goal? Is that not enough to help?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Vlad2012
+Topic: But I don't see how I can cut a hole in an image ?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: AtlasBerno
+Topic: Use chromakey feature and key green out, you will get transparent video and put your image behind this layer. Why is this so hard?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ronshopify
+Topic: Do you mean something like this
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
