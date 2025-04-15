@@ -1,0 +1,103 @@
+2025-02-13 12:20:32,980 - INFO - Log file created at: Selenium-Logs\script_log_20250213_122032.log
+2025-02-13 12:20:34,207 - DEBUG - Chrome driver initialized.
+2025-02-13 12:20:36,109 - DEBUG - Navigating to URL.
+2025-02-13 12:20:36,735 - INFO - Navigated to https://www.blackhatworld.com/
+2025-02-13 12:20:36,736 - DEBUG - Scrolling page 3 times.
+2025-02-13 12:20:36,737 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:20:37,996 - DEBUG - Page scrolled.
+2025-02-13 12:20:39,998 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:20:41,320 - DEBUG - Page scrolled.
+2025-02-13 12:20:43,322 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:20:45,014 - DEBUG - Page scrolled.
+2025-02-13 12:20:47,016 - DEBUG - Random scrolls complete.
+2025-02-13 12:20:48,081 - DEBUG - Element found, attempting to click using JavaScript: ('link text', 'Social Networking')
+2025-02-13 12:20:51,057 - INFO - Element clicked successfully using JavaScript: ('link text', 'Social Networking')
+2025-02-13 12:20:52,589 - INFO - Clicked Social Networking link successfully.
+2025-02-13 12:20:52,590 - DEBUG - Attempting to find element with locator: ('link text', 'Instagram')
+2025-02-13 12:20:52,678 - INFO - Element found after 1 scrolls: ('link text', 'Instagram')
+2025-02-13 12:20:54,244 - DEBUG - Element found, attempting to click using JavaScript: ('link text', 'Instagram')
+2025-02-13 12:20:55,754 - INFO - Element clicked successfully using JavaScript: ('link text', 'Instagram')
+2025-02-13 12:20:55,755 - INFO - Clicked Instagram link successfully.
+2025-02-13 12:20:57,812 - DEBUG - Scrolling page 1 times.
+2025-02-13 12:20:57,813 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:20:59,648 - DEBUG - Page scrolled.
+2025-02-13 12:21:01,649 - DEBUG - Random scrolls complete.
+2025-02-13 12:21:03,482 - DEBUG - Attempting to find element with locator: ('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 12:21:03,567 - INFO - Element found after 1 scrolls: ('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 12:21:06,213 - DEBUG - Element found, attempting to click using JavaScript: ('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 12:21:07,711 - INFO - Element clicked successfully using JavaScript: ('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 12:21:07,712 - INFO - clicked on('link text', "Instagram Account Creation - What's your thoughts?")
+2025-02-13 12:21:10,248 - DEBUG - Scrolling page 3 times.
+2025-02-13 12:21:10,248 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:21:11,435 - DEBUG - Page scrolled.
+2025-02-13 12:21:13,436 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:21:14,453 - DEBUG - Page scrolled.
+2025-02-13 12:21:16,455 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:21:17,912 - DEBUG - Page scrolled.
+2025-02-13 12:21:19,913 - DEBUG - Random scrolls complete.
+2025-02-13 12:21:25,452 - INFO - Attempting to like 2 posts.
+2025-02-13 12:21:25,453 - DEBUG - Scrolling page 1 times.
+2025-02-13 12:21:25,454 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:21:27,042 - DEBUG - Page scrolled.
+2025-02-13 12:21:30,043 - DEBUG - Random scrolls complete.
+2025-02-13 12:21:30,077 - DEBUG - Found 7 like buttons.
+2025-02-13 12:21:31,059 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-13 12:21:31,076 - INFO - Like button clicked successfully using JavaScript.
+2025-02-13 12:21:31,077 - DEBUG - Liked post number 1 of 2.
+2025-02-13 12:21:36,675 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-13 12:21:36,697 - INFO - Like button clicked successfully using JavaScript.
+2025-02-13 12:21:36,699 - DEBUG - Liked post number 2 of 2.
+2025-02-13 12:21:40,980 - INFO - Liked 2 posts successfully.
+2025-02-13 12:21:40,982 - DEBUG - Scrolling page 7 times.
+2025-02-13 12:21:40,982 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:21:42,260 - DEBUG - Page scrolled.
+2025-02-13 12:21:45,262 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:21:46,686 - DEBUG - Page scrolled.
+2025-02-13 12:21:49,687 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:21:51,332 - DEBUG - Page scrolled.
+2025-02-13 12:21:54,333 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:21:55,676 - DEBUG - Page scrolled.
+2025-02-13 12:21:58,678 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:22:00,040 - DEBUG - Page scrolled.
+2025-02-13 12:22:03,042 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:22:04,163 - DEBUG - Page scrolled.
+2025-02-13 12:22:07,165 - DEBUG - Scrolling page by 500 pixels.
+2025-02-13 12:22:09,074 - DEBUG - Page scrolled.
+2025-02-13 12:22:12,077 - DEBUG - Random scrolls complete.
+2025-02-13 12:22:19,248 - INFO - Post content extracted and saved to Selenium-Logs\post_content_and_replies.txt
+2025-02-13 12:22:19,277 - DEBUG - Extracted main post content: I've been working on some instagram project lately... just testing algorithms and so on.
+For me to test, I signed up using protonmail email with my rooted phone.
+I have intercepted all the traffic, had a browse through which logs are sent and so on.
+I notice they use play integrity like most apps nowadays, my device passes that.
+However, upon registration my account was suspended instantly.
+I haven't been using my IP to create tons of accounts; this is my first time. However, I do have another Instagram account thats years old. That's my only IP tie to Instagram.
+
+I'm trying to figure out why exactly they suspended it instantly. I suppose the APK I tested with had a patched SSL bypass, which may be marked by Instagram by now.
+I will bypass their SSL pinning pretty easily anyway, despite which version. I used the patched version just to test.
+
+I also attempted to sign up via browser, and was hit with the following error:
+"Sorry, something went wrong while creating your account. Please try again soon." which to me screams they have marked my IP, or temporarily limited it.
+
+So my thoughts right now:
+The patched SSL pinning APK is maybe marked/patched by Instagram now, and they auto ban accounts that are registered from it.
+They don't like ProtonMail
+They don't like forwarded mails.
+They don't like devices that don't meet play integrity (MEETS_STRONG_INTEGRITY)
+
+If anyone wants to share their thoughts or experience, please do.
+2025-02-13 12:22:20,829 - INFO - Successfully generated comments using Gemini API.
+2025-02-13 12:22:20,831 - INFO - Comment saved to 'comment.txt'.
+2025-02-13 12:22:20,853 - INFO - Read comment from 'comment.txt': Maybe Instagram flagged your IP due to the patched APK. It's worth trying a different IP or device for registration.
+2025-02-13 12:22:20,856 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-02-13 12:22:20,857 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-02-13 12:22:20,903 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-02-13 12:22:20,966 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-02-13 12:22:20,973 - DEBUG - Text box scrolled into view
+2025-02-13 12:22:21,506 - DEBUG - Initializing actionchains
+2025-02-13 12:22:21,508 - DEBUG - Moving mouse to text box element.
+2025-02-13 12:22:21,509 - DEBUG - Clicking on the text box.
+2025-02-13 12:22:21,510 - DEBUG - Sending keys with content: Maybe Instagram flagged your IP due to the patched APK. It's worth trying a different IP or device for registration.
+2025-02-13 12:22:24,083 - DEBUG - Clicking on post reply button.
+2025-02-13 12:22:30,335 - DEBUG - Performed Actionchains
+2025-02-13 12:22:30,337 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-02-13 12:22:38,386 - INFO - Driver quit successfully.

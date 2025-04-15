@@ -1,0 +1,100 @@
+2025-04-09 09:52:03,703 - INFO - Current time: 1744172523.7029648
+2025-04-09 09:52:03,705 - INFO - Token expiration time: 1744181136.852054
+2025-04-09 09:52:03,706 - INFO - Token expiration time: 1744181136.852054
+2025-04-09 09:52:03,707 - INFO - performing random action
+2025-04-09 09:52:03,708 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 09:52:03,708 - DEBUG - Scrolling page 4 times.
+2025-04-09 09:52:03,709 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:04,838 - DEBUG - Page scrolled.
+2025-04-09 09:52:06,840 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:08,555 - DEBUG - Page scrolled.
+2025-04-09 09:52:10,557 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:12,303 - DEBUG - Page scrolled.
+2025-04-09 09:52:14,305 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:15,913 - DEBUG - Page scrolled.
+2025-04-09 09:52:17,916 - DEBUG - Random scrolls complete.
+2025-04-09 09:52:17,918 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:52:17,919 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:18,952 - DEBUG - Page scrolled.
+2025-04-09 09:52:20,955 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:22,106 - DEBUG - Page scrolled.
+2025-04-09 09:52:24,108 - DEBUG - Random scrolls complete.
+2025-04-09 09:52:41,053 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/link-building.108/
+2025-04-09 09:52:44,836 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/profile-backlinks-service.1702248/unread
+2025-04-09 09:52:44,837 - INFO - Profile PhantomRoot: Pausing for 42.29 seconds...
+2025-04-09 09:53:27,130 - INFO - Profile PhantomRoot: Resuming...
+2025-04-09 09:53:27,133 - INFO - performing random action
+2025-04-09 09:53:41,612 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/profile-backlinks-service.1702248/unread
+2025-04-09 09:53:41,616 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/profile-backlinks-service.1702248/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 09:53:41,659 - INFO - Extracted thread title: Profile backlinks service
+2025-04-09 09:53:41,660 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:53:41,661 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:53:43,526 - DEBUG - Page scrolled.
+2025-04-09 09:53:45,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:53:47,190 - DEBUG - Page scrolled.
+2025-04-09 09:53:49,193 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:53:50,513 - DEBUG - Page scrolled.
+2025-04-09 09:53:52,516 - DEBUG - Random scrolls complete.
+2025-04-09 09:53:55,281 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:53:55,283 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:53:57,146 - DEBUG - Page scrolled.
+2025-04-09 09:54:00,149 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:54:01,191 - DEBUG - Page scrolled.
+2025-04-09 09:54:04,193 - DEBUG - Random scrolls complete.
+2025-04-09 09:54:04,234 - DEBUG - Found 9 like buttons.
+2025-04-09 09:54:07,236 - INFO - Attempting to like 4 posts. There are 9 available.
+2025-04-09 09:54:07,903 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:54:07,926 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:54:07,926 - DEBUG - Liked post number 1 of 4.
+2025-04-09 09:54:13,287 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:54:13,292 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:54:13,293 - DEBUG - Liked post number 2 of 4.
+2025-04-09 09:54:19,126 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:54:19,145 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:54:19,146 - DEBUG - Liked post number 3 of 4.
+2025-04-09 09:54:24,899 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:54:24,905 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:54:24,905 - DEBUG - Liked post number 4 of 4.
+2025-04-09 09:54:29,277 - INFO - Liked 4 posts successfully.
+2025-04-09 09:54:29,278 - INFO - Liked 4 posts successfully.
+2025-04-09 09:54:31,313 - INFO - Profile PhantomRoot: Pausing for 36.99 seconds...
+2025-04-09 09:55:08,305 - INFO - Profile PhantomRoot: Resuming...
+2025-04-09 09:55:08,306 - INFO - performing random action
+2025-04-09 09:55:08,307 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:55:08,307 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:55:09,322 - DEBUG - Page scrolled.
+2025-04-09 09:55:12,324 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:55:14,019 - DEBUG - Page scrolled.
+2025-04-09 09:55:17,021 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:55:18,684 - DEBUG - Page scrolled.
+2025-04-09 09:55:21,686 - DEBUG - Random scrolls complete.
+2025-04-09 09:55:23,836 - DEBUG - Total comments in the thread: 9
+2025-04-09 09:56:16,286 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Profile backlinks service.txt
+2025-04-09 09:56:18,570 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 09:56:18,610 - DEBUG - Extracted main post content: I think developing business through profile backlinks is the best way.
+What is your opinion?
+2025-04-09 09:56:23,547 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 09:56:23,551 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 09:56:25,686 - INFO - performing random action
+2025-04-09 09:56:25,689 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:56:25,691 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:56:25,722 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:56:25,761 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:56:25,767 - DEBUG - Text box scrolled into view
+2025-04-09 09:56:26,765 - DEBUG - Initializing actionchains
+2025-04-09 09:56:26,814 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3380}, size: {'height': 21, 'width': 68}
+2025-04-09 09:56:26,814 - DEBUG - Target click coordinates: (1265, 3390)
+2025-04-09 09:56:38,058 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 09:56:38,059 - DEBUG - Moving mouse to text box element.
+2025-04-09 09:56:38,060 - DEBUG - Clicking on the text box.
+2025-04-09 09:56:38,061 - DEBUG - Sending keys with content: Profile backlinks? It's a start, but don't put all your eggs in one basket; diversifying your link sources is key for long-term SEO.
+
+2025-04-09 09:56:43,761 - DEBUG - Clicking on post reply button.
+2025-04-09 09:56:54,705 - DEBUG - Performed Actionchains
+2025-04-09 09:56:54,706 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 09:56:58,707 - INFO - Comment posted successfully.
+2025-04-09 09:56:58,710 - INFO - Task Completed!!
+2025-04-09 09:57:05,870 - INFO - Navigated back to the homepage.
+2025-04-09 09:57:08,420 - INFO - Attempting to clear memory and resources.
+2025-04-09 09:57:08,448 - INFO - Garbage collection completed.
+2025-04-09 09:57:08,450 - INFO - Waiting for 1850 seconds before next execution.

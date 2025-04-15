@@ -1,0 +1,98 @@
+2025-03-11 14:50:10,181 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_145010.log
+2025-03-11 14:50:10,185 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 14:50:10,188 - INFO - Loaded 140 visited threads from Thread_links.txt
+2025-03-11 14:50:10,192 - INFO - Successfully loaded links that was already visited!
+2025-03-11 14:50:10,195 - DEBUG - Scrolling page 5 times.
+2025-03-11 14:50:10,196 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:12,144 - DEBUG - Page scrolled.
+2025-03-11 14:50:14,146 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:16,046 - DEBUG - Page scrolled.
+2025-03-11 14:50:18,049 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:20,004 - DEBUG - Page scrolled.
+2025-03-11 14:50:22,007 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:23,123 - DEBUG - Page scrolled.
+2025-03-11 14:50:25,125 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:26,330 - DEBUG - Page scrolled.
+2025-03-11 14:50:28,332 - DEBUG - Random scrolls complete.
+2025-03-11 14:50:28,334 - DEBUG - Scrolling page 5 times.
+2025-03-11 14:50:28,336 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:29,558 - DEBUG - Page scrolled.
+2025-03-11 14:50:31,561 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:33,296 - DEBUG - Page scrolled.
+2025-03-11 14:50:35,298 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:36,364 - DEBUG - Page scrolled.
+2025-03-11 14:50:38,369 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:40,378 - DEBUG - Page scrolled.
+2025-03-11 14:50:42,382 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:50:44,170 - DEBUG - Page scrolled.
+2025-03-11 14:50:46,173 - DEBUG - Random scrolls complete.
+2025-03-11 14:50:53,483 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-03-11 14:50:57,756 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-a-free-image-generator-ai-website.1660402/unread
+2025-03-11 14:51:07,414 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-a-free-image-generator-ai-website.1660402/unread
+2025-03-11 14:51:07,418 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-a-free-image-generator-ai-website.1660402/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 14:51:07,471 - INFO - Extracted thread title: What is a free image generator AI website
+2025-03-11 14:51:07,473 - DEBUG - Scrolling page 2 times.
+2025-03-11 14:51:07,473 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:51:09,445 - DEBUG - Page scrolled.
+2025-03-11 14:51:11,447 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:51:12,561 - DEBUG - Page scrolled.
+2025-03-11 14:51:14,564 - DEBUG - Random scrolls complete.
+2025-03-11 14:51:17,167 - DEBUG - Scrolling page 4 times.
+2025-03-11 14:51:17,169 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:51:19,178 - DEBUG - Page scrolled.
+2025-03-11 14:51:22,181 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:51:23,964 - DEBUG - Page scrolled.
+2025-03-11 14:51:26,966 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:51:28,255 - DEBUG - Page scrolled.
+2025-03-11 14:51:31,258 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:51:32,660 - DEBUG - Page scrolled.
+2025-03-11 14:51:35,663 - DEBUG - Random scrolls complete.
+2025-03-11 14:51:35,699 - DEBUG - Found 18 like buttons.
+2025-03-11 14:51:38,701 - INFO - Attempting to like 1 posts. There are 18 available.
+2025-03-11 14:51:39,459 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 14:51:39,485 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 14:51:39,486 - DEBUG - Liked post number 1 of 1.
+2025-03-11 14:51:44,106 - INFO - Liked 1 posts successfully.
+2025-03-11 14:51:44,109 - INFO - Liked 1 posts successfully.
+2025-03-11 14:51:46,789 - DEBUG - Scrolling page 6 times.
+2025-03-11 14:51:46,791 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:51:48,372 - DEBUG - Page scrolled.
+2025-03-11 14:51:51,374 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:51:52,745 - DEBUG - Page scrolled.
+2025-03-11 14:51:55,746 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:51:56,815 - DEBUG - Page scrolled.
+2025-03-11 14:51:59,818 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:52:01,704 - DEBUG - Page scrolled.
+2025-03-11 14:52:04,707 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:52:05,877 - DEBUG - Page scrolled.
+2025-03-11 14:52:08,880 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:52:10,089 - DEBUG - Page scrolled.
+2025-03-11 14:52:13,092 - DEBUG - Random scrolls complete.
+2025-03-11 14:52:15,769 - DEBUG - Total comments in the thread: 18
+2025-03-11 14:53:19,756 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What is a free image generator AI website.txt
+2025-03-11 14:53:22,182 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 14:53:22,231 - DEBUG - Extracted main post content: Does anyone know sites Who created nude images or can render adult content?
+2025-03-11 14:53:25,727 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 14:53:25,730 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 14:53:27,764 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:53:27,766 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:53:27,803 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:53:27,856 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:53:27,863 - DEBUG - Text box scrolled into view
+2025-03-11 14:53:28,859 - DEBUG - Initializing actionchains
+2025-03-11 14:53:28,880 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6150}, size: {'height': 21, 'width': 68}
+2025-03-11 14:53:28,881 - DEBUG - Target click coordinates: (1121, 6160)
+2025-03-11 14:53:45,014 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 14:53:45,016 - DEBUG - Moving mouse to text box element.
+2025-03-11 14:53:45,018 - DEBUG - Clicking on the text box.
+2025-03-11 14:53:45,021 - DEBUG - Sending keys with content: I'm not sure about specific sites, but you might be able to find some AI tools that can generate that kind of content if you search around.
+
+2025-03-11 14:53:50,554 - DEBUG - Clicking on post reply button.
+2025-03-11 14:54:01,651 - DEBUG - Performed Actionchains
+2025-03-11 14:54:01,652 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 14:54:05,654 - INFO - Comment posted successfully.
+2025-03-11 14:54:05,656 - INFO - Task Completed!!
+2025-03-11 14:54:14,778 - INFO - Navigated back to the homepage.
+2025-03-11 14:54:16,882 - INFO - Attempting to clear memory and resources.
+2025-03-11 14:54:16,929 - INFO - Garbage collection completed.
+2025-03-11 14:54:16,931 - INFO - Waiting for 1800 seconds before next execution.

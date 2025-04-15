@@ -1,0 +1,117 @@
+2025-03-10 12:20:53,055 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250310_122053.log
+2025-03-10 12:20:53,064 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-10 12:20:53,128 - INFO - Loaded 111 visited threads from Thread_links.txt
+2025-03-10 12:20:53,131 - INFO - Successfully loaded links that was already visited!
+2025-03-10 12:20:53,133 - DEBUG - Scrolling page 6 times.
+2025-03-10 12:20:53,134 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:20:54,984 - DEBUG - Page scrolled.
+2025-03-10 12:20:56,990 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:20:58,982 - DEBUG - Page scrolled.
+2025-03-10 12:21:00,987 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:02,167 - DEBUG - Page scrolled.
+2025-03-10 12:21:04,170 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:05,464 - DEBUG - Page scrolled.
+2025-03-10 12:21:07,466 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:09,437 - DEBUG - Page scrolled.
+2025-03-10 12:21:11,441 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:12,454 - DEBUG - Page scrolled.
+2025-03-10 12:21:14,456 - DEBUG - Random scrolls complete.
+2025-03-10 12:21:14,458 - DEBUG - Scrolling page 3 times.
+2025-03-10 12:21:14,460 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:16,426 - DEBUG - Page scrolled.
+2025-03-10 12:21:18,428 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:20,175 - DEBUG - Page scrolled.
+2025-03-10 12:21:22,178 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:23,226 - DEBUG - Page scrolled.
+2025-03-10 12:21:25,229 - DEBUG - Random scrolls complete.
+2025-03-10 12:21:35,949 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-03-10 12:21:40,712 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/twitter-mass-mention-assistance.1564706/unread
+2025-03-10 12:21:50,079 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/twitter-mass-mention-assistance.1564706/unread
+2025-03-10 12:21:50,080 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/twitter-mass-mention-assistance.1564706/unread' to visited threads file 'Thread_links.txt'.
+2025-03-10 12:21:50,112 - INFO - Extracted thread title: Twitter Mass-Mention - Assistance
+2025-03-10 12:21:50,113 - DEBUG - Scrolling page 3 times.
+2025-03-10 12:21:50,114 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:51,521 - DEBUG - Page scrolled.
+2025-03-10 12:21:53,523 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:54,733 - DEBUG - Page scrolled.
+2025-03-10 12:21:56,736 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:21:58,745 - DEBUG - Page scrolled.
+2025-03-10 12:22:00,748 - DEBUG - Random scrolls complete.
+2025-03-10 12:22:03,101 - DEBUG - Scrolling page 1 times.
+2025-03-10 12:22:03,104 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:04,399 - DEBUG - Page scrolled.
+2025-03-10 12:22:07,402 - DEBUG - Random scrolls complete.
+2025-03-10 12:22:07,426 - DEBUG - Found 7 like buttons.
+2025-03-10 12:22:10,451 - INFO - Attempting to like 4 posts. There are 7 available.
+2025-03-10 12:22:11,506 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:22:11,532 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:22:11,536 - DEBUG - Liked post number 1 of 4.
+2025-03-10 12:22:16,869 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:22:16,883 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:22:16,884 - DEBUG - Liked post number 2 of 4.
+2025-03-10 12:22:22,630 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:22:22,650 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:22:22,652 - DEBUG - Liked post number 3 of 4.
+2025-03-10 12:22:27,665 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:22:27,686 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:22:27,690 - DEBUG - Liked post number 4 of 4.
+2025-03-10 12:22:31,961 - INFO - Liked 4 posts successfully.
+2025-03-10 12:22:31,963 - INFO - Liked 4 posts successfully.
+2025-03-10 12:22:31,964 - DEBUG - Scrolling page 5 times.
+2025-03-10 12:22:31,965 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:33,482 - DEBUG - Page scrolled.
+2025-03-10 12:22:36,485 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:37,926 - DEBUG - Page scrolled.
+2025-03-10 12:22:40,929 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:42,366 - DEBUG - Page scrolled.
+2025-03-10 12:22:45,370 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:47,260 - DEBUG - Page scrolled.
+2025-03-10 12:22:50,262 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:52,193 - DEBUG - Page scrolled.
+2025-03-10 12:22:55,194 - DEBUG - Random scrolls complete.
+2025-03-10 12:22:57,656 - DEBUG - Total comments in the thread: 7
+2025-03-10 12:23:17,240 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Twitter Mass-Mention - Assistance.txt
+2025-03-10 12:23:19,923 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-10 12:23:19,999 - DEBUG - Extracted main post content: Hi guys,
+
+I have issue with Twitter Mass Mentions in that I have used over 2,000 twitter accounts to mass mention over 100k users/accounts which I scraped from some crypto influencers.
+
+So far, the first 500 where suspended before I could finish the 100k, the second 500 also suspended and I decided to buy 1,300 accounts as i speak, 1,000 of them are showing restricted (restricted because I stopped adding links to the post with links i goes suspended)
+
+Can someone please share with me what could be wrong?
+
+I do not use twtgo and twitterdub or any other software.
+I use my own software written personally in python
+
+I can see about 3 accounts in my notification mass-mentioning me frequently, in less than 24hours they get over 100k views.
+
+What am I doing wrong?
+
+If you are willing to share some tips to help me get better result, I can add functionalities to suite your custom need if you are also into mass-mentioning.
+My script uses the Twitter Internal API to get things done without the official rate limits.
+
+I don't mind donating for the information.
+2025-03-10 12:23:25,176 - INFO - Successfully generated comments using Gemini API.
+2025-03-10 12:23:25,177 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-10 12:23:27,985 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:23:27,987 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:23:28,000 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:23:28,047 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:23:28,058 - DEBUG - Text box scrolled into view
+2025-03-10 12:23:28,572 - DEBUG - Initializing actionchains
+2025-03-10 12:23:28,615 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3479}, size: {'height': 21, 'width': 68}
+2025-03-10 12:23:28,616 - DEBUG - Target click coordinates: (1121, 3489)
+2025-03-10 12:23:39,899 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-10 12:23:39,901 - DEBUG - Moving mouse to text box element.
+2025-03-10 12:23:39,903 - DEBUG - Clicking on the text box.
+2025-03-10 12:23:39,905 - DEBUG - Sending keys with content: Honestly, mass mentioning folks probably flags your accounts as spam right away. Maybe try a more targeted approach instead of blasting everyone?
+
+2025-03-10 12:23:45,032 - DEBUG - Clicking on post reply button.
+2025-03-10 12:23:56,187 - DEBUG - Performed Actionchains
+2025-03-10 12:23:56,189 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-10 12:24:00,196 - INFO - Comment posted successfully.
+2025-03-10 12:24:00,202 - INFO - Task Completed!!
+2025-03-10 12:24:10,271 - INFO - Navigated back to the homepage.
+2025-03-10 12:24:12,784 - INFO - Attempting to clear memory and resources.
+2025-03-10 12:24:12,833 - INFO - Garbage collection completed.
+2025-03-10 12:24:12,834 - INFO - Waiting for 1000 seconds before next execution.

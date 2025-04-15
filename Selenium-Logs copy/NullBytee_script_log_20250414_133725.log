@@ -1,0 +1,105 @@
+2025-04-14 13:37:25,535 - INFO - Current time: 1744618045.5350726
+2025-04-14 13:37:25,537 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 13:37:25,538 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 13:37:25,539 - INFO - performing random action
+2025-04-14 13:37:25,541 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:37:25,542 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:37:25,543 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:37:27,408 - DEBUG - Page scrolled.
+2025-04-14 13:37:29,410 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:37:30,798 - DEBUG - Page scrolled.
+2025-04-14 13:37:32,800 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:37:34,234 - DEBUG - Page scrolled.
+2025-04-14 13:37:36,235 - DEBUG - Random scrolls complete.
+2025-04-14 13:37:36,239 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:37:36,240 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:37:37,955 - DEBUG - Page scrolled.
+2025-04-14 13:37:39,956 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:37:41,054 - DEBUG - Page scrolled.
+2025-04-14 13:37:43,057 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:37:44,652 - DEBUG - Page scrolled.
+2025-04-14 13:37:46,654 - DEBUG - Random scrolls complete.
+2025-04-14 13:37:56,794 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/c-c-c.60/
+2025-04-14 13:38:00,713 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/anyone-here-still-using-c-or-c-and-why.1558321/
+2025-04-14 13:38:00,714 - INFO - performing random action
+2025-04-14 13:38:11,504 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/anyone-here-still-using-c-or-c-and-why.1558321/
+2025-04-14 13:38:11,507 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/anyone-here-still-using-c-or-c-and-why.1558321/' to visited threads file 'Thread_links.txt'.
+2025-04-14 13:38:11,573 - INFO - Extracted thread title: Anyone here still using C or C++ and why
+2025-04-14 13:38:11,573 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:38:11,574 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:38:13,115 - DEBUG - Page scrolled.
+2025-04-14 13:38:15,117 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:38:16,146 - DEBUG - Page scrolled.
+2025-04-14 13:38:18,148 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:38:20,107 - DEBUG - Page scrolled.
+2025-04-14 13:38:22,108 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:38:23,364 - DEBUG - Page scrolled.
+2025-04-14 13:38:25,365 - DEBUG - Random scrolls complete.
+2025-04-14 13:38:27,920 - DEBUG - Scrolling page 1 times.
+2025-04-14 13:38:27,921 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:38:29,253 - DEBUG - Page scrolled.
+2025-04-14 13:38:32,257 - DEBUG - Random scrolls complete.
+2025-04-14 13:38:32,297 - DEBUG - Found 20 like buttons.
+2025-04-14 13:38:35,298 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-04-14 13:38:36,128 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:38:36,161 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:38:36,162 - DEBUG - Liked post number 1 of 2.
+2025-04-14 13:38:41,579 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:38:41,601 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:38:41,603 - DEBUG - Liked post number 2 of 2.
+2025-04-14 13:38:46,031 - INFO - Liked 2 posts successfully.
+2025-04-14 13:38:46,033 - INFO - Liked 2 posts successfully.
+2025-04-14 13:38:48,228 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-14 13:38:53,798 - INFO - Profile NullBytee: Pausing for 49.13 seconds...
+2025-04-14 13:39:42,928 - INFO - Profile NullBytee: Resuming...
+2025-04-14 13:39:42,949 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-14 13:39:42,951 - INFO - performing random action
+2025-04-14 13:39:42,953 - DEBUG - Scrolling page 6 times.
+2025-04-14 13:39:42,961 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:44,093 - DEBUG - Page scrolled.
+2025-04-14 13:39:47,097 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:48,386 - DEBUG - Page scrolled.
+2025-04-14 13:39:51,387 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:52,927 - DEBUG - Page scrolled.
+2025-04-14 13:39:55,928 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:57,616 - DEBUG - Page scrolled.
+2025-04-14 13:40:00,618 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:01,733 - DEBUG - Page scrolled.
+2025-04-14 13:40:04,734 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:06,038 - DEBUG - Page scrolled.
+2025-04-14 13:40:09,040 - DEBUG - Random scrolls complete.
+2025-04-14 13:40:12,057 - DEBUG - Total comments in the thread: 20
+2025-04-14 13:41:24,603 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Anyone here still using C or C++ and why.txt
+2025-04-14 13:41:26,801 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:41:26,899 - DEBUG - Extracted main post content: why?
+2025-04-14 13:41:31,973 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:41:31,975 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:41:31,982 - WARNING - rename Error: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'Thread-Details/API Comments\\temp_comment.txt' -> "Thread-Details/API Comments\\Anyone here still using C or C++ and why_Seriously, why not What's holding you back\n.txt"
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_automation.py", line 184, in process_profile
+    os.rename(
+    ~~~~~~~~~^
+        os.path.join(api_comments_dir, "temp_comment.txt"),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        api_comment_file,
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'Thread-Details/API Comments\\temp_comment.txt' -> "Thread-Details/API Comments\\Anyone here still using C or C++ and why_Seriously, why not What's holding you back\n.txt"
+2025-04-14 13:41:32,002 - INFO - API comment generated and saved to Thread-Details/API Comments\Anyone here still using C or C++ and why_Seriously, why not What's holding you back
+.txt
+2025-04-14 13:41:32,004 - ERROR - Error reading thread content file: [Errno 22] Invalid argument: "Thread-Details/API Comments\\Anyone here still using C or C++ and why_Seriously, why not What's holding you back\n.txt"
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 411, in read_thread_content
+    with open(file_path, "r", encoding="utf-8") as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+OSError: [Errno 22] Invalid argument: "Thread-Details/API Comments\\Anyone here still using C or C++ and why_Seriously, why not What's holding you back\n.txt"
+2025-04-14 13:41:34,353 - INFO - Profile NullBytee: Pausing for 31.81 seconds...
+2025-04-14 13:42:06,162 - INFO - Profile NullBytee: Resuming...
+2025-04-14 13:42:06,164 - INFO - performing random action
+2025-04-14 13:42:06,165 - WARNING - No comment available to post.
+2025-04-14 13:42:06,167 - INFO - Task Completed!!
+2025-04-14 13:42:10,699 - INFO - Navigated back to the homepage.
+2025-04-14 13:42:13,293 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:42:13,342 - INFO - Garbage collection completed.
+2025-04-14 13:42:13,343 - INFO - Waiting for 2200 seconds before next execution.

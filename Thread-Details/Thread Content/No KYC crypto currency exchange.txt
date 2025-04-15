@@ -1,0 +1,233 @@
+--- Main Post Title ---
+No KYC crypto currency exchange?
+
+Total comments in the thread: 20
+
+Topic User: MMJason
+Topic: I am not quite sure if this is allowed to ask here. If not, just delete this thread please @ Mods.
+
+I got one question: Is there a well known actual NO KYC crypto currency exchange service out there, where I can exchange for example BTC to LTC or any other crypto?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: LowKeyOP
+Topic: Mexc is a centralized one currently. But I feel like all centralized exchanges will require KYC some day.
+
+Decentralized I would use a combination of Exodus wallet swap feature and Apex Exchange. These two will never require KYC.
+
+Good luck
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: MR.Spuf
+Topic: LowKeyOP said:
+Mexc is a centralized one currently. But I feel like all centralized exchanges will require KYC somme day.
+
+Decentralized I would use a combination of Exodus wallet swap feature and Apex Exchange. These two will never require KYC.
+
+Good luck
+Mexc requires it, but you can without as well, but they're annoying so they might require it at some time in future.
+
+Try bitunix dot com, they have no KYC
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: MMJason
+Topic: I am looking for a currecny exchange that allows to swap one crypto for another.
+
+I am NOT looking for crypto to fiat!
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: LowKeyOP
+Topic: MMJason said:
+I am looking for a currecny exchange that allows to swap one crypto for another.
+
+I am NOT looking for crypto to fiat!
+You can do that with options I mentioned, most wallets have a swap feature, like exodus, that can swap to mostly any crypto you want without using an exchange.
+Liked by: MMJason
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: MMJason
+Topic: Ah ok I hear you, thanks! I need to look into those, sounds a bit complicated
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: doctorlee
+Topic: trocador.app is great for KYC-free crypto to crypto to swaps, I use it all the time for bitcoin to solana and the price spread is pretty good most of the time.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Satoshiseller
+Topic: MMJason said:
+I am not quite sure if this is allowed to ask here. If not, just delete this thread please @ Mods.
+
+I got one question: Is there a well known actual NO KYC crypto currency exchange service out there, where I can exchange for example BTC to LTC or any other crypto?
+https://localcoinswap.com/trade/sell-ltc-for-usd-in-united-states/2b7240ae-2b5a-4e64-ad11-325706a0b101 here is no kyc
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: osato
+Topic: There’s a couple out there that don’t require KYC or even account registration, I’ve used ChangeNow & SimpleSwap a couple of times - both are pretty easy to use and fast.
+
+MEXC had no KYC until lately, they now require it for new accounts - if you still have an old registration there you can use it though.
+Liked by: Tioss40
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: C_ooo_C
+Topic: i can help you.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: oisa
+Topic: For onramping from fiat to crypto your only solution would be using a p2p trading platform, the % spread tends to be a bit higher depending on which payment option you’re using.
+
+If you’re looking for non-KYC exchanges for crypto to crypto you could use pretty much any DEX for on chain swaps or go through sites like simpleswap/changenow for cross-chain trades.
+Liked by: Tioss40
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: haroonsaeed56
+Topic: MMJason said:
+I am not quite sure if this is allowed to ask here. If not, just delete this thread please @ Mods.
+
+I got one question: Is there a well known actual NO KYC crypto currency exchange service out there, where I can exchange for example BTC to LTC or any other crypto?
+Use gate.io
+Cheap VCC Without KYC
+https://t.me/Haroon5647
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Venusaur
+Topic: Cryptomus is a great one, not sure if they are requiring KYC nowadays
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: the1andcr3v
+Topic: MMJason said:
+I am not quite sure if this is allowed to ask here. If not, just delete this thread please @ Mods.
+
+I got one question: Is there a well known actual NO KYC crypto currency exchange service out there, where I can exchange for example BTC to LTC or any other crypto?
+use debridge, one contract to another
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Manuelmktg
+Topic: No KYC centralized crypto exchanges will most probably finally scam it's users.
+If a centralized crypto exchange is licensed and regulated, then it will require KYC. If a centralized crypto exchange does not require KYC, then is not licensed and not regulated and therefore high-risk.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: bkbkbk
+Topic: There are a ton of DEXs that do this. One example: PancakeSwap itself.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Cipher15
+Topic: MMJason said:
+I am not quite sure if this is allowed to ask here. If not, just delete this thread please @ Mods.
+
+I got one question: Is there a well known actual NO KYC crypto currency exchange service out there, where I can exchange for example BTC to LTC or any other crypto?
+FixedFloat, Godex ,.ai, Trocador.app
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: learnandearnwithseo
+Topic: MMJason said:
+I am not quite sure if this is allowed to ask here. If not, just delete this thread please @ Mods.
+
+I got one question: Is there a well known actual NO KYC crypto currency exchange service out there, where I can exchange for example BTC to LTC or any other crypto?
+All exchanges require KYC for you to be able to use their services. Without KYC, the government in that country will not let them operate.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TigerNotWoods
+Topic: It is highly risky to use a non-KYC centralized crypto exchange. Because, a non-KYC centralized crypto exchange has no KYC due to it not having the need to have KYC, due to the fact that it is not licensed and not regulated.
+Not licensed and not regulated and non-KYC (all at the same time) centralized crypto exchange will make me run away as fast as lightning.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Otherland
+Topic: you could also try dydx
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

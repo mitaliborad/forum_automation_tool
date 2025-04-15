@@ -1,0 +1,108 @@
+2025-04-02 11:21:24,323 - INFO - Current time: 1743573084.323148
+2025-04-02 11:21:24,323 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 11:21:24,324 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 11:21:24,324 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-02 11:21:38,822 - INFO - Profile DataPhreak: Pausing for 41.68 seconds...
+2025-04-02 11:22:20,509 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 11:22:20,545 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-02 11:22:20,547 - INFO - performing random action
+2025-04-02 11:22:20,548 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 11:22:20,552 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:22:20,553 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:22:21,933 - DEBUG - Page scrolled.
+2025-04-02 11:22:24,072 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:22:27,172 - DEBUG - Page scrolled.
+2025-04-02 11:22:29,205 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:22:32,828 - DEBUG - Page scrolled.
+2025-04-02 11:22:34,830 - DEBUG - Random scrolls complete.
+2025-04-02 11:22:34,832 - DEBUG - Scrolling page 3 times.
+2025-04-02 11:22:34,833 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:22:36,130 - DEBUG - Page scrolled.
+2025-04-02 11:22:38,132 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:22:40,056 - DEBUG - Page scrolled.
+2025-04-02 11:22:42,062 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:22:43,224 - DEBUG - Page scrolled.
+2025-04-02 11:22:45,235 - DEBUG - Random scrolls complete.
+2025-04-02 11:22:50,838 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-02 11:22:55,620 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/working-proxy-for-paypal.1699047/unread
+2025-04-02 11:22:55,621 - INFO - performing random action
+2025-04-02 11:23:03,459 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/working-proxy-for-paypal.1699047/unread
+2025-04-02 11:23:03,465 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/working-proxy-for-paypal.1699047/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 11:23:03,514 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-02 11:23:03,515 - DEBUG - Scrolling page 2 times.
+2025-04-02 11:23:03,516 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:23:05,159 - DEBUG - Page scrolled.
+2025-04-02 11:23:07,160 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:23:08,523 - DEBUG - Page scrolled.
+2025-04-02 11:23:10,524 - DEBUG - Random scrolls complete.
+2025-04-02 11:23:13,372 - DEBUG - Scrolling page 4 times.
+2025-04-02 11:23:13,374 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:23:14,475 - DEBUG - Page scrolled.
+2025-04-02 11:23:17,477 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:23:19,191 - DEBUG - Page scrolled.
+2025-04-02 11:23:22,193 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:23:23,682 - DEBUG - Page scrolled.
+2025-04-02 11:23:26,684 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:23:28,540 - DEBUG - Page scrolled.
+2025-04-02 11:23:31,543 - DEBUG - Random scrolls complete.
+2025-04-02 11:23:31,591 - DEBUG - Found 12 like buttons.
+2025-04-02 11:23:34,595 - INFO - Attempting to like 3 posts. There are 12 available.
+2025-04-02 11:23:35,576 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:23:35,622 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:23:35,624 - DEBUG - Liked post number 1 of 3.
+2025-04-02 11:23:41,079 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:23:41,112 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:23:41,114 - DEBUG - Liked post number 2 of 3.
+2025-04-02 11:23:46,182 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 11:23:46,212 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 11:23:46,216 - DEBUG - Liked post number 3 of 3.
+2025-04-02 11:23:50,407 - INFO - Liked 3 posts successfully.
+2025-04-02 11:23:50,410 - INFO - Liked 3 posts successfully.
+2025-04-02 11:23:53,095 - INFO - Profile DataPhreak: Pausing for 37.72 seconds...
+2025-04-02 11:24:30,819 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 11:24:30,822 - INFO - performing random action
+2025-04-02 11:24:30,828 - DEBUG - Scrolling page 7 times.
+2025-04-02 11:24:30,830 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:32,265 - DEBUG - Page scrolled.
+2025-04-02 11:24:35,268 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:36,634 - DEBUG - Page scrolled.
+2025-04-02 11:24:39,635 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:41,002 - DEBUG - Page scrolled.
+2025-04-02 11:24:44,005 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:45,079 - DEBUG - Page scrolled.
+2025-04-02 11:24:48,081 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:49,696 - DEBUG - Page scrolled.
+2025-04-02 11:24:52,698 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:54,225 - DEBUG - Page scrolled.
+2025-04-02 11:24:57,228 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 11:24:58,245 - DEBUG - Page scrolled.
+2025-04-02 11:25:01,247 - DEBUG - Random scrolls complete.
+2025-04-02 11:25:03,552 - DEBUG - Total comments in the thread: 12
+2025-04-02 11:26:25,157 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-02 11:26:27,727 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 11:26:27,755 - DEBUG - Extracted main post content: Please no Farming Comments like Look at marketplace, residential/4g etc will be best. Just recommend me a seller if you know one
+2025-04-02 11:26:31,496 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 11:26:31,501 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 11:26:33,928 - INFO - performing random action
+2025-04-02 11:26:33,931 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:26:33,936 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:26:33,999 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:26:34,044 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 11:26:34,050 - DEBUG - Text box scrolled into view
+2025-04-02 11:26:34,769 - DEBUG - Initializing actionchains
+2025-04-02 11:26:34,852 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4650}, size: {'height': 21, 'width': 68}
+2025-04-02 11:26:34,853 - DEBUG - Target click coordinates: (1121, 4660)
+2025-04-02 11:26:48,367 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 11:26:48,368 - DEBUG - Moving mouse to text box element.
+2025-04-02 11:26:48,369 - DEBUG - Clicking on the text box.
+2025-04-02 11:26:48,370 - DEBUG - Sending keys with content: Honestly, finding a reliable seller is half the battle. Have you checked any local online groups? Sometimes word-of-mouth is better than any review.
+
+2025-04-02 11:26:53,593 - DEBUG - Clicking on post reply button.
+2025-04-02 11:27:05,818 - DEBUG - Performed Actionchains
+2025-04-02 11:27:05,819 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 11:27:09,820 - INFO - Comment posted successfully.
+2025-04-02 11:27:09,822 - INFO - Task Completed!!
+2025-04-02 11:27:18,015 - INFO - Navigated back to the homepage.
+2025-04-02 11:27:20,049 - INFO - Attempting to clear memory and resources.
+2025-04-02 11:27:20,082 - INFO - Garbage collection completed.
+2025-04-02 11:27:20,083 - INFO - Waiting for 2000 seconds before next execution.

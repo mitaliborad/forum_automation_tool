@@ -1,0 +1,106 @@
+2025-04-02 12:38:51,028 - INFO - Current time: 1743577731.0282445
+2025-04-02 12:38:51,029 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 12:38:51,030 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 12:38:51,031 - INFO - performing random action
+2025-04-02 12:38:51,032 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 12:38:51,033 - DEBUG - Scrolling page 2 times.
+2025-04-02 12:38:51,034 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:38:52,490 - DEBUG - Page scrolled.
+2025-04-02 12:38:54,492 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:38:55,753 - DEBUG - Page scrolled.
+2025-04-02 12:38:57,756 - DEBUG - Random scrolls complete.
+2025-04-02 12:38:57,759 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:38:57,761 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:38:59,267 - DEBUG - Page scrolled.
+2025-04-02 12:39:01,270 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:02,909 - DEBUG - Page scrolled.
+2025-04-02 12:39:04,911 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:06,783 - DEBUG - Page scrolled.
+2025-04-02 12:39:08,785 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:10,593 - DEBUG - Page scrolled.
+2025-04-02 12:39:12,595 - DEBUG - Random scrolls complete.
+2025-04-02 12:39:20,890 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-02 12:39:25,389 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/managing-mobile-proxy-costs-for-large-scale-adspower-operations.1700261/unread
+2025-04-02 12:39:25,391 - INFO - performing random action
+2025-04-02 12:39:33,885 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/managing-mobile-proxy-costs-for-large-scale-adspower-operations.1700261/unread
+2025-04-02 12:39:33,889 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/managing-mobile-proxy-costs-for-large-scale-adspower-operations.1700261/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 12:39:33,932 - INFO - Extracted thread title: Managing mobile proxy costs for large-scale Adspower operations
+2025-04-02 12:39:33,933 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:39:33,933 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:35,622 - DEBUG - Page scrolled.
+2025-04-02 12:39:37,623 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:39,610 - DEBUG - Page scrolled.
+2025-04-02 12:39:41,612 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:43,049 - DEBUG - Page scrolled.
+2025-04-02 12:39:45,051 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:46,574 - DEBUG - Page scrolled.
+2025-04-02 12:39:48,576 - DEBUG - Random scrolls complete.
+2025-04-02 12:39:50,898 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:39:50,899 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:52,799 - DEBUG - Page scrolled.
+2025-04-02 12:39:55,802 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:39:57,356 - DEBUG - Page scrolled.
+2025-04-02 12:40:00,359 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:40:01,521 - DEBUG - Page scrolled.
+2025-04-02 12:40:04,522 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:40:06,022 - DEBUG - Page scrolled.
+2025-04-02 12:40:09,024 - DEBUG - Random scrolls complete.
+2025-04-02 12:40:09,053 - DEBUG - Found 7 like buttons.
+2025-04-02 12:40:12,055 - INFO - Attempting to like 1 posts. There are 7 available.
+2025-04-02 12:40:12,918 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:40:12,945 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:40:12,947 - DEBUG - Liked post number 1 of 1.
+2025-04-02 12:40:17,257 - INFO - Liked 1 posts successfully.
+2025-04-02 12:40:17,258 - INFO - Liked 1 posts successfully.
+2025-04-02 12:40:19,568 - INFO - Profile DataPhreak: Pausing for 44.88 seconds...
+2025-04-02 12:41:04,454 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 12:41:04,455 - INFO - performing random action
+2025-04-02 12:41:04,456 - DEBUG - Scrolling page 3 times.
+2025-04-02 12:41:04,456 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:41:06,223 - DEBUG - Page scrolled.
+2025-04-02 12:41:09,225 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:41:10,483 - DEBUG - Page scrolled.
+2025-04-02 12:41:13,485 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:41:15,459 - DEBUG - Page scrolled.
+2025-04-02 12:41:18,460 - DEBUG - Random scrolls complete.
+2025-04-02 12:41:20,759 - DEBUG - Total comments in the thread: 7
+2025-04-02 12:42:23,703 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Managing mobile proxy costs for large-scale Adspower operations.txt
+2025-04-02 12:42:26,701 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 12:42:26,741 - DEBUG - Extracted main post content: I'm trying to figure out how to keep mobile proxy costs manageable when running hundreds of 'aged' Adspower profiles across several team members.
+
+The challenge I'm facing is that we need to perform many small-value actions, each requiring proxy use, but the typical costs of mobile proxies ($30-50 each/month or high pay-per-GB rates) make this hard to scale economically.
+
+Has anyone found effective solutions for:
+- More affordable mobile proxy providers for this type of use case?
+- Strategies for proxy rotation or sharing to reduce total number needed?
+- Ways to minimize data usage without compromising stealth performance?
+- Alternative approaches for large-scale operations?
+
+Any insights from those who've tackled similar scaling issues would be greatly appreciated!
+
+(Please don't send me the proxy marketplace, as it will not help in this case)
+2025-04-02 12:42:30,630 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 12:42:30,635 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 12:42:32,690 - INFO - performing random action
+2025-04-02 12:42:32,692 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:42:32,695 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:42:32,725 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:42:32,765 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:42:32,772 - DEBUG - Text box scrolled into view
+2025-04-02 12:42:33,653 - DEBUG - Initializing actionchains
+2025-04-02 12:42:33,682 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3549}, size: {'height': 21, 'width': 68}
+2025-04-02 12:42:33,683 - DEBUG - Target click coordinates: (1121, 3559)
+2025-04-02 12:42:45,233 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 12:42:45,233 - DEBUG - Moving mouse to text box element.
+2025-04-02 12:42:45,234 - DEBUG - Clicking on the text box.
+2025-04-02 12:42:45,237 - DEBUG - Sending keys with content: Have you looked into rotating residential proxies instead? Might be cheaper than dedicated mobile for smaller tasks.
+
+2025-04-02 12:42:50,252 - DEBUG - Clicking on post reply button.
+2025-04-02 12:43:02,177 - DEBUG - Performed Actionchains
+2025-04-02 12:43:02,178 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 12:43:06,180 - INFO - Comment posted successfully.
+2025-04-02 12:43:06,182 - INFO - Task Completed!!
+2025-04-02 12:43:15,326 - INFO - Navigated back to the homepage.
+2025-04-02 12:43:17,550 - INFO - Attempting to clear memory and resources.
+2025-04-02 12:43:17,590 - INFO - Garbage collection completed.
+2025-04-02 12:43:17,591 - INFO - Waiting for 2000 seconds before next execution.

@@ -1,0 +1,96 @@
+2025-04-09 09:13:16,300 - INFO - Current time: 1744170196.3002956
+2025-04-09 09:13:16,302 - INFO - Token expiration time: 1744180989.5892174
+2025-04-09 09:13:16,303 - INFO - Token expiration time: 1744180989.5892174
+2025-04-09 09:13:16,304 - INFO - Profile DataPhreak: Restoring window...
+2025-04-09 09:13:18,381 - INFO - performing random action
+2025-04-09 09:13:18,383 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 09:13:18,384 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:13:18,385 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:13:20,171 - DEBUG - Page scrolled.
+2025-04-09 09:13:22,173 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:13:23,730 - DEBUG - Page scrolled.
+2025-04-09 09:13:25,732 - DEBUG - Random scrolls complete.
+2025-04-09 09:13:25,737 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:13:25,739 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:13:27,212 - DEBUG - Page scrolled.
+2025-04-09 09:13:29,214 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:13:30,610 - DEBUG - Page scrolled.
+2025-04-09 09:13:32,612 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:13:33,890 - DEBUG - Page scrolled.
+2025-04-09 09:13:35,893 - DEBUG - Random scrolls complete.
+2025-04-09 09:13:41,990 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-09 09:13:45,574 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-is-this-done.1656620/unread
+2025-04-09 09:13:45,575 - INFO - Profile DataPhreak: Restoring window...
+2025-04-09 09:13:47,578 - INFO - performing random action
+2025-04-09 09:13:58,180 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-is-this-done.1656620/unread
+2025-04-09 09:13:58,183 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-is-this-done.1656620/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 09:13:58,233 - INFO - Extracted thread title: How is this done
+2025-04-09 09:13:58,234 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:13:58,234 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:13:59,963 - DEBUG - Page scrolled.
+2025-04-09 09:14:01,965 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:03,070 - DEBUG - Page scrolled.
+2025-04-09 09:14:05,072 - DEBUG - Random scrolls complete.
+2025-04-09 09:14:07,928 - DEBUG - Scrolling page 1 times.
+2025-04-09 09:14:07,929 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:09,717 - DEBUG - Page scrolled.
+2025-04-09 09:14:12,718 - DEBUG - Random scrolls complete.
+2025-04-09 09:14:12,732 - DEBUG - Found 12 like buttons.
+2025-04-09 09:14:15,733 - INFO - Attempting to like 2 posts. There are 12 available.
+2025-04-09 09:14:16,597 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:14:16,616 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:14:16,617 - DEBUG - Liked post number 1 of 2.
+2025-04-09 09:14:22,267 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:14:22,278 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:14:22,279 - DEBUG - Liked post number 2 of 2.
+2025-04-09 09:14:26,617 - INFO - Liked 2 posts successfully.
+2025-04-09 09:14:26,619 - INFO - Liked 2 posts successfully.
+2025-04-09 09:14:29,596 - INFO - performing random action
+2025-04-09 09:14:29,599 - DEBUG - Scrolling page 6 times.
+2025-04-09 09:14:29,601 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:31,014 - DEBUG - Page scrolled.
+2025-04-09 09:14:34,016 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:35,100 - DEBUG - Page scrolled.
+2025-04-09 09:14:38,102 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:39,601 - DEBUG - Page scrolled.
+2025-04-09 09:14:42,603 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:44,254 - DEBUG - Page scrolled.
+2025-04-09 09:14:47,255 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:48,802 - DEBUG - Page scrolled.
+2025-04-09 09:14:51,804 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:14:53,230 - DEBUG - Page scrolled.
+2025-04-09 09:14:56,232 - DEBUG - Random scrolls complete.
+2025-04-09 09:14:58,491 - DEBUG - Total comments in the thread: 12
+2025-04-09 09:16:35,140 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How is this done.txt
+2025-04-09 09:16:38,078 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 09:16:38,158 - DEBUG - Extracted main post content: Any help would be much appreciated.
+Attachments
+11.jpg
+2025-04-09 09:16:43,577 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 09:16:43,580 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 09:16:46,165 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-09 09:16:46,173 - INFO - Profile DataPhreak: Window minimized. Pausing for 27.13 seconds...
+2025-04-09 09:17:13,308 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-09 09:17:13,311 - INFO - performing random action
+2025-04-09 09:17:13,313 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:17:13,317 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:17:13,331 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:17:13,372 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:17:13,379 - DEBUG - Text box scrolled into view
+2025-04-09 09:17:13,941 - DEBUG - Initializing actionchains
+2025-04-09 09:17:13,966 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4170}, size: {'height': 21, 'width': 68}
+2025-04-09 09:17:13,966 - DEBUG - Target click coordinates: (1265, 4180)
+2025-04-09 09:17:26,321 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 09:17:26,323 - DEBUG - Moving mouse to text box element.
+2025-04-09 09:17:26,325 - DEBUG - Clicking on the text box.
+2025-04-09 09:17:26,332 - DEBUG - Sending keys with content: Looks like you're selling something; what problem does it solve, and who's your ideal customer?
+
+2025-04-09 09:17:32,265 - DEBUG - Clicking on post reply button.
+2025-04-09 09:17:43,147 - DEBUG - Performed Actionchains
+2025-04-09 09:17:43,149 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 09:17:47,151 - INFO - Comment posted successfully.
+2025-04-09 09:17:47,153 - INFO - Task Completed!!
+2025-04-09 09:17:54,626 - INFO - Navigated back to the homepage.
+2025-04-09 09:17:56,697 - INFO - Attempting to clear memory and resources.
+2025-04-09 09:17:56,746 - INFO - Garbage collection completed.
+2025-04-09 09:17:56,747 - INFO - Waiting for 1850 seconds before next execution.

@@ -1,0 +1,103 @@
+2025-04-14 12:14:07,481 - INFO - Current time: 1744613047.4814057
+2025-04-14 12:14:07,483 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 12:14:07,485 - INFO - Token expiration time: 1744621234.7167466
+2025-04-14 12:14:07,490 - INFO - Profile NullBytee: Opening random website: https://github.com/
+2025-04-14 12:14:12,238 - INFO - Profile NullBytee: Pausing for 39.18 seconds...
+2025-04-14 12:14:51,420 - INFO - Profile NullBytee: Resuming...
+2025-04-14 12:14:51,434 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-14 12:14:51,436 - INFO - performing random action
+2025-04-14 12:14:51,438 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:14:51,444 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:14:51,445 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:14:52,920 - DEBUG - Page scrolled.
+2025-04-14 12:14:54,922 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:14:56,924 - DEBUG - Page scrolled.
+2025-04-14 12:14:58,926 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:15:00,904 - DEBUG - Page scrolled.
+2025-04-14 12:15:02,906 - DEBUG - Random scrolls complete.
+2025-04-14 12:15:02,909 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:15:02,910 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:15:03,991 - DEBUG - Page scrolled.
+2025-04-14 12:15:05,994 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:15:07,218 - DEBUG - Page scrolled.
+2025-04-14 12:15:09,220 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:15:11,162 - DEBUG - Page scrolled.
+2025-04-14 12:15:13,163 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:15:14,475 - DEBUG - Page scrolled.
+2025-04-14 12:15:16,476 - DEBUG - Random scrolls complete.
+2025-04-14 12:15:23,065 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-04-14 12:15:27,000 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/youtube-channel-is-not-growing.1702590/unread
+2025-04-14 12:15:27,000 - INFO - Profile NullBytee: Minimizing window...
+2025-04-14 12:15:27,003 - INFO - Profile NullBytee: Window minimized. Pausing for 17.86 seconds...
+2025-04-14 12:15:44,862 - INFO - Profile NullBytee: Resuming after minimize...
+2025-04-14 12:15:44,864 - INFO - performing random action
+2025-04-14 12:15:55,923 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/youtube-channel-is-not-growing.1702590/unread
+2025-04-14 12:15:55,928 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/youtube-channel-is-not-growing.1702590/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:15:55,986 - INFO - Extracted thread title: Youtube channel is not growing
+2025-04-14 12:15:55,986 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:15:55,987 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:15:57,016 - DEBUG - Page scrolled.
+2025-04-14 12:15:59,017 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:00,844 - DEBUG - Page scrolled.
+2025-04-14 12:16:02,848 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:03,897 - DEBUG - Page scrolled.
+2025-04-14 12:16:05,899 - DEBUG - Random scrolls complete.
+2025-04-14 12:16:08,485 - DEBUG - Scrolling page 1 times.
+2025-04-14 12:16:08,486 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:10,313 - DEBUG - Page scrolled.
+2025-04-14 12:16:13,313 - DEBUG - Random scrolls complete.
+2025-04-14 12:16:13,328 - DEBUG - Found 20 like buttons.
+2025-04-14 12:16:16,330 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-14 12:16:17,064 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:16:17,081 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:16:17,082 - DEBUG - Liked post number 1 of 3.
+2025-04-14 12:16:22,642 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:16:22,663 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:16:22,664 - DEBUG - Liked post number 2 of 3.
+2025-04-14 12:16:28,015 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:16:28,037 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:16:28,039 - DEBUG - Liked post number 3 of 3.
+2025-04-14 12:16:32,213 - INFO - Liked 3 posts successfully.
+2025-04-14 12:16:32,215 - INFO - Liked 3 posts successfully.
+2025-04-14 12:16:35,046 - INFO - performing random action
+2025-04-14 12:16:35,049 - DEBUG - Scrolling page 5 times.
+2025-04-14 12:16:35,051 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:36,234 - DEBUG - Page scrolled.
+2025-04-14 12:16:39,239 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:40,684 - DEBUG - Page scrolled.
+2025-04-14 12:16:43,688 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:45,343 - DEBUG - Page scrolled.
+2025-04-14 12:16:48,345 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:50,094 - DEBUG - Page scrolled.
+2025-04-14 12:16:53,097 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:16:54,830 - DEBUG - Page scrolled.
+2025-04-14 12:16:57,831 - DEBUG - Random scrolls complete.
+2025-04-14 12:17:00,493 - DEBUG - Total comments in the thread: 20
+2025-04-14 12:18:54,005 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Youtube channel is not growing.txt
+2025-04-14 12:18:56,192 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:18:56,263 - DEBUG - Extracted main post content: Any one have any idea o how to get impressions on youtube I have 42% ctr but youtube is not giving me impressions. Please share your honest experience
+2025-04-14 12:18:59,884 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:18:59,887 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:19:02,223 - INFO - performing random action
+2025-04-14 12:19:02,225 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:19:02,226 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:19:02,271 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:19:02,329 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:19:02,337 - DEBUG - Text box scrolled into view
+2025-04-14 12:19:03,165 - DEBUG - Initializing actionchains
+2025-04-14 12:19:03,235 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6666}, size: {'height': 21, 'width': 68}
+2025-04-14 12:19:03,238 - DEBUG - Target click coordinates: (1265, 6676)
+2025-04-14 12:19:20,634 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:19:20,636 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:19:20,638 - DEBUG - Clicking on the text box.
+2025-04-14 12:19:20,640 - DEBUG - Sending keys with content: CTR that high usually flags you as clickbait, I would test some different thumbnails to get that number down a bit.
+
+2025-04-14 12:19:26,522 - DEBUG - Clicking on post reply button.
+2025-04-14 12:19:37,524 - DEBUG - Performed Actionchains
+2025-04-14 12:19:37,525 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:19:41,526 - INFO - Comment posted successfully.
+2025-04-14 12:19:41,528 - INFO - Task Completed!!
+2025-04-14 12:19:49,939 - INFO - Navigated back to the homepage.
+2025-04-14 12:19:52,888 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:19:52,931 - INFO - Garbage collection completed.
+2025-04-14 12:19:52,932 - INFO - Waiting for 2200 seconds before next execution.

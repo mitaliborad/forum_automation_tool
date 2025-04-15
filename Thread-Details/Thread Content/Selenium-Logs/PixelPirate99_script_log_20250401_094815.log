@@ -1,0 +1,121 @@
+2025-04-01 09:48:15,295 - INFO - Current time: 1743481095.295098
+2025-04-01 09:48:15,297 - INFO - Token expiration time: 1743491889.6394923
+2025-04-01 09:48:15,298 - INFO - Token expiration time: 1743491889.6394923
+2025-04-01 09:48:15,299 - INFO - Profile PixelPirate99: Opening random website: https://github.com/
+2025-04-01 09:48:26,711 - INFO - Profile PixelPirate99: Pausing for 35.86 seconds...
+2025-04-01 09:49:02,573 - INFO - Profile PixelPirate99: Resuming...
+2025-04-01 09:49:02,592 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-01 09:49:02,596 - INFO - performing random action
+2025-04-01 09:49:02,598 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 09:49:02,601 - DEBUG - Scrolling page 3 times.
+2025-04-01 09:49:02,603 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:03,868 - DEBUG - Page scrolled.
+2025-04-01 09:49:05,870 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:07,352 - DEBUG - Page scrolled.
+2025-04-01 09:49:09,353 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:11,035 - DEBUG - Page scrolled.
+2025-04-01 09:49:13,037 - DEBUG - Random scrolls complete.
+2025-04-01 09:49:13,039 - DEBUG - Scrolling page 4 times.
+2025-04-01 09:49:13,040 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:15,011 - DEBUG - Page scrolled.
+2025-04-01 09:49:17,013 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:18,842 - DEBUG - Page scrolled.
+2025-04-01 09:49:20,845 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:22,142 - DEBUG - Page scrolled.
+2025-04-01 09:49:24,196 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:25,288 - DEBUG - Page scrolled.
+2025-04-01 09:49:27,290 - DEBUG - Random scrolls complete.
+2025-04-01 09:49:34,336 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-04-01 09:49:39,274 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/will-i-get-banned-if-i-follow-100-200-accounts-per-day-on-x-twitter.1700061/unread
+2025-04-01 09:49:39,276 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-01 09:49:46,077 - INFO - Profile PixelPirate99: Pausing for 46.29 seconds...
+2025-04-01 09:50:32,370 - INFO - Profile PixelPirate99: Resuming...
+2025-04-01 09:50:32,433 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-01 09:50:32,434 - INFO - performing random action
+2025-04-01 09:50:45,500 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/will-i-get-banned-if-i-follow-100-200-accounts-per-day-on-x-twitter.1700061/unread
+2025-04-01 09:50:45,502 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/will-i-get-banned-if-i-follow-100-200-accounts-per-day-on-x-twitter.1700061/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 09:50:45,533 - INFO - Extracted thread title: Will I get banned if I follow 100-200 accounts per day on X (Twitter)
+2025-04-01 09:50:45,534 - DEBUG - Scrolling page 3 times.
+2025-04-01 09:50:45,535 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:50:47,040 - DEBUG - Page scrolled.
+2025-04-01 09:50:49,042 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:50:50,503 - DEBUG - Page scrolled.
+2025-04-01 09:50:52,506 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:50:53,772 - DEBUG - Page scrolled.
+2025-04-01 09:50:55,774 - DEBUG - Random scrolls complete.
+2025-04-01 09:50:57,939 - DEBUG - Scrolling page 1 times.
+2025-04-01 09:50:57,941 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:50:59,290 - DEBUG - Page scrolled.
+2025-04-01 09:51:02,293 - DEBUG - Random scrolls complete.
+2025-04-01 09:51:02,312 - DEBUG - Found 8 like buttons.
+2025-04-01 09:51:05,313 - INFO - Attempting to like 4 posts. There are 8 available.
+2025-04-01 09:51:06,089 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 09:51:06,103 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 09:51:06,104 - DEBUG - Liked post number 1 of 4.
+2025-04-01 09:51:10,997 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 09:51:11,011 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 09:51:11,012 - DEBUG - Liked post number 2 of 4.
+2025-04-01 09:51:15,876 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 09:51:15,894 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 09:51:15,896 - DEBUG - Liked post number 3 of 4.
+2025-04-01 09:51:21,527 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 09:51:21,546 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 09:51:21,549 - DEBUG - Liked post number 4 of 4.
+2025-04-01 09:51:26,242 - INFO - Liked 4 posts successfully.
+2025-04-01 09:51:26,244 - INFO - Liked 4 posts successfully.
+2025-04-01 09:51:28,362 - INFO - Profile PixelPirate99: Opening random website: https://www.netflix.com/in/
+2025-04-01 09:51:34,815 - INFO - Profile PixelPirate99: Pausing for 32.89 seconds...
+2025-04-01 09:52:07,711 - INFO - Profile PixelPirate99: Resuming...
+2025-04-01 09:52:07,732 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-01 09:52:07,734 - INFO - performing random action
+2025-04-01 09:52:07,735 - DEBUG - Scrolling page 7 times.
+2025-04-01 09:52:07,737 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:52:09,341 - DEBUG - Page scrolled.
+2025-04-01 09:52:12,343 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:52:13,528 - DEBUG - Page scrolled.
+2025-04-01 09:52:16,529 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:52:18,063 - DEBUG - Page scrolled.
+2025-04-01 09:52:21,067 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:52:23,070 - DEBUG - Page scrolled.
+2025-04-01 09:52:26,071 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:52:27,582 - DEBUG - Page scrolled.
+2025-04-01 09:52:30,584 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:52:32,106 - DEBUG - Page scrolled.
+2025-04-01 09:52:35,108 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:52:36,724 - DEBUG - Page scrolled.
+2025-04-01 09:52:39,726 - DEBUG - Random scrolls complete.
+2025-04-01 09:52:42,837 - DEBUG - Total comments in the thread: 8
+2025-04-01 09:53:24,810 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Will I get banned if I follow 100-200 accounts per day on X (Twitter).txt
+2025-04-01 09:53:27,655 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 09:53:27,699 - DEBUG - Extracted main post content: Trying to grow my twitter account., have been following 80 accounts/day and engaging with them, been working very well.
+
+Want to scale this up without getting banned?
+
+What's the current limit for X (Twitter) for a verified account?
+2025-04-01 09:53:31,692 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 09:53:31,694 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 09:53:34,474 - INFO - Profile PixelPirate99: Pausing for 46.69 seconds...
+2025-04-01 09:54:21,165 - INFO - Profile PixelPirate99: Resuming...
+2025-04-01 09:54:21,167 - INFO - performing random action
+2025-04-01 09:54:21,169 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:54:21,170 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:54:21,188 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:54:21,241 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:54:21,252 - DEBUG - Text box scrolled into view
+2025-04-01 09:54:21,871 - DEBUG - Initializing actionchains
+2025-04-01 09:54:21,896 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3753}, size: {'height': 21, 'width': 68}
+2025-04-01 09:54:21,896 - DEBUG - Target click coordinates: (1121, 3763)
+2025-04-01 09:54:32,778 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 09:54:32,780 - DEBUG - Moving mouse to text box element.
+2025-04-01 09:54:32,782 - DEBUG - Clicking on the text box.
+2025-04-01 09:54:32,785 - DEBUG - Sending keys with content: Instead of just following more, try creating different lists and engaging those communities, might get more bang for your buck and avoid the ban hammer.
+
+2025-04-01 09:54:38,151 - DEBUG - Clicking on post reply button.
+2025-04-01 09:54:49,178 - DEBUG - Performed Actionchains
+2025-04-01 09:54:49,179 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 09:54:53,181 - INFO - Comment posted successfully.
+2025-04-01 09:54:53,183 - INFO - Task Completed!!
+2025-04-01 09:55:02,149 - INFO - Navigated back to the homepage.
+2025-04-01 09:55:04,789 - INFO - Attempting to clear memory and resources.
+2025-04-01 09:55:04,820 - INFO - Garbage collection completed.
+2025-04-01 09:55:04,821 - INFO - Waiting for 2000 seconds before next execution.

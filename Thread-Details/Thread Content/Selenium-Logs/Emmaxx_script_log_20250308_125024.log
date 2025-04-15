@@ -1,0 +1,109 @@
+2025-03-08 12:50:24,368 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250308_125024.log
+2025-03-08 12:50:24,370 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-08 12:50:24,371 - INFO - Loaded 102 visited threads from Thread_links.txt
+2025-03-08 12:50:24,372 - INFO - Successfully loaded links that was already visited!
+2025-03-08 12:50:24,373 - DEBUG - Scrolling page 5 times.
+2025-03-08 12:50:24,373 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:29,878 - DEBUG - Page scrolled.
+2025-03-08 12:50:31,881 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:33,828 - DEBUG - Page scrolled.
+2025-03-08 12:50:35,831 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:37,207 - DEBUG - Page scrolled.
+2025-03-08 12:50:39,209 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:40,821 - DEBUG - Page scrolled.
+2025-03-08 12:50:42,823 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:44,416 - DEBUG - Page scrolled.
+2025-03-08 12:50:46,419 - DEBUG - Random scrolls complete.
+2025-03-08 12:50:46,420 - DEBUG - Scrolling page 6 times.
+2025-03-08 12:50:46,421 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:47,522 - DEBUG - Page scrolled.
+2025-03-08 12:50:49,524 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:51,088 - DEBUG - Page scrolled.
+2025-03-08 12:50:53,090 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:54,567 - DEBUG - Page scrolled.
+2025-03-08 12:50:56,570 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:50:58,070 - DEBUG - Page scrolled.
+2025-03-08 12:51:00,073 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:01,730 - DEBUG - Page scrolled.
+2025-03-08 12:51:03,732 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:04,862 - DEBUG - Page scrolled.
+2025-03-08 12:51:06,864 - DEBUG - Random scrolls complete.
+2025-03-08 12:51:12,394 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-03-08 12:51:16,993 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-index-instantly-in-google-high-d-a-domain.1693141/unread
+2025-03-08 12:51:25,121 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-index-instantly-in-google-high-d-a-domain.1693141/unread
+2025-03-08 12:51:25,125 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-index-instantly-in-google-high-d-a-domain.1693141/unread' to visited threads file 'Thread_links.txt'.
+2025-03-08 12:51:25,178 - INFO - Extracted thread title: How to index instantly in google high D.A domain .
+2025-03-08 12:51:25,179 - DEBUG - Scrolling page 3 times.
+2025-03-08 12:51:25,180 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:26,737 - DEBUG - Page scrolled.
+2025-03-08 12:51:28,740 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:30,430 - DEBUG - Page scrolled.
+2025-03-08 12:51:32,433 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:34,078 - DEBUG - Page scrolled.
+2025-03-08 12:51:36,081 - DEBUG - Random scrolls complete.
+2025-03-08 12:51:38,745 - DEBUG - Scrolling page 3 times.
+2025-03-08 12:51:38,748 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:39,929 - DEBUG - Page scrolled.
+2025-03-08 12:51:42,931 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:44,174 - DEBUG - Page scrolled.
+2025-03-08 12:51:47,176 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:51:48,313 - DEBUG - Page scrolled.
+2025-03-08 12:51:51,315 - DEBUG - Random scrolls complete.
+2025-03-08 12:51:51,333 - DEBUG - Found 4 like buttons.
+2025-03-08 12:51:54,334 - INFO - Attempting to like 3 posts. There are 4 available.
+2025-03-08 12:51:54,877 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-08 12:51:54,908 - INFO - Like button clicked successfully using JavaScript.
+2025-03-08 12:51:54,909 - DEBUG - Liked post number 1 of 3.
+2025-03-08 12:51:59,812 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-08 12:51:59,833 - INFO - Like button clicked successfully using JavaScript.
+2025-03-08 12:51:59,837 - DEBUG - Liked post number 2 of 3.
+2025-03-08 12:52:04,844 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-08 12:52:04,883 - INFO - Like button clicked successfully using JavaScript.
+2025-03-08 12:52:04,885 - DEBUG - Liked post number 3 of 3.
+2025-03-08 12:52:09,137 - INFO - Liked 3 posts successfully.
+2025-03-08 12:52:09,140 - INFO - Liked 3 posts successfully.
+2025-03-08 12:52:09,142 - DEBUG - Scrolling page 6 times.
+2025-03-08 12:52:09,144 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:52:10,440 - DEBUG - Page scrolled.
+2025-03-08 12:52:13,443 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:52:14,930 - DEBUG - Page scrolled.
+2025-03-08 12:52:17,932 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:52:19,396 - DEBUG - Page scrolled.
+2025-03-08 12:52:22,399 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:52:23,698 - DEBUG - Page scrolled.
+2025-03-08 12:52:26,701 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:52:28,000 - DEBUG - Page scrolled.
+2025-03-08 12:52:31,005 - DEBUG - Scrolling page by 500 pixels.
+2025-03-08 12:52:32,881 - DEBUG - Page scrolled.
+2025-03-08 12:52:35,884 - DEBUG - Random scrolls complete.
+2025-03-08 12:52:38,415 - DEBUG - Total comments in the thread: 4
+2025-03-08 12:52:41,889 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to index instantly in google high D.A domain ..txt
+2025-03-08 12:52:44,298 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-08 12:52:44,346 - DEBUG - Extracted main post content: Hello sir,
+I am currently studying in university. I want to learn how to index in google like 3 to 5 min. I have seen many people are indexing less then 10 min. They are posting various kind of CPA offer in high D.A domain and index instantly. I am trying but failed.
+
+Anyone here to help me share this method. I am hopefully anyone here to help me.
+2025-03-08 12:52:48,714 - INFO - Successfully generated comments using Gemini API.
+2025-03-08 12:52:48,718 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-08 12:52:51,705 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:52:51,706 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:52:51,720 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:52:51,770 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-08 12:52:51,780 - DEBUG - Text box scrolled into view
+2025-03-08 12:52:52,651 - DEBUG - Initializing actionchains
+2025-03-08 12:52:52,680 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2367}, size: {'height': 21, 'width': 68}
+2025-03-08 12:52:52,681 - DEBUG - Target click coordinates: (1121, 2377)
+2025-03-08 12:53:01,523 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-08 12:53:01,525 - DEBUG - Moving mouse to text box element.
+2025-03-08 12:53:01,527 - DEBUG - Clicking on the text box.
+2025-03-08 12:53:01,530 - DEBUG - Sending keys with content: Indexing can be tricky! Have you checked if Google Search Console is picking up any crawl errors?
+
+2025-03-08 12:53:06,577 - DEBUG - Clicking on post reply button.
+2025-03-08 12:53:17,526 - DEBUG - Performed Actionchains
+2025-03-08 12:53:17,527 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-08 12:53:21,529 - INFO - Comment posted successfully.
+2025-03-08 12:53:21,530 - INFO - Task Completed!!
+2025-03-08 12:53:30,687 - INFO - Navigated back to the homepage.
+2025-03-08 12:53:33,483 - INFO - Attempting to clear memory and resources.
+2025-03-08 12:53:33,520 - INFO - Garbage collection completed.
+2025-03-08 12:53:33,521 - INFO - Waiting for 10 seconds before next execution.

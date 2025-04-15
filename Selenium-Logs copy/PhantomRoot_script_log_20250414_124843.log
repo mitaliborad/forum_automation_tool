@@ -1,0 +1,104 @@
+2025-04-14 12:48:43,649 - INFO - Current time: 1744615123.6496556
+2025-04-14 12:48:43,651 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 12:48:43,654 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 12:48:43,655 - INFO - Profile PhantomRoot: Opening random website: https://github.com/
+2025-04-14 12:49:01,242 - INFO - Profile PhantomRoot: Pausing for 44.95 seconds...
+2025-04-14 12:49:46,192 - INFO - Profile PhantomRoot: Resuming...
+2025-04-14 12:49:46,241 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-14 12:49:46,243 - INFO - performing random action
+2025-04-14 12:49:46,253 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:49:46,258 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:49:46,260 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:49:48,074 - DEBUG - Page scrolled.
+2025-04-14 12:49:50,076 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:49:51,671 - DEBUG - Page scrolled.
+2025-04-14 12:49:53,674 - DEBUG - Random scrolls complete.
+2025-04-14 12:49:53,678 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:49:53,679 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:49:54,979 - DEBUG - Page scrolled.
+2025-04-14 12:49:56,982 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:49:58,392 - DEBUG - Page scrolled.
+2025-04-14 12:50:00,394 - DEBUG - Random scrolls complete.
+2025-04-14 12:50:17,363 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-14 12:50:21,557 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/looking-for-good-proxy-provider.1704016/unread
+2025-04-14 12:50:21,558 - INFO - performing random action
+2025-04-14 12:50:31,464 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/looking-for-good-proxy-provider.1704016/unread
+2025-04-14 12:50:31,465 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/looking-for-good-proxy-provider.1704016/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:50:31,499 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-14 12:50:31,500 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:50:31,500 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:33,186 - DEBUG - Page scrolled.
+2025-04-14 12:50:35,187 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:36,230 - DEBUG - Page scrolled.
+2025-04-14 12:50:38,235 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:54,901 - DEBUG - Page scrolled.
+2025-04-14 12:50:56,902 - DEBUG - Random scrolls complete.
+2025-04-14 12:50:59,639 - DEBUG - Scrolling page 1 times.
+2025-04-14 12:50:59,642 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:01,588 - DEBUG - Page scrolled.
+2025-04-14 12:51:04,590 - DEBUG - Random scrolls complete.
+2025-04-14 12:51:04,634 - DEBUG - Found 5 like buttons.
+2025-04-14 12:51:07,636 - INFO - Attempting to like 4 posts. There are 5 available.
+2025-04-14 12:51:08,450 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:51:08,657 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:51:08,658 - DEBUG - Liked post number 1 of 4.
+2025-04-14 12:51:14,331 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:51:14,352 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:51:14,354 - DEBUG - Liked post number 2 of 4.
+2025-04-14 12:51:19,303 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:51:19,311 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:51:19,311 - DEBUG - Liked post number 3 of 4.
+2025-04-14 12:51:24,296 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:51:24,317 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:51:24,319 - DEBUG - Liked post number 4 of 4.
+2025-04-14 12:51:28,498 - INFO - Liked 4 posts successfully.
+2025-04-14 12:51:28,499 - INFO - Liked 4 posts successfully.
+2025-04-14 12:51:30,732 - INFO - performing random action
+2025-04-14 12:51:30,734 - DEBUG - Scrolling page 5 times.
+2025-04-14 12:51:30,735 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:32,625 - DEBUG - Page scrolled.
+2025-04-14 12:51:35,627 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:37,014 - DEBUG - Page scrolled.
+2025-04-14 12:51:40,016 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:41,297 - DEBUG - Page scrolled.
+2025-04-14 12:51:44,300 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:45,853 - DEBUG - Page scrolled.
+2025-04-14 12:51:48,854 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:51:50,190 - DEBUG - Page scrolled.
+2025-04-14 12:51:53,192 - DEBUG - Random scrolls complete.
+2025-04-14 12:51:56,108 - DEBUG - Total comments in the thread: 5
+2025-04-14 12:52:06,546 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-14 12:52:08,981 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:52:09,035 - DEBUG - Extracted main post content: Hi
+
+I currently use around 1.2TB of bandwidth on oxylabs for building ml datasets but I'm looking to swap due to IP blocking issues. I looked at the marketplace here but I'm not super sure what to go with.
+Are there any proxy providers offer around 3-5GB trials to determine which ones are quality before going with a longterm package?
+2025-04-14 12:52:13,173 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:52:13,174 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:52:15,474 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-14 12:52:25,313 - INFO - Profile PhantomRoot: Pausing for 43.93 seconds...
+2025-04-14 12:53:09,250 - INFO - Profile PhantomRoot: Resuming...
+2025-04-14 12:53:09,263 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-14 12:53:09,263 - INFO - performing random action
+2025-04-14 12:53:09,264 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:53:09,264 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:53:09,281 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:53:09,320 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:53:09,329 - DEBUG - Text box scrolled into view
+2025-04-14 12:53:10,303 - DEBUG - Initializing actionchains
+2025-04-14 12:53:10,325 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2507}, size: {'height': 21, 'width': 68}
+2025-04-14 12:53:10,325 - DEBUG - Target click coordinates: (1265, 2517)
+2025-04-14 12:53:19,516 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:53:19,517 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:53:19,518 - DEBUG - Clicking on the text box.
+2025-04-14 12:53:19,519 - DEBUG - Sending keys with content: IP blocking is a pain, and honestly, trials are the way to go. Have you tried rotating residential proxies? Might be worth a shot before committing to a whole new service.
+
+2025-04-14 12:53:25,260 - DEBUG - Clicking on post reply button.
+2025-04-14 12:53:35,933 - DEBUG - Performed Actionchains
+2025-04-14 12:53:35,934 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:53:39,938 - INFO - Comment posted successfully.
+2025-04-14 12:53:39,940 - INFO - Task Completed!!
+2025-04-14 12:53:58,140 - INFO - Navigated back to the homepage.
+2025-04-14 12:54:01,059 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:54:01,128 - INFO - Garbage collection completed.
+2025-04-14 12:54:01,129 - INFO - Waiting for 2200 seconds before next execution.

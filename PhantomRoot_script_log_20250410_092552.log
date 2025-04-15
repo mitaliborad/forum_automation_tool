@@ -1,0 +1,109 @@
+2025-04-10 09:25:52,637 - INFO - Current time: 1744257352.637274
+2025-04-10 09:25:52,638 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 09:25:52,638 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 09:25:52,639 - INFO - performing random action
+2025-04-10 09:25:52,640 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 09:25:52,640 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:25:52,641 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:01,287 - DEBUG - Page scrolled.
+2025-04-10 09:26:03,290 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:04,468 - DEBUG - Page scrolled.
+2025-04-10 09:26:06,471 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:08,112 - DEBUG - Page scrolled.
+2025-04-10 09:26:10,116 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:11,604 - DEBUG - Page scrolled.
+2025-04-10 09:26:13,607 - DEBUG - Random scrolls complete.
+2025-04-10 09:26:13,608 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:26:13,610 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:15,265 - DEBUG - Page scrolled.
+2025-04-10 09:26:17,267 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:19,132 - DEBUG - Page scrolled.
+2025-04-10 09:26:21,134 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:22,692 - DEBUG - Page scrolled.
+2025-04-10 09:26:24,694 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:26,598 - DEBUG - Page scrolled.
+2025-04-10 09:26:28,601 - DEBUG - Random scrolls complete.
+2025-04-10 09:26:33,868 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/instagram.215/
+2025-04-10 09:26:37,721 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/does-having-50k-fake-followers-ruin-my-chances-of-going-viral.1703691/unread
+2025-04-10 09:26:37,722 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-10 09:26:39,723 - INFO - performing random action
+2025-04-10 09:26:54,356 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/does-having-50k-fake-followers-ruin-my-chances-of-going-viral.1703691/unread
+2025-04-10 09:26:54,360 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/does-having-50k-fake-followers-ruin-my-chances-of-going-viral.1703691/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 09:26:54,387 - INFO - Extracted thread title: Does having 50k fake followers ruin my chances of going viral
+2025-04-10 09:26:54,388 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:26:54,389 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:56,191 - DEBUG - Page scrolled.
+2025-04-10 09:26:58,193 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:26:59,550 - DEBUG - Page scrolled.
+2025-04-10 09:27:01,552 - DEBUG - Random scrolls complete.
+2025-04-10 09:27:04,179 - DEBUG - Scrolling page 1 times.
+2025-04-10 09:27:04,181 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:05,975 - DEBUG - Page scrolled.
+2025-04-10 09:27:08,977 - DEBUG - Random scrolls complete.
+2025-04-10 09:27:09,008 - DEBUG - Found 9 like buttons.
+2025-04-10 09:27:12,009 - INFO - Attempting to like 4 posts. There are 9 available.
+2025-04-10 09:27:12,740 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:27:12,762 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:27:12,763 - DEBUG - Liked post number 1 of 4.
+2025-04-10 09:27:18,348 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:27:18,367 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:27:18,368 - DEBUG - Liked post number 2 of 4.
+2025-04-10 09:27:23,387 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:27:23,409 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:27:23,411 - DEBUG - Liked post number 3 of 4.
+2025-04-10 09:27:28,593 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:27:28,601 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:27:28,602 - DEBUG - Liked post number 4 of 4.
+2025-04-10 09:27:33,227 - INFO - Liked 4 posts successfully.
+2025-04-10 09:27:33,230 - INFO - Liked 4 posts successfully.
+2025-04-10 09:27:35,782 - INFO - performing random action
+2025-04-10 09:27:35,785 - DEBUG - Scrolling page 5 times.
+2025-04-10 09:27:35,786 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:37,087 - DEBUG - Page scrolled.
+2025-04-10 09:27:40,089 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:41,373 - DEBUG - Page scrolled.
+2025-04-10 09:27:44,375 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:45,641 - DEBUG - Page scrolled.
+2025-04-10 09:27:48,643 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:50,178 - DEBUG - Page scrolled.
+2025-04-10 09:27:53,180 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:27:54,777 - DEBUG - Page scrolled.
+2025-04-10 09:27:57,778 - DEBUG - Random scrolls complete.
+2025-04-10 09:28:00,692 - DEBUG - Total comments in the thread: 9
+2025-04-10 09:28:42,684 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Does having 50k fake followers ruin my chances of going viral.txt
+2025-04-10 09:28:45,459 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 09:28:45,480 - DEBUG - Extracted main post content: I’ve got a question that’s been on my mind and I’d love to hear your thoughts.
+
+
+So basically, my account has around 50k followers - but most of them are fake (bought them a while ago, kinda regretting it now). I’ve started taking content creation seriously and I’m posting 3 reels a day consistently, trying to go viral organically.
+
+
+My question is:
+Does having that many fake followers actually hurt my chances of going viral on platforms like Instagram or TikTok?
+And if yes, does that mean I basically have no shot with this account anymore? Or is there still hope if I just stay consistent and keep putting out good content?
+2025-04-10 09:28:49,006 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 09:28:49,009 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 09:28:51,375 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-10 09:28:53,379 - INFO - performing random action
+2025-04-10 09:28:53,380 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:28:53,381 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:28:53,392 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:28:53,432 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:28:53,439 - DEBUG - Text box scrolled into view
+2025-04-10 09:28:54,245 - DEBUG - Initializing actionchains
+2025-04-10 09:28:54,264 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3636}, size: {'height': 21, 'width': 68}
+2025-04-10 09:28:54,265 - DEBUG - Target click coordinates: (1265, 3646)
+2025-04-10 09:29:05,527 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 09:29:05,530 - DEBUG - Moving mouse to text box element.
+2025-04-10 09:29:05,532 - DEBUG - Clicking on the text box.
+2025-04-10 09:29:05,536 - DEBUG - Sending keys with content: Honestly, the fake followers are dead weight, but not a death sentence. Just keep creating killer content; the algorithm cares more about engagement than follower count.
+
+2025-04-10 09:29:10,564 - DEBUG - Clicking on post reply button.
+2025-04-10 09:29:21,244 - DEBUG - Performed Actionchains
+2025-04-10 09:29:21,246 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 09:29:25,247 - INFO - Comment posted successfully.
+2025-04-10 09:29:25,248 - INFO - Task Completed!!
+2025-04-10 09:29:37,782 - INFO - Navigated back to the homepage.
+2025-04-10 09:29:40,397 - INFO - Attempting to clear memory and resources.
+2025-04-10 09:29:40,421 - INFO - Garbage collection completed.
+2025-04-10 09:29:40,422 - INFO - Waiting for 1850 seconds before next execution.

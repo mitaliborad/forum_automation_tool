@@ -1,0 +1,96 @@
+2025-03-11 14:17:31,604 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_141731.log
+2025-03-11 14:17:31,609 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 14:17:31,613 - INFO - Loaded 138 visited threads from Thread_links.txt
+2025-03-11 14:17:31,617 - INFO - Successfully loaded links that was already visited!
+2025-03-11 14:17:31,620 - DEBUG - Scrolling page 3 times.
+2025-03-11 14:17:31,622 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:17:33,553 - DEBUG - Page scrolled.
+2025-03-11 14:17:35,557 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:17:36,938 - DEBUG - Page scrolled.
+2025-03-11 14:17:38,942 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:17:40,349 - DEBUG - Page scrolled.
+2025-03-11 14:17:42,352 - DEBUG - Random scrolls complete.
+2025-03-11 14:17:42,355 - DEBUG - Scrolling page 6 times.
+2025-03-11 14:17:42,356 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:17:44,147 - DEBUG - Page scrolled.
+2025-03-11 14:17:46,151 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:17:48,021 - DEBUG - Page scrolled.
+2025-03-11 14:17:50,035 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:17:51,696 - DEBUG - Page scrolled.
+2025-03-11 14:17:53,698 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:17:54,797 - DEBUG - Page scrolled.
+2025-03-11 14:17:56,798 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:17:58,289 - DEBUG - Page scrolled.
+2025-03-11 14:18:00,291 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:18:02,093 - DEBUG - Page scrolled.
+2025-03-11 14:18:04,096 - DEBUG - Random scrolls complete.
+2025-03-11 14:18:12,655 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-03-11 14:18:17,322 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/google-will-ban-youtube-videos-with-uncertified-gambling-ads.1694253/unread
+2025-03-11 14:18:29,688 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/google-will-ban-youtube-videos-with-uncertified-gambling-ads.1694253/unread
+2025-03-11 14:18:29,691 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/google-will-ban-youtube-videos-with-uncertified-gambling-ads.1694253/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 14:18:29,723 - INFO - Extracted thread title: Google will ban YouTube videos with uncertified gambling ads.
+2025-03-11 14:18:29,724 - DEBUG - Scrolling page 3 times.
+2025-03-11 14:18:29,725 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:18:31,656 - DEBUG - Page scrolled.
+2025-03-11 14:18:33,660 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:18:34,702 - DEBUG - Page scrolled.
+2025-03-11 14:18:36,706 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:18:37,992 - DEBUG - Page scrolled.
+2025-03-11 14:18:39,994 - DEBUG - Random scrolls complete.
+2025-03-11 14:18:42,853 - DEBUG - Scrolling page 2 times.
+2025-03-11 14:18:42,855 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:18:44,622 - DEBUG - Page scrolled.
+2025-03-11 14:18:47,624 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:18:49,422 - DEBUG - Page scrolled.
+2025-03-11 14:18:52,423 - DEBUG - Random scrolls complete.
+2025-03-11 14:18:52,438 - DEBUG - Found 1 like buttons.
+2025-03-11 14:18:55,440 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-03-11 14:18:56,225 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 14:18:56,238 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 14:18:56,239 - DEBUG - Liked post number 1 of 1.
+2025-03-11 14:19:00,457 - INFO - Liked 1 posts successfully.
+2025-03-11 14:19:00,459 - INFO - Liked 1 posts successfully.
+2025-03-11 14:19:02,702 - DEBUG - Scrolling page 3 times.
+2025-03-11 14:19:02,703 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:19:04,133 - DEBUG - Page scrolled.
+2025-03-11 14:19:07,134 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:19:08,417 - DEBUG - Page scrolled.
+2025-03-11 14:19:11,420 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:19:13,062 - DEBUG - Page scrolled.
+2025-03-11 14:19:16,066 - DEBUG - Random scrolls complete.
+2025-03-11 14:19:18,893 - DEBUG - Total comments in the thread: 1
+2025-03-11 14:19:19,001 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Google will ban YouTube videos with uncertified gambling ads..txt
+2025-03-11 14:19:21,601 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 14:19:21,659 - DEBUG - Extracted main post content: YouTube is tightening its rules on gambling content, banning videos that promote uncertified sites and apps. This article covers the key changes and their impact on creators and affiliate marketers.
+
+Starting March 19, 2025, Google is tightening YouTube's policy on online gambling content: posting videos that advertise gambling sites and apps that are not certified by Google or approved by YouTube will be prohibited.
+
+
+Any links, including those embedded in images, text, or verbal mentions, as well as graphic elements and logos redirecting viewers to a site or app that has not been approved, will be banned.
+Additionally, content featuring images or promotions of online casino sites or apps that do not violate Community Guidelines will be subject to age restrictions. If a user is under 18 or not logged into their account, YouTube simply won’t show such videos (except for online sports betting and personal gambling images).
+Videos promising a "guaranteed win" may be removed even for approved online gambling sites or apps. Previously, YouTube implemented similar measures against fake medical advice, AI content manipulation, and videos about eating disorders.
+More details in Google Help Center.
+2025-03-11 14:19:24,814 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 14:19:24,818 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 14:19:27,744 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:19:27,746 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:19:27,781 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:19:27,859 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:19:27,867 - DEBUG - Text box scrolled into view
+2025-03-11 14:19:28,844 - DEBUG - Initializing actionchains
+2025-03-11 14:19:28,898 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2260}, size: {'height': 21, 'width': 68}
+2025-03-11 14:19:28,899 - DEBUG - Target click coordinates: (1121, 2270)
+2025-03-11 14:19:36,920 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 14:19:36,924 - DEBUG - Moving mouse to text box element.
+2025-03-11 14:19:36,926 - DEBUG - Clicking on the text box.
+2025-03-11 14:19:36,928 - DEBUG - Sending keys with content: That's a bummer for some creators, but probably a good move overall. I wonder how strictly they'll enforce the age restrictions, though.
+
+2025-03-11 14:19:42,339 - DEBUG - Clicking on post reply button.
+2025-03-11 14:19:53,644 - DEBUG - Performed Actionchains
+2025-03-11 14:19:53,645 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 14:19:57,648 - INFO - Comment posted successfully.
+2025-03-11 14:19:57,649 - INFO - Task Completed!!
+2025-03-11 14:20:07,683 - INFO - Navigated back to the homepage.
+2025-03-11 14:20:10,139 - INFO - Attempting to clear memory and resources.
+2025-03-11 14:20:10,176 - INFO - Garbage collection completed.
+2025-03-11 14:20:10,177 - INFO - Waiting for 1800 seconds before next execution.

@@ -1,0 +1,108 @@
+2025-04-09 10:43:00,181 - INFO - Current time: 1744175580.1809316
+2025-04-09 10:43:00,183 - INFO - Token expiration time: 1744181595.7993968
+2025-04-09 10:43:00,186 - INFO - Token expiration time: 1744181595.7993968
+2025-04-09 10:43:00,189 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-09 10:43:10,022 - INFO - Profile DarkCodeX: Pausing for 47.94 seconds...
+2025-04-09 10:43:57,961 - INFO - Profile DarkCodeX: Resuming...
+2025-04-09 10:43:57,986 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-09 10:43:57,987 - INFO - performing random action
+2025-04-09 10:43:57,987 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 10:43:57,989 - DEBUG - Scrolling page 2 times.
+2025-04-09 10:43:57,990 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:43:59,128 - DEBUG - Page scrolled.
+2025-04-09 10:44:01,130 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:44:02,475 - DEBUG - Page scrolled.
+2025-04-09 10:44:04,478 - DEBUG - Random scrolls complete.
+2025-04-09 10:44:04,480 - DEBUG - Scrolling page 4 times.
+2025-04-09 10:44:04,481 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:44:06,443 - DEBUG - Page scrolled.
+2025-04-09 10:44:08,449 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:44:09,537 - DEBUG - Page scrolled.
+2025-04-09 10:44:11,540 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:44:13,035 - DEBUG - Page scrolled.
+2025-04-09 10:44:15,040 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:44:16,133 - DEBUG - Page scrolled.
+2025-04-09 10:44:18,134 - DEBUG - Random scrolls complete.
+2025-04-09 10:44:23,004 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-09 10:44:26,937 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-build-a-chaturbate-bot.1666981/
+2025-04-09 10:44:26,938 - INFO - Profile DarkCodeX: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-09 10:44:35,394 - INFO - Profile DarkCodeX: Pausing for 30.63 seconds...
+2025-04-09 10:45:06,031 - INFO - Profile DarkCodeX: Resuming...
+2025-04-09 10:45:06,064 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-09 10:45:06,065 - INFO - performing random action
+2025-04-09 10:45:16,713 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-build-a-chaturbate-bot.1666981/
+2025-04-09 10:45:16,717 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-build-a-chaturbate-bot.1666981/' to visited threads file 'Thread_links.txt'.
+2025-04-09 10:45:16,760 - INFO - Extracted thread title: How to build a chaturbate bot
+2025-04-09 10:45:16,761 - DEBUG - Scrolling page 4 times.
+2025-04-09 10:45:16,761 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:45:18,134 - DEBUG - Page scrolled.
+2025-04-09 10:45:20,137 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:45:21,357 - DEBUG - Page scrolled.
+2025-04-09 10:45:23,359 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:45:25,105 - DEBUG - Page scrolled.
+2025-04-09 10:45:27,107 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:45:28,964 - DEBUG - Page scrolled.
+2025-04-09 10:45:30,966 - DEBUG - Random scrolls complete.
+2025-04-09 10:45:33,042 - DEBUG - Scrolling page 2 times.
+2025-04-09 10:45:33,043 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:45:35,046 - DEBUG - Page scrolled.
+2025-04-09 10:45:38,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:45:39,094 - DEBUG - Page scrolled.
+2025-04-09 10:45:42,096 - DEBUG - Random scrolls complete.
+2025-04-09 10:45:42,140 - DEBUG - Found 6 like buttons.
+2025-04-09 10:45:45,141 - INFO - Attempting to like 1 posts. There are 6 available.
+2025-04-09 10:45:45,759 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 10:45:45,789 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 10:45:45,790 - DEBUG - Liked post number 1 of 1.
+2025-04-09 10:45:50,477 - INFO - Liked 1 posts successfully.
+2025-04-09 10:45:50,480 - INFO - Liked 1 posts successfully.
+2025-04-09 10:45:53,111 - INFO - performing random action
+2025-04-09 10:45:53,112 - DEBUG - Scrolling page 4 times.
+2025-04-09 10:45:53,113 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:45:54,170 - DEBUG - Page scrolled.
+2025-04-09 10:45:57,172 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:45:58,849 - DEBUG - Page scrolled.
+2025-04-09 10:46:01,851 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:46:03,732 - DEBUG - Page scrolled.
+2025-04-09 10:46:06,734 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:46:08,493 - DEBUG - Page scrolled.
+2025-04-09 10:46:11,495 - DEBUG - Random scrolls complete.
+2025-04-09 10:46:14,019 - DEBUG - Total comments in the thread: 6
+2025-04-09 10:46:55,339 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to build a chaturbate bot.txt
+2025-04-09 10:46:58,026 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 10:46:58,077 - DEBUG - Extracted main post content: Hello,
+
+I've been trying for a while to code a chaturbate viewers bot in python. I was successful and it was preatty easy with selenium headless to generate ~25-50 anonymous viewers, but this approach is not scalable.
+
+I was trying to reverse engineer/crack the api calls that chaturbate does in order to record a new viewer. Like copying the cURL request from the network console in chrome and reproducing it in postman. It didn't work. Even exporting all the calls that chaturbatte is making when accessing a model page in to a HAR file and then manually executing that file from python didn't work.
+
+They must create some sort of cookie that differentiate each user such that the request cannot be duplicated. I couldn't figure it out. If there's anyone who done this before can you help me with a hint?
+2025-04-09 10:47:02,236 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 10:47:02,237 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 10:47:04,384 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-09 10:47:14,237 - INFO - Profile DarkCodeX: Pausing for 41.77 seconds...
+2025-04-09 10:47:56,007 - INFO - Profile DarkCodeX: Resuming...
+2025-04-09 10:47:56,032 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-09 10:47:56,033 - INFO - performing random action
+2025-04-09 10:47:56,034 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:47:56,034 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:47:56,048 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:47:56,086 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:47:56,093 - DEBUG - Text box scrolled into view
+2025-04-09 10:47:57,023 - DEBUG - Initializing actionchains
+2025-04-09 10:47:57,042 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2899}, size: {'height': 21, 'width': 68}
+2025-04-09 10:47:57,043 - DEBUG - Target click coordinates: (1265, 2909)
+2025-04-09 10:48:06,399 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 10:48:06,401 - DEBUG - Moving mouse to text box element.
+2025-04-09 10:48:06,403 - DEBUG - Clicking on the text box.
+2025-04-09 10:48:06,406 - DEBUG - Sending keys with content: Forget reverse engineering; it's a rabbit hole. Have you tried rotating residential proxies and browser user agents to mimic unique users?
+
+2025-04-09 10:48:11,885 - DEBUG - Clicking on post reply button.
+2025-04-09 10:48:22,567 - DEBUG - Performed Actionchains
+2025-04-09 10:48:22,568 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 10:48:26,572 - INFO - Comment posted successfully.
+2025-04-09 10:48:26,574 - INFO - Task Completed!!
+2025-04-09 10:48:36,757 - INFO - Navigated back to the homepage.
+2025-04-09 10:48:39,103 - INFO - Attempting to clear memory and resources.
+2025-04-09 10:48:39,129 - INFO - Garbage collection completed.
+2025-04-09 10:48:39,130 - INFO - Waiting for 1850 seconds before next execution.

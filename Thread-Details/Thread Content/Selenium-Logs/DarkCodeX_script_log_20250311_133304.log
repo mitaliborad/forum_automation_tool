@@ -1,0 +1,98 @@
+2025-03-11 13:33:04,852 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_133304.log
+2025-03-11 13:33:08,328 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 13:33:08,359 - INFO - Loaded 135 visited threads from Thread_links.txt
+2025-03-11 13:33:08,362 - INFO - Successfully loaded links that was already visited!
+2025-03-11 13:33:08,364 - DEBUG - Scrolling page 6 times.
+2025-03-11 13:33:08,366 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:33:10,218 - DEBUG - Page scrolled.
+2025-03-11 13:33:12,221 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:33:13,856 - DEBUG - Page scrolled.
+2025-03-11 13:33:15,860 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:33:17,687 - DEBUG - Page scrolled.
+2025-03-11 13:33:19,689 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:33:20,929 - DEBUG - Page scrolled.
+2025-03-11 13:33:22,931 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:33:24,227 - DEBUG - Page scrolled.
+2025-03-11 13:33:26,230 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:33:27,820 - DEBUG - Page scrolled.
+2025-03-11 13:33:29,822 - DEBUG - Random scrolls complete.
+2025-03-11 13:33:29,824 - DEBUG - Scrolling page 3 times.
+2025-03-11 13:33:29,826 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:33:31,211 - DEBUG - Page scrolled.
+2025-03-11 13:33:33,213 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:33:34,568 - DEBUG - Page scrolled.
+2025-03-11 13:33:36,571 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:33:37,946 - DEBUG - Page scrolled.
+2025-03-11 13:33:39,948 - DEBUG - Random scrolls complete.
+2025-03-11 13:33:49,275 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-03-11 13:33:53,223 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-am-looking-for-a-network-website.1692213/unread
+2025-03-11 13:34:01,406 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-am-looking-for-a-network-website.1692213/unread
+2025-03-11 13:34:01,410 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-am-looking-for-a-network-website.1692213/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 13:34:01,439 - INFO - Extracted thread title: I am looking for a network website
+2025-03-11 13:34:01,441 - DEBUG - Scrolling page 4 times.
+2025-03-11 13:34:01,441 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:03,447 - DEBUG - Page scrolled.
+2025-03-11 13:34:05,449 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:07,430 - DEBUG - Page scrolled.
+2025-03-11 13:34:09,432 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:10,961 - DEBUG - Page scrolled.
+2025-03-11 13:34:12,963 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:14,175 - DEBUG - Page scrolled.
+2025-03-11 13:34:16,178 - DEBUG - Random scrolls complete.
+2025-03-11 13:34:18,207 - DEBUG - Scrolling page 4 times.
+2025-03-11 13:34:18,208 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:19,880 - DEBUG - Page scrolled.
+2025-03-11 13:34:22,883 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:23,945 - DEBUG - Page scrolled.
+2025-03-11 13:34:26,948 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:28,283 - DEBUG - Page scrolled.
+2025-03-11 13:34:31,286 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:33,243 - DEBUG - Page scrolled.
+2025-03-11 13:34:36,245 - DEBUG - Random scrolls complete.
+2025-03-11 13:34:36,259 - DEBUG - Found 5 like buttons.
+2025-03-11 13:34:39,261 - INFO - Attempting to like 1 posts. There are 5 available.
+2025-03-11 13:34:40,171 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 13:34:40,197 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 13:34:40,199 - DEBUG - Liked post number 1 of 1.
+2025-03-11 13:34:44,323 - INFO - Liked 1 posts successfully.
+2025-03-11 13:34:44,325 - INFO - Liked 1 posts successfully.
+2025-03-11 13:34:46,849 - DEBUG - Scrolling page 5 times.
+2025-03-11 13:34:46,851 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:48,536 - DEBUG - Page scrolled.
+2025-03-11 13:34:51,537 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:53,320 - DEBUG - Page scrolled.
+2025-03-11 13:34:56,322 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:34:57,623 - DEBUG - Page scrolled.
+2025-03-11 13:35:00,626 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:02,198 - DEBUG - Page scrolled.
+2025-03-11 13:35:05,201 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 13:35:06,923 - DEBUG - Page scrolled.
+2025-03-11 13:35:09,926 - DEBUG - Random scrolls complete.
+2025-03-11 13:35:12,616 - DEBUG - Total comments in the thread: 5
+2025-03-11 13:35:54,470 - INFO - Post content extracted and saved to Thread-Details/Thread Content\I am looking for a network website.txt
+2025-03-11 13:35:57,392 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 13:35:57,433 - DEBUG - Extracted main post content: Hello everyone, I have a small website about ad,ult, I am looking for a network with low minpay withdrawal. Does it support banners?
+2025-03-11 13:36:00,743 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 13:36:00,746 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 13:36:03,112 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 13:36:03,114 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 13:36:03,142 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 13:36:03,188 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 13:36:03,196 - DEBUG - Text box scrolled into view
+2025-03-11 13:36:04,064 - DEBUG - Initializing actionchains
+2025-03-11 13:36:04,110 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2559}, size: {'height': 21, 'width': 68}
+2025-03-11 13:36:04,111 - DEBUG - Target click coordinates: (1121, 2569)
+2025-03-11 13:36:13,140 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 13:36:13,142 - DEBUG - Moving mouse to text box element.
+2025-03-11 13:36:13,143 - DEBUG - Clicking on the text box.
+2025-03-11 13:36:13,144 - DEBUG - Sending keys with content: Oh yeah, finding the right network can be a pain. Have you looked at maybe focusing on direct partnerships instead?
+
+2025-03-11 13:36:18,470 - DEBUG - Clicking on post reply button.
+2025-03-11 13:36:29,423 - DEBUG - Performed Actionchains
+2025-03-11 13:36:29,424 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 13:36:33,426 - INFO - Comment posted successfully.
+2025-03-11 13:36:33,428 - INFO - Task Completed!!
+2025-03-11 13:36:41,806 - INFO - Navigated back to the homepage.
+2025-03-11 13:36:43,891 - INFO - Attempting to clear memory and resources.
+2025-03-11 13:36:43,922 - INFO - Garbage collection completed.
+2025-03-11 13:36:43,923 - INFO - Waiting for 1800 seconds before next execution.

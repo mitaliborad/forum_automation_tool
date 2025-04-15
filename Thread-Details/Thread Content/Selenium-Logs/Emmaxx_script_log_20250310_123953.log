@@ -1,0 +1,99 @@
+2025-03-10 12:39:53,821 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250310_123953.log
+2025-03-10 12:39:53,822 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-10 12:39:53,823 - INFO - Loaded 113 visited threads from Thread_links.txt
+2025-03-10 12:39:53,824 - INFO - Successfully loaded links that was already visited!
+2025-03-10 12:39:53,826 - DEBUG - Scrolling page 3 times.
+2025-03-10 12:39:53,827 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:39:55,537 - DEBUG - Page scrolled.
+2025-03-10 12:39:57,538 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:39:59,112 - DEBUG - Page scrolled.
+2025-03-10 12:40:01,116 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:03,005 - DEBUG - Page scrolled.
+2025-03-10 12:40:05,006 - DEBUG - Random scrolls complete.
+2025-03-10 12:40:05,007 - DEBUG - Scrolling page 5 times.
+2025-03-10 12:40:05,008 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:06,594 - DEBUG - Page scrolled.
+2025-03-10 12:40:08,596 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:10,421 - DEBUG - Page scrolled.
+2025-03-10 12:40:12,424 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:13,652 - DEBUG - Page scrolled.
+2025-03-10 12:40:15,654 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:17,219 - DEBUG - Page scrolled.
+2025-03-10 12:40:19,221 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:20,846 - DEBUG - Page scrolled.
+2025-03-10 12:40:22,849 - DEBUG - Random scrolls complete.
+2025-03-10 12:40:34,169 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-03-10 12:40:38,945 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/fanvue-ai-how-to-get-verified-if-my-country-of-residence-is-prohibited.1693948/unread
+2025-03-10 12:40:46,583 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/fanvue-ai-how-to-get-verified-if-my-country-of-residence-is-prohibited.1693948/unread
+2025-03-10 12:40:46,585 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/fanvue-ai-how-to-get-verified-if-my-country-of-residence-is-prohibited.1693948/unread' to visited threads file 'Thread_links.txt'.
+2025-03-10 12:40:46,623 - INFO - Extracted thread title: Fanvue AI - how to get verified if my country of residence is prohibited
+2025-03-10 12:40:46,625 - DEBUG - Scrolling page 4 times.
+2025-03-10 12:40:46,625 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:47,721 - DEBUG - Page scrolled.
+2025-03-10 12:40:49,722 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:51,679 - DEBUG - Page scrolled.
+2025-03-10 12:40:53,681 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:55,037 - DEBUG - Page scrolled.
+2025-03-10 12:40:57,039 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:58,845 - DEBUG - Page scrolled.
+2025-03-10 12:41:00,848 - DEBUG - Random scrolls complete.
+2025-03-10 12:41:03,740 - DEBUG - Scrolling page 2 times.
+2025-03-10 12:41:03,747 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:05,611 - DEBUG - Page scrolled.
+2025-03-10 12:41:08,614 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:09,733 - DEBUG - Page scrolled.
+2025-03-10 12:41:12,735 - DEBUG - Random scrolls complete.
+2025-03-10 12:41:12,749 - DEBUG - Found 3 like buttons.
+2025-03-10 12:41:15,751 - INFO - Attempting to like 2 posts. There are 3 available.
+2025-03-10 12:41:16,534 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:41:16,550 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:41:16,552 - DEBUG - Liked post number 1 of 2.
+2025-03-10 12:41:21,999 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:41:22,009 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:41:22,011 - DEBUG - Liked post number 2 of 2.
+2025-03-10 12:41:26,579 - INFO - Liked 2 posts successfully.
+2025-03-10 12:41:26,582 - INFO - Liked 2 posts successfully.
+2025-03-10 12:41:29,457 - DEBUG - Scrolling page 7 times.
+2025-03-10 12:41:29,458 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:30,713 - DEBUG - Page scrolled.
+2025-03-10 12:41:33,714 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:35,120 - DEBUG - Page scrolled.
+2025-03-10 12:41:38,122 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:39,946 - DEBUG - Page scrolled.
+2025-03-10 12:41:42,948 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:44,393 - DEBUG - Page scrolled.
+2025-03-10 12:41:47,397 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:48,836 - DEBUG - Page scrolled.
+2025-03-10 12:41:51,838 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:53,538 - DEBUG - Page scrolled.
+2025-03-10 12:41:56,541 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:58,348 - DEBUG - Page scrolled.
+2025-03-10 12:42:01,352 - DEBUG - Random scrolls complete.
+2025-03-10 12:42:03,706 - DEBUG - Total comments in the thread: 3
+2025-03-10 12:42:03,941 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Fanvue AI - how to get verified if my country of residence is prohibited.txt
+2025-03-10 12:42:06,881 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-10 12:42:06,928 - DEBUG - Extracted main post content: i am trying to verify with my ai model but it just isn't working because my country is prohibite. I don't live in my country of residence anymore but i had to use my passport for it and I am getting rejected. Is there any solutions?
+2025-03-10 12:42:10,198 - INFO - Successfully generated comments using Gemini API.
+2025-03-10 12:42:10,201 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-10 12:42:13,222 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:42:13,223 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:42:13,237 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:42:13,288 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:42:13,297 - DEBUG - Text box scrolled into view
+2025-03-10 12:42:14,219 - DEBUG - Initializing actionchains
+2025-03-10 12:42:14,449 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2023}, size: {'height': 21, 'width': 68}
+2025-03-10 12:42:14,450 - DEBUG - Target click coordinates: (1121, 2033)
+2025-03-10 12:42:22,974 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-10 12:42:22,975 - DEBUG - Moving mouse to text box element.
+2025-03-10 12:42:22,976 - DEBUG - Clicking on the text box.
+2025-03-10 12:42:22,977 - DEBUG - Sending keys with content: That's a tough spot to be in. Have you tried reaching out to their support team to explain your situation? Maybe they can offer an alternative verification method.
+
+2025-03-10 12:42:28,009 - DEBUG - Clicking on post reply button.
+2025-03-10 12:42:39,194 - DEBUG - Performed Actionchains
+2025-03-10 12:42:39,195 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-10 12:42:43,196 - INFO - Comment posted successfully.
+2025-03-10 12:42:43,198 - INFO - Task Completed!!
+2025-03-10 12:42:52,287 - INFO - Navigated back to the homepage.
+2025-03-10 12:42:54,660 - INFO - Attempting to clear memory and resources.
+2025-03-10 12:42:54,696 - INFO - Garbage collection completed.
+2025-03-10 12:42:54,697 - INFO - Waiting for 1000 seconds before next execution.

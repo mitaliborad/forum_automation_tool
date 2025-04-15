@@ -1,0 +1,97 @@
+2025-04-14 13:39:02,558 - INFO - Current time: 1744618142.5588384
+2025-04-14 13:39:02,561 - INFO - Token expiration time: 1744621607.0474901
+2025-04-14 13:39:02,562 - INFO - Token expiration time: 1744621607.0474901
+2025-04-14 13:39:02,564 - INFO - performing random action
+2025-04-14 13:39:02,567 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:39:02,569 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:39:02,572 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:04,237 - DEBUG - Page scrolled.
+2025-04-14 13:39:06,239 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:07,772 - DEBUG - Page scrolled.
+2025-04-14 13:39:09,774 - DEBUG - Random scrolls complete.
+2025-04-14 13:39:09,778 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:39:09,779 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:11,068 - DEBUG - Page scrolled.
+2025-04-14 13:39:13,072 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:14,717 - DEBUG - Page scrolled.
+2025-04-14 13:39:16,720 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:17,756 - DEBUG - Page scrolled.
+2025-04-14 13:39:19,757 - DEBUG - Random scrolls complete.
+2025-04-14 13:39:33,504 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-14 13:39:37,643 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-are-you-rotating-ips-for-ads-accounts-in-2025.1704427/unread
+2025-04-14 13:39:37,644 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-14 13:39:39,649 - INFO - performing random action
+2025-04-14 13:39:51,817 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-are-you-rotating-ips-for-ads-accounts-in-2025.1704427/unread
+2025-04-14 13:39:51,825 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-are-you-rotating-ips-for-ads-accounts-in-2025.1704427/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 13:39:51,935 - INFO - Extracted thread title: How are you rotating IPs for Ads accounts in 2025
+2025-04-14 13:39:51,941 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:39:51,942 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:53,385 - DEBUG - Page scrolled.
+2025-04-14 13:39:55,387 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:39:57,077 - DEBUG - Page scrolled.
+2025-04-14 13:39:59,080 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:00,701 - DEBUG - Page scrolled.
+2025-04-14 13:40:02,704 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:03,970 - DEBUG - Page scrolled.
+2025-04-14 13:40:05,972 - DEBUG - Random scrolls complete.
+2025-04-14 13:40:08,869 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:40:08,871 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:10,768 - DEBUG - Page scrolled.
+2025-04-14 13:40:13,773 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:15,667 - DEBUG - Page scrolled.
+2025-04-14 13:40:18,670 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:20,042 - DEBUG - Page scrolled.
+2025-04-14 13:40:23,044 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:24,323 - DEBUG - Page scrolled.
+2025-04-14 13:40:27,325 - DEBUG - Random scrolls complete.
+2025-04-14 13:40:27,374 - DEBUG - Found 2 like buttons.
+2025-04-14 13:40:30,376 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-04-14 13:40:31,067 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:40:31,103 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:40:31,105 - DEBUG - Liked post number 1 of 1.
+2025-04-14 13:40:35,392 - INFO - Liked 1 posts successfully.
+2025-04-14 13:40:35,394 - INFO - Liked 1 posts successfully.
+2025-04-14 13:40:37,848 - INFO - performing random action
+2025-04-14 13:40:37,849 - DEBUG - Scrolling page 5 times.
+2025-04-14 13:40:37,850 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:38,857 - DEBUG - Page scrolled.
+2025-04-14 13:40:41,859 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:43,188 - DEBUG - Page scrolled.
+2025-04-14 13:40:46,189 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:47,678 - DEBUG - Page scrolled.
+2025-04-14 13:40:50,679 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:51,972 - DEBUG - Page scrolled.
+2025-04-14 13:40:54,976 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:40:56,082 - DEBUG - Page scrolled.
+2025-04-14 13:40:59,084 - DEBUG - Random scrolls complete.
+2025-04-14 13:41:01,689 - DEBUG - Total comments in the thread: 2
+2025-04-14 13:41:22,122 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How are you rotating IPs for Ads accounts in 2025.txt
+2025-04-14 13:41:24,770 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:41:24,792 - DEBUG - Extracted main post content: For those running ads at scale, how are you managing IP rotation these days?
+Are you sticking with residential, datacenter, or going mobile?
+Which setup is working best for you right now to avoid bans and keep accounts alive?
+2025-04-14 13:41:30,362 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:41:30,365 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:41:33,241 - INFO - performing random action
+2025-04-14 13:41:33,246 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:41:33,247 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:41:33,290 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:41:33,337 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:41:33,342 - DEBUG - Text box scrolled into view
+2025-04-14 13:41:34,312 - DEBUG - Initializing actionchains
+2025-04-14 13:41:34,332 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1659}, size: {'height': 21, 'width': 68}
+2025-04-14 13:41:34,332 - DEBUG - Target click coordinates: (1265, 1669)
+2025-04-14 13:41:41,848 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:41:41,849 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:41:41,851 - DEBUG - Clicking on the text box.
+2025-04-14 13:41:41,854 - DEBUG - Sending keys with content: Honestly, I've found mobile proxies are the least likely to trigger flags these days, though they can be a pain to manage. What volume are we talking here? That really changes the game.
+
+2025-04-14 13:41:47,110 - DEBUG - Clicking on post reply button.
+2025-04-14 13:41:58,255 - DEBUG - Performed Actionchains
+2025-04-14 13:41:58,256 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 13:42:02,258 - INFO - Comment posted successfully.
+2025-04-14 13:42:02,264 - INFO - Task Completed!!
+2025-04-14 13:42:15,354 - INFO - Navigated back to the homepage.
+2025-04-14 13:42:17,466 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:42:17,541 - INFO - Garbage collection completed.
+2025-04-14 13:42:17,543 - INFO - Waiting for 2200 seconds before next execution.

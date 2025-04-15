@@ -1,0 +1,155 @@
+2025-03-05 14:46:51,162 - INFO - Starting new automation task. Log file created at: Selenium-Logs\script_log_20250305_144651.log
+2025-03-05 14:46:51,164 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-05 14:46:51,183 - INFO - Loaded 51 visited threads from Thread_links.txt
+2025-03-05 14:46:51,184 - INFO - Successfully loaded links that was already visited!
+2025-03-05 14:46:51,185 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:46:51,185 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:46:52,357 - DEBUG - Page scrolled.
+2025-03-05 14:46:54,357 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:46:56,042 - DEBUG - Page scrolled.
+2025-03-05 14:46:58,044 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:46:59,275 - DEBUG - Page scrolled.
+2025-03-05 14:47:01,277 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:47:02,492 - DEBUG - Page scrolled.
+2025-03-05 14:47:04,494 - DEBUG - Random scrolls complete.
+2025-03-05 14:47:14,012 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-05 14:47:18,124 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/seo-optimized-vs-conversion-focused-copywriting-for-websites.1692413/unread
+2025-03-05 14:47:28,288 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/seo-optimized-vs-conversion-focused-copywriting-for-websites.1692413/unread
+2025-03-05 14:47:28,291 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/seo-optimized-vs-conversion-focused-copywriting-for-websites.1692413/unread' to visited threads file 'Thread_links.txt'.
+2025-03-05 14:47:28,321 - INFO - Extracted thread title: SEO optimized vs conversion focused copywriting for websites
+2025-03-05 14:47:28,322 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:47:28,322 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:47:30,099 - DEBUG - Page scrolled.
+2025-03-05 14:47:32,101 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:47:33,165 - DEBUG - Page scrolled.
+2025-03-05 14:47:35,167 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:47:37,087 - DEBUG - Page scrolled.
+2025-03-05 14:47:39,088 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:47:40,930 - DEBUG - Page scrolled.
+2025-03-05 14:47:42,931 - DEBUG - Random scrolls complete.
+2025-03-05 14:47:45,227 - DEBUG - Scrolling page 4 times.
+2025-03-05 14:47:45,228 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:47:47,065 - DEBUG - Page scrolled.
+2025-03-05 14:47:50,067 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:47:51,753 - DEBUG - Page scrolled.
+2025-03-05 14:47:54,754 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:47:56,524 - DEBUG - Page scrolled.
+2025-03-05 14:47:59,525 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:48:01,223 - DEBUG - Page scrolled.
+2025-03-05 14:48:04,224 - DEBUG - Random scrolls complete.
+2025-03-05 14:48:04,258 - DEBUG - Found 8 like buttons.
+2025-03-05 14:48:07,259 - INFO - Attempting to like 2 posts. There are 8 available.
+2025-03-05 14:48:08,028 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 14:48:08,052 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 14:48:08,053 - DEBUG - Liked post number 1 of 2.
+2025-03-05 14:48:13,686 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 14:48:13,704 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 14:48:13,706 - DEBUG - Liked post number 2 of 2.
+2025-03-05 14:48:18,371 - INFO - Liked 2 posts successfully.
+2025-03-05 14:48:18,373 - INFO - Liked 2 posts successfully.
+2025-03-05 14:48:18,375 - DEBUG - Scrolling page 5 times.
+2025-03-05 14:48:18,376 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:48:19,616 - DEBUG - Page scrolled.
+2025-03-05 14:48:22,617 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:48:24,209 - DEBUG - Page scrolled.
+2025-03-05 14:48:27,210 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:48:28,986 - DEBUG - Page scrolled.
+2025-03-05 14:48:31,988 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:48:33,753 - DEBUG - Page scrolled.
+2025-03-05 14:48:36,755 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 14:48:38,192 - DEBUG - Page scrolled.
+2025-03-05 14:48:41,194 - DEBUG - Random scrolls complete.
+2025-03-05 14:48:43,631 - DEBUG - Total comments in the thread: 8
+2025-03-05 14:49:09,294 - INFO - Post content extracted and saved to Thread-Details\Thread Content\SEO optimized vs conversion focused copywriting for websites.txt
+2025-03-05 14:49:11,819 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-05 14:49:11,851 - DEBUG - Extracted main post content: Hi,
+
+We're in the process of building a website for a service-based company and have been reviewing our competitors' service pages. We've noticed that these pages are often lengthy and highly optimized for SEO, but they lack a lively tone and don't seem crafted to convert visitors effectively.
+
+This observation has us wondering why this approach is so prevalent. We aim to create service pages that mainly focus on converting visitors , all while ensuring our articles are SEO-optimized with relevant keywords. But our page will clearly not be as seo optimized as those competitors.
+
+We want to have those super optimized page for our articles, not our main website ...
+
+Could you share your insights on whether this strategy might be misguided and, if so, why? I find it hard to believe that all our competitors are missing the mark, so I'm sure there are valid reasons behind their approach.
+
+Thank you in advance for your thoughts!
+2025-03-05 14:49:16,482 - INFO - Successfully generated comments using Gemini API.
+2025-03-05 14:49:16,484 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-05 14:49:16,486 - INFO - API comment generated and saved to Thread-Details\API Comments\SEO optimized vs conversion focused copywriting for websites_I think you are right to prioritize conversion on .txt
+2025-03-05 14:49:19,026 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:49:19,027 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:49:19,052 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:49:19,093 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 14:49:19,102 - DEBUG - Text box scrolled into view
+2025-03-05 14:49:19,767 - DEBUG - Initializing actionchains
+2025-03-05 14:49:19,800 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3523}, size: {'height': 21, 'width': 68}
+2025-03-05 14:49:19,800 - DEBUG - Target click coordinates: (1121, 3533)
+2025-03-05 14:49:19,800 - DEBUG - Moving mouse from (617, 406) to (1121, 3533).
+2025-03-05 14:49:19,801 - DEBUG - Generating Bezier path from (617, 406) to (1121, 3533) with 50 points.
+2025-03-05 14:49:19,801 - DEBUG - Control point: (647, 342)
+2025-03-05 14:49:19,801 - DEBUG - Generated Bezier path with 50 points.
+2025-03-05 14:49:19,802 - DEBUG - Moved mouse to (617, 406), delay: 0.0000
+2025-03-05 14:49:19,805 - DEBUG - Moved mouse to (618, 404), delay: 0.0024
+2025-03-05 14:49:19,809 - DEBUG - Moved mouse to (620, 406), delay: 0.0030
+2025-03-05 14:49:19,814 - DEBUG - Moved mouse to (622, 410), delay: 0.0036
+2025-03-05 14:49:19,821 - DEBUG - Moved mouse to (624, 417), delay: 0.0059
+2025-03-05 14:49:19,830 - DEBUG - Moved mouse to (627, 426), delay: 0.0077
+2025-03-05 14:49:19,841 - DEBUG - Moved mouse to (631, 439), delay: 0.0101
+2025-03-05 14:49:19,852 - DEBUG - Moved mouse to (634, 454), delay: 0.0103
+2025-03-05 14:49:19,866 - DEBUG - Moved mouse to (638, 471), delay: 0.0127
+2025-03-05 14:49:19,878 - DEBUG - Moved mouse to (642, 492), delay: 0.0109
+2025-03-05 14:49:19,890 - DEBUG - Moved mouse to (647, 515), delay: 0.0099
+2025-03-05 14:49:19,903 - DEBUG - Moved mouse to (652, 541), delay: 0.0120
+2025-03-05 14:49:19,921 - DEBUG - Moved mouse to (658, 569), delay: 0.0170
+2025-03-05 14:49:19,939 - DEBUG - Moved mouse to (664, 601), delay: 0.0163
+2025-03-05 14:49:19,953 - DEBUG - Moved mouse to (670, 635), delay: 0.0137
+2025-03-05 14:49:19,971 - DEBUG - Moved mouse to (676, 671), delay: 0.0163
+2025-03-05 14:49:19,996 - DEBUG - Moved mouse to (683, 711), delay: 0.0241
+2025-03-05 14:49:20,020 - DEBUG - Moved mouse to (691, 753), delay: 0.0233
+2025-03-05 14:49:20,046 - DEBUG - Moved mouse to (698, 798), delay: 0.0243
+2025-03-05 14:49:20,074 - DEBUG - Moved mouse to (707, 845), delay: 0.0262
+2025-03-05 14:49:20,096 - DEBUG - Moved mouse to (715, 896), delay: 0.0215
+2025-03-05 14:49:20,115 - DEBUG - Moved mouse to (724, 948), delay: 0.0162
+2025-03-05 14:49:20,142 - DEBUG - Moved mouse to (733, 1004), delay: 0.0261
+2025-03-05 14:49:20,164 - DEBUG - Moved mouse to (742, 1063), delay: 0.0200
+2025-03-05 14:49:20,195 - DEBUG - Moved mouse to (752, 1124), delay: 0.0289
+2025-03-05 14:49:20,223 - DEBUG - Moved mouse to (763, 1187), delay: 0.0255
+2025-03-05 14:49:20,247 - DEBUG - Moved mouse to (773, 1254), delay: 0.0213
+2025-03-05 14:49:20,276 - DEBUG - Moved mouse to (784, 1323), delay: 0.0275
+2025-03-05 14:49:20,314 - DEBUG - Moved mouse to (796, 1395), delay: 0.0360
+2025-03-05 14:49:20,347 - DEBUG - Moved mouse to (808, 1470), delay: 0.0307
+2025-03-05 14:49:20,387 - DEBUG - Moved mouse to (820, 1547), delay: 0.0379
+2025-03-05 14:49:20,410 - DEBUG - Moved mouse to (832, 1627), delay: 0.0216
+2025-03-05 14:49:20,450 - DEBUG - Moved mouse to (845, 1710), delay: 0.0383
+2025-03-05 14:49:20,491 - DEBUG - Moved mouse to (858, 1796), delay: 0.0394
+2025-03-05 14:49:20,531 - DEBUG - Moved mouse to (872, 1884), delay: 0.0380
+2025-03-05 14:49:20,572 - DEBUG - Moved mouse to (886, 1975), delay: 0.0393
+2025-03-05 14:49:20,613 - DEBUG - Moved mouse to (900, 2068), delay: 0.0390
+2025-03-05 14:49:20,645 - DEBUG - Moved mouse to (915, 2165), delay: 0.0296
+2025-03-05 14:49:20,692 - DEBUG - Moved mouse to (930, 2264), delay: 0.0449
+2025-03-05 14:49:20,737 - DEBUG - Moved mouse to (946, 2366), delay: 0.0440
+2025-03-05 14:49:20,783 - DEBUG - Moved mouse to (961, 2470), delay: 0.0444
+2025-03-05 14:49:20,820 - DEBUG - Moved mouse to (978, 2577), delay: 0.0336
+2025-03-05 14:49:20,859 - DEBUG - Moved mouse to (994, 2687), delay: 0.0375
+2025-03-05 14:49:20,898 - DEBUG - Moved mouse to (1011, 2800), delay: 0.0374
+2025-03-05 14:49:20,937 - DEBUG - Moved mouse to (1028, 2915), delay: 0.0377
+2025-03-05 14:49:20,980 - DEBUG - Moved mouse to (1046, 3033), delay: 0.0410
+2025-03-05 14:49:21,012 - DEBUG - Moved mouse to (1064, 3154), delay: 0.0294
+2025-03-05 14:49:21,047 - DEBUG - Moved mouse to (1083, 3277), delay: 0.0330
+2025-03-05 14:49:21,101 - DEBUG - Moved mouse to (1101, 3404), delay: 0.0511
+2025-03-05 14:49:21,149 - DEBUG - Moved mouse to (1121, 3533), delay: 0.0460
+2025-03-05 14:49:21,150 - INFO - Successfully moved mouse to (1121, 3533) using Bezier curve.
+2025-03-05 14:49:21,152 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-05 14:49:21,153 - DEBUG - Moving mouse to text box element.
+2025-03-05 14:49:21,154 - DEBUG - Clicking on the text box.
+2025-03-05 14:49:21,156 - DEBUG - Sending keys with content: I think you are right to prioritize conversion on the main site, those SEO-optimized pages are probably blog content that funnels into it.
+
+2025-03-05 14:49:26,882 - DEBUG - Clicking on post reply button.
+2025-03-05 14:49:37,883 - DEBUG - Performed Actionchains
+2025-03-05 14:49:37,883 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-05 14:49:41,884 - INFO - Comment posted successfully.
+2025-03-05 14:49:41,886 - INFO - Task Completed!!
+2025-03-05 14:49:54,657 - INFO - Navigated back to the homepage.
+2025-03-05 14:49:56,847 - INFO - Attempting to clear memory and resources.
+2025-03-05 14:49:56,879 - INFO - Garbage collection completed.
+2025-03-05 14:49:56,880 - INFO - Waiting for 1240 seconds before next execution.

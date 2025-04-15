@@ -1,0 +1,103 @@
+2025-04-01 09:46:15,059 - INFO - Current time: 1743480975.0599005
+2025-04-01 09:46:15,061 - INFO - Token expiration time: 1743491769.3002143
+2025-04-01 09:46:15,062 - INFO - Token expiration time: 1743491769.3002143
+2025-04-01 09:46:15,063 - INFO - performing random action
+2025-04-01 09:46:15,064 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 09:46:15,065 - DEBUG - Scrolling page 4 times.
+2025-04-01 09:46:15,065 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:36,133 - DEBUG - Page scrolled.
+2025-04-01 09:49:38,134 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:46,527 - DEBUG - Page scrolled.
+2025-04-01 09:49:48,591 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:50,396 - DEBUG - Page scrolled.
+2025-04-01 09:49:52,398 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:53,947 - DEBUG - Page scrolled.
+2025-04-01 09:49:56,027 - DEBUG - Random scrolls complete.
+2025-04-01 09:49:56,047 - DEBUG - Scrolling page 2 times.
+2025-04-01 09:49:56,060 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:49:57,249 - DEBUG - Page scrolled.
+2025-04-01 09:49:59,251 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:50:00,462 - DEBUG - Page scrolled.
+2025-04-01 09:50:02,463 - DEBUG - Random scrolls complete.
+2025-04-01 09:50:06,597 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-01 09:50:11,237 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-advice-for-setting-up-a-big-mobile-proxy-farm.1574788/unread
+2025-04-01 09:50:11,238 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-01 09:50:11,239 - INFO - Profile DataPhreak: Window minimized. Pausing for 15.05 seconds...
+2025-04-01 09:50:26,286 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-01 09:50:26,287 - INFO - performing random action
+2025-04-01 09:50:34,381 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-advice-for-setting-up-a-big-mobile-proxy-farm.1574788/unread
+2025-04-01 09:50:34,527 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-advice-for-setting-up-a-big-mobile-proxy-farm.1574788/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 09:50:34,615 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-01 09:50:34,616 - DEBUG - Scrolling page 2 times.
+2025-04-01 09:50:34,617 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:50:36,109 - DEBUG - Page scrolled.
+2025-04-01 09:50:38,111 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:50:40,039 - DEBUG - Page scrolled.
+2025-04-01 09:50:42,041 - DEBUG - Random scrolls complete.
+2025-04-01 09:50:44,912 - DEBUG - Scrolling page 4 times.
+2025-04-01 09:50:44,913 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:50:54,671 - DEBUG - Page scrolled.
+2025-04-01 09:50:57,676 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:50:58,985 - DEBUG - Page scrolled.
+2025-04-01 09:51:01,988 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:51:03,319 - DEBUG - Page scrolled.
+2025-04-01 09:51:06,321 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:51:08,004 - DEBUG - Page scrolled.
+2025-04-01 09:51:11,006 - DEBUG - Random scrolls complete.
+2025-04-01 09:51:11,038 - DEBUG - Found 20 like buttons.
+2025-04-01 09:51:14,040 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-01 09:51:15,045 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 09:51:15,057 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 09:51:15,059 - DEBUG - Liked post number 1 of 1.
+2025-04-01 09:51:19,390 - INFO - Liked 1 posts successfully.
+2025-04-01 09:51:19,394 - INFO - Liked 1 posts successfully.
+2025-04-01 09:51:21,580 - INFO - Profile DataPhreak: Restoring window...
+2025-04-01 09:51:23,585 - INFO - performing random action
+2025-04-01 09:51:23,586 - DEBUG - Scrolling page 4 times.
+2025-04-01 09:51:23,587 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:51:24,918 - DEBUG - Page scrolled.
+2025-04-01 09:51:27,924 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:51:29,875 - DEBUG - Page scrolled.
+2025-04-01 09:51:32,876 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:51:34,663 - DEBUG - Page scrolled.
+2025-04-01 09:51:37,665 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 09:51:38,826 - DEBUG - Page scrolled.
+2025-04-01 09:51:41,828 - DEBUG - Random scrolls complete.
+2025-04-01 09:51:44,529 - DEBUG - Total comments in the thread: 20
+2025-04-01 09:52:58,664 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-01 09:53:01,432 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 09:53:01,485 - DEBUG - Extracted main post content: Hello, I am planning to open a mobile proxy farm with 100 USB dongles, and I have a budget of 15,000 USD. I have a few questions and I hope some of you are able to answer them:
+
+1. What CPU do you recommend for a proxy server?
+2. Will 3proxy handle that much traffic on a single server?
+3. How fast of an internet connection should I have? Fiber-optic internet cannot be installed there, so I can only have unlimited 5G internet with download speeds up to 5.4 Gb/s and upload speeds of 500 Mb/s, with a bandwidth of up to 3000 Mb/s assuming the best coverage.
+4. Are there better dongles available than the Huawei e3372h-153 for this purpose?
+
+Thank you for your help. I appreciate any advice or suggestions you can provide.
+2025-04-01 09:53:05,022 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 09:53:05,025 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 09:53:07,137 - INFO - Profile DataPhreak: Pausing for 49.72 seconds...
+2025-04-01 09:53:56,858 - INFO - Profile DataPhreak: Resuming...
+2025-04-01 09:53:56,860 - INFO - performing random action
+2025-04-01 09:53:56,861 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:53:56,861 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:53:56,875 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:53:56,917 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 09:53:56,924 - DEBUG - Text box scrolled into view
+2025-04-01 09:53:57,580 - DEBUG - Initializing actionchains
+2025-04-01 09:53:57,605 - DEBUG - Post reply Element location: {'x': 1087, 'y': 16250}, size: {'height': 21, 'width': 68}
+2025-04-01 09:53:57,606 - DEBUG - Target click coordinates: (1121, 16260)
+2025-04-01 09:54:30,689 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 09:54:30,691 - DEBUG - Moving mouse to text box element.
+2025-04-01 09:54:30,692 - DEBUG - Clicking on the text box.
+2025-04-01 09:54:30,695 - DEBUG - Sending keys with content: 5.4 Gb/s download should be plenty, but I'd be more concerned about the stability of 5G with that many connections. Have you load-tested the setup at even 25% capacity?
+
+2025-04-01 09:54:35,833 - DEBUG - Clicking on post reply button.
+2025-04-01 09:54:46,517 - DEBUG - Performed Actionchains
+2025-04-01 09:54:46,518 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 09:54:50,519 - INFO - Comment posted successfully.
+2025-04-01 09:54:50,522 - INFO - Task Completed!!
+2025-04-01 09:55:00,025 - INFO - Navigated back to the homepage.
+2025-04-01 09:55:02,250 - INFO - Attempting to clear memory and resources.
+2025-04-01 09:55:02,284 - INFO - Garbage collection completed.
+2025-04-01 09:55:02,285 - INFO - Waiting for 2000 seconds before next execution.

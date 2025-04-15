@@ -1,0 +1,43 @@
+2025-04-02 13:12:03,338 - INFO - Current time: 1743579723.3385823
+2025-04-02 13:12:03,339 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 13:12:03,339 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 13:12:03,340 - INFO - Profile DarkCodeX: Pausing for 35.21 seconds...
+2025-04-02 13:12:38,550 - INFO - Profile DarkCodeX: Resuming...
+2025-04-02 13:12:38,553 - INFO - performing random action
+2025-04-02 13:12:38,556 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:12:38,558 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:12:38,560 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:39,799 - DEBUG - Page scrolled.
+2025-04-02 13:12:41,801 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:43,746 - DEBUG - Page scrolled.
+2025-04-02 13:12:45,748 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:47,373 - DEBUG - Page scrolled.
+2025-04-02 13:12:49,374 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:51,178 - DEBUG - Page scrolled.
+2025-04-02 13:12:53,181 - DEBUG - Random scrolls complete.
+2025-04-02 13:12:53,183 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:12:53,184 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:54,870 - DEBUG - Page scrolled.
+2025-04-02 13:12:56,872 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:12:58,285 - DEBUG - Page scrolled.
+2025-04-02 13:13:00,287 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:01,821 - DEBUG - Page scrolled.
+2025-04-02 13:13:03,823 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:05,610 - DEBUG - Page scrolled.
+2025-04-02 13:13:07,612 - DEBUG - Random scrolls complete.
+2025-04-02 13:13:14,446 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-04-02 13:13:24,568 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:13:24,584 - INFO - performing random action
+2025-04-02 13:13:24,586 - WARNING - Skipping thread processing due to no thread link being found in subforum.

@@ -1,0 +1,9 @@
+2025-04-01 09:46:07,717 - INFO - Starting automation for profile: DataPhreak
+2025-04-01 09:46:09,298 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-01 09:46:09,300 - INFO - Calculated token expiration time: 1743491769.3002143
+2025-04-01 09:46:09,301 - INFO - Profile DataPhreak: Successfully logged in.
+2025-04-01 09:46:09,306 - INFO - Profile DataPhreak: Starting profile 54a81ba0-2713-4c85-bdc6-78e91dee21ab...
+2025-04-01 09:46:13,977 - INFO - Profile DataPhreak: Extracted port: 54776
+2025-04-01 09:46:15,037 - INFO - Profile DataPhreak: Started on port 54776.
+2025-04-01 09:46:15,057 - INFO - Loaded 452 visited threads from Thread_links.txt
+2025-04-01 09:46:15,058 - INFO - Successfully loaded links that was already visited!

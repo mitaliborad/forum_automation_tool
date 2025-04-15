@@ -1,0 +1,105 @@
+2025-04-02 12:01:08,602 - INFO - Current time: 1743575468.602426
+2025-04-02 12:01:08,603 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 12:01:08,604 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 12:01:08,605 - INFO - Profile PixelPirate99: Minimizing window...
+2025-04-02 12:01:08,606 - INFO - Profile PixelPirate99: Window minimized. Pausing for 18.85 seconds...
+2025-04-02 12:01:27,464 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-04-02 12:01:27,466 - INFO - performing random action
+2025-04-02 12:01:27,469 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 12:01:27,471 - DEBUG - Scrolling page 3 times.
+2025-04-02 12:01:27,473 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:01:29,379 - DEBUG - Page scrolled.
+2025-04-02 12:01:31,382 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:01:32,762 - DEBUG - Page scrolled.
+2025-04-02 12:01:34,764 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:01:36,666 - DEBUG - Page scrolled.
+2025-04-02 12:01:38,668 - DEBUG - Random scrolls complete.
+2025-04-02 12:01:38,670 - DEBUG - Scrolling page 3 times.
+2025-04-02 12:01:38,671 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:01:39,958 - DEBUG - Page scrolled.
+2025-04-02 12:01:41,960 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:01:43,462 - DEBUG - Page scrolled.
+2025-04-02 12:01:45,463 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:01:46,757 - DEBUG - Page scrolled.
+2025-04-02 12:01:48,758 - DEBUG - Random scrolls complete.
+2025-04-02 12:01:57,949 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-04-02 12:02:01,902 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/low-reach-poor-engagement-on-wechat-lives.1515640/unread
+2025-04-02 12:02:01,903 - INFO - performing random action
+2025-04-02 12:02:13,032 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/low-reach-poor-engagement-on-wechat-lives.1515640/unread
+2025-04-02 12:02:13,037 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/low-reach-poor-engagement-on-wechat-lives.1515640/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 12:02:13,069 - INFO - Extracted thread title: Low reach & poor engagement on WeChat lives
+2025-04-02 12:02:13,070 - DEBUG - Scrolling page 2 times.
+2025-04-02 12:02:13,071 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:14,943 - DEBUG - Page scrolled.
+2025-04-02 12:02:16,946 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:18,500 - DEBUG - Page scrolled.
+2025-04-02 12:02:20,502 - DEBUG - Random scrolls complete.
+2025-04-02 12:02:22,541 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:02:22,543 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:23,620 - DEBUG - Page scrolled.
+2025-04-02 12:02:26,622 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:27,931 - DEBUG - Page scrolled.
+2025-04-02 12:02:30,933 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:32,946 - DEBUG - Page scrolled.
+2025-04-02 12:02:35,949 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:37,187 - DEBUG - Page scrolled.
+2025-04-02 12:02:40,188 - DEBUG - Random scrolls complete.
+2025-04-02 12:02:40,217 - DEBUG - Found 17 like buttons.
+2025-04-02 12:02:43,218 - INFO - Attempting to like 2 posts. There are 17 available.
+2025-04-02 12:02:43,885 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:02:43,908 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:02:43,909 - DEBUG - Liked post number 1 of 2.
+2025-04-02 12:02:49,145 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:02:49,164 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:02:49,166 - DEBUG - Liked post number 2 of 2.
+2025-04-02 12:02:53,982 - INFO - Liked 2 posts successfully.
+2025-04-02 12:02:53,983 - INFO - Liked 2 posts successfully.
+2025-04-02 12:02:56,233 - INFO - Profile PixelPirate99: Minimizing window...
+2025-04-02 12:02:56,238 - INFO - Profile PixelPirate99: Window minimized. Pausing for 15.72 seconds...
+2025-04-02 12:03:11,963 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-04-02 12:03:11,966 - INFO - performing random action
+2025-04-02 12:03:11,968 - DEBUG - Scrolling page 6 times.
+2025-04-02 12:03:11,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:03:13,736 - DEBUG - Page scrolled.
+2025-04-02 12:03:16,738 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:03:18,662 - DEBUG - Page scrolled.
+2025-04-02 12:03:21,665 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:03:22,917 - DEBUG - Page scrolled.
+2025-04-02 12:03:25,919 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:03:27,918 - DEBUG - Page scrolled.
+2025-04-02 12:03:30,919 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:03:32,236 - DEBUG - Page scrolled.
+2025-04-02 12:03:35,239 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:03:36,707 - DEBUG - Page scrolled.
+2025-04-02 12:03:39,708 - DEBUG - Random scrolls complete.
+2025-04-02 12:03:42,553 - DEBUG - Total comments in the thread: 17
+2025-04-02 12:05:19,872 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Low reach & poor engagement on WeChat lives.txt
+2025-04-02 12:05:22,197 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 12:05:22,225 - DEBUG - Extracted main post content: I work with an OnlyFans model, and her engagement on TikTok lives is great, consistently hitting 5k views throughout the live, however on WeChat the engagement is terrible rarely hitting 100+ views with poor conversion, does it pick up the more you use it? Can anyone direct me to information that would be useful to read? I don’t feel that she is the issue or her content, and it would be great to utilise another platform for growth,
+
+Thanks for reading!
+2025-04-02 12:05:25,846 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 12:05:25,848 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 12:05:27,988 - INFO - performing random action
+2025-04-02 12:05:27,990 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:05:27,991 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:05:28,007 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:05:28,090 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:05:28,110 - DEBUG - Text box scrolled into view
+2025-04-02 12:05:28,853 - DEBUG - Initializing actionchains
+2025-04-02 12:05:28,887 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5536}, size: {'height': 21, 'width': 68}
+2025-04-02 12:05:28,887 - DEBUG - Target click coordinates: (1121, 5546)
+2025-04-02 12:05:44,536 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 12:05:44,538 - DEBUG - Moving mouse to text box element.
+2025-04-02 12:05:44,540 - DEBUG - Clicking on the text box.
+2025-04-02 12:05:44,548 - DEBUG - Sending keys with content: WeChat's a totally different beast than TikTok; are you sure her content *really* translates, or is it getting lost in translation, culturally speaking? Maybe try researching what actually trends on WeChat to get a better idea.
+
+2025-04-02 12:05:49,770 - DEBUG - Clicking on post reply button.
+2025-04-02 12:05:56,396 - DEBUG - Performed Actionchains
+2025-04-02 12:05:56,396 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 12:06:00,398 - INFO - Comment posted successfully.
+2025-04-02 12:06:00,400 - INFO - Task Completed!!
+2025-04-02 12:06:08,775 - INFO - Navigated back to the homepage.
+2025-04-02 12:06:11,741 - INFO - Attempting to clear memory and resources.
+2025-04-02 12:06:11,798 - INFO - Garbage collection completed.
+2025-04-02 12:06:11,799 - INFO - Waiting for 2000 seconds before next execution.

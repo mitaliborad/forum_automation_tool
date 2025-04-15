@@ -1,0 +1,110 @@
+2025-04-10 11:18:51,330 - INFO - Current time: 1744264131.330637
+2025-04-10 11:18:51,333 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 11:18:51,336 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 11:18:51,338 - INFO - performing random action
+2025-04-10 11:18:51,341 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:18:51,343 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:18:51,345 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:18:52,786 - DEBUG - Page scrolled.
+2025-04-10 11:18:54,788 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:18:56,595 - DEBUG - Page scrolled.
+2025-04-10 11:18:58,597 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:18:59,974 - DEBUG - Page scrolled.
+2025-04-10 11:19:01,977 - DEBUG - Random scrolls complete.
+2025-04-10 11:19:01,978 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:19:01,979 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:19:03,168 - DEBUG - Page scrolled.
+2025-04-10 11:19:05,170 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:19:06,322 - DEBUG - Page scrolled.
+2025-04-10 11:19:08,323 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:19:10,328 - DEBUG - Page scrolled.
+2025-04-10 11:19:12,331 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:19:13,609 - DEBUG - Page scrolled.
+2025-04-10 11:19:15,611 - DEBUG - Random scrolls complete.
+2025-04-10 11:19:31,679 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-10 11:19:35,726 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/tcp-fingerprint-residential-proxies-do-not-match.1703310/unread
+2025-04-10 11:19:35,727 - INFO - performing random action
+2025-04-10 11:19:49,233 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/tcp-fingerprint-residential-proxies-do-not-match.1703310/unread
+2025-04-10 11:19:49,236 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/tcp-fingerprint-residential-proxies-do-not-match.1703310/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:19:49,265 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-10 11:19:49,266 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:19:49,266 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:19:50,635 - DEBUG - Page scrolled.
+2025-04-10 11:19:52,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:19:54,396 - DEBUG - Page scrolled.
+2025-04-10 11:19:56,398 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:04,704 - DEBUG - Page scrolled.
+2025-04-10 11:20:06,707 - DEBUG - Random scrolls complete.
+2025-04-10 11:20:09,062 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:20:09,064 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:10,929 - DEBUG - Page scrolled.
+2025-04-10 11:20:13,931 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:15,755 - DEBUG - Page scrolled.
+2025-04-10 11:20:18,757 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:20,354 - DEBUG - Page scrolled.
+2025-04-10 11:20:23,357 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:24,682 - DEBUG - Page scrolled.
+2025-04-10 11:20:27,684 - DEBUG - Random scrolls complete.
+2025-04-10 11:20:27,722 - DEBUG - Found 6 like buttons.
+2025-04-10 11:20:30,723 - INFO - Attempting to like 3 posts. There are 6 available.
+2025-04-10 11:20:31,580 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:20:31,591 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:20:31,591 - DEBUG - Liked post number 1 of 3.
+2025-04-10 11:20:36,730 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:20:36,752 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:20:36,753 - DEBUG - Liked post number 2 of 3.
+2025-04-10 11:20:41,579 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:20:41,599 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:20:41,600 - DEBUG - Liked post number 3 of 3.
+2025-04-10 11:20:45,717 - INFO - Liked 3 posts successfully.
+2025-04-10 11:20:45,720 - INFO - Liked 3 posts successfully.
+2025-04-10 11:20:48,523 - INFO - performing random action
+2025-04-10 11:20:48,526 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:20:48,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:49,677 - DEBUG - Page scrolled.
+2025-04-10 11:20:52,680 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:54,499 - DEBUG - Page scrolled.
+2025-04-10 11:20:57,501 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:20:58,704 - DEBUG - Page scrolled.
+2025-04-10 11:21:01,706 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:21:03,355 - DEBUG - Page scrolled.
+2025-04-10 11:21:06,357 - DEBUG - Random scrolls complete.
+2025-04-10 11:21:08,466 - DEBUG - Total comments in the thread: 6
+2025-04-10 11:21:39,417 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-10 11:21:41,892 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:21:41,929 - DEBUG - Extracted main post content: Recently I came across a screaming problem. I make all my fingerprint spoof in DESKTOP correctly, impeccably.
+
+Therefore, when you verify the TCP fingerprint two proxies used, or even 75% of the time we see them as ANDROID. I have tested various services and mostly also offer residential proxies, including TCP and Android.
+
+Does anyone know any REALLY residential proxy? that delivers or TCP fingerprint correctly?
+
+I understand that the residential proxy should deliver a RESIDENTIAL TCP FINGERPRINT.
+2025-04-10 11:21:45,068 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:21:45,070 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:21:47,423 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-10 11:21:53,907 - INFO - Profile Emaxx: Pausing for 49.98 seconds...
+2025-04-10 11:22:43,894 - INFO - Profile Emaxx: Resuming...
+2025-04-10 11:22:43,905 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-10 11:22:43,908 - INFO - performing random action
+2025-04-10 11:22:43,910 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:22:43,912 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:22:43,947 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:22:43,989 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:22:43,995 - DEBUG - Text box scrolled into view
+2025-04-10 11:22:44,841 - DEBUG - Initializing actionchains
+2025-04-10 11:22:44,876 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3663}, size: {'height': 21, 'width': 68}
+2025-04-10 11:22:44,877 - DEBUG - Target click coordinates: (1265, 3673)
+2025-04-10 11:22:56,489 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:22:56,490 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:22:56,490 - DEBUG - Clicking on the text box.
+2025-04-10 11:22:56,491 - DEBUG - Sending keys with content: Huh, that's a weird one. Have you tried comparing the TCP settings between your desktop setup and the proxy server to see what's causing the discrepancy?
+
+2025-04-10 11:23:02,374 - DEBUG - Clicking on post reply button.
+2025-04-10 11:23:03,615 - DEBUG - Performed Actionchains
+2025-04-10 11:23:03,616 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:23:07,618 - INFO - Comment posted successfully.
+2025-04-10 11:23:07,621 - INFO - Task Completed!!
+2025-04-10 11:23:14,162 - INFO - Navigated back to the homepage.
+2025-04-10 11:23:16,391 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:23:16,422 - INFO - Garbage collection completed.
+2025-04-10 11:23:16,423 - INFO - Waiting for 1850 seconds before next execution.

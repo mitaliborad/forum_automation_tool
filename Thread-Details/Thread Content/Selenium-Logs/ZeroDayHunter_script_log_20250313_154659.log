@@ -1,0 +1,99 @@
+2025-03-13 15:46:59,830 - INFO - Starting new automation task. Log file created at: Selenium-Logs\ZeroDayHunter_script_log_20250313_154659.log
+2025-03-13 15:46:59,834 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:46:59,864 - INFO - Loaded 205 visited threads from Thread_links.txt
+2025-03-13 15:46:59,866 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:46:59,867 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:46:59,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:01,277 - DEBUG - Page scrolled.
+2025-03-13 15:47:03,279 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:05,028 - DEBUG - Page scrolled.
+2025-03-13 15:47:07,031 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:08,704 - DEBUG - Page scrolled.
+2025-03-13 15:47:10,707 - DEBUG - Random scrolls complete.
+2025-03-13 15:47:10,708 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:47:10,709 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:12,591 - DEBUG - Page scrolled.
+2025-03-13 15:47:14,593 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:16,333 - DEBUG - Page scrolled.
+2025-03-13 15:47:18,335 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:19,722 - DEBUG - Page scrolled.
+2025-03-13 15:47:21,723 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:22,927 - DEBUG - Page scrolled.
+2025-03-13 15:47:24,930 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:26,484 - DEBUG - Page scrolled.
+2025-03-13 15:47:28,490 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:29,720 - DEBUG - Page scrolled.
+2025-03-13 15:47:31,721 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:32,853 - DEBUG - Page scrolled.
+2025-03-13 15:47:34,857 - DEBUG - Random scrolls complete.
+2025-03-13 15:47:39,925 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-03-13 15:47:45,453 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/reddit-isp-proxy.1690915/unread
+2025-03-13 15:47:51,965 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/reddit-isp-proxy.1690915/unread
+2025-03-13 15:47:51,968 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/reddit-isp-proxy.1690915/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:47:52,034 - INFO - Extracted thread title: www.blackhatworld.com
+2025-03-13 15:47:52,035 - DEBUG - Scrolling page 2 times.
+2025-03-13 15:47:52,036 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:53,616 - DEBUG - Page scrolled.
+2025-03-13 15:47:55,619 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:47:57,357 - DEBUG - Page scrolled.
+2025-03-13 15:47:59,359 - DEBUG - Random scrolls complete.
+2025-03-13 15:48:01,578 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:48:01,580 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:48:03,421 - DEBUG - Page scrolled.
+2025-03-13 15:48:06,427 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:48:13,165 - DEBUG - Page scrolled.
+2025-03-13 15:48:16,170 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:48:17,255 - DEBUG - Page scrolled.
+2025-03-13 15:48:20,258 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:48:21,414 - DEBUG - Page scrolled.
+2025-03-13 15:48:24,416 - DEBUG - Random scrolls complete.
+2025-03-13 15:48:24,432 - DEBUG - Found 12 like buttons.
+2025-03-13 15:48:27,433 - INFO - Attempting to like 2 posts. There are 12 available.
+2025-03-13 15:48:28,119 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:48:28,131 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:48:28,133 - DEBUG - Liked post number 1 of 2.
+2025-03-13 15:48:33,628 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:48:33,640 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:48:33,641 - DEBUG - Liked post number 2 of 2.
+2025-03-13 15:48:37,817 - INFO - Liked 2 posts successfully.
+2025-03-13 15:48:37,823 - INFO - Liked 2 posts successfully.
+2025-03-13 15:48:40,154 - DEBUG - Scrolling page 5 times.
+2025-03-13 15:48:40,155 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:48:41,668 - DEBUG - Page scrolled.
+2025-03-13 15:48:44,669 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:48:46,315 - DEBUG - Page scrolled.
+2025-03-13 15:48:49,317 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:48:51,131 - DEBUG - Page scrolled.
+2025-03-13 15:48:54,133 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:48:55,897 - DEBUG - Page scrolled.
+2025-03-13 15:48:58,900 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:49:00,793 - DEBUG - Page scrolled.
+2025-03-13 15:49:03,794 - DEBUG - Random scrolls complete.
+2025-03-13 15:49:06,816 - DEBUG - Total comments in the thread: 12
+2025-03-13 15:50:51,485 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-03-13 15:51:08,103 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:51:08,137 - DEBUG - Extracted main post content: Are ISP proxies work for Reddit?
+2025-03-13 15:51:12,862 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:51:12,865 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:51:14,977 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:51:14,979 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:51:15,005 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:51:15,050 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:51:15,059 - DEBUG - Text box scrolled into view
+2025-03-13 15:51:15,597 - DEBUG - Initializing actionchains
+2025-03-13 15:51:15,617 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4332}, size: {'height': 21, 'width': 68}
+2025-03-13 15:51:15,618 - DEBUG - Target click coordinates: (1121, 4342)
+2025-03-13 15:51:27,951 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:51:27,953 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:51:27,954 - DEBUG - Clicking on the text box.
+2025-03-13 15:51:27,957 - DEBUG - Sending keys with content: Honestly, it's hit or miss depending on the ISP and what you're trying to do. Have you tried rotating residential proxies instead?
+
+2025-03-13 15:51:33,421 - DEBUG - Clicking on post reply button.
+2025-03-13 15:51:44,408 - DEBUG - Performed Actionchains
+2025-03-13 15:51:44,409 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:51:48,410 - INFO - Comment posted successfully.
+2025-03-13 15:51:48,413 - INFO - Task Completed!!
+2025-03-13 15:52:02,986 - INFO - Navigated back to the homepage.
+2025-03-13 15:52:05,498 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:52:05,527 - INFO - Garbage collection completed.
+2025-03-13 15:52:05,528 - INFO - Waiting for 10 seconds before next execution.

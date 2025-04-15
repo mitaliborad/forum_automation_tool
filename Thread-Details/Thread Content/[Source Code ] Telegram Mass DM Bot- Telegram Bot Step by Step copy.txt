@@ -1,0 +1,393 @@
+--- Main Post Title ---
+[Source Code ] Telegram Mass DM Bot- Telegram Bot Step by Step
+
+Total comments in the thread: 14
+
+Topic User: Funiki
+Topic: Hey BHW!
+As promised i want to share with you guys my source code of my Telegram Mass DM Bot.
+
+First, our requirements to make it run. What we need Joshua? Simple boys. I made a easy to follow guide for you . There is no coding knowledge required but you will learn for sure how to use Python.
+So, let's begin.
+
+1 - Getting started and installing all the required programs.
+Visual Studio Code for your OS (Windows, macOS, Linux )
+Download and Install from https://code.visualstudio.com/download
+
+2- Download and Install Python
+https://www.python.org/downloads/
+
+3- Open VSCode, create a new file you can name it main.py
+4 - Open the file above created and copy + paste this code
+
+Python:
+# Start copying the code since this line if you don't understand Python
+from telethon.sync import TelegramClient
+
+# Function to login to Telegram
+def login(api_id, api_hash, phone_number):
+    client = TelegramClient('session_name', api_id, api_hash)
+    client.connect()
+    if not client.is_user_authorized():
+        client.send_code_request(phone_number)
+        client.sign_in(phone_number, input('Enter the code: '))
+    return client
+
+# Function to send message to list of usernames
+def send_message(client, username_file, message):
+    with open(username_file, 'r') as file:
+        usernames = file.readlines()
+        for username in usernames:
+            try:
+                client.send_message(username.strip(), message)
+                print(f"Message sent to {username.strip()} successfully!")
+            except Exception as e:
+                print(f"Failed to send message to {username.strip()}: {e}")
+
+# Main function
+def main():
+    # Input your Telegram API credentials
+    api_id = 'xxxxxxxxxx'
+    api_hash = 'xxxxxxxxxxxxx'
+    phone_number = 'xxxxxxxxxx'
+
+    # Login to Telegram
+    client = login(api_id, api_hash, phone_number)
+
+    # Send message
+    username_file = 'usernames.txt'  # Name of the text file containing usernames
+    message = 'MY NAME IS JOSHUA AND THIS IS MY MASS DM BOT WORKING. Congrats you make it!'  # Message to be sent
+    send_message(client, username_file, message)
+
+if __name__ == '__main__':
+    main()
+
+As simple as that but there are points that must be filled, we are not ready to run yet...Just follow me below.
+
+5 - Adding the text file where the target usernames are
+Create a new file for the usernames to send messages, i call it usernames.txt in the code so you can use the same name .
+If you use another file name , you must modify the above code then but i've tagged the whole code so is more easier to read.
+In this file you must put the usernames -one per line- with the @ added , example :
+@bhw
+@username1
+@username2
+@username3
+6 - Extracting API ID, HASH ID for accounts and setting up the python file.
+Go to https://my.telegram.org ( You must login )
+Create an app
+Fill in the app details
+Extract the api ID
+Extract the api hash
+Input the api id in the main.py
+Input the api hash in the main.py
+Input the account number in the main.py
+
+
+7- Open the Python Terminal through VSCode
+
+8 - Installing required libraries, only telethon. I tried to make the code easier to install so with telethon everything is covered.
+First type
+pip3 install telethon
+pip3 = pip / May change depend on your OS
+
+9 - With all the steps above filled now you are ready to run the code just typing
+python3 main.py
+Python3 = python / May change depend on your OS
+
+TAKE IN MIND BEFORE RUNNING
+All the code is quite optimized and updated but for BULK tasks i would recommend to use bulk accounts. Do not use your own account to send 100's of DMs because I can't guarantee you won't get your accounts flagged or banned.
+
+IF you need any help kindly post here and i'll assist you.
+
+PS : This is not a sales thread and this tool is shared for FREE neither I'm not distributing this to catch customers as i'm my tools are not available to buy anymore.
+
+With this said, enjoy.
+J.J
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: It seems quite useful, thank you for sharing this detailed guide, I will try it when I have some time
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Spicy Chromosomes
+Topic: Funiki said:
+TAKE IN MIND BEFORE RUNNING
+All the code is quite optimized and updated but for BULK tasks i would recommend to use bulk accounts. Do not use your own account to send 100's of DMs because I can't guarantee you won't get your accounts flagged or banned.
+J.J
+How many messages per account would you recommend? Thanks
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: UrbanSnake
+Topic: i'm code illiterate, thanks for sponfeed us
+Liked by: Funiki
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: FOXLair
+Topic: This is good. You can also add processing by separator. Also make data input through "input", and translate the code into a binary exe file. So that people who are not connected with programming could easily use your code)
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Venusaur
+Topic: Great to see someone putting effort in writing something, many AI shit nowadays, great tutorial
+Liked by: Funiki
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Funiki
+Topic: Spicy Chromosomes said:
+How many messages per account would you recommend? Thanks
+I would usually recommend sending 5-10 messages per session. It means that you send 10 messages to 10 different users the program will stop automatically, that's a session.
+
+I have used the same account to send messages to 20 users divided into 2 sessions of 10 users each.
+
+The quality of the account is important, that it is old mainly.
+
+Telegram detects the sending of mass messages if you use the same content, knowing this use this strategy to send different messages, if you use Link try to send messages to fewer users because it is easier to detect them.
+
+The spam activity works based on a logic that only the spammer does, it means that if you send the same message to more than 5 people telegram will notice it and first it will flag your account - if you have not had restrictions before.
+
+FOXLair said:
+This is good. You can also add processing by separator. Also make data input through "input", and translate the code into a binary exe file. So that people who are not connected with programming could easily use your code)
+My intention is to share with the community but also that the community learns and obtains knowledge. If someone needs to use my code they can do it, there are no licenses or codes that do not allow you to use it unlimitedly.
+
+Regardless of that, if someone then wants to convert it into exe or another type of executable is free to do so, the source code is there.
+
+Also anyone can freely add / modify the code and adjust it to their needs
+Liked by: FOXLair, Spicy Chromosomes
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: pinkeshahir21
+Topic: That's gucci share, thank you.
+Liked by: Funiki
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Funiki
+Topic: RichMedusa said:
+It seems quite useful, thank you for sharing this detailed guide, I will try it when I have some time
+UrbanSnake said:
+i'm code illiterate, thanks for sponfeed us
+I will add a video of the installation process as well, so that it is more feasible to use it and learn how to use Python For future projects that I will also upload their source code here.
+Venusaur said:
+Great to see someone putting effort in writing something, many AI shit nowadays, great tutorial
+I tried the best I could, I'm really not very good at explaining myself but there it is. Thank you man. I know that Ai's posts bother you a lot. Enjoy it!
+
+If you need help with something you can ask without problems
+pinkeshahir21 said:
+That's gucci share, thank you.
+It's good to know that it can help you, use it properly.
+
+Happy weekend to all of you guys.
+Liked by: UrbanSnake, RichMedusa
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Lukmat
+Topic: Funiki said:
+Hey BHW!
+As promised i want to share with you guys my source code of my Telegram Mass DM Bot.
+
+First, our requirements to make it run. What we need Joshua? Simple boys. I made a easy to follow guide for you . There is no coding knowledge required but you will learn for sure how to use Python.
+So, let's begin.
+
+1 - Getting started and installing all the required programs.
+Visual Studio Code for your OS (Windows, macOS, Linux )
+Download and Install from
+
+2- Download and Install Python
+
+
+3- Open VSCode, create a new file you can name it main.py
+4 - Open the file above created and copy + paste this code
+
+
+As simple as that but there are points that must be filled, we are not ready to run yet...Just follow me below.
+
+5 - Adding the text file where the target usernames are
+Create a new file for the usernames to send messages, i call it usernames.txt in the code so you can use the same name .
+If you use another file name , you must modify the above code then but i've tagged the whole code so is more easier to read.
+
+6 - Extracting API ID, HASH ID for accounts and setting up the python file.
+Go to ( You must login )
+Create an app
+Fill in the app details
+Extract the api ID
+Extract the api hash
+Input the api id in the main.py
+Input the api hash in the main.py
+Input the account number in the main.py
+
+
+7- Open the Python Terminal through VSCode
+
+8 - Installing required libraries, only telethon. I tried to make the code easier to install so with telethon everything is covered.
+First type
+
+pip3 = pip / May change depend on your OS
+
+9 - With all the steps above filled now you are ready to run the code just typing
+
+Python3 = python / May change depend on your OS
+
+
+All the code is quite optimized and updated but for BULK tasks i would recommend to use bulk accounts. Do not use your own account to send 100's of DMs because I can't guarantee you won't get your accounts flagged or banned.
+
+IF you need any help kindly post here and i'll assist you.
+
+PS : This is not a sales thread and this tool is shared for FREE neither I'm not distributing this to catch customers as i'm my tools are not available to buy anymore.
+
+With this said, .
+Click to expand...
+
+It's not the bot, but function for sending DM
+To make a bot from that, it's needed to make:
+1. Support for proxy
+2. Log in, log out automaticaly
+3. Sleep times
+4. Sending different messages, can be made by Spintax, AI API or just direct access to base of messages from some txt/json
+
+But good share, ill take that code and expand to make it running
+Thank you for contributing the community
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Funiki
+Topic: Lukmat said:
+It's not the bot, but function for sending DM
+That’s the idea . I shared the source code. Of course is not the same bot / code i sold in the past because is unprofessional —from my point of view to share something for free that others paid.
+Lukmat said:
+To make a bot from that, it's needed to make:
+1. Support for proxy
+1- It support proxies —globally. Meant you can add proxies to your OS . Telegram allow proxies IF you are logged into the app and
+setup the proxy through the app settings.
+Lukmat said:
+2. Log in, log out automatically
+2- Login you may use your tdata, or tg
+session file . If you don’t want to add your details in the main file you can just import your account details with the above mentioned files .
+Lukmat said:
+3. Sleep times
+3- Sleep times is missing , in this code. I didn’t added a delay but can be added.
+Lukmat said:
+4. Sending different messages, can be made by Spintax, AI API or just direct access to base of messages from some txt/json
+4 - Sending different messages is also possible if you just add another txt file. Or you can use your own file( JSON CSV , TXT).
+Lukmat said:
+But good share, ill take that code and expand to make it running
+Thank you for contributing the community
+The code is friendly built for non - coders members if you are good at coding you are free to improve the code as your needs.
+Enjoy , I hope it can help you build something better.
+Liked by: Lukmat
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Lukmat
+Topic: Funiki said:
+That’s the idea . I shared the source code. Of course is not the same bot / code i sold in the past because is unprofessional —from my point of view to share something for free that others paid.
+
+1- It support proxies —globally. Meant you can add proxies to your OS . Telegram allow proxies IF you are logged into the app and
+setup the proxy through the app settings.
+
+2- Login you may use your tdata, or tg
+session file . If you don’t want to add your details in the main file you can just import your account details with the above mentioned files .
+
+3- Sleep times is missing , in this code. I didn’t added a delay but can be added.
+
+4 - Sending different messages is also possible if you just add another txt file. Or you can use your own file( JSON CSV , TXT).
+
+The code is friendly built for non - coders members if you are good at coding you are free to improve the code as your needs.
+Enjoy , I hope it can help you build something better.
+Click to expand...
+Actualy I just need to send PM to group members:
+1. From 200 accs, 50 messages / in single day, group have 10 000 members
+2. Support proxy switching and work in the background, message randomization, maybe ill just make it with deepseek API
+
+Not planning to make such bot for sales, but to promote my products
+Current bots on the market have unreasonable pricing for such thing. They cost even $1000 to send the message.
+It's just Python + 1 day in Cursor
+
+But nice you have included that code, it's just good basics to build on
+Liked by: Funiki
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Funiki
+Topic: Lukmat said:
+Actualy I just need to send PM to group members:
+1. From 200 accs, 50 messages / in single day, group have 10 000 members
+It's a good strategy you have in mind, I'm sure you'll achieve it very easily. Using multiple accounts will avoid restrictions on your accounts and it is also a smart move. If you have the tdata files you can simply add the files, and the same code will detect the accounts and it will not be necessary to log in to each one.
+
+You can also use accounts switching so that every certain number of messages the code automatically changes between accounts, it can also be done and it will be a more automated process.
+Lukmat said:
+2. Support proxy switching and work in the background, message randomization, maybe ill just make it with deepseek API
+I have never tried Deepseek API but I have used the computer's own delay system, so that it runs the Python script every 1 minute and sends messages in this same time.
+Lukmat said:
+Not planning to make such bot for sales, but to promote my products
+Current bots on the market have unreasonable pricing for such thing. They cost even $1000 to send the message.
+It's just Python + 1 day in Cursor
+Keep in mind to promote services, use different messages even if you use different accounts Telegram detects spam messages if you use the same link or the same text - message content.
+Lukmat said:
+But nice you have included that code, it's just good basics to build on
+I am very happy to know that it will serve to create something else.
+
+I will continue sharing some of my projects and somehow educate or help members who want to learn how to use Python.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Proxy Cake
+Topic: Nice share mate, thanks!
+Liked by: Funiki
+Number of likes: 1
+-----
+
+Replies:
+
+

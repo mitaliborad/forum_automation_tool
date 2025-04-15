@@ -1,0 +1,96 @@
+2025-03-13 11:56:54,210 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250313_115654.log
+2025-03-13 11:56:54,225 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 11:56:54,373 - INFO - Loaded 182 visited threads from Thread_links.txt
+2025-03-13 11:56:54,460 - INFO - Successfully loaded links that was already visited!
+2025-03-13 11:56:54,471 - DEBUG - Scrolling page 3 times.
+2025-03-13 11:56:54,472 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:56:57,895 - DEBUG - Page scrolled.
+2025-03-13 11:56:59,900 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:01,758 - DEBUG - Page scrolled.
+2025-03-13 11:57:03,761 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:05,257 - DEBUG - Page scrolled.
+2025-03-13 11:57:07,259 - DEBUG - Random scrolls complete.
+2025-03-13 11:57:07,261 - DEBUG - Scrolling page 4 times.
+2025-03-13 11:57:07,262 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:09,251 - DEBUG - Page scrolled.
+2025-03-13 11:57:11,252 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:12,431 - DEBUG - Page scrolled.
+2025-03-13 11:57:14,433 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:15,759 - DEBUG - Page scrolled.
+2025-03-13 11:57:17,771 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:18,946 - DEBUG - Page scrolled.
+2025-03-13 11:57:20,948 - DEBUG - Random scrolls complete.
+2025-03-13 11:57:27,432 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-03-13 11:57:32,006 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-scrape-youtube-channels.1456381/unread
+2025-03-13 11:57:45,195 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-scrape-youtube-channels.1456381/unread
+2025-03-13 11:57:45,197 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-scrape-youtube-channels.1456381/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 11:57:45,225 - INFO - Extracted thread title: How to scrape YouTube channels
+2025-03-13 11:57:45,226 - DEBUG - Scrolling page 4 times.
+2025-03-13 11:57:45,227 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:46,698 - DEBUG - Page scrolled.
+2025-03-13 11:57:48,700 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:50,691 - DEBUG - Page scrolled.
+2025-03-13 11:57:52,694 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:53,978 - DEBUG - Page scrolled.
+2025-03-13 11:57:55,980 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:57,257 - DEBUG - Page scrolled.
+2025-03-13 11:57:59,259 - DEBUG - Random scrolls complete.
+2025-03-13 11:58:01,909 - DEBUG - Scrolling page 3 times.
+2025-03-13 11:58:01,911 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:58:02,930 - DEBUG - Page scrolled.
+2025-03-13 11:58:05,932 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:58:07,452 - DEBUG - Page scrolled.
+2025-03-13 11:58:10,455 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:58:12,164 - DEBUG - Page scrolled.
+2025-03-13 11:58:15,166 - DEBUG - Random scrolls complete.
+2025-03-13 11:58:15,187 - DEBUG - Found 9 like buttons.
+2025-03-13 11:58:18,188 - INFO - Attempting to like 1 posts. There are 9 available.
+2025-03-13 11:58:18,992 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 11:58:19,009 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 11:58:19,011 - DEBUG - Liked post number 1 of 1.
+2025-03-13 11:58:23,959 - INFO - Liked 1 posts successfully.
+2025-03-13 11:58:23,964 - INFO - Liked 1 posts successfully.
+2025-03-13 11:58:26,326 - DEBUG - Scrolling page 5 times.
+2025-03-13 11:58:26,328 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:58:27,368 - DEBUG - Page scrolled.
+2025-03-13 11:58:30,370 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:58:31,631 - DEBUG - Page scrolled.
+2025-03-13 11:58:34,633 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:58:36,622 - DEBUG - Page scrolled.
+2025-03-13 11:58:39,623 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:58:40,933 - DEBUG - Page scrolled.
+2025-03-13 11:58:43,935 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:58:45,808 - DEBUG - Page scrolled.
+2025-03-13 11:58:48,810 - DEBUG - Random scrolls complete.
+2025-03-13 11:58:51,224 - DEBUG - Total comments in the thread: 9
+2025-03-13 11:59:54,760 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to scrape YouTube channels.txt
+2025-03-13 11:59:56,879 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 11:59:56,936 - DEBUG - Extracted main post content: Hi everyone!
+
+Is there a tool/scraper/whatever that can scrape channels with more than X subscribers?
+
+Thanks!
+2025-03-13 12:00:00,375 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 12:00:00,377 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 12:00:02,968 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:00:02,986 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:00:03,022 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:00:03,155 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:00:03,176 - DEBUG - Text box scrolled into view
+2025-03-13 12:00:03,736 - DEBUG - Initializing actionchains
+2025-03-13 12:00:03,857 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3663}, size: {'height': 21, 'width': 68}
+2025-03-13 12:00:03,859 - DEBUG - Target click coordinates: (1121, 3673)
+2025-03-13 12:00:15,761 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 12:00:15,762 - DEBUG - Moving mouse to text box element.
+2025-03-13 12:00:15,764 - DEBUG - Clicking on the text box.
+2025-03-13 12:00:15,765 - DEBUG - Sending keys with content: You could try just Googling "top [whatever niche] channels," might save you the hassle of setting up a scraper.
+
+2025-03-13 12:00:20,867 - DEBUG - Clicking on post reply button.
+2025-03-13 12:00:22,776 - DEBUG - Performed Actionchains
+2025-03-13 12:00:22,777 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 12:00:26,788 - INFO - Comment posted successfully.
+2025-03-13 12:00:26,789 - INFO - Task Completed!!
+2025-03-13 12:00:30,099 - INFO - Navigated back to the homepage.
+2025-03-13 12:00:32,821 - INFO - Attempting to clear memory and resources.
+2025-03-13 12:00:32,922 - INFO - Garbage collection completed.
+2025-03-13 12:00:32,923 - INFO - Waiting for 10 seconds before next execution.

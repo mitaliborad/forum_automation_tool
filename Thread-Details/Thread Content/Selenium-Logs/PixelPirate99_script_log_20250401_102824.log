@@ -1,0 +1,109 @@
+2025-04-01 10:28:24,827 - INFO - Current time: 1743483504.8274593
+2025-04-01 10:28:24,830 - INFO - Token expiration time: 1743491889.6394923
+2025-04-01 10:28:24,832 - INFO - Token expiration time: 1743491889.6394923
+2025-04-01 10:28:24,834 - INFO - performing random action
+2025-04-01 10:28:24,836 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 10:28:24,839 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:28:24,840 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:26,505 - DEBUG - Page scrolled.
+2025-04-01 10:28:28,507 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:30,350 - DEBUG - Page scrolled.
+2025-04-01 10:28:32,353 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:34,082 - DEBUG - Page scrolled.
+2025-04-01 10:28:36,084 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:37,966 - DEBUG - Page scrolled.
+2025-04-01 10:28:39,967 - DEBUG - Random scrolls complete.
+2025-04-01 10:28:39,969 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:28:39,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:41,926 - DEBUG - Page scrolled.
+2025-04-01 10:28:43,928 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:45,277 - DEBUG - Page scrolled.
+2025-04-01 10:28:47,279 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:48,347 - DEBUG - Page scrolled.
+2025-04-01 10:28:50,349 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:28:52,223 - DEBUG - Page scrolled.
+2025-04-01 10:28:54,225 - DEBUG - Random scrolls complete.
+2025-04-01 10:29:02,764 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-04-01 10:29:06,821 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-insatll-php-script-themes.1487692/unread
+2025-04-01 10:29:06,821 - INFO - performing random action
+2025-04-01 10:29:15,987 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-insatll-php-script-themes.1487692/unread
+2025-04-01 10:29:15,991 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-insatll-php-script-themes.1487692/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 10:29:16,038 - INFO - Extracted thread title: how to insatll php script themes
+2025-04-01 10:29:16,039 - DEBUG - Scrolling page 2 times.
+2025-04-01 10:29:16,040 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:17,653 - DEBUG - Page scrolled.
+2025-04-01 10:29:19,656 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:21,574 - DEBUG - Page scrolled.
+2025-04-01 10:29:23,574 - DEBUG - Random scrolls complete.
+2025-04-01 10:29:26,147 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:29:26,148 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:27,925 - DEBUG - Page scrolled.
+2025-04-01 10:29:30,927 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:31,993 - DEBUG - Page scrolled.
+2025-04-01 10:29:34,995 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:36,779 - DEBUG - Page scrolled.
+2025-04-01 10:29:39,781 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:29:41,290 - DEBUG - Page scrolled.
+2025-04-01 10:29:44,293 - DEBUG - Random scrolls complete.
+2025-04-01 10:29:44,320 - DEBUG - Found 6 like buttons.
+2025-04-01 10:29:47,321 - INFO - Attempting to like 3 posts. There are 6 available.
+2025-04-01 10:29:48,317 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:29:48,340 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:29:48,341 - DEBUG - Liked post number 1 of 3.
+2025-04-01 10:29:53,953 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:29:53,972 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:29:53,974 - DEBUG - Liked post number 2 of 3.
+2025-04-01 10:29:59,105 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:29:59,123 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:29:59,125 - DEBUG - Liked post number 3 of 3.
+2025-04-01 10:30:03,172 - INFO - Liked 3 posts successfully.
+2025-04-01 10:30:03,175 - INFO - Liked 3 posts successfully.
+2025-04-01 10:30:05,305 - INFO - Profile PixelPirate99: Restoring window...
+2025-04-01 10:30:07,316 - INFO - performing random action
+2025-04-01 10:30:07,319 - DEBUG - Scrolling page 6 times.
+2025-04-01 10:30:07,322 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:08,898 - DEBUG - Page scrolled.
+2025-04-01 10:30:11,900 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:13,142 - DEBUG - Page scrolled.
+2025-04-01 10:30:16,143 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:18,038 - DEBUG - Page scrolled.
+2025-04-01 10:30:21,040 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:23,039 - DEBUG - Page scrolled.
+2025-04-01 10:30:26,042 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:27,994 - DEBUG - Page scrolled.
+2025-04-01 10:30:30,996 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:30:32,780 - DEBUG - Page scrolled.
+2025-04-01 10:30:35,791 - DEBUG - Random scrolls complete.
+2025-04-01 10:30:38,803 - DEBUG - Total comments in the thread: 6
+2025-04-01 10:30:49,776 - INFO - Post content extracted and saved to Thread-Details/Thread Content\how to insatll php script themes.txt
+2025-04-01 10:30:51,963 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 10:30:52,020 - DEBUG - Extracted main post content: i want to install but couldnt find any good tutorial.if anyone would tell me how to do it.it will be alot of help
+2025-04-01 10:30:56,150 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 10:30:56,154 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 10:30:59,142 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-01 10:31:04,776 - INFO - Profile PixelPirate99: Pausing for 38.02 seconds...
+2025-04-01 10:31:42,795 - INFO - Profile PixelPirate99: Resuming...
+2025-04-01 10:31:42,807 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-01 10:31:42,807 - INFO - performing random action
+2025-04-01 10:31:42,808 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:31:42,808 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:31:42,831 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:31:42,885 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:31:42,893 - DEBUG - Text box scrolled into view
+2025-04-01 10:31:43,489 - DEBUG - Initializing actionchains
+2025-04-01 10:31:43,561 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2643}, size: {'height': 21, 'width': 68}
+2025-04-01 10:31:43,562 - DEBUG - Target click coordinates: (1121, 2653)
+2025-04-01 10:31:53,174 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 10:31:53,175 - DEBUG - Moving mouse to text box element.
+2025-04-01 10:31:53,176 - DEBUG - Clicking on the text box.
+2025-04-01 10:31:53,178 - DEBUG - Sending keys with content: Honestly, YouTube's your best bet, but search for tutorials from *this year*. Older ones might be outdated.
+
+2025-04-01 10:31:58,797 - DEBUG - Clicking on post reply button.
+2025-04-01 10:32:09,819 - DEBUG - Performed Actionchains
+2025-04-01 10:32:09,820 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 10:32:13,821 - INFO - Comment posted successfully.
+2025-04-01 10:32:13,822 - INFO - Task Completed!!
+2025-04-01 10:32:23,760 - INFO - Navigated back to the homepage.
+2025-04-01 10:32:26,744 - INFO - Attempting to clear memory and resources.
+2025-04-01 10:32:26,791 - INFO - Garbage collection completed.
+2025-04-01 10:32:26,792 - INFO - Waiting for 2000 seconds before next execution.

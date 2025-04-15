@@ -10,7 +10,7 @@ from pynput.mouse import Button, Controller
 
 # --- Automation Configuration ---
 LOG_DIRECTORY = "Selenium-Logs"
-AUTOMATION_WAIT_TIME = 2000
+AUTOMATION_WAIT_TIME = 1000
 MIN_SCROLLS = 2
 MAX_SCROLLS = 4
 MAX_SCROLL_ATTEMPS =3

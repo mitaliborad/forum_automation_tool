@@ -1,0 +1,108 @@
+2025-03-11 16:38:51,478 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_163851.log
+2025-03-11 16:38:51,531 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 16:38:51,563 - INFO - Loaded 141 visited threads from Thread_links.txt
+2025-03-11 16:38:51,566 - INFO - Successfully loaded links that was already visited!
+2025-03-11 16:38:51,570 - DEBUG - Scrolling page 3 times.
+2025-03-11 16:38:51,596 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:38:53,343 - DEBUG - Page scrolled.
+2025-03-11 16:38:55,346 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:38:56,697 - DEBUG - Page scrolled.
+2025-03-11 16:38:58,700 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:39:00,285 - DEBUG - Page scrolled.
+2025-03-11 16:39:02,307 - DEBUG - Random scrolls complete.
+2025-03-11 16:39:02,308 - DEBUG - Scrolling page 7 times.
+2025-03-11 16:39:02,309 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:39:03,651 - DEBUG - Page scrolled.
+2025-03-11 16:39:05,821 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:39:07,797 - DEBUG - Page scrolled.
+2025-03-11 16:39:09,799 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:39:11,284 - DEBUG - Page scrolled.
+2025-03-11 16:39:13,286 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:39:14,904 - DEBUG - Page scrolled.
+2025-03-11 16:39:16,910 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:39:18,273 - DEBUG - Page scrolled.
+2025-03-11 16:39:20,275 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:39:21,416 - DEBUG - Page scrolled.
+2025-03-11 16:39:23,418 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:39:25,146 - DEBUG - Page scrolled.
+2025-03-11 16:39:27,147 - DEBUG - Random scrolls complete.
+2025-03-11 16:39:40,650 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-03-11 16:39:45,447 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/which-smm-service-to-use-i-need-followers-lets-find-the-best-one-together.1492557/unread
+2025-03-11 16:39:56,917 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/which-smm-service-to-use-i-need-followers-lets-find-the-best-one-together.1492557/unread
+2025-03-11 16:39:56,920 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/which-smm-service-to-use-i-need-followers-lets-find-the-best-one-together.1492557/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 16:39:56,993 - INFO - Extracted thread title: Which SMM service to use I need followers, let's find the best one together!
+2025-03-11 16:39:56,995 - DEBUG - Scrolling page 2 times.
+2025-03-11 16:39:56,996 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:39:58,138 - DEBUG - Page scrolled.
+2025-03-11 16:40:00,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:01,749 - DEBUG - Page scrolled.
+2025-03-11 16:40:03,750 - DEBUG - Random scrolls complete.
+2025-03-11 16:40:05,993 - DEBUG - Scrolling page 2 times.
+2025-03-11 16:40:05,994 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:07,817 - DEBUG - Page scrolled.
+2025-03-11 16:40:10,823 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:12,409 - DEBUG - Page scrolled.
+2025-03-11 16:40:15,417 - DEBUG - Random scrolls complete.
+2025-03-11 16:40:15,470 - DEBUG - Found 20 like buttons.
+2025-03-11 16:40:18,473 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-03-11 16:40:19,311 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 16:40:19,357 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 16:40:19,365 - DEBUG - Liked post number 1 of 1.
+2025-03-11 16:40:24,361 - INFO - Liked 1 posts successfully.
+2025-03-11 16:40:24,363 - INFO - Liked 1 posts successfully.
+2025-03-11 16:40:26,480 - DEBUG - Scrolling page 7 times.
+2025-03-11 16:40:26,482 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:28,217 - DEBUG - Page scrolled.
+2025-03-11 16:40:31,220 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:32,341 - DEBUG - Page scrolled.
+2025-03-11 16:40:35,345 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:37,128 - DEBUG - Page scrolled.
+2025-03-11 16:40:40,131 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:42,091 - DEBUG - Page scrolled.
+2025-03-11 16:40:45,094 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:46,254 - DEBUG - Page scrolled.
+2025-03-11 16:40:49,256 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:50,389 - DEBUG - Page scrolled.
+2025-03-11 16:40:53,390 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 16:40:54,703 - DEBUG - Page scrolled.
+2025-03-11 16:40:57,706 - DEBUG - Random scrolls complete.
+2025-03-11 16:41:00,659 - DEBUG - Total comments in the thread: 20
+2025-03-11 16:41:44,016 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Which SMM service to use I need followers, let's find the best one together!.txt
+2025-03-11 16:41:46,149 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 16:41:46,187 - DEBUG - Extracted main post content: I need a lot of Twitter followers frequently and used already multiple panels with mixed succes
+
+JAP, pacysmm, socialpanel24, smmpasa, dripfeedpanel, fivebbc, bestsmmprovider, realsite - to name a few
+
+all of them can't deliver their promises, drops, bad support, pending orders are nothing special
+
+I also had orders filled on time but you can't rely on them, today it works tomorrow will not even if you buy the most expensive orders they offer
+
+From few days after last Twitter update there are massive problems with Twitter followers, from what I see there is no single service that can deliver stable followers right now, all i bought in last 3 days from multiple services (advertised on this forum) dropped already, despite I always buy only the most expensive orders with refill guarantee
+
+so what are you using right now to get Twitter followers? any luck?
+
+share your experience please, like this we will be able to figure out where to look to get Twitter followers today
+2025-03-11 16:41:50,113 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 16:41:50,116 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 16:41:52,204 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 16:41:52,205 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 16:41:52,221 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 16:41:52,273 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 16:41:52,283 - DEBUG - Text box scrolled into view
+2025-03-11 16:41:53,213 - DEBUG - Initializing actionchains
+2025-03-11 16:41:53,317 - DEBUG - Post reply Element location: {'x': 1087, 'y': 10318}, size: {'height': 21, 'width': 68}
+2025-03-11 16:41:53,318 - DEBUG - Target click coordinates: (1121, 10328)
+2025-03-11 16:42:16,614 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 16:42:16,616 - DEBUG - Moving mouse to text box element.
+2025-03-11 16:42:16,617 - DEBUG - Clicking on the text box.
+2025-03-11 16:42:16,619 - DEBUG - Sending keys with content: Honestly, I've given up on panels for followers lately. Been focusing on creating engaging content and just letting it grow organically, takes longer but feels more sustainable.
+
+2025-03-11 16:42:21,699 - DEBUG - Clicking on post reply button.
+2025-03-11 16:42:33,043 - DEBUG - Performed Actionchains
+2025-03-11 16:42:33,047 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 16:42:37,052 - INFO - Comment posted successfully.
+2025-03-11 16:42:37,101 - INFO - Task Completed!!
+2025-03-11 16:42:47,106 - INFO - Navigated back to the homepage.
+2025-03-11 16:42:49,775 - INFO - Attempting to clear memory and resources.
+2025-03-11 16:42:49,845 - INFO - Garbage collection completed.
+2025-03-11 16:42:49,846 - INFO - Waiting for 1800 seconds before next execution.

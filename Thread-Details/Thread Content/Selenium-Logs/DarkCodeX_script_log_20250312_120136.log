@@ -1,0 +1,95 @@
+2025-03-12 12:01:36,324 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_120136.log
+2025-03-12 12:01:36,326 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 12:01:36,327 - INFO - Loaded 156 visited threads from Thread_links.txt
+2025-03-12 12:01:36,328 - INFO - Successfully loaded links that was already visited!
+2025-03-12 12:01:36,329 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:01:36,330 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:01:37,597 - DEBUG - Page scrolled.
+2025-03-12 12:01:39,599 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:01:41,055 - DEBUG - Page scrolled.
+2025-03-12 12:01:43,057 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:01:44,325 - DEBUG - Page scrolled.
+2025-03-12 12:01:46,327 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:01:47,871 - DEBUG - Page scrolled.
+2025-03-12 12:01:49,874 - DEBUG - Random scrolls complete.
+2025-03-12 12:01:49,875 - DEBUG - Scrolling page 6 times.
+2025-03-12 12:01:49,876 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:01:51,804 - DEBUG - Page scrolled.
+2025-03-12 12:01:53,807 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:01:54,960 - DEBUG - Page scrolled.
+2025-03-12 12:01:56,961 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:01:58,173 - DEBUG - Page scrolled.
+2025-03-12 12:02:00,175 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:02:01,329 - DEBUG - Page scrolled.
+2025-03-12 12:02:03,331 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:02:04,747 - DEBUG - Page scrolled.
+2025-03-12 12:02:06,750 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:02:08,602 - DEBUG - Page scrolled.
+2025-03-12 12:02:10,603 - DEBUG - Random scrolls complete.
+2025-03-12 12:02:16,321 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-03-12 12:02:20,715 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/canva-pro.1687052/unread
+2025-03-12 12:02:29,960 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/canva-pro.1687052/unread
+2025-03-12 12:02:29,963 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/canva-pro.1687052/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 12:02:30,001 - INFO - Extracted thread title: Canva Pro
+2025-03-12 12:02:30,002 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:02:30,002 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:02:31,804 - DEBUG - Page scrolled.
+2025-03-12 12:02:33,807 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:02:35,160 - DEBUG - Page scrolled.
+2025-03-12 12:02:37,163 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:02:38,820 - DEBUG - Page scrolled.
+2025-03-12 12:02:40,821 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:02:41,897 - DEBUG - Page scrolled.
+2025-03-12 12:02:43,899 - DEBUG - Random scrolls complete.
+2025-03-12 12:02:46,735 - DEBUG - Scrolling page 1 times.
+2025-03-12 12:02:46,737 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:02:48,257 - DEBUG - Page scrolled.
+2025-03-12 12:02:51,260 - DEBUG - Random scrolls complete.
+2025-03-12 12:02:51,302 - DEBUG - Found 2 like buttons.
+2025-03-12 12:02:54,308 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-12 12:02:54,966 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:02:54,977 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:02:54,977 - DEBUG - Liked post number 1 of 2.
+2025-03-12 12:03:00,409 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:03:00,432 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:03:00,438 - DEBUG - Liked post number 2 of 2.
+2025-03-12 12:03:04,727 - INFO - Liked 2 posts successfully.
+2025-03-12 12:03:04,732 - INFO - Liked 2 posts successfully.
+2025-03-12 12:03:07,020 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:03:07,022 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:08,905 - DEBUG - Page scrolled.
+2025-03-12 12:03:11,908 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:13,382 - DEBUG - Page scrolled.
+2025-03-12 12:03:16,384 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:17,614 - DEBUG - Page scrolled.
+2025-03-12 12:03:20,616 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:21,689 - DEBUG - Page scrolled.
+2025-03-12 12:03:24,694 - DEBUG - Random scrolls complete.
+2025-03-12 12:03:27,471 - DEBUG - Total comments in the thread: 2
+2025-03-12 12:03:27,658 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Canva Pro.txt
+2025-03-12 12:03:30,386 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 12:03:30,433 - DEBUG - Extracted main post content: Is there any way that I can find a Canva Pro team link or get free access to Canva Pro with edu email accounts?
+2025-03-12 12:03:35,303 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 12:03:35,309 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 12:03:38,123 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:03:38,125 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:03:38,159 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:03:38,218 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:03:38,227 - DEBUG - Text box scrolled into view
+2025-03-12 12:03:38,890 - DEBUG - Initializing actionchains
+2025-03-12 12:03:38,937 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1537}, size: {'height': 21, 'width': 68}
+2025-03-12 12:03:38,938 - DEBUG - Target click coordinates: (1121, 1547)
+2025-03-12 12:03:45,488 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 12:03:45,489 - DEBUG - Moving mouse to text box element.
+2025-03-12 12:03:45,490 - DEBUG - Clicking on the text box.
+2025-03-12 12:03:45,491 - DEBUG - Sending keys with content: Honestly, finding a legit team link is tough, but keep an eye on student discount sites – sometimes they pop up there.
+
+2025-03-12 12:03:50,522 - DEBUG - Clicking on post reply button.
+2025-03-12 12:04:01,532 - DEBUG - Performed Actionchains
+2025-03-12 12:04:01,533 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 12:04:05,534 - INFO - Comment posted successfully.
+2025-03-12 12:04:05,537 - INFO - Task Completed!!
+2025-03-12 12:04:14,038 - INFO - Navigated back to the homepage.
+2025-03-12 12:04:16,228 - INFO - Attempting to clear memory and resources.
+2025-03-12 12:04:16,275 - INFO - Garbage collection completed.
+2025-03-12 12:04:16,276 - INFO - Waiting for 10 seconds before next execution.

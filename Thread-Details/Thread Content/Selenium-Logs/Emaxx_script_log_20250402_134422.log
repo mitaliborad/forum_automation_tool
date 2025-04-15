@@ -1,0 +1,34 @@
+2025-04-02 13:44:22,047 - INFO - Current time: 1743581662.0469797
+2025-04-02 13:44:22,047 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:44:22,048 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:44:22,049 - INFO - performing random action
+2025-04-02 13:44:22,050 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:44:22,051 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:44:22,052 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:44:23,198 - DEBUG - Page scrolled.
+2025-04-02 13:44:25,199 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:44:26,825 - DEBUG - Page scrolled.
+2025-04-02 13:44:28,827 - DEBUG - Random scrolls complete.
+2025-04-02 13:44:28,830 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:44:28,831 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:44:29,935 - DEBUG - Page scrolled.
+2025-04-02 13:44:31,938 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:44:33,090 - DEBUG - Page scrolled.
+2025-04-02 13:44:35,091 - DEBUG - Random scrolls complete.
+2025-04-02 13:44:41,880 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/instagram.215/
+2025-04-02 13:44:52,286 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:44:52,301 - INFO - Profile Emaxx: Restoring window...
+2025-04-02 13:44:54,304 - INFO - performing random action
+2025-04-02 13:44:54,307 - WARNING - Skipping thread processing due to no thread link being found in subforum.

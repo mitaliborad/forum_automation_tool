@@ -1,0 +1,37 @@
+2025-04-02 14:03:13,740 - INFO - Current time: 1743582793.7402916
+2025-04-02 14:03:13,742 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 14:03:13,745 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 14:03:13,748 - INFO - performing random action
+2025-04-02 14:03:13,751 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 14:03:13,753 - DEBUG - Scrolling page 2 times.
+2025-04-02 14:03:13,754 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:03:15,416 - DEBUG - Page scrolled.
+2025-04-02 14:03:17,422 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:03:19,419 - DEBUG - Page scrolled.
+2025-04-02 14:03:21,423 - DEBUG - Random scrolls complete.
+2025-04-02 14:03:21,426 - DEBUG - Scrolling page 3 times.
+2025-04-02 14:03:21,428 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:03:22,738 - DEBUG - Page scrolled.
+2025-04-02 14:03:24,740 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:03:26,266 - DEBUG - Page scrolled.
+2025-04-02 14:03:28,268 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:03:29,852 - DEBUG - Page scrolled.
+2025-04-02 14:03:31,854 - DEBUG - Random scrolls complete.
+2025-04-02 14:03:38,741 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-02 14:03:49,193 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 14:03:49,208 - INFO - Profile Emaxx: Pausing for 47.81 seconds...
+2025-04-02 14:04:37,018 - INFO - Profile Emaxx: Resuming...
+2025-04-02 14:04:37,022 - INFO - performing random action
+2025-04-02 14:04:37,024 - WARNING - Skipping thread processing due to no thread link being found in subforum.

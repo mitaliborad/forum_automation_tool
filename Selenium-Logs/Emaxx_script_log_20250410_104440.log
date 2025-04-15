@@ -1,0 +1,96 @@
+2025-04-10 10:44:40,960 - INFO - Current time: 1744262080.9601905
+2025-04-10 10:44:40,961 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 10:44:40,962 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 10:44:40,963 - INFO - performing random action
+2025-04-10 10:44:40,963 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:44:40,964 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:44:40,964 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:44:42,362 - DEBUG - Page scrolled.
+2025-04-10 10:44:44,364 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:44:45,445 - DEBUG - Page scrolled.
+2025-04-10 10:44:47,447 - DEBUG - Random scrolls complete.
+2025-04-10 10:44:47,448 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:44:47,449 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:44:48,864 - DEBUG - Page scrolled.
+2025-04-10 10:44:50,866 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:44:52,417 - DEBUG - Page scrolled.
+2025-04-10 10:44:54,419 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:44:55,595 - DEBUG - Page scrolled.
+2025-04-10 10:44:57,597 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:44:58,988 - DEBUG - Page scrolled.
+2025-04-10 10:45:00,991 - DEBUG - Random scrolls complete.
+2025-04-10 10:45:11,477 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-04-10 10:45:15,131 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-still-goes-viral-on-tumblr-without-paid-ads.1702731/unread
+2025-04-10 10:45:15,132 - INFO - performing random action
+2025-04-10 10:45:27,745 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-still-goes-viral-on-tumblr-without-paid-ads.1702731/unread
+2025-04-10 10:45:27,748 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-still-goes-viral-on-tumblr-without-paid-ads.1702731/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:45:27,780 - INFO - Extracted thread title: What Still Goes Viral on Tumblr Without Paid Ads
+2025-04-10 10:45:27,781 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:45:27,781 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:45:29,233 - DEBUG - Page scrolled.
+2025-04-10 10:45:31,236 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:45:33,069 - DEBUG - Page scrolled.
+2025-04-10 10:45:35,070 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:45:36,439 - DEBUG - Page scrolled.
+2025-04-10 10:45:38,441 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:45:40,277 - DEBUG - Page scrolled.
+2025-04-10 10:45:42,279 - DEBUG - Random scrolls complete.
+2025-04-10 10:45:44,540 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:45:44,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:45:46,156 - DEBUG - Page scrolled.
+2025-04-10 10:45:49,159 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:45:50,896 - DEBUG - Page scrolled.
+2025-04-10 10:45:53,899 - DEBUG - Random scrolls complete.
+2025-04-10 10:45:53,913 - DEBUG - Found 1 like buttons.
+2025-04-10 10:45:56,915 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-10 10:45:57,571 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:45:57,600 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:45:57,601 - DEBUG - Liked post number 1 of 1.
+2025-04-10 10:46:02,493 - INFO - Liked 1 posts successfully.
+2025-04-10 10:46:02,495 - INFO - Liked 1 posts successfully.
+2025-04-10 10:46:05,019 - INFO - Profile Emaxx: Minimizing window...
+2025-04-10 10:46:05,023 - INFO - Profile Emaxx: Window minimized. Pausing for 20.38 seconds...
+2025-04-10 10:46:25,411 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-10 10:46:25,413 - INFO - performing random action
+2025-04-10 10:46:25,415 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:46:25,416 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:46:26,590 - DEBUG - Page scrolled.
+2025-04-10 10:46:29,592 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:46:31,097 - DEBUG - Page scrolled.
+2025-04-10 10:46:34,099 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:46:35,768 - DEBUG - Page scrolled.
+2025-04-10 10:46:38,771 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:46:40,496 - DEBUG - Page scrolled.
+2025-04-10 10:46:43,498 - DEBUG - Random scrolls complete.
+2025-04-10 10:46:46,478 - DEBUG - Total comments in the thread: 1
+2025-04-10 10:46:46,566 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What Still Goes Viral on Tumblr Without Paid Ads.txt
+2025-04-10 10:46:48,680 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:46:48,718 - DEBUG - Extracted main post content: What niches still go viral on Tumblr organically and drive clicks without paid promos? I'm looking for fresh, engaging niches that still thrive on Tumblr in 2025 without needing ad spend. What’s working right now?
+2025-04-10 10:46:54,140 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:46:54,142 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:46:56,196 - INFO - Profile Emaxx: Minimizing window...
+2025-04-10 10:46:56,200 - INFO - Profile Emaxx: Window minimized. Pausing for 23.36 seconds...
+2025-04-10 10:47:19,568 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-10 10:47:19,571 - INFO - performing random action
+2025-04-10 10:47:19,573 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:47:19,575 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:47:19,592 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:47:19,629 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:47:19,634 - DEBUG - Text box scrolled into view
+2025-04-10 10:47:20,559 - DEBUG - Initializing actionchains
+2025-04-10 10:47:20,593 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1076}, size: {'height': 21, 'width': 68}
+2025-04-10 10:47:20,593 - DEBUG - Target click coordinates: (1265, 1086)
+2025-04-10 10:47:26,681 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:47:26,683 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:47:26,685 - DEBUG - Clicking on the text box.
+2025-04-10 10:47:26,687 - DEBUG - Sending keys with content: Honestly, I think it's less about the niche itself and more about consistently creating super-niche, high-quality content that *begs* to be reblogged. Have you experimented with hyper-specific fan theories or oddly satisfying aesthetics?
+
+2025-04-10 10:47:32,048 - DEBUG - Clicking on post reply button.
+2025-04-10 10:47:43,111 - DEBUG - Performed Actionchains
+2025-04-10 10:47:43,112 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:47:47,113 - INFO - Comment posted successfully.
+2025-04-10 10:47:47,116 - INFO - Task Completed!!
+2025-04-10 10:47:58,696 - INFO - Navigated back to the homepage.
+2025-04-10 10:48:01,291 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:48:01,327 - INFO - Garbage collection completed.
+2025-04-10 10:48:01,328 - INFO - Waiting for 1850 seconds before next execution.

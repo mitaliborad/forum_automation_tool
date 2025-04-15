@@ -1,0 +1,118 @@
+2025-04-14 13:30:41,132 - INFO - Current time: 1744617641.132178
+2025-04-14 13:30:41,134 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 13:30:41,136 - INFO - Token expiration time: 1744620972.0990703
+2025-04-14 13:30:41,138 - INFO - performing random action
+2025-04-14 13:30:41,140 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:30:41,142 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:30:41,143 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:30:42,762 - DEBUG - Page scrolled.
+2025-04-14 13:30:44,764 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:30:46,133 - DEBUG - Page scrolled.
+2025-04-14 13:30:48,138 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:30:49,804 - DEBUG - Page scrolled.
+2025-04-14 13:30:51,806 - DEBUG - Random scrolls complete.
+2025-04-14 13:30:51,807 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:30:51,809 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:30:53,475 - DEBUG - Page scrolled.
+2025-04-14 13:30:55,476 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:30:56,617 - DEBUG - Page scrolled.
+2025-04-14 13:30:58,619 - DEBUG - Random scrolls complete.
+2025-04-14 13:31:19,326 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-04-14 13:31:23,472 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/website-only-indexed-10-pages-after-3-months-even-paid-indexing-services-didnt-help.1704862/unread
+2025-04-14 13:31:23,473 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-14 13:31:30,887 - INFO - Profile PhantomRoot: Pausing for 34.27 seconds...
+2025-04-14 13:32:05,162 - INFO - Profile PhantomRoot: Resuming...
+2025-04-14 13:32:05,199 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-14 13:32:05,205 - INFO - performing random action
+2025-04-14 13:32:20,523 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/website-only-indexed-10-pages-after-3-months-even-paid-indexing-services-didnt-help.1704862/unread
+2025-04-14 13:32:20,525 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/website-only-indexed-10-pages-after-3-months-even-paid-indexing-services-didnt-help.1704862/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 13:32:20,570 - INFO - Extracted thread title: Website Only Indexed 10 Pages After 3+ Months – Even Paid Indexing Services Didn't Help
+2025-04-14 13:32:20,571 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:32:20,571 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:21,869 - DEBUG - Page scrolled.
+2025-04-14 13:32:23,871 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:25,856 - DEBUG - Page scrolled.
+2025-04-14 13:32:27,856 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:29,658 - DEBUG - Page scrolled.
+2025-04-14 13:32:31,660 - DEBUG - Random scrolls complete.
+2025-04-14 13:32:34,553 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:32:34,553 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:36,292 - DEBUG - Page scrolled.
+2025-04-14 13:32:39,294 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:41,037 - DEBUG - Page scrolled.
+2025-04-14 13:32:44,039 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:45,278 - DEBUG - Page scrolled.
+2025-04-14 13:32:48,280 - DEBUG - Random scrolls complete.
+2025-04-14 13:32:48,323 - DEBUG - Found 2 like buttons.
+2025-04-14 13:32:51,326 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-14 13:32:52,148 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:32:52,180 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:32:52,183 - DEBUG - Liked post number 1 of 2.
+2025-04-14 13:32:57,442 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:32:57,463 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:32:57,465 - DEBUG - Liked post number 2 of 2.
+2025-04-14 13:33:02,427 - INFO - Liked 2 posts successfully.
+2025-04-14 13:33:02,428 - INFO - Liked 2 posts successfully.
+2025-04-14 13:33:05,269 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-14 13:33:05,289 - INFO - Profile PhantomRoot: Window minimized. Pausing for 27.03 seconds...
+2025-04-14 13:33:32,326 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-14 13:33:32,329 - INFO - performing random action
+2025-04-14 13:33:32,333 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:33:32,335 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:33,732 - DEBUG - Page scrolled.
+2025-04-14 13:33:36,736 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:37,816 - DEBUG - Page scrolled.
+2025-04-14 13:33:40,819 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:42,246 - DEBUG - Page scrolled.
+2025-04-14 13:33:45,249 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:47,012 - DEBUG - Page scrolled.
+2025-04-14 13:33:50,013 - DEBUG - Random scrolls complete.
+2025-04-14 13:33:52,137 - DEBUG - Total comments in the thread: 2
+2025-04-14 13:33:52,282 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Website Only Indexed 10 Pages After 3+ Months – Even Paid Indexing Services Didn't Help.txt
+2025-04-14 13:33:54,294 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:33:54,321 - DEBUG - Extracted main post content: Hi everyone,
+
+I’m facing a frustrating issue and would really appreciate your advice.
+
+My website apkflex.com has been live for over 3 months now. All content is original (no copy-paste), and I’ve done a decent job optimizing on-page SEO. But after the recent Google core update, only 10 pages are indexed — and that number hasn’t improved.
+
+I’ve already tried:
+
+Manually submitting URLs via Search Console
+Regularly pinging URLs
+Updating internal linking structure & sitemap
+Even purchased indexing services (including those that use API and ping tools)
+=> But nothing worked, and I’m still stuck at just 10 indexed pages.
+What’s interesting is that I do get consistent traffic from YouTube, Twitter, and Facebook, so the content is getting real user attention. It's not spammy or AI-generated junk.
+
+So I have a few questions:
+
+Could this be a case of my site being sandboxed by Google?
+Are there any reliable ways to boost indexing in 2025 that actually work?
+Has anyone experienced a similar situation and successfully fixed it?
+Any tips, tools, or insights would be greatly appreciated. Thanks in advance!
+2025-04-14 13:33:57,599 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:33:57,605 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:33:59,625 - INFO - performing random action
+2025-04-14 13:33:59,629 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:33:59,631 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:33:59,664 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:33:59,703 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:33:59,708 - DEBUG - Text box scrolled into view
+2025-04-14 13:34:00,701 - DEBUG - Initializing actionchains
+2025-04-14 13:34:00,754 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2139}, size: {'height': 21, 'width': 68}
+2025-04-14 13:34:00,755 - DEBUG - Target click coordinates: (1265, 2149)
+2025-04-14 13:34:08,988 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:34:08,989 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:34:08,995 - DEBUG - Clicking on the text box.
+2025-04-14 13:34:08,997 - DEBUG - Sending keys with content: Forget indexing services; they're usually snake oil. Have you checked your robots.txt file lately for accidental disallows?
+
+2025-04-14 13:34:14,944 - DEBUG - Clicking on post reply button.
+2025-04-14 13:34:15,943 - DEBUG - Performed Actionchains
+2025-04-14 13:34:15,945 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 13:34:19,948 - INFO - Comment posted successfully.
+2025-04-14 13:34:19,951 - INFO - Task Completed!!
+2025-04-14 13:34:28,892 - INFO - Navigated back to the homepage.
+2025-04-14 13:34:31,497 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:34:31,541 - INFO - Garbage collection completed.
+2025-04-14 13:34:31,542 - INFO - Waiting for 2200 seconds before next execution.

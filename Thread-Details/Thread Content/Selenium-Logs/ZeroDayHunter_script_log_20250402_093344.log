@@ -1,0 +1,9 @@
+2025-04-02 09:33:44,644 - INFO - Starting automation for profile: ZeroDayHunter
+2025-04-02 09:33:46,613 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-02 09:33:46,615 - INFO - Calculated token expiration time: 1743577426.6156447
+2025-04-02 09:33:46,617 - INFO - Profile ZeroDayHunter: Successfully logged in.
+2025-04-02 09:33:46,619 - INFO - Profile ZeroDayHunter: Starting profile e70a0144-441c-40ec-92fc-84a43bc03e6a...
+2025-04-02 09:33:52,626 - INFO - Profile ZeroDayHunter: Extracted port: 57273
+2025-04-02 09:33:53,964 - INFO - Profile ZeroDayHunter: Started on port 57273.
+2025-04-02 09:33:54,042 - INFO - Loaded 467 visited threads from Thread_links.txt
+2025-04-02 09:33:54,044 - INFO - Successfully loaded links that was already visited!

@@ -1,0 +1,101 @@
+2025-03-13 11:39:33,944 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250313_113933.log
+2025-03-13 11:39:33,953 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 11:39:33,976 - INFO - Loaded 179 visited threads from Thread_links.txt
+2025-03-13 11:39:33,977 - INFO - Successfully loaded links that was already visited!
+2025-03-13 11:39:33,985 - DEBUG - Scrolling page 4 times.
+2025-03-13 11:39:33,988 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:35,734 - DEBUG - Page scrolled.
+2025-03-13 11:39:37,747 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:39,671 - DEBUG - Page scrolled.
+2025-03-13 11:39:41,674 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:42,991 - DEBUG - Page scrolled.
+2025-03-13 11:39:44,993 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:46,040 - DEBUG - Page scrolled.
+2025-03-13 11:39:48,043 - DEBUG - Random scrolls complete.
+2025-03-13 11:39:48,048 - DEBUG - Scrolling page 5 times.
+2025-03-13 11:39:48,050 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:49,158 - DEBUG - Page scrolled.
+2025-03-13 11:39:51,161 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:52,534 - DEBUG - Page scrolled.
+2025-03-13 11:39:54,542 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:39:56,531 - DEBUG - Page scrolled.
+2025-03-13 11:39:58,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:00,223 - DEBUG - Page scrolled.
+2025-03-13 11:40:02,226 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:03,435 - DEBUG - Page scrolled.
+2025-03-13 11:40:05,443 - DEBUG - Random scrolls complete.
+2025-03-13 11:40:19,097 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-03-13 11:40:24,213 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-do-you-research-about-the-domain-name-short-and-seo.1691610/unread
+2025-03-13 11:40:33,177 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-do-you-research-about-the-domain-name-short-and-seo.1691610/unread
+2025-03-13 11:40:33,179 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-do-you-research-about-the-domain-name-short-and-seo.1691610/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 11:40:33,244 - INFO - Extracted thread title: How do you research about the domain name short and SEO
+2025-03-13 11:40:33,245 - DEBUG - Scrolling page 2 times.
+2025-03-13 11:40:33,245 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:34,409 - DEBUG - Page scrolled.
+2025-03-13 11:40:36,413 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:38,201 - DEBUG - Page scrolled.
+2025-03-13 11:40:40,203 - DEBUG - Random scrolls complete.
+2025-03-13 11:40:42,648 - DEBUG - Scrolling page 3 times.
+2025-03-13 11:40:42,649 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:44,587 - DEBUG - Page scrolled.
+2025-03-13 11:40:47,590 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:48,878 - DEBUG - Page scrolled.
+2025-03-13 11:40:51,882 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:40:53,890 - DEBUG - Page scrolled.
+2025-03-13 11:40:56,891 - DEBUG - Random scrolls complete.
+2025-03-13 11:40:56,912 - DEBUG - Found 2 like buttons.
+2025-03-13 11:40:59,916 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-13 11:41:00,437 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 11:41:00,463 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 11:41:00,466 - DEBUG - Liked post number 1 of 2.
+2025-03-13 11:41:05,690 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 11:41:05,713 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 11:41:05,714 - DEBUG - Liked post number 2 of 2.
+2025-03-13 11:41:10,696 - INFO - Liked 2 posts successfully.
+2025-03-13 11:41:10,698 - INFO - Liked 2 posts successfully.
+2025-03-13 11:41:12,796 - DEBUG - Scrolling page 5 times.
+2025-03-13 11:41:12,797 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:41:13,905 - DEBUG - Page scrolled.
+2025-03-13 11:41:16,908 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:41:18,224 - DEBUG - Page scrolled.
+2025-03-13 11:41:21,226 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:41:22,378 - DEBUG - Page scrolled.
+2025-03-13 11:41:25,380 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:41:26,703 - DEBUG - Page scrolled.
+2025-03-13 11:41:29,740 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:41:31,136 - DEBUG - Page scrolled.
+2025-03-13 11:41:34,137 - DEBUG - Random scrolls complete.
+2025-03-13 11:41:36,403 - DEBUG - Total comments in the thread: 2
+2025-03-13 11:41:36,588 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How do you research about the domain name short and SEO.txt
+2025-03-13 11:41:38,984 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 11:41:39,010 - DEBUG - Extracted main post content: i want to buy a domain name, very short and related to niche Ai.
+
+But I want a short name that is easy to remember.
+
+Recommend a tool or guide.
+
+thanks.
+2025-03-13 11:41:44,027 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 11:41:44,030 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 11:41:46,223 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:41:46,227 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:41:46,257 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:41:46,313 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:41:46,322 - DEBUG - Text box scrolled into view
+2025-03-13 11:41:47,141 - DEBUG - Initializing actionchains
+2025-03-13 11:41:47,190 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1385}, size: {'height': 21, 'width': 68}
+2025-03-13 11:41:47,191 - DEBUG - Target click coordinates: (1121, 1395)
+2025-03-13 11:41:53,773 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 11:41:53,773 - DEBUG - Moving mouse to text box element.
+2025-03-13 11:41:53,774 - DEBUG - Clicking on the text box.
+2025-03-13 11:41:53,775 - DEBUG - Sending keys with content: LeanDomainSearch is great for brainstorming combos – see if it sparks any ideas you hadn't considered.
+
+2025-03-13 11:41:59,600 - DEBUG - Clicking on post reply button.
+2025-03-13 11:42:10,566 - DEBUG - Performed Actionchains
+2025-03-13 11:42:10,567 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 11:42:14,569 - INFO - Comment posted successfully.
+2025-03-13 11:42:14,570 - INFO - Task Completed!!
+2025-03-13 11:42:25,579 - INFO - Navigated back to the homepage.
+2025-03-13 11:42:28,134 - INFO - Attempting to clear memory and resources.
+2025-03-13 11:42:28,168 - INFO - Garbage collection completed.
+2025-03-13 11:42:28,169 - INFO - Waiting for 10 seconds before next execution.

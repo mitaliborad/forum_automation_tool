@@ -1,0 +1,2 @@
+Yeah, the timing can be a pain. Have you tried using keyframes instead of the built-in timers? Might give you finer control.
+

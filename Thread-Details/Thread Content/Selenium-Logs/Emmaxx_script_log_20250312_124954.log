@@ -1,0 +1,113 @@
+2025-03-12 12:49:54,868 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_124954.log
+2025-03-12 12:49:54,871 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 12:49:54,875 - INFO - Loaded 162 visited threads from Thread_links.txt
+2025-03-12 12:49:54,877 - INFO - Successfully loaded links that was already visited!
+2025-03-12 12:49:54,879 - DEBUG - Scrolling page 6 times.
+2025-03-12 12:49:54,881 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:49:56,570 - DEBUG - Page scrolled.
+2025-03-12 12:49:58,573 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:49:59,748 - DEBUG - Page scrolled.
+2025-03-12 12:50:01,752 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:02,771 - DEBUG - Page scrolled.
+2025-03-12 12:50:04,774 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:05,998 - DEBUG - Page scrolled.
+2025-03-12 12:50:08,000 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:09,651 - DEBUG - Page scrolled.
+2025-03-12 12:50:11,653 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:13,459 - DEBUG - Page scrolled.
+2025-03-12 12:50:15,461 - DEBUG - Random scrolls complete.
+2025-03-12 12:50:15,463 - DEBUG - Scrolling page 5 times.
+2025-03-12 12:50:15,465 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:17,257 - DEBUG - Page scrolled.
+2025-03-12 12:50:19,259 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:20,769 - DEBUG - Page scrolled.
+2025-03-12 12:50:22,771 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:24,333 - DEBUG - Page scrolled.
+2025-03-12 12:50:26,336 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:28,212 - DEBUG - Page scrolled.
+2025-03-12 12:50:30,214 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:31,827 - DEBUG - Page scrolled.
+2025-03-12 12:50:33,828 - DEBUG - Random scrolls complete.
+2025-03-12 12:50:43,643 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-03-12 12:50:47,263 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/domain-valuation.1691178/unread
+2025-03-12 12:50:56,448 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/domain-valuation.1691178/unread
+2025-03-12 12:50:56,452 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/domain-valuation.1691178/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 12:50:56,498 - INFO - Extracted thread title: Domain Valuation
+2025-03-12 12:50:56,499 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:50:56,499 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:50:58,081 - DEBUG - Page scrolled.
+2025-03-12 12:51:00,083 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:01,954 - DEBUG - Page scrolled.
+2025-03-12 12:51:03,957 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:05,486 - DEBUG - Page scrolled.
+2025-03-12 12:51:07,489 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:09,189 - DEBUG - Page scrolled.
+2025-03-12 12:51:11,191 - DEBUG - Random scrolls complete.
+2025-03-12 12:51:14,057 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:51:14,060 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:15,399 - DEBUG - Page scrolled.
+2025-03-12 12:51:18,402 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:20,226 - DEBUG - Page scrolled.
+2025-03-12 12:51:23,228 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:24,665 - DEBUG - Page scrolled.
+2025-03-12 12:51:27,667 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:28,717 - DEBUG - Page scrolled.
+2025-03-12 12:51:31,720 - DEBUG - Random scrolls complete.
+2025-03-12 12:51:31,746 - DEBUG - Found 4 like buttons.
+2025-03-12 12:51:34,747 - INFO - Attempting to like 3 posts. There are 4 available.
+2025-03-12 12:51:35,357 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:51:35,379 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:51:35,380 - DEBUG - Liked post number 1 of 3.
+2025-03-12 12:51:40,671 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:51:40,690 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:51:40,693 - DEBUG - Liked post number 2 of 3.
+2025-03-12 12:51:45,824 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:51:45,843 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:51:45,845 - DEBUG - Liked post number 3 of 3.
+2025-03-12 12:51:50,812 - INFO - Liked 3 posts successfully.
+2025-03-12 12:51:50,815 - INFO - Liked 3 posts successfully.
+2025-03-12 12:51:52,951 - DEBUG - Scrolling page 7 times.
+2025-03-12 12:51:52,953 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:54,050 - DEBUG - Page scrolled.
+2025-03-12 12:51:57,053 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:51:58,342 - DEBUG - Page scrolled.
+2025-03-12 12:52:01,345 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:52:02,875 - DEBUG - Page scrolled.
+2025-03-12 12:52:05,877 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:52:07,504 - DEBUG - Page scrolled.
+2025-03-12 12:52:10,505 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:52:12,080 - DEBUG - Page scrolled.
+2025-03-12 12:52:15,082 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:52:16,876 - DEBUG - Page scrolled.
+2025-03-12 12:52:19,878 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:52:21,090 - DEBUG - Page scrolled.
+2025-03-12 12:52:24,093 - DEBUG - Random scrolls complete.
+2025-03-12 12:52:26,254 - DEBUG - Total comments in the thread: 4
+2025-03-12 12:52:36,999 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Domain Valuation.txt
+2025-03-12 12:52:39,341 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 12:52:39,377 - DEBUG - Extracted main post content: I worked with a client who had a exact match domain. They stopped services and havent mainted the site. The domain valualtiona in namecheap has jumped very high. It's a small business.
+Is that usual? Its a regular plumber in a very small town
+2025-03-12 12:52:43,385 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 12:52:43,389 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 12:52:45,954 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:52:45,957 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:52:45,981 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:52:46,023 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:52:46,033 - DEBUG - Text box scrolled into view
+2025-03-12 12:52:46,793 - DEBUG - Initializing actionchains
+2025-03-12 12:52:46,816 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1838}, size: {'height': 21, 'width': 68}
+2025-03-12 12:52:46,817 - DEBUG - Target click coordinates: (1121, 1848)
+2025-03-12 12:52:54,332 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 12:52:54,334 - DEBUG - Moving mouse to text box element.
+2025-03-12 12:52:54,336 - DEBUG - Clicking on the text box.
+2025-03-12 12:52:54,338 - DEBUG - Sending keys with content: Totally normal, those valuations are algorithmic guesses. If it's just sitting there doing nothing, it's only worth what someone will actually pay.
+
+2025-03-12 12:52:59,507 - DEBUG - Clicking on post reply button.
+2025-03-12 12:53:10,519 - DEBUG - Performed Actionchains
+2025-03-12 12:53:10,520 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 12:53:14,522 - INFO - Comment posted successfully.
+2025-03-12 12:53:14,525 - INFO - Task Completed!!
+2025-03-12 12:53:24,540 - INFO - Navigated back to the homepage.
+2025-03-12 12:53:26,613 - INFO - Attempting to clear memory and resources.
+2025-03-12 12:53:26,640 - INFO - Garbage collection completed.
+2025-03-12 12:53:26,641 - INFO - Waiting for 1000 seconds before next execution.

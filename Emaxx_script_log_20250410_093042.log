@@ -1,0 +1,9 @@
+2025-04-10 09:30:42,878 - INFO - Starting automation for profile: Emaxx
+2025-04-10 09:30:44,116 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 09:30:44,117 - INFO - Calculated token expiration time: 1744268444.1172955
+2025-04-10 09:30:44,118 - INFO - Profile Emaxx: Successfully logged in.
+2025-04-10 09:30:44,119 - INFO - Profile Emaxx: Starting profile ece3d7b0-6dd3-4189-94c7-20c2dfa82943...
+2025-04-10 09:30:48,875 - INFO - Profile Emaxx: Extracted port: 51388
+2025-04-10 09:30:49,750 - INFO - Profile Emaxx: Started on port 51388.
+2025-04-10 09:30:49,752 - INFO - Loaded 560 visited threads from Thread_links.txt
+2025-04-10 09:30:49,753 - INFO - Successfully loaded links that was already visited!

@@ -1,0 +1,106 @@
+2025-03-13 12:22:24,661 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_122224.log
+2025-03-13 12:22:24,664 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 12:22:24,701 - INFO - Loaded 187 visited threads from Thread_links.txt
+2025-03-13 12:22:24,710 - INFO - Successfully loaded links that was already visited!
+2025-03-13 12:22:24,711 - DEBUG - Scrolling page 6 times.
+2025-03-13 12:22:24,711 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:26,097 - DEBUG - Page scrolled.
+2025-03-13 12:22:28,102 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:29,657 - DEBUG - Page scrolled.
+2025-03-13 12:22:31,665 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:33,647 - DEBUG - Page scrolled.
+2025-03-13 12:22:35,648 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:36,952 - DEBUG - Page scrolled.
+2025-03-13 12:22:38,992 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:40,918 - DEBUG - Page scrolled.
+2025-03-13 12:22:42,922 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:44,680 - DEBUG - Page scrolled.
+2025-03-13 12:22:46,682 - DEBUG - Random scrolls complete.
+2025-03-13 12:22:46,685 - DEBUG - Scrolling page 5 times.
+2025-03-13 12:22:46,685 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:48,039 - DEBUG - Page scrolled.
+2025-03-13 12:22:50,049 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:51,493 - DEBUG - Page scrolled.
+2025-03-13 12:22:53,494 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:55,399 - DEBUG - Page scrolled.
+2025-03-13 12:22:57,425 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:22:59,036 - DEBUG - Page scrolled.
+2025-03-13 12:23:01,037 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:23:02,365 - DEBUG - Page scrolled.
+2025-03-13 12:23:04,366 - DEBUG - Random scrolls complete.
+2025-03-13 12:23:07,116 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-03-13 12:23:12,800 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/alert-banners-about-fake-reviews-on-trustpilot-n-others.1642904/unread
+2025-03-13 12:23:20,973 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/alert-banners-about-fake-reviews-on-trustpilot-n-others.1642904/unread
+2025-03-13 12:23:20,977 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/alert-banners-about-fake-reviews-on-trustpilot-n-others.1642904/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 12:23:21,059 - INFO - Extracted thread title: Alert banners about fake reviews on TrustPilot n others
+2025-03-13 12:23:21,061 - DEBUG - Scrolling page 4 times.
+2025-03-13 12:23:21,062 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:23:22,828 - DEBUG - Page scrolled.
+2025-03-13 12:23:24,830 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:23:26,228 - DEBUG - Page scrolled.
+2025-03-13 12:23:28,230 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:23:30,058 - DEBUG - Page scrolled.
+2025-03-13 12:23:32,060 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:23:33,953 - DEBUG - Page scrolled.
+2025-03-13 12:23:35,956 - DEBUG - Random scrolls complete.
+2025-03-13 12:23:38,881 - DEBUG - Scrolling page 1 times.
+2025-03-13 12:23:38,881 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:23:40,291 - DEBUG - Page scrolled.
+2025-03-13 12:23:43,293 - DEBUG - Random scrolls complete.
+2025-03-13 12:23:43,311 - DEBUG - Found 20 like buttons.
+2025-03-13 12:23:46,312 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-03-13 12:23:46,834 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 12:23:46,863 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 12:23:46,866 - DEBUG - Liked post number 1 of 1.
+2025-03-13 12:23:50,946 - INFO - Liked 1 posts successfully.
+2025-03-13 12:23:50,948 - INFO - Liked 1 posts successfully.
+2025-03-13 12:23:53,154 - DEBUG - Scrolling page 6 times.
+2025-03-13 12:23:53,156 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:23:54,414 - DEBUG - Page scrolled.
+2025-03-13 12:23:57,417 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:23:59,363 - DEBUG - Page scrolled.
+2025-03-13 12:24:02,365 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:24:04,229 - DEBUG - Page scrolled.
+2025-03-13 12:24:07,231 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:24:08,746 - DEBUG - Page scrolled.
+2025-03-13 12:24:11,748 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:24:13,563 - DEBUG - Page scrolled.
+2025-03-13 12:24:16,565 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:24:18,126 - DEBUG - Page scrolled.
+2025-03-13 12:24:21,128 - DEBUG - Random scrolls complete.
+2025-03-13 12:24:23,603 - DEBUG - Total comments in the thread: 20
+2025-03-13 12:26:51,162 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Alert banners about fake reviews on TrustPilot n others.txt
+2025-03-13 12:26:53,416 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 12:26:53,468 - DEBUG - Extracted main post content: Hello, BHW community!
+
+This thread was created to resolve the problem of adding a warning banner about fake reviews on sites such as TrustPilot, Sitejabber and others. Who solved this problem and how?
+
+Also I think it could be easy to gift such a banner for competitors, what do ya think? It will be interesting to hear real cases or competent opinion.
+Attachments
+file1.png
+file2.png
+2025-03-13 12:26:58,637 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 12:26:58,638 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 12:27:00,988 - INFO - Profile DarkCodeX: Restoring window...
+2025-03-13 12:27:02,995 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:27:02,997 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:27:03,015 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:27:03,066 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:27:03,076 - DEBUG - Text box scrolled into view
+2025-03-13 12:27:03,836 - DEBUG - Initializing actionchains
+2025-03-13 12:27:03,861 - DEBUG - Post reply Element location: {'x': 1087, 'y': 8793}, size: {'height': 21, 'width': 68}
+2025-03-13 12:27:03,862 - DEBUG - Target click coordinates: (1121, 8803)
+2025-03-13 12:27:24,823 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 12:27:24,824 - DEBUG - Moving mouse to text box element.
+2025-03-13 12:27:24,825 - DEBUG - Clicking on the text box.
+2025-03-13 12:27:24,826 - DEBUG - Sending keys with content: Never dealt with it myself, but maybe try contacting the review sites directly with proof if you got it? Their support might actually be helpful for that.
+
+2025-03-13 12:27:30,068 - DEBUG - Clicking on post reply button.
+2025-03-13 12:27:32,898 - DEBUG - Performed Actionchains
+2025-03-13 12:27:32,899 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 12:27:36,901 - INFO - Comment posted successfully.
+2025-03-13 12:27:36,902 - INFO - Task Completed!!
+2025-03-13 12:27:39,859 - INFO - Navigated back to the homepage.
+2025-03-13 12:27:42,517 - INFO - Attempting to clear memory and resources.
+2025-03-13 12:27:42,548 - INFO - Garbage collection completed.
+2025-03-13 12:27:42,549 - INFO - Waiting for 10 seconds before next execution.

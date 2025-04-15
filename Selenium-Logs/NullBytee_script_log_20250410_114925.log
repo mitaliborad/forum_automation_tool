@@ -1,0 +1,127 @@
+2025-04-10 11:49:25,208 - INFO - Current time: 1744265965.2079751
+2025-04-10 11:49:25,210 - INFO - Token expiration time: 1744268355.724446
+2025-04-10 11:49:25,213 - INFO - Token expiration time: 1744268355.724446
+2025-04-10 11:49:25,216 - INFO - performing random action
+2025-04-10 11:49:25,218 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:49:25,221 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:49:25,222 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:26,979 - DEBUG - Page scrolled.
+2025-04-10 11:49:28,981 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:30,468 - DEBUG - Page scrolled.
+2025-04-10 11:49:32,470 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:34,110 - DEBUG - Page scrolled.
+2025-04-10 11:49:36,112 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:37,364 - DEBUG - Page scrolled.
+2025-04-10 11:49:39,367 - DEBUG - Random scrolls complete.
+2025-04-10 11:49:39,368 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:49:39,370 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:40,828 - DEBUG - Page scrolled.
+2025-04-10 11:49:42,831 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:44,419 - DEBUG - Page scrolled.
+2025-04-10 11:49:46,421 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:47,733 - DEBUG - Page scrolled.
+2025-04-10 11:49:49,736 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:51,020 - DEBUG - Page scrolled.
+2025-04-10 11:49:53,022 - DEBUG - Random scrolls complete.
+2025-04-10 11:50:02,368 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-10 11:50:06,150 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-uk-base.1321863/unread
+2025-04-10 11:50:06,151 - INFO - performing random action
+2025-04-10 11:50:15,507 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-uk-base.1321863/unread
+2025-04-10 11:50:15,510 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-uk-base.1321863/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:50:15,552 - INFO - Extracted thread title: Need UK base
+2025-04-10 11:50:15,553 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:50:15,553 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:17,151 - DEBUG - Page scrolled.
+2025-04-10 11:50:19,153 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:20,557 - DEBUG - Page scrolled.
+2025-04-10 11:50:22,560 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:23,930 - DEBUG - Page scrolled.
+2025-04-10 11:50:25,932 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:27,290 - DEBUG - Page scrolled.
+2025-04-10 11:50:29,292 - DEBUG - Random scrolls complete.
+2025-04-10 11:50:31,700 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:50:31,702 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:33,080 - DEBUG - Page scrolled.
+2025-04-10 11:50:36,081 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:38,017 - DEBUG - Page scrolled.
+2025-04-10 11:50:41,019 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:42,441 - DEBUG - Page scrolled.
+2025-04-10 11:50:45,443 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:46,896 - DEBUG - Page scrolled.
+2025-04-10 11:50:49,898 - DEBUG - Random scrolls complete.
+2025-04-10 11:50:49,927 - DEBUG - Found 6 like buttons.
+2025-04-10 11:50:52,928 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-04-10 11:50:53,565 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:50:53,588 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:50:53,589 - DEBUG - Liked post number 1 of 2.
+2025-04-10 11:50:58,861 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:50:58,881 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:50:58,883 - DEBUG - Liked post number 2 of 2.
+2025-04-10 11:51:03,381 - INFO - Liked 2 posts successfully.
+2025-04-10 11:51:03,383 - INFO - Liked 2 posts successfully.
+2025-04-10 11:51:06,297 - INFO - Profile NullBytee: Pausing for 43.75 seconds...
+2025-04-10 11:51:50,048 - INFO - Profile NullBytee: Resuming...
+2025-04-10 11:51:50,050 - INFO - performing random action
+2025-04-10 11:51:50,053 - DEBUG - Scrolling page 5 times.
+2025-04-10 11:51:50,054 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:51,547 - DEBUG - Page scrolled.
+2025-04-10 11:51:54,548 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:55,784 - DEBUG - Page scrolled.
+2025-04-10 11:51:58,786 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:59,810 - DEBUG - Page scrolled.
+2025-04-10 11:52:02,812 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:52:04,089 - DEBUG - Page scrolled.
+2025-04-10 11:52:07,090 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:52:08,618 - DEBUG - Page scrolled.
+2025-04-10 11:52:11,620 - DEBUG - Random scrolls complete.
+2025-04-10 11:52:14,112 - DEBUG - Total comments in the thread: 6
+2025-04-10 11:52:56,620 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need UK base.txt
+2025-04-10 11:52:58,803 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:52:58,844 - DEBUG - Extracted main post content: Hi everyone
+Search for Uk base
+I need
+full name
+address
+dob
+phone(optional)
+email(optional)
+Thank you
+2025-04-10 11:53:02,547 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:53:02,550 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:53:04,834 - INFO - Profile NullBytee: Restoring window...
+2025-04-10 11:53:06,839 - INFO - performing random action
+2025-04-10 11:53:06,841 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:53:06,843 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:53:06,883 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:53:06,933 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:53:06,942 - DEBUG - Text box scrolled into view
+2025-04-10 11:53:07,615 - DEBUG - Initializing actionchains
+2025-04-10 11:53:07,634 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2833}, size: {'height': 21, 'width': 68}
+2025-04-10 11:53:07,635 - DEBUG - Target click coordinates: (1265, 2843)
+2025-04-10 11:53:16,965 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:53:16,966 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:53:16,967 - DEBUG - Clicking on the text box.
+2025-04-10 11:53:16,968 - DEBUG - Sending keys with content: Dude, you're asking for a lot of personal info. Might want to rethink how you're gathering that data.
+
+2025-04-10 11:53:22,462 - DEBUG - Clicking on post reply button.
+2025-04-10 11:53:33,352 - DEBUG - Performed Actionchains
+2025-04-10 11:53:33,353 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:53:37,354 - INFO - Comment posted successfully.
+2025-04-10 11:53:37,357 - INFO - Task Completed!!
+2025-04-10 11:53:45,731 - INFO - Navigated back to the homepage.
+2025-04-10 11:53:48,536 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:53:48,564 - INFO - Garbage collection completed.
+2025-04-10 11:53:48,565 - INFO - Waiting for 1850 seconds before next execution.
+2025-04-10 15:03:04,381 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-10 15:03:04,384 - INFO - Stopping browser for profile: NullBytee...
+2025-04-10 15:03:04,385 - INFO - Refreshing token before stopping profile...
+2025-04-10 15:03:04,386 - INFO - Refreshing token for NullBytee...
+2025-04-10 15:03:05,604 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 15:03:05,606 - INFO - Calculated token expiration time: 1744288385.6060812
+2025-04-10 15:03:05,607 - INFO - Profile NullBytee: Successfully logged in.
+2025-04-10 15:03:05,607 - INFO - Token refreshed successfully before stopping.
+2025-04-10 15:03:05,608 - INFO - Profile NullBytee: Attempting to stop (Attempt 1/3)...
+2025-04-10 15:03:05,613 - INFO - Profile NullBytee: Browser closed successfully in 0.00 seconds.
+2025-04-10 15:03:10,325 - INFO - Profile NullBytee: API call took 4.71 seconds.
+2025-04-10 15:03:10,326 - INFO - Profile NullBytee: Stopped successfully.
+2025-04-10 15:03:10,328 - INFO - Browser stopped successfully for profile: NullBytee.

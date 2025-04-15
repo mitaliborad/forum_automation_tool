@@ -1,0 +1,116 @@
+2025-04-02 09:33:54,045 - INFO - Current time: 1743566634.0453174
+2025-04-02 09:33:54,045 - INFO - Token expiration time: 1743577426.6156447
+2025-04-02 09:33:54,047 - INFO - Token expiration time: 1743577426.6156447
+2025-04-02 09:33:54,047 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-02 09:33:54,050 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 21.37 seconds...
+2025-04-02 09:34:15,417 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-02 09:34:15,419 - INFO - performing random action
+2025-04-02 09:34:15,421 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 09:34:15,422 - DEBUG - Scrolling page 4 times.
+2025-04-02 09:34:15,423 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:34:17,373 - DEBUG - Page scrolled.
+2025-04-02 09:34:19,375 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:34:20,930 - DEBUG - Page scrolled.
+2025-04-02 09:34:22,932 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:34:24,207 - DEBUG - Page scrolled.
+2025-04-02 09:34:26,209 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:34:28,077 - DEBUG - Page scrolled.
+2025-04-02 09:34:30,079 - DEBUG - Random scrolls complete.
+2025-04-02 09:34:30,082 - DEBUG - Scrolling page 2 times.
+2025-04-02 09:34:30,083 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:34:31,524 - DEBUG - Page scrolled.
+2025-04-02 09:34:33,526 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:34:35,198 - DEBUG - Page scrolled.
+2025-04-02 09:34:37,199 - DEBUG - Random scrolls complete.
+2025-04-02 09:34:48,263 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-04-02 09:34:52,967 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/secure-domain-registration.1423748/unread
+2025-04-02 09:34:52,969 - INFO - performing random action
+2025-04-02 09:35:08,521 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/secure-domain-registration.1423748/unread
+2025-04-02 09:35:08,523 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/secure-domain-registration.1423748/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 09:35:08,555 - INFO - Extracted thread title: Secure Domain Registration
+2025-04-02 09:35:08,556 - DEBUG - Scrolling page 3 times.
+2025-04-02 09:35:08,557 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:10,142 - DEBUG - Page scrolled.
+2025-04-02 09:35:12,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:13,747 - DEBUG - Page scrolled.
+2025-04-02 09:35:15,750 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:16,967 - DEBUG - Page scrolled.
+2025-04-02 09:35:18,968 - DEBUG - Random scrolls complete.
+2025-04-02 09:35:21,199 - DEBUG - Scrolling page 1 times.
+2025-04-02 09:35:21,201 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:22,637 - DEBUG - Page scrolled.
+2025-04-02 09:35:25,639 - DEBUG - Random scrolls complete.
+2025-04-02 09:35:25,654 - DEBUG - Found 16 like buttons.
+2025-04-02 09:35:28,655 - INFO - Attempting to like 4 posts. There are 16 available.
+2025-04-02 09:35:29,464 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:35:29,477 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:35:29,478 - DEBUG - Liked post number 1 of 4.
+2025-04-02 09:35:34,093 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:35:34,100 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:35:34,101 - DEBUG - Liked post number 2 of 4.
+2025-04-02 09:35:39,713 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:35:39,739 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:35:39,741 - DEBUG - Liked post number 3 of 4.
+2025-04-02 09:35:45,402 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:35:45,424 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:35:45,427 - DEBUG - Liked post number 4 of 4.
+2025-04-02 09:35:49,788 - INFO - Liked 4 posts successfully.
+2025-04-02 09:35:49,789 - INFO - Liked 4 posts successfully.
+2025-04-02 09:35:52,264 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-02 09:35:54,281 - INFO - performing random action
+2025-04-02 09:35:54,282 - DEBUG - Scrolling page 7 times.
+2025-04-02 09:35:54,283 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:55,660 - DEBUG - Page scrolled.
+2025-04-02 09:35:58,664 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:59,746 - DEBUG - Page scrolled.
+2025-04-02 09:36:02,748 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:04,689 - DEBUG - Page scrolled.
+2025-04-02 09:36:07,691 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:09,575 - DEBUG - Page scrolled.
+2025-04-02 09:36:12,576 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:14,278 - DEBUG - Page scrolled.
+2025-04-02 09:36:17,281 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:19,212 - DEBUG - Page scrolled.
+2025-04-02 09:36:22,214 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:24,023 - DEBUG - Page scrolled.
+2025-04-02 09:36:27,025 - DEBUG - Random scrolls complete.
+2025-04-02 09:36:29,113 - DEBUG - Total comments in the thread: 16
+2025-04-02 09:38:27,245 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Secure Domain Registration.txt
+2025-04-02 09:38:29,671 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 09:38:29,702 - DEBUG - Extracted main post content: Hello Guys,
+
+I need some tips on how to "securely" register a Domain, so that in best case its anonymous.
+The Thing is I want to keep my Data private.
+I've read about njalla, but it seems that they should be avoided for several reasons.
+
+Would you recommend just registering a Domain with fake Whois information?
+Which Domain Registrar can you recommend ?
+Basically i am looking for something which doesnt care about DMCA Requests.
+
+Also Registrar should not be located in the EU Area .
+Any recommendations are welcome
+2025-04-02 09:38:33,599 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 09:38:33,604 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 09:38:36,419 - INFO - performing random action
+2025-04-02 09:38:36,421 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:38:36,423 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:38:36,457 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:38:36,504 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:38:36,524 - DEBUG - Text box scrolled into view
+2025-04-02 09:38:37,058 - DEBUG - Initializing actionchains
+2025-04-02 09:38:37,114 - DEBUG - Post reply Element location: {'x': 1087, 'y': 7000}, size: {'height': 21, 'width': 68}
+2025-04-02 09:38:37,116 - DEBUG - Target click coordinates: (1121, 7010)
+2025-04-02 09:38:55,654 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 09:38:55,656 - DEBUG - Moving mouse to text box element.
+2025-04-02 09:38:55,658 - DEBUG - Clicking on the text box.
+2025-04-02 09:38:55,661 - DEBUG - Sending keys with content: Honestly, faking Whois info might seem easy, but it could backfire legally. Have you looked into using a proxy service that handles domain registration for you? They often offer better anonymity than you could achieve yourself.
+
+2025-04-02 09:39:01,636 - DEBUG - Clicking on post reply button.
+2025-04-02 09:39:12,921 - DEBUG - Performed Actionchains
+2025-04-02 09:39:12,922 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 09:39:16,924 - INFO - Comment posted successfully.
+2025-04-02 09:39:16,925 - INFO - Task Completed!!
+2025-04-02 09:39:28,440 - INFO - Navigated back to the homepage.
+2025-04-02 09:39:31,134 - INFO - Attempting to clear memory and resources.
+2025-04-02 09:39:31,175 - INFO - Garbage collection completed.
+2025-04-02 09:39:31,176 - INFO - Waiting for 2000 seconds before next execution.

@@ -1,0 +1,100 @@
+2025-04-02 09:34:58,027 - INFO - Current time: 1743566698.0273976
+2025-04-02 09:34:58,033 - INFO - Token expiration time: 1743577492.9041939
+2025-04-02 09:34:58,034 - INFO - Token expiration time: 1743577492.9041939
+2025-04-02 09:34:58,035 - INFO - performing random action
+2025-04-02 09:34:58,037 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 09:34:58,042 - DEBUG - Scrolling page 3 times.
+2025-04-02 09:34:58,044 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:05,309 - DEBUG - Page scrolled.
+2025-04-02 09:35:07,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:08,520 - DEBUG - Page scrolled.
+2025-04-02 09:35:10,522 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:11,679 - DEBUG - Page scrolled.
+2025-04-02 09:35:13,680 - DEBUG - Random scrolls complete.
+2025-04-02 09:35:13,682 - DEBUG - Scrolling page 4 times.
+2025-04-02 09:35:13,684 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:15,662 - DEBUG - Page scrolled.
+2025-04-02 09:35:17,663 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:19,059 - DEBUG - Page scrolled.
+2025-04-02 09:35:21,062 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:22,593 - DEBUG - Page scrolled.
+2025-04-02 09:35:24,594 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:25,743 - DEBUG - Page scrolled.
+2025-04-02 09:35:27,745 - DEBUG - Random scrolls complete.
+2025-04-02 09:35:40,236 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-02 09:35:44,315 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/wordpress-help.1679922/unread
+2025-04-02 09:35:44,316 - INFO - performing random action
+2025-04-02 09:35:55,805 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/wordpress-help.1679922/unread
+2025-04-02 09:35:55,813 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/wordpress-help.1679922/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 09:35:55,875 - INFO - Extracted thread title: Wordpress help!!!
+2025-04-02 09:35:55,876 - DEBUG - Scrolling page 4 times.
+2025-04-02 09:35:55,876 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:35:57,220 - DEBUG - Page scrolled.
+2025-04-02 09:35:59,222 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:00,807 - DEBUG - Page scrolled.
+2025-04-02 09:36:02,809 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:04,309 - DEBUG - Page scrolled.
+2025-04-02 09:36:06,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:07,651 - DEBUG - Page scrolled.
+2025-04-02 09:36:09,652 - DEBUG - Random scrolls complete.
+2025-04-02 09:36:11,752 - DEBUG - Scrolling page 2 times.
+2025-04-02 09:36:11,753 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:12,926 - DEBUG - Page scrolled.
+2025-04-02 09:36:15,927 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:17,040 - DEBUG - Page scrolled.
+2025-04-02 09:36:20,042 - DEBUG - Random scrolls complete.
+2025-04-02 09:36:20,066 - DEBUG - Found 4 like buttons.
+2025-04-02 09:36:23,067 - INFO - Attempting to like 3 posts. There are 4 available.
+2025-04-02 09:36:23,737 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:36:23,751 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:36:23,752 - DEBUG - Liked post number 1 of 3.
+2025-04-02 09:36:29,400 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:36:29,420 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:36:29,422 - DEBUG - Liked post number 2 of 3.
+2025-04-02 09:36:34,398 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:36:34,417 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:36:34,419 - DEBUG - Liked post number 3 of 3.
+2025-04-02 09:36:38,514 - INFO - Liked 3 posts successfully.
+2025-04-02 09:36:38,517 - INFO - Liked 3 posts successfully.
+2025-04-02 09:36:41,152 - INFO - performing random action
+2025-04-02 09:36:41,155 - DEBUG - Scrolling page 5 times.
+2025-04-02 09:36:41,157 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:42,965 - DEBUG - Page scrolled.
+2025-04-02 09:36:45,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:47,618 - DEBUG - Page scrolled.
+2025-04-02 09:36:50,620 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:51,715 - DEBUG - Page scrolled.
+2025-04-02 09:36:54,717 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:36:56,646 - DEBUG - Page scrolled.
+2025-04-02 09:36:59,648 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:37:01,652 - DEBUG - Page scrolled.
+2025-04-02 09:37:04,654 - DEBUG - Random scrolls complete.
+2025-04-02 09:37:07,601 - DEBUG - Total comments in the thread: 4
+2025-04-02 09:37:18,319 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Wordpress help!!!.txt
+2025-04-02 09:37:20,349 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 09:37:20,376 - DEBUG - Extracted main post content: Pls i need a wordpress theme for a job niche website and any script to auto post job contents.
+2025-04-02 09:37:24,004 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 09:37:24,006 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 09:37:26,601 - INFO - performing random action
+2025-04-02 09:37:26,602 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:37:26,604 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:37:26,619 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:37:26,663 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:37:26,672 - DEBUG - Text box scrolled into view
+2025-04-02 09:37:27,321 - DEBUG - Initializing actionchains
+2025-04-02 09:37:27,375 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2296}, size: {'height': 21, 'width': 68}
+2025-04-02 09:37:27,375 - DEBUG - Target click coordinates: (1121, 2306)
+2025-04-02 09:37:36,215 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 09:37:36,217 - DEBUG - Moving mouse to text box element.
+2025-04-02 09:37:36,219 - DEBUG - Clicking on the text box.
+2025-04-02 09:37:36,221 - DEBUG - Sending keys with content: Forget auto-posting; that screams spam. Instead, focus on a solid theme like Jobify and curate a few killer listings yourself to start.
+
+2025-04-02 09:37:42,140 - DEBUG - Clicking on post reply button.
+2025-04-02 09:37:53,148 - DEBUG - Performed Actionchains
+2025-04-02 09:37:53,149 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 09:37:57,151 - INFO - Comment posted successfully.
+2025-04-02 09:37:57,152 - INFO - Task Completed!!
+2025-04-02 09:38:09,074 - INFO - Navigated back to the homepage.
+2025-04-02 09:38:11,643 - INFO - Attempting to clear memory and resources.
+2025-04-02 09:38:11,675 - INFO - Garbage collection completed.
+2025-04-02 09:38:11,676 - INFO - Waiting for 2000 seconds before next execution.

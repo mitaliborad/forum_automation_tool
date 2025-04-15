@@ -1,0 +1,101 @@
+2025-04-10 11:11:26,324 - INFO - Current time: 1744263686.3240664
+2025-04-10 11:11:26,326 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 11:11:26,329 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 11:11:26,331 - INFO - performing random action
+2025-04-10 11:11:26,334 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:11:26,336 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:11:26,338 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:11:27,873 - DEBUG - Page scrolled.
+2025-04-10 11:11:29,876 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:11:31,364 - DEBUG - Page scrolled.
+2025-04-10 11:11:33,367 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:11:35,302 - DEBUG - Page scrolled.
+2025-04-10 11:11:37,304 - DEBUG - Random scrolls complete.
+2025-04-10 11:11:37,306 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:11:37,308 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:11:38,357 - DEBUG - Page scrolled.
+2025-04-10 11:11:40,359 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:11:41,844 - DEBUG - Page scrolled.
+2025-04-10 11:11:43,846 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:11:45,271 - DEBUG - Page scrolled.
+2025-04-10 11:11:47,273 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:11:49,141 - DEBUG - Page scrolled.
+2025-04-10 11:11:51,143 - DEBUG - Random scrolls complete.
+2025-04-10 11:11:57,282 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-04-10 11:12:00,840 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-get-higher-spend-when-running-sweepstake-mrr-products-aka-6-95-9-99-product-prices-iykyk.1571193/unread
+2025-04-10 11:12:00,840 - INFO - performing random action
+2025-04-10 11:12:08,442 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-get-higher-spend-when-running-sweepstake-mrr-products-aka-6-95-9-99-product-prices-iykyk.1571193/unread
+2025-04-10 11:12:08,447 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-get-higher-spend-when-running-sweepstake-mrr-products-aka-6-95-9-99-product-prices-iykyk.1571193/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:12:08,489 - INFO - Extracted thread title: How to get higher spend when running SweepstakeMRR products, aka 6.95, 9.99 product prices, iykyk
+2025-04-10 11:12:08,490 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:12:08,491 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:12:10,155 - DEBUG - Page scrolled.
+2025-04-10 11:12:12,157 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:12:13,956 - DEBUG - Page scrolled.
+2025-04-10 11:12:15,959 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:12:17,615 - DEBUG - Page scrolled.
+2025-04-10 11:12:19,617 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:12:20,926 - DEBUG - Page scrolled.
+2025-04-10 11:12:22,929 - DEBUG - Random scrolls complete.
+2025-04-10 11:12:25,449 - DEBUG - Scrolling page 1 times.
+2025-04-10 11:12:25,451 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:12:26,621 - DEBUG - Page scrolled.
+2025-04-10 11:12:29,624 - DEBUG - Random scrolls complete.
+2025-04-10 11:12:29,655 - DEBUG - Found 10 like buttons.
+2025-04-10 11:12:32,656 - INFO - Attempting to like 4 posts. There are 10 available.
+2025-04-10 11:12:33,277 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:12:33,300 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:12:33,300 - DEBUG - Liked post number 1 of 4.
+2025-04-10 11:12:38,365 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:12:38,376 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:12:38,377 - DEBUG - Liked post number 2 of 4.
+2025-04-10 11:12:43,737 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:12:43,756 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:12:43,757 - DEBUG - Liked post number 3 of 4.
+2025-04-10 11:12:49,083 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:12:49,102 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:12:49,104 - DEBUG - Liked post number 4 of 4.
+2025-04-10 11:12:53,533 - INFO - Liked 4 posts successfully.
+2025-04-10 11:12:53,536 - INFO - Liked 4 posts successfully.
+2025-04-10 11:12:56,195 - INFO - performing random action
+2025-04-10 11:12:56,197 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:12:56,199 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:12:57,698 - DEBUG - Page scrolled.
+2025-04-10 11:13:00,701 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:13:02,420 - DEBUG - Page scrolled.
+2025-04-10 11:13:05,422 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:13:06,543 - DEBUG - Page scrolled.
+2025-04-10 11:13:09,545 - DEBUG - Random scrolls complete.
+2025-04-10 11:13:12,605 - DEBUG - Total comments in the thread: 10
+2025-04-10 11:13:44,660 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to get higher spend when running SweepstakeMRR products, aka 6.95, 9.99 product prices, iykyk.txt
+2025-04-10 11:13:47,403 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:13:47,435 - DEBUG - Extracted main post content: Was wondering if anyone runs mrr on tiktok and what ad strats or warm-up they use to get higher spend on ad accs. Im facing an issue where i get banned at low spend.
+Attachments
+wqwerw.JPG
+2025-04-10 11:13:52,678 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:13:52,682 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:13:55,512 - INFO - Profile PixelPirate99: Pausing for 43.42 seconds...
+2025-04-10 11:14:38,935 - INFO - Profile PixelPirate99: Resuming...
+2025-04-10 11:14:38,937 - INFO - performing random action
+2025-04-10 11:14:38,938 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:14:38,940 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:14:38,965 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:14:39,004 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:14:39,009 - DEBUG - Text box scrolled into view
+2025-04-10 11:14:39,840 - DEBUG - Initializing actionchains
+2025-04-10 11:14:39,858 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3935}, size: {'height': 21, 'width': 68}
+2025-04-10 11:14:39,858 - DEBUG - Target click coordinates: (1265, 3945)
+2025-04-10 11:14:51,344 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:14:51,345 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:14:51,345 - DEBUG - Clicking on the text box.
+2025-04-10 11:14:51,346 - DEBUG - Sending keys with content: Warm up with engagement campaigns first; don't go straight for the jugular with conversions, TikTok hates that. Are your creatives pushing any boundaries, even accidentally?
+
+2025-04-10 11:14:57,029 - DEBUG - Clicking on post reply button.
+2025-04-10 11:15:08,075 - DEBUG - Performed Actionchains
+2025-04-10 11:15:08,075 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:15:12,077 - INFO - Comment posted successfully.
+2025-04-10 11:15:12,079 - INFO - Task Completed!!
+2025-04-10 11:15:38,012 - INFO - Navigated back to the homepage.
+2025-04-10 11:15:40,112 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:15:40,138 - INFO - Garbage collection completed.
+2025-04-10 11:15:40,139 - INFO - Waiting for 1850 seconds before next execution.

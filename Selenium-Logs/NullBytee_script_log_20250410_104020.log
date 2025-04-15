@@ -1,0 +1,95 @@
+2025-04-10 10:40:20,885 - INFO - Current time: 1744261820.8851264
+2025-04-10 10:40:20,888 - INFO - Token expiration time: 1744268355.724446
+2025-04-10 10:40:20,890 - INFO - Token expiration time: 1744268355.724446
+2025-04-10 10:40:20,895 - INFO - performing random action
+2025-04-10 10:40:20,900 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:40:20,902 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:40:20,904 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:40:22,401 - DEBUG - Page scrolled.
+2025-04-10 10:40:24,404 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:40:25,528 - DEBUG - Page scrolled.
+2025-04-10 10:40:27,530 - DEBUG - Random scrolls complete.
+2025-04-10 10:40:27,534 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:40:27,537 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:40:28,752 - DEBUG - Page scrolled.
+2025-04-10 10:40:30,753 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:40:32,245 - DEBUG - Page scrolled.
+2025-04-10 10:40:34,246 - DEBUG - Random scrolls complete.
+2025-04-10 10:40:45,520 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-04-10 10:40:49,533 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/video-generator.1702917/unread
+2025-04-10 10:40:49,534 - INFO - performing random action
+2025-04-10 10:40:57,683 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/video-generator.1702917/unread
+2025-04-10 10:40:57,687 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/video-generator.1702917/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:40:57,749 - INFO - Extracted thread title: Video generator
+2025-04-10 10:40:57,750 - DEBUG - Scrolling page 3 times.
+2025-04-10 10:40:57,751 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:40:59,038 - DEBUG - Page scrolled.
+2025-04-10 10:41:01,040 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:41:02,677 - DEBUG - Page scrolled.
+2025-04-10 10:41:04,679 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:41:06,677 - DEBUG - Page scrolled.
+2025-04-10 10:41:08,679 - DEBUG - Random scrolls complete.
+2025-04-10 10:41:11,650 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:41:11,652 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:41:12,721 - DEBUG - Page scrolled.
+2025-04-10 10:41:15,724 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:41:17,214 - DEBUG - Page scrolled.
+2025-04-10 10:41:20,217 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:41:21,448 - DEBUG - Page scrolled.
+2025-04-10 10:41:24,451 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:41:26,408 - DEBUG - Page scrolled.
+2025-04-10 10:41:29,410 - DEBUG - Random scrolls complete.
+2025-04-10 10:41:29,444 - DEBUG - Found 6 like buttons.
+2025-04-10 10:41:32,445 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-04-10 10:41:33,192 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:41:33,214 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:41:33,215 - DEBUG - Liked post number 1 of 2.
+2025-04-10 10:41:38,911 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:41:38,926 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:41:38,927 - DEBUG - Liked post number 2 of 2.
+2025-04-10 10:41:43,537 - INFO - Liked 2 posts successfully.
+2025-04-10 10:41:43,540 - INFO - Liked 2 posts successfully.
+2025-04-10 10:41:45,724 - INFO - performing random action
+2025-04-10 10:41:45,727 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:41:45,729 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:41:47,273 - DEBUG - Page scrolled.
+2025-04-10 10:41:50,276 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:41:51,726 - DEBUG - Page scrolled.
+2025-04-10 10:41:54,728 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:41:55,851 - DEBUG - Page scrolled.
+2025-04-10 10:41:58,853 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:42:00,132 - DEBUG - Page scrolled.
+2025-04-10 10:42:03,134 - DEBUG - Random scrolls complete.
+2025-04-10 10:42:05,373 - DEBUG - Total comments in the thread: 6
+2025-04-10 10:42:37,246 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Video generator.txt
+2025-04-10 10:42:39,908 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:42:39,971 - DEBUG - Extracted main post content: So. I have a yt channel whwre i upload 8-12hr asmr type videos. Like rain etc.
+Is there any video generator where i could make this from prompts?
+Rn what im doing is im using ai to generate a cozy pic and just edit the looping sound by hand and render it.
+But it takes so much time to render these out...
+Any help?
+2025-04-10 10:42:45,168 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:42:45,171 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:42:47,612 - INFO - performing random action
+2025-04-10 10:42:47,614 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:42:47,616 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:42:47,651 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:42:47,699 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:42:47,706 - DEBUG - Text box scrolled into view
+2025-04-10 10:42:48,232 - DEBUG - Initializing actionchains
+2025-04-10 10:42:48,293 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2545}, size: {'height': 21, 'width': 68}
+2025-04-10 10:42:48,294 - DEBUG - Target click coordinates: (1265, 2555)
+2025-04-10 10:42:58,024 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:42:58,025 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:42:58,026 - DEBUG - Clicking on the text box.
+2025-04-10 10:42:58,027 - DEBUG - Sending keys with content: Instead of a video generator, have you looked into royalty-free stock footage of rain or nature scenes? Might save you some render time.
+
+2025-04-10 10:43:03,884 - DEBUG - Clicking on post reply button.
+2025-04-10 10:43:14,838 - DEBUG - Performed Actionchains
+2025-04-10 10:43:14,840 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:43:18,841 - INFO - Comment posted successfully.
+2025-04-10 10:43:18,844 - INFO - Task Completed!!
+2025-04-10 10:43:28,244 - INFO - Navigated back to the homepage.
+2025-04-10 10:43:30,522 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:43:30,547 - INFO - Garbage collection completed.
+2025-04-10 10:43:30,547 - INFO - Waiting for 1850 seconds before next execution.

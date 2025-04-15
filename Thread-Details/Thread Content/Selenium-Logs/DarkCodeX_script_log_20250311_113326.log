@@ -1,0 +1,10 @@
+2025-03-11 11:33:26,615 - INFO - Starting automation for profile: DarkCodeX
+2025-03-11 11:33:48,991 - INFO - Profile DarkCodeX: Successfully logged in.
+2025-03-11 11:33:48,994 - INFO - Profile DarkCodeX: Starting profile d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-11 11:33:54,276 - INFO - Profile DarkCodeX: Extracted port: 54639
+2025-03-11 11:33:55,283 - INFO - Profile DarkCodeX: Started on port 54639.
+2025-03-11 11:39:38,876 - INFO - Stopping browser for profile: DarkCodeX...
+2025-03-11 11:39:38,878 - INFO - Profile DarkCodeX: Attempting to stop...
+2025-03-11 11:39:38,890 - INFO - Profile DarkCodeX: Browser closed successfully.
+2025-03-11 11:39:43,091 - INFO - Profile DarkCodeX: Stopped successfully.
+2025-03-11 11:39:43,098 - INFO - Browser stopped successfully for profile: DarkCodeX.

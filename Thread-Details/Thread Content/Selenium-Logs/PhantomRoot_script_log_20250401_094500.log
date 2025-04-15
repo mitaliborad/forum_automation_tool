@@ -1,0 +1,9 @@
+2025-04-01 09:45:00,937 - INFO - Starting automation for profile: PhantomRoot
+2025-04-01 09:45:02,196 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-01 09:45:02,199 - INFO - Calculated token expiration time: 1743491702.1990118
+2025-04-01 09:45:02,201 - INFO - Profile PhantomRoot: Successfully logged in.
+2025-04-01 09:45:02,204 - INFO - Profile PhantomRoot: Starting profile 8c98d4bf-a650-472e-ada8-4f3ae5d61152...
+2025-04-01 09:45:07,648 - INFO - Profile PhantomRoot: Extracted port: 54500
+2025-04-01 09:45:08,517 - INFO - Profile PhantomRoot: Started on port 54500.
+2025-04-01 09:45:08,587 - INFO - Loaded 452 visited threads from Thread_links.txt
+2025-04-01 09:45:08,601 - INFO - Successfully loaded links that was already visited!

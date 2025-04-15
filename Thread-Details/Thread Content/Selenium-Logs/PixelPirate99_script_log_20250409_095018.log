@@ -1,0 +1,97 @@
+2025-04-09 09:50:18,768 - INFO - Current time: 1744172418.7689266
+2025-04-09 09:50:18,769 - INFO - Token expiration time: 1744181075.509341
+2025-04-09 09:50:18,770 - INFO - Token expiration time: 1744181075.509341
+2025-04-09 09:50:18,771 - INFO - performing random action
+2025-04-09 09:50:18,772 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 09:50:18,773 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:50:18,773 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:50:20,679 - DEBUG - Page scrolled.
+2025-04-09 09:50:22,684 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:50:24,309 - DEBUG - Page scrolled.
+2025-04-09 09:50:26,312 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:50:27,653 - DEBUG - Page scrolled.
+2025-04-09 09:50:29,658 - DEBUG - Random scrolls complete.
+2025-04-09 09:50:29,662 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:50:29,664 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:50:31,316 - DEBUG - Page scrolled.
+2025-04-09 09:50:33,321 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:50:35,280 - DEBUG - Page scrolled.
+2025-04-09 09:50:37,288 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:50:38,558 - DEBUG - Page scrolled.
+2025-04-09 09:50:40,560 - DEBUG - Random scrolls complete.
+2025-04-09 09:50:45,135 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-04-09 09:50:50,068 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/which-is-the-best-ai-generator-for-turning-photos-into-videos-and-preferably-with-no-filtering.1685533/unread
+2025-04-09 09:50:50,069 - INFO - Profile PixelPirate99: Pausing for 48.15 seconds...
+2025-04-09 09:51:38,216 - INFO - Profile PixelPirate99: Resuming...
+2025-04-09 09:51:38,218 - INFO - performing random action
+2025-04-09 09:51:51,436 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/which-is-the-best-ai-generator-for-turning-photos-into-videos-and-preferably-with-no-filtering.1685533/unread
+2025-04-09 09:51:51,440 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/which-is-the-best-ai-generator-for-turning-photos-into-videos-and-preferably-with-no-filtering.1685533/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 09:51:51,503 - INFO - Extracted thread title: Which is the best AI generator for turning photos into videos And preferably with no filtering
+2025-04-09 09:51:51,504 - DEBUG - Scrolling page 3 times.
+2025-04-09 09:51:51,505 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:51:52,513 - DEBUG - Page scrolled.
+2025-04-09 09:51:54,515 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:51:56,004 - DEBUG - Page scrolled.
+2025-04-09 09:51:58,006 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:51:59,944 - DEBUG - Page scrolled.
+2025-04-09 09:52:01,947 - DEBUG - Random scrolls complete.
+2025-04-09 09:52:04,348 - DEBUG - Scrolling page 2 times.
+2025-04-09 09:52:04,348 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:06,114 - DEBUG - Page scrolled.
+2025-04-09 09:52:09,116 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:11,058 - DEBUG - Page scrolled.
+2025-04-09 09:52:14,061 - DEBUG - Random scrolls complete.
+2025-04-09 09:52:14,092 - DEBUG - Found 20 like buttons.
+2025-04-09 09:52:17,093 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-04-09 09:52:17,741 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:52:17,764 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:52:17,765 - DEBUG - Liked post number 1 of 2.
+2025-04-09 09:52:23,556 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 09:52:23,566 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 09:52:23,567 - DEBUG - Liked post number 2 of 2.
+2025-04-09 09:52:28,138 - INFO - Liked 2 posts successfully.
+2025-04-09 09:52:28,141 - INFO - Liked 2 posts successfully.
+2025-04-09 09:52:30,309 - INFO - performing random action
+2025-04-09 09:52:30,311 - DEBUG - Scrolling page 6 times.
+2025-04-09 09:52:30,312 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:31,524 - DEBUG - Page scrolled.
+2025-04-09 09:52:34,525 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:36,502 - DEBUG - Page scrolled.
+2025-04-09 09:52:39,504 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:41,322 - DEBUG - Page scrolled.
+2025-04-09 09:52:44,323 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:45,480 - DEBUG - Page scrolled.
+2025-04-09 09:52:48,481 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:49,983 - DEBUG - Page scrolled.
+2025-04-09 09:52:52,986 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 09:52:54,441 - DEBUG - Page scrolled.
+2025-04-09 09:52:57,444 - DEBUG - Random scrolls complete.
+2025-04-09 09:53:00,080 - DEBUG - Total comments in the thread: 20
+2025-04-09 09:55:26,312 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Which is the best AI generator for turning photos into videos And preferably with no filtering.txt
+2025-04-09 09:55:29,132 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 09:55:29,166 - DEBUG - Extracted main post content: More and more AI video generators are getting regulated. Yeah, I'm talking about generatorss like Kling and Hailuo. They used to be really flexible. You know, there was this unrestricted freedom where you could do all sorts of things without getting restricted. But what about now? Look at what they've become. Not only is the generation speed unacceptable, but the content filtering also seems to be getting stricter and stricter. Is there any AI video generator that can turn pictures into videos without restrictions? Can anyone recommend one?
+2025-04-09 09:55:34,705 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 09:55:34,706 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 09:55:37,436 - INFO - performing random action
+2025-04-09 09:55:37,437 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:55:37,439 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:55:37,468 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:55:37,545 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 09:55:37,553 - DEBUG - Text box scrolled into view
+2025-04-09 09:55:38,161 - DEBUG - Initializing actionchains
+2025-04-09 09:55:38,215 - DEBUG - Post reply Element location: {'x': 1231, 'y': 6878}, size: {'height': 21, 'width': 68}
+2025-04-09 09:55:38,216 - DEBUG - Target click coordinates: (1265, 6888)
+2025-04-09 09:55:55,569 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 09:55:55,570 - DEBUG - Moving mouse to text box element.
+2025-04-09 09:55:55,571 - DEBUG - Clicking on the text box.
+2025-04-09 09:55:55,572 - DEBUG - Sending keys with content: Dang, that sucks! Ever tried the runwayML route? Might be worth a shot.
+
+2025-04-09 09:56:01,445 - DEBUG - Clicking on post reply button.
+2025-04-09 09:56:12,063 - DEBUG - Performed Actionchains
+2025-04-09 09:56:12,065 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 09:56:16,068 - INFO - Comment posted successfully.
+2025-04-09 09:56:16,070 - INFO - Task Completed!!
+2025-04-09 09:56:23,244 - INFO - Navigated back to the homepage.
+2025-04-09 09:56:25,692 - INFO - Attempting to clear memory and resources.
+2025-04-09 09:56:25,722 - INFO - Garbage collection completed.
+2025-04-09 09:56:25,724 - INFO - Waiting for 1850 seconds before next execution.

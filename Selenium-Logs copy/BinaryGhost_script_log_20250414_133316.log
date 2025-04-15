@@ -1,0 +1,101 @@
+2025-04-14 13:33:16,696 - INFO - Current time: 1744617796.695959
+2025-04-14 13:33:16,698 - INFO - Token expiration time: 1744621139.9563973
+2025-04-14 13:33:16,699 - INFO - Token expiration time: 1744621139.9563973
+2025-04-14 13:33:16,701 - INFO - Profile BinaryGhost: Restoring window...
+2025-04-14 13:33:18,710 - INFO - performing random action
+2025-04-14 13:33:18,712 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:33:18,716 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:33:18,719 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:20,087 - DEBUG - Page scrolled.
+2025-04-14 13:33:22,090 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:23,905 - DEBUG - Page scrolled.
+2025-04-14 13:33:25,907 - DEBUG - Random scrolls complete.
+2025-04-14 13:33:25,910 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:33:25,912 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:27,835 - DEBUG - Page scrolled.
+2025-04-14 13:33:29,838 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:31,522 - DEBUG - Page scrolled.
+2025-04-14 13:33:33,524 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:35,025 - DEBUG - Page scrolled.
+2025-04-14 13:33:37,027 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:38,507 - DEBUG - Page scrolled.
+2025-04-14 13:33:40,509 - DEBUG - Random scrolls complete.
+2025-04-14 13:33:45,824 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-14 13:33:49,731 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/please-help-with-google-scrapping.1649333/unread
+2025-04-14 13:33:49,732 - INFO - performing random action
+2025-04-14 13:33:59,142 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/please-help-with-google-scrapping.1649333/unread
+2025-04-14 13:33:59,145 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/please-help-with-google-scrapping.1649333/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 13:33:59,196 - INFO - Extracted thread title: Please help with Google scrapping
+2025-04-14 13:33:59,197 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:33:59,197 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:34:00,282 - DEBUG - Page scrolled.
+2025-04-14 13:34:02,286 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:34:04,286 - DEBUG - Page scrolled.
+2025-04-14 13:34:06,287 - DEBUG - Random scrolls complete.
+2025-04-14 13:34:08,361 - DEBUG - Scrolling page 1 times.
+2025-04-14 13:34:08,363 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:34:09,846 - DEBUG - Page scrolled.
+2025-04-14 13:34:12,849 - DEBUG - Random scrolls complete.
+2025-04-14 13:34:12,900 - DEBUG - Found 12 like buttons.
+2025-04-14 13:34:15,901 - INFO - Attempting to like 2 posts. There are 12 available.
+2025-04-14 13:34:16,602 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:34:16,613 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:34:16,613 - DEBUG - Liked post number 1 of 2.
+2025-04-14 13:34:21,699 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:34:21,711 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:34:21,711 - DEBUG - Liked post number 2 of 2.
+2025-04-14 13:34:25,849 - INFO - Liked 2 posts successfully.
+2025-04-14 13:34:25,853 - INFO - Liked 2 posts successfully.
+2025-04-14 13:34:28,419 - INFO - Profile BinaryGhost: Pausing for 30.07 seconds...
+2025-04-14 13:34:58,489 - INFO - Profile BinaryGhost: Resuming...
+2025-04-14 13:34:58,490 - INFO - performing random action
+2025-04-14 13:34:58,491 - DEBUG - Scrolling page 6 times.
+2025-04-14 13:34:58,492 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:34:59,756 - DEBUG - Page scrolled.
+2025-04-14 13:35:02,757 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:35:04,749 - DEBUG - Page scrolled.
+2025-04-14 13:35:07,751 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:35:09,545 - DEBUG - Page scrolled.
+2025-04-14 13:35:12,547 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:35:14,467 - DEBUG - Page scrolled.
+2025-04-14 13:35:17,470 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:35:18,500 - DEBUG - Page scrolled.
+2025-04-14 13:35:21,501 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:35:22,894 - DEBUG - Page scrolled.
+2025-04-14 13:35:25,896 - DEBUG - Random scrolls complete.
+2025-04-14 13:35:28,370 - DEBUG - Total comments in the thread: 12
+2025-04-14 13:36:20,643 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Please help with Google scrapping.txt
+2025-04-14 13:36:23,309 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:36:23,402 - DEBUG - Extracted main post content: Hi!
+I need to scrap domain names URLs from Google search like this: I will provide a keyword, ex."physiocare" and it will give me domain name results containing this keyword, ex: physiocaretz.com, physiocarehealthsolutions.com etc.
+I have attached 2 screenshots.
+
+Please suggest me tools and ways to do that.
+Attachments
+ph.png
+myl.png
+2025-04-14 13:36:27,010 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:36:27,014 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:36:29,152 - INFO - performing random action
+2025-04-14 13:36:29,154 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:36:29,156 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:36:29,193 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:36:29,232 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:36:29,240 - DEBUG - Text box scrolled into view
+2025-04-14 13:36:29,882 - DEBUG - Initializing actionchains
+2025-04-14 13:36:29,943 - DEBUG - Post reply Element location: {'x': 1231, 'y': 5733}, size: {'height': 21, 'width': 68}
+2025-04-14 13:36:29,944 - DEBUG - Target click coordinates: (1265, 5743)
+2025-04-14 13:36:45,665 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:36:45,667 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:36:45,668 - DEBUG - Clicking on the text box.
+2025-04-14 13:36:45,671 - DEBUG - Sending keys with content: Forget fancy tools; Google dorks might get you surprisingly far for this. Have you tried those before diving into paid scrapers?
+
+2025-04-14 13:36:51,111 - DEBUG - Clicking on post reply button.
+2025-04-14 13:37:01,952 - DEBUG - Performed Actionchains
+2025-04-14 13:37:01,953 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 13:37:05,954 - INFO - Comment posted successfully.
+2025-04-14 13:37:05,955 - INFO - Task Completed!!
+2025-04-14 13:37:13,285 - INFO - Navigated back to the homepage.
+2025-04-14 13:37:15,339 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:37:15,405 - INFO - Garbage collection completed.
+2025-04-14 13:37:15,406 - INFO - Waiting for 2200 seconds before next execution.

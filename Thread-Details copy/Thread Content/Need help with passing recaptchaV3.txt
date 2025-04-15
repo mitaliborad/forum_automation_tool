@@ -1,0 +1,102 @@
+--- Main Post Title ---
+Need help with passing recaptchaV3
+
+Total comments in the thread: 9
+
+Topic User: Nonciv
+Topic: I know it might be a stupid question. I see a thousand ways how v3 could be passed, but I have no luck with it.
+I am trying to automate it.
+Should I use Playwright or Puppeteer with stealth.
+My score is always low with any proxy I am using. I’m stuck and depressed right now.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: oxcakmak
+Topic: you can use tampermonkey (scripts in greasy fork).
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: uchdollar
+Topic: You have to pay for a service for that, there are many captcha solvers that work efficiently.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Spotify bot & accounts
+Topic: Nonciv said:
+I know it might be a stupid question. I see a thousand ways how v3 could be passed, but I have no luck with it.
+I am trying to automate it.
+Should I use Playwright or Puppeteer with stealth.
+My score is always low with any proxy I am using. I’m stuck and depressed right now.
+There are several proxy providers, is it for automation? You can use it, I use yescaptcha and it works well with API key I can show you how it works if you want.
+TG: spotifybot4u
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Alexia D. Lujan
+Topic: Try using Playwright or Puppeteer with stealth, but ensure your proxies are high-quality, undetected, and rotate frequently to avoid detection and improve your score.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Nonciv
+Topic: Hey Guys, thanks for all your responses.
+
+Yes it is an automation we are using selenoid with puppeteer and proxy from nodemaven . If I use this proxy without solenoid it has high 0.7-0.9 score on https://antcpt.com/score_detector/ but with solenoid and stealth I have low score. I haven't tried tampermonkey didn't know about it.
+
+As an example of recaptchav3 + cloudflare there is https://www.northcarolinaresidentdatabase.com/opt-out
+I am using 2captcha for tokens, but it does not accept it and write me that I am robot almost 90% of cases
+
+I know that I'm doing smth wrong because there are a lot of articles that tells how simple is it to pass this v3 captcha
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Proxy Cake
+Topic: It is a combination of using a stealth selenium version as well as high quality residential proxies
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: aperfectcircle
+Topic: Try Death By Captcha, I've been doing V2s and V3s without issues there.
+Liked by: Nonciv
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: r1ch11r1ch
+Topic: I like nopecha, $5/mo for 2k solves a day. They have an API, I only use the Chrome extension though.
+Liked by: Nonciv
+Number of likes: 1
+-----
+
+Replies:
+
+

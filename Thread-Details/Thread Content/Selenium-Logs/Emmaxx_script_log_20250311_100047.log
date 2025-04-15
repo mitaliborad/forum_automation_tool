@@ -1,0 +1,93 @@
+2025-03-11 10:00:47,871 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_100047.log
+2025-03-11 10:00:47,886 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 10:00:47,897 - INFO - Loaded 121 visited threads from Thread_links.txt
+2025-03-11 10:00:47,901 - INFO - Successfully loaded links that was already visited!
+2025-03-11 10:00:47,903 - DEBUG - Scrolling page 4 times.
+2025-03-11 10:00:47,905 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:00:53,681 - DEBUG - Page scrolled.
+2025-03-11 10:00:55,683 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:00:57,462 - DEBUG - Page scrolled.
+2025-03-11 10:00:59,464 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:01,156 - DEBUG - Page scrolled.
+2025-03-11 10:01:03,161 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:04,550 - DEBUG - Page scrolled.
+2025-03-11 10:01:06,556 - DEBUG - Random scrolls complete.
+2025-03-11 10:01:06,561 - DEBUG - Scrolling page 3 times.
+2025-03-11 10:01:06,564 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:07,880 - DEBUG - Page scrolled.
+2025-03-11 10:01:09,885 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:10,923 - DEBUG - Page scrolled.
+2025-03-11 10:01:12,927 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:14,237 - DEBUG - Page scrolled.
+2025-03-11 10:01:16,240 - DEBUG - Random scrolls complete.
+2025-03-11 10:01:22,153 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/instagram.215/
+2025-03-11 10:01:27,175 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-repost-app-for-instagram-others-are-dead.1693842/unread
+2025-03-11 10:01:36,163 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-repost-app-for-instagram-others-are-dead.1693842/unread
+2025-03-11 10:01:36,168 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-repost-app-for-instagram-others-are-dead.1693842/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 10:01:36,235 - INFO - Extracted thread title: Best Repost App for Instagram  Others are dead
+2025-03-11 10:01:36,237 - DEBUG - Scrolling page 4 times.
+2025-03-11 10:01:36,238 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:37,489 - DEBUG - Page scrolled.
+2025-03-11 10:01:39,492 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:40,900 - DEBUG - Page scrolled.
+2025-03-11 10:01:42,904 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:44,128 - DEBUG - Page scrolled.
+2025-03-11 10:01:46,129 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:47,565 - DEBUG - Page scrolled.
+2025-03-11 10:01:49,566 - DEBUG - Random scrolls complete.
+2025-03-11 10:01:51,572 - DEBUG - Scrolling page 1 times.
+2025-03-11 10:01:51,574 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:01:52,702 - DEBUG - Page scrolled.
+2025-03-11 10:01:55,703 - DEBUG - Random scrolls complete.
+2025-03-11 10:01:55,753 - DEBUG - Found 3 like buttons.
+2025-03-11 10:01:58,756 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-03-11 10:01:59,675 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:01:59,707 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:01:59,708 - DEBUG - Liked post number 1 of 3.
+2025-03-11 10:02:05,415 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:02:05,438 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:02:05,440 - DEBUG - Liked post number 2 of 3.
+2025-03-11 10:02:10,745 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:02:10,766 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:02:10,770 - DEBUG - Liked post number 3 of 3.
+2025-03-11 10:02:15,743 - INFO - Liked 3 posts successfully.
+2025-03-11 10:02:15,746 - INFO - Liked 3 posts successfully.
+2025-03-11 10:02:18,473 - DEBUG - Scrolling page 3 times.
+2025-03-11 10:02:18,476 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:20,348 - DEBUG - Page scrolled.
+2025-03-11 10:02:23,350 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:24,642 - DEBUG - Page scrolled.
+2025-03-11 10:02:27,644 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:02:29,506 - DEBUG - Page scrolled.
+2025-03-11 10:02:32,509 - DEBUG - Random scrolls complete.
+2025-03-11 10:02:35,317 - DEBUG - Total comments in the thread: 3
+2025-03-11 10:02:35,568 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Best Repost App for Instagram  Others are dead.txt
+2025-03-11 10:02:37,789 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 10:02:37,846 - DEBUG - Extracted main post content: Does anybody have any recommendations for a Repost app for Instagram? The one I was using called Repost” is that they changed something with their app to the terms of service of Instagram. Sucks
+
+
+I do a lot of reposting on my accounts so not sure what to do.
+2025-03-11 10:02:42,715 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 10:02:42,719 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 10:02:45,071 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:02:45,074 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:02:45,108 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:02:45,164 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:02:45,176 - DEBUG - Text box scrolled into view
+2025-03-11 10:02:45,809 - DEBUG - Initializing actionchains
+2025-03-11 10:02:45,860 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1902}, size: {'height': 21, 'width': 68}
+2025-03-11 10:02:45,861 - DEBUG - Target click coordinates: (1121, 1912)
+2025-03-11 10:02:53,177 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 10:02:53,179 - DEBUG - Moving mouse to text box element.
+2025-03-11 10:02:53,181 - DEBUG - Clicking on the text box.
+2025-03-11 10:02:53,185 - DEBUG - Sending keys with content: Ugh, that's annoying when apps change like that. Have you tried looking at any of the ones that let you schedule posts, too? Some of those have repost features built in and might be worth a shot.
+
+2025-03-11 10:02:58,859 - DEBUG - Clicking on post reply button.
+2025-03-11 10:03:10,033 - DEBUG - Performed Actionchains
+2025-03-11 10:03:10,034 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 10:03:14,035 - INFO - Comment posted successfully.
+2025-03-11 10:03:14,038 - INFO - Task Completed!!
+2025-03-11 10:03:24,357 - INFO - Navigated back to the homepage.
+2025-03-11 10:03:26,619 - INFO - Attempting to clear memory and resources.
+2025-03-11 10:03:26,662 - INFO - Garbage collection completed.
+2025-03-11 10:03:26,663 - INFO - Waiting for 100 seconds before next execution.

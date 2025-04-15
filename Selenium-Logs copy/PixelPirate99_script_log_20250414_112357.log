@@ -1,0 +1,107 @@
+2025-04-14 11:23:57,127 - INFO - Current time: 1744610037.1270244
+2025-04-14 11:23:57,132 - INFO - Token expiration time: 1744620828.6163933
+2025-04-14 11:23:57,134 - INFO - Token expiration time: 1744620828.6163933
+2025-04-14 11:23:57,135 - INFO - performing random action
+2025-04-14 11:23:57,139 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 11:23:57,140 - DEBUG - Scrolling page 2 times.
+2025-04-14 11:23:57,140 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:24:03,567 - DEBUG - Page scrolled.
+2025-04-14 11:24:05,570 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:24:06,756 - DEBUG - Page scrolled.
+2025-04-14 11:24:08,758 - DEBUG - Random scrolls complete.
+2025-04-14 11:24:08,760 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:24:08,761 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:24:10,198 - DEBUG - Page scrolled.
+2025-04-14 11:24:12,200 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:24:13,525 - DEBUG - Page scrolled.
+2025-04-14 11:24:15,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:24:16,939 - DEBUG - Page scrolled.
+2025-04-14 11:24:18,940 - DEBUG - Random scrolls complete.
+2025-04-14 11:24:23,972 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-14 11:24:27,812 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/going-legal-after-years-in-black-risks-from-spain.1704692/unread
+2025-04-14 11:24:27,813 - INFO - Profile PixelPirate99: Opening random website: https://letshyphen.com/
+2025-04-14 11:24:33,302 - INFO - Profile PixelPirate99: Pausing for 48.66 seconds...
+2025-04-14 11:25:21,961 - INFO - Profile PixelPirate99: Resuming...
+2025-04-14 11:25:21,971 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-14 11:25:21,973 - INFO - performing random action
+2025-04-14 11:25:39,636 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/going-legal-after-years-in-black-risks-from-spain.1704692/unread
+2025-04-14 11:25:39,642 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/going-legal-after-years-in-black-risks-from-spain.1704692/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 11:25:39,679 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-14 11:25:39,680 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:25:39,680 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:25:41,560 - DEBUG - Page scrolled.
+2025-04-14 11:25:43,561 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:25:52,083 - DEBUG - Page scrolled.
+2025-04-14 11:25:54,085 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:25:55,379 - DEBUG - Page scrolled.
+2025-04-14 11:25:57,381 - DEBUG - Random scrolls complete.
+2025-04-14 11:25:59,869 - DEBUG - Scrolling page 4 times.
+2025-04-14 11:25:59,871 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:01,207 - DEBUG - Page scrolled.
+2025-04-14 11:26:04,209 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:05,305 - DEBUG - Page scrolled.
+2025-04-14 11:26:08,307 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:09,480 - DEBUG - Page scrolled.
+2025-04-14 11:26:12,482 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:13,704 - DEBUG - Page scrolled.
+2025-04-14 11:26:16,706 - DEBUG - Random scrolls complete.
+2025-04-14 11:26:16,731 - DEBUG - Found 6 like buttons.
+2025-04-14 11:26:19,732 - INFO - Attempting to like 1 posts. There are 6 available.
+2025-04-14 11:26:20,731 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:26:20,776 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:26:20,793 - DEBUG - Liked post number 1 of 1.
+2025-04-14 11:26:24,858 - INFO - Liked 1 posts successfully.
+2025-04-14 11:26:24,860 - INFO - Liked 1 posts successfully.
+2025-04-14 11:26:27,465 - INFO - performing random action
+2025-04-14 11:26:27,467 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:26:27,468 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:29,033 - DEBUG - Page scrolled.
+2025-04-14 11:26:32,035 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:33,666 - DEBUG - Page scrolled.
+2025-04-14 11:26:36,667 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:26:38,214 - DEBUG - Page scrolled.
+2025-04-14 11:26:41,215 - DEBUG - Random scrolls complete.
+2025-04-14 11:26:43,467 - DEBUG - Total comments in the thread: 6
+2025-04-14 11:27:24,979 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-14 11:27:27,698 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 11:27:27,731 - DEBUG - Extracted main post content: Hi everyone, I’d appreciate your help.
+I’ve been working as a freelance designer since 2010 without ever registering officially in Spain. My income was low and irregular, so I never became self-employed. Paying 350€/month regardless of earnings felt impossible, especially with a disability that limits how much I can work.
+
+Now I want to open an Etsy shop to sell my digital designs. That would mean declaring taxes and becoming self-employed. I’m ready to “go legal” because I believe in this idea.
+
+But I worry: will becoming autónomo now trigger an investigation? I’ve received payments into my personal accounts (bank, PayPal, Wise) over the years, and never filed a tax return. Can Hacienda look into past income?
+
+Right now I earn from several sources:
+Design work (inconsistent, mostly under 800€/month)
+Music royalties (under $500/mo although the 2 years I was sick with Covid I could not work and music royalties where much higher)
+Amazon KDP royalties (~$80/month, sometimes higher)
+I have had a couple of times a big income like $1000 from kdp or a client that paid me a whole year in one go $2000
+I see two options:
+Become autónomo (self-employed) in Spain
+Register a small business abroad (like in the US) and combine earnings with my partner under a small audiovisual company
+But either way, I’m scared that declaring income now could raise red flags. Like why am I/we already earning money as a new self-employed or small business. Has anyone gone through this? Any advice?
+2025-04-14 11:27:31,145 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 11:27:31,149 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 11:27:34,119 - INFO - performing random action
+2025-04-14 11:27:34,121 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:27:34,122 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:27:34,139 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:27:34,180 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:27:34,187 - DEBUG - Text box scrolled into view
+2025-04-14 11:27:35,030 - DEBUG - Initializing actionchains
+2025-04-14 11:27:35,058 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4805}, size: {'height': 21, 'width': 68}
+2025-04-14 11:27:35,058 - DEBUG - Target click coordinates: (1265, 4815)
+2025-04-14 11:27:48,709 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 11:27:48,710 - DEBUG - Moving mouse to text box element.
+2025-04-14 11:27:48,711 - DEBUG - Clicking on the text box.
+2025-04-14 11:27:48,714 - DEBUG - Sending keys with content: I get the worry, it's a tough call. Maybe talk to a gestor first to get a handle on the potential back taxes before you jump in.
+
+2025-04-14 11:27:53,971 - DEBUG - Clicking on post reply button.
+2025-04-14 11:27:55,089 - DEBUG - Performed Actionchains
+2025-04-14 11:27:55,090 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 11:27:59,091 - INFO - Comment posted successfully.
+2025-04-14 11:27:59,093 - INFO - Task Completed!!
+2025-04-14 11:28:02,061 - INFO - Navigated back to the homepage.
+2025-04-14 11:28:04,989 - INFO - Attempting to clear memory and resources.
+2025-04-14 11:28:05,070 - INFO - Garbage collection completed.
+2025-04-14 11:28:05,072 - INFO - Waiting for 2200 seconds before next execution.

@@ -1,0 +1,109 @@
+2025-03-11 10:05:06,666 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_100506.log
+2025-03-11 10:05:06,672 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 10:05:06,674 - INFO - Loaded 123 visited threads from Thread_links.txt
+2025-03-11 10:05:06,675 - INFO - Successfully loaded links that was already visited!
+2025-03-11 10:05:06,676 - DEBUG - Scrolling page 7 times.
+2025-03-11 10:05:06,677 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:08,352 - DEBUG - Page scrolled.
+2025-03-11 10:05:10,356 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:12,111 - DEBUG - Page scrolled.
+2025-03-11 10:05:14,114 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:15,483 - DEBUG - Page scrolled.
+2025-03-11 10:05:17,485 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:19,103 - DEBUG - Page scrolled.
+2025-03-11 10:05:21,106 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:23,090 - DEBUG - Page scrolled.
+2025-03-11 10:05:25,093 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:26,571 - DEBUG - Page scrolled.
+2025-03-11 10:05:28,574 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:29,767 - DEBUG - Page scrolled.
+2025-03-11 10:05:31,770 - DEBUG - Random scrolls complete.
+2025-03-11 10:05:31,772 - DEBUG - Scrolling page 4 times.
+2025-03-11 10:05:31,775 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:33,423 - DEBUG - Page scrolled.
+2025-03-11 10:05:35,426 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:37,387 - DEBUG - Page scrolled.
+2025-03-11 10:05:39,389 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:41,038 - DEBUG - Page scrolled.
+2025-03-11 10:05:43,042 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:05:44,410 - DEBUG - Page scrolled.
+2025-03-11 10:05:46,412 - DEBUG - Random scrolls complete.
+2025-03-11 10:05:52,843 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-03-11 10:05:57,367 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-the-best-mobile-proxy-service-provider-to-target-us-audience.1693825/unread
+2025-03-11 10:06:03,930 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-the-best-mobile-proxy-service-provider-to-target-us-audience.1693825/unread
+2025-03-11 10:06:03,932 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-the-best-mobile-proxy-service-provider-to-target-us-audience.1693825/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 10:06:03,974 - INFO - Extracted thread title: www.blackhatworld.com
+2025-03-11 10:06:03,975 - DEBUG - Scrolling page 4 times.
+2025-03-11 10:06:03,975 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:06:05,947 - DEBUG - Page scrolled.
+2025-03-11 10:06:07,949 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:06:09,587 - DEBUG - Page scrolled.
+2025-03-11 10:06:11,589 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:06:13,026 - DEBUG - Page scrolled.
+2025-03-11 10:06:15,027 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:06:19,177 - DEBUG - Page scrolled.
+2025-03-11 10:06:21,179 - DEBUG - Random scrolls complete.
+2025-03-11 10:06:23,618 - DEBUG - Scrolling page 3 times.
+2025-03-11 10:06:23,619 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:06:25,111 - DEBUG - Page scrolled.
+2025-03-11 10:06:28,112 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:06:29,285 - DEBUG - Page scrolled.
+2025-03-11 10:06:32,288 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:06:34,094 - DEBUG - Page scrolled.
+2025-03-11 10:06:37,097 - DEBUG - Random scrolls complete.
+2025-03-11 10:06:37,121 - DEBUG - Found 3 like buttons.
+2025-03-11 10:06:40,122 - INFO - Attempting to like 2 posts. There are 3 available.
+2025-03-11 10:06:40,806 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:06:40,831 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:06:40,833 - DEBUG - Liked post number 1 of 2.
+2025-03-11 10:06:46,120 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 10:06:46,140 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 10:06:46,141 - DEBUG - Liked post number 2 of 2.
+2025-03-11 10:06:50,397 - INFO - Liked 2 posts successfully.
+2025-03-11 10:06:50,398 - INFO - Liked 2 posts successfully.
+2025-03-11 10:06:53,327 - DEBUG - Scrolling page 5 times.
+2025-03-11 10:06:53,329 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:06:54,671 - DEBUG - Page scrolled.
+2025-03-11 10:06:57,674 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:06:58,722 - DEBUG - Page scrolled.
+2025-03-11 10:07:01,724 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:07:02,901 - DEBUG - Page scrolled.
+2025-03-11 10:07:05,904 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:07:07,161 - DEBUG - Page scrolled.
+2025-03-11 10:07:10,164 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 10:07:11,716 - DEBUG - Page scrolled.
+2025-03-11 10:07:14,719 - DEBUG - Random scrolls complete.
+2025-03-11 10:07:17,412 - DEBUG - Total comments in the thread: 3
+2025-03-11 10:07:20,764 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-03-11 10:07:23,121 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 10:07:23,169 - DEBUG - Extracted main post content: I have tried many websites that sell mobile proxies, and most of them were bad, with frequent disconnections and very slow speeds. I want your experience—what is the best mobile proxy service provider that works excellently for targeting the American audience on TikTok? Let’s benefit from our experiences. Imagine the benefits we could gain by sharing each one of our experiences.
+Here’s the translation of your text into English:
+
+I'll start with myself, the bad experience:
+GridPanel: Poor quality proxy, worst customer service
+Proxy-Seller: very frequent internet disconnections with slow internet speed.
+I am also still testing some other service providers and will update the topic. Please share your experience with a mobile proxy service provider only.
+2025-03-11 10:07:28,438 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 10:07:28,440 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 10:07:30,963 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:07:30,966 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:07:31,000 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:07:31,050 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 10:07:31,059 - DEBUG - Text box scrolled into view
+2025-03-11 10:07:31,750 - DEBUG - Initializing actionchains
+2025-03-11 10:07:31,801 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2273}, size: {'height': 21, 'width': 68}
+2025-03-11 10:07:31,802 - DEBUG - Target click coordinates: (1121, 2283)
+2025-03-11 10:07:40,054 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 10:07:40,058 - DEBUG - Moving mouse to text box element.
+2025-03-11 10:07:40,061 - DEBUG - Clicking on the text box.
+2025-03-11 10:07:40,063 - DEBUG - Sending keys with content: Ugh, finding a reliable mobile proxy is a pain. I've heard good things about using a dedicated residential IP, might be worth looking into?
+
+2025-03-11 10:07:45,095 - DEBUG - Clicking on post reply button.
+2025-03-11 10:07:55,774 - DEBUG - Performed Actionchains
+2025-03-11 10:07:55,776 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 10:07:59,779 - INFO - Comment posted successfully.
+2025-03-11 10:07:59,781 - INFO - Task Completed!!
+2025-03-11 10:08:06,252 - INFO - Navigated back to the homepage.
+2025-03-11 10:08:08,963 - INFO - Attempting to clear memory and resources.
+2025-03-11 10:08:09,002 - INFO - Garbage collection completed.
+2025-03-11 10:08:09,003 - INFO - Waiting for 100 seconds before next execution.

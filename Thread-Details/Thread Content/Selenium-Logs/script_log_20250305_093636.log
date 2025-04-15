@@ -1,0 +1,146 @@
+2025-03-05 09:36:33,088 - INFO - Loaded 34 subforum URLs from Sub-Forum-List.txt
+2025-03-05 09:36:33,089 - INFO - Loaded 36 visited threads from Thread_links.txt
+2025-03-05 09:36:33,090 - INFO - Successfully loaded links that was already visited!
+2025-03-05 09:36:34,073 - INFO - Successfully logged in.
+2025-03-05 09:36:36,595 - INFO - MultiLogin profile started on port 60845.
+2025-03-05 09:36:36,608 - INFO - Starting new automation task. Log file created at: Selenium-Logs\script_log_20250305_093636.log
+2025-03-05 09:36:36,608 - DEBUG - Scrolling page 4 times.
+2025-03-05 09:36:36,609 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:36:37,839 - DEBUG - Page scrolled.
+2025-03-05 09:36:39,839 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:36:41,859 - DEBUG - Page scrolled.
+2025-03-05 09:36:43,861 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:36:45,042 - DEBUG - Page scrolled.
+2025-03-05 09:36:47,043 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:36:48,779 - DEBUG - Page scrolled.
+2025-03-05 09:36:50,787 - DEBUG - Random scrolls complete.
+2025-03-05 09:36:53,356 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cryptocurrency.218/
+2025-03-05 09:36:57,410 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/where-should-i-put-my-usdt.1691770/unread
+2025-03-05 09:37:04,248 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/where-should-i-put-my-usdt.1691770/unread
+2025-03-05 09:37:04,251 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/where-should-i-put-my-usdt.1691770/unread' to visited threads file 'Thread_links.txt'.
+2025-03-05 09:37:04,297 - INFO - Extracted thread title: Where Should I Put My USDT
+2025-03-05 09:37:04,298 - DEBUG - Scrolling page 4 times.
+2025-03-05 09:37:04,299 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:05,722 - DEBUG - Page scrolled.
+2025-03-05 09:37:07,724 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:09,073 - DEBUG - Page scrolled.
+2025-03-05 09:37:11,075 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:12,306 - DEBUG - Page scrolled.
+2025-03-05 09:37:14,310 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:16,016 - DEBUG - Page scrolled.
+2025-03-05 09:37:18,018 - DEBUG - Random scrolls complete.
+2025-03-05 09:37:20,185 - DEBUG - Scrolling page 2 times.
+2025-03-05 09:37:20,186 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:22,076 - DEBUG - Page scrolled.
+2025-03-05 09:37:25,077 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:26,876 - DEBUG - Page scrolled.
+2025-03-05 09:37:29,877 - DEBUG - Random scrolls complete.
+2025-03-05 09:37:29,906 - DEBUG - Found 20 like buttons.
+2025-03-05 09:37:32,908 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-03-05 09:37:33,471 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 09:37:33,483 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 09:37:33,483 - DEBUG - Liked post number 1 of 2.
+2025-03-05 09:37:38,489 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-05 09:37:38,507 - INFO - Like button clicked successfully using JavaScript.
+2025-03-05 09:37:38,509 - DEBUG - Liked post number 2 of 2.
+2025-03-05 09:37:42,634 - INFO - Liked 2 posts successfully.
+2025-03-05 09:37:42,635 - INFO - Liked 2 posts successfully.
+2025-03-05 09:37:42,637 - DEBUG - Scrolling page 6 times.
+2025-03-05 09:37:42,638 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:43,990 - DEBUG - Page scrolled.
+2025-03-05 09:37:46,991 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:48,501 - DEBUG - Page scrolled.
+2025-03-05 09:37:51,503 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:53,177 - DEBUG - Page scrolled.
+2025-03-05 09:37:56,179 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:37:58,095 - DEBUG - Page scrolled.
+2025-03-05 09:38:01,097 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:38:02,779 - DEBUG - Page scrolled.
+2025-03-05 09:38:05,780 - DEBUG - Scrolling page by 500 pixels.
+2025-03-05 09:38:07,223 - DEBUG - Page scrolled.
+2025-03-05 09:38:10,224 - DEBUG - Random scrolls complete.
+2025-03-05 09:38:13,052 - DEBUG - Total comments in the thread: 20
+2025-03-05 09:39:04,663 - INFO - Post content extracted and saved to Thread-Details\Thread Content\Where Should I Put My USDT.txt
+2025-03-05 09:39:07,366 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-05 09:39:07,406 - DEBUG - Extracted main post content: Hello guys, I have approximately 3 thousand dollars, which coins are the best 100-300X returns in 2025?
+And what time is the perfect time for investment?
+2025-03-05 09:39:12,021 - INFO - Successfully generated comments using Gemini API.
+2025-03-05 09:39:12,024 - INFO - Comment saved to 'Thread-Details\API Comments\temp_comment.txt'.
+2025-03-05 09:39:12,026 - INFO - API comment generated and saved to Thread-Details\API Comments\Where Should I Put My USDT_Dude, with crypto, it's all a gamble, right Maybe.txt
+2025-03-05 09:39:14,466 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 09:39:14,467 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 09:39:14,494 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 09:39:14,541 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-05 09:39:14,552 - DEBUG - Text box scrolled into view
+2025-03-05 09:39:15,404 - DEBUG - Initializing actionchains
+2025-03-05 09:39:15,425 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6474}, size: {'height': 21, 'width': 68}
+2025-03-05 09:39:15,426 - DEBUG - Target click coordinates: (1121, 6484)
+2025-03-05 09:39:15,426 - DEBUG - Moving mouse from (101, 164) to (1121, 6484).
+2025-03-05 09:39:15,426 - DEBUG - Generating Bezier path from (101, 164) to (1121, 6484) with 50 points.
+2025-03-05 09:39:15,426 - DEBUG - Control point: (77, 172)
+2025-03-05 09:39:15,427 - DEBUG - Generated Bezier path with 50 points.
+2025-03-05 09:39:15,427 - DEBUG - Moved mouse to (101, 164), delay: 0.0000
+2025-03-05 09:39:15,430 - DEBUG - Moved mouse to (100, 166), delay: 0.0023
+2025-03-05 09:39:15,438 - DEBUG - Moved mouse to (100, 175), delay: 0.0071
+2025-03-05 09:39:15,447 - DEBUG - Moved mouse to (102, 188), delay: 0.0077
+2025-03-05 09:39:15,455 - DEBUG - Moved mouse to (104, 207), delay: 0.0074
+2025-03-05 09:39:15,467 - DEBUG - Moved mouse to (107, 231), delay: 0.0108
+2025-03-05 09:39:15,485 - DEBUG - Moved mouse to (111, 260), delay: 0.0166
+2025-03-05 09:39:15,504 - DEBUG - Moved mouse to (115, 294), delay: 0.0179
+2025-03-05 09:39:15,547 - DEBUG - Moved mouse to (121, 334), delay: 0.0224
+2025-03-05 09:39:15,573 - DEBUG - Moved mouse to (128, 379), delay: 0.0237
+2025-03-05 09:39:15,594 - DEBUG - Moved mouse to (135, 429), delay: 0.0191
+2025-03-05 09:39:15,617 - DEBUG - Moved mouse to (144, 485), delay: 0.0210
+2025-03-05 09:39:15,645 - DEBUG - Moved mouse to (153, 546), delay: 0.0280
+2025-03-05 09:39:15,679 - DEBUG - Moved mouse to (163, 611), delay: 0.0315
+2025-03-05 09:39:15,703 - DEBUG - Moved mouse to (174, 683), delay: 0.0210
+2025-03-05 09:39:15,728 - DEBUG - Moved mouse to (186, 759), delay: 0.0228
+2025-03-05 09:39:15,763 - DEBUG - Moved mouse to (199, 841), delay: 0.0324
+2025-03-05 09:39:15,791 - DEBUG - Moved mouse to (212, 928), delay: 0.0253
+2025-03-05 09:39:15,824 - DEBUG - Moved mouse to (227, 1020), delay: 0.0314
+2025-03-05 09:39:15,856 - DEBUG - Moved mouse to (242, 1118), delay: 0.0308
+2025-03-05 09:39:15,896 - DEBUG - Moved mouse to (259, 1220), delay: 0.0389
+2025-03-05 09:39:15,927 - DEBUG - Moved mouse to (276, 1328), delay: 0.0275
+2025-03-05 09:39:15,968 - DEBUG - Moved mouse to (294, 1441), delay: 0.0391
+2025-03-05 09:39:16,003 - DEBUG - Moved mouse to (313, 1560), delay: 0.0335
+2025-03-05 09:39:16,050 - DEBUG - Moved mouse to (333, 1684), delay: 0.0443
+2025-03-05 09:39:16,105 - DEBUG - Moved mouse to (354, 1813), delay: 0.0542
+2025-03-05 09:39:16,151 - DEBUG - Moved mouse to (376, 1947), delay: 0.0437
+2025-03-05 09:39:16,208 - DEBUG - Moved mouse to (398, 2086), delay: 0.0556
+2025-03-05 09:39:16,252 - DEBUG - Moved mouse to (422, 2231), delay: 0.0427
+2025-03-05 09:39:16,299 - DEBUG - Moved mouse to (446, 2381), delay: 0.0452
+2025-03-05 09:39:16,345 - DEBUG - Moved mouse to (471, 2536), delay: 0.0442
+2025-03-05 09:39:16,393 - DEBUG - Moved mouse to (498, 2697), delay: 0.0463
+2025-03-05 09:39:16,435 - DEBUG - Moved mouse to (525, 2863), delay: 0.0412
+2025-03-05 09:39:16,500 - DEBUG - Moved mouse to (553, 3034), delay: 0.0629
+2025-03-05 09:39:16,568 - DEBUG - Moved mouse to (581, 3210), delay: 0.0656
+2025-03-05 09:39:16,641 - DEBUG - Moved mouse to (611, 3391), delay: 0.0712
+2025-03-05 09:39:16,690 - DEBUG - Moved mouse to (642, 3578), delay: 0.0474
+2025-03-05 09:39:16,754 - DEBUG - Moved mouse to (673, 3770), delay: 0.0625
+2025-03-05 09:39:16,817 - DEBUG - Moved mouse to (706, 3967), delay: 0.0603
+2025-03-05 09:39:16,872 - DEBUG - Moved mouse to (739, 4170), delay: 0.0535
+2025-03-05 09:39:16,942 - DEBUG - Moved mouse to (773, 4377), delay: 0.0677
+2025-03-05 09:39:17,023 - DEBUG - Moved mouse to (808, 4590), delay: 0.0801
+2025-03-05 09:39:17,095 - DEBUG - Moved mouse to (844, 4809), delay: 0.0697
+2025-03-05 09:39:17,151 - DEBUG - Moved mouse to (881, 5032), delay: 0.0542
+2025-03-05 09:39:17,207 - DEBUG - Moved mouse to (919, 5261), delay: 0.0537
+2025-03-05 09:39:17,277 - DEBUG - Moved mouse to (957, 5495), delay: 0.0682
+2025-03-05 09:39:17,346 - DEBUG - Moved mouse to (997, 5734), delay: 0.0661
+2025-03-05 09:39:17,407 - DEBUG - Moved mouse to (1037, 5979), delay: 0.0597
+2025-03-05 09:39:17,466 - DEBUG - Moved mouse to (1078, 6228), delay: 0.0567
+2025-03-05 09:39:17,530 - DEBUG - Moved mouse to (1121, 6484), delay: 0.0628
+2025-03-05 09:39:17,531 - INFO - Successfully moved mouse to (1121, 6484) using Bezier curve.
+2025-03-05 09:39:17,533 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-05 09:39:17,534 - DEBUG - Moving mouse to text box element.
+2025-03-05 09:39:17,535 - DEBUG - Clicking on the text box.
+2025-03-05 09:39:17,539 - DEBUG - Sending keys with content: Dude, with crypto, it's all a gamble, right? Maybe look into projects with solid tech, but honestly, timing the market is just plain tough.
+
+2025-03-05 09:39:23,442 - DEBUG - Clicking on post reply button.
+2025-03-05 09:39:34,481 - DEBUG - Performed Actionchains
+2025-03-05 09:39:34,482 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-05 09:39:38,483 - INFO - Comment posted successfully.
+2025-03-05 09:39:38,485 - INFO - Task Completed!!
+2025-03-05 09:39:41,581 - INFO - Navigated back to the homepage.
+2025-03-05 09:39:43,715 - INFO - Attempting to clear memory and resources.
+2025-03-05 09:39:43,749 - INFO - Garbage collection completed.
+2025-03-05 09:39:43,750 - INFO - Waiting for 180 seconds before next execution.

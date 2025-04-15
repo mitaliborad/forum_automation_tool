@@ -1,0 +1,102 @@
+2025-03-11 09:34:02,159 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_093402.log
+2025-03-11 09:34:02,162 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 09:34:02,165 - INFO - Loaded 119 visited threads from Thread_links.txt
+2025-03-11 09:34:02,168 - INFO - Successfully loaded links that was already visited!
+2025-03-11 09:34:02,170 - DEBUG - Scrolling page 7 times.
+2025-03-11 09:34:02,172 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:03,870 - DEBUG - Page scrolled.
+2025-03-11 09:34:05,872 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:07,374 - DEBUG - Page scrolled.
+2025-03-11 09:34:09,379 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:11,226 - DEBUG - Page scrolled.
+2025-03-11 09:34:13,229 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:14,447 - DEBUG - Page scrolled.
+2025-03-11 09:34:16,451 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:17,501 - DEBUG - Page scrolled.
+2025-03-11 09:34:19,503 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:21,127 - DEBUG - Page scrolled.
+2025-03-11 09:34:23,130 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:24,965 - DEBUG - Page scrolled.
+2025-03-11 09:34:26,968 - DEBUG - Random scrolls complete.
+2025-03-11 09:34:26,970 - DEBUG - Scrolling page 6 times.
+2025-03-11 09:34:26,971 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:28,015 - DEBUG - Page scrolled.
+2025-03-11 09:34:30,018 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:31,419 - DEBUG - Page scrolled.
+2025-03-11 09:34:33,421 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:34,918 - DEBUG - Page scrolled.
+2025-03-11 09:34:36,920 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:38,702 - DEBUG - Page scrolled.
+2025-03-11 09:34:40,705 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:42,399 - DEBUG - Page scrolled.
+2025-03-11 09:34:44,402 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:34:45,546 - DEBUG - Page scrolled.
+2025-03-11 09:34:47,548 - DEBUG - Random scrolls complete.
+2025-03-11 09:34:52,847 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-03-11 09:34:58,155 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/whats-wrong-with-lospollos.1694412/unread
+2025-03-11 09:35:08,758 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/whats-wrong-with-lospollos.1694412/unread
+2025-03-11 09:35:08,760 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/whats-wrong-with-lospollos.1694412/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 09:35:08,820 - INFO - Extracted thread title: What's wrong with lospollos
+2025-03-11 09:35:08,822 - DEBUG - Scrolling page 3 times.
+2025-03-11 09:35:08,823 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:10,205 - DEBUG - Page scrolled.
+2025-03-11 09:35:12,208 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:13,933 - DEBUG - Page scrolled.
+2025-03-11 09:35:15,934 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:17,627 - DEBUG - Page scrolled.
+2025-03-11 09:35:19,630 - DEBUG - Random scrolls complete.
+2025-03-11 09:35:22,584 - DEBUG - Scrolling page 3 times.
+2025-03-11 09:35:22,585 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:23,604 - DEBUG - Page scrolled.
+2025-03-11 09:35:26,607 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:28,272 - DEBUG - Page scrolled.
+2025-03-11 09:35:31,297 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:33,262 - DEBUG - Page scrolled.
+2025-03-11 09:35:36,264 - DEBUG - Random scrolls complete.
+2025-03-11 09:35:36,291 - DEBUG - Found 6 like buttons.
+2025-03-11 09:35:39,292 - INFO - Attempting to like 1 posts. There are 6 available.
+2025-03-11 09:35:40,181 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 09:35:40,195 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 09:35:40,196 - DEBUG - Liked post number 1 of 1.
+2025-03-11 09:35:44,849 - INFO - Liked 1 posts successfully.
+2025-03-11 09:35:44,852 - INFO - Liked 1 posts successfully.
+2025-03-11 09:35:47,696 - DEBUG - Scrolling page 5 times.
+2025-03-11 09:35:47,699 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:48,783 - DEBUG - Page scrolled.
+2025-03-11 09:35:51,786 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:53,225 - DEBUG - Page scrolled.
+2025-03-11 09:35:56,228 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:35:58,012 - DEBUG - Page scrolled.
+2025-03-11 09:36:01,015 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:36:02,838 - DEBUG - Page scrolled.
+2025-03-11 09:36:05,841 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 09:36:07,270 - DEBUG - Page scrolled.
+2025-03-11 09:36:10,273 - DEBUG - Random scrolls complete.
+2025-03-11 09:36:12,511 - DEBUG - Total comments in the thread: 6
+2025-03-11 09:36:25,625 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What's wrong with lospollos.txt
+2025-03-11 09:36:28,338 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 09:36:28,367 - DEBUG - Extracted main post content: It used to convert much more easily, now it's more difficult, I know I'm not sending much traffic, but even so...
+2025-03-11 09:36:32,263 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 09:36:32,265 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 09:36:34,366 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:36:34,367 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:36:34,384 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:36:34,440 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 09:36:34,453 - DEBUG - Text box scrolled into view
+2025-03-11 09:36:35,174 - DEBUG - Initializing actionchains
+2025-03-11 09:36:35,281 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3167}, size: {'height': 21, 'width': 68}
+2025-03-11 09:36:35,282 - DEBUG - Target click coordinates: (1121, 3177)
+2025-03-11 09:36:46,017 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 09:36:46,019 - DEBUG - Moving mouse to text box element.
+2025-03-11 09:36:46,021 - DEBUG - Clicking on the text box.
+2025-03-11 09:36:46,023 - DEBUG - Sending keys with content: I feel your pain, the online world is always changing, its tough to keep up. Have you tried A/B testing different versions of your landing page?
+
+2025-03-11 09:36:51,954 - DEBUG - Clicking on post reply button.
+2025-03-11 09:37:03,014 - DEBUG - Performed Actionchains
+2025-03-11 09:37:03,015 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 09:37:07,016 - INFO - Comment posted successfully.
+2025-03-11 09:37:07,018 - INFO - Task Completed!!
+2025-03-11 09:37:15,948 - INFO - Navigated back to the homepage.
+2025-03-11 09:37:18,000 - INFO - Attempting to clear memory and resources.
+2025-03-11 09:37:18,055 - INFO - Garbage collection completed.
+2025-03-11 09:37:18,056 - INFO - Waiting for 10 seconds before next execution.

@@ -1,0 +1,93 @@
+2025-02-10 10:59:16,572 - INFO - Log file created at: Selenium-Logs\script_log_20250210_105916.log
+2025-02-10 10:59:17,736 - DEBUG - Chrome driver initialized.
+2025-02-10 10:59:20,951 - DEBUG - Navigating to URL.
+2025-02-10 10:59:21,921 - INFO - Navigated to https://www.blackhatworld.com/
+2025-02-10 10:59:21,923 - DEBUG - Scrolling page 6 times.
+2025-02-10 10:59:21,923 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 10:59:23,526 - DEBUG - Page scrolled.
+2025-02-10 10:59:25,526 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 10:59:27,101 - DEBUG - Page scrolled.
+2025-02-10 10:59:29,101 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 10:59:30,201 - DEBUG - Page scrolled.
+2025-02-10 10:59:32,203 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 10:59:33,915 - DEBUG - Page scrolled.
+2025-02-10 10:59:35,916 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 10:59:37,117 - DEBUG - Page scrolled.
+2025-02-10 10:59:39,118 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 10:59:40,276 - DEBUG - Page scrolled.
+2025-02-10 10:59:42,277 - DEBUG - Random scrolls complete.
+2025-02-10 10:59:43,637 - DEBUG - Element found, attempting to click using JavaScript: ('link text', 'Social Networking')
+2025-02-10 10:59:46,159 - INFO - Element clicked successfully using JavaScript: ('link text', 'Social Networking')
+2025-02-10 10:59:47,949 - INFO - Clicked Social Networking link successfully.
+2025-02-10 10:59:47,950 - DEBUG - Attempting to find element with locator: ('link text', 'Instagram')
+2025-02-10 10:59:48,033 - INFO - Element found after 1 scrolls: ('link text', 'Instagram')
+2025-02-10 10:59:49,537 - DEBUG - Element found, attempting to click using JavaScript: ('link text', 'Instagram')
+2025-02-10 10:59:51,135 - INFO - Element clicked successfully using JavaScript: ('link text', 'Instagram')
+2025-02-10 10:59:51,135 - INFO - Clicked Instagram link successfully.
+2025-02-10 10:59:53,476 - DEBUG - Scrolling page 1 times.
+2025-02-10 10:59:53,477 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 10:59:54,533 - DEBUG - Page scrolled.
+2025-02-10 10:59:56,534 - DEBUG - Random scrolls complete.
+2025-02-10 10:59:58,082 - DEBUG - Attempting to find element with locator: ('link text', 'Best Methods to Avoid Detection When Posting the Same Video on Multiple IG Accounts?')
+2025-02-10 10:59:58,136 - INFO - Element found after 1 scrolls: ('link text', 'Best Methods to Avoid Detection When Posting the Same Video on Multiple IG Accounts?')
+2025-02-10 11:00:00,701 - DEBUG - Element found, attempting to click using JavaScript: ('link text', 'Best Methods to Avoid Detection When Posting the Same Video on Multiple IG Accounts?')
+2025-02-10 11:00:01,994 - INFO - Element clicked successfully using JavaScript: ('link text', 'Best Methods to Avoid Detection When Posting the Same Video on Multiple IG Accounts?')
+2025-02-10 11:00:01,994 - INFO - Best Methods to Avoid Detection When Posting the Same Video on Multiple IG Accounts?
+2025-02-10 11:00:04,659 - DEBUG - Scrolling page 4 times.
+2025-02-10 11:00:04,660 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:00:06,404 - DEBUG - Page scrolled.
+2025-02-10 11:00:08,405 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:00:09,589 - DEBUG - Page scrolled.
+2025-02-10 11:00:11,590 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:00:13,065 - DEBUG - Page scrolled.
+2025-02-10 11:00:15,066 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:00:16,884 - DEBUG - Page scrolled.
+2025-02-10 11:00:18,885 - DEBUG - Random scrolls complete.
+2025-02-10 11:00:24,103 - INFO - Attempting to like 4 posts.
+2025-02-10 11:00:24,104 - DEBUG - Scrolling page 3 times.
+2025-02-10 11:00:24,104 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:00:25,312 - DEBUG - Page scrolled.
+2025-02-10 11:00:28,313 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:00:29,495 - DEBUG - Page scrolled.
+2025-02-10 11:00:32,495 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:00:33,804 - DEBUG - Page scrolled.
+2025-02-10 11:00:36,805 - DEBUG - Random scrolls complete.
+2025-02-10 11:00:36,841 - DEBUG - Found 9 like buttons.
+2025-02-10 11:00:37,531 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-10 11:00:37,543 - INFO - Like button clicked successfully using JavaScript.
+2025-02-10 11:00:37,544 - DEBUG - Liked post number 1 of 4.
+2025-02-10 11:00:42,770 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-10 11:00:42,787 - INFO - Like button clicked successfully using JavaScript.
+2025-02-10 11:00:42,788 - DEBUG - Liked post number 2 of 4.
+2025-02-10 11:00:48,460 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-10 11:00:48,469 - INFO - Like button clicked successfully using JavaScript.
+2025-02-10 11:00:48,469 - DEBUG - Liked post number 3 of 4.
+2025-02-10 11:00:52,786 - DEBUG - Scrolling page 3 times.
+2025-02-10 11:00:52,786 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:00:54,274 - DEBUG - Page scrolled.
+2025-02-10 11:00:57,275 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:00:58,444 - DEBUG - Page scrolled.
+2025-02-10 11:01:01,445 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:01:02,838 - DEBUG - Page scrolled.
+2025-02-10 11:01:05,839 - DEBUG - Random scrolls complete.
+2025-02-10 11:01:05,865 - DEBUG - Found 9 like buttons.
+2025-02-10 11:01:06,676 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-02-10 11:01:06,695 - INFO - Like button clicked successfully using JavaScript.
+2025-02-10 11:01:06,696 - DEBUG - Liked post number 4 of 4.
+2025-02-10 11:01:11,320 - INFO - Liked 4 posts successfully.
+2025-02-10 11:01:11,321 - DEBUG - Scrolling page 6 times.
+2025-02-10 11:01:11,321 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:01:12,453 - DEBUG - Page scrolled.
+2025-02-10 11:01:15,454 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:01:16,506 - DEBUG - Page scrolled.
+2025-02-10 11:01:19,506 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:01:20,588 - DEBUG - Page scrolled.
+2025-02-10 11:01:23,589 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:01:25,354 - DEBUG - Page scrolled.
+2025-02-10 11:01:28,356 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:01:29,517 - DEBUG - Page scrolled.
+2025-02-10 11:01:32,517 - DEBUG - Scrolling page by 500 pixels.
+2025-02-10 11:01:33,701 - DEBUG - Page scrolled.
+2025-02-10 11:01:36,702 - DEBUG - Random scrolls complete.
+2025-02-10 11:01:56,364 - INFO - Post content extracted and saved to Selenium-Logs\post_content_and_replies.txt
+2025-02-10 11:02:00,399 - INFO - Driver quit successfully.

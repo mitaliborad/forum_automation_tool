@@ -1,0 +1,90 @@
+2025-03-13 11:55:36,446 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_115536.log
+2025-03-13 11:55:36,453 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 11:55:36,480 - INFO - Loaded 181 visited threads from Thread_links.txt
+2025-03-13 11:55:36,487 - INFO - Successfully loaded links that was already visited!
+2025-03-13 11:55:36,489 - DEBUG - Scrolling page 3 times.
+2025-03-13 11:55:36,493 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:55:41,011 - DEBUG - Page scrolled.
+2025-03-13 11:55:43,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:55:44,926 - DEBUG - Page scrolled.
+2025-03-13 11:55:46,930 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:55:47,965 - DEBUG - Page scrolled.
+2025-03-13 11:55:49,967 - DEBUG - Random scrolls complete.
+2025-03-13 11:55:49,969 - DEBUG - Scrolling page 3 times.
+2025-03-13 11:55:49,973 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:55:51,727 - DEBUG - Page scrolled.
+2025-03-13 11:55:53,730 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:55:54,805 - DEBUG - Page scrolled.
+2025-03-13 11:55:56,806 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:55:58,768 - DEBUG - Page scrolled.
+2025-03-13 11:56:00,771 - DEBUG - Random scrolls complete.
+2025-03-13 11:56:07,108 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-03-13 11:56:11,689 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/looking-for-it-company-name-suggestion.1445998/unread
+2025-03-13 11:56:20,482 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/looking-for-it-company-name-suggestion.1445998/unread
+2025-03-13 11:56:20,486 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/looking-for-it-company-name-suggestion.1445998/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 11:56:20,564 - INFO - Extracted thread title: Looking for it company name suggestion
+2025-03-13 11:56:20,566 - DEBUG - Scrolling page 2 times.
+2025-03-13 11:56:20,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:56:22,400 - DEBUG - Page scrolled.
+2025-03-13 11:56:24,402 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:56:26,288 - DEBUG - Page scrolled.
+2025-03-13 11:56:28,291 - DEBUG - Random scrolls complete.
+2025-03-13 11:56:30,744 - DEBUG - Scrolling page 2 times.
+2025-03-13 11:56:30,747 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:56:32,725 - DEBUG - Page scrolled.
+2025-03-13 11:56:35,728 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:56:37,174 - DEBUG - Page scrolled.
+2025-03-13 11:56:40,177 - DEBUG - Random scrolls complete.
+2025-03-13 11:56:40,229 - DEBUG - Found 6 like buttons.
+2025-03-13 11:56:43,239 - INFO - Attempting to like 1 posts. There are 6 available.
+2025-03-13 11:56:44,117 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 11:56:44,163 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 11:56:44,172 - DEBUG - Liked post number 1 of 1.
+2025-03-13 11:56:48,984 - INFO - Liked 1 posts successfully.
+2025-03-13 11:56:48,987 - INFO - Liked 1 posts successfully.
+2025-03-13 11:56:51,295 - DEBUG - Scrolling page 7 times.
+2025-03-13 11:56:51,297 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:56:53,170 - DEBUG - Page scrolled.
+2025-03-13 11:56:56,173 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:56:57,588 - DEBUG - Page scrolled.
+2025-03-13 11:57:00,590 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:02,342 - DEBUG - Page scrolled.
+2025-03-13 11:57:05,344 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:06,529 - DEBUG - Page scrolled.
+2025-03-13 11:57:09,532 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:11,146 - DEBUG - Page scrolled.
+2025-03-13 11:57:14,149 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:15,357 - DEBUG - Page scrolled.
+2025-03-13 11:57:18,360 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 11:57:19,766 - DEBUG - Page scrolled.
+2025-03-13 11:57:22,772 - DEBUG - Random scrolls complete.
+2025-03-13 11:57:25,200 - DEBUG - Total comments in the thread: 6
+2025-03-13 11:58:07,456 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Looking for it company name suggestion.txt
+2025-03-13 11:58:09,470 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 11:58:09,501 - DEBUG - Extracted main post content: Hi all friends
+I am looking for it company name. I have a big team to work so now i want to build up a company but can't take dissition about company name. Can you suggest something
+Thank you
+2025-03-13 11:58:12,797 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 11:58:12,801 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 11:58:14,968 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:58:14,970 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:58:15,008 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:58:15,073 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 11:58:15,083 - DEBUG - Text box scrolled into view
+2025-03-13 11:58:15,975 - DEBUG - Initializing actionchains
+2025-03-13 11:58:16,032 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2623}, size: {'height': 21, 'width': 68}
+2025-03-13 11:58:16,035 - DEBUG - Target click coordinates: (1121, 2633)
+2025-03-13 11:58:25,564 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 11:58:25,569 - DEBUG - Moving mouse to text box element.
+2025-03-13 11:58:25,571 - DEBUG - Clicking on the text box.
+2025-03-13 11:58:25,573 - DEBUG - Sending keys with content: Coming up with a good name is tough! What services will the company provide, and what kind of vibe are you going for?
+
+2025-03-13 11:58:31,098 - DEBUG - Clicking on post reply button.
+2025-03-13 11:58:42,139 - DEBUG - Performed Actionchains
+2025-03-13 11:58:42,139 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 11:58:46,141 - INFO - Comment posted successfully.
+2025-03-13 11:58:46,143 - INFO - Task Completed!!
+2025-03-13 11:58:59,494 - INFO - Navigated back to the homepage.
+2025-03-13 11:59:02,277 - INFO - Attempting to clear memory and resources.
+2025-03-13 11:59:02,359 - INFO - Garbage collection completed.
+2025-03-13 11:59:02,361 - INFO - Waiting for 10 seconds before next execution.

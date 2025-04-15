@@ -1,0 +1,98 @@
+2025-03-11 11:33:55,375 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250311_113355.log
+2025-03-11 11:33:55,377 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 11:33:55,380 - INFO - Loaded 131 visited threads from Thread_links.txt
+2025-03-11 11:33:55,381 - INFO - Successfully loaded links that was already visited!
+2025-03-11 11:33:55,382 - DEBUG - Scrolling page 3 times.
+2025-03-11 11:33:55,382 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:33:57,469 - DEBUG - Page scrolled.
+2025-03-11 11:33:59,470 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:00,886 - DEBUG - Page scrolled.
+2025-03-11 11:34:02,889 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:03,952 - DEBUG - Page scrolled.
+2025-03-11 11:34:05,956 - DEBUG - Random scrolls complete.
+2025-03-11 11:34:05,957 - DEBUG - Scrolling page 5 times.
+2025-03-11 11:34:05,958 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:07,427 - DEBUG - Page scrolled.
+2025-03-11 11:34:09,429 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:11,363 - DEBUG - Page scrolled.
+2025-03-11 11:34:13,365 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:15,046 - DEBUG - Page scrolled.
+2025-03-11 11:34:17,048 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:18,735 - DEBUG - Page scrolled.
+2025-03-11 11:34:20,738 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:22,209 - DEBUG - Page scrolled.
+2025-03-11 11:34:24,211 - DEBUG - Random scrolls complete.
+2025-03-11 11:34:30,588 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-03-11 11:34:35,088 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/hi-bhw.1694339/unread
+2025-03-11 11:34:50,332 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/hi-bhw.1694339/unread
+2025-03-11 11:34:50,338 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/hi-bhw.1694339/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 11:34:50,400 - INFO - Extracted thread title: Hi BHW
+2025-03-11 11:34:50,401 - DEBUG - Scrolling page 3 times.
+2025-03-11 11:34:50,404 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:51,669 - DEBUG - Page scrolled.
+2025-03-11 11:34:53,670 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:54,743 - DEBUG - Page scrolled.
+2025-03-11 11:34:56,744 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:34:57,896 - DEBUG - Page scrolled.
+2025-03-11 11:34:59,898 - DEBUG - Random scrolls complete.
+2025-03-11 11:35:02,244 - DEBUG - Scrolling page 2 times.
+2025-03-11 11:35:02,246 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:03,667 - DEBUG - Page scrolled.
+2025-03-11 11:35:06,669 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:08,068 - DEBUG - Page scrolled.
+2025-03-11 11:35:11,070 - DEBUG - Random scrolls complete.
+2025-03-11 11:35:11,097 - DEBUG - Found 5 like buttons.
+2025-03-11 11:35:14,098 - INFO - Attempting to like 1 posts. There are 5 available.
+2025-03-11 11:35:15,066 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 11:35:15,079 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 11:35:15,080 - DEBUG - Liked post number 1 of 1.
+2025-03-11 11:35:20,009 - INFO - Liked 1 posts successfully.
+2025-03-11 11:35:20,012 - INFO - Liked 1 posts successfully.
+2025-03-11 11:35:22,255 - DEBUG - Scrolling page 5 times.
+2025-03-11 11:35:22,257 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:23,670 - DEBUG - Page scrolled.
+2025-03-11 11:35:26,672 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:28,279 - DEBUG - Page scrolled.
+2025-03-11 11:35:31,280 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:32,969 - DEBUG - Page scrolled.
+2025-03-11 11:35:35,972 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:37,349 - DEBUG - Page scrolled.
+2025-03-11 11:35:40,353 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:35:41,876 - DEBUG - Page scrolled.
+2025-03-11 11:35:44,880 - DEBUG - Random scrolls complete.
+2025-03-11 11:35:47,312 - DEBUG - Total comments in the thread: 5
+2025-03-11 11:36:29,084 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Hi BHW.txt
+2025-03-11 11:36:31,587 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 11:36:31,615 - DEBUG - Extracted main post content: Hello everyone at BHW!
+
+I'm Bruny. I just joined the community after lurking for too long. Been dabbling in digital marketing for a bit and figured it was time to actually connect with people who know their stuff.
+
+Mainly interested in SEO and content strategies, but open to learning whatever I can pick up. Still pretty green in some areas but eager to learn.
+
+Looking forward to chatting with you all and soaking up some knowledge!
+
+Bruny
+2025-03-11 11:36:36,437 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 11:36:36,441 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 11:36:38,826 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:36:38,828 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:36:38,861 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:36:38,915 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:36:38,928 - DEBUG - Text box scrolled into view
+2025-03-11 11:36:39,691 - DEBUG - Initializing actionchains
+2025-03-11 11:36:39,731 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3010}, size: {'height': 21, 'width': 68}
+2025-03-11 11:36:39,731 - DEBUG - Target click coordinates: (1121, 3020)
+2025-03-11 11:36:49,753 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 11:36:49,755 - DEBUG - Moving mouse to text box element.
+2025-03-11 11:36:49,756 - DEBUG - Clicking on the text box.
+2025-03-11 11:36:49,757 - DEBUG - Sending keys with content: Hey Bruny, welcome to the forum!  SEO's a beast, but you've come to the right place to learn the ropes.
+
+2025-03-11 11:36:54,894 - DEBUG - Clicking on post reply button.
+2025-03-11 11:37:02,109 - DEBUG - Performed Actionchains
+2025-03-11 11:37:02,110 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 11:37:06,112 - INFO - Comment posted successfully.
+2025-03-11 11:37:06,114 - INFO - Task Completed!!
+2025-03-11 11:37:09,735 - INFO - Navigated back to the homepage.
+2025-03-11 11:37:12,000 - INFO - Attempting to clear memory and resources.
+2025-03-11 11:37:12,039 - INFO - Garbage collection completed.
+2025-03-11 11:37:12,041 - INFO - Waiting for 100 seconds before next execution.

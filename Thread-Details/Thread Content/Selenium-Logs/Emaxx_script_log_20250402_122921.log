@@ -1,0 +1,84 @@
+2025-04-02 12:29:21,987 - INFO - Current time: 1743577161.9872925
+2025-04-02 12:29:21,989 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 12:29:21,991 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 12:29:21,993 - INFO - performing random action
+2025-04-02 12:29:21,996 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 12:29:21,997 - DEBUG - Scrolling page 2 times.
+2025-04-02 12:29:21,999 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:29:23,044 - DEBUG - Page scrolled.
+2025-04-02 12:29:25,045 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:29:26,426 - DEBUG - Page scrolled.
+2025-04-02 12:29:28,429 - DEBUG - Random scrolls complete.
+2025-04-02 12:29:28,431 - DEBUG - Scrolling page 2 times.
+2025-04-02 12:29:28,431 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:29:29,718 - DEBUG - Page scrolled.
+2025-04-02 12:29:31,721 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:29:33,031 - DEBUG - Page scrolled.
+2025-04-02 12:29:35,032 - DEBUG - Random scrolls complete.
+2025-04-02 12:29:43,756 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-02 12:29:48,161 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/question-about-webpays.1576236/unread
+2025-04-02 12:29:48,162 - INFO - performing random action
+2025-04-02 12:29:55,948 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/question-about-webpays.1576236/unread
+2025-04-02 12:29:55,950 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/question-about-webpays.1576236/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 12:29:55,977 - INFO - Extracted thread title: Question about webpays
+2025-04-02 12:29:55,977 - DEBUG - Scrolling page 2 times.
+2025-04-02 12:29:55,978 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:29:57,575 - DEBUG - Page scrolled.
+2025-04-02 12:29:59,578 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:30:01,020 - DEBUG - Page scrolled.
+2025-04-02 12:30:03,023 - DEBUG - Random scrolls complete.
+2025-04-02 12:30:05,224 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:30:05,226 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:30:06,399 - DEBUG - Page scrolled.
+2025-04-02 12:30:09,401 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:30:10,854 - DEBUG - Page scrolled.
+2025-04-02 12:30:13,856 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:30:15,773 - DEBUG - Page scrolled.
+2025-04-02 12:30:18,775 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:30:19,860 - DEBUG - Page scrolled.
+2025-04-02 12:30:22,862 - DEBUG - Random scrolls complete.
+2025-04-02 12:30:22,909 - DEBUG - Found 5 like buttons.
+2025-04-02 12:30:25,916 - INFO - Attempting to like 1 posts. There are 5 available.
+2025-04-02 12:30:26,533 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:30:26,573 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:30:26,576 - DEBUG - Liked post number 1 of 1.
+2025-04-02 12:30:30,710 - INFO - Liked 1 posts successfully.
+2025-04-02 12:30:30,719 - INFO - Liked 1 posts successfully.
+2025-04-02 12:30:33,243 - INFO - performing random action
+2025-04-02 12:30:33,245 - DEBUG - Scrolling page 3 times.
+2025-04-02 12:30:33,247 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:30:35,153 - DEBUG - Page scrolled.
+2025-04-02 12:30:38,161 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:30:39,940 - DEBUG - Page scrolled.
+2025-04-02 12:30:42,942 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:30:44,789 - DEBUG - Page scrolled.
+2025-04-02 12:30:47,793 - DEBUG - Random scrolls complete.
+2025-04-02 12:30:50,903 - DEBUG - Total comments in the thread: 5
+2025-04-02 12:31:21,892 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Question about webpays.txt
+2025-04-02 12:31:24,674 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 12:31:24,712 - DEBUG - Extracted main post content: Hi guys , my high risk company just get accepted from webpays ,did anyone here works with them? Are trusted? Thanks in advance
+2025-04-02 12:31:27,944 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 12:31:27,946 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 12:31:29,996 - INFO - performing random action
+2025-04-02 12:31:29,998 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:31:30,000 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:31:30,022 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:31:30,065 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:31:30,075 - DEBUG - Text box scrolled into view
+2025-04-02 12:31:30,779 - DEBUG - Initializing actionchains
+2025-04-02 12:31:30,835 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2406}, size: {'height': 21, 'width': 68}
+2025-04-02 12:31:30,835 - DEBUG - Target click coordinates: (1121, 2416)
+2025-04-02 12:31:39,553 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 12:31:39,555 - DEBUG - Moving mouse to text box element.
+2025-04-02 12:31:39,557 - DEBUG - Clicking on the text box.
+2025-04-02 12:31:39,559 - DEBUG - Sending keys with content: Never heard of them myself, but maybe run a search for reviews and see if anything pops up? Might give you some peace of mind.
+
+2025-04-02 12:31:44,635 - DEBUG - Clicking on post reply button.
+2025-04-02 12:31:55,647 - DEBUG - Performed Actionchains
+2025-04-02 12:31:55,648 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 12:31:59,649 - INFO - Comment posted successfully.
+2025-04-02 12:31:59,652 - INFO - Task Completed!!
+2025-04-02 12:32:10,216 - INFO - Navigated back to the homepage.
+2025-04-02 12:32:12,489 - INFO - Attempting to clear memory and resources.
+2025-04-02 12:32:12,538 - INFO - Garbage collection completed.
+2025-04-02 12:32:12,539 - INFO - Waiting for 2000 seconds before next execution.

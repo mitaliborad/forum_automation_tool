@@ -1,0 +1,119 @@
+2025-04-14 12:49:39,694 - INFO - Current time: 1744615179.6948662
+2025-04-14 12:49:39,697 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 12:49:39,698 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 12:49:39,700 - INFO - Profile DataPhreak: Restoring window...
+2025-04-14 12:49:41,718 - INFO - performing random action
+2025-04-14 12:49:41,720 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:49:41,722 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:49:41,723 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:49:43,627 - DEBUG - Page scrolled.
+2025-04-14 12:49:45,630 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:49:46,991 - DEBUG - Page scrolled.
+2025-04-14 12:49:48,993 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:49:50,853 - DEBUG - Page scrolled.
+2025-04-14 12:49:52,857 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:49:54,271 - DEBUG - Page scrolled.
+2025-04-14 12:49:56,272 - DEBUG - Random scrolls complete.
+2025-04-14 12:49:56,273 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:49:56,274 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:49:58,062 - DEBUG - Page scrolled.
+2025-04-14 12:50:00,065 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:01,790 - DEBUG - Page scrolled.
+2025-04-14 12:50:03,798 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:05,290 - DEBUG - Page scrolled.
+2025-04-14 12:50:07,292 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:09,265 - DEBUG - Page scrolled.
+2025-04-14 12:50:11,267 - DEBUG - Random scrolls complete.
+2025-04-14 12:50:19,123 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/video-production.170/
+2025-04-14 12:50:23,552 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-apply-a-photo-frame-effect-to-a-video.1677462/
+2025-04-14 12:50:23,552 - INFO - performing random action
+2025-04-14 12:50:33,246 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-apply-a-photo-frame-effect-to-a-video.1677462/
+2025-04-14 12:50:33,247 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-apply-a-photo-frame-effect-to-a-video.1677462/' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:50:33,275 - INFO - Extracted thread title: How to apply a photo frame effect to a video 
+2025-04-14 12:50:33,275 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:50:33,275 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:35,222 - DEBUG - Page scrolled.
+2025-04-14 12:50:37,224 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:38,436 - DEBUG - Page scrolled.
+2025-04-14 12:50:40,437 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:41,653 - DEBUG - Page scrolled.
+2025-04-14 12:50:43,655 - DEBUG - Random scrolls complete.
+2025-04-14 12:50:46,429 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:50:46,431 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:47,901 - DEBUG - Page scrolled.
+2025-04-14 12:50:50,903 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:50:52,413 - DEBUG - Page scrolled.
+2025-04-14 12:50:55,416 - DEBUG - Random scrolls complete.
+2025-04-14 12:50:55,451 - DEBUG - Found 10 like buttons.
+2025-04-14 12:50:58,454 - INFO - Attempting to like 3 posts. There are 10 available.
+2025-04-14 12:50:59,411 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:50:59,449 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:50:59,450 - DEBUG - Liked post number 1 of 3.
+2025-04-14 12:51:04,859 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:51:04,888 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:51:04,895 - DEBUG - Liked post number 2 of 3.
+2025-04-14 12:51:10,547 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:51:10,568 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:51:10,570 - DEBUG - Liked post number 3 of 3.
+2025-04-14 12:51:14,720 - INFO - Liked 3 posts successfully.
+2025-04-14 12:51:14,722 - INFO - Liked 3 posts successfully.
+2025-04-14 12:51:17,227 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-14 12:51:25,417 - INFO - Profile DataPhreak: Pausing for 47.79 seconds...
+2025-04-14 12:52:13,209 - INFO - Profile DataPhreak: Resuming...
+2025-04-14 12:52:13,222 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-14 12:52:13,227 - INFO - performing random action
+2025-04-14 12:52:13,240 - DEBUG - Scrolling page 5 times.
+2025-04-14 12:52:13,241 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:14,426 - DEBUG - Page scrolled.
+2025-04-14 12:52:17,429 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:19,246 - DEBUG - Page scrolled.
+2025-04-14 12:52:22,250 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:24,022 - DEBUG - Page scrolled.
+2025-04-14 12:52:27,023 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:28,476 - DEBUG - Page scrolled.
+2025-04-14 12:52:31,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:52:33,041 - DEBUG - Page scrolled.
+2025-04-14 12:52:36,043 - DEBUG - Random scrolls complete.
+2025-04-14 12:52:38,891 - DEBUG - Total comments in the thread: 10
+2025-04-14 12:53:50,448 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to apply a photo frame effect to a video .txt
+2025-04-14 12:53:52,763 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:53:52,809 - DEBUG - Extracted main post content: Hi everyone!
+
+I'm working on a video project and would like to add a photo frame effect over my video, as shown in the attached example.
+
+
+
+The goal is to create the impression that the video is "framed" by visual elements to bypass TikTok's algorithm. I've done some research online, but I haven't found a method to achieve this. Does anyone have advice or tutorials on how to do this?
+
+Here’s what I have in mind:
+
+- A fixed frame surrounding the video.
+- The video should fit inside the frame and be tilted by 3%.
+- Ideally, I’d like to be able to customize the frame with different photos.
+
+I’m using DaVinci Resolve, but Canva seems more suitable for this type of manipulation. However, I’m open to other tools if necessary. Thanks in advance for your help! If you have any examples or useful links, I’d love to see them!
+2025-04-14 12:53:56,015 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:53:56,017 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:53:58,632 - INFO - performing random action
+2025-04-14 12:53:58,637 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:53:58,639 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:53:58,682 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:53:58,743 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:53:58,752 - DEBUG - Text box scrolled into view
+2025-04-14 12:53:59,330 - DEBUG - Initializing actionchains
+2025-04-14 12:53:59,403 - DEBUG - Post reply Element location: {'x': 1231, 'y': 5624}, size: {'height': 21, 'width': 68}
+2025-04-14 12:53:59,405 - DEBUG - Target click coordinates: (1265, 5634)
+2025-04-14 12:54:14,726 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:54:14,728 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:54:14,729 - DEBUG - Clicking on the text box.
+2025-04-14 12:54:14,732 - DEBUG - Sending keys with content: Forget Canva, Resolve can totally handle this. Try using the transform tool and a PNG overlay, it should give you that framed look.
+
+2025-04-14 12:54:20,090 - DEBUG - Clicking on post reply button.
+2025-04-14 12:54:31,371 - DEBUG - Performed Actionchains
+2025-04-14 12:54:31,371 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:54:35,373 - INFO - Comment posted successfully.
+2025-04-14 12:54:35,375 - INFO - Task Completed!!
+2025-04-14 12:55:16,533 - INFO - Navigated back to the homepage.
+2025-04-14 12:55:19,527 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:55:19,578 - INFO - Garbage collection completed.
+2025-04-14 12:55:19,579 - INFO - Waiting for 2200 seconds before next execution.

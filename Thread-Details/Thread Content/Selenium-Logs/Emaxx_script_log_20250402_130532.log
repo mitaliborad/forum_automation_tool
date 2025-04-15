@@ -1,0 +1,101 @@
+2025-04-02 13:05:32,542 - INFO - Current time: 1743579332.542802
+2025-04-02 13:05:32,544 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:05:32,545 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:05:32,546 - INFO - performing random action
+2025-04-02 13:05:32,592 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:05:32,593 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:05:32,594 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:05:34,187 - DEBUG - Page scrolled.
+2025-04-02 13:05:36,188 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:05:37,748 - DEBUG - Page scrolled.
+2025-04-02 13:05:39,749 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:05:41,640 - DEBUG - Page scrolled.
+2025-04-02 13:05:43,641 - DEBUG - Random scrolls complete.
+2025-04-02 13:05:43,676 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:05:43,678 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:05:45,377 - DEBUG - Page scrolled.
+2025-04-02 13:05:47,378 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:05:48,703 - DEBUG - Page scrolled.
+2025-04-02 13:05:50,704 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:05:52,140 - DEBUG - Page scrolled.
+2025-04-02 13:05:54,142 - DEBUG - Random scrolls complete.
+2025-04-02 13:06:03,386 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-02 13:06:07,135 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-there-such-a-service-for-ad-sense-approval.1697790/unread
+2025-04-02 13:06:07,137 - INFO - performing random action
+2025-04-02 13:06:15,683 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-there-such-a-service-for-ad-sense-approval.1697790/unread
+2025-04-02 13:06:15,715 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-there-such-a-service-for-ad-sense-approval.1697790/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 13:06:15,758 - INFO - Extracted thread title: Is there such a service For AD-sense Approval
+2025-04-02 13:06:15,759 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:06:15,759 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:06:16,778 - DEBUG - Page scrolled.
+2025-04-02 13:06:18,779 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:06:19,857 - DEBUG - Page scrolled.
+2025-04-02 13:06:21,859 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:06:23,495 - DEBUG - Page scrolled.
+2025-04-02 13:06:25,496 - DEBUG - Random scrolls complete.
+2025-04-02 13:06:28,246 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:06:28,250 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:06:29,968 - DEBUG - Page scrolled.
+2025-04-02 13:06:32,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:06:34,852 - DEBUG - Page scrolled.
+2025-04-02 13:06:37,854 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:06:39,750 - DEBUG - Page scrolled.
+2025-04-02 13:06:42,752 - DEBUG - Random scrolls complete.
+2025-04-02 13:06:42,782 - DEBUG - Found 2 like buttons.
+2025-04-02 13:06:45,783 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-02 13:06:46,739 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:06:46,754 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:06:46,754 - DEBUG - Liked post number 1 of 2.
+2025-04-02 13:06:52,198 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:06:52,217 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:06:52,218 - DEBUG - Liked post number 2 of 2.
+2025-04-02 13:06:57,087 - INFO - Liked 2 posts successfully.
+2025-04-02 13:06:57,089 - INFO - Liked 2 posts successfully.
+2025-04-02 13:06:59,734 - INFO - performing random action
+2025-04-02 13:06:59,737 - DEBUG - Scrolling page 7 times.
+2025-04-02 13:06:59,740 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:07:01,322 - DEBUG - Page scrolled.
+2025-04-02 13:07:04,324 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:07:06,139 - DEBUG - Page scrolled.
+2025-04-02 13:07:09,141 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:07:11,020 - DEBUG - Page scrolled.
+2025-04-02 13:07:14,022 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:07:16,024 - DEBUG - Page scrolled.
+2025-04-02 13:07:19,025 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:07:20,295 - DEBUG - Page scrolled.
+2025-04-02 13:07:23,297 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:07:24,772 - DEBUG - Page scrolled.
+2025-04-02 13:07:27,775 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:07:28,795 - DEBUG - Page scrolled.
+2025-04-02 13:07:31,797 - DEBUG - Random scrolls complete.
+2025-04-02 13:07:34,109 - DEBUG - Total comments in the thread: 2
+2025-04-02 13:07:34,282 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is there such a service For AD-sense Approval.txt
+2025-04-02 13:07:36,307 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 13:07:36,343 - DEBUG - Extracted main post content: So, I have AdSense account and would like to purchase domain, Is there a service that can Deal with the posts and approval process of AdSense ?
+
+I have had, websites aproved in the past, but last time it was rejected for a site that I have put too much effort in and I am hesitant in going through the process just to be rejected, So would rather pay for someone else who is updated on the matter, to do that for me
+2025-04-02 13:07:40,019 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 13:07:40,022 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 13:07:42,917 - INFO - performing random action
+2025-04-02 13:07:42,920 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:07:42,922 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:07:42,948 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:07:42,987 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:07:42,994 - DEBUG - Text box scrolled into view
+2025-04-02 13:07:43,561 - DEBUG - Initializing actionchains
+2025-04-02 13:07:43,615 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1715}, size: {'height': 21, 'width': 68}
+2025-04-02 13:07:43,616 - DEBUG - Target click coordinates: (1121, 1725)
+2025-04-02 13:07:50,746 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 13:07:50,748 - DEBUG - Moving mouse to text box element.
+2025-04-02 13:07:50,750 - DEBUG - Clicking on the text box.
+2025-04-02 13:07:50,757 - DEBUG - Sending keys with content: Honestly, getting approved these days feels like a lottery sometimes. Instead of paying someone, have you tried really focusing on super high-quality, original content that solves a specific problem? Google's gotten way better at sniffing out thin content.
+
+2025-04-02 13:07:56,580 - DEBUG - Clicking on post reply button.
+2025-04-02 13:08:07,803 - DEBUG - Performed Actionchains
+2025-04-02 13:08:07,804 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 13:08:11,805 - INFO - Comment posted successfully.
+2025-04-02 13:08:11,807 - INFO - Task Completed!!
+2025-04-02 13:08:26,213 - INFO - Navigated back to the homepage.
+2025-04-02 13:08:28,702 - INFO - Attempting to clear memory and resources.
+2025-04-02 13:08:28,733 - INFO - Garbage collection completed.
+2025-04-02 13:08:28,734 - INFO - Waiting for 2000 seconds before next execution.

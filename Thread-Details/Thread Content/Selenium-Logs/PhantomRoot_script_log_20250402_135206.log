@@ -1,0 +1,42 @@
+2025-04-02 13:52:06,226 - INFO - Current time: 1743582126.226158
+2025-04-02 13:52:06,227 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:52:06,228 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:52:06,229 - INFO - performing random action
+2025-04-02 13:52:06,230 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:52:06,231 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:52:06,232 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:08,173 - DEBUG - Page scrolled.
+2025-04-02 13:52:10,174 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:12,040 - DEBUG - Page scrolled.
+2025-04-02 13:52:14,042 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:15,700 - DEBUG - Page scrolled.
+2025-04-02 13:52:17,702 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:19,571 - DEBUG - Page scrolled.
+2025-04-02 13:52:21,573 - DEBUG - Random scrolls complete.
+2025-04-02 13:52:21,575 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:52:21,575 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:22,853 - DEBUG - Page scrolled.
+2025-04-02 13:52:24,855 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:26,820 - DEBUG - Page scrolled.
+2025-04-02 13:52:28,823 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:52:29,996 - DEBUG - Page scrolled.
+2025-04-02 13:52:31,998 - DEBUG - Random scrolls complete.
+2025-04-02 13:52:38,808 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-02 13:52:49,215 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:52:49,231 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-02 13:52:49,234 - INFO - Profile PhantomRoot: Window minimized. Pausing for 27.41 seconds...
+2025-04-02 13:53:16,646 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-02 13:53:16,647 - INFO - performing random action
+2025-04-02 13:53:16,648 - WARNING - Skipping thread processing due to no thread link being found in subforum.

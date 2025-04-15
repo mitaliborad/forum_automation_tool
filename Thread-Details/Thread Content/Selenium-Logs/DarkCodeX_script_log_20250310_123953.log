@@ -1,0 +1,93 @@
+2025-03-10 12:39:53,642 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250310_123953.log
+2025-03-10 12:39:53,650 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-10 12:39:53,653 - INFO - Loaded 113 visited threads from Thread_links.txt
+2025-03-10 12:39:53,655 - INFO - Successfully loaded links that was already visited!
+2025-03-10 12:39:53,658 - DEBUG - Scrolling page 3 times.
+2025-03-10 12:39:53,659 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:39:55,189 - DEBUG - Page scrolled.
+2025-03-10 12:39:57,191 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:39:58,869 - DEBUG - Page scrolled.
+2025-03-10 12:40:00,871 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:01,945 - DEBUG - Page scrolled.
+2025-03-10 12:40:03,947 - DEBUG - Random scrolls complete.
+2025-03-10 12:40:03,950 - DEBUG - Scrolling page 4 times.
+2025-03-10 12:40:03,951 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:05,866 - DEBUG - Page scrolled.
+2025-03-10 12:40:07,868 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:09,073 - DEBUG - Page scrolled.
+2025-03-10 12:40:11,075 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:12,229 - DEBUG - Page scrolled.
+2025-03-10 12:40:14,232 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:15,897 - DEBUG - Page scrolled.
+2025-03-10 12:40:17,898 - DEBUG - Random scrolls complete.
+2025-03-10 12:40:28,376 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cryptocurrency.218/
+2025-03-10 12:40:33,182 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/eth.1693757/unread
+2025-03-10 12:40:50,994 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/eth.1693757/unread
+2025-03-10 12:40:50,995 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/eth.1693757/unread' to visited threads file 'Thread_links.txt'.
+2025-03-10 12:40:51,026 - INFO - Extracted thread title: Eth
+2025-03-10 12:40:51,027 - DEBUG - Scrolling page 2 times.
+2025-03-10 12:40:51,028 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:52,657 - DEBUG - Page scrolled.
+2025-03-10 12:40:54,660 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:40:56,152 - DEBUG - Page scrolled.
+2025-03-10 12:40:58,154 - DEBUG - Random scrolls complete.
+2025-03-10 12:41:01,119 - DEBUG - Scrolling page 2 times.
+2025-03-10 12:41:01,121 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:02,148 - DEBUG - Page scrolled.
+2025-03-10 12:41:05,149 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:06,616 - DEBUG - Page scrolled.
+2025-03-10 12:41:09,618 - DEBUG - Random scrolls complete.
+2025-03-10 12:41:09,651 - DEBUG - Found 7 like buttons.
+2025-03-10 12:41:12,653 - INFO - Attempting to like 2 posts. There are 7 available.
+2025-03-10 12:41:13,350 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:41:13,370 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:41:13,373 - DEBUG - Liked post number 1 of 2.
+2025-03-10 12:41:18,433 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:41:18,451 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:41:18,453 - DEBUG - Liked post number 2 of 2.
+2025-03-10 12:41:22,478 - INFO - Liked 2 posts successfully.
+2025-03-10 12:41:22,481 - INFO - Liked 2 posts successfully.
+2025-03-10 12:41:24,512 - DEBUG - Scrolling page 6 times.
+2025-03-10 12:41:24,513 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:26,238 - DEBUG - Page scrolled.
+2025-03-10 12:41:29,240 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:30,402 - DEBUG - Page scrolled.
+2025-03-10 12:41:33,404 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:34,710 - DEBUG - Page scrolled.
+2025-03-10 12:41:37,712 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:38,785 - DEBUG - Page scrolled.
+2025-03-10 12:41:41,789 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:42,983 - DEBUG - Page scrolled.
+2025-03-10 12:41:45,984 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:41:47,887 - DEBUG - Page scrolled.
+2025-03-10 12:41:50,890 - DEBUG - Random scrolls complete.
+2025-03-10 12:41:53,044 - DEBUG - Total comments in the thread: 7
+2025-03-10 12:41:53,634 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Eth.txt
+2025-03-10 12:41:56,591 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-10 12:41:56,644 - DEBUG - Extracted main post content: ETH
+
+high time frame wyckoff formation
+2025-03-10 12:41:59,858 - INFO - Successfully generated comments using Gemini API.
+2025-03-10 12:41:59,861 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-10 12:42:02,229 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:42:02,231 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:42:02,244 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:42:02,294 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:42:02,306 - DEBUG - Text box scrolled into view
+2025-03-10 12:42:03,215 - DEBUG - Initializing actionchains
+2025-03-10 12:42:03,264 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3681}, size: {'height': 21, 'width': 68}
+2025-03-10 12:42:03,265 - DEBUG - Target click coordinates: (1121, 3691)
+2025-03-10 12:42:14,660 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-10 12:42:14,662 - DEBUG - Moving mouse to text box element.
+2025-03-10 12:42:14,662 - DEBUG - Clicking on the text box.
+2025-03-10 12:42:14,663 - DEBUG - Sending keys with content: Interesting, I'm curious to see how the distribution plays out, are you watching for any specific price action to confirm?
+
+2025-03-10 12:42:20,321 - DEBUG - Clicking on post reply button.
+2025-03-10 12:42:31,438 - DEBUG - Performed Actionchains
+2025-03-10 12:42:31,440 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-10 12:42:35,441 - INFO - Comment posted successfully.
+2025-03-10 12:42:35,443 - INFO - Task Completed!!
+2025-03-10 12:42:47,522 - INFO - Navigated back to the homepage.
+2025-03-10 12:42:50,418 - INFO - Attempting to clear memory and resources.
+2025-03-10 12:42:50,455 - INFO - Garbage collection completed.
+2025-03-10 12:42:50,456 - INFO - Waiting for 1000 seconds before next execution.

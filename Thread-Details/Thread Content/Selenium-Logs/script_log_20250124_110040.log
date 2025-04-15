@@ -1,0 +1,7 @@
+2025-01-24 11:00:40,672 - INFO - Log file created at: Selenium-Logs\script_log_20250124_110040.log
+2025-01-24 11:00:40,673 - INFO - Starting Chrome with user data from: C:\Users\DELL\AppData\Local\Google\Chrome\User Data
+2025-01-24 11:00:45,543 - INFO - Navigated to https://www.blackhatworld.com/
+2025-01-24 11:00:48,826 - INFO - Initial random scroll completed.
+2025-01-24 11:00:51,648 - INFO - Element clicked using JavaScript click.
+2025-01-24 11:01:00,590 - INFO - Scrolling completed after click.
+2025-01-24 11:01:04,925 - INFO - Driver quit successfully.

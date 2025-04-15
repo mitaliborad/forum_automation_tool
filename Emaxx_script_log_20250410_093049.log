@@ -1,0 +1,134 @@
+2025-04-10 09:30:49,754 - INFO - Current time: 1744257649.754915
+2025-04-10 09:30:49,755 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 09:30:49,756 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 09:30:49,756 - INFO - Profile Emaxx: Pausing for 31.24 seconds...
+2025-04-10 09:31:20,997 - INFO - Profile Emaxx: Resuming...
+2025-04-10 09:31:20,998 - INFO - performing random action
+2025-04-10 09:31:20,999 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 09:31:21,000 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:31:21,001 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:36:21,012 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF72ECE0C45+27221]
+	(No symbol) [0x00007FF72EC46F30]
+	(No symbol) [0x00007FF72EAC5ADA]
+	(No symbol) [0x00007FF72EAB599C]
+	(No symbol) [0x00007FF72EAB568A]
+	(No symbol) [0x00007FF72EAB320F]
+	(No symbol) [0x00007FF72EAB3CDF]
+	(No symbol) [0x00007FF72EABFD5E]
+	(No symbol) [0x00007FF72EAD5FE3]
+	(No symbol) [0x00007FF72EADD11A]
+	(No symbol) [0x00007FF72EAB444D]
+	(No symbol) [0x00007FF72EAD5D15]
+	(No symbol) [0x00007FF72EB703C5]
+	(No symbol) [0x00007FF72EB47A73]
+	(No symbol) [0x00007FF72EB10750]
+	(No symbol) [0x00007FF72EB11A03]
+	GetHandleVerifier [0x00007FF72F046E2D+3591229]
+	GetHandleVerifier [0x00007FF72F05E45A+3687018]
+	GetHandleVerifier [0x00007FF72F053323+3641651]
+	GetHandleVerifier [0x00007FF72EDAB6BA+857290]
+	(No symbol) [0x00007FF72EC5230F]
+	(No symbol) [0x00007FF72EC4E304]
+	(No symbol) [0x00007FF72EC4E4A6]
+	(No symbol) [0x00007FF72EC3D469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-10 09:36:22,983 - DEBUG - Page scrolled.
+2025-04-10 09:36:24,986 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:36:26,721 - DEBUG - Page scrolled.
+2025-04-10 09:36:28,724 - DEBUG - Random scrolls complete.
+2025-04-10 09:36:28,726 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:36:28,729 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:36:29,826 - DEBUG - Page scrolled.
+2025-04-10 09:36:31,828 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:36:33,248 - DEBUG - Page scrolled.
+2025-04-10 09:36:35,251 - DEBUG - Random scrolls complete.
+2025-04-10 09:36:44,891 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-10 09:36:48,674 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-need-help-and-advice-on-designing-a-better-onlyfans-ad-for-my-future-onlyfans-agency.1695876/unread
+2025-04-10 09:36:48,675 - INFO - performing random action
+2025-04-10 09:36:59,286 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-need-help-and-advice-on-designing-a-better-onlyfans-ad-for-my-future-onlyfans-agency.1695876/unread
+2025-04-10 09:36:59,287 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-need-help-and-advice-on-designing-a-better-onlyfans-ad-for-my-future-onlyfans-agency.1695876/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 09:36:59,314 - INFO - Extracted thread title: I need help and advice on designing a better onlyfans ad for my future onlyfans agency.
+2025-04-10 09:36:59,315 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:36:59,315 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:00,718 - DEBUG - Page scrolled.
+2025-04-10 09:37:02,719 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:04,078 - DEBUG - Page scrolled.
+2025-04-10 09:37:06,080 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:07,487 - DEBUG - Page scrolled.
+2025-04-10 09:37:09,489 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:10,812 - DEBUG - Page scrolled.
+2025-04-10 09:37:12,814 - DEBUG - Random scrolls complete.
+2025-04-10 09:37:14,832 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:37:14,834 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:16,563 - DEBUG - Page scrolled.
+2025-04-10 09:37:19,566 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:20,586 - DEBUG - Page scrolled.
+2025-04-10 09:37:23,589 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:24,978 - DEBUG - Page scrolled.
+2025-04-10 09:37:27,981 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:29,508 - DEBUG - Page scrolled.
+2025-04-10 09:37:32,510 - DEBUG - Random scrolls complete.
+2025-04-10 09:37:32,543 - DEBUG - Found 2 like buttons.
+2025-04-10 09:37:35,545 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-10 09:37:36,504 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:37:36,529 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:37:36,530 - DEBUG - Liked post number 1 of 2.
+2025-04-10 09:37:41,667 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:37:41,688 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:37:41,690 - DEBUG - Liked post number 2 of 2.
+2025-04-10 09:37:46,036 - INFO - Liked 2 posts successfully.
+2025-04-10 09:37:46,039 - INFO - Liked 2 posts successfully.
+2025-04-10 09:37:48,497 - INFO - Profile Emaxx: Restoring window...
+2025-04-10 09:37:50,511 - INFO - performing random action
+2025-04-10 09:37:50,513 - DEBUG - Scrolling page 6 times.
+2025-04-10 09:37:50,514 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:51,770 - DEBUG - Page scrolled.
+2025-04-10 09:37:54,770 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:37:56,346 - DEBUG - Page scrolled.
+2025-04-10 09:37:59,347 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:00,553 - DEBUG - Page scrolled.
+2025-04-10 09:38:03,559 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:05,546 - DEBUG - Page scrolled.
+2025-04-10 09:38:08,549 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:09,997 - DEBUG - Page scrolled.
+2025-04-10 09:38:13,000 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:38:14,830 - DEBUG - Page scrolled.
+2025-04-10 09:38:17,833 - DEBUG - Random scrolls complete.
+2025-04-10 09:38:20,533 - DEBUG - Total comments in the thread: 2
+2025-04-10 09:38:20,714 - INFO - Post content extracted and saved to Thread-Details/Thread Content\I need help and advice on designing a better onlyfans ad for my future onlyfans agency..txt
+2025-04-10 09:38:22,783 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 09:38:22,884 - DEBUG - Extracted main post content: I've been learning about onlyfans managing and it's been going well, i made an account on instagram, found myself a botting service to make my profile look more legit, and i made a design for an ad but to me it just looks bad.
+Im not a really a good graphic designer, i can design a few simple logos, but thats about it. Making ad's, or other types of graphic designs is not my strength. I'll share the design i made below. It's an ai pic but i really have no idea how to make an onlyfans ad for finding models specifically. They never popped out as an ad to me when i was watching videos or scrolling anywhere. Also when i posted this my account got restricted from posting ads on instagram, i read somewhere that you cant say in your ad on instagram anything about onlyfans as ig finds it as a gray area, but i literally have no idea how to make an ad about finding onlyfans models look good or not to mention onlyfans in it, since thats what i am searching for.
+Attachments
+OFAD2.jpg
+2025-04-10 09:38:26,491 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 09:38:26,493 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 09:38:29,314 - INFO - Profile Emaxx: Restoring window...
+2025-04-10 09:38:31,324 - INFO - performing random action
+2025-04-10 09:38:31,328 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:38:31,330 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:38:31,377 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:38:31,426 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:38:31,434 - DEBUG - Text box scrolled into view
+2025-04-10 09:38:32,296 - DEBUG - Initializing actionchains
+2025-04-10 09:38:32,367 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1875}, size: {'height': 21, 'width': 68}
+2025-04-10 09:38:32,367 - DEBUG - Target click coordinates: (1265, 1885)
+2025-04-10 09:38:39,746 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 09:38:39,748 - DEBUG - Moving mouse to text box element.
+2025-04-10 09:38:39,750 - DEBUG - Clicking on the text box.
+2025-04-10 09:38:39,753 - DEBUG - Sending keys with content: Ditch the AI pic, those usually scream scam. Maybe try showcasing the success stories of models you've helped, without mentioning OF directly, and see if that flies.
+
+2025-04-10 09:38:45,327 - DEBUG - Clicking on post reply button.
+2025-04-10 09:38:56,379 - DEBUG - Performed Actionchains
+2025-04-10 09:38:56,380 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 09:39:00,382 - INFO - Comment posted successfully.
+2025-04-10 09:39:00,385 - INFO - Task Completed!!
+2025-04-10 09:39:05,688 - INFO - Navigated back to the homepage.
+2025-04-10 09:39:08,000 - INFO - Attempting to clear memory and resources.
+2025-04-10 09:39:08,052 - INFO - Garbage collection completed.
+2025-04-10 09:39:08,053 - INFO - Waiting for 1850 seconds before next execution.

@@ -1,0 +1,100 @@
+2025-04-02 09:28:48,427 - INFO - Current time: 1743566328.4277418
+2025-04-02 09:28:48,428 - INFO - Token expiration time: 1743577114.20735
+2025-04-02 09:28:48,429 - INFO - Token expiration time: 1743577114.20735
+2025-04-02 09:28:48,430 - INFO - performing random action
+2025-04-02 09:28:48,457 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 09:28:48,458 - DEBUG - Scrolling page 3 times.
+2025-04-02 09:28:48,459 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:28:50,315 - DEBUG - Page scrolled.
+2025-04-02 09:28:52,317 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:28:53,911 - DEBUG - Page scrolled.
+2025-04-02 09:28:55,913 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:28:57,431 - DEBUG - Page scrolled.
+2025-04-02 09:28:59,433 - DEBUG - Random scrolls complete.
+2025-04-02 09:28:59,435 - DEBUG - Scrolling page 3 times.
+2025-04-02 09:28:59,437 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:29:00,839 - DEBUG - Page scrolled.
+2025-04-02 09:29:02,842 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:29:04,603 - DEBUG - Page scrolled.
+2025-04-02 09:29:06,606 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:29:08,225 - DEBUG - Page scrolled.
+2025-04-02 09:29:10,227 - DEBUG - Random scrolls complete.
+2025-04-02 09:29:16,562 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-02 09:29:21,209 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ai-to-build-a-website.1700946/unread
+2025-04-02 09:29:21,210 - INFO - Profile Emaxx: Minimizing window...
+2025-04-02 09:29:21,211 - INFO - Profile Emaxx: Window minimized. Pausing for 15.67 seconds...
+2025-04-02 09:29:36,884 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-02 09:29:36,887 - INFO - performing random action
+2025-04-02 09:29:48,155 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ai-to-build-a-website.1700946/unread
+2025-04-02 09:29:48,159 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ai-to-build-a-website.1700946/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 09:29:48,215 - INFO - Extracted thread title: AI to build a Website
+2025-04-02 09:29:48,216 - DEBUG - Scrolling page 2 times.
+2025-04-02 09:29:48,216 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:29:49,558 - DEBUG - Page scrolled.
+2025-04-02 09:29:51,561 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:29:53,196 - DEBUG - Page scrolled.
+2025-04-02 09:29:55,197 - DEBUG - Random scrolls complete.
+2025-04-02 09:29:58,193 - DEBUG - Scrolling page 2 times.
+2025-04-02 09:29:58,196 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:30:00,083 - DEBUG - Page scrolled.
+2025-04-02 09:30:03,085 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:30:04,865 - DEBUG - Page scrolled.
+2025-04-02 09:30:07,866 - DEBUG - Random scrolls complete.
+2025-04-02 09:30:07,897 - DEBUG - Found 2 like buttons.
+2025-04-02 09:30:10,900 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-02 09:30:11,711 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:30:11,738 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:30:11,739 - DEBUG - Liked post number 1 of 2.
+2025-04-02 09:30:17,212 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:30:17,232 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:30:17,234 - DEBUG - Liked post number 2 of 2.
+2025-04-02 09:30:21,551 - INFO - Liked 2 posts successfully.
+2025-04-02 09:30:21,554 - INFO - Liked 2 posts successfully.
+2025-04-02 09:30:24,069 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-02 09:30:35,861 - INFO - Profile Emaxx: Pausing for 44.27 seconds...
+2025-04-02 09:31:20,136 - INFO - Profile Emaxx: Resuming...
+2025-04-02 09:31:20,183 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 09:31:20,184 - INFO - performing random action
+2025-04-02 09:31:20,185 - DEBUG - Scrolling page 3 times.
+2025-04-02 09:31:20,187 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:31:21,461 - DEBUG - Page scrolled.
+2025-04-02 09:31:24,463 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:31:25,894 - DEBUG - Page scrolled.
+2025-04-02 09:31:28,897 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:31:30,036 - DEBUG - Page scrolled.
+2025-04-02 09:31:33,158 - DEBUG - Random scrolls complete.
+2025-04-02 09:31:35,709 - DEBUG - Total comments in the thread: 2
+2025-04-02 09:31:46,432 - INFO - Post content extracted and saved to Thread-Details/Thread Content\AI to build a Website.txt
+2025-04-02 09:31:49,369 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 09:31:49,447 - DEBUG - Extracted main post content: Are there now AIs that can create websites well? I know in the beginning the AIs were very bad but now they are very good.
+
+Does anyone know or use an AI for this? I sometimes use Grok and it always helps me very well but of course it's not specialized.
+
+Is it a good idea to use AI code in your website or even just code from AI? What about SEO? Seo experts here who have tested this?
+
+I would prefer free of course.
+2025-04-02 09:31:54,505 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 09:31:54,509 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 09:31:57,206 - INFO - performing random action
+2025-04-02 09:31:57,208 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:31:57,210 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:31:57,241 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:31:57,334 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:31:57,343 - DEBUG - Text box scrolled into view
+2025-04-02 09:31:57,994 - DEBUG - Initializing actionchains
+2025-04-02 09:31:58,079 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1627}, size: {'height': 21, 'width': 68}
+2025-04-02 09:31:58,082 - DEBUG - Target click coordinates: (1121, 1637)
+2025-04-02 09:32:04,797 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 09:32:04,798 - DEBUG - Moving mouse to text box element.
+2025-04-02 09:32:04,800 - DEBUG - Clicking on the text box.
+2025-04-02 09:32:04,803 - DEBUG - Sending keys with content: Honestly, they're getting better, but I still wouldn't trust AI to build a whole site without a human double-check, especially for SEO stuff. Maybe use it for generating code snippets or brainstorming content ideas, but keep a close eye on the quality.
+
+2025-04-02 09:32:10,359 - DEBUG - Clicking on post reply button.
+2025-04-02 09:32:12,239 - DEBUG - Performed Actionchains
+2025-04-02 09:32:12,240 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 09:32:16,241 - INFO - Comment posted successfully.
+2025-04-02 09:32:16,251 - INFO - Task Completed!!
+2025-04-02 09:32:21,411 - INFO - Navigated back to the homepage.
+2025-04-02 09:32:24,116 - INFO - Attempting to clear memory and resources.
+2025-04-02 09:32:24,159 - INFO - Garbage collection completed.
+2025-04-02 09:32:24,160 - INFO - Waiting for 2000 seconds before next execution.

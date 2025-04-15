@@ -1,0 +1,1 @@
+Forget Canva, Resolve can totally handle this. Try using the transform tool and a PNG overlay, it should give you that framed look.

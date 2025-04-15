@@ -1,0 +1,1 @@
+You can directly access a website using its IP address, but most folks prefer a domain name 'cause it's easier to remember than a string of numbers. Are you trying to avoid buying a domain for a specific reason?

@@ -1,0 +1,102 @@
+2025-03-13 16:27:34,464 - INFO - Starting new automation task. Log file created at: Selenium-Logs\ZeroDayHunter_script_log_20250313_162734.log
+2025-03-13 16:27:34,465 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 16:27:34,490 - INFO - Loaded 215 visited threads from Thread_links.txt
+2025-03-13 16:27:34,492 - INFO - Successfully loaded links that was already visited!
+2025-03-13 16:27:34,493 - DEBUG - Scrolling page 7 times.
+2025-03-13 16:27:34,494 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:27:35,520 - DEBUG - Page scrolled.
+2025-03-13 16:27:37,522 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:27:39,249 - DEBUG - Page scrolled.
+2025-03-13 16:27:41,251 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:27:43,006 - DEBUG - Page scrolled.
+2025-03-13 16:27:45,007 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:27:46,548 - DEBUG - Page scrolled.
+2025-03-13 16:27:48,550 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:27:49,688 - DEBUG - Page scrolled.
+2025-03-13 16:27:51,691 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:27:52,957 - DEBUG - Page scrolled.
+2025-03-13 16:27:54,959 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:27:56,847 - DEBUG - Page scrolled.
+2025-03-13 16:27:58,849 - DEBUG - Random scrolls complete.
+2025-03-13 16:27:58,850 - DEBUG - Scrolling page 3 times.
+2025-03-13 16:27:58,851 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:00,079 - DEBUG - Page scrolled.
+2025-03-13 16:28:02,081 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:04,074 - DEBUG - Page scrolled.
+2025-03-13 16:28:06,077 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:07,306 - DEBUG - Page scrolled.
+2025-03-13 16:28:09,309 - DEBUG - Random scrolls complete.
+2025-03-13 16:28:14,357 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/pinterest.211/
+2025-03-13 16:28:18,530 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/new-or-established-pinterest-account-for-marketing.1684794/unread
+2025-03-13 16:28:27,468 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/new-or-established-pinterest-account-for-marketing.1684794/unread
+2025-03-13 16:28:27,470 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/new-or-established-pinterest-account-for-marketing.1684794/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 16:28:27,504 - INFO - Extracted thread title: New or Established Pinterest Account for Marketing
+2025-03-13 16:28:27,506 - DEBUG - Scrolling page 2 times.
+2025-03-13 16:28:27,507 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:28,543 - DEBUG - Page scrolled.
+2025-03-13 16:28:30,546 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:32,517 - DEBUG - Page scrolled.
+2025-03-13 16:28:34,518 - DEBUG - Random scrolls complete.
+2025-03-13 16:28:36,697 - DEBUG - Scrolling page 2 times.
+2025-03-13 16:28:36,698 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:38,329 - DEBUG - Page scrolled.
+2025-03-13 16:28:41,330 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:28:42,841 - DEBUG - Page scrolled.
+2025-03-13 16:28:45,846 - DEBUG - Random scrolls complete.
+2025-03-13 16:28:45,867 - DEBUG - Found 5 like buttons.
+2025-03-13 16:28:48,869 - INFO - Attempting to like 1 posts. There are 5 available.
+2025-03-13 16:28:49,418 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:28:49,429 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:28:49,431 - DEBUG - Liked post number 1 of 1.
+2025-03-13 16:28:53,942 - INFO - Liked 1 posts successfully.
+2025-03-13 16:28:54,005 - INFO - Liked 1 posts successfully.
+2025-03-13 16:29:12,403 - DEBUG - Scrolling page 7 times.
+2025-03-13 16:29:12,404 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:13,931 - DEBUG - Page scrolled.
+2025-03-13 16:29:16,933 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:18,632 - DEBUG - Page scrolled.
+2025-03-13 16:29:21,634 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:23,509 - DEBUG - Page scrolled.
+2025-03-13 16:29:26,511 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:27,650 - DEBUG - Page scrolled.
+2025-03-13 16:29:30,653 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:31,753 - DEBUG - Page scrolled.
+2025-03-13 16:29:34,757 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:36,625 - DEBUG - Page scrolled.
+2025-03-13 16:29:39,628 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:29:41,492 - DEBUG - Page scrolled.
+2025-03-13 16:29:44,495 - DEBUG - Random scrolls complete.
+2025-03-13 16:29:47,292 - DEBUG - Total comments in the thread: 5
+2025-03-13 16:30:28,887 - INFO - Post content extracted and saved to Thread-Details/Thread Content\New or Established Pinterest Account for Marketing.txt
+2025-03-13 16:30:31,596 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 16:30:31,636 - DEBUG - Extracted main post content: I’m starting with Pinterest marketing and wondering if it’s better to create a new account or buy an established one with followers.
+
+Also, are there any trusted websites to buy Pinterest accounts?
+
+Would love to hear your thoughts!
+
+Thanks!
+2025-03-13 16:30:34,909 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 16:30:34,911 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 16:30:39,374 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:30:39,375 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:30:39,397 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:30:39,447 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:30:39,457 - DEBUG - Text box scrolled into view
+2025-03-13 16:30:40,300 - DEBUG - Initializing actionchains
+2025-03-13 16:30:40,364 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2803}, size: {'height': 21, 'width': 68}
+2025-03-13 16:30:40,366 - DEBUG - Target click coordinates: (1121, 2813)
+2025-03-13 16:30:50,133 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 16:30:50,135 - DEBUG - Moving mouse to text box element.
+2025-03-13 16:30:50,137 - DEBUG - Clicking on the text box.
+2025-03-13 16:30:50,143 - DEBUG - Sending keys with content: Honestly, I'd avoid buying an account; building one organically, even if slower, keeps you out of trouble with Pinterest's rules.
+
+2025-03-13 16:30:55,400 - DEBUG - Clicking on post reply button.
+2025-03-13 16:31:06,483 - DEBUG - Performed Actionchains
+2025-03-13 16:31:06,484 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 16:31:10,485 - INFO - Comment posted successfully.
+2025-03-13 16:31:10,488 - INFO - Task Completed!!
+2025-03-13 16:31:18,962 - INFO - Navigated back to the homepage.
+2025-03-13 16:31:21,107 - INFO - Attempting to clear memory and resources.
+2025-03-13 16:31:21,145 - INFO - Garbage collection completed.
+2025-03-13 16:31:21,146 - INFO - Waiting for 120 seconds before next execution.

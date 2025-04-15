@@ -1,0 +1,39 @@
+2025-04-02 14:11:12,045 - INFO - Current time: 1743583272.0455465
+2025-04-02 14:11:12,048 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 14:11:12,050 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 14:11:12,052 - INFO - performing random action
+2025-04-02 14:11:12,055 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 14:11:12,057 - DEBUG - Scrolling page 3 times.
+2025-04-02 14:11:12,058 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:11:13,451 - DEBUG - Page scrolled.
+2025-04-02 14:11:15,454 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:11:16,782 - DEBUG - Page scrolled.
+2025-04-02 14:11:18,784 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:11:20,255 - DEBUG - Page scrolled.
+2025-04-02 14:11:22,258 - DEBUG - Random scrolls complete.
+2025-04-02 14:11:22,260 - DEBUG - Scrolling page 3 times.
+2025-04-02 14:11:22,262 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:11:23,490 - DEBUG - Page scrolled.
+2025-04-02 14:11:25,492 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:11:27,055 - DEBUG - Page scrolled.
+2025-04-02 14:11:29,058 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 14:11:30,672 - DEBUG - Page scrolled.
+2025-04-02 14:11:32,674 - DEBUG - Random scrolls complete.
+2025-04-02 14:11:39,549 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-04-02 14:11:49,932 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 14:11:49,938 - INFO - Profile PhantomRoot: Pausing for 34.62 seconds...
+2025-04-02 14:12:24,564 - INFO - Profile PhantomRoot: Resuming...
+2025-04-02 14:12:24,567 - INFO - performing random action
+2025-04-02 14:12:24,569 - WARNING - Skipping thread processing due to no thread link being found in subforum.

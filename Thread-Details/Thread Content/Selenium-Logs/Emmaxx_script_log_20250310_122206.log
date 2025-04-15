@@ -1,0 +1,101 @@
+2025-03-10 12:22:06,787 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250310_122206.log
+2025-03-10 12:22:06,791 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-10 12:22:06,843 - INFO - Loaded 112 visited threads from Thread_links.txt
+2025-03-10 12:22:06,844 - INFO - Successfully loaded links that was already visited!
+2025-03-10 12:22:06,846 - DEBUG - Scrolling page 4 times.
+2025-03-10 12:22:06,847 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:08,351 - DEBUG - Page scrolled.
+2025-03-10 12:22:10,353 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:11,713 - DEBUG - Page scrolled.
+2025-03-10 12:22:13,717 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:14,916 - DEBUG - Page scrolled.
+2025-03-10 12:22:16,919 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:18,009 - DEBUG - Page scrolled.
+2025-03-10 12:22:20,013 - DEBUG - Random scrolls complete.
+2025-03-10 12:22:20,016 - DEBUG - Scrolling page 7 times.
+2025-03-10 12:22:20,017 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:21,627 - DEBUG - Page scrolled.
+2025-03-10 12:22:23,630 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:24,949 - DEBUG - Page scrolled.
+2025-03-10 12:22:26,956 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:28,926 - DEBUG - Page scrolled.
+2025-03-10 12:22:30,930 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:32,180 - DEBUG - Page scrolled.
+2025-03-10 12:22:34,182 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:35,876 - DEBUG - Page scrolled.
+2025-03-10 12:22:37,878 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:39,640 - DEBUG - Page scrolled.
+2025-03-10 12:22:41,642 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:22:42,783 - DEBUG - Page scrolled.
+2025-03-10 12:22:44,785 - DEBUG - Random scrolls complete.
+2025-03-10 12:22:49,130 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-03-10 12:22:53,488 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/can-someone-help-with-installing-mongodb.1673128/unread
+2025-03-10 12:23:01,391 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/can-someone-help-with-installing-mongodb.1673128/unread
+2025-03-10 12:23:01,393 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/can-someone-help-with-installing-mongodb.1673128/unread' to visited threads file 'Thread_links.txt'.
+2025-03-10 12:23:01,421 - INFO - Extracted thread title: Can someone help with installing mongodb
+2025-03-10 12:23:01,422 - DEBUG - Scrolling page 3 times.
+2025-03-10 12:23:01,423 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:23:02,877 - DEBUG - Page scrolled.
+2025-03-10 12:23:04,879 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:23:06,608 - DEBUG - Page scrolled.
+2025-03-10 12:23:08,612 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:23:10,247 - DEBUG - Page scrolled.
+2025-03-10 12:23:12,249 - DEBUG - Random scrolls complete.
+2025-03-10 12:23:14,679 - DEBUG - Scrolling page 1 times.
+2025-03-10 12:23:14,681 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:23:16,663 - DEBUG - Page scrolled.
+2025-03-10 12:23:19,666 - DEBUG - Random scrolls complete.
+2025-03-10 12:23:19,715 - DEBUG - Found 7 like buttons.
+2025-03-10 12:23:22,718 - INFO - Attempting to like 3 posts. There are 7 available.
+2025-03-10 12:23:23,603 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:23:23,615 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:23:23,616 - DEBUG - Liked post number 1 of 3.
+2025-03-10 12:23:28,889 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:23:28,897 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:23:28,898 - DEBUG - Liked post number 2 of 3.
+2025-03-10 12:23:34,363 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-10 12:23:34,391 - INFO - Like button clicked successfully using JavaScript.
+2025-03-10 12:23:34,396 - DEBUG - Liked post number 3 of 3.
+2025-03-10 12:23:39,379 - INFO - Liked 3 posts successfully.
+2025-03-10 12:23:39,381 - INFO - Liked 3 posts successfully.
+2025-03-10 12:23:39,383 - DEBUG - Scrolling page 3 times.
+2025-03-10 12:23:39,384 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:23:41,206 - DEBUG - Page scrolled.
+2025-03-10 12:23:44,210 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:23:45,538 - DEBUG - Page scrolled.
+2025-03-10 12:23:48,542 - DEBUG - Scrolling page by 500 pixels.
+2025-03-10 12:23:49,801 - DEBUG - Page scrolled.
+2025-03-10 12:23:52,803 - DEBUG - Random scrolls complete.
+2025-03-10 12:23:55,655 - DEBUG - Total comments in the thread: 7
+2025-03-10 12:24:18,365 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Can someone help with installing mongodb.txt
+2025-03-10 12:24:20,523 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-10 12:24:20,596 - DEBUG - Extracted main post content: i have server on which i need to install mongodb, but when i add all keys and sources and do
+Bash:
+apt update
+i get 403 forbidden.
+
+in. my opinion i think servers IP is blacklisted. is there some solution to bypass and install, or just idk.
+2025-03-10 12:24:25,591 - INFO - Successfully generated comments using Gemini API.
+2025-03-10 12:24:25,594 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-10 12:24:28,099 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:24:28,101 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:24:28,136 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:24:28,191 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-10 12:24:28,204 - DEBUG - Text box scrolled into view
+2025-03-10 12:24:28,795 - DEBUG - Initializing actionchains
+2025-03-10 12:24:28,861 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3669}, size: {'height': 21, 'width': 68}
+2025-03-10 12:24:28,862 - DEBUG - Target click coordinates: (1121, 3679)
+2025-03-10 12:24:40,259 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-10 12:24:40,261 - DEBUG - Moving mouse to text box element.
+2025-03-10 12:24:40,263 - DEBUG - Clicking on the text box.
+2025-03-10 12:24:40,266 - DEBUG - Sending keys with content: Hmm, that's a tricky one. Have you tried checking if other packages are installing correctly, or if it's just MongoDB that's throwing the error?
+
+2025-03-10 12:24:45,850 - DEBUG - Clicking on post reply button.
+2025-03-10 12:24:57,142 - DEBUG - Performed Actionchains
+2025-03-10 12:24:57,144 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-10 12:25:01,147 - INFO - Comment posted successfully.
+2025-03-10 12:25:01,149 - INFO - Task Completed!!
+2025-03-10 12:25:08,215 - INFO - Navigated back to the homepage.
+2025-03-10 12:25:10,868 - INFO - Attempting to clear memory and resources.
+2025-03-10 12:25:10,915 - INFO - Garbage collection completed.
+2025-03-10 12:25:10,916 - INFO - Waiting for 1000 seconds before next execution.

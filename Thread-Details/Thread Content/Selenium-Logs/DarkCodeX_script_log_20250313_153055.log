@@ -1,0 +1,106 @@
+2025-03-13 15:30:55,807 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_153055.log
+2025-03-13 15:30:55,808 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:30:55,833 - INFO - Loaded 194 visited threads from Thread_links.txt
+2025-03-13 15:30:55,834 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:30:55,846 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:30:55,847 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:30:59,965 - DEBUG - Page scrolled.
+2025-03-13 15:31:01,966 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:03,063 - DEBUG - Page scrolled.
+2025-03-13 15:31:05,065 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:06,536 - DEBUG - Page scrolled.
+2025-03-13 15:31:08,539 - DEBUG - Random scrolls complete.
+2025-03-13 15:31:08,540 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:31:08,541 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:09,756 - DEBUG - Page scrolled.
+2025-03-13 15:31:11,758 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:12,985 - DEBUG - Page scrolled.
+2025-03-13 15:31:14,989 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:16,200 - DEBUG - Page scrolled.
+2025-03-13 15:31:18,202 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:20,141 - DEBUG - Page scrolled.
+2025-03-13 15:31:22,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:23,720 - DEBUG - Page scrolled.
+2025-03-13 15:31:25,722 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:27,576 - DEBUG - Page scrolled.
+2025-03-13 15:31:29,578 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:31,122 - DEBUG - Page scrolled.
+2025-03-13 15:31:33,124 - DEBUG - Random scrolls complete.
+2025-03-13 15:31:39,468 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-03-13 15:31:44,813 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/voice-changer-advice-needed.1675366/
+2025-03-13 15:31:54,550 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/voice-changer-advice-needed.1675366/
+2025-03-13 15:31:54,552 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/voice-changer-advice-needed.1675366/' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:31:54,583 - INFO - Extracted thread title: Voice changer advice needed
+2025-03-13 15:31:54,585 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:31:54,586 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:56,505 - DEBUG - Page scrolled.
+2025-03-13 15:31:58,507 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:31:59,573 - DEBUG - Page scrolled.
+2025-03-13 15:32:01,574 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:02,684 - DEBUG - Page scrolled.
+2025-03-13 15:32:04,685 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:05,822 - DEBUG - Page scrolled.
+2025-03-13 15:32:07,828 - DEBUG - Random scrolls complete.
+2025-03-13 15:32:10,380 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:32:10,381 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:11,410 - DEBUG - Page scrolled.
+2025-03-13 15:32:14,412 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:16,090 - DEBUG - Page scrolled.
+2025-03-13 15:32:19,091 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:20,291 - DEBUG - Page scrolled.
+2025-03-13 15:32:23,310 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:25,289 - DEBUG - Page scrolled.
+2025-03-13 15:32:28,291 - DEBUG - Random scrolls complete.
+2025-03-13 15:32:28,320 - DEBUG - Found 4 like buttons.
+2025-03-13 15:32:31,321 - INFO - Attempting to like 2 posts. There are 4 available.
+2025-03-13 15:32:32,053 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:32:32,090 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:32:32,096 - DEBUG - Liked post number 1 of 2.
+2025-03-13 15:32:36,930 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:32:36,945 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:32:36,947 - DEBUG - Liked post number 2 of 2.
+2025-03-13 15:32:41,334 - INFO - Liked 2 posts successfully.
+2025-03-13 15:32:41,336 - INFO - Liked 2 posts successfully.
+2025-03-13 15:32:44,129 - DEBUG - Scrolling page 4 times.
+2025-03-13 15:32:44,131 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:45,504 - DEBUG - Page scrolled.
+2025-03-13 15:32:48,508 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:49,927 - DEBUG - Page scrolled.
+2025-03-13 15:32:52,929 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:53,986 - DEBUG - Page scrolled.
+2025-03-13 15:32:56,989 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:32:58,787 - DEBUG - Page scrolled.
+2025-03-13 15:33:01,790 - DEBUG - Random scrolls complete.
+2025-03-13 15:33:04,660 - DEBUG - Total comments in the thread: 4
+2025-03-13 15:33:25,425 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Voice changer advice needed.txt
+2025-03-13 15:33:27,440 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:33:27,485 - DEBUG - Extracted main post content: I am looking for a voice changer app / software that works on android phones / skype.
+
+The changed voice need to sound human and not like a robot etc
+The voice must be changed instantly during the call.
+
+Any good ones out there that you guys can recommend?
+2025-03-13 15:33:31,510 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:33:31,512 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:33:33,608 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:33:33,610 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:33:33,628 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:33:33,686 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:33:33,699 - DEBUG - Text box scrolled into view
+2025-03-13 15:33:34,689 - DEBUG - Initializing actionchains
+2025-03-13 15:33:34,722 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2243}, size: {'height': 21, 'width': 68}
+2025-03-13 15:33:34,723 - DEBUG - Target click coordinates: (1121, 2253)
+2025-03-13 15:33:43,131 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:33:43,133 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:33:43,134 - DEBUG - Clicking on the text box.
+2025-03-13 15:33:43,137 - DEBUG - Sending keys with content: Honestly, finding one that *doesn't* sound robotic during live calls is tough. Have you tried messing with your mic settings in Skype itself?
+
+2025-03-13 15:33:48,992 - DEBUG - Clicking on post reply button.
+2025-03-13 15:33:59,724 - DEBUG - Performed Actionchains
+2025-03-13 15:33:59,727 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:34:03,730 - INFO - Comment posted successfully.
+2025-03-13 15:34:03,733 - INFO - Task Completed!!
+2025-03-13 15:34:13,116 - INFO - Navigated back to the homepage.
+2025-03-13 15:34:15,951 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:34:15,983 - INFO - Garbage collection completed.
+2025-03-13 15:34:15,985 - INFO - Waiting for 10 seconds before next execution.

@@ -1,0 +1,103 @@
+2025-04-10 10:35:53,146 - INFO - Current time: 1744261553.146247
+2025-04-10 10:35:53,146 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 10:35:53,147 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 10:35:53,147 - INFO - performing random action
+2025-04-10 10:35:53,149 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:35:53,149 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:35:53,150 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:35:54,288 - DEBUG - Page scrolled.
+2025-04-10 10:35:56,289 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:35:57,924 - DEBUG - Page scrolled.
+2025-04-10 10:35:59,926 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:01,829 - DEBUG - Page scrolled.
+2025-04-10 10:36:03,831 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:05,373 - DEBUG - Page scrolled.
+2025-04-10 10:36:07,373 - DEBUG - Random scrolls complete.
+2025-04-10 10:36:07,374 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:36:07,375 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:08,468 - DEBUG - Page scrolled.
+2025-04-10 10:36:10,469 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:11,835 - DEBUG - Page scrolled.
+2025-04-10 10:36:13,837 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:15,810 - DEBUG - Page scrolled.
+2025-04-10 10:36:17,811 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:36:19,152 - DEBUG - Page scrolled.
+2025-04-10 10:36:21,154 - DEBUG - Random scrolls complete.
+2025-04-10 10:36:34,589 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-04-10 10:36:38,133 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/tinder-accounts.1688649/unread
+2025-04-10 10:36:38,134 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-10 10:36:38,135 - INFO - Profile PhantomRoot: Window minimized. Pausing for 20.16 seconds...
+2025-04-10 10:36:58,296 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-10 10:36:58,299 - INFO - performing random action
+2025-04-10 10:37:07,633 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/tinder-accounts.1688649/unread
+2025-04-10 10:37:07,636 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/tinder-accounts.1688649/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:37:07,687 - INFO - Extracted thread title: Tinder Accounts
+2025-04-10 10:37:07,688 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:37:07,688 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:08,887 - DEBUG - Page scrolled.
+2025-04-10 10:37:10,889 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:12,032 - DEBUG - Page scrolled.
+2025-04-10 10:37:14,034 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:15,214 - DEBUG - Page scrolled.
+2025-04-10 10:37:17,216 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:19,160 - DEBUG - Page scrolled.
+2025-04-10 10:37:21,161 - DEBUG - Random scrolls complete.
+2025-04-10 10:37:23,175 - DEBUG - Scrolling page 1 times.
+2025-04-10 10:37:23,177 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:37:24,958 - DEBUG - Page scrolled.
+2025-04-10 10:37:27,960 - DEBUG - Random scrolls complete.
+2025-04-10 10:37:27,992 - DEBUG - Found 12 like buttons.
+2025-04-10 10:37:30,993 - INFO - Attempting to like 1 posts. There are 12 available.
+2025-04-10 10:37:31,810 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:37:31,836 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:37:31,837 - DEBUG - Liked post number 1 of 1.
+2025-04-10 10:37:36,733 - INFO - Liked 1 posts successfully.
+2025-04-10 10:37:36,735 - INFO - Liked 1 posts successfully.
+2025-04-10 10:37:39,715 - INFO - Profile PhantomRoot: Pausing for 44.20 seconds...
+2025-04-10 10:38:23,912 - INFO - Profile PhantomRoot: Resuming...
+2025-04-10 10:38:23,914 - INFO - performing random action
+2025-04-10 10:38:23,915 - DEBUG - Scrolling page 5 times.
+2025-04-10 10:38:23,917 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:25,522 - DEBUG - Page scrolled.
+2025-04-10 10:38:28,524 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:30,119 - DEBUG - Page scrolled.
+2025-04-10 10:38:33,121 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:34,816 - DEBUG - Page scrolled.
+2025-04-10 10:38:37,819 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:39,214 - DEBUG - Page scrolled.
+2025-04-10 10:38:42,215 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:38:43,900 - DEBUG - Page scrolled.
+2025-04-10 10:38:46,903 - DEBUG - Random scrolls complete.
+2025-04-10 10:38:49,252 - DEBUG - Total comments in the thread: 12
+2025-04-10 10:40:34,812 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Tinder Accounts.txt
+2025-04-10 10:40:37,809 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:40:37,858 - DEBUG - Extracted main post content: Hello guys, i want to make Tinder accounts across other countries.
+I would like to know which tool do you use to bypass the geolocation?
+Are you using VPN, proxies, or something else?
+I am planning to use a clean new reseted iphone, with USA number, USA icloud.
+2025-04-10 10:40:43,126 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:40:43,130 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:40:45,316 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-10 10:40:47,321 - INFO - performing random action
+2025-04-10 10:40:47,322 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:40:47,322 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:40:47,335 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:40:47,380 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:40:47,387 - DEBUG - Text box scrolled into view
+2025-04-10 10:40:48,295 - DEBUG - Initializing actionchains
+2025-04-10 10:40:48,312 - DEBUG - Post reply Element location: {'x': 1231, 'y': 4983}, size: {'height': 21, 'width': 68}
+2025-04-10 10:40:48,313 - DEBUG - Target click coordinates: (1265, 4993)
+2025-04-10 10:41:02,845 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:41:02,846 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:41:02,847 - DEBUG - Clicking on the text box.
+2025-04-10 10:41:02,848 - DEBUG - Sending keys with content: Honestly, with Tinder, a good residential proxy and spoofing your GPS usually does the trick, but be ready to experiment a bit.
+
+2025-04-10 10:41:08,825 - DEBUG - Clicking on post reply button.
+2025-04-10 10:41:19,753 - DEBUG - Performed Actionchains
+2025-04-10 10:41:19,754 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:41:23,756 - INFO - Comment posted successfully.
+2025-04-10 10:41:23,756 - INFO - Task Completed!!
+2025-04-10 10:41:33,244 - INFO - Navigated back to the homepage.
+2025-04-10 10:41:36,241 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:41:36,271 - INFO - Garbage collection completed.
+2025-04-10 10:41:36,272 - INFO - Waiting for 1850 seconds before next execution.

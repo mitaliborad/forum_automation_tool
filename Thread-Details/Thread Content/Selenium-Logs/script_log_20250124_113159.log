@@ -1,0 +1,303 @@
+2025-01-24 11:31:59,953 - INFO - Log file created at: Selenium-Logs\script_log_20250124_113159.log
+2025-01-24 11:31:59,953 - INFO - Starting Chrome with user data from: C:\Users\DELL\AppData\Local\Google\Chrome\User Data
+2025-01-24 11:32:03,718 - INFO - Navigated to https://www.blackhatworld.com/
+2025-01-24 11:32:03,718 - DEBUG - scroll_random_times: Scrolling page 5 times.
+2025-01-24 11:32:03,718 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:04,681 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.93 seconds.
+2025-01-24 11:32:04,682 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:05,583 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.89 seconds.
+2025-01-24 11:32:05,584 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:06,500 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.90 seconds.
+2025-01-24 11:32:06,501 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:07,490 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.97 seconds.
+2025-01-24 11:32:07,490 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:08,450 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.95 seconds.
+2025-01-24 11:32:08,450 - DEBUG - scroll_random_times: Scrolling Completed
+2025-01-24 11:32:08,450 - INFO - Initial random scroll completed.
+2025-01-24 11:32:08,451 - DEBUG - Locating 'Social Networking' Link.
+2025-01-24 11:32:08,621 - DEBUG - Scrolled the element into view.
+2025-01-24 11:32:08,761 - DEBUG - Found 'Social Networking' link.
+2025-01-24 11:32:08,783 - DEBUG - Element location: {'x': 26, 'y': 867}, size: {'height': 37, 'width': 188}
+2025-01-24 11:32:08,783 - DEBUG - Target click coordinates: (120, 885)
+2025-01-24 11:32:08,783 - DEBUG - move_mouse_with_curve: Starting mouse movement to (120, 885).
+2025-01-24 11:32:08,783 - DEBUG - move_mouse_with_curve: Current mouse position: (1365, 180).
+2025-01-24 11:32:08,783 - DEBUG - generate_bezier_path: start=(1365, 180), end=(120, 885), num_points=50
+2025-01-24 11:32:08,783 - DEBUG - generate_bezier_path: control_point=(1372, 134)
+2025-01-24 11:32:08,783 - DEBUG - bezier_curve: t=0.0, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1365.  180.]
+2025-01-24 11:32:08,784 - DEBUG - generate_bezier_path: step 0, t=0.0, point=[1365.  180.], path_point=(1365, 180)
+2025-01-24 11:32:08,784 - DEBUG - bezier_curve: t=0.02040816326530612, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1364.76134944  178.454394  ]
+2025-01-24 11:32:08,784 - DEBUG - generate_bezier_path: step 1, t=0.02040816326530612, point=[1364.76134944  178.454394  ], path_point=(1364, 178)
+2025-01-24 11:32:08,784 - DEBUG - bezier_curve: t=0.04081632653061224, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1363.47396918  177.57267805]
+2025-01-24 11:32:08,785 - DEBUG - generate_bezier_path: step 2, t=0.04081632653061224, point=[1363.47396918  177.57267805], path_point=(1363, 177)
+2025-01-24 11:32:08,785 - DEBUG - bezier_curve: t=0.061224489795918366, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1361.13785923  177.35485214]
+2025-01-24 11:32:08,785 - DEBUG - generate_bezier_path: step 3, t=0.061224489795918366, point=[1361.13785923  177.35485214], path_point=(1361, 177)
+2025-01-24 11:32:08,785 - DEBUG - bezier_curve: t=0.08163265306122448, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1357.75301958  177.80091628]
+2025-01-24 11:32:08,785 - DEBUG - generate_bezier_path: step 4, t=0.08163265306122448, point=[1357.75301958  177.80091628], path_point=(1357, 177)
+2025-01-24 11:32:08,786 - DEBUG - bezier_curve: t=0.10204081632653061, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1353.31945023  178.91087047]
+2025-01-24 11:32:08,786 - DEBUG - generate_bezier_path: step 5, t=0.10204081632653061, point=[1353.31945023  178.91087047], path_point=(1353, 178)
+2025-01-24 11:32:08,786 - DEBUG - bezier_curve: t=0.12244897959183673, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1347.83715119  180.6847147 ]
+2025-01-24 11:32:08,786 - DEBUG - generate_bezier_path: step 6, t=0.12244897959183673, point=[1347.83715119  180.6847147 ], path_point=(1347, 180)
+2025-01-24 11:32:08,786 - DEBUG - bezier_curve: t=0.14285714285714285, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1341.30612245  183.12244898]
+2025-01-24 11:32:08,787 - DEBUG - generate_bezier_path: step 7, t=0.14285714285714285, point=[1341.30612245  183.12244898], path_point=(1341, 183)
+2025-01-24 11:32:08,787 - DEBUG - bezier_curve: t=0.16326530612244897, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1333.72636401  186.2240733 ]
+2025-01-24 11:32:08,787 - DEBUG - generate_bezier_path: step 8, t=0.16326530612244897, point=[1333.72636401  186.2240733 ], path_point=(1333, 186)
+2025-01-24 11:32:08,787 - DEBUG - bezier_curve: t=0.1836734693877551, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1325.09787589  189.98958767]
+2025-01-24 11:32:08,787 - DEBUG - generate_bezier_path: step 9, t=0.1836734693877551, point=[1325.09787589  189.98958767], path_point=(1325, 189)
+2025-01-24 11:32:08,788 - DEBUG - bezier_curve: t=0.20408163265306123, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1315.42065806  194.41899209]
+2025-01-24 11:32:08,788 - DEBUG - generate_bezier_path: step 10, t=0.20408163265306123, point=[1315.42065806  194.41899209], path_point=(1315, 194)
+2025-01-24 11:32:08,788 - DEBUG - bezier_curve: t=0.22448979591836735, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1304.69471054  199.51228655]
+2025-01-24 11:32:08,788 - DEBUG - generate_bezier_path: step 11, t=0.22448979591836735, point=[1304.69471054  199.51228655], path_point=(1304, 199)
+2025-01-24 11:32:08,788 - DEBUG - bezier_curve: t=0.24489795918367346, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1292.92003332  205.26947105]
+2025-01-24 11:32:08,788 - DEBUG - generate_bezier_path: step 12, t=0.24489795918367346, point=[1292.92003332  205.26947105], path_point=(1292, 205)
+2025-01-24 11:32:08,789 - DEBUG - bezier_curve: t=0.2653061224489796, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1280.09662641  211.69054561]
+2025-01-24 11:32:08,789 - DEBUG - generate_bezier_path: step 13, t=0.2653061224489796, point=[1280.09662641  211.69054561], path_point=(1280, 211)
+2025-01-24 11:32:08,789 - DEBUG - bezier_curve: t=0.2857142857142857, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1266.2244898  218.7755102]
+2025-01-24 11:32:08,789 - DEBUG - generate_bezier_path: step 14, t=0.2857142857142857, point=[1266.2244898  218.7755102], path_point=(1266, 218)
+2025-01-24 11:32:08,789 - DEBUG - bezier_curve: t=0.30612244897959184, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1251.30362349  226.52436485]
+2025-01-24 11:32:08,790 - DEBUG - generate_bezier_path: step 15, t=0.30612244897959184, point=[1251.30362349  226.52436485], path_point=(1251, 226)
+2025-01-24 11:32:08,790 - DEBUG - bezier_curve: t=0.32653061224489793, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1235.33402749  234.93710954]
+2025-01-24 11:32:08,790 - DEBUG - generate_bezier_path: step 16, t=0.32653061224489793, point=[1235.33402749  234.93710954], path_point=(1235, 234)
+2025-01-24 11:32:08,790 - DEBUG - bezier_curve: t=0.3469387755102041, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1218.31570179  244.01374427]
+2025-01-24 11:32:08,790 - DEBUG - generate_bezier_path: step 17, t=0.3469387755102041, point=[1218.31570179  244.01374427], path_point=(1218, 244)
+2025-01-24 11:32:08,791 - DEBUG - bezier_curve: t=0.3673469387755102, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1200.2486464   253.75426905]
+2025-01-24 11:32:08,791 - DEBUG - generate_bezier_path: step 18, t=0.3673469387755102, point=[1200.2486464   253.75426905], path_point=(1200, 253)
+2025-01-24 11:32:08,791 - DEBUG - bezier_curve: t=0.3877551020408163, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1181.13286131  264.15868388]
+2025-01-24 11:32:08,791 - DEBUG - generate_bezier_path: step 19, t=0.3877551020408163, point=[1181.13286131  264.15868388], path_point=(1181, 264)
+2025-01-24 11:32:08,791 - DEBUG - bezier_curve: t=0.40816326530612246, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1160.96834652  275.22698875]
+2025-01-24 11:32:08,791 - DEBUG - generate_bezier_path: step 20, t=0.40816326530612246, point=[1160.96834652  275.22698875], path_point=(1160, 275)
+2025-01-24 11:32:08,792 - DEBUG - bezier_curve: t=0.42857142857142855, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1139.75510204  286.95918367]
+2025-01-24 11:32:08,792 - DEBUG - generate_bezier_path: step 21, t=0.42857142857142855, point=[1139.75510204  286.95918367], path_point=(1139, 286)
+2025-01-24 11:32:08,792 - DEBUG - bezier_curve: t=0.4489795918367347, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1117.49312786  299.35526864]
+2025-01-24 11:32:08,792 - DEBUG - generate_bezier_path: step 22, t=0.4489795918367347, point=[1117.49312786  299.35526864], path_point=(1117, 299)
+2025-01-24 11:32:08,793 - DEBUG - bezier_curve: t=0.46938775510204084, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1094.18242399  312.41524365]
+2025-01-24 11:32:08,793 - DEBUG - generate_bezier_path: step 23, t=0.46938775510204084, point=[1094.18242399  312.41524365], path_point=(1094, 312)
+2025-01-24 11:32:08,793 - DEBUG - bezier_curve: t=0.4897959183673469, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1069.82299042  326.1391087 ]
+2025-01-24 11:32:08,793 - DEBUG - generate_bezier_path: step 24, t=0.4897959183673469, point=[1069.82299042  326.1391087 ], path_point=(1069, 326)
+2025-01-24 11:32:08,793 - DEBUG - bezier_curve: t=0.5102040816326531, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1044.41482716  340.52686381]
+2025-01-24 11:32:08,794 - DEBUG - generate_bezier_path: step 25, t=0.5102040816326531, point=[1044.41482716  340.52686381], path_point=(1044, 340)
+2025-01-24 11:32:08,794 - DEBUG - bezier_curve: t=0.5306122448979592, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[1017.95793419  355.57850895]
+2025-01-24 11:32:08,794 - DEBUG - generate_bezier_path: step 26, t=0.5306122448979592, point=[1017.95793419  355.57850895], path_point=(1017, 355)
+2025-01-24 11:32:08,794 - DEBUG - bezier_curve: t=0.5510204081632653, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[990.45231154 371.29404415]
+2025-01-24 11:32:08,794 - DEBUG - generate_bezier_path: step 27, t=0.5510204081632653, point=[990.45231154 371.29404415], path_point=(990, 371)
+2025-01-24 11:32:08,795 - DEBUG - bezier_curve: t=0.5714285714285714, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[961.89795918 387.67346939]
+2025-01-24 11:32:08,795 - DEBUG - generate_bezier_path: step 28, t=0.5714285714285714, point=[961.89795918 387.67346939], path_point=(961, 387)
+2025-01-24 11:32:08,795 - DEBUG - bezier_curve: t=0.5918367346938775, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[932.29487713 404.71678467]
+2025-01-24 11:32:08,795 - DEBUG - generate_bezier_path: step 29, t=0.5918367346938775, point=[932.29487713 404.71678467], path_point=(932, 404)
+2025-01-24 11:32:08,795 - DEBUG - bezier_curve: t=0.6122448979591837, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[901.64306539 422.42399   ]
+2025-01-24 11:32:08,796 - DEBUG - generate_bezier_path: step 30, t=0.6122448979591837, point=[901.64306539 422.42399   ], path_point=(901, 422)
+2025-01-24 11:32:08,796 - DEBUG - bezier_curve: t=0.6326530612244898, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[869.94252395 440.79508538]
+2025-01-24 11:32:08,796 - DEBUG - generate_bezier_path: step 31, t=0.6326530612244898, point=[869.94252395 440.79508538], path_point=(869, 440)
+2025-01-24 11:32:08,796 - DEBUG - bezier_curve: t=0.6530612244897959, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[837.19325281 459.8300708 ]
+2025-01-24 11:32:08,796 - DEBUG - generate_bezier_path: step 32, t=0.6530612244897959, point=[837.19325281 459.8300708 ], path_point=(837, 459)
+2025-01-24 11:32:08,797 - DEBUG - bezier_curve: t=0.673469387755102, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[803.39525198 479.52894627]
+2025-01-24 11:32:08,797 - DEBUG - generate_bezier_path: step 33, t=0.673469387755102, point=[803.39525198 479.52894627], path_point=(803, 479)
+2025-01-24 11:32:08,797 - DEBUG - bezier_curve: t=0.6938775510204082, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[768.54852145 499.89171179]
+2025-01-24 11:32:08,797 - DEBUG - generate_bezier_path: step 34, t=0.6938775510204082, point=[768.54852145 499.89171179], path_point=(768, 499)
+2025-01-24 11:32:08,797 - DEBUG - bezier_curve: t=0.7142857142857143, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[732.65306122 520.91836735]
+2025-01-24 11:32:08,797 - DEBUG - generate_bezier_path: step 35, t=0.7142857142857143, point=[732.65306122 520.91836735], path_point=(732, 520)
+2025-01-24 11:32:08,798 - DEBUG - bezier_curve: t=0.7346938775510204, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[695.7088713  542.60891295]
+2025-01-24 11:32:08,798 - DEBUG - generate_bezier_path: step 36, t=0.7346938775510204, point=[695.7088713  542.60891295], path_point=(695, 542)
+2025-01-24 11:32:08,798 - DEBUG - bezier_curve: t=0.7551020408163265, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[657.71595169 564.9633486 ]
+2025-01-24 11:32:08,798 - DEBUG - generate_bezier_path: step 37, t=0.7551020408163265, point=[657.71595169 564.9633486 ], path_point=(657, 564)
+2025-01-24 11:32:08,798 - DEBUG - bezier_curve: t=0.7755102040816326, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[618.67430237 587.9816743 ]
+2025-01-24 11:32:08,799 - DEBUG - generate_bezier_path: step 38, t=0.7755102040816326, point=[618.67430237 587.9816743 ], path_point=(618, 587)
+2025-01-24 11:32:08,799 - DEBUG - bezier_curve: t=0.7959183673469388, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[578.58392337 611.66389005]
+2025-01-24 11:32:08,799 - DEBUG - generate_bezier_path: step 39, t=0.7959183673469388, point=[578.58392337 611.66389005], path_point=(578, 611)
+2025-01-24 11:32:08,799 - DEBUG - bezier_curve: t=0.8163265306122449, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[537.44481466 636.00999584]
+2025-01-24 11:32:08,799 - DEBUG - generate_bezier_path: step 40, t=0.8163265306122449, point=[537.44481466 636.00999584], path_point=(537, 636)
+2025-01-24 11:32:08,800 - DEBUG - bezier_curve: t=0.8367346938775511, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[495.25697626 661.01999167]
+2025-01-24 11:32:08,800 - DEBUG - generate_bezier_path: step 41, t=0.8367346938775511, point=[495.25697626 661.01999167], path_point=(495, 661)
+2025-01-24 11:32:08,800 - DEBUG - bezier_curve: t=0.8571428571428571, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[452.02040816 686.69387755]
+2025-01-24 11:32:08,800 - DEBUG - generate_bezier_path: step 42, t=0.8571428571428571, point=[452.02040816 686.69387755], path_point=(452, 686)
+2025-01-24 11:32:08,800 - DEBUG - bezier_curve: t=0.8775510204081632, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[407.73511037 713.03165348]
+2025-01-24 11:32:08,800 - DEBUG - generate_bezier_path: step 43, t=0.8775510204081632, point=[407.73511037 713.03165348], path_point=(407, 713)
+2025-01-24 11:32:08,801 - DEBUG - bezier_curve: t=0.8979591836734694, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[362.40108288 740.03331945]
+2025-01-24 11:32:08,801 - DEBUG - generate_bezier_path: step 44, t=0.8979591836734694, point=[362.40108288 740.03331945], path_point=(362, 740)
+2025-01-24 11:32:08,801 - DEBUG - bezier_curve: t=0.9183673469387755, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[316.0183257  767.69887547]
+2025-01-24 11:32:08,801 - DEBUG - generate_bezier_path: step 45, t=0.9183673469387755, point=[316.0183257  767.69887547], path_point=(316, 767)
+2025-01-24 11:32:08,801 - DEBUG - bezier_curve: t=0.9387755102040817, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[268.58683882 796.02832153]
+2025-01-24 11:32:08,802 - DEBUG - generate_bezier_path: step 46, t=0.9387755102040817, point=[268.58683882 796.02832153], path_point=(268, 796)
+2025-01-24 11:32:08,802 - DEBUG - bezier_curve: t=0.9591836734693877, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[220.10662224 825.02165764]
+2025-01-24 11:32:08,802 - DEBUG - generate_bezier_path: step 47, t=0.9591836734693877, point=[220.10662224 825.02165764], path_point=(220, 825)
+2025-01-24 11:32:08,802 - DEBUG - bezier_curve: t=0.9795918367346939, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[170.57767597 854.6788838 ]
+2025-01-24 11:32:08,802 - DEBUG - generate_bezier_path: step 48, t=0.9795918367346939, point=[170.57767597 854.6788838 ], path_point=(170, 854)
+2025-01-24 11:32:08,803 - DEBUG - bezier_curve: t=1.0, p0=[1365  180], p1=[1372  134], p2=[120 885], result=[120. 885.]
+2025-01-24 11:32:08,803 - DEBUG - generate_bezier_path: step 49, t=1.0, point=[120. 885.], path_point=(120, 885)
+2025-01-24 11:32:08,803 - DEBUG - generate_bezier_path: Generated path with 50 points.
+2025-01-24 11:32:08,803 - DEBUG - move_mouse_with_curve: Generated path with 50 points.
+2025-01-24 11:32:08,803 - DEBUG - move_mouse_with_curve: Step 0, speed=0.00
+2025-01-24 11:32:08,803 - DEBUG - move_mouse_with_curve: Step 0, distance=0.00, delay=0.00000
+2025-01-24 11:32:08,803 - DEBUG - move_mouse_with_curve: Step 0, moved mouse to (1365, 180).
+2025-01-24 11:32:08,803 - DEBUG - move_mouse_with_curve: Step 1, speed=0.00
+2025-01-24 11:32:08,803 - DEBUG - move_mouse_with_curve: Step 1, distance=2.24, delay=0.00154
+2025-01-24 11:32:08,806 - DEBUG - move_mouse_with_curve: Step 1, moved mouse to (1364, 178).
+2025-01-24 11:32:08,806 - DEBUG - move_mouse_with_curve: Step 2, speed=0.00
+2025-01-24 11:32:08,806 - DEBUG - move_mouse_with_curve: Step 2, distance=1.41, delay=0.00159
+2025-01-24 11:32:08,809 - DEBUG - move_mouse_with_curve: Step 2, moved mouse to (1363, 177).
+2025-01-24 11:32:08,809 - DEBUG - move_mouse_with_curve: Step 3, speed=0.00
+2025-01-24 11:32:08,810 - DEBUG - move_mouse_with_curve: Step 3, distance=2.00, delay=0.00233
+2025-01-24 11:32:08,813 - DEBUG - move_mouse_with_curve: Step 3, moved mouse to (1361, 177).
+2025-01-24 11:32:08,813 - DEBUG - move_mouse_with_curve: Step 4, speed=0.00
+2025-01-24 11:32:08,813 - DEBUG - move_mouse_with_curve: Step 4, distance=4.00, delay=0.00239
+2025-01-24 11:32:08,816 - DEBUG - move_mouse_with_curve: Step 4, moved mouse to (1357, 177).
+2025-01-24 11:32:08,816 - DEBUG - move_mouse_with_curve: Step 5, speed=0.00
+2025-01-24 11:32:08,816 - DEBUG - move_mouse_with_curve: Step 5, distance=4.12, delay=0.00404
+2025-01-24 11:32:08,821 - DEBUG - move_mouse_with_curve: Step 5, moved mouse to (1353, 178).
+2025-01-24 11:32:08,821 - DEBUG - move_mouse_with_curve: Step 6, speed=0.00
+2025-01-24 11:32:08,821 - DEBUG - move_mouse_with_curve: Step 6, distance=6.32, delay=0.00371
+2025-01-24 11:32:08,826 - DEBUG - move_mouse_with_curve: Step 6, moved mouse to (1347, 180).
+2025-01-24 11:32:08,826 - DEBUG - move_mouse_with_curve: Step 7, speed=0.00
+2025-01-24 11:32:08,826 - DEBUG - move_mouse_with_curve: Step 7, distance=6.71, delay=0.00551
+2025-01-24 11:32:08,833 - DEBUG - move_mouse_with_curve: Step 7, moved mouse to (1341, 183).
+2025-01-24 11:32:08,833 - DEBUG - move_mouse_with_curve: Step 8, speed=0.00
+2025-01-24 11:32:08,833 - DEBUG - move_mouse_with_curve: Step 8, distance=8.54, delay=0.00486
+2025-01-24 11:32:08,838 - DEBUG - move_mouse_with_curve: Step 8, moved mouse to (1333, 186).
+2025-01-24 11:32:08,838 - DEBUG - move_mouse_with_curve: Step 9, speed=0.00
+2025-01-24 11:32:08,838 - DEBUG - move_mouse_with_curve: Step 9, distance=8.54, delay=0.00420
+2025-01-24 11:32:08,844 - DEBUG - move_mouse_with_curve: Step 9, moved mouse to (1325, 189).
+2025-01-24 11:32:08,845 - DEBUG - move_mouse_with_curve: Step 10, speed=0.00
+2025-01-24 11:32:08,845 - DEBUG - move_mouse_with_curve: Step 10, distance=11.18, delay=0.00603
+2025-01-24 11:32:08,852 - DEBUG - move_mouse_with_curve: Step 10, moved mouse to (1315, 194).
+2025-01-24 11:32:08,852 - DEBUG - move_mouse_with_curve: Step 11, speed=0.00
+2025-01-24 11:32:08,852 - DEBUG - move_mouse_with_curve: Step 11, distance=12.08, delay=0.00611
+2025-01-24 11:32:08,858 - DEBUG - move_mouse_with_curve: Step 11, moved mouse to (1304, 199).
+2025-01-24 11:32:08,858 - DEBUG - move_mouse_with_curve: Step 12, speed=0.00
+2025-01-24 11:32:08,859 - DEBUG - move_mouse_with_curve: Step 12, distance=13.42, delay=0.00817
+2025-01-24 11:32:08,867 - DEBUG - move_mouse_with_curve: Step 12, moved mouse to (1292, 205).
+2025-01-24 11:32:08,868 - DEBUG - move_mouse_with_curve: Step 13, speed=0.00
+2025-01-24 11:32:08,868 - DEBUG - move_mouse_with_curve: Step 13, distance=13.42, delay=0.01039
+2025-01-24 11:32:08,878 - DEBUG - move_mouse_with_curve: Step 13, moved mouse to (1280, 211).
+2025-01-24 11:32:08,878 - DEBUG - move_mouse_with_curve: Step 14, speed=0.00
+2025-01-24 11:32:08,879 - DEBUG - move_mouse_with_curve: Step 14, distance=15.65, delay=0.00905
+2025-01-24 11:32:08,888 - DEBUG - move_mouse_with_curve: Step 14, moved mouse to (1266, 218).
+2025-01-24 11:32:08,888 - DEBUG - move_mouse_with_curve: Step 15, speed=0.00
+2025-01-24 11:32:08,888 - DEBUG - move_mouse_with_curve: Step 15, distance=17.00, delay=0.01065
+2025-01-24 11:32:08,899 - DEBUG - move_mouse_with_curve: Step 15, moved mouse to (1251, 226).
+2025-01-24 11:32:08,900 - DEBUG - move_mouse_with_curve: Step 16, speed=0.00
+2025-01-24 11:32:08,900 - DEBUG - move_mouse_with_curve: Step 16, distance=17.89, delay=0.01152
+2025-01-24 11:32:08,912 - DEBUG - move_mouse_with_curve: Step 16, moved mouse to (1235, 234).
+2025-01-24 11:32:08,912 - DEBUG - move_mouse_with_curve: Step 17, speed=0.00
+2025-01-24 11:32:08,912 - DEBUG - move_mouse_with_curve: Step 17, distance=19.72, delay=0.01161
+2025-01-24 11:32:08,924 - DEBUG - move_mouse_with_curve: Step 17, moved mouse to (1218, 244).
+2025-01-24 11:32:08,924 - DEBUG - move_mouse_with_curve: Step 18, speed=0.00
+2025-01-24 11:32:08,924 - DEBUG - move_mouse_with_curve: Step 18, distance=20.12, delay=0.01225
+2025-01-24 11:32:08,937 - DEBUG - move_mouse_with_curve: Step 18, moved mouse to (1200, 253).
+2025-01-24 11:32:08,937 - DEBUG - move_mouse_with_curve: Step 19, speed=0.00
+2025-01-24 11:32:08,937 - DEBUG - move_mouse_with_curve: Step 19, distance=21.95, delay=0.01012
+2025-01-24 11:32:08,948 - DEBUG - move_mouse_with_curve: Step 19, moved mouse to (1181, 264).
+2025-01-24 11:32:08,949 - DEBUG - move_mouse_with_curve: Step 20, speed=0.00
+2025-01-24 11:32:08,949 - DEBUG - move_mouse_with_curve: Step 20, distance=23.71, delay=0.01381
+2025-01-24 11:32:08,963 - DEBUG - move_mouse_with_curve: Step 20, moved mouse to (1160, 275).
+2025-01-24 11:32:08,963 - DEBUG - move_mouse_with_curve: Step 21, speed=0.00
+2025-01-24 11:32:08,964 - DEBUG - move_mouse_with_curve: Step 21, distance=23.71, delay=0.01462
+2025-01-24 11:32:08,979 - DEBUG - move_mouse_with_curve: Step 21, moved mouse to (1139, 286).
+2025-01-24 11:32:08,979 - DEBUG - move_mouse_with_curve: Step 22, speed=0.00
+2025-01-24 11:32:08,979 - DEBUG - move_mouse_with_curve: Step 22, distance=25.55, delay=0.01612
+2025-01-24 11:32:08,996 - DEBUG - move_mouse_with_curve: Step 22, moved mouse to (1117, 299).
+2025-01-24 11:32:08,996 - DEBUG - move_mouse_with_curve: Step 23, speed=0.00
+2025-01-24 11:32:08,996 - DEBUG - move_mouse_with_curve: Step 23, distance=26.42, delay=0.00981
+2025-01-24 11:32:09,007 - DEBUG - move_mouse_with_curve: Step 23, moved mouse to (1094, 312).
+2025-01-24 11:32:09,007 - DEBUG - move_mouse_with_curve: Step 24, speed=0.00
+2025-01-24 11:32:09,007 - DEBUG - move_mouse_with_curve: Step 24, distance=28.65, delay=0.01279
+2025-01-24 11:32:09,021 - DEBUG - move_mouse_with_curve: Step 24, moved mouse to (1069, 326).
+2025-01-24 11:32:09,021 - DEBUG - move_mouse_with_curve: Step 25, speed=0.00
+2025-01-24 11:32:09,021 - DEBUG - move_mouse_with_curve: Step 25, distance=28.65, delay=0.01575
+2025-01-24 11:32:09,038 - DEBUG - move_mouse_with_curve: Step 25, moved mouse to (1044, 340).
+2025-01-24 11:32:09,038 - DEBUG - move_mouse_with_curve: Step 26, speed=0.00
+2025-01-24 11:32:09,038 - DEBUG - move_mouse_with_curve: Step 26, distance=30.89, delay=0.01132
+2025-01-24 11:32:09,050 - DEBUG - move_mouse_with_curve: Step 26, moved mouse to (1017, 355).
+2025-01-24 11:32:09,050 - DEBUG - move_mouse_with_curve: Step 27, speed=0.00
+2025-01-24 11:32:09,050 - DEBUG - move_mouse_with_curve: Step 27, distance=31.38, delay=0.01574
+2025-01-24 11:32:09,067 - DEBUG - move_mouse_with_curve: Step 27, moved mouse to (990, 371).
+2025-01-24 11:32:09,067 - DEBUG - move_mouse_with_curve: Step 28, speed=0.00
+2025-01-24 11:32:09,068 - DEBUG - move_mouse_with_curve: Step 28, distance=33.12, delay=0.01803
+2025-01-24 11:32:09,087 - DEBUG - move_mouse_with_curve: Step 28, moved mouse to (961, 387).
+2025-01-24 11:32:09,087 - DEBUG - move_mouse_with_curve: Step 29, speed=0.00
+2025-01-24 11:32:09,087 - DEBUG - move_mouse_with_curve: Step 29, distance=33.62, delay=0.01468
+2025-01-24 11:32:09,102 - DEBUG - move_mouse_with_curve: Step 29, moved mouse to (932, 404).
+2025-01-24 11:32:09,102 - DEBUG - move_mouse_with_curve: Step 30, speed=0.00
+2025-01-24 11:32:09,102 - DEBUG - move_mouse_with_curve: Step 30, distance=35.85, delay=0.01933
+2025-01-24 11:32:09,122 - DEBUG - move_mouse_with_curve: Step 30, moved mouse to (901, 422).
+2025-01-24 11:32:09,122 - DEBUG - move_mouse_with_curve: Step 31, speed=0.00
+2025-01-24 11:32:09,122 - DEBUG - move_mouse_with_curve: Step 31, distance=36.72, delay=0.01200
+2025-01-24 11:32:09,135 - DEBUG - move_mouse_with_curve: Step 31, moved mouse to (869, 440).
+2025-01-24 11:32:09,135 - DEBUG - move_mouse_with_curve: Step 32, speed=0.00
+2025-01-24 11:32:09,135 - DEBUG - move_mouse_with_curve: Step 32, distance=37.22, delay=0.01963
+2025-01-24 11:32:09,155 - DEBUG - move_mouse_with_curve: Step 32, moved mouse to (837, 459).
+2025-01-24 11:32:09,156 - DEBUG - move_mouse_with_curve: Step 33, speed=0.00
+2025-01-24 11:32:09,156 - DEBUG - move_mouse_with_curve: Step 33, distance=39.45, delay=0.01330
+2025-01-24 11:32:09,169 - DEBUG - move_mouse_with_curve: Step 33, moved mouse to (803, 479).
+2025-01-24 11:32:09,169 - DEBUG - move_mouse_with_curve: Step 34, speed=0.00
+2025-01-24 11:32:09,170 - DEBUG - move_mouse_with_curve: Step 34, distance=40.31, delay=0.02217
+2025-01-24 11:32:09,193 - DEBUG - move_mouse_with_curve: Step 34, moved mouse to (768, 499).
+2025-01-24 11:32:09,193 - DEBUG - move_mouse_with_curve: Step 35, speed=0.00
+2025-01-24 11:32:09,193 - DEBUG - move_mouse_with_curve: Step 35, distance=41.68, delay=0.01689
+2025-01-24 11:32:09,211 - DEBUG - move_mouse_with_curve: Step 35, moved mouse to (732, 520).
+2025-01-24 11:32:09,211 - DEBUG - move_mouse_with_curve: Step 36, speed=0.00
+2025-01-24 11:32:09,211 - DEBUG - move_mouse_with_curve: Step 36, distance=43.05, delay=0.02419
+2025-01-24 11:32:09,236 - DEBUG - move_mouse_with_curve: Step 36, moved mouse to (695, 542).
+2025-01-24 11:32:09,236 - DEBUG - move_mouse_with_curve: Step 37, speed=0.00
+2025-01-24 11:32:09,236 - DEBUG - move_mouse_with_curve: Step 37, distance=43.91, delay=0.01753
+2025-01-24 11:32:09,254 - DEBUG - move_mouse_with_curve: Step 37, moved mouse to (657, 564).
+2025-01-24 11:32:09,254 - DEBUG - move_mouse_with_curve: Step 38, speed=0.00
+2025-01-24 11:32:09,255 - DEBUG - move_mouse_with_curve: Step 38, distance=45.28, delay=0.02452
+2025-01-24 11:32:09,281 - DEBUG - move_mouse_with_curve: Step 38, moved mouse to (618, 587).
+2025-01-24 11:32:09,281 - DEBUG - move_mouse_with_curve: Step 39, speed=0.00
+2025-01-24 11:32:09,281 - DEBUG - move_mouse_with_curve: Step 39, distance=46.65, delay=0.02036
+2025-01-24 11:32:09,302 - DEBUG - move_mouse_with_curve: Step 39, moved mouse to (578, 611).
+2025-01-24 11:32:09,302 - DEBUG - move_mouse_with_curve: Step 40, speed=0.00
+2025-01-24 11:32:09,303 - DEBUG - move_mouse_with_curve: Step 40, distance=48.02, delay=0.02695
+2025-01-24 11:32:09,332 - DEBUG - move_mouse_with_curve: Step 40, moved mouse to (537, 636).
+2025-01-24 11:32:09,332 - DEBUG - move_mouse_with_curve: Step 41, speed=0.00
+2025-01-24 11:32:09,332 - DEBUG - move_mouse_with_curve: Step 41, distance=48.88, delay=0.01901
+2025-01-24 11:32:09,351 - DEBUG - move_mouse_with_curve: Step 41, moved mouse to (495, 661).
+2025-01-24 11:32:09,351 - DEBUG - move_mouse_with_curve: Step 42, speed=0.00
+2025-01-24 11:32:09,352 - DEBUG - move_mouse_with_curve: Step 42, distance=49.74, delay=0.02711
+2025-01-24 11:32:09,380 - DEBUG - move_mouse_with_curve: Step 42, moved mouse to (452, 686).
+2025-01-24 11:32:09,381 - DEBUG - move_mouse_with_curve: Step 43, speed=0.00
+2025-01-24 11:32:09,381 - DEBUG - move_mouse_with_curve: Step 43, distance=52.48, delay=0.01849
+2025-01-24 11:32:09,400 - DEBUG - move_mouse_with_curve: Step 43, moved mouse to (407, 713).
+2025-01-24 11:32:09,400 - DEBUG - move_mouse_with_curve: Step 44, speed=0.00
+2025-01-24 11:32:09,400 - DEBUG - move_mouse_with_curve: Step 44, distance=52.48, delay=0.01599
+2025-01-24 11:32:09,416 - DEBUG - move_mouse_with_curve: Step 44, moved mouse to (362, 740).
+2025-01-24 11:32:09,417 - DEBUG - move_mouse_with_curve: Step 45, speed=0.00
+2025-01-24 11:32:09,417 - DEBUG - move_mouse_with_curve: Step 45, distance=53.34, delay=0.02318
+2025-01-24 11:32:09,446 - DEBUG - move_mouse_with_curve: Step 45, moved mouse to (316, 767).
+2025-01-24 11:32:09,447 - DEBUG - move_mouse_with_curve: Step 46, speed=0.00
+2025-01-24 11:32:09,447 - DEBUG - move_mouse_with_curve: Step 46, distance=56.08, delay=0.02012
+2025-01-24 11:32:09,468 - DEBUG - move_mouse_with_curve: Step 46, moved mouse to (268, 796).
+2025-01-24 11:32:09,468 - DEBUG - move_mouse_with_curve: Step 47, speed=0.00
+2025-01-24 11:32:09,468 - DEBUG - move_mouse_with_curve: Step 47, distance=56.08, delay=0.02762
+2025-01-24 11:32:09,497 - DEBUG - move_mouse_with_curve: Step 47, moved mouse to (220, 825).
+2025-01-24 11:32:09,497 - DEBUG - move_mouse_with_curve: Step 48, speed=0.00
+2025-01-24 11:32:09,497 - DEBUG - move_mouse_with_curve: Step 48, distance=57.80, delay=0.02460
+2025-01-24 11:32:09,522 - DEBUG - move_mouse_with_curve: Step 48, moved mouse to (170, 854).
+2025-01-24 11:32:09,522 - DEBUG - move_mouse_with_curve: Step 49, speed=0.00
+2025-01-24 11:32:09,523 - DEBUG - move_mouse_with_curve: Step 49, distance=58.83, delay=0.02738
+2025-01-24 11:32:09,551 - DEBUG - move_mouse_with_curve: Step 49, moved mouse to (120, 885).
+2025-01-24 11:32:09,707 - DEBUG - click_element: Attempting to click element with locator: ('link text', 'Social Networking')
+2025-01-24 11:32:09,870 - DEBUG - click_element: Element located successfully. Attempting to click using Javascript
+2025-01-24 11:32:11,349 - INFO - click_element: Element clicked using JavaScript click.
+2025-01-24 11:32:13,132 - DEBUG - scroll_random_times: Scrolling page 9 times.
+2025-01-24 11:32:13,132 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:13,843 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.69 seconds.
+2025-01-24 11:32:13,843 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:14,800 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.93 seconds.
+2025-01-24 11:32:14,801 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:15,446 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.62 seconds.
+2025-01-24 11:32:15,447 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:15,983 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.52 seconds.
+2025-01-24 11:32:15,984 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:16,697 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.70 seconds.
+2025-01-24 11:32:16,698 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:17,695 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.99 seconds.
+2025-01-24 11:32:17,695 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:18,436 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.73 seconds.
+2025-01-24 11:32:18,436 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:19,272 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.83 seconds.
+2025-01-24 11:32:19,273 - DEBUG - scroll_page: Scrolling by 500 pixels.
+2025-01-24 11:32:20,086 - DEBUG - scroll_page: Scrolled page by 500, Delay: 0.80 seconds.
+2025-01-24 11:32:20,087 - DEBUG - scroll_random_times: Scrolling Completed
+2025-01-24 11:32:20,087 - INFO - Scrolling completed after click.
+2025-01-24 11:32:22,087 - DEBUG - Pausing before quitting driver...
+2025-01-24 11:32:24,486 - INFO - Driver quit successfully.

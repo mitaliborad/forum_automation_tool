@@ -1,0 +1,114 @@
+2025-04-02 13:54:58,552 - INFO - Current time: 1743582298.552605
+2025-04-02 13:54:58,555 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 13:54:58,558 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 13:54:58,560 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-02 13:55:08,593 - INFO - Profile DataPhreak: Pausing for 48.41 seconds...
+2025-04-02 13:55:57,010 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 13:55:57,033 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-02 13:55:57,033 - INFO - performing random action
+2025-04-02 13:55:57,034 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:55:57,036 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:55:57,036 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:55:58,629 - DEBUG - Page scrolled.
+2025-04-02 13:56:00,631 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:56:01,792 - DEBUG - Page scrolled.
+2025-04-02 13:56:03,794 - DEBUG - Random scrolls complete.
+2025-04-02 13:56:03,795 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:56:03,796 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:56:05,389 - DEBUG - Page scrolled.
+2025-04-02 13:56:07,390 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:56:09,359 - DEBUG - Page scrolled.
+2025-04-02 13:56:11,361 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:56:12,736 - DEBUG - Page scrolled.
+2025-04-02 13:56:14,738 - DEBUG - Random scrolls complete.
+2025-04-02 13:56:25,398 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-02 13:56:29,650 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-would-love-to-get-invited-to-canva-pro.1683086/unread
+2025-04-02 13:56:29,651 - INFO - performing random action
+2025-04-02 13:56:37,947 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-would-love-to-get-invited-to-canva-pro.1683086/unread
+2025-04-02 13:56:37,951 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-would-love-to-get-invited-to-canva-pro.1683086/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 13:56:38,001 - INFO - Extracted thread title: i would love to get invited to canva pro
+2025-04-02 13:56:38,002 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:56:38,003 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:56:39,182 - DEBUG - Page scrolled.
+2025-04-02 13:56:41,185 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:56:42,412 - DEBUG - Page scrolled.
+2025-04-02 13:56:44,413 - DEBUG - Random scrolls complete.
+2025-04-02 13:56:46,480 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:56:46,482 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:56:47,836 - DEBUG - Page scrolled.
+2025-04-02 13:56:50,838 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:56:51,858 - DEBUG - Page scrolled.
+2025-04-02 13:56:54,860 - DEBUG - Random scrolls complete.
+2025-04-02 13:56:54,897 - DEBUG - Found 7 like buttons.
+2025-04-02 13:56:57,899 - INFO - Attempting to like 3 posts. There are 7 available.
+2025-04-02 13:56:58,870 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:56:58,894 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:56:58,894 - DEBUG - Liked post number 1 of 3.
+2025-04-02 13:57:04,127 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:57:04,147 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:57:04,148 - DEBUG - Liked post number 2 of 3.
+2025-04-02 13:57:09,577 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:57:09,597 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:57:09,599 - DEBUG - Liked post number 3 of 3.
+2025-04-02 13:57:14,110 - INFO - Liked 3 posts successfully.
+2025-04-02 13:57:14,112 - INFO - Liked 3 posts successfully.
+2025-04-02 13:57:16,490 - INFO - performing random action
+2025-04-02 13:57:16,492 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:57:16,492 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:57:17,671 - DEBUG - Page scrolled.
+2025-04-02 13:57:20,673 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:57:21,709 - DEBUG - Page scrolled.
+2025-04-02 13:57:24,711 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:57:25,976 - DEBUG - Page scrolled.
+2025-04-02 13:57:28,978 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:57:30,807 - DEBUG - Page scrolled.
+2025-04-02 13:57:33,809 - DEBUG - Random scrolls complete.
+2025-04-02 13:57:35,918 - DEBUG - Total comments in the thread: 7
+2025-04-02 13:58:18,433 - INFO - Post content extracted and saved to Thread-Details/Thread Content\i would love to get invited to canva pro.txt
+2025-04-02 13:58:21,094 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 13:58:21,132 - DEBUG - Extracted main post content: hello guys
+i searched the forum but each time someone offer an invite i found it expired , can anyone please show some love ?
+
+thanks
+2025-04-02 13:58:24,519 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 13:58:24,522 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 13:58:27,342 - INFO - Profile DataPhreak: Opening random website: https://www.canva.com/en_in/
+2025-04-02 13:58:49,991 - INFO - Profile DataPhreak: Pausing for 41.64 seconds...
+2025-04-02 13:59:31,630 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 13:59:31,674 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-02 13:59:31,675 - INFO - performing random action
+2025-04-02 13:59:31,676 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:59:31,680 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:59:31,780 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:59:31,837 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:59:31,843 - DEBUG - Text box scrolled into view
+2025-04-02 13:59:32,837 - DEBUG - Initializing actionchains
+2025-04-02 13:59:32,860 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2945}, size: {'height': 21, 'width': 68}
+2025-04-02 13:59:32,861 - DEBUG - Target click coordinates: (1121, 2955)
+2025-04-02 13:59:42,683 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 13:59:42,685 - DEBUG - Moving mouse to text box element.
+2025-04-02 13:59:42,689 - DEBUG - Clicking on the text box.
+2025-04-02 13:59:42,692 - DEBUG - Sending keys with content: Yeah, finding a working invite can be a pain. Have you tried checking the stickied threads? Sometimes there are official giveaways there.
+
+2025-04-02 13:59:47,998 - DEBUG - Clicking on post reply button.
+2025-04-02 13:59:58,986 - DEBUG - Performed Actionchains
+2025-04-02 13:59:58,987 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 14:00:02,988 - INFO - Comment posted successfully.
+2025-04-02 14:00:02,990 - INFO - Task Completed!!
+2025-04-02 14:00:11,181 - INFO - Navigated back to the homepage.
+2025-04-02 14:00:13,304 - INFO - Attempting to clear memory and resources.
+2025-04-02 14:00:13,346 - INFO - Garbage collection completed.
+2025-04-02 14:00:13,347 - INFO - Waiting for 2000 seconds before next execution.
+2025-04-02 14:33:33,348 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-02 14:33:33,351 - INFO - Stopping browser for profile: DataPhreak...
+2025-04-02 14:33:33,353 - INFO - Refreshing token before stopping profile...
+2025-04-02 14:33:33,356 - INFO - Refreshing token for DataPhreak...
+2025-04-02 14:33:34,222 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-02 14:33:34,224 - INFO - Calculated token expiration time: 1743595414.2239983
+2025-04-02 14:33:34,224 - INFO - Profile DataPhreak: Successfully logged in.
+2025-04-02 14:33:34,226 - INFO - Token refreshed successfully before stopping.
+2025-04-02 14:33:34,227 - INFO - Profile DataPhreak: Attempting to stop (Attempt 1/3)...
+2025-04-02 14:33:34,235 - INFO - Profile DataPhreak: Browser closed successfully in 0.01 seconds.
+2025-04-02 14:33:37,209 - INFO - Profile DataPhreak: API call took 2.97 seconds.
+2025-04-02 14:33:37,211 - INFO - Profile DataPhreak: Stopped successfully.
+2025-04-02 14:33:37,215 - INFO - Browser stopped successfully for profile: DataPhreak.

@@ -1,0 +1,145 @@
+2025-03-12 11:58:36,034 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250312_115836.log
+2025-03-12 11:58:36,044 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 11:58:36,046 - INFO - Loaded 154 visited threads from Thread_links.txt
+2025-03-12 11:58:36,048 - INFO - Successfully loaded links that was already visited!
+2025-03-12 11:58:36,049 - DEBUG - Scrolling page 4 times.
+2025-03-12 11:58:36,051 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:58:37,689 - DEBUG - Page scrolled.
+2025-03-12 11:58:39,709 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:58:41,069 - DEBUG - Page scrolled.
+2025-03-12 11:58:43,071 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:58:44,388 - DEBUG - Page scrolled.
+2025-03-12 11:58:46,390 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:58:48,054 - DEBUG - Page scrolled.
+2025-03-12 11:58:50,056 - DEBUG - Random scrolls complete.
+2025-03-12 11:58:50,057 - DEBUG - Scrolling page 6 times.
+2025-03-12 11:58:50,058 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:58:51,633 - DEBUG - Page scrolled.
+2025-03-12 11:58:53,635 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:58:54,888 - DEBUG - Page scrolled.
+2025-03-12 11:58:56,891 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:58:58,263 - DEBUG - Page scrolled.
+2025-03-12 11:59:00,264 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:01,416 - DEBUG - Page scrolled.
+2025-03-12 11:59:03,418 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:04,751 - DEBUG - Page scrolled.
+2025-03-12 11:59:06,753 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:08,521 - DEBUG - Page scrolled.
+2025-03-12 11:59:10,523 - DEBUG - Random scrolls complete.
+2025-03-12 11:59:13,206 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-03-12 11:59:22,427 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-use-native-ads-to-maximize-cpa-payouts-in-tier-1-countries.1694597/unread
+2025-03-12 11:59:32,146 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-use-native-ads-to-maximize-cpa-payouts-in-tier-1-countries.1694597/unread
+2025-03-12 11:59:32,151 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-use-native-ads-to-maximize-cpa-payouts-in-tier-1-countries.1694597/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 11:59:32,207 - INFO - Extracted thread title: How to Use Native Ads to Maximize CPA Payouts in Tier 1 Countries
+2025-03-12 11:59:32,208 - DEBUG - Scrolling page 4 times.
+2025-03-12 11:59:32,209 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:33,336 - DEBUG - Page scrolled.
+2025-03-12 11:59:35,337 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:36,642 - DEBUG - Page scrolled.
+2025-03-12 11:59:38,643 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:39,950 - DEBUG - Page scrolled.
+2025-03-12 11:59:41,952 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:43,533 - DEBUG - Page scrolled.
+2025-03-12 11:59:45,535 - DEBUG - Random scrolls complete.
+2025-03-12 11:59:47,685 - DEBUG - Scrolling page 3 times.
+2025-03-12 11:59:47,687 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:49,664 - DEBUG - Page scrolled.
+2025-03-12 11:59:52,667 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:53,928 - DEBUG - Page scrolled.
+2025-03-12 11:59:56,930 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 11:59:58,931 - DEBUG - Page scrolled.
+2025-03-12 12:00:01,935 - DEBUG - Random scrolls complete.
+2025-03-12 12:00:01,977 - DEBUG - Found 2 like buttons.
+2025-03-12 12:00:04,979 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-12 12:00:05,934 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:00:05,962 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:00:05,964 - DEBUG - Liked post number 1 of 2.
+2025-03-12 12:00:11,112 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:00:11,121 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:00:11,123 - DEBUG - Liked post number 2 of 2.
+2025-03-12 12:00:15,274 - INFO - Liked 2 posts successfully.
+2025-03-12 12:00:15,277 - INFO - Liked 2 posts successfully.
+2025-03-12 12:00:17,962 - DEBUG - Scrolling page 6 times.
+2025-03-12 12:00:17,964 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:00:19,429 - DEBUG - Page scrolled.
+2025-03-12 12:00:22,432 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:00:24,077 - DEBUG - Page scrolled.
+2025-03-12 12:00:27,082 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:00:29,042 - DEBUG - Page scrolled.
+2025-03-12 12:00:32,044 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:00:33,615 - DEBUG - Page scrolled.
+2025-03-12 12:00:36,621 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:00:38,373 - DEBUG - Page scrolled.
+2025-03-12 12:00:41,378 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:00:43,359 - DEBUG - Page scrolled.
+2025-03-12 12:00:46,362 - DEBUG - Random scrolls complete.
+2025-03-12 12:00:49,085 - DEBUG - Total comments in the thread: 2
+2025-03-12 12:00:49,280 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to Use Native Ads to Maximize CPA Payouts in Tier 1 Countries.txt
+2025-03-12 12:00:52,035 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 12:00:52,077 - DEBUG - Extracted main post content: Hey BHW Fam,
+
+I’m diving deep into native ads and looking for ways to exploit CPA offers to generate high-value sales in USA, Australia, NZ, Spain, and Canada. My goal is to scale up and hit premium payouts, but I need some insights from those who’ve cracked the system.
+
+Here’s what I’m working with:
+
+
+• Running native ads (Taboola, Outbrain, Revcontent, MGID, etc.)
+
+
+• Targeting Tier 1 GEOs
+
+
+• Promoting high-ticket CPA offers
+
+
+• Focused on verticals like finance, health, insurance, and sweepstakes
+
+Questions:
+
+
+1. What’s the best ad angle & pre-lander setup for these GEOs to get high EPCs?
+
+
+2. How do you optimize for high-ticket conversions rather than low-value leads?
+
+
+3. Which networks have the highest CPA rates for these verticals?
+
+
+4. Any cloaking or funnel tricks to improve ad approvals & conversions?
+
+
+5. Is it better to buy aged domains for trust, or run everything through a fresh site with a strong funnel?
+
+
+I’m open to testing strategies and will share results if I find a winning formula. Appreciate any insights from those who’ve had success in these markets!
+
+
+Looking forward to your advice.
+
+
+Cheers!
+2025-03-12 12:00:55,472 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 12:00:55,474 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 12:00:58,422 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:00:58,423 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:00:58,435 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:00:58,481 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:00:58,493 - DEBUG - Text box scrolled into view
+2025-03-12 12:00:59,209 - DEBUG - Initializing actionchains
+2025-03-12 12:00:59,271 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2578}, size: {'height': 21, 'width': 68}
+2025-03-12 12:00:59,272 - DEBUG - Target click coordinates: (1121, 2588)
+2025-03-12 12:01:08,211 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 12:01:08,213 - DEBUG - Moving mouse to text box element.
+2025-03-12 12:01:08,215 - DEBUG - Clicking on the text box.
+2025-03-12 12:01:08,217 - DEBUG - Sending keys with content: Honestly, those geos are tough, but have you tried focusing pre-lander content on hyper-local news stories to boost credibility?
+
+2025-03-12 12:01:13,831 - DEBUG - Clicking on post reply button.
+2025-03-12 12:01:15,445 - DEBUG - Performed Actionchains
+2025-03-12 12:01:15,446 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 12:01:19,452 - INFO - Comment posted successfully.
+2025-03-12 12:01:19,455 - INFO - Task Completed!!
+2025-03-12 12:01:23,473 - INFO - Navigated back to the homepage.
+2025-03-12 12:01:26,287 - INFO - Attempting to clear memory and resources.
+2025-03-12 12:01:26,319 - INFO - Garbage collection completed.
+2025-03-12 12:01:26,321 - INFO - Waiting for 10 seconds before next execution.

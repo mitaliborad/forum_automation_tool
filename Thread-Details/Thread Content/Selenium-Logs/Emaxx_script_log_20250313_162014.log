@@ -1,0 +1,134 @@
+2025-03-13 16:20:14,235 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emaxx_script_log_20250313_162014.log
+2025-03-13 16:20:14,247 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 16:20:14,252 - INFO - Loaded 212 visited threads from Thread_links.txt
+2025-03-13 16:20:14,268 - INFO - Successfully loaded links that was already visited!
+2025-03-13 16:20:14,268 - DEBUG - Scrolling page 5 times.
+2025-03-13 16:20:14,269 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:15,522 - DEBUG - Page scrolled.
+2025-03-13 16:20:17,524 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:19,173 - DEBUG - Page scrolled.
+2025-03-13 16:20:21,181 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:23,172 - DEBUG - Page scrolled.
+2025-03-13 16:20:25,174 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:26,766 - DEBUG - Page scrolled.
+2025-03-13 16:20:28,768 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:30,120 - DEBUG - Page scrolled.
+2025-03-13 16:20:32,122 - DEBUG - Random scrolls complete.
+2025-03-13 16:20:32,123 - DEBUG - Scrolling page 5 times.
+2025-03-13 16:20:32,124 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:33,875 - DEBUG - Page scrolled.
+2025-03-13 16:20:35,881 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:37,320 - DEBUG - Page scrolled.
+2025-03-13 16:20:39,323 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:41,065 - DEBUG - Page scrolled.
+2025-03-13 16:20:43,068 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:44,508 - DEBUG - Page scrolled.
+2025-03-13 16:20:46,509 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:20:48,034 - DEBUG - Page scrolled.
+2025-03-13 16:20:50,037 - DEBUG - Random scrolls complete.
+2025-03-13 16:21:00,294 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-03-13 16:21:05,485 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/seo-performance-of-a-2-month-old-website.1693596/unread
+2025-03-13 16:21:16,163 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/seo-performance-of-a-2-month-old-website.1693596/unread
+2025-03-13 16:21:16,167 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/seo-performance-of-a-2-month-old-website.1693596/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 16:21:16,240 - INFO - Extracted thread title: SEO Performance of a 2-Month-Old Website
+2025-03-13 16:21:16,243 - DEBUG - Scrolling page 2 times.
+2025-03-13 16:21:16,244 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:17,936 - DEBUG - Page scrolled.
+2025-03-13 16:21:19,939 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:21,380 - DEBUG - Page scrolled.
+2025-03-13 16:21:23,385 - DEBUG - Random scrolls complete.
+2025-03-13 16:21:25,792 - DEBUG - Scrolling page 2 times.
+2025-03-13 16:21:25,794 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:27,436 - DEBUG - Page scrolled.
+2025-03-13 16:21:30,438 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:32,406 - DEBUG - Page scrolled.
+2025-03-13 16:21:35,409 - DEBUG - Random scrolls complete.
+2025-03-13 16:21:35,490 - DEBUG - Found 20 like buttons.
+2025-03-13 16:21:38,491 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-13 16:21:39,097 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:21:39,111 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:21:39,112 - DEBUG - Liked post number 1 of 3.
+2025-03-13 16:21:44,035 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:21:44,046 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:21:44,047 - DEBUG - Liked post number 2 of 3.
+2025-03-13 16:21:50,042 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 16:21:50,051 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 16:21:50,052 - DEBUG - Liked post number 3 of 3.
+2025-03-13 16:21:54,590 - INFO - Liked 3 posts successfully.
+2025-03-13 16:21:54,632 - INFO - Liked 3 posts successfully.
+2025-03-13 16:21:57,606 - DEBUG - Scrolling page 7 times.
+2025-03-13 16:21:57,609 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:21:59,570 - DEBUG - Page scrolled.
+2025-03-13 16:22:02,572 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:04,432 - DEBUG - Page scrolled.
+2025-03-13 16:22:07,434 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:09,244 - DEBUG - Page scrolled.
+2025-03-13 16:22:12,249 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:13,541 - DEBUG - Page scrolled.
+2025-03-13 16:22:16,546 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:18,063 - DEBUG - Page scrolled.
+2025-03-13 16:22:21,065 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:22,339 - DEBUG - Page scrolled.
+2025-03-13 16:22:25,343 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 16:22:26,768 - DEBUG - Page scrolled.
+2025-03-13 16:22:29,770 - DEBUG - Random scrolls complete.
+2025-03-13 16:22:32,564 - DEBUG - Total comments in the thread: 20
+2025-03-13 16:24:58,695 - INFO - Post content extracted and saved to Thread-Details/Thread Content\SEO Performance of a 2-Month-Old Website.txt
+2025-03-13 16:25:00,834 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 16:25:00,937 - DEBUG - Extracted main post content: Are these clicks and impressions good for a 2-month-old domain?
+
+
+Hey everyone,
+
+
+I launched a new website two months ago, and I started indexing some pages on January 23rd. Right now, the site is about 85% complete, and I still have a lot of content to upload.
+
+
+So far, these are my Google Search Console stats:
+
+
+Total clicks: 5.23K
+Total impressions: 25.2K
+CTR: 20.8%
+Average position: 22.8
+
+The domain is completely new and currently has a domain authority of 8 on Semrush.
+
+
+Are these results normal for this stage, or is there something I should improve?
+
+
+Thanks in advance!
+
+
+
+
+
+
+
+Attachments
+1741413496789.png
+2025-03-13 16:25:05,618 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 16:25:05,620 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 16:25:08,251 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:25:08,252 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:25:08,267 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:25:08,311 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 16:25:08,318 - DEBUG - Text box scrolled into view
+2025-03-13 16:25:09,098 - DEBUG - Initializing actionchains
+2025-03-13 16:25:09,140 - DEBUG - Post reply Element location: {'x': 1087, 'y': 7997}, size: {'height': 21, 'width': 68}
+2025-03-13 16:25:09,149 - DEBUG - Target click coordinates: (1121, 8007)
+2025-03-13 16:25:29,291 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 16:25:29,292 - DEBUG - Moving mouse to text box element.
+2025-03-13 16:25:29,293 - DEBUG - Clicking on the text box.
+2025-03-13 16:25:29,294 - DEBUG - Sending keys with content: That CTR seems pretty high, are you targeting some really specific keywords or something?
+
+2025-03-13 16:25:34,459 - DEBUG - Clicking on post reply button.
+2025-03-13 16:25:45,626 - DEBUG - Performed Actionchains
+2025-03-13 16:25:45,628 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 16:25:49,629 - INFO - Comment posted successfully.
+2025-03-13 16:25:49,631 - INFO - Task Completed!!
+2025-03-13 16:25:57,713 - INFO - Navigated back to the homepage.
+2025-03-13 16:26:00,206 - INFO - Attempting to clear memory and resources.
+2025-03-13 16:26:00,236 - INFO - Garbage collection completed.
+2025-03-13 16:26:00,237 - INFO - Waiting for 120 seconds before next execution.

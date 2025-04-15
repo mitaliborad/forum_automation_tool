@@ -1,0 +1,96 @@
+2025-03-13 15:36:54,379 - INFO - Starting new automation task. Log file created at: Selenium-Logs\ZeroDayHunter_script_log_20250313_153654.log
+2025-03-13 15:36:54,390 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:36:54,419 - INFO - Loaded 197 visited threads from Thread_links.txt
+2025-03-13 15:36:54,421 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:36:54,422 - DEBUG - Scrolling page 6 times.
+2025-03-13 15:36:54,440 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:36:59,071 - DEBUG - Page scrolled.
+2025-03-13 15:37:01,074 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:02,552 - DEBUG - Page scrolled.
+2025-03-13 15:37:04,554 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:05,654 - DEBUG - Page scrolled.
+2025-03-13 15:37:07,656 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:09,053 - DEBUG - Page scrolled.
+2025-03-13 15:37:11,062 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:12,203 - DEBUG - Page scrolled.
+2025-03-13 15:37:14,206 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:15,444 - DEBUG - Page scrolled.
+2025-03-13 15:37:17,446 - DEBUG - Random scrolls complete.
+2025-03-13 15:37:17,447 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:37:17,448 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:19,121 - DEBUG - Page scrolled.
+2025-03-13 15:37:21,124 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:22,548 - DEBUG - Page scrolled.
+2025-03-13 15:37:24,552 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:26,374 - DEBUG - Page scrolled.
+2025-03-13 15:37:28,383 - DEBUG - Random scrolls complete.
+2025-03-13 15:37:34,783 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-03-13 15:37:39,781 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-panel-is-this-smm-most-basic-panel.1299860/unread
+2025-03-13 15:37:52,292 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-panel-is-this-smm-most-basic-panel.1299860/unread
+2025-03-13 15:37:52,294 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-panel-is-this-smm-most-basic-panel.1299860/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:37:52,347 - INFO - Extracted thread title: What panel is this (SMM) - Most basic panel
+2025-03-13 15:37:52,348 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:37:52,348 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:54,104 - DEBUG - Page scrolled.
+2025-03-13 15:37:56,111 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:37:57,434 - DEBUG - Page scrolled.
+2025-03-13 15:37:59,436 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:00,672 - DEBUG - Page scrolled.
+2025-03-13 15:38:02,674 - DEBUG - Random scrolls complete.
+2025-03-13 15:38:04,846 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:38:04,847 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:06,412 - DEBUG - Page scrolled.
+2025-03-13 15:38:09,446 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:10,849 - DEBUG - Page scrolled.
+2025-03-13 15:38:13,850 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:15,511 - DEBUG - Page scrolled.
+2025-03-13 15:38:18,513 - DEBUG - Random scrolls complete.
+2025-03-13 15:38:18,533 - DEBUG - Found 20 like buttons.
+2025-03-13 15:38:21,533 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-13 15:38:22,071 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:38:22,097 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:38:22,099 - DEBUG - Liked post number 1 of 3.
+2025-03-13 15:38:27,429 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:38:27,438 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:38:27,441 - DEBUG - Liked post number 2 of 3.
+2025-03-13 15:38:32,842 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:38:32,850 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:38:32,851 - DEBUG - Liked post number 3 of 3.
+2025-03-13 15:38:36,922 - INFO - Liked 3 posts successfully.
+2025-03-13 15:38:36,928 - INFO - Liked 3 posts successfully.
+2025-03-13 15:38:53,897 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:38:53,898 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:55,248 - DEBUG - Page scrolled.
+2025-03-13 15:38:58,251 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:38:59,506 - DEBUG - Page scrolled.
+2025-03-13 15:39:02,508 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:39:04,083 - DEBUG - Page scrolled.
+2025-03-13 15:39:07,092 - DEBUG - Random scrolls complete.
+2025-03-13 15:39:09,675 - DEBUG - Total comments in the thread: 20
+2025-03-13 15:41:34,928 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What panel is this (SMM) - Most basic panel.txt
+2025-03-13 15:41:37,747 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:41:37,774 - DEBUG - Extracted main post content: Who is the provider of this panel? The most basic panel ever that everyone in SMM uses.
+2025-03-13 15:41:41,782 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:41:41,933 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:41:46,683 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:41:46,684 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:41:46,700 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:41:46,759 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:41:46,770 - DEBUG - Text box scrolled into view
+2025-03-13 15:41:47,381 - DEBUG - Initializing actionchains
+2025-03-13 15:41:47,426 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6384}, size: {'height': 21, 'width': 68}
+2025-03-13 15:41:47,427 - DEBUG - Target click coordinates: (1121, 6394)
+2025-03-13 15:42:04,660 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:42:04,662 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:42:04,664 - DEBUG - Clicking on the text box.
+2025-03-13 15:42:04,666 - DEBUG - Sending keys with content: Honestly, nailing down the exact source is tough since so many resellers slap their own label on these things. Have you tried reverse image searching a screenshot?
+
+2025-03-13 15:42:09,809 - DEBUG - Clicking on post reply button.
+2025-03-13 15:42:11,339 - DEBUG - Performed Actionchains
+2025-03-13 15:42:11,350 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:42:15,353 - INFO - Comment posted successfully.
+2025-03-13 15:42:15,355 - INFO - Task Completed!!
+2025-03-13 15:42:21,191 - INFO - Navigated back to the homepage.
+2025-03-13 15:42:24,141 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:42:24,217 - INFO - Garbage collection completed.
+2025-03-13 15:42:24,223 - INFO - Waiting for 10 seconds before next execution.

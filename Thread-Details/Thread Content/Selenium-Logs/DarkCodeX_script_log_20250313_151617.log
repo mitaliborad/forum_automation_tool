@@ -1,0 +1,5 @@
+2025-03-13 15:16:17,011 - INFO - Starting automation for profile: DarkCodeX
+2025-03-13 15:16:18,049 - INFO - Profile DarkCodeX: Successfully logged in.
+2025-03-13 15:16:18,051 - INFO - Profile DarkCodeX: Starting profile d949ef43-c834-44b4-9628-f60bb0c33b77...
+2025-03-13 15:16:20,237 - ERROR - Profile DarkCodeX: Connection error starting profile: HTTPSConnectionPool(host='launcher.mlx.yt', port=45001): Max retries exceeded with url: /api/v1/profile/f/fedd6c4d-f3d0-4bcd-8b25-e6ce25559ea8/p/d949ef43-c834-44b4-9628-f60bb0c33b77/start?automation_type=selenium (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002B6A85C9810>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-13 15:16:20,245 - ERROR - Failed to start MultiLogin profile: DarkCodeX. Skipping.

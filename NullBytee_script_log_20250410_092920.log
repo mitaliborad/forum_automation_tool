@@ -1,0 +1,107 @@
+2025-04-10 09:29:20,962 - INFO - Current time: 1744257560.9620824
+2025-04-10 09:29:20,962 - INFO - Token expiration time: 1744268355.724446
+2025-04-10 09:29:20,963 - INFO - Token expiration time: 1744268355.724446
+2025-04-10 09:29:20,963 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-10 09:29:29,653 - INFO - Profile NullBytee: Pausing for 31.71 seconds...
+2025-04-10 09:30:01,367 - INFO - Profile NullBytee: Resuming...
+2025-04-10 09:30:01,376 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-10 09:30:01,378 - INFO - performing random action
+2025-04-10 09:30:01,381 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 09:30:01,384 - DEBUG - Scrolling page 3 times.
+2025-04-10 09:30:01,386 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:30:02,696 - DEBUG - Page scrolled.
+2025-04-10 09:30:04,699 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:30:06,413 - DEBUG - Page scrolled.
+2025-04-10 09:30:08,414 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:30:09,534 - DEBUG - Page scrolled.
+2025-04-10 09:30:11,536 - DEBUG - Random scrolls complete.
+2025-04-10 09:30:11,538 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:30:11,539 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:30:12,951 - DEBUG - Page scrolled.
+2025-04-10 09:30:14,954 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:30:16,493 - DEBUG - Page scrolled.
+2025-04-10 09:30:18,495 - DEBUG - Random scrolls complete.
+2025-04-10 09:30:24,275 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-04-10 09:30:28,626 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-hosting-services.1701822/unread
+2025-04-10 09:30:28,626 - INFO - Profile NullBytee: Opening random website: https://letshyphen.com/
+2025-04-10 09:30:33,210 - INFO - Profile NullBytee: Pausing for 45.07 seconds...
+2025-04-10 09:31:18,283 - INFO - Profile NullBytee: Resuming...
+2025-04-10 09:31:18,301 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-10 09:31:18,305 - INFO - performing random action
+2025-04-10 09:31:30,391 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-hosting-services.1701822/unread
+2025-04-10 09:31:30,394 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-hosting-services.1701822/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 09:31:30,448 - INFO - Extracted thread title: best hosting services
+2025-04-10 09:31:30,449 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:31:30,449 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:31,552 - DEBUG - Page scrolled.
+2025-04-10 09:31:33,555 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:34,700 - DEBUG - Page scrolled.
+2025-04-10 09:31:36,702 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:38,069 - DEBUG - Page scrolled.
+2025-04-10 09:31:40,072 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:41,524 - DEBUG - Page scrolled.
+2025-04-10 09:31:43,527 - DEBUG - Random scrolls complete.
+2025-04-10 09:31:46,501 - DEBUG - Scrolling page 2 times.
+2025-04-10 09:31:46,504 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:48,216 - DEBUG - Page scrolled.
+2025-04-10 09:31:51,218 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:31:53,009 - DEBUG - Page scrolled.
+2025-04-10 09:31:56,012 - DEBUG - Random scrolls complete.
+2025-04-10 09:31:56,053 - DEBUG - Found 8 like buttons.
+2025-04-10 09:31:59,054 - INFO - Attempting to like 4 posts. There are 8 available.
+2025-04-10 09:31:59,680 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:31:59,713 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:31:59,715 - DEBUG - Liked post number 1 of 4.
+2025-04-10 09:32:05,089 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:32:05,110 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:32:05,112 - DEBUG - Liked post number 2 of 4.
+2025-04-10 09:32:09,967 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:32:09,989 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:32:09,991 - DEBUG - Liked post number 3 of 4.
+2025-04-10 09:32:15,178 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 09:32:15,199 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 09:32:15,200 - DEBUG - Liked post number 4 of 4.
+2025-04-10 09:32:19,399 - INFO - Liked 4 posts successfully.
+2025-04-10 09:32:19,401 - INFO - Liked 4 posts successfully.
+2025-04-10 09:32:21,470 - INFO - performing random action
+2025-04-10 09:32:21,473 - DEBUG - Scrolling page 4 times.
+2025-04-10 09:32:21,474 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:32:22,924 - DEBUG - Page scrolled.
+2025-04-10 09:32:25,926 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:32:26,967 - DEBUG - Page scrolled.
+2025-04-10 09:32:29,969 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:32:31,530 - DEBUG - Page scrolled.
+2025-04-10 09:32:34,532 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 09:32:36,336 - DEBUG - Page scrolled.
+2025-04-10 09:32:39,337 - DEBUG - Random scrolls complete.
+2025-04-10 09:32:42,018 - DEBUG - Total comments in the thread: 8
+2025-04-10 09:33:23,751 - INFO - Post content extracted and saved to Thread-Details/Thread Content\best hosting services.txt
+2025-04-10 09:33:26,213 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 09:33:26,244 - DEBUG - Extracted main post content: Which is the best hosting that has a high score and fast customer service?
+2025-04-10 09:33:30,998 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 09:33:31,002 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 09:33:33,077 - INFO - Profile NullBytee: Pausing for 33.01 seconds...
+2025-04-10 09:34:06,093 - INFO - Profile NullBytee: Resuming...
+2025-04-10 09:34:06,096 - INFO - performing random action
+2025-04-10 09:34:06,099 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:34:06,101 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:34:06,134 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:34:06,182 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 09:34:06,189 - DEBUG - Text box scrolled into view
+2025-04-10 09:34:06,785 - DEBUG - Initializing actionchains
+2025-04-10 09:34:06,856 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3115}, size: {'height': 21, 'width': 68}
+2025-04-10 09:34:06,858 - DEBUG - Target click coordinates: (1265, 3125)
+2025-04-10 09:34:17,287 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 09:34:17,288 - DEBUG - Moving mouse to text box element.
+2025-04-10 09:34:17,288 - DEBUG - Clicking on the text box.
+2025-04-10 09:34:17,290 - DEBUG - Sending keys with content: Honestly, don't just chase the high score – test their support *before* you buy. I've had great luck with smaller hosts who actually pick up the phone.
+
+2025-04-10 09:34:22,851 - DEBUG - Clicking on post reply button.
+2025-04-10 09:34:33,842 - DEBUG - Performed Actionchains
+2025-04-10 09:34:33,843 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 09:34:37,844 - INFO - Comment posted successfully.
+2025-04-10 09:34:37,847 - INFO - Task Completed!!
+2025-04-10 09:34:45,370 - INFO - Navigated back to the homepage.
+2025-04-10 09:34:48,180 - INFO - Attempting to clear memory and resources.
+2025-04-10 09:34:48,210 - INFO - Garbage collection completed.
+2025-04-10 09:34:48,211 - INFO - Waiting for 1850 seconds before next execution.

@@ -1,0 +1,40 @@
+2025-04-02 13:45:37,721 - INFO - Current time: 1743581737.7216935
+2025-04-02 13:45:37,723 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:45:37,726 - INFO - Token expiration time: 1743583399.734703
+2025-04-02 13:45:37,728 - INFO - Profile Emaxx: Opening random website: https://www.w3schools.com/
+2025-04-02 13:45:54,403 - INFO - Profile Emaxx: Pausing for 41.38 seconds...
+2025-04-02 13:46:35,792 - INFO - Profile Emaxx: Resuming...
+2025-04-02 13:46:35,823 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 13:46:35,825 - INFO - performing random action
+2025-04-02 13:46:35,827 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:46:35,828 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:46:35,830 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:46:37,332 - DEBUG - Page scrolled.
+2025-04-02 13:46:39,334 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:46:40,757 - DEBUG - Page scrolled.
+2025-04-02 13:46:42,759 - DEBUG - Random scrolls complete.
+2025-04-02 13:46:42,761 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:46:42,762 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:46:43,825 - DEBUG - Page scrolled.
+2025-04-02 13:46:45,827 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:46:47,786 - DEBUG - Page scrolled.
+2025-04-02 13:46:49,788 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:46:50,989 - DEBUG - Page scrolled.
+2025-04-02 13:46:52,991 - DEBUG - Random scrolls complete.
+2025-04-02 13:46:59,878 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-04-02 13:47:10,238 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:47:10,254 - INFO - Profile Emaxx: Restoring window...
+2025-04-02 13:47:12,259 - INFO - performing random action
+2025-04-02 13:47:12,261 - WARNING - Skipping thread processing due to no thread link being found in subforum.

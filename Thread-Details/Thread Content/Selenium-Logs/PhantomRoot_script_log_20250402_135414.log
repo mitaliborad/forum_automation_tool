@@ -1,0 +1,39 @@
+2025-04-02 13:54:14,993 - INFO - Current time: 1743582254.9933527
+2025-04-02 13:54:14,993 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:54:14,994 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:54:14,994 - INFO - performing random action
+2025-04-02 13:54:14,995 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:54:14,995 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:54:14,996 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:16,226 - DEBUG - Page scrolled.
+2025-04-02 13:54:18,228 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:19,449 - DEBUG - Page scrolled.
+2025-04-02 13:54:21,452 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:22,743 - DEBUG - Page scrolled.
+2025-04-02 13:54:24,746 - DEBUG - Random scrolls complete.
+2025-04-02 13:54:24,747 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:54:24,748 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:26,545 - DEBUG - Page scrolled.
+2025-04-02 13:54:28,547 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:29,864 - DEBUG - Page scrolled.
+2025-04-02 13:54:31,868 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:33,744 - DEBUG - Page scrolled.
+2025-04-02 13:54:35,745 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:54:37,365 - DEBUG - Page scrolled.
+2025-04-02 13:54:39,366 - DEBUG - Random scrolls complete.
+2025-04-02 13:54:46,191 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-02 13:54:56,508 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:54:56,525 - INFO - performing random action
+2025-04-02 13:54:56,527 - WARNING - Skipping thread processing due to no thread link being found in subforum.

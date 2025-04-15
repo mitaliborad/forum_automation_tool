@@ -1,0 +1,112 @@
+2025-04-02 10:05:44,171 - INFO - Current time: 1743568544.1716173
+2025-04-02 10:05:44,173 - INFO - Token expiration time: 1743577114.20735
+2025-04-02 10:05:44,175 - INFO - Token expiration time: 1743577114.20735
+2025-04-02 10:05:44,176 - INFO - Profile Emaxx: Restoring window...
+2025-04-02 10:05:46,189 - INFO - performing random action
+2025-04-02 10:05:46,193 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 10:05:46,194 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:05:46,195 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:05:48,181 - DEBUG - Page scrolled.
+2025-04-02 10:05:50,187 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:05:51,744 - DEBUG - Page scrolled.
+2025-04-02 10:05:53,750 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:05:55,169 - DEBUG - Page scrolled.
+2025-04-02 10:05:57,171 - DEBUG - Random scrolls complete.
+2025-04-02 10:05:57,172 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:05:57,182 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:05:59,102 - DEBUG - Page scrolled.
+2025-04-02 10:06:01,112 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:06:02,616 - DEBUG - Page scrolled.
+2025-04-02 10:06:04,621 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:06:06,626 - DEBUG - Page scrolled.
+2025-04-02 10:06:08,628 - DEBUG - Random scrolls complete.
+2025-04-02 10:06:18,678 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-04-02 10:06:23,560 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ways-to-hide-server-address.1656518/unread
+2025-04-02 10:06:23,562 - INFO - performing random action
+2025-04-02 10:06:34,930 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ways-to-hide-server-address.1656518/unread
+2025-04-02 10:06:34,935 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ways-to-hide-server-address.1656518/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 10:06:34,979 - INFO - Extracted thread title: Ways to hide server address 
+2025-04-02 10:06:34,980 - DEBUG - Scrolling page 4 times.
+2025-04-02 10:06:34,980 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:06:36,250 - DEBUG - Page scrolled.
+2025-04-02 10:06:38,253 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:06:39,395 - DEBUG - Page scrolled.
+2025-04-02 10:06:41,406 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:06:43,300 - DEBUG - Page scrolled.
+2025-04-02 10:06:45,305 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:06:47,187 - DEBUG - Page scrolled.
+2025-04-02 10:06:49,198 - DEBUG - Random scrolls complete.
+2025-04-02 10:06:51,210 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:06:51,212 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:06:52,416 - DEBUG - Page scrolled.
+2025-04-02 10:06:55,422 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:06:56,494 - DEBUG - Page scrolled.
+2025-04-02 10:06:59,497 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:07:00,938 - DEBUG - Page scrolled.
+2025-04-02 10:07:03,940 - DEBUG - Random scrolls complete.
+2025-04-02 10:07:03,965 - DEBUG - Found 20 like buttons.
+2025-04-02 10:07:06,965 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-02 10:07:07,827 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:07:07,846 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:07:07,847 - DEBUG - Liked post number 1 of 4.
+2025-04-02 10:07:12,560 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:07:12,579 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:07:12,581 - DEBUG - Liked post number 2 of 4.
+2025-04-02 10:07:17,761 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:07:17,790 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:07:17,796 - DEBUG - Liked post number 3 of 4.
+2025-04-02 10:07:23,508 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:07:23,557 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:07:23,570 - DEBUG - Liked post number 4 of 4.
+2025-04-02 10:07:28,296 - INFO - Liked 4 posts successfully.
+2025-04-02 10:07:28,299 - INFO - Liked 4 posts successfully.
+2025-04-02 10:07:31,253 - INFO - Profile Emaxx: Pausing for 32.24 seconds...
+2025-04-02 10:08:03,497 - INFO - Profile Emaxx: Resuming...
+2025-04-02 10:08:03,498 - INFO - performing random action
+2025-04-02 10:08:03,499 - DEBUG - Scrolling page 6 times.
+2025-04-02 10:08:03,504 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:08:05,163 - DEBUG - Page scrolled.
+2025-04-02 10:08:08,164 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:08:09,179 - DEBUG - Page scrolled.
+2025-04-02 10:08:12,186 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:08:13,880 - DEBUG - Page scrolled.
+2025-04-02 10:08:16,885 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:08:18,547 - DEBUG - Page scrolled.
+2025-04-02 10:08:21,553 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:08:22,696 - DEBUG - Page scrolled.
+2025-04-02 10:08:25,701 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:08:27,361 - DEBUG - Page scrolled.
+2025-04-02 10:08:30,368 - DEBUG - Random scrolls complete.
+2025-04-02 10:08:33,369 - DEBUG - Total comments in the thread: 20
+2025-04-02 10:11:08,646 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Ways to hide server address .txt
+2025-04-02 10:11:11,409 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 10:11:11,483 - DEBUG - Extracted main post content: Hello everyone, I'm having a headache thinking about how to hide the main IP of the hosting to avoid being tracked by the hosting server address.
+2025-04-02 10:11:14,690 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 10:11:14,698 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 10:11:17,714 - INFO - Profile Emaxx: Opening random website: https://www.canva.com/en_in/
+2025-04-02 10:11:46,410 - INFO - Profile Emaxx: Pausing for 47.59 seconds...
+2025-04-02 10:12:33,998 - INFO - Profile Emaxx: Resuming...
+2025-04-02 10:12:34,027 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-02 10:12:34,028 - INFO - performing random action
+2025-04-02 10:12:34,028 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:12:34,029 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:12:34,051 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:12:34,097 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:12:34,107 - DEBUG - Text box scrolled into view
+2025-04-02 10:12:35,084 - DEBUG - Initializing actionchains
+2025-04-02 10:12:35,124 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6183}, size: {'height': 21, 'width': 68}
+2025-04-02 10:12:35,125 - DEBUG - Target click coordinates: (1121, 6193)
+2025-04-02 10:12:51,471 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 10:12:51,472 - DEBUG - Moving mouse to text box element.
+2025-04-02 10:12:51,473 - DEBUG - Clicking on the text box.
+2025-04-02 10:12:51,475 - DEBUG - Sending keys with content: Honestly, unless you're running something shady, why bother? Most hosting companies aren't actively trying to track you like that.
+
+2025-04-02 10:12:56,528 - DEBUG - Clicking on post reply button.
+2025-04-02 10:13:07,741 - DEBUG - Performed Actionchains
+2025-04-02 10:13:07,742 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 10:13:11,744 - INFO - Comment posted successfully.
+2025-04-02 10:13:11,746 - INFO - Task Completed!!
+2025-04-02 10:13:19,433 - INFO - Navigated back to the homepage.
+2025-04-02 10:13:21,562 - INFO - Attempting to clear memory and resources.
+2025-04-02 10:13:21,606 - INFO - Garbage collection completed.
+2025-04-02 10:13:21,608 - INFO - Waiting for 2000 seconds before next execution.

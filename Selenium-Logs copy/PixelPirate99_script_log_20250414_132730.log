@@ -1,0 +1,45 @@
+2025-04-14 13:27:30,598 - INFO - Current time: 1744617450.5987937
+2025-04-14 13:27:30,601 - INFO - Token expiration time: 1744620828.6163933
+2025-04-14 13:27:30,602 - INFO - Token expiration time: 1744620828.6163933
+2025-04-14 13:27:30,604 - INFO - performing random action
+2025-04-14 13:27:30,606 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:27:30,608 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:27:30,609 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:27:31,739 - DEBUG - Page scrolled.
+2025-04-14 13:27:33,741 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:27:34,863 - DEBUG - Page scrolled.
+2025-04-14 13:27:36,865 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:27:37,979 - DEBUG - Page scrolled.
+2025-04-14 13:27:39,980 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:27:41,578 - DEBUG - Page scrolled.
+2025-04-14 13:27:43,580 - DEBUG - Random scrolls complete.
+2025-04-14 13:27:43,581 - DEBUG - Scrolling page 4 times.
+2025-04-14 13:27:43,583 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:27:44,904 - DEBUG - Page scrolled.
+2025-04-14 13:27:46,907 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:27:48,345 - DEBUG - Page scrolled.
+2025-04-14 13:27:50,348 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:27:52,267 - DEBUG - Page scrolled.
+2025-04-14 13:27:54,268 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:27:55,652 - DEBUG - Page scrolled.
+2025-04-14 13:27:57,707 - DEBUG - Random scrolls complete.
+2025-04-14 13:28:01,614 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cryptocurrency.218/
+2025-04-14 13:28:11,990 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-14 13:28:12,002 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-14 13:28:14,773 - INFO - Profile PixelPirate99: Pausing for 38.73 seconds...
+2025-04-14 13:28:53,502 - INFO - Profile PixelPirate99: Resuming...
+2025-04-14 13:28:53,511 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-14 13:28:53,512 - INFO - performing random action
+2025-04-14 13:28:53,512 - WARNING - Skipping thread processing due to no thread link being found in subforum.

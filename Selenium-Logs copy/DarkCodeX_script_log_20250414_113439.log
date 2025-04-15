@@ -1,0 +1,123 @@
+2025-04-14 11:34:39,687 - INFO - Current time: 1744610679.6873522
+2025-04-14 11:34:39,695 - INFO - Token expiration time: 1744621471.1287334
+2025-04-14 11:34:39,716 - INFO - Token expiration time: 1744621471.1287334
+2025-04-14 11:34:39,730 - INFO - performing random action
+2025-04-14 11:34:39,734 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 11:34:39,744 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:34:39,744 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:39:39,788 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=134.0.6998.44)
+Stacktrace:
+	GetHandleVerifier [0x00007FF798270C45+27221]
+	(No symbol) [0x00007FF7981D6F30]
+	(No symbol) [0x00007FF798055ADA]
+	(No symbol) [0x00007FF79804599C]
+	(No symbol) [0x00007FF79804568A]
+	(No symbol) [0x00007FF79804320F]
+	(No symbol) [0x00007FF798043CDF]
+	(No symbol) [0x00007FF79804FD5E]
+	(No symbol) [0x00007FF798065FE3]
+	(No symbol) [0x00007FF79806D11A]
+	(No symbol) [0x00007FF79804444D]
+	(No symbol) [0x00007FF798065D15]
+	(No symbol) [0x00007FF7981003C5]
+	(No symbol) [0x00007FF7980D7A73]
+	(No symbol) [0x00007FF7980A0750]
+	(No symbol) [0x00007FF7980A1A03]
+	GetHandleVerifier [0x00007FF7985D6E2D+3591229]
+	GetHandleVerifier [0x00007FF7985EE45A+3687018]
+	GetHandleVerifier [0x00007FF7985E3323+3641651]
+	GetHandleVerifier [0x00007FF79833B6BA+857290]
+	(No symbol) [0x00007FF7981E230F]
+	(No symbol) [0x00007FF7981DE304]
+	(No symbol) [0x00007FF7981DE4A6]
+	(No symbol) [0x00007FF7981CD469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-14 11:39:41,536 - DEBUG - Page scrolled.
+2025-04-14 11:39:43,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:39:44,688 - DEBUG - Page scrolled.
+2025-04-14 11:39:46,695 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:39:48,346 - DEBUG - Page scrolled.
+2025-04-14 11:39:50,348 - DEBUG - Random scrolls complete.
+2025-04-14 11:39:50,350 - DEBUG - Scrolling page 2 times.
+2025-04-14 11:39:50,351 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:39:51,470 - DEBUG - Page scrolled.
+2025-04-14 11:39:53,476 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:39:55,023 - DEBUG - Page scrolled.
+2025-04-14 11:39:57,025 - DEBUG - Random scrolls complete.
+2025-04-14 11:40:07,059 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-04-14 11:40:11,541 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/whats-the-cheapest-way-to-get-twitter-blue-in-2025.1704578/unread
+2025-04-14 11:40:11,541 - INFO - performing random action
+2025-04-14 11:40:22,036 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/whats-the-cheapest-way-to-get-twitter-blue-in-2025.1704578/unread
+2025-04-14 11:40:22,048 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/whats-the-cheapest-way-to-get-twitter-blue-in-2025.1704578/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 11:40:22,149 - INFO - Extracted thread title: What's the cheapest way to get Twitter Blue in 2025
+2025-04-14 11:40:22,150 - DEBUG - Scrolling page 2 times.
+2025-04-14 11:40:22,151 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:40:23,583 - DEBUG - Page scrolled.
+2025-04-14 11:40:25,590 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:40:26,985 - DEBUG - Page scrolled.
+2025-04-14 11:40:28,986 - DEBUG - Random scrolls complete.
+2025-04-14 11:40:31,309 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:40:31,313 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:40:32,369 - DEBUG - Page scrolled.
+2025-04-14 11:40:35,374 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:40:36,993 - DEBUG - Page scrolled.
+2025-04-14 11:40:39,995 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:40:41,114 - DEBUG - Page scrolled.
+2025-04-14 11:40:44,123 - DEBUG - Random scrolls complete.
+2025-04-14 11:40:44,179 - DEBUG - Found 4 like buttons.
+2025-04-14 11:40:47,181 - INFO - Attempting to like 4 posts. There are 4 available.
+2025-04-14 11:40:48,019 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:40:48,071 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:40:48,073 - DEBUG - Liked post number 1 of 4.
+2025-04-14 11:40:53,168 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:40:53,207 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:40:53,209 - DEBUG - Liked post number 2 of 4.
+2025-04-14 11:40:57,911 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:40:57,943 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:40:57,945 - DEBUG - Liked post number 3 of 4.
+2025-04-14 11:41:03,623 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 11:41:03,648 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 11:41:03,665 - DEBUG - Liked post number 4 of 4.
+2025-04-14 11:41:07,853 - INFO - Liked 4 posts successfully.
+2025-04-14 11:41:07,855 - INFO - Liked 4 posts successfully.
+2025-04-14 11:41:10,120 - INFO - performing random action
+2025-04-14 11:41:10,122 - DEBUG - Scrolling page 3 times.
+2025-04-14 11:41:10,129 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:41:11,519 - DEBUG - Page scrolled.
+2025-04-14 11:41:14,521 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:41:16,439 - DEBUG - Page scrolled.
+2025-04-14 11:41:19,446 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 11:41:21,302 - DEBUG - Page scrolled.
+2025-04-14 11:41:24,313 - DEBUG - Random scrolls complete.
+2025-04-14 11:41:27,121 - DEBUG - Total comments in the thread: 4
+2025-04-14 11:41:27,462 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What's the cheapest way to get Twitter Blue in 2025.txt
+2025-04-14 11:41:30,435 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 11:41:30,522 - DEBUG - Extracted main post content: Hi guys, when Twitter Blue was first introduced, I found many ways to get it at the cheapest rate (using Turkish VCC etc.) but not too sure if this method still works? Please let me know what the best way to get cheap Twitter Blue is currently if there is a way
+2025-04-14 11:41:33,897 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 11:41:33,899 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 11:41:36,609 - INFO - performing random action
+2025-04-14 11:41:36,611 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:41:36,612 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:41:36,661 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:41:36,722 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 11:41:36,729 - DEBUG - Text box scrolled into view
+2025-04-14 11:41:37,591 - DEBUG - Initializing actionchains
+2025-04-14 11:41:37,656 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2143}, size: {'height': 21, 'width': 68}
+2025-04-14 11:41:37,657 - DEBUG - Target click coordinates: (1265, 2153)
+2025-04-14 11:41:45,862 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 11:41:45,864 - DEBUG - Moving mouse to text box element.
+2025-04-14 11:41:45,876 - DEBUG - Clicking on the text box.
+2025-04-14 11:41:45,879 - DEBUG - Sending keys with content: Honestly, those VCC methods are usually more trouble than they're worth. Has anyone tried using a VPN to subscribe from a country with lower prices? Worth a shot.
+
+2025-04-14 11:41:51,784 - DEBUG - Clicking on post reply button.
+2025-04-14 11:41:53,202 - DEBUG - Performed Actionchains
+2025-04-14 11:41:53,203 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 11:41:57,206 - INFO - Comment posted successfully.
+2025-04-14 11:41:57,210 - INFO - Task Completed!!
+2025-04-14 11:42:00,257 - INFO - Navigated back to the homepage.
+2025-04-14 11:42:02,577 - INFO - Attempting to clear memory and resources.
+2025-04-14 11:42:02,644 - INFO - Garbage collection completed.
+2025-04-14 11:42:02,645 - INFO - Waiting for 2200 seconds before next execution.

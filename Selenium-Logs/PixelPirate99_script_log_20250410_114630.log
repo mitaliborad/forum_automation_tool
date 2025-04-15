@@ -1,0 +1,131 @@
+2025-04-10 11:46:30,141 - INFO - Current time: 1744265790.141385
+2025-04-10 11:46:30,143 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 11:46:30,145 - INFO - Token expiration time: 1744267978.7989767
+2025-04-10 11:46:30,147 - INFO - performing random action
+2025-04-10 11:46:30,149 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:46:30,151 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:46:30,153 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:46:31,679 - DEBUG - Page scrolled.
+2025-04-10 11:46:33,681 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:46:35,573 - DEBUG - Page scrolled.
+2025-04-10 11:46:37,575 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:46:38,884 - DEBUG - Page scrolled.
+2025-04-10 11:46:40,886 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:46:42,866 - DEBUG - Page scrolled.
+2025-04-10 11:46:44,868 - DEBUG - Random scrolls complete.
+2025-04-10 11:46:44,870 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:46:44,871 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:46:45,894 - DEBUG - Page scrolled.
+2025-04-10 11:46:47,896 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:46:48,922 - DEBUG - Page scrolled.
+2025-04-10 11:46:50,924 - DEBUG - Random scrolls complete.
+2025-04-10 11:46:57,206 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-04-10 11:47:00,539 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/decode-a-single-file.1676563/
+2025-04-10 11:47:00,540 - INFO - Profile PixelPirate99: Opening random website: https://www.canva.com/en_in/
+2025-04-10 11:47:04,248 - INFO - Profile PixelPirate99: Pausing for 35.35 seconds...
+2025-04-10 11:47:39,604 - INFO - Profile PixelPirate99: Resuming...
+2025-04-10 11:47:39,615 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-10 11:47:39,618 - INFO - performing random action
+2025-04-10 11:47:46,033 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/decode-a-single-file.1676563/
+2025-04-10 11:47:46,037 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/decode-a-single-file.1676563/' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:47:46,079 - INFO - Extracted thread title: Decode a single file
+2025-04-10 11:47:46,080 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:47:46,081 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:47:47,137 - DEBUG - Page scrolled.
+2025-04-10 11:47:49,138 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:47:50,795 - DEBUG - Page scrolled.
+2025-04-10 11:47:52,797 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:47:54,561 - DEBUG - Page scrolled.
+2025-04-10 11:47:56,563 - DEBUG - Random scrolls complete.
+2025-04-10 11:47:59,264 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:47:59,266 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:00,899 - DEBUG - Page scrolled.
+2025-04-10 11:48:03,902 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:05,886 - DEBUG - Page scrolled.
+2025-04-10 11:48:08,888 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:10,182 - DEBUG - Page scrolled.
+2025-04-10 11:48:13,183 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:48:14,732 - DEBUG - Page scrolled.
+2025-04-10 11:48:17,734 - DEBUG - Random scrolls complete.
+2025-04-10 11:48:17,766 - DEBUG - Found 4 like buttons.
+2025-04-10 11:48:20,767 - INFO - Attempting to like 3 posts. There are 4 available.
+2025-04-10 11:48:21,387 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:48:21,416 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:48:21,418 - DEBUG - Liked post number 1 of 3.
+2025-04-10 11:48:26,323 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:48:26,343 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:48:26,345 - DEBUG - Liked post number 2 of 3.
+2025-04-10 11:48:31,880 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:48:31,900 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:48:31,902 - DEBUG - Liked post number 3 of 3.
+2025-04-10 11:48:36,859 - INFO - Liked 3 posts successfully.
+2025-04-10 11:48:36,862 - INFO - Liked 3 posts successfully.
+2025-04-10 11:48:39,577 - INFO - Profile PixelPirate99: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-10 11:48:45,973 - INFO - Profile PixelPirate99: Pausing for 30.21 seconds...
+2025-04-10 11:49:16,183 - INFO - Profile PixelPirate99: Resuming...
+2025-04-10 11:49:16,234 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-10 11:49:16,235 - INFO - performing random action
+2025-04-10 11:49:16,235 - DEBUG - Scrolling page 7 times.
+2025-04-10 11:49:16,236 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:17,968 - DEBUG - Page scrolled.
+2025-04-10 11:49:20,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:22,734 - DEBUG - Page scrolled.
+2025-04-10 11:49:25,736 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:27,039 - DEBUG - Page scrolled.
+2025-04-10 11:49:30,041 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:31,216 - DEBUG - Page scrolled.
+2025-04-10 11:49:34,218 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:36,104 - DEBUG - Page scrolled.
+2025-04-10 11:49:39,107 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:40,427 - DEBUG - Page scrolled.
+2025-04-10 11:49:43,430 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:49:44,632 - DEBUG - Page scrolled.
+2025-04-10 11:49:47,635 - DEBUG - Random scrolls complete.
+2025-04-10 11:49:50,100 - DEBUG - Total comments in the thread: 5
+2025-04-10 11:50:21,719 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Decode a single file.txt
+2025-04-10 11:50:23,942 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:50:23,978 - DEBUG - Extracted main post content: Hi everyone, I don't have PayPal for using easytoyou.eu website for decode my file
+Anyone can help me and decode this file for me? Plzzzz, tnx for your time
+Attachments
+functions.zip
+2025-04-10 11:50:29,421 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:50:29,423 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:50:32,015 - INFO - Profile PixelPirate99: Minimizing window...
+2025-04-10 11:50:32,037 - INFO - Profile PixelPirate99: Window minimized. Pausing for 18.65 seconds...
+2025-04-10 11:50:50,686 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-04-10 11:50:50,689 - INFO - performing random action
+2025-04-10 11:50:50,691 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:50:50,693 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:50:50,722 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:50:50,760 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:50:50,767 - DEBUG - Text box scrolled into view
+2025-04-10 11:50:51,658 - DEBUG - Initializing actionchains
+2025-04-10 11:50:51,683 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2684}, size: {'height': 21, 'width': 68}
+2025-04-10 11:50:51,683 - DEBUG - Target click coordinates: (1265, 2694)
+2025-04-10 11:51:01,286 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:51:01,288 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:51:01,290 - DEBUG - Clicking on the text box.
+2025-04-10 11:51:01,292 - DEBUG - Sending keys with content: Instead of easytoyou.eu, have you tried online alternatives like crackstation or hashcat? They might do the trick for you.
+
+2025-04-10 11:51:06,999 - DEBUG - Clicking on post reply button.
+2025-04-10 11:51:17,681 - DEBUG - Performed Actionchains
+2025-04-10 11:51:17,681 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:51:21,682 - INFO - Comment posted successfully.
+2025-04-10 11:51:21,684 - INFO - Task Completed!!
+2025-04-10 11:51:27,085 - INFO - Navigated back to the homepage.
+2025-04-10 11:51:29,594 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:51:29,623 - INFO - Garbage collection completed.
+2025-04-10 11:51:29,624 - INFO - Waiting for 1850 seconds before next execution.
+2025-04-10 12:22:19,625 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-10 12:22:19,628 - INFO - Stopping browser for profile: PixelPirate99...
+2025-04-10 12:22:19,631 - INFO - Refreshing token before stopping profile...
+2025-04-10 12:22:19,633 - INFO - Refreshing token for PixelPirate99...
+2025-04-10 12:22:20,660 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 12:22:20,660 - INFO - Calculated token expiration time: 1744278740.6608632
+2025-04-10 12:22:20,661 - INFO - Profile PixelPirate99: Successfully logged in.
+2025-04-10 12:22:20,662 - INFO - Token refreshed successfully before stopping.
+2025-04-10 12:22:20,663 - INFO - Profile PixelPirate99: Attempting to stop (Attempt 1/3)...
+2025-04-10 12:22:20,668 - INFO - Profile PixelPirate99: Browser closed successfully in 0.00 seconds.
+2025-04-10 12:22:24,529 - INFO - Profile PixelPirate99: API call took 3.86 seconds.
+2025-04-10 12:22:24,532 - INFO - Profile PixelPirate99: Stopped successfully.
+2025-04-10 12:22:24,535 - INFO - Browser stopped successfully for profile: PixelPirate99.

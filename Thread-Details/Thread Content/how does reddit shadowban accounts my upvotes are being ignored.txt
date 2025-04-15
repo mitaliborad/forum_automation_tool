@@ -1,0 +1,140 @@
+--- Main Post Title ---
+how does reddit shadowban accounts? my upvotes are being ignored
+
+Total comments in the thread: 12
+
+Topic User: alizer21
+Topic: hello! i made a reddit account generator that can generate 300 accounts per hour, the problem is, the accounts can sometimes be unusable, below are my observations
+
+i first used bulk IPORT proxies i bought from oxylabs and proxyscrape, sadly, seems like im not the only one using the proxies and going to reddit.com it shows "You’ve been blocked by network security" for about 60% of the proxies, however, if i keep generating accounts, im able to generate 50, i also recorded the IP addresses they were generated in, i made a script that logs in the accounts via the same proxies they were generated and upvote a post, only a few are able to upvote, BUT they are able to upvote
+
+now, because some IP addresses are blocked i switched to a residential proxy from oxylabs, the problem is, even if i use session parameters, a proxy is only available for one day until it is replaced, so, the accounts are logged in via a random ip, im not sure if that is the problem, but if i attempt to upvote a post from any of the accounts i generated, it NEVER updates, i refresh the page and the upvotes return to the original count
+
+is there any way i can bypass this? currently im looking into using the bulk iport proxies again instead of a rotating one, but the problem is, they are detected and sometimes blocked by reddit
+Liked by: You, natsuko
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: natsuko
+Topic: Try using mobile proxies instead of bulk IP/proxy providers, Reddit is much more lenient with mobile traffic.
+Buy Reddit Accounts at Redditaccsbuy.com with Female Nicknames, Age, Comment And Post Karma from 50+ to 500+ from 1.3$
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: alizer21
+Topic: turns out i need to 'warmup' an account first
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: UrbanSnake
+Topic: Yes, you'd need to warm those accounts, if possible using 4G Mobile proxies, the success rate tends to improve
+Liked by: TheMarquis
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: AtomSMM
+Topic: Residential proxies are IPs from real devices, so Reddit’s less likely to flag them compared to datacenter ones. Your rotating proxy might be messing up sessions, which is why upvotes aren’t sticking.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: alizer21
+Topic: AtomSMM said:
+Residential proxies are IPs from real devices, so Reddit’s less likely to flag them compared to datacenter ones. Your rotating proxy might be messing up sessions, which is why upvotes aren’t sticking.
+UrbanSnake said:
+Yes, you'd need to warm those accounts, if possible using 4G Mobile proxies, the success rate tends to improve
+i actually found that out, i was using data center proxies at first because it was cheap, and most of the proxies are already blocked by reddit, i switched to residentials ones and i have better results, although the accounts are one day old, naturally reddit still ignores the upvote, ill come back in a few days and warm it up
+Liked by: UrbanSnake
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: MoonStarz
+Topic: Right now reddit is no joke, regardles of how old the account is, up votes they being banning people like crazy maybe they are trying to bring a big investor and casuse a good impretion but they are baning immediately for no reason.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ThatRick79
+Topic: I have heard of something like "vote fuzzing", which means the settings of some subreddits to hide votes initially to discourage vote manipulation.
+Being shadow-banned is also a possibility, for which you can appeal through https :// www. reddit. com/appeals
+Though, as we all know that most of these big social media platforms do not care a hoot for us users.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Shawerma
+Topic: alizer21 said:
+hello! i made a reddit account generator that can generate 300 accounts per hour, the problem is, the accounts can sometimes be unusable, below are my observations
+
+i first used bulk IPORT proxies i bought from oxylabs and proxyscrape, sadly, seems like im not the only one using the proxies and going to reddit.com it shows "You’ve been blocked by network security" for about 60% of the proxies, however, if i keep generating accounts, im able to generate 50, i also recorded the IP addresses they were generated in, i made a script that logs in the accounts via the same proxies they were generated and upvote a post, only a few are able to upvote, BUT they are able to upvote
+
+now, because some IP addresses are blocked i switched to a residential proxy from oxylabs, the problem is, even if i use session parameters, a proxy is only available for one day until it is replaced, so, the accounts are logged in via a random ip, im not sure if that is the problem, but if i attempt to upvote a post from any of the accounts i generated, it NEVER updates, i refresh the page and the upvotes return to the original count
+
+is there any way i can bypass this? currently im looking into using the bulk iport proxies again instead of a rotating one, but the problem is, they are detected and sometimes blocked by reddit
+Click to expand...
+create your own private proxies and reach the accounts to high/highest CQS at least, then start using them for upvotes. Once the account is solid, upvoting is much easier and it will survive without issues. You can reach 50-100 upvotes per day per account, and make sure to do everything manually, any scripts touching your accounts, they will be auto-flagged
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Proxy Cake
+Topic: Static ISP proxies work well if they aren't blocked by Reddit. 4G proxies work too
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: alizer21
+Topic: ThatRick79 said:
+I have heard of something like "vote fuzzing", which means the settings of some subreddits to hide votes initially to discourage vote manipulation.
+Being shadow-banned is also a possibility, for which you can appeal through https :// www. reddit. com/appeals
+Though, as we all know that most of these big social media platforms do not care a hoot for us users.
+it is not vote fuzzing i believe, it's just straight up suspending accounts, i can check at https://www.reddit.com/user/[account's username] that reddit says it is suspended
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Akeyeleg
+Topic: If your upvotes are being ignored, it might be a sign of a shadowban on Reddit, even if you’re unaware of it. Shadowbanning is typically a result of violating Reddit's guidelines in some way, whether it’s through spammy behavior, low-quality content, or rule-breaking in specific subreddits.
+Akelek1980@gmail.com OR Telegram : akelek1980
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

@@ -1,0 +1,120 @@
+2025-04-14 12:08:43,519 - INFO - Current time: 1744612723.5197537
+2025-04-14 12:08:43,522 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 12:08:43,524 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 12:08:43,526 - INFO - performing random action
+2025-04-14 12:08:43,528 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:08:43,530 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:08:43,535 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:44,976 - DEBUG - Page scrolled.
+2025-04-14 12:08:46,978 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:48,903 - DEBUG - Page scrolled.
+2025-04-14 12:08:50,906 - DEBUG - Random scrolls complete.
+2025-04-14 12:08:50,911 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:08:50,912 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:51,943 - DEBUG - Page scrolled.
+2025-04-14 12:08:53,948 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:55,905 - DEBUG - Page scrolled.
+2025-04-14 12:08:57,907 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:08:59,290 - DEBUG - Page scrolled.
+2025-04-14 12:09:01,292 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:09:02,524 - DEBUG - Page scrolled.
+2025-04-14 12:09:04,527 - DEBUG - Random scrolls complete.
+2025-04-14 12:09:14,204 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-14 12:09:18,787 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/going-legal-after-years-in-black-risks-from-spain.1704692/unread
+2025-04-14 12:09:18,787 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-14 12:09:24,500 - INFO - Profile DataPhreak: Pausing for 30.71 seconds...
+2025-04-14 12:09:55,210 - INFO - Profile DataPhreak: Resuming...
+2025-04-14 12:09:55,285 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-14 12:09:55,290 - INFO - performing random action
+2025-04-14 12:10:14,312 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/going-legal-after-years-in-black-risks-from-spain.1704692/unread
+2025-04-14 12:10:14,315 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/going-legal-after-years-in-black-risks-from-spain.1704692/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:10:14,438 - INFO - Extracted thread title: Going Legal After Years “in Black” – Risks (From Spain)
+2025-04-14 12:10:14,440 - DEBUG - Scrolling page 4 times.
+2025-04-14 12:10:14,441 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:10:16,340 - DEBUG - Page scrolled.
+2025-04-14 12:10:18,344 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:10:20,196 - DEBUG - Page scrolled.
+2025-04-14 12:10:22,197 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:10:24,202 - DEBUG - Page scrolled.
+2025-04-14 12:10:26,205 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:10:27,583 - DEBUG - Page scrolled.
+2025-04-14 12:10:29,586 - DEBUG - Random scrolls complete.
+2025-04-14 12:10:31,712 - DEBUG - Scrolling page 1 times.
+2025-04-14 12:10:31,715 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:10:33,536 - DEBUG - Page scrolled.
+2025-04-14 12:10:36,539 - DEBUG - Random scrolls complete.
+2025-04-14 12:10:36,585 - DEBUG - Found 7 like buttons.
+2025-04-14 12:10:39,586 - INFO - Attempting to like 4 posts. There are 7 available.
+2025-04-14 12:10:40,198 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:10:40,230 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:10:40,232 - DEBUG - Liked post number 1 of 4.
+2025-04-14 12:10:45,078 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:10:45,101 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:10:45,102 - DEBUG - Liked post number 2 of 4.
+2025-04-14 12:10:50,461 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:10:50,484 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:10:50,486 - DEBUG - Liked post number 3 of 4.
+2025-04-14 12:10:55,514 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:10:55,522 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:10:55,522 - DEBUG - Liked post number 4 of 4.
+2025-04-14 12:11:00,480 - INFO - Liked 4 posts successfully.
+2025-04-14 12:11:00,484 - INFO - Liked 4 posts successfully.
+2025-04-14 12:11:03,371 - INFO - performing random action
+2025-04-14 12:11:03,379 - DEBUG - Scrolling page 6 times.
+2025-04-14 12:11:03,381 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:11:04,452 - DEBUG - Page scrolled.
+2025-04-14 12:11:07,454 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:11:09,067 - DEBUG - Page scrolled.
+2025-04-14 12:11:12,069 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:11:13,384 - DEBUG - Page scrolled.
+2025-04-14 12:11:16,387 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:11:18,082 - DEBUG - Page scrolled.
+2025-04-14 12:11:21,084 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:11:22,898 - DEBUG - Page scrolled.
+2025-04-14 12:11:25,900 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:11:27,504 - DEBUG - Page scrolled.
+2025-04-14 12:11:30,506 - DEBUG - Random scrolls complete.
+2025-04-14 12:11:32,907 - DEBUG - Total comments in the thread: 7
+2025-04-14 12:12:03,767 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Going Legal After Years “in Black” – Risks (From Spain).txt
+2025-04-14 12:12:06,303 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:12:06,388 - DEBUG - Extracted main post content: Hi everyone, I’d appreciate your help.
+I’ve been working as a freelance designer since 2010 without ever registering officially in Spain. My income was low and irregular, so I never became self-employed. Paying 350€/month regardless of earnings felt impossible, especially with a disability that limits how much I can work.
+
+Now I want to open an Etsy shop to sell my digital designs. That would mean declaring taxes and becoming self-employed. I’m ready to “go legal” because I believe in this idea.
+
+But I worry: will becoming autónomo now trigger an investigation? I’ve received payments into my personal accounts (bank, PayPal, Wise) over the years, and never filed a tax return. Can Hacienda look into past income?
+
+Right now I earn from several sources:
+Design work (inconsistent, mostly under 800€/month)
+Music royalties (under $500/mo although the 2 years I was sick with Covid I could not work and music royalties where much higher)
+Amazon KDP royalties (~$80/month, sometimes higher)
+I have had a couple of times a big income like $1000 from kdp or a client that paid me a whole year in one go $2000
+I see two options:
+Become autónomo (self-employed) in Spain
+Register a small business abroad (like in the US) and combine earnings with my partner under a small audiovisual company
+But either way, I’m scared that declaring income now could raise red flags. Like why am I/we already earning money as a new self-employed or small business. Has anyone gone through this? Any advice?
+2025-04-14 12:12:09,787 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:12:09,792 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:12:12,118 - INFO - performing random action
+2025-04-14 12:12:12,120 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:12:12,122 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:12:12,170 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:12:12,289 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:12:12,297 - DEBUG - Text box scrolled into view
+2025-04-14 12:12:12,907 - DEBUG - Initializing actionchains
+2025-04-14 12:12:12,992 - DEBUG - Post reply Element location: {'x': 1231, 'y': 5133}, size: {'height': 21, 'width': 68}
+2025-04-14 12:12:12,994 - DEBUG - Target click coordinates: (1265, 5143)
+2025-04-14 12:12:27,169 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:12:27,173 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:12:27,174 - DEBUG - Clicking on the text box.
+2025-04-14 12:12:27,177 - DEBUG - Sending keys with content: Okay, so the big worry is past income catching up with you, right? Maybe talk to a gestor before you officially register; they've seen it all and can advise on the best way to approach it without waving any red flags.
+
+2025-04-14 12:12:32,595 - DEBUG - Clicking on post reply button.
+2025-04-14 12:12:43,906 - DEBUG - Performed Actionchains
+2025-04-14 12:12:43,907 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:12:47,909 - INFO - Comment posted successfully.
+2025-04-14 12:12:47,911 - INFO - Task Completed!!
+2025-04-14 12:12:56,763 - INFO - Navigated back to the homepage.
+2025-04-14 12:12:59,618 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:12:59,689 - INFO - Garbage collection completed.
+2025-04-14 12:12:59,690 - INFO - Waiting for 2200 seconds before next execution.

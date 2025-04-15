@@ -1,0 +1,100 @@
+2025-03-11 11:26:14,988 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_112614.log
+2025-03-11 11:26:14,993 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 11:26:14,995 - INFO - Loaded 130 visited threads from Thread_links.txt
+2025-03-11 11:26:14,997 - INFO - Successfully loaded links that was already visited!
+2025-03-11 11:26:14,998 - DEBUG - Scrolling page 5 times.
+2025-03-11 11:26:15,005 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:19,054 - DEBUG - Page scrolled.
+2025-03-11 11:26:21,062 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:27,970 - DEBUG - Page scrolled.
+2025-03-11 11:26:29,976 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:31,659 - DEBUG - Page scrolled.
+2025-03-11 11:26:33,662 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:35,112 - DEBUG - Page scrolled.
+2025-03-11 11:26:37,117 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:38,717 - DEBUG - Page scrolled.
+2025-03-11 11:26:40,720 - DEBUG - Random scrolls complete.
+2025-03-11 11:26:40,722 - DEBUG - Scrolling page 5 times.
+2025-03-11 11:26:40,724 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:42,391 - DEBUG - Page scrolled.
+2025-03-11 11:26:44,394 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:46,333 - DEBUG - Page scrolled.
+2025-03-11 11:26:48,338 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:50,190 - DEBUG - Page scrolled.
+2025-03-11 11:26:52,192 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:54,057 - DEBUG - Page scrolled.
+2025-03-11 11:26:56,059 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:26:57,893 - DEBUG - Page scrolled.
+2025-03-11 11:26:59,897 - DEBUG - Random scrolls complete.
+2025-03-11 11:27:02,107 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-03-11 11:27:07,139 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/rip-eporner.1694191/unread
+2025-03-11 11:27:15,451 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/rip-eporner.1694191/unread
+2025-03-11 11:27:15,457 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/rip-eporner.1694191/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 11:27:15,555 - INFO - Extracted thread title: RIP Eporner
+2025-03-11 11:27:15,561 - DEBUG - Scrolling page 3 times.
+2025-03-11 11:27:15,562 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:27:17,505 - DEBUG - Page scrolled.
+2025-03-11 11:27:19,508 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:27:20,655 - DEBUG - Page scrolled.
+2025-03-11 11:27:22,660 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:27:23,803 - DEBUG - Page scrolled.
+2025-03-11 11:27:25,805 - DEBUG - Random scrolls complete.
+2025-03-11 11:27:28,381 - DEBUG - Scrolling page 4 times.
+2025-03-11 11:27:28,382 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:27:29,693 - DEBUG - Page scrolled.
+2025-03-11 11:27:32,696 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:27:34,595 - DEBUG - Page scrolled.
+2025-03-11 11:27:37,597 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:27:39,199 - DEBUG - Page scrolled.
+2025-03-11 11:27:42,202 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:27:43,671 - DEBUG - Page scrolled.
+2025-03-11 11:27:46,674 - DEBUG - Random scrolls complete.
+2025-03-11 11:27:46,737 - DEBUG - Found 11 like buttons.
+2025-03-11 11:27:49,740 - INFO - Attempting to like 1 posts. There are 11 available.
+2025-03-11 11:27:50,405 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 11:27:50,421 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 11:27:50,422 - DEBUG - Liked post number 1 of 1.
+2025-03-11 11:27:55,048 - INFO - Liked 1 posts successfully.
+2025-03-11 11:27:55,051 - INFO - Liked 1 posts successfully.
+2025-03-11 11:27:57,977 - DEBUG - Scrolling page 3 times.
+2025-03-11 11:27:57,979 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:27:59,177 - DEBUG - Page scrolled.
+2025-03-11 11:28:02,180 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:28:03,544 - DEBUG - Page scrolled.
+2025-03-11 11:28:06,547 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 11:28:08,131 - DEBUG - Page scrolled.
+2025-03-11 11:28:11,135 - DEBUG - Random scrolls complete.
+2025-03-11 11:28:14,175 - DEBUG - Total comments in the thread: 11
+2025-03-11 11:29:36,090 - INFO - Post content extracted and saved to Thread-Details/Thread Content\RIP Eporner.txt
+2025-03-11 11:29:38,338 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 11:29:38,428 - DEBUG - Extracted main post content: Ok.. well... the moment I feared just happened...
+I think I am having a mental breakdown right now.... Most of my income is just... gone..
+Most of my videos uploaded on eporner is gone...
+It was already way too hard for me to take when xhamster and pornhub died.
+Now it is just way too much, starting back to 0 now... ah... If I was weak, I would just end my life.
+I am just so.... tired... internet keep changing every day and it is just too stressful.. I am just broken.
+I miss the old days when I could make money closing my eyes.....
+2025-03-11 11:29:42,410 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 11:29:42,414 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 11:29:44,497 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:29:44,501 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:29:44,541 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:29:44,669 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 11:29:44,685 - DEBUG - Text box scrolled into view
+2025-03-11 11:29:45,519 - DEBUG - Initializing actionchains
+2025-03-11 11:29:45,603 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3942}, size: {'height': 21, 'width': 68}
+2025-03-11 11:29:45,605 - DEBUG - Target click coordinates: (1121, 3952)
+2025-03-11 11:29:57,431 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 11:29:57,433 - DEBUG - Moving mouse to text box element.
+2025-03-11 11:29:57,435 - DEBUG - Clicking on the text box.
+2025-03-11 11:29:57,438 - DEBUG - Sending keys with content: Damn, that's rough, man.  Maybe it's time to diversify your income streams a bit, look into other platforms or even different types of content?
+
+2025-03-11 11:30:02,478 - DEBUG - Clicking on post reply button.
+2025-03-11 11:30:03,921 - DEBUG - Performed Actionchains
+2025-03-11 11:30:03,922 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 11:30:07,923 - INFO - Comment posted successfully.
+2025-03-11 11:30:07,929 - INFO - Task Completed!!
+2025-03-11 11:30:10,116 - INFO - Navigated back to the homepage.
+2025-03-11 11:30:12,641 - INFO - Attempting to clear memory and resources.
+2025-03-11 11:30:12,733 - INFO - Garbage collection completed.
+2025-03-11 11:30:12,736 - INFO - Waiting for 100 seconds before next execution.

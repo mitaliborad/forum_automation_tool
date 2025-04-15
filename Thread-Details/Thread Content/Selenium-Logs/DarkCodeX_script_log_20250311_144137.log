@@ -1,0 +1,109 @@
+2025-03-11 14:41:37,546 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250311_144137.log
+2025-03-11 14:41:37,551 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-11 14:41:37,555 - INFO - Loaded 139 visited threads from Thread_links.txt
+2025-03-11 14:41:37,559 - INFO - Successfully loaded links that was already visited!
+2025-03-11 14:41:37,562 - DEBUG - Scrolling page 4 times.
+2025-03-11 14:41:37,565 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:41:38,989 - DEBUG - Page scrolled.
+2025-03-11 14:41:40,991 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:41:42,089 - DEBUG - Page scrolled.
+2025-03-11 14:41:44,094 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:41:46,081 - DEBUG - Page scrolled.
+2025-03-11 14:41:48,083 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:41:49,982 - DEBUG - Page scrolled.
+2025-03-11 14:41:51,983 - DEBUG - Random scrolls complete.
+2025-03-11 14:41:51,984 - DEBUG - Scrolling page 7 times.
+2025-03-11 14:41:51,984 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:41:53,290 - DEBUG - Page scrolled.
+2025-03-11 14:41:55,293 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:41:57,027 - DEBUG - Page scrolled.
+2025-03-11 14:41:59,030 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:00,382 - DEBUG - Page scrolled.
+2025-03-11 14:42:02,384 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:04,006 - DEBUG - Page scrolled.
+2025-03-11 14:42:06,008 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:07,247 - DEBUG - Page scrolled.
+2025-03-11 14:42:09,249 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:10,271 - DEBUG - Page scrolled.
+2025-03-11 14:42:12,275 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:13,774 - DEBUG - Page scrolled.
+2025-03-11 14:42:15,775 - DEBUG - Random scrolls complete.
+2025-03-11 14:42:23,257 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-03-11 14:42:28,082 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/any-pro-in-cloaking.1691519/unread
+2025-03-11 14:42:35,391 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/any-pro-in-cloaking.1691519/unread
+2025-03-11 14:42:35,396 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/any-pro-in-cloaking.1691519/unread' to visited threads file 'Thread_links.txt'.
+2025-03-11 14:42:35,438 - INFO - Extracted thread title: any pro in cloaking
+2025-03-11 14:42:35,439 - DEBUG - Scrolling page 2 times.
+2025-03-11 14:42:35,440 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:37,101 - DEBUG - Page scrolled.
+2025-03-11 14:42:39,103 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:40,941 - DEBUG - Page scrolled.
+2025-03-11 14:42:42,944 - DEBUG - Random scrolls complete.
+2025-03-11 14:42:45,367 - DEBUG - Scrolling page 3 times.
+2025-03-11 14:42:45,368 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:46,911 - DEBUG - Page scrolled.
+2025-03-11 14:42:49,914 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:51,367 - DEBUG - Page scrolled.
+2025-03-11 14:42:54,370 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:42:56,117 - DEBUG - Page scrolled.
+2025-03-11 14:42:59,119 - DEBUG - Random scrolls complete.
+2025-03-11 14:42:59,149 - DEBUG - Found 7 like buttons.
+2025-03-11 14:43:02,150 - INFO - Attempting to like 3 posts. There are 7 available.
+2025-03-11 14:43:02,883 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 14:43:02,907 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 14:43:02,909 - DEBUG - Liked post number 1 of 3.
+2025-03-11 14:43:08,366 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 14:43:08,382 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 14:43:08,383 - DEBUG - Liked post number 2 of 3.
+2025-03-11 14:43:13,739 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-11 14:43:13,757 - INFO - Like button clicked successfully using JavaScript.
+2025-03-11 14:43:13,759 - DEBUG - Liked post number 3 of 3.
+2025-03-11 14:43:18,690 - INFO - Liked 3 posts successfully.
+2025-03-11 14:43:18,692 - INFO - Liked 3 posts successfully.
+2025-03-11 14:43:21,413 - DEBUG - Scrolling page 4 times.
+2025-03-11 14:43:21,415 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:43:22,795 - DEBUG - Page scrolled.
+2025-03-11 14:43:25,797 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:43:27,022 - DEBUG - Page scrolled.
+2025-03-11 14:43:30,024 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:43:31,871 - DEBUG - Page scrolled.
+2025-03-11 14:43:34,873 - DEBUG - Scrolling page by 500 pixels.
+2025-03-11 14:43:36,617 - DEBUG - Page scrolled.
+2025-03-11 14:43:39,619 - DEBUG - Random scrolls complete.
+2025-03-11 14:43:41,918 - DEBUG - Total comments in the thread: 7
+2025-03-11 14:44:23,896 - INFO - Post content extracted and saved to Thread-Details/Thread Content\any pro in cloaking.txt
+2025-03-11 14:44:26,597 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-11 14:44:26,642 - DEBUG - Extracted main post content: Hi guys, I've been doing some researches on cloaking, and there's a few things i'm missing if anyone could answer i'd be very grateful
+
+So from what I understood there's ad cloaking and payment cloaking, but there's few informations I found on payment cloaking (linking the products between the white shop and black shop), it this step not obligatory to run my business ? (i wanna try launching a replica luxury brand business).
+I understood that ad cloaking is absolutely necessary to effectively reach audience on google ads but what is payment cloaking necessary for ? Is it that payment processor will get quickly blocked at the first customer that ask a refund/dispute.
+
+
+I'm tryna learn how to cloaking ads and payments but if there's good services that would do that for me here I'm open to hear proposals.
+If a kind soul is okay to explain to me in details would be grateful as well,
+
+Thanks in advance guys.
+2025-03-11 14:44:30,837 - INFO - Successfully generated comments using Gemini API.
+2025-03-11 14:44:30,839 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-11 14:44:33,473 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:44:33,474 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:44:33,488 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:44:33,532 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-11 14:44:33,539 - DEBUG - Text box scrolled into view
+2025-03-11 14:44:34,246 - DEBUG - Initializing actionchains
+2025-03-11 14:44:34,272 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3457}, size: {'height': 21, 'width': 68}
+2025-03-11 14:44:34,273 - DEBUG - Target click coordinates: (1121, 3467)
+2025-03-11 14:44:44,811 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-11 14:44:44,812 - DEBUG - Moving mouse to text box element.
+2025-03-11 14:44:44,814 - DEBUG - Clicking on the text box.
+2025-03-11 14:44:44,817 - DEBUG - Sending keys with content: Honestly, I'm not super familiar with payment cloaking myself, but from what I've heard, skipping it might cause headaches down the road with payment processors flagging you pretty quickly.
+
+2025-03-11 14:44:50,537 - DEBUG - Clicking on post reply button.
+2025-03-11 14:45:01,815 - DEBUG - Performed Actionchains
+2025-03-11 14:45:01,817 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-11 14:45:05,818 - INFO - Comment posted successfully.
+2025-03-11 14:45:05,820 - INFO - Task Completed!!
+2025-03-11 14:45:17,194 - INFO - Navigated back to the homepage.
+2025-03-11 14:45:19,780 - INFO - Attempting to clear memory and resources.
+2025-03-11 14:45:19,841 - INFO - Garbage collection completed.
+2025-03-11 14:45:19,845 - INFO - Waiting for 1800 seconds before next execution.

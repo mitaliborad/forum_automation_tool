@@ -1,0 +1,109 @@
+2025-03-12 12:29:23,106 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_122923.log
+2025-03-12 12:29:23,151 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 12:29:23,186 - INFO - Loaded 160 visited threads from Thread_links.txt
+2025-03-12 12:29:23,188 - INFO - Successfully loaded links that was already visited!
+2025-03-12 12:29:23,189 - DEBUG - Scrolling page 7 times.
+2025-03-12 12:29:23,190 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:29:48,689 - DEBUG - Page scrolled.
+2025-03-12 12:29:50,692 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:29:52,648 - DEBUG - Page scrolled.
+2025-03-12 12:29:54,653 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:29:56,282 - DEBUG - Page scrolled.
+2025-03-12 12:29:58,285 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:29:59,483 - DEBUG - Page scrolled.
+2025-03-12 12:30:01,485 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:02,653 - DEBUG - Page scrolled.
+2025-03-12 12:30:04,656 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:05,975 - DEBUG - Page scrolled.
+2025-03-12 12:30:07,978 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:09,639 - DEBUG - Page scrolled.
+2025-03-12 12:30:11,642 - DEBUG - Random scrolls complete.
+2025-03-12 12:30:11,643 - DEBUG - Scrolling page 3 times.
+2025-03-12 12:30:11,644 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:13,171 - DEBUG - Page scrolled.
+2025-03-12 12:30:15,178 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:16,693 - DEBUG - Page scrolled.
+2025-03-12 12:30:18,696 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:20,639 - DEBUG - Page scrolled.
+2025-03-12 12:30:22,642 - DEBUG - Random scrolls complete.
+2025-03-12 12:30:29,625 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-03-12 12:30:34,179 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/help-me-setup-a-twitter-x-bot-farm.1694361/unread
+2025-03-12 12:30:44,665 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/help-me-setup-a-twitter-x-bot-farm.1694361/unread
+2025-03-12 12:30:44,675 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/help-me-setup-a-twitter-x-bot-farm.1694361/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 12:30:44,760 - INFO - Extracted thread title: Help me setup a Twitter (X) bot farm
+2025-03-12 12:30:44,761 - DEBUG - Scrolling page 4 times.
+2025-03-12 12:30:44,762 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:46,586 - DEBUG - Page scrolled.
+2025-03-12 12:30:48,588 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:49,706 - DEBUG - Page scrolled.
+2025-03-12 12:30:51,710 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:53,447 - DEBUG - Page scrolled.
+2025-03-12 12:30:55,450 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:30:57,452 - DEBUG - Page scrolled.
+2025-03-12 12:30:59,455 - DEBUG - Random scrolls complete.
+2025-03-12 12:31:01,601 - DEBUG - Scrolling page 3 times.
+2025-03-12 12:31:01,603 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:03,289 - DEBUG - Page scrolled.
+2025-03-12 12:31:06,292 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:07,341 - DEBUG - Page scrolled.
+2025-03-12 12:31:10,342 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:11,976 - DEBUG - Page scrolled.
+2025-03-12 12:31:14,978 - DEBUG - Random scrolls complete.
+2025-03-12 12:31:15,014 - DEBUG - Found 4 like buttons.
+2025-03-12 12:31:18,016 - INFO - Attempting to like 2 posts. There are 4 available.
+2025-03-12 12:31:18,805 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:31:18,830 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:31:18,831 - DEBUG - Liked post number 1 of 2.
+2025-03-12 12:31:24,132 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:31:24,154 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:31:24,158 - DEBUG - Liked post number 2 of 2.
+2025-03-12 12:31:28,213 - INFO - Liked 2 posts successfully.
+2025-03-12 12:31:28,216 - INFO - Liked 2 posts successfully.
+2025-03-12 12:31:30,308 - DEBUG - Scrolling page 7 times.
+2025-03-12 12:31:30,311 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:32,015 - DEBUG - Page scrolled.
+2025-03-12 12:31:35,020 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:36,171 - DEBUG - Page scrolled.
+2025-03-12 12:31:39,173 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:40,399 - DEBUG - Page scrolled.
+2025-03-12 12:31:43,401 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:45,229 - DEBUG - Page scrolled.
+2025-03-12 12:31:48,231 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:49,362 - DEBUG - Page scrolled.
+2025-03-12 12:31:52,365 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:54,122 - DEBUG - Page scrolled.
+2025-03-12 12:31:57,124 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:31:58,214 - DEBUG - Page scrolled.
+2025-03-12 12:32:01,216 - DEBUG - Random scrolls complete.
+2025-03-12 12:32:03,466 - DEBUG - Total comments in the thread: 4
+2025-03-12 12:32:24,710 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Help me setup a Twitter (X) bot farm.txt
+2025-03-12 12:32:27,680 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 12:32:27,728 - DEBUG - Extracted main post content: Hi,
+
+I know I have to set up proxies and use aged Twitter accounts, but I would love to pay someone who has experience with this to help me.
+
+Thanks!
+2025-03-12 12:32:31,940 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 12:32:31,944 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 12:32:34,800 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:32:34,802 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:32:34,838 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:32:34,897 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:32:34,908 - DEBUG - Text box scrolled into view
+2025-03-12 12:32:35,442 - DEBUG - Initializing actionchains
+2025-03-12 12:32:35,509 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2305}, size: {'height': 21, 'width': 68}
+2025-03-12 12:32:35,510 - DEBUG - Target click coordinates: (1121, 2315)
+2025-03-12 12:32:43,667 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 12:32:43,671 - DEBUG - Moving mouse to text box element.
+2025-03-12 12:32:43,673 - DEBUG - Clicking on the text box.
+2025-03-12 12:32:43,676 - DEBUG - Sending keys with content: Honestly, figuring out the right setup can be a pain. Have you tried looking for folks on Upwork with solid Twitter automation experience?
+
+2025-03-12 12:32:48,853 - DEBUG - Clicking on post reply button.
+2025-03-12 12:32:59,963 - DEBUG - Performed Actionchains
+2025-03-12 12:32:59,965 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 12:33:03,967 - INFO - Comment posted successfully.
+2025-03-12 12:33:03,970 - INFO - Task Completed!!
+2025-03-12 12:33:12,399 - INFO - Navigated back to the homepage.
+2025-03-12 12:33:14,825 - INFO - Attempting to clear memory and resources.
+2025-03-12 12:33:14,868 - INFO - Garbage collection completed.
+2025-03-12 12:33:14,869 - INFO - Waiting for 1000 seconds before next execution.

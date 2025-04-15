@@ -1,0 +1,100 @@
+2025-04-10 10:09:58,055 - INFO - Current time: 1744259998.0557752
+2025-04-10 10:09:58,058 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 10:09:58,060 - INFO - Token expiration time: 1744268444.1172955
+2025-04-10 10:09:58,062 - INFO - performing random action
+2025-04-10 10:09:58,065 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:09:58,068 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:09:58,069 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:09:59,910 - DEBUG - Page scrolled.
+2025-04-10 10:10:01,913 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:10:03,559 - DEBUG - Page scrolled.
+2025-04-10 10:10:05,562 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:10:07,186 - DEBUG - Page scrolled.
+2025-04-10 10:10:09,188 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:10:10,990 - DEBUG - Page scrolled.
+2025-04-10 10:10:12,993 - DEBUG - Random scrolls complete.
+2025-04-10 10:10:12,995 - DEBUG - Scrolling page 3 times.
+2025-04-10 10:10:12,996 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:10:14,400 - DEBUG - Page scrolled.
+2025-04-10 10:10:16,402 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:10:17,557 - DEBUG - Page scrolled.
+2025-04-10 10:10:19,560 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:10:20,961 - DEBUG - Page scrolled.
+2025-04-10 10:10:22,963 - DEBUG - Random scrolls complete.
+2025-04-10 10:10:33,175 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/local-seo.209/
+2025-04-10 10:10:36,683 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/do-you-list-a-stealth-generated-address-on-gmb-for-a-blackhat-business.1673922/unread
+2025-04-10 10:10:36,684 - INFO - performing random action
+2025-04-10 10:10:44,834 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/do-you-list-a-stealth-generated-address-on-gmb-for-a-blackhat-business.1673922/unread
+2025-04-10 10:10:44,839 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/do-you-list-a-stealth-generated-address-on-gmb-for-a-blackhat-business.1673922/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:10:44,880 - INFO - Extracted thread title: Do you list a stealth [generated] address on GMB for a blackhat business
+2025-04-10 10:10:44,881 - DEBUG - Scrolling page 3 times.
+2025-04-10 10:10:44,881 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:10:46,421 - DEBUG - Page scrolled.
+2025-04-10 10:10:48,423 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:10:50,002 - DEBUG - Page scrolled.
+2025-04-10 10:10:52,004 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:10:53,873 - DEBUG - Page scrolled.
+2025-04-10 10:10:55,875 - DEBUG - Random scrolls complete.
+2025-04-10 10:10:58,134 - DEBUG - Scrolling page 3 times.
+2025-04-10 10:10:58,136 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:00,008 - DEBUG - Page scrolled.
+2025-04-10 10:11:03,009 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:05,010 - DEBUG - Page scrolled.
+2025-04-10 10:11:08,012 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:09,480 - DEBUG - Page scrolled.
+2025-04-10 10:11:12,482 - DEBUG - Random scrolls complete.
+2025-04-10 10:11:12,511 - DEBUG - Found 7 like buttons.
+2025-04-10 10:11:15,512 - INFO - Attempting to like 1 posts. There are 7 available.
+2025-04-10 10:11:16,354 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:11:16,364 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:11:16,365 - DEBUG - Liked post number 1 of 1.
+2025-04-10 10:11:20,563 - INFO - Liked 1 posts successfully.
+2025-04-10 10:11:20,566 - INFO - Liked 1 posts successfully.
+2025-04-10 10:11:22,783 - INFO - performing random action
+2025-04-10 10:11:22,785 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:11:22,787 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:24,492 - DEBUG - Page scrolled.
+2025-04-10 10:11:27,494 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:28,765 - DEBUG - Page scrolled.
+2025-04-10 10:11:31,767 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:33,219 - DEBUG - Page scrolled.
+2025-04-10 10:11:36,222 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:11:38,164 - DEBUG - Page scrolled.
+2025-04-10 10:11:41,166 - DEBUG - Random scrolls complete.
+2025-04-10 10:11:43,545 - DEBUG - Total comments in the thread: 7
+2025-04-10 10:12:35,500 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Do you list a stealth [generated] address on GMB for a blackhat business.txt
+2025-04-10 10:12:38,273 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:12:38,313 - DEBUG - Extracted main post content: Hey guys,
+So say you run a blackhat business that drives its sales from a local market in your area and you know pretty much that it is never going to thrive with international/global SEO. How do you go about the GMB for that blackhat business if you really want to hide your ass yet run it successfully?
+not illegal, it is just blackhat that you are paranoid and would rather just stay anonymous. Remember those faceless Youtubers?
+Opinions opinions guys what do you think?
+OR what's your experience in dealing with this kind of local SEO?
+2025-04-10 10:12:42,226 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:12:42,229 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:12:44,898 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-10 10:12:50,513 - INFO - Profile Emaxx: Pausing for 31.91 seconds...
+2025-04-10 10:13:22,423 - INFO - Profile Emaxx: Resuming...
+2025-04-10 10:13:22,436 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-10 10:13:22,441 - INFO - performing random action
+2025-04-10 10:13:22,444 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:13:22,445 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:13:22,494 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:13:22,570 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:13:22,579 - DEBUG - Text box scrolled into view
+2025-04-10 10:13:23,562 - DEBUG - Initializing actionchains
+2025-04-10 10:13:23,639 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3045}, size: {'height': 21, 'width': 68}
+2025-04-10 10:13:23,641 - DEBUG - Target click coordinates: (1265, 3055)
+2025-04-10 10:13:33,689 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:13:33,691 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:13:33,693 - DEBUG - Clicking on the text box.
+2025-04-10 10:13:33,697 - DEBUG - Sending keys with content: Burner phone and a UPS store address, my dude. Are you worried about competitors or something else?
+
+2025-04-10 10:13:39,482 - DEBUG - Clicking on post reply button.
+2025-04-10 10:13:40,612 - DEBUG - Performed Actionchains
+2025-04-10 10:13:40,613 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:13:44,615 - INFO - Comment posted successfully.
+2025-04-10 10:13:44,620 - INFO - Task Completed!!
+2025-04-10 10:13:48,002 - INFO - Navigated back to the homepage.
+2025-04-10 10:13:50,868 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:13:50,952 - INFO - Garbage collection completed.
+2025-04-10 10:13:50,955 - INFO - Waiting for 1850 seconds before next execution.

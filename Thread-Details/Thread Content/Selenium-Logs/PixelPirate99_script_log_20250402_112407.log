@@ -1,0 +1,9 @@
+2025-04-02 11:24:07,686 - INFO - Starting automation for profile: PixelPirate99
+2025-04-02 11:24:08,681 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-02 11:24:08,687 - INFO - Calculated token expiration time: 1743584048.687139
+2025-04-02 11:24:08,689 - INFO - Profile PixelPirate99: Successfully logged in.
+2025-04-02 11:24:08,691 - INFO - Profile PixelPirate99: Starting profile 1038850a-a71c-4c6e-9f86-19b7937ee408...
+2025-04-02 11:24:13,194 - INFO - Profile PixelPirate99: Extracted port: 52305
+2025-04-02 11:24:14,322 - INFO - Profile PixelPirate99: Started on port 52305.
+2025-04-02 11:24:14,374 - INFO - Loaded 482 visited threads from Thread_links.txt
+2025-04-02 11:24:14,377 - INFO - Successfully loaded links that was already visited!

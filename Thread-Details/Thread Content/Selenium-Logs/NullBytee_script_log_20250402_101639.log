@@ -1,0 +1,103 @@
+2025-04-02 10:16:39,507 - INFO - Current time: 1743569199.507907
+2025-04-02 10:16:39,509 - INFO - Token expiration time: 1743577492.9041939
+2025-04-02 10:16:39,510 - INFO - Token expiration time: 1743577492.9041939
+2025-04-02 10:16:39,511 - INFO - performing random action
+2025-04-02 10:16:39,512 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 10:16:39,513 - DEBUG - Scrolling page 2 times.
+2025-04-02 10:16:39,514 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:16:40,596 - DEBUG - Page scrolled.
+2025-04-02 10:16:42,598 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:16:43,972 - DEBUG - Page scrolled.
+2025-04-02 10:16:45,973 - DEBUG - Random scrolls complete.
+2025-04-02 10:16:45,976 - DEBUG - Scrolling page 2 times.
+2025-04-02 10:16:45,978 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:16:47,117 - DEBUG - Page scrolled.
+2025-04-02 10:16:49,119 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:16:50,978 - DEBUG - Page scrolled.
+2025-04-02 10:16:52,980 - DEBUG - Random scrolls complete.
+2025-04-02 10:17:09,957 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-04-02 10:17:14,557 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-ad-network-for-my-traffic.1694294/unread
+2025-04-02 10:17:14,558 - INFO - Profile NullBytee: Pausing for 31.10 seconds...
+2025-04-02 10:17:45,663 - INFO - Profile NullBytee: Resuming...
+2025-04-02 10:17:45,664 - INFO - performing random action
+2025-04-02 10:17:59,573 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-ad-network-for-my-traffic.1694294/unread
+2025-04-02 10:17:59,577 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-ad-network-for-my-traffic.1694294/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 10:17:59,625 - INFO - Extracted thread title: Best Ad Network for My Traffic
+2025-04-02 10:17:59,626 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:17:59,626 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:01,004 - DEBUG - Page scrolled.
+2025-04-02 10:18:03,006 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:04,333 - DEBUG - Page scrolled.
+2025-04-02 10:18:06,334 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:07,514 - DEBUG - Page scrolled.
+2025-04-02 10:18:09,516 - DEBUG - Random scrolls complete.
+2025-04-02 10:18:12,186 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:18:12,191 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:13,476 - DEBUG - Page scrolled.
+2025-04-02 10:18:16,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:17,690 - DEBUG - Page scrolled.
+2025-04-02 10:18:20,693 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:21,937 - DEBUG - Page scrolled.
+2025-04-02 10:18:24,939 - DEBUG - Random scrolls complete.
+2025-04-02 10:18:24,970 - DEBUG - Found 20 like buttons.
+2025-04-02 10:18:27,971 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-02 10:18:28,642 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:18:28,667 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:18:28,669 - DEBUG - Liked post number 1 of 4.
+2025-04-02 10:18:34,428 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:18:34,444 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:18:34,446 - DEBUG - Liked post number 2 of 4.
+2025-04-02 10:18:40,183 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:18:40,195 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:18:40,195 - DEBUG - Liked post number 3 of 4.
+2025-04-02 10:18:45,219 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:18:45,239 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:18:45,241 - DEBUG - Liked post number 4 of 4.
+2025-04-02 10:18:50,141 - INFO - Liked 4 posts successfully.
+2025-04-02 10:18:50,142 - INFO - Liked 4 posts successfully.
+2025-04-02 10:18:52,555 - INFO - performing random action
+2025-04-02 10:18:52,556 - DEBUG - Scrolling page 5 times.
+2025-04-02 10:18:52,556 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:53,899 - DEBUG - Page scrolled.
+2025-04-02 10:18:56,902 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:58,765 - DEBUG - Page scrolled.
+2025-04-02 10:19:01,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:02,836 - DEBUG - Page scrolled.
+2025-04-02 10:19:05,837 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:07,625 - DEBUG - Page scrolled.
+2025-04-02 10:19:10,626 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:12,269 - DEBUG - Page scrolled.
+2025-04-02 10:19:15,271 - DEBUG - Random scrolls complete.
+2025-04-02 10:19:17,392 - DEBUG - Total comments in the thread: 20
+2025-04-02 10:21:43,261 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Best Ad Network for My Traffic.txt
+2025-04-02 10:21:45,885 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 10:21:45,917 - DEBUG - Extracted main post content: So, these are the countries i get traffic from, and was wondering which ad network is best for this type of audience? I tried Adsterra, netpub, valueimpression and others, either they dont pay good, or dont work, or dont even accept my website. ITS ABOUT APK DOWNLOADING
+2025-04-02 10:21:50,122 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 10:21:50,123 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 10:21:52,917 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-02 10:21:58,395 - INFO - Profile NullBytee: Pausing for 37.89 seconds...
+2025-04-02 10:22:36,286 - INFO - Profile NullBytee: Resuming...
+2025-04-02 10:22:36,299 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-02 10:22:36,302 - INFO - performing random action
+2025-04-02 10:22:36,303 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:22:36,305 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:22:36,329 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:22:36,377 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:22:36,387 - DEBUG - Text box scrolled into view
+2025-04-02 10:22:37,036 - DEBUG - Initializing actionchains
+2025-04-02 10:22:37,087 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6789}, size: {'height': 21, 'width': 68}
+2025-04-02 10:22:37,088 - DEBUG - Target click coordinates: (1121, 6799)
+2025-04-02 10:22:54,740 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 10:22:54,741 - DEBUG - Moving mouse to text box element.
+2025-04-02 10:22:54,742 - DEBUG - Clicking on the text box.
+2025-04-02 10:22:54,743 - DEBUG - Sending keys with content: APK downloading, huh? Maybe try looking into networks that focus on mobile gaming or app promotion; they might be a better fit and have higher payouts.
+
+2025-04-02 10:22:59,899 - DEBUG - Clicking on post reply button.
+2025-04-02 10:23:11,376 - DEBUG - Performed Actionchains
+2025-04-02 10:23:11,377 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 10:23:15,378 - INFO - Comment posted successfully.
+2025-04-02 10:23:15,381 - INFO - Task Completed!!
+2025-04-02 10:23:25,075 - INFO - Navigated back to the homepage.
+2025-04-02 10:23:27,320 - INFO - Attempting to clear memory and resources.
+2025-04-02 10:23:27,349 - INFO - Garbage collection completed.
+2025-04-02 10:23:27,350 - INFO - Waiting for 2000 seconds before next execution.

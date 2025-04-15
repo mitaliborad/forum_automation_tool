@@ -1,0 +1,95 @@
+2025-03-12 12:03:12,664 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_120312.log
+2025-03-12 12:03:12,667 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 12:03:12,670 - INFO - Loaded 157 visited threads from Thread_links.txt
+2025-03-12 12:03:12,673 - INFO - Successfully loaded links that was already visited!
+2025-03-12 12:03:12,675 - DEBUG - Scrolling page 5 times.
+2025-03-12 12:03:12,678 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:14,482 - DEBUG - Page scrolled.
+2025-03-12 12:03:16,485 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:18,077 - DEBUG - Page scrolled.
+2025-03-12 12:03:20,080 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:21,699 - DEBUG - Page scrolled.
+2025-03-12 12:03:23,701 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:25,499 - DEBUG - Page scrolled.
+2025-03-12 12:03:27,500 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:28,927 - DEBUG - Page scrolled.
+2025-03-12 12:03:30,928 - DEBUG - Random scrolls complete.
+2025-03-12 12:03:30,930 - DEBUG - Scrolling page 6 times.
+2025-03-12 12:03:30,932 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:32,160 - DEBUG - Page scrolled.
+2025-03-12 12:03:34,164 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:35,520 - DEBUG - Page scrolled.
+2025-03-12 12:03:37,522 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:39,514 - DEBUG - Page scrolled.
+2025-03-12 12:03:41,517 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:43,115 - DEBUG - Page scrolled.
+2025-03-12 12:03:45,120 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:46,514 - DEBUG - Page scrolled.
+2025-03-12 12:03:48,517 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:03:50,251 - DEBUG - Page scrolled.
+2025-03-12 12:03:52,252 - DEBUG - Random scrolls complete.
+2025-03-12 12:03:58,165 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-03-12 12:04:02,812 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/facebook-hack-and-email-spamming.1694766/unread
+2025-03-12 12:04:11,935 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/facebook-hack-and-email-spamming.1694766/unread
+2025-03-12 12:04:11,939 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/facebook-hack-and-email-spamming.1694766/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 12:04:11,996 - INFO - Extracted thread title: Facebook hack and email spamming
+2025-03-12 12:04:11,997 - DEBUG - Scrolling page 2 times.
+2025-03-12 12:04:11,997 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:04:13,147 - DEBUG - Page scrolled.
+2025-03-12 12:04:15,148 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:04:16,870 - DEBUG - Page scrolled.
+2025-03-12 12:04:18,872 - DEBUG - Random scrolls complete.
+2025-03-12 12:04:21,445 - DEBUG - Scrolling page 3 times.
+2025-03-12 12:04:21,447 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:04:22,567 - DEBUG - Page scrolled.
+2025-03-12 12:04:25,569 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:04:27,115 - DEBUG - Page scrolled.
+2025-03-12 12:04:30,117 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:04:32,066 - DEBUG - Page scrolled.
+2025-03-12 12:04:35,068 - DEBUG - Random scrolls complete.
+2025-03-12 12:04:35,081 - DEBUG - Found 2 like buttons.
+2025-03-12 12:04:38,084 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-03-12 12:04:39,074 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:04:39,104 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:04:39,106 - DEBUG - Liked post number 1 of 2.
+2025-03-12 12:04:43,752 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 12:04:43,771 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 12:04:43,773 - DEBUG - Liked post number 2 of 2.
+2025-03-12 12:04:48,164 - INFO - Liked 2 posts successfully.
+2025-03-12 12:04:48,166 - INFO - Liked 2 posts successfully.
+2025-03-12 12:04:50,283 - DEBUG - Scrolling page 3 times.
+2025-03-12 12:04:50,284 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:04:51,782 - DEBUG - Page scrolled.
+2025-03-12 12:04:54,784 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:04:56,716 - DEBUG - Page scrolled.
+2025-03-12 12:04:59,718 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 12:05:00,936 - DEBUG - Page scrolled.
+2025-03-12 12:05:03,938 - DEBUG - Random scrolls complete.
+2025-03-12 12:05:06,761 - DEBUG - Total comments in the thread: 2
+2025-03-12 12:05:06,968 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Facebook hack and email spamming.txt
+2025-03-12 12:05:09,830 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 12:05:09,857 - DEBUG - Extracted main post content: I’m new here someone please teach me how to hack facebook and spam email
+2025-03-12 12:05:13,544 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 12:05:13,547 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 12:05:15,798 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:05:15,800 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:05:15,827 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:05:15,872 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 12:05:15,881 - DEBUG - Text box scrolled into view
+2025-03-12 12:05:16,843 - DEBUG - Initializing actionchains
+2025-03-12 12:05:16,892 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1528}, size: {'height': 21, 'width': 68}
+2025-03-12 12:05:16,893 - DEBUG - Target click coordinates: (1121, 1538)
+2025-03-12 12:05:23,634 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 12:05:23,638 - DEBUG - Moving mouse to text box element.
+2025-03-12 12:05:23,640 - DEBUG - Clicking on the text box.
+2025-03-12 12:05:23,643 - DEBUG - Sending keys with content: Seriously, hacking and spamming aren't cool and could get you into a lot of trouble. Maybe try learning ethical hacking or digital marketing instead – way more rewarding and legal.
+
+2025-03-12 12:05:29,222 - DEBUG - Clicking on post reply button.
+2025-03-12 12:05:40,458 - DEBUG - Performed Actionchains
+2025-03-12 12:05:40,460 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 12:05:44,463 - INFO - Comment posted successfully.
+2025-03-12 12:05:44,465 - INFO - Task Completed!!
+2025-03-12 12:05:52,648 - INFO - Navigated back to the homepage.
+2025-03-12 12:05:54,805 - INFO - Attempting to clear memory and resources.
+2025-03-12 12:05:54,837 - INFO - Garbage collection completed.
+2025-03-12 12:05:54,838 - INFO - Waiting for 10 seconds before next execution.

@@ -1,0 +1,105 @@
+2025-03-12 15:05:10,056 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_150510.log
+2025-03-12 15:05:10,059 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 15:05:10,078 - INFO - Loaded 173 visited threads from Thread_links.txt
+2025-03-12 15:05:10,079 - INFO - Successfully loaded links that was already visited!
+2025-03-12 15:05:10,080 - DEBUG - Scrolling page 7 times.
+2025-03-12 15:05:10,081 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:11,141 - DEBUG - Page scrolled.
+2025-03-12 15:05:13,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:14,470 - DEBUG - Page scrolled.
+2025-03-12 15:05:16,473 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:17,837 - DEBUG - Page scrolled.
+2025-03-12 15:05:19,839 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:21,412 - DEBUG - Page scrolled.
+2025-03-12 15:05:23,414 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:24,924 - DEBUG - Page scrolled.
+2025-03-12 15:05:26,975 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:28,694 - DEBUG - Page scrolled.
+2025-03-12 15:05:30,696 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:31,751 - DEBUG - Page scrolled.
+2025-03-12 15:05:33,754 - DEBUG - Random scrolls complete.
+2025-03-12 15:05:33,755 - DEBUG - Scrolling page 4 times.
+2025-03-12 15:05:33,755 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:35,095 - DEBUG - Page scrolled.
+2025-03-12 15:05:37,097 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:38,160 - DEBUG - Page scrolled.
+2025-03-12 15:05:40,162 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:41,720 - DEBUG - Page scrolled.
+2025-03-12 15:05:43,722 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:05:45,051 - DEBUG - Page scrolled.
+2025-03-12 15:05:47,054 - DEBUG - Random scrolls complete.
+2025-03-12 15:05:54,156 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/local-seo.209/
+2025-03-12 15:05:58,713 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/french-gmb-owners-lets-share-experiences-and-strategies.1679403/unread
+2025-03-12 15:06:06,789 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/french-gmb-owners-lets-share-experiences-and-strategies.1679403/unread
+2025-03-12 15:06:06,792 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/french-gmb-owners-lets-share-experiences-and-strategies.1679403/unread' to visited threads file 'Thread_links.txt'.
+2025-03-12 15:06:06,833 - INFO - Extracted thread title: French GMB Owners - Let's Share Experiences and Strategies!
+2025-03-12 15:06:06,834 - DEBUG - Scrolling page 2 times.
+2025-03-12 15:06:06,835 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:06:08,222 - DEBUG - Page scrolled.
+2025-03-12 15:06:10,223 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:06:12,078 - DEBUG - Page scrolled.
+2025-03-12 15:06:14,081 - DEBUG - Random scrolls complete.
+2025-03-12 15:06:16,437 - DEBUG - Scrolling page 1 times.
+2025-03-12 15:06:16,438 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:06:17,952 - DEBUG - Page scrolled.
+2025-03-12 15:06:20,955 - DEBUG - Random scrolls complete.
+2025-03-12 15:06:20,979 - DEBUG - Found 3 like buttons.
+2025-03-12 15:06:23,981 - INFO - Attempting to like 2 posts. There are 3 available.
+2025-03-12 15:06:24,523 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:06:24,534 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:06:24,535 - DEBUG - Liked post number 1 of 2.
+2025-03-12 15:06:29,270 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-12 15:06:29,278 - INFO - Like button clicked successfully using JavaScript.
+2025-03-12 15:06:29,279 - DEBUG - Liked post number 2 of 2.
+2025-03-12 15:06:34,112 - INFO - Liked 2 posts successfully.
+2025-03-12 15:06:34,113 - INFO - Liked 2 posts successfully.
+2025-03-12 15:06:36,336 - DEBUG - Scrolling page 4 times.
+2025-03-12 15:06:36,337 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:06:37,942 - DEBUG - Page scrolled.
+2025-03-12 15:06:40,944 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:06:42,329 - DEBUG - Page scrolled.
+2025-03-12 15:06:45,331 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:06:46,542 - DEBUG - Page scrolled.
+2025-03-12 15:06:49,544 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 15:06:50,842 - DEBUG - Page scrolled.
+2025-03-12 15:06:53,844 - DEBUG - Random scrolls complete.
+2025-03-12 15:06:56,815 - DEBUG - Total comments in the thread: 3
+2025-03-12 15:07:07,431 - INFO - Post content extracted and saved to Thread-Details/Thread Content\French GMB Owners - Let's Share Experiences and Strategies!.txt
+2025-03-12 15:07:10,103 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-12 15:07:10,152 - DEBUG - Extracted main post content: Hey everyone,
+
+I’m currently managing multiple Google My Business (GMB) profiles across different regions in France, covering niches such as landscaping, construction, and roofing. As GMB plays a crucial role in local SEO, I wanted to open up a discussion to share experiences, insights, and best practices specifically tailored to the French market.
+
+If you're also working on optimizing GMB listings in France, I'd love to hear your thoughts on topics such as:
+Effective strategies to improve GMB visibility and local rankings
+Handling GMB suspensions and reinstatements
+The impact of recent updates on local search performance
+Citation building and local link-building tactics
+Managing and responding to customer reviews effectively
+I believe there's a lot we can learn from each other by discussing what has worked (or hasn't) in the French market. Let's collaborate, share tips, and support each other in navigating the ever-changing landscape of local SEO.
+
+Looking forward to exchanging ideas with you all!
+2025-03-12 15:07:13,433 - INFO - Successfully generated comments using Gemini API.
+2025-03-12 15:07:13,434 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-12 15:07:16,018 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:07:16,019 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:07:16,033 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:07:16,085 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-12 15:07:16,093 - DEBUG - Text box scrolled into view
+2025-03-12 15:07:16,615 - DEBUG - Initializing actionchains
+2025-03-12 15:07:16,651 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2313}, size: {'height': 21, 'width': 68}
+2025-03-12 15:07:16,652 - DEBUG - Target click coordinates: (1121, 2323)
+2025-03-12 15:07:25,131 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-12 15:07:25,133 - DEBUG - Moving mouse to text box element.
+2025-03-12 15:07:25,133 - DEBUG - Clicking on the text box.
+2025-03-12 15:07:25,134 - DEBUG - Sending keys with content: Dealing with GMB suspensions is such a pain; any tricks you've found that work consistently with Google France?
+
+2025-03-12 15:07:31,097 - DEBUG - Clicking on post reply button.
+2025-03-12 15:07:41,735 - DEBUG - Performed Actionchains
+2025-03-12 15:07:41,736 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-12 15:07:45,738 - INFO - Comment posted successfully.
+2025-03-12 15:07:45,740 - INFO - Task Completed!!
+2025-03-12 15:07:55,244 - INFO - Navigated back to the homepage.
+2025-03-12 15:07:57,715 - INFO - Attempting to clear memory and resources.
+2025-03-12 15:07:57,745 - INFO - Garbage collection completed.
+2025-03-12 15:07:57,747 - INFO - Waiting for 1000 seconds before next execution.

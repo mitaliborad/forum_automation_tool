@@ -1,0 +1,105 @@
+2025-04-01 10:12:04,703 - INFO - Current time: 1743482524.7030911
+2025-04-01 10:12:04,705 - INFO - Token expiration time: 1743491120.0368915
+2025-04-01 10:12:04,708 - INFO - Token expiration time: 1743491120.0368915
+2025-04-01 10:12:04,710 - INFO - performing random action
+2025-04-01 10:12:04,721 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-01 10:12:04,723 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:12:04,724 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:06,408 - DEBUG - Page scrolled.
+2025-04-01 10:12:08,418 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:09,869 - DEBUG - Page scrolled.
+2025-04-01 10:12:11,879 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:13,516 - DEBUG - Page scrolled.
+2025-04-01 10:12:15,527 - DEBUG - Random scrolls complete.
+2025-04-01 10:12:15,529 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:12:15,530 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:16,664 - DEBUG - Page scrolled.
+2025-04-01 10:12:18,667 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:19,754 - DEBUG - Page scrolled.
+2025-04-01 10:12:21,759 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:23,555 - DEBUG - Page scrolled.
+2025-04-01 10:12:25,557 - DEBUG - Random scrolls complete.
+2025-04-01 10:12:31,135 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-01 10:12:36,221 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/adult-content-payment-processor.1683118/unread
+2025-04-01 10:12:36,222 - INFO - performing random action
+2025-04-01 10:12:44,807 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/adult-content-payment-processor.1683118/unread
+2025-04-01 10:12:44,825 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/adult-content-payment-processor.1683118/unread' to visited threads file 'Thread_links.txt'.
+2025-04-01 10:12:44,898 - INFO - Extracted thread title: Adult Content Payment Processor
+2025-04-01 10:12:44,899 - DEBUG - Scrolling page 4 times.
+2025-04-01 10:12:44,900 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:45,979 - DEBUG - Page scrolled.
+2025-04-01 10:12:47,982 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:49,034 - DEBUG - Page scrolled.
+2025-04-01 10:12:51,048 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:52,950 - DEBUG - Page scrolled.
+2025-04-01 10:12:54,952 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:12:56,752 - DEBUG - Page scrolled.
+2025-04-01 10:12:58,759 - DEBUG - Random scrolls complete.
+2025-04-01 10:13:01,409 - DEBUG - Scrolling page 3 times.
+2025-04-01 10:13:01,410 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:13:03,195 - DEBUG - Page scrolled.
+2025-04-01 10:13:06,200 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:13:07,616 - DEBUG - Page scrolled.
+2025-04-01 10:13:10,623 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:13:12,426 - DEBUG - Page scrolled.
+2025-04-01 10:13:15,430 - DEBUG - Random scrolls complete.
+2025-04-01 10:13:15,485 - DEBUG - Found 13 like buttons.
+2025-04-01 10:13:18,487 - INFO - Attempting to like 2 posts. There are 13 available.
+2025-04-01 10:13:19,165 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:13:19,205 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:13:19,213 - DEBUG - Liked post number 1 of 2.
+2025-04-01 10:13:25,029 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-01 10:13:25,059 - INFO - Like button clicked successfully using JavaScript.
+2025-04-01 10:13:25,063 - DEBUG - Liked post number 2 of 2.
+2025-04-01 10:13:29,906 - INFO - Liked 2 posts successfully.
+2025-04-01 10:13:29,908 - INFO - Liked 2 posts successfully.
+2025-04-01 10:13:32,491 - INFO - Profile Emaxx: Opening random website: https://www.canva.com/en_in/
+2025-04-01 10:13:55,628 - INFO - Profile Emaxx: Pausing for 47.89 seconds...
+2025-04-01 10:14:43,517 - INFO - Profile Emaxx: Resuming...
+2025-04-01 10:14:43,597 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-01 10:14:43,598 - INFO - performing random action
+2025-04-01 10:14:43,599 - DEBUG - Scrolling page 7 times.
+2025-04-01 10:14:43,600 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:14:44,872 - DEBUG - Page scrolled.
+2025-04-01 10:14:47,879 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:14:49,812 - DEBUG - Page scrolled.
+2025-04-01 10:14:52,816 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:14:54,047 - DEBUG - Page scrolled.
+2025-04-01 10:14:57,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:14:58,995 - DEBUG - Page scrolled.
+2025-04-01 10:15:01,997 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:15:03,086 - DEBUG - Page scrolled.
+2025-04-01 10:15:06,104 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:15:07,393 - DEBUG - Page scrolled.
+2025-04-01 10:15:10,396 - DEBUG - Scrolling page by 500 pixels.
+2025-04-01 10:15:12,101 - DEBUG - Page scrolled.
+2025-04-01 10:15:15,107 - DEBUG - Random scrolls complete.
+2025-04-01 10:15:17,846 - DEBUG - Total comments in the thread: 13
+2025-04-01 10:16:31,011 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Adult Content Payment Processor.txt
+2025-04-01 10:16:33,098 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-01 10:16:33,186 - DEBUG - Extracted main post content: Need a payment processor for Adult content....anyone worked with them? Thoughts? Any other recommendations? #PaymentNerds
+2025-04-01 10:16:38,845 - INFO - Successfully generated comments using Gemini API.
+2025-04-01 10:16:38,850 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-01 10:16:41,363 - INFO - performing random action
+2025-04-01 10:16:41,365 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:16:41,373 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:16:41,414 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:16:41,478 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-01 10:16:41,488 - DEBUG - Text box scrolled into view
+2025-04-01 10:16:42,363 - DEBUG - Initializing actionchains
+2025-04-01 10:16:42,453 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4510}, size: {'height': 21, 'width': 68}
+2025-04-01 10:16:42,455 - DEBUG - Target click coordinates: (1121, 4520)
+2025-04-01 10:16:55,488 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-01 10:16:55,490 - DEBUG - Moving mouse to text box element.
+2025-04-01 10:16:55,491 - DEBUG - Clicking on the text box.
+2025-04-01 10:16:55,494 - DEBUG - Sending keys with content: Heard good things about Paxum, but their fees can sting. What kind of volume are you pushing? That'll probably dictate the best fit.
+
+2025-04-01 10:17:01,178 - DEBUG - Clicking on post reply button.
+2025-04-01 10:17:12,212 - DEBUG - Performed Actionchains
+2025-04-01 10:17:12,213 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-01 10:17:16,214 - INFO - Comment posted successfully.
+2025-04-01 10:17:16,217 - INFO - Task Completed!!
+2025-04-01 10:17:23,470 - INFO - Navigated back to the homepage.
+2025-04-01 10:17:25,927 - INFO - Attempting to clear memory and resources.
+2025-04-01 10:17:25,959 - INFO - Garbage collection completed.
+2025-04-01 10:17:25,960 - INFO - Waiting for 2000 seconds before next execution.

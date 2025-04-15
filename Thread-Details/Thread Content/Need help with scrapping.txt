@@ -1,0 +1,143 @@
+--- Main Post Title ---
+Need help with scrapping
+
+Total comments in the thread: 11
+
+Topic User: Legendary_MaaN
+Topic: I need to scrap data about property owners in a certain location, suggest me tools and ways to do that please.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Master0fPuppets
+Topic: the data visibility is public?
+Legendary_MaaN said:
+I need to scrap data about property owners in a certain location, suggest me tools and ways to do that please.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Legendary_MaaN
+Topic: Master0fPuppets said:
+the data visibility is public?
+i don't know. my client needs this data, i'm still researching and still haven't found any website where this data is shown publicly
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: matek697
+Topic: Legendary_MaaN said:
+i don't know. my client needs this data, i'm still researching and still haven't found any website where this data is shown publicly
+then you are asking us to help you solve an equation with 3 unknowns, and you are giving half the data of one of them, it is difficult to advise here
+
+universal solution step by step:
+1. find source/website with desired data
+2. code/build scraper to scrape this
+3. save it into database and then deliver to clients
+done
+Liked by: Legendary_MaaN
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Powerful Tiger Ads
+Topic: Find someone who can write a crawler program in python, or if you know how, you can write it yourself. You can check whether its data is encrypted
+Liked by: Legendary_MaaN
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Gogol
+Topic: Legendary_MaaN said:
+I need to scrap data about property owners in a certain location, suggest me tools and ways to do that please.
+Lesson 1: It’s scraping, not scrapping. Scraping and scrapping aren’t the same thing.
+
+As for tools, my tool of choice is node.js + puppeteer. But it might actually be possible to scrape the data just using http requests. In that case use a fetch client like axios and something like cheerios to get the data easily. That should do it much quicker. It depends on the site you are trying to scrape.
+Liked by: Legendary_MaaN
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: WickednDivine
+Topic: There are some tools available in the market that might be help you like Import.io , Apify, ScrapingBee,etc.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Proxy Cake
+Topic: A scraping program or python script with residential proxies will allow you to target whatever location you want
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: killocc
+Topic: In some countries residential property owners database are publicly available just google search location + residential property database. Some free and some paid.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: mchabchoub
+Topic: Gogol said:
+Lesson 1: It’s scraping, not scrapping. Scraping and scrapping aren’t the same thing.
+
+As for tools, my tool of choice is node.js + puppeteer. But it might actually be possible to scrape the data just using http requests. In that case use a fetch client like axios and something like cheerios to get the data easily. That should do it much quicker. It depends on the site you are trying to scrape.
+Did you try scrapingrocket?
+
+It does all of what you suggested without any coding.
+
+It has a Visual Selector page that displays the scraped web page within an iframe.
+
+You simply need to click on the elements you want to extract from the web page.
+
+This action will generate a Cheerio config file, which you can then use on other similar URLs to extract data in JSON format.
+Liked by: Gogol
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Gogol
+Topic: mchabchoub said:
+Did you try scrapingrocket?
+
+It does all of what you suggested without any coding.
+
+It has a Visual Selector page that displays the scraped web page within an iframe.
+
+You simply need to click on the elements you want to extract from the web page.
+
+This action will generate a Cheerio config file, which you can then use on other similar URLs to extract data in JSON format.
+Click to expand...
+No, I haven’t. But this sounds pretty interesting. I will give it a try if a project like that comes up in future.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

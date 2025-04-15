@@ -1,0 +1,95 @@
+2025-03-13 15:40:09,991 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emaxx_script_log_20250313_154009.log
+2025-03-13 15:40:09,992 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 15:40:10,011 - INFO - Loaded 200 visited threads from Thread_links.txt
+2025-03-13 15:40:10,013 - INFO - Successfully loaded links that was already visited!
+2025-03-13 15:40:10,014 - DEBUG - Scrolling page 7 times.
+2025-03-13 15:40:10,015 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:11,160 - DEBUG - Page scrolled.
+2025-03-13 15:40:13,162 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:14,803 - DEBUG - Page scrolled.
+2025-03-13 15:40:16,806 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:18,206 - DEBUG - Page scrolled.
+2025-03-13 15:40:20,208 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:21,545 - DEBUG - Page scrolled.
+2025-03-13 15:40:23,548 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:24,596 - DEBUG - Page scrolled.
+2025-03-13 15:40:26,598 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:27,646 - DEBUG - Page scrolled.
+2025-03-13 15:40:29,648 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:31,076 - DEBUG - Page scrolled.
+2025-03-13 15:40:33,078 - DEBUG - Random scrolls complete.
+2025-03-13 15:40:33,079 - DEBUG - Scrolling page 5 times.
+2025-03-13 15:40:33,080 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:34,804 - DEBUG - Page scrolled.
+2025-03-13 15:40:36,805 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:38,293 - DEBUG - Page scrolled.
+2025-03-13 15:40:40,295 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:41,527 - DEBUG - Page scrolled.
+2025-03-13 15:40:43,530 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:44,896 - DEBUG - Page scrolled.
+2025-03-13 15:40:46,898 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:40:48,392 - DEBUG - Page scrolled.
+2025-03-13 15:40:50,394 - DEBUG - Random scrolls complete.
+2025-03-13 15:40:59,989 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-03-13 15:41:04,743 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/blank-checkout-offers.1671881/unread
+2025-03-13 15:41:15,868 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/blank-checkout-offers.1671881/unread
+2025-03-13 15:41:15,871 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/blank-checkout-offers.1671881/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 15:41:15,959 - INFO - Extracted thread title: Blank Checkout Offers
+2025-03-13 15:41:29,657 - DEBUG - Scrolling page 2 times.
+2025-03-13 15:41:29,658 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:41:31,336 - DEBUG - Page scrolled.
+2025-03-13 15:41:33,338 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:41:34,816 - DEBUG - Page scrolled.
+2025-03-13 15:41:36,818 - DEBUG - Random scrolls complete.
+2025-03-13 15:41:39,284 - DEBUG - Scrolling page 2 times.
+2025-03-13 15:41:39,285 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:41:40,444 - DEBUG - Page scrolled.
+2025-03-13 15:41:43,447 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:41:45,439 - DEBUG - Page scrolled.
+2025-03-13 15:41:48,442 - DEBUG - Random scrolls complete.
+2025-03-13 15:41:48,459 - DEBUG - Found 14 like buttons.
+2025-03-13 15:41:51,461 - INFO - Attempting to like 2 posts. There are 14 available.
+2025-03-13 15:41:52,424 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:41:52,440 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:41:52,441 - DEBUG - Liked post number 1 of 2.
+2025-03-13 15:41:57,768 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 15:41:57,776 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 15:41:57,778 - DEBUG - Liked post number 2 of 2.
+2025-03-13 15:42:02,163 - INFO - Liked 2 posts successfully.
+2025-03-13 15:42:02,164 - INFO - Liked 2 posts successfully.
+2025-03-13 15:42:34,467 - DEBUG - Scrolling page 3 times.
+2025-03-13 15:42:34,468 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:36,287 - DEBUG - Page scrolled.
+2025-03-13 15:42:39,291 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:40,581 - DEBUG - Page scrolled.
+2025-03-13 15:42:43,583 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 15:42:44,847 - DEBUG - Page scrolled.
+2025-03-13 15:42:47,850 - DEBUG - Random scrolls complete.
+2025-03-13 15:42:50,857 - DEBUG - Total comments in the thread: 14
+2025-03-13 15:43:54,752 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Blank Checkout Offers.txt
+2025-03-13 15:43:57,131 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 15:43:57,199 - DEBUG - Extracted main post content: I need blank checkout offers to promote with FB ads. I tried searching the forum but I didn't find a single answer. Please recommend networks or direct offers (legit ones)
+2025-03-13 15:44:00,984 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 15:44:00,992 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 15:44:03,898 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:44:03,900 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:44:03,936 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:44:04,000 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 15:44:04,010 - DEBUG - Text box scrolled into view
+2025-03-13 15:44:04,961 - DEBUG - Initializing actionchains
+2025-03-13 15:44:05,168 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4904}, size: {'height': 21, 'width': 68}
+2025-03-13 15:44:05,169 - DEBUG - Target click coordinates: (1121, 4914)
+2025-03-13 15:44:19,584 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 15:44:19,586 - DEBUG - Moving mouse to text box element.
+2025-03-13 15:44:19,588 - DEBUG - Clicking on the text box.
+2025-03-13 15:44:19,591 - DEBUG - Sending keys with content: Instead of blank checkouts, have you tried running lead gen ads and then warming those leads with email before sending them to an offer?
+
+2025-03-13 15:44:25,416 - DEBUG - Clicking on post reply button.
+2025-03-13 15:44:36,514 - DEBUG - Performed Actionchains
+2025-03-13 15:44:36,516 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 15:44:40,518 - INFO - Comment posted successfully.
+2025-03-13 15:44:40,520 - INFO - Task Completed!!
+2025-03-13 15:44:51,314 - INFO - Navigated back to the homepage.
+2025-03-13 15:44:54,009 - INFO - Attempting to clear memory and resources.
+2025-03-13 15:44:54,049 - INFO - Garbage collection completed.
+2025-03-13 15:44:54,050 - INFO - Waiting for 10 seconds before next execution.

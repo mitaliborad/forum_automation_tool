@@ -1,0 +1,111 @@
+2025-04-14 14:18:57,547 - INFO - Current time: 1744620537.5473545
+2025-04-14 14:18:57,549 - INFO - Token expiration time: 1744621607.0474901
+2025-04-14 14:18:57,556 - INFO - Token expiration time: 1744621607.0474901
+2025-04-14 14:18:57,558 - INFO - Profile ZeroDayHunter: Pausing for 38.78 seconds...
+2025-04-14 14:19:36,341 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-14 14:19:36,343 - INFO - performing random action
+2025-04-14 14:19:36,345 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 14:19:36,348 - DEBUG - Scrolling page 2 times.
+2025-04-14 14:19:36,349 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:38,346 - DEBUG - Page scrolled.
+2025-04-14 14:19:40,348 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:42,217 - DEBUG - Page scrolled.
+2025-04-14 14:19:44,219 - DEBUG - Random scrolls complete.
+2025-04-14 14:19:44,221 - DEBUG - Scrolling page 4 times.
+2025-04-14 14:19:44,222 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:45,782 - DEBUG - Page scrolled.
+2025-04-14 14:19:47,783 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:49,319 - DEBUG - Page scrolled.
+2025-04-14 14:19:51,324 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:52,623 - DEBUG - Page scrolled.
+2025-04-14 14:19:54,625 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:56,089 - DEBUG - Page scrolled.
+2025-04-14 14:19:58,093 - DEBUG - Random scrolls complete.
+2025-04-14 14:20:11,221 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-04-14 14:20:15,211 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/x-twitter-views-impression-smm-panel-can-monetization.1614560/unread
+2025-04-14 14:20:15,211 - INFO - Profile ZeroDayHunter: Opening random website: https://www.w3schools.com/
+2025-04-14 14:20:25,949 - INFO - Profile ZeroDayHunter: Pausing for 43.40 seconds...
+2025-04-14 14:21:09,350 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-14 14:21:09,404 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-14 14:21:09,406 - INFO - performing random action
+2025-04-14 14:21:20,089 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/x-twitter-views-impression-smm-panel-can-monetization.1614560/unread
+2025-04-14 14:21:20,091 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/x-twitter-views-impression-smm-panel-can-monetization.1614560/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 14:21:20,192 - INFO - Extracted thread title: X - Twitter viewsimpression SMM Panel can Monetization
+2025-04-14 14:21:20,194 - DEBUG - Scrolling page 2 times.
+2025-04-14 14:21:20,195 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:21:21,329 - DEBUG - Page scrolled.
+2025-04-14 14:21:23,332 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:21:25,323 - DEBUG - Page scrolled.
+2025-04-14 14:21:27,324 - DEBUG - Random scrolls complete.
+2025-04-14 14:21:30,032 - DEBUG - Scrolling page 3 times.
+2025-04-14 14:21:30,033 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:21:31,402 - DEBUG - Page scrolled.
+2025-04-14 14:21:34,405 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:21:35,858 - DEBUG - Page scrolled.
+2025-04-14 14:21:38,859 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:21:40,853 - DEBUG - Page scrolled.
+2025-04-14 14:21:43,855 - DEBUG - Random scrolls complete.
+2025-04-14 14:21:43,909 - DEBUG - Found 20 like buttons.
+2025-04-14 14:21:46,912 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-14 14:21:47,794 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:21:47,839 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:21:47,842 - DEBUG - Liked post number 1 of 4.
+2025-04-14 14:21:52,793 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:21:52,813 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:21:52,815 - DEBUG - Liked post number 2 of 4.
+2025-04-14 14:21:57,939 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:21:57,961 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:21:57,963 - DEBUG - Liked post number 3 of 4.
+2025-04-14 14:22:03,340 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:22:03,368 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:22:03,380 - DEBUG - Liked post number 4 of 4.
+2025-04-14 14:22:08,297 - INFO - Liked 4 posts successfully.
+2025-04-14 14:22:08,297 - INFO - Liked 4 posts successfully.
+2025-04-14 14:22:10,714 - INFO - performing random action
+2025-04-14 14:22:10,717 - DEBUG - Scrolling page 6 times.
+2025-04-14 14:22:10,718 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:22:11,839 - DEBUG - Page scrolled.
+2025-04-14 14:22:14,841 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:22:16,380 - DEBUG - Page scrolled.
+2025-04-14 14:22:19,391 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:22:21,093 - DEBUG - Page scrolled.
+2025-04-14 14:22:24,095 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:22:25,280 - DEBUG - Page scrolled.
+2025-04-14 14:22:28,281 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:22:30,183 - DEBUG - Page scrolled.
+2025-04-14 14:22:33,185 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:22:34,921 - DEBUG - Page scrolled.
+2025-04-14 14:22:37,923 - DEBUG - Random scrolls complete.
+2025-04-14 14:22:40,353 - DEBUG - Total comments in the thread: 20
+2025-04-14 14:25:04,515 - INFO - Post content extracted and saved to Thread-Details/Thread Content\X - Twitter viewsimpression SMM Panel can Monetization.txt
+2025-04-14 14:25:07,414 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 14:25:07,466 - DEBUG - Extracted main post content: Hello, does anyone know of an SMM Panel that can increase the number of views/impressions recorded in analytics to enable monetization on X-twitter? Thank you very much.
+2025-04-14 14:25:11,753 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 14:25:11,756 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 14:25:14,251 - INFO - Profile ZeroDayHunter: Opening random website: https://www.canva.com/en_in/
+2025-04-14 14:25:49,193 - INFO - Profile ZeroDayHunter: Pausing for 45.30 seconds...
+2025-04-14 14:26:34,497 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-14 14:26:34,533 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-14 14:26:34,547 - INFO - performing random action
+2025-04-14 14:26:34,550 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:26:34,550 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:26:34,571 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:26:34,619 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:26:34,625 - DEBUG - Text box scrolled into view
+2025-04-14 14:26:35,458 - DEBUG - Initializing actionchains
+2025-04-14 14:26:35,531 - DEBUG - Post reply Element location: {'x': 1231, 'y': 7852}, size: {'height': 21, 'width': 68}
+2025-04-14 14:26:35,531 - DEBUG - Target click coordinates: (1265, 7862)
+2025-04-14 14:26:55,045 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 14:26:55,048 - DEBUG - Moving mouse to text box element.
+2025-04-14 14:26:55,050 - DEBUG - Clicking on the text box.
+2025-04-14 14:26:55,052 - DEBUG - Sending keys with content: Not touching this with a ten-foot pole, monetization through fake metrics never ends well. You're better off building a real audience.
+
+2025-04-14 14:27:00,268 - DEBUG - Clicking on post reply button.
+2025-04-14 14:27:01,680 - DEBUG - Performed Actionchains
+2025-04-14 14:27:01,683 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 14:27:05,693 - INFO - Comment posted successfully.
+2025-04-14 14:27:05,695 - INFO - Task Completed!!
+2025-04-14 14:27:12,921 - INFO - Navigated back to the homepage.
+2025-04-14 14:27:15,167 - INFO - Attempting to clear memory and resources.
+2025-04-14 14:27:15,234 - INFO - Garbage collection completed.
+2025-04-14 14:27:15,235 - INFO - Waiting for 2200 seconds before next execution.

@@ -1,0 +1,103 @@
+2025-04-14 13:31:59,581 - INFO - Current time: 1744617719.581864
+2025-04-14 13:31:59,584 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 13:31:59,586 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 13:31:59,591 - INFO - performing random action
+2025-04-14 13:31:59,593 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 13:31:59,596 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:31:59,597 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:01,021 - DEBUG - Page scrolled.
+2025-04-14 13:32:03,023 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:04,471 - DEBUG - Page scrolled.
+2025-04-14 13:32:06,473 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:07,727 - DEBUG - Page scrolled.
+2025-04-14 13:32:09,741 - DEBUG - Random scrolls complete.
+2025-04-14 13:32:09,743 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:32:09,745 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:11,626 - DEBUG - Page scrolled.
+2025-04-14 13:32:13,627 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:15,011 - DEBUG - Page scrolled.
+2025-04-14 13:32:17,013 - DEBUG - Random scrolls complete.
+2025-04-14 13:32:25,348 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-14 13:32:29,594 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/sell-pdf-ebooks-reports-for-cash-daily.1676266/unread
+2025-04-14 13:32:29,595 - INFO - performing random action
+2025-04-14 13:32:41,094 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/sell-pdf-ebooks-reports-for-cash-daily.1676266/unread
+2025-04-14 13:32:41,098 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/sell-pdf-ebooks-reports-for-cash-daily.1676266/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 13:32:41,191 - INFO - Extracted thread title: Sell PDF ebooksreports for cash daily.
+2025-04-14 13:32:41,192 - DEBUG - Scrolling page 2 times.
+2025-04-14 13:32:41,192 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:42,833 - DEBUG - Page scrolled.
+2025-04-14 13:32:44,835 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:46,334 - DEBUG - Page scrolled.
+2025-04-14 13:32:48,336 - DEBUG - Random scrolls complete.
+2025-04-14 13:32:50,680 - DEBUG - Scrolling page 1 times.
+2025-04-14 13:32:50,681 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:32:52,101 - DEBUG - Page scrolled.
+2025-04-14 13:32:55,103 - DEBUG - Random scrolls complete.
+2025-04-14 13:32:55,163 - DEBUG - Found 20 like buttons.
+2025-04-14 13:32:58,165 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-14 13:32:59,084 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 13:32:59,118 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 13:32:59,119 - DEBUG - Liked post number 1 of 1.
+2025-04-14 13:33:03,593 - INFO - Liked 1 posts successfully.
+2025-04-14 13:33:03,598 - INFO - Liked 1 posts successfully.
+2025-04-14 13:33:06,337 - INFO - performing random action
+2025-04-14 13:33:06,341 - DEBUG - Scrolling page 3 times.
+2025-04-14 13:33:06,343 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:08,159 - DEBUG - Page scrolled.
+2025-04-14 13:33:11,162 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:12,566 - DEBUG - Page scrolled.
+2025-04-14 13:33:15,567 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 13:33:17,357 - DEBUG - Page scrolled.
+2025-04-14 13:33:20,358 - DEBUG - Random scrolls complete.
+2025-04-14 13:33:23,477 - DEBUG - Total comments in the thread: 20
+2025-04-14 13:36:28,006 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Sell PDF ebooksreports for cash daily..txt
+2025-04-14 13:36:30,643 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 13:36:30,734 - DEBUG - Extracted main post content: Using your wordprocessor (I use libre-office, it's free and powerful), with ChatGPT 40 or above, you can start publishing and selling PDF ebooks/reports. Create the book-cover here:
+
+https://www.myecovermaker.com/
+
+Make sure the packaging is professional and looks good. You can add a video series to the ebook/report (step-by-step video tutorials/video guide), that they can download and a password-protected website your customers can access, allowing them to download more resources related to the topic of the ebook/report. More, you make sure that when they purchase the ebook/report from you, their name, transaction # and email is stamped at the footer of every page. That will go far in preventing people from freely giving away your copyrighted content/ebooks/reports. If they give it away for free, you will know who it is, and if they sell the ebook/report, their customers will want access to the website that is connected to the ebook/report and the videos. So they'll still have to contact you and pay you for access. Maybe you can give them a break if they tell you who they purchased it from, what website..etc. You have the stamp but to further verify who is illegally distributing your copyrighted asset/ebook/report.
+
+You can use Calibre (it's free), to format your ebooks/reports:
+
+https://calibre-ebook.com/
+
+Strip Kindle of their DRM locks here:
+
+https://github.com/noDRM/DeDRM_tools/releases/tag/v10.0.9
+
+
+That's the holy grail for making money online. Selling PDF ebooks/reports and whoever tells you it's impossible to do that today, doesn't know what they're talking about. You can visit the Gumroad market here:
+
+https://lifemathmoney.gumroad.com/l/TwitterGuide?layout=discover&recommended_by=search&_gl=1*13zdwmo*_ga*MjYxNTkwNDY4LjE3MzY3MjEwOTk.*_ga_6LJN6D94N6*MTczNjcyMTA5OS4xLjAuMTczNjcyMTA5OS4wLjAuMA..
+
+If he can sell an ebook for $200, you can sell 10, or 30 PDF ebooks or reports daily between $3.00 and $12.95. Set up a sales funnel, where you give away a free sample "lite" version of your ebook or report (or a full ebook report that only presents theory, without praxis/the instructions on how to execute it), without access to the most valuable information and resources that will allow them to actually do it, whatever it is you're showing them. For that, they need to purchase VOLUME 2 - PRAXIS, step by step instructions with full access to the video tutorials and the resource library (password protected website). How do you market this product? Social media, through paid ads on Tik Tok, Facebook, Instagram, YouTube..etc. Paid ads. You drive traffic to your offer and a % will buy it. Once you have the digital product completely and ready for market, you focus on marketing it. You can hire others to do the marketing for you, once you start making money. Wax on, wax off, rinse and repeat.
+
+Make sure to add affiliate links in all of your ebooks/reports, that way you can make a commission whenever someone purchases a product or service using your link. You're also driving them to the password protected website/resource library/resource center, where you will also have affiliate links and ads, for other products, including your own products. This customer should already be subscribed to your email list, where you will every once in a while give them free ebooks/reports full of your affiliate links and also offer them your other products. You provide 80% free, valuable stuff to your email list subscribers and then you make them a paid offer (20% of what you're sending them). 80/20.
+
+Need help with this? Let me know.
+2025-04-14 13:36:34,099 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 13:36:34,108 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 13:36:36,821 - INFO - performing random action
+2025-04-14 13:36:36,823 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:36:36,824 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:36:36,875 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:36:36,955 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 13:36:36,966 - DEBUG - Text box scrolled into view
+2025-04-14 13:36:37,806 - DEBUG - Initializing actionchains
+2025-04-14 13:36:37,843 - DEBUG - Post reply Element location: {'x': 1231, 'y': 8634}, size: {'height': 21, 'width': 68}
+2025-04-14 13:36:37,844 - DEBUG - Target click coordinates: (1265, 8644)
+2025-04-14 13:36:59,594 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 13:36:59,596 - DEBUG - Moving mouse to text box element.
+2025-04-14 13:36:59,597 - DEBUG - Clicking on the text box.
+2025-04-14 13:36:59,600 - DEBUG - Sending keys with content: That's a pretty comprehensive strategy! Ever thought about using QR codes in the PDF to drive traffic to your site, too?
+
+2025-04-14 13:37:04,931 - DEBUG - Clicking on post reply button.
+2025-04-14 13:37:15,945 - DEBUG - Performed Actionchains
+2025-04-14 13:37:15,946 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 13:37:19,948 - INFO - Comment posted successfully.
+2025-04-14 13:37:19,950 - INFO - Task Completed!!
+2025-04-14 13:40:54,444 - INFO - Navigated back to the homepage.
+2025-04-14 13:40:56,783 - INFO - Attempting to clear memory and resources.
+2025-04-14 13:40:56,856 - INFO - Garbage collection completed.
+2025-04-14 13:40:56,859 - INFO - Waiting for 2200 seconds before next execution.

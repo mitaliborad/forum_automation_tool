@@ -1,0 +1,75 @@
+--- Main Post Title ---
+How to build a chaturbate bot
+
+Total comments in the thread: 6
+
+Topic User: cristid9
+Topic: Hello,
+
+I've been trying for a while to code a chaturbate viewers bot in python. I was successful and it was preatty easy with selenium headless to generate ~25-50 anonymous viewers, but this approach is not scalable.
+
+I was trying to reverse engineer/crack the api calls that chaturbate does in order to record a new viewer. Like copying the cURL request from the network console in chrome and reproducing it in postman. It didn't work. Even exporting all the calls that chaturbatte is making when accessing a model page in to a HAR file and then manually executing that file from python didn't work.
+
+They must create some sort of cookie that differentiate each user such that the request cannot be duplicated. I couldn't figure it out. If there's anyone who done this before can you help me with a hint?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: cammixer
+Topic: Do views from the embedded video players/chat (provided for affiliates) not increase the view count?
+Cammixer WordPress Plugin - Display the Hottest Webcam Models and Performers from BongaCams, Cam4, CamSoda, Chaturbate, CherryTV, Flirt4Free, ImLive, LiveJasmin, SkyPrivate, Streamate, Stripchat, and XLoveCam on Your WordPress Site!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: boldslice
+Topic: cristid9 said:
+Hello,
+
+I've been trying for a while to code a chaturbate viewers bot in python. I was successful and it was preatty easy with selenium headless to generate ~25-50 anonymous viewers, but this approach is not scalable.
+
+I was trying to reverse engineer/crack the api calls that chaturbate does in order to record a new viewer. Like copying the cURL request from the network console in chrome and reproducing it in postman. It didn't work. Even exporting all the calls that chaturbatte is making when accessing a model page in to a HAR file and then manually executing that file from python didn't work.
+
+They must create some sort of cookie that differentiate each user such that the request cannot be duplicated. I couldn't figure it out. If there's anyone who done this before can you help me with a hint?
+Click to expand...
+It sounds like Chaturbate is using fingerprinting techniques beyond just cookies, possibly WebSockets, unique session tokens, or behavioral tracking. You might need to analyze JavaScript execution to see how they generate those identifiers. Have you tried using a headless browser with a pool of residential proxies and randomized fingerprints (e.g., Puppeteer with stealth mode or Playwright)?
+Liked by: Emma xx
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: Have you tried using a bot detection service? That might help you identify and bypass any anti-bot measures that Chaturbate may have in place.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: shijin
+Topic: You might be able to spoof the user agent and play around with timing to avoid detection, this method can work in some cases
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: unlimitedlivecams
+Topic: I think they are using logged in verified users
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

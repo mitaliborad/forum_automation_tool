@@ -1,0 +1,110 @@
+2025-03-13 12:18:39,839 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_121839.log
+2025-03-13 12:18:39,841 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 12:18:39,872 - INFO - Loaded 185 visited threads from Thread_links.txt
+2025-03-13 12:18:39,873 - INFO - Successfully loaded links that was already visited!
+2025-03-13 12:18:39,874 - DEBUG - Scrolling page 5 times.
+2025-03-13 12:18:39,876 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:18:44,252 - DEBUG - Page scrolled.
+2025-03-13 12:18:46,254 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:18:47,710 - DEBUG - Page scrolled.
+2025-03-13 12:18:49,716 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:18:51,222 - DEBUG - Page scrolled.
+2025-03-13 12:18:53,232 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:18:54,754 - DEBUG - Page scrolled.
+2025-03-13 12:18:56,755 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:18:57,857 - DEBUG - Page scrolled.
+2025-03-13 12:18:59,860 - DEBUG - Random scrolls complete.
+2025-03-13 12:18:59,861 - DEBUG - Scrolling page 7 times.
+2025-03-13 12:18:59,862 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:01,857 - DEBUG - Page scrolled.
+2025-03-13 12:19:03,861 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:05,603 - DEBUG - Page scrolled.
+2025-03-13 12:19:07,606 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:09,380 - DEBUG - Page scrolled.
+2025-03-13 12:19:11,384 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:12,440 - DEBUG - Page scrolled.
+2025-03-13 12:19:14,442 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:15,889 - DEBUG - Page scrolled.
+2025-03-13 12:19:17,891 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:19,896 - DEBUG - Page scrolled.
+2025-03-13 12:19:21,899 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:23,659 - DEBUG - Page scrolled.
+2025-03-13 12:19:25,661 - DEBUG - Random scrolls complete.
+2025-03-13 12:19:32,207 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-03-13 12:19:37,047 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-should-i-be-charging-for-this-service.1694928/unread
+2025-03-13 12:19:47,663 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-should-i-be-charging-for-this-service.1694928/unread
+2025-03-13 12:19:47,665 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-should-i-be-charging-for-this-service.1694928/unread' to visited threads file 'Thread_links.txt'.
+2025-03-13 12:19:47,712 - INFO - Extracted thread title: What should I be charging for this service
+2025-03-13 12:19:47,713 - DEBUG - Scrolling page 2 times.
+2025-03-13 12:19:47,713 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:49,305 - DEBUG - Page scrolled.
+2025-03-13 12:19:51,310 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:52,578 - DEBUG - Page scrolled.
+2025-03-13 12:19:54,580 - DEBUG - Random scrolls complete.
+2025-03-13 12:19:56,630 - DEBUG - Scrolling page 2 times.
+2025-03-13 12:19:56,632 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:19:57,900 - DEBUG - Page scrolled.
+2025-03-13 12:20:00,965 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:02,539 - DEBUG - Page scrolled.
+2025-03-13 12:20:05,541 - DEBUG - Random scrolls complete.
+2025-03-13 12:20:05,585 - DEBUG - Found 11 like buttons.
+2025-03-13 12:20:08,587 - INFO - Attempting to like 3 posts. There are 11 available.
+2025-03-13 12:20:09,420 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 12:20:09,450 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 12:20:09,453 - DEBUG - Liked post number 1 of 3.
+2025-03-13 12:20:15,043 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 12:20:15,057 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 12:20:15,058 - DEBUG - Liked post number 2 of 3.
+2025-03-13 12:20:20,140 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 12:20:20,175 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 12:20:20,178 - DEBUG - Liked post number 3 of 3.
+2025-03-13 12:20:24,877 - INFO - Liked 3 posts successfully.
+2025-03-13 12:20:24,880 - INFO - Liked 3 posts successfully.
+2025-03-13 12:20:27,444 - DEBUG - Scrolling page 6 times.
+2025-03-13 12:20:27,446 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:28,563 - DEBUG - Page scrolled.
+2025-03-13 12:20:31,567 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:32,649 - DEBUG - Page scrolled.
+2025-03-13 12:20:35,650 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:37,512 - DEBUG - Page scrolled.
+2025-03-13 12:20:40,517 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:42,113 - DEBUG - Page scrolled.
+2025-03-13 12:20:45,115 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:46,608 - DEBUG - Page scrolled.
+2025-03-13 12:20:49,612 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 12:20:50,902 - DEBUG - Page scrolled.
+2025-03-13 12:20:53,906 - DEBUG - Random scrolls complete.
+2025-03-13 12:20:56,294 - DEBUG - Total comments in the thread: 11
+2025-03-13 12:21:18,679 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What should I be charging for this service.txt
+2025-03-13 12:21:20,690 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 12:21:20,739 - DEBUG - Extracted main post content: Hi guys,
+
+I own one of the most active adult content pages on X (specifically feet pics) and I have been reached out by a company that has a website dedicated to selling feet. They want me to promote their website for one month to test how it goes. My posts get between 600-1.5k likes and over 100k views. They want to pay me $750 for the one month of me promoting their site (2x posts per week so 8 posts total).
+
+Does this sound like a fair trade? What I know is I will bring more traffic to their website but not sure if what they are offering me is fair? I'm not desperate for money so please give me your thoughts on this if you've been through similar situations.
+
+Thank you
+2025-03-13 12:21:23,941 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 12:21:23,943 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 12:21:26,267 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:21:26,269 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:21:26,302 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:21:26,374 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 12:21:26,386 - DEBUG - Text box scrolled into view
+2025-03-13 12:21:27,323 - DEBUG - Initializing actionchains
+2025-03-13 12:21:27,388 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5321}, size: {'height': 21, 'width': 68}
+2025-03-13 12:21:27,388 - DEBUG - Target click coordinates: (1121, 5331)
+2025-03-13 12:21:42,126 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 12:21:42,128 - DEBUG - Moving mouse to text box element.
+2025-03-13 12:21:42,129 - DEBUG - Clicking on the text box.
+2025-03-13 12:21:42,131 - DEBUG - Sending keys with content: Honestly, feels a bit light for 100k views; have you checked what similar accounts are charging for promo?
+
+2025-03-13 12:21:47,407 - DEBUG - Clicking on post reply button.
+2025-03-13 12:21:58,458 - DEBUG - Performed Actionchains
+2025-03-13 12:21:58,460 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 12:22:02,462 - INFO - Comment posted successfully.
+2025-03-13 12:22:02,464 - INFO - Task Completed!!
+2025-03-13 12:22:12,364 - INFO - Navigated back to the homepage.
+2025-03-13 12:22:14,624 - INFO - Attempting to clear memory and resources.
+2025-03-13 12:22:14,657 - INFO - Garbage collection completed.
+2025-03-13 12:22:14,658 - INFO - Waiting for 10 seconds before next execution.

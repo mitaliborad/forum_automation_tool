@@ -1,0 +1,104 @@
+2025-03-12 10:06:15,266 - INFO - Starting new automation task. Log file created at: Selenium-Logs\Emmaxx_script_log_20250312_100615.log
+2025-03-12 10:06:15,270 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-12 10:06:15,273 - INFO - Loaded 150 visited threads from Thread_links.txt
+2025-03-12 10:06:15,277 - INFO - Successfully loaded links that was already visited!
+2025-03-12 10:06:15,279 - DEBUG - Scrolling page 5 times.
+2025-03-12 10:06:15,281 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:16,718 - DEBUG - Page scrolled.
+2025-03-12 10:06:18,721 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:20,089 - DEBUG - Page scrolled.
+2025-03-12 10:06:22,093 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:23,415 - DEBUG - Page scrolled.
+2025-03-12 10:06:25,418 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:26,969 - DEBUG - Page scrolled.
+2025-03-12 10:06:28,972 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:30,196 - DEBUG - Page scrolled.
+2025-03-12 10:06:32,198 - DEBUG - Random scrolls complete.
+2025-03-12 10:06:32,201 - DEBUG - Scrolling page 7 times.
+2025-03-12 10:06:32,203 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:33,578 - DEBUG - Page scrolled.
+2025-03-12 10:06:35,580 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:36,722 - DEBUG - Page scrolled.
+2025-03-12 10:06:38,725 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:40,422 - DEBUG - Page scrolled.
+2025-03-12 10:06:42,424 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:44,377 - DEBUG - Page scrolled.
+2025-03-12 10:06:46,379 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:47,963 - DEBUG - Page scrolled.
+2025-03-12 10:06:49,966 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:51,557 - DEBUG - Page scrolled.
+2025-03-12 10:06:53,559 - DEBUG - Scrolling page by 500 pixels.
+2025-03-12 10:06:55,325 - DEBUG - Page scrolled.
+2025-03-12 10:06:57,328 - DEBUG - Random scrolls complete.
+2025-03-12 10:11:57,344 - ERROR - Error finding random thread link in subforum: Message: timeout: Timed out receiving message from renderer: 295.776
+  (Session info: chrome=133.0.6943.35)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B094C615+3167749]
+	(No symbol) [0x00007FF7B05BD190]
+	(No symbol) [0x00007FF7B044596A]
+	(No symbol) [0x00007FF7B043585C]
+	(No symbol) [0x00007FF7B043554A]
+	(No symbol) [0x00007FF7B04330DE]
+	(No symbol) [0x00007FF7B0433B9F]
+	(No symbol) [0x00007FF7B043FC1E]
+	(No symbol) [0x00007FF7B0455B3A]
+	(No symbol) [0x00007FF7B045CCCA]
+	(No symbol) [0x00007FF7B043430D]
+	(No symbol) [0x00007FF7B04557F6]
+	(No symbol) [0x00007FF7B04EF887]
+	(No symbol) [0x00007FF7B04C6E03]
+	(No symbol) [0x00007FF7B048FD3E]
+	(No symbol) [0x00007FF7B0490FC3]
+	GetHandleVerifier [0x00007FF7B09AF57D+3573101]
+	GetHandleVerifier [0x00007FF7B09C9AB0+3680928]
+	GetHandleVerifier [0x00007FF7B09BF46D+3638365]
+	GetHandleVerifier [0x00007FF7B071123A+827946]
+	(No symbol) [0x00007FF7B05C85BF]
+	(No symbol) [0x00007FF7B05C4264]
+	(No symbol) [0x00007FF7B05C4406]
+	(No symbol) [0x00007FF7B05B3E49]
+	BaseThreadInitThunk [0x00007FF91F407374+20]
+	RtlUserThreadStart [0x00007FF920D9CC91+33]
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 573, in find_random_thread_link_from_subforum
+    driver.get(subforum_url)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 393, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 295.776
+  (Session info: chrome=133.0.6943.35)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B094C615+3167749]
+	(No symbol) [0x00007FF7B05BD190]
+	(No symbol) [0x00007FF7B044596A]
+	(No symbol) [0x00007FF7B043585C]
+	(No symbol) [0x00007FF7B043554A]
+	(No symbol) [0x00007FF7B04330DE]
+	(No symbol) [0x00007FF7B0433B9F]
+	(No symbol) [0x00007FF7B043FC1E]
+	(No symbol) [0x00007FF7B0455B3A]
+	(No symbol) [0x00007FF7B045CCCA]
+	(No symbol) [0x00007FF7B043430D]
+	(No symbol) [0x00007FF7B04557F6]
+	(No symbol) [0x00007FF7B04EF887]
+	(No symbol) [0x00007FF7B04C6E03]
+	(No symbol) [0x00007FF7B048FD3E]
+	(No symbol) [0x00007FF7B0490FC3]
+	GetHandleVerifier [0x00007FF7B09AF57D+3573101]
+	GetHandleVerifier [0x00007FF7B09C9AB0+3680928]
+	GetHandleVerifier [0x00007FF7B09BF46D+3638365]
+	GetHandleVerifier [0x00007FF7B071123A+827946]
+	(No symbol) [0x00007FF7B05C85BF]
+	(No symbol) [0x00007FF7B05C4264]
+	(No symbol) [0x00007FF7B05C4406]
+	(No symbol) [0x00007FF7B05B3E49]
+	BaseThreadInitThunk [0x00007FF91F407374+20]
+	RtlUserThreadStart [0x00007FF920D9CC91+33]
+
+2025-03-12 10:11:57,539 - WARNING - Skipping thread processing due to no thread link being found in subforum.

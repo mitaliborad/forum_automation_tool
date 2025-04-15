@@ -1,0 +1,1 @@
+Stripe's a pain with their geo-restrictions, isn't it? Honestly, the biggest hurdle's always been keeping 'em alive – they can flag stuff outta nowhere, so def start small and build up slowly.

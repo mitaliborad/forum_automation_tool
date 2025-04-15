@@ -1,0 +1,37 @@
+2025-04-02 13:40:13,807 - INFO - Current time: 1743581413.8078725
+2025-04-02 13:40:13,809 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:40:13,810 - INFO - Token expiration time: 1743583802.2231433
+2025-04-02 13:40:13,810 - INFO - performing random action
+2025-04-02 13:40:13,812 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:40:13,813 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:40:13,813 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:40:15,724 - DEBUG - Page scrolled.
+2025-04-02 13:40:17,725 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:40:19,075 - DEBUG - Page scrolled.
+2025-04-02 13:40:21,077 - DEBUG - Random scrolls complete.
+2025-04-02 13:40:21,080 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:40:21,082 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:40:22,751 - DEBUG - Page scrolled.
+2025-04-02 13:40:24,753 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:40:26,276 - DEBUG - Page scrolled.
+2025-04-02 13:40:28,279 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:40:29,299 - DEBUG - Page scrolled.
+2025-04-02 13:40:31,302 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:40:33,095 - DEBUG - Page scrolled.
+2025-04-02 13:40:35,098 - DEBUG - Random scrolls complete.
+2025-04-02 13:40:41,944 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-04-02 13:40:52,305 - ERROR - Error finding random thread link in subforum: Message: 
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 570, in find_random_thread_link_from_subforum
+    wait.until(
+    ~~~~~~~~~~^
+        EC.presence_of_all_elements_located((By.XPATH, "//div[contains(@class, 'structItem')]"))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-04-02 13:40:52,320 - INFO - performing random action
+2025-04-02 13:40:52,321 - WARNING - Skipping thread processing due to no thread link being found in subforum.

@@ -1,0 +1,110 @@
+2025-04-10 11:50:52,764 - INFO - Current time: 1744266052.7639744
+2025-04-10 11:50:52,767 - INFO - Token expiration time: 1744267808.8557115
+2025-04-10 11:50:52,769 - INFO - Token expiration time: 1744267808.8557115
+2025-04-10 11:50:52,771 - INFO - performing random action
+2025-04-10 11:50:52,774 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:50:52,777 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:50:52,778 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:54,667 - DEBUG - Page scrolled.
+2025-04-10 11:50:56,670 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:50:57,783 - DEBUG - Page scrolled.
+2025-04-10 11:50:59,785 - DEBUG - Random scrolls complete.
+2025-04-10 11:50:59,787 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:50:59,787 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:00,889 - DEBUG - Page scrolled.
+2025-04-10 11:51:02,891 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:04,251 - DEBUG - Page scrolled.
+2025-04-10 11:51:06,251 - DEBUG - Random scrolls complete.
+2025-04-10 11:51:15,227 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-04-10 11:51:19,099 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-an-seo-consultant-for-my-website.1703809/unread
+2025-04-10 11:51:19,100 - INFO - performing random action
+2025-04-10 11:51:27,457 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-an-seo-consultant-for-my-website.1703809/unread
+2025-04-10 11:51:27,459 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-an-seo-consultant-for-my-website.1703809/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:51:27,486 - INFO - Extracted thread title: Need an SEO consultant For My Website
+2025-04-10 11:51:27,487 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:51:27,487 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:28,890 - DEBUG - Page scrolled.
+2025-04-10 11:51:30,892 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:32,012 - DEBUG - Page scrolled.
+2025-04-10 11:51:34,015 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:35,835 - DEBUG - Page scrolled.
+2025-04-10 11:51:37,837 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:39,338 - DEBUG - Page scrolled.
+2025-04-10 11:51:41,340 - DEBUG - Random scrolls complete.
+2025-04-10 11:51:43,902 - DEBUG - Scrolling page 4 times.
+2025-04-10 11:51:43,903 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:45,428 - DEBUG - Page scrolled.
+2025-04-10 11:51:48,431 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:50,041 - DEBUG - Page scrolled.
+2025-04-10 11:51:53,043 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:54,113 - DEBUG - Page scrolled.
+2025-04-10 11:51:57,115 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:51:58,596 - DEBUG - Page scrolled.
+2025-04-10 11:52:01,599 - DEBUG - Random scrolls complete.
+2025-04-10 11:52:01,635 - DEBUG - Found 1 like buttons.
+2025-04-10 11:52:04,636 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-10 11:52:05,238 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:52:05,261 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:52:05,262 - DEBUG - Liked post number 1 of 1.
+2025-04-10 11:52:09,912 - INFO - Liked 1 posts successfully.
+2025-04-10 11:52:09,914 - INFO - Liked 1 posts successfully.
+2025-04-10 11:52:12,421 - INFO - performing random action
+2025-04-10 11:52:12,424 - DEBUG - Scrolling page 6 times.
+2025-04-10 11:52:12,425 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:52:13,546 - DEBUG - Page scrolled.
+2025-04-10 11:52:16,548 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:52:17,917 - DEBUG - Page scrolled.
+2025-04-10 11:52:20,919 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:52:22,805 - DEBUG - Page scrolled.
+2025-04-10 11:52:25,807 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:52:27,443 - DEBUG - Page scrolled.
+2025-04-10 11:52:30,445 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:52:31,495 - DEBUG - Page scrolled.
+2025-04-10 11:52:34,497 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:52:35,517 - DEBUG - Page scrolled.
+2025-04-10 11:52:38,518 - DEBUG - Random scrolls complete.
+2025-04-10 11:52:41,355 - DEBUG - Total comments in the thread: 1
+2025-04-10 11:52:41,443 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need an SEO consultant For My Website.txt
+2025-04-10 11:52:44,288 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:52:44,328 - DEBUG - Extracted main post content: Its a browser games website like Poki.com - Need an SEO consultant. Please DM me your price and previous work experience
+2025-04-10 11:52:49,059 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:52:49,063 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:52:51,821 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-10 11:52:51,826 - INFO - Profile DataPhreak: Window minimized. Pausing for 21.97 seconds...
+2025-04-10 11:53:13,797 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-10 11:53:13,800 - INFO - performing random action
+2025-04-10 11:53:13,802 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:53:13,803 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:53:13,816 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:53:13,854 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:53:13,860 - DEBUG - Text box scrolled into view
+2025-04-10 11:53:14,441 - DEBUG - Initializing actionchains
+2025-04-10 11:53:14,571 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1067}, size: {'height': 21, 'width': 68}
+2025-04-10 11:53:14,571 - DEBUG - Target click coordinates: (1265, 1077)
+2025-04-10 11:53:20,690 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:53:20,692 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:53:20,694 - DEBUG - Clicking on the text box.
+2025-04-10 11:53:20,696 - DEBUG - Sending keys with content: Forget DMs. Post your rate and a case study link right here – saves everyone time.
+
+2025-04-10 11:53:26,102 - DEBUG - Clicking on post reply button.
+2025-04-10 11:53:36,969 - DEBUG - Performed Actionchains
+2025-04-10 11:53:36,970 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:53:40,972 - INFO - Comment posted successfully.
+2025-04-10 11:53:40,974 - INFO - Task Completed!!
+2025-04-10 11:53:48,975 - INFO - Navigated back to the homepage.
+2025-04-10 11:53:51,135 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:53:51,165 - INFO - Garbage collection completed.
+2025-04-10 11:53:51,166 - INFO - Waiting for 1850 seconds before next execution.
+2025-04-10 15:03:06,982 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-10 15:03:06,983 - INFO - Stopping browser for profile: DataPhreak...
+2025-04-10 15:03:06,984 - INFO - Refreshing token before stopping profile...
+2025-04-10 15:03:06,984 - INFO - Refreshing token for DataPhreak...
+2025-04-10 15:03:08,033 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 15:03:08,034 - INFO - Calculated token expiration time: 1744288388.0346458
+2025-04-10 15:03:08,035 - INFO - Profile DataPhreak: Successfully logged in.
+2025-04-10 15:03:08,036 - INFO - Token refreshed successfully before stopping.
+2025-04-10 15:03:08,037 - INFO - Profile DataPhreak: Attempting to stop (Attempt 1/3)...
+2025-04-10 15:03:08,039 - INFO - Profile DataPhreak: Browser closed successfully in 0.00 seconds.
+2025-04-10 15:03:11,482 - INFO - Profile DataPhreak: API call took 3.44 seconds.
+2025-04-10 15:03:11,483 - INFO - Profile DataPhreak: Stopped successfully.
+2025-04-10 15:03:11,484 - INFO - Browser stopped successfully for profile: DataPhreak.

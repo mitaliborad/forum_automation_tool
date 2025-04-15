@@ -1,0 +1,98 @@
+2025-04-14 14:17:36,863 - INFO - Current time: 1744620456.8630126
+2025-04-14 14:17:36,865 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 14:17:36,866 - INFO - Token expiration time: 1744620694.1332824
+2025-04-14 14:17:36,872 - INFO - Profile DataPhreak: Pausing for 48.31 seconds...
+2025-04-14 14:18:25,182 - INFO - Profile DataPhreak: Resuming...
+2025-04-14 14:18:25,184 - INFO - performing random action
+2025-04-14 14:18:25,190 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 14:18:25,192 - DEBUG - Scrolling page 4 times.
+2025-04-14 14:18:25,194 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:18:26,449 - DEBUG - Page scrolled.
+2025-04-14 14:18:28,452 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:18:30,042 - DEBUG - Page scrolled.
+2025-04-14 14:18:32,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:18:33,630 - DEBUG - Page scrolled.
+2025-04-14 14:18:35,631 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:18:37,127 - DEBUG - Page scrolled.
+2025-04-14 14:18:39,128 - DEBUG - Random scrolls complete.
+2025-04-14 14:18:39,130 - DEBUG - Scrolling page 3 times.
+2025-04-14 14:18:39,131 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:18:40,581 - DEBUG - Page scrolled.
+2025-04-14 14:18:42,585 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:18:43,722 - DEBUG - Page scrolled.
+2025-04-14 14:18:45,724 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:18:46,832 - DEBUG - Page scrolled.
+2025-04-14 14:18:48,833 - DEBUG - Random scrolls complete.
+2025-04-14 14:19:01,559 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-04-14 14:19:06,023 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/uk-tiktok.1703538/unread
+2025-04-14 14:19:06,024 - INFO - performing random action
+2025-04-14 14:19:22,883 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/uk-tiktok.1703538/unread
+2025-04-14 14:19:22,884 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/uk-tiktok.1703538/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 14:19:22,915 - INFO - Extracted thread title: UK TikTok
+2025-04-14 14:19:22,916 - DEBUG - Scrolling page 4 times.
+2025-04-14 14:19:22,916 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:23,960 - DEBUG - Page scrolled.
+2025-04-14 14:19:25,962 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:27,657 - DEBUG - Page scrolled.
+2025-04-14 14:19:29,661 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:30,724 - DEBUG - Page scrolled.
+2025-04-14 14:19:32,727 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:34,504 - DEBUG - Page scrolled.
+2025-04-14 14:19:36,509 - DEBUG - Random scrolls complete.
+2025-04-14 14:19:39,091 - DEBUG - Scrolling page 1 times.
+2025-04-14 14:19:39,092 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:19:40,821 - DEBUG - Page scrolled.
+2025-04-14 14:19:43,823 - DEBUG - Random scrolls complete.
+2025-04-14 14:19:43,880 - DEBUG - Found 14 like buttons.
+2025-04-14 14:19:46,884 - INFO - Attempting to like 1 posts. There are 14 available.
+2025-04-14 14:19:47,820 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 14:19:47,859 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 14:19:47,863 - DEBUG - Liked post number 1 of 1.
+2025-04-14 14:19:52,556 - INFO - Liked 1 posts successfully.
+2025-04-14 14:19:52,557 - INFO - Liked 1 posts successfully.
+2025-04-14 14:19:54,725 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-14 14:19:54,733 - INFO - Profile DataPhreak: Window minimized. Pausing for 19.44 seconds...
+2025-04-14 14:20:14,177 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-14 14:20:14,178 - INFO - performing random action
+2025-04-14 14:20:14,179 - DEBUG - Scrolling page 4 times.
+2025-04-14 14:20:14,179 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:20:16,122 - DEBUG - Page scrolled.
+2025-04-14 14:20:19,124 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:20:21,065 - DEBUG - Page scrolled.
+2025-04-14 14:20:24,067 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:20:25,840 - DEBUG - Page scrolled.
+2025-04-14 14:20:28,841 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 14:20:30,505 - DEBUG - Page scrolled.
+2025-04-14 14:20:33,507 - DEBUG - Random scrolls complete.
+2025-04-14 14:20:35,866 - DEBUG - Total comments in the thread: 14
+2025-04-14 14:22:39,000 - INFO - Post content extracted and saved to Thread-Details/Thread Content\UK TikTok.txt
+2025-04-14 14:22:41,671 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 14:22:41,730 - DEBUG - Extracted main post content: Can I use a UK TikTok account to promote a betting Whatsapp group link without getting suspended
+2025-04-14 14:22:46,338 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 14:22:46,339 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 14:22:48,372 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-14 14:22:48,386 - INFO - Profile DataPhreak: Window minimized. Pausing for 15.81 seconds...
+2025-04-14 14:23:04,200 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-14 14:23:04,205 - INFO - performing random action
+2025-04-14 14:23:04,207 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:23:04,209 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:23:04,254 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:23:04,337 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 14:23:04,342 - DEBUG - Text box scrolled into view
+2025-04-14 14:23:05,214 - DEBUG - Initializing actionchains
+2025-04-14 14:23:05,248 - DEBUG - Post reply Element location: {'x': 1231, 'y': 5026}, size: {'height': 21, 'width': 68}
+2025-04-14 14:23:05,248 - DEBUG - Target click coordinates: (1265, 5036)
+2025-04-14 14:23:19,808 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 14:23:19,809 - DEBUG - Moving mouse to text box element.
+2025-04-14 14:23:19,811 - DEBUG - Clicking on the text box.
+2025-04-14 14:23:19,813 - DEBUG - Sending keys with content: Honestly, it's a minefield. I wouldn't risk it; TikTok's pretty strict, so why not just use ads and target the right audience instead?
+
+2025-04-14 14:23:25,288 - DEBUG - Clicking on post reply button.
+2025-04-14 14:23:36,267 - DEBUG - Performed Actionchains
+2025-04-14 14:23:36,268 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 14:23:40,269 - INFO - Comment posted successfully.
+2025-04-14 14:23:40,270 - INFO - Task Completed!!
+2025-04-14 14:26:57,949 - INFO - Navigated back to the homepage.
+2025-04-14 14:27:00,318 - INFO - Attempting to clear memory and resources.
+2025-04-14 14:27:00,369 - INFO - Garbage collection completed.
+2025-04-14 14:27:00,370 - INFO - Waiting for 2200 seconds before next execution.

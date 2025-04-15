@@ -1,0 +1,109 @@
+2025-04-10 10:01:50,148 - INFO - Current time: 1744259510.1480277
+2025-04-10 10:01:50,151 - INFO - Token expiration time: 1744267808.8557115
+2025-04-10 10:01:50,153 - INFO - Token expiration time: 1744267808.8557115
+2025-04-10 10:01:50,155 - INFO - Profile DataPhreak: Opening random website: https://www.teejh.com/
+2025-04-10 10:02:26,032 - INFO - Profile DataPhreak: Pausing for 30.68 seconds...
+2025-04-10 10:02:56,710 - INFO - Profile DataPhreak: Resuming...
+2025-04-10 10:02:56,737 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-10 10:02:56,738 - INFO - performing random action
+2025-04-10 10:02:56,739 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 10:02:56,741 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:02:56,742 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:02:58,127 - DEBUG - Page scrolled.
+2025-04-10 10:03:00,130 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:03:01,298 - DEBUG - Page scrolled.
+2025-04-10 10:03:03,299 - DEBUG - Random scrolls complete.
+2025-04-10 10:03:03,302 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:03:03,304 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:03:04,435 - DEBUG - Page scrolled.
+2025-04-10 10:03:06,440 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:03:07,599 - DEBUG - Page scrolled.
+2025-04-10 10:03:09,602 - DEBUG - Random scrolls complete.
+2025-04-10 10:03:17,262 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-04-10 10:03:21,208 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/reddit-for-nsfw-onlyfans-promotion-is-dead.1703709/unread
+2025-04-10 10:03:21,209 - INFO - Profile DataPhreak: Pausing for 44.73 seconds...
+2025-04-10 10:04:05,938 - INFO - Profile DataPhreak: Resuming...
+2025-04-10 10:04:05,941 - INFO - performing random action
+2025-04-10 10:04:15,230 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/reddit-for-nsfw-onlyfans-promotion-is-dead.1703709/unread
+2025-04-10 10:04:15,234 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/reddit-for-nsfw-onlyfans-promotion-is-dead.1703709/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 10:04:15,265 - INFO - Extracted thread title: Reddit for NSFW Onlyfans Promotion is dead
+2025-04-10 10:04:15,266 - DEBUG - Scrolling page 2 times.
+2025-04-10 10:04:15,266 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:04:16,863 - DEBUG - Page scrolled.
+2025-04-10 10:04:18,865 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:04:20,714 - DEBUG - Page scrolled.
+2025-04-10 10:04:22,717 - DEBUG - Random scrolls complete.
+2025-04-10 10:04:25,033 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:04:25,034 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:04:26,455 - DEBUG - Page scrolled.
+2025-04-10 10:04:29,457 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:04:30,660 - DEBUG - Page scrolled.
+2025-04-10 10:04:33,663 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:04:35,260 - DEBUG - Page scrolled.
+2025-04-10 10:04:38,262 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:04:39,763 - DEBUG - Page scrolled.
+2025-04-10 10:04:42,766 - DEBUG - Random scrolls complete.
+2025-04-10 10:04:42,839 - DEBUG - Found 7 like buttons.
+2025-04-10 10:04:45,843 - INFO - Attempting to like 3 posts. There are 7 available.
+2025-04-10 10:04:46,617 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:04:46,642 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:04:46,643 - DEBUG - Liked post number 1 of 3.
+2025-04-10 10:04:52,013 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:04:52,059 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:04:52,061 - DEBUG - Liked post number 2 of 3.
+2025-04-10 10:04:57,659 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 10:04:57,683 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 10:04:57,688 - DEBUG - Liked post number 3 of 3.
+2025-04-10 10:05:02,118 - INFO - Liked 3 posts successfully.
+2025-04-10 10:05:02,121 - INFO - Liked 3 posts successfully.
+2025-04-10 10:05:05,055 - INFO - performing random action
+2025-04-10 10:05:05,056 - DEBUG - Scrolling page 4 times.
+2025-04-10 10:05:05,057 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:06,118 - DEBUG - Page scrolled.
+2025-04-10 10:05:09,121 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:10,627 - DEBUG - Page scrolled.
+2025-04-10 10:05:13,629 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:15,025 - DEBUG - Page scrolled.
+2025-04-10 10:05:18,026 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 10:05:20,044 - DEBUG - Page scrolled.
+2025-04-10 10:05:23,048 - DEBUG - Random scrolls complete.
+2025-04-10 10:05:26,097 - DEBUG - Total comments in the thread: 7
+2025-04-10 10:05:57,462 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Reddit for NSFW Onlyfans Promotion is dead.txt
+2025-04-10 10:06:00,066 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 10:06:00,103 - DEBUG - Extracted main post content: I've noticed a big decline in my Onlyfans daily visitors since the start of this year.
+
+I had 66k visitors in December 24, down to 40k in the last 30 days. This has affected my OF earnings significantly.
+
+Other creators I have worked with and other OF creators on Reddit creator advice subs are also complaining about the decline in views, upvotes etc.
+
+"Reddit changed their way of engagement.Now is not anymore “if you get upvotes the first minutes you get big engament for the next 24 hours”. There is a rate on your account if you are ‘spammer” in their eyes you will have no engament, i realised there are different levels as well."
+
+"Thats why I said “”spammer” in their eyes” because for me many things are not but since this score thing is different. Do you repeat content? Do you post any links? Do you post more than once every hour? Do you have genuine interactions on the group you posting by upvoting commenting? Do you respond to your comments? If any if these questions is a no for an answer so yes in their eyes you are at certain level"
+
+
+I found this interesting but not sure how much truth there is to it.
+2025-04-10 10:06:03,305 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 10:06:03,307 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 10:06:05,817 - INFO - performing random action
+2025-04-10 10:06:05,818 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:06:05,819 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:06:05,843 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:06:05,888 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 10:06:05,895 - DEBUG - Text box scrolled into view
+2025-04-10 10:06:06,474 - DEBUG - Initializing actionchains
+2025-04-10 10:06:06,506 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3442}, size: {'height': 21, 'width': 68}
+2025-04-10 10:06:06,506 - DEBUG - Target click coordinates: (1265, 3452)
+2025-04-10 10:06:17,260 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 10:06:17,261 - DEBUG - Moving mouse to text box element.
+2025-04-10 10:06:17,261 - DEBUG - Clicking on the text box.
+2025-04-10 10:06:17,262 - DEBUG - Sending keys with content: Huh, interesting take on the Reddit algorithm. Maybe diversify platforms a bit? See if you can pull some traffic from TikTok or X.
+
+2025-04-10 10:06:22,489 - DEBUG - Clicking on post reply button.
+2025-04-10 10:06:33,439 - DEBUG - Performed Actionchains
+2025-04-10 10:06:33,440 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 10:06:37,441 - INFO - Comment posted successfully.
+2025-04-10 10:06:37,444 - INFO - Task Completed!!
+2025-04-10 10:06:44,366 - INFO - Navigated back to the homepage.
+2025-04-10 10:06:46,476 - INFO - Attempting to clear memory and resources.
+2025-04-10 10:06:46,505 - INFO - Garbage collection completed.
+2025-04-10 10:06:46,506 - INFO - Waiting for 1850 seconds before next execution.

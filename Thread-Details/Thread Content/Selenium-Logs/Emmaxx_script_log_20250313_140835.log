@@ -1,0 +1,5 @@
+2025-03-13 14:08:35,799 - INFO - Starting automation for profile: Emmaxx
+2025-03-13 14:08:36,985 - INFO - Profile Emmaxx: Successfully logged in.
+2025-03-13 14:08:36,987 - INFO - Profile Emmaxx: Starting profile ece3d7b0-6dd3-4189-94c7-20c2dfa82943...
+2025-03-13 14:08:45,245 - ERROR - Profile Emmaxx: Error starting profile: {"status":{"error_code":"GET_PROXY_CONNECTION_IP_ERROR","http_code":400,"message":"couldn't get proxy connection ip data"}}
+2025-03-13 14:08:45,247 - ERROR - Failed to start MultiLogin profile: Emmaxx. Skipping.

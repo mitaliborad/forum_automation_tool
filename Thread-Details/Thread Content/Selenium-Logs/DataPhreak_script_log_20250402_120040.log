@@ -1,0 +1,115 @@
+2025-04-02 12:00:40,087 - INFO - Current time: 1743575440.0870273
+2025-04-02 12:00:40,088 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 12:00:40,089 - INFO - Token expiration time: 1743583879.3165581
+2025-04-02 12:00:40,090 - INFO - performing random action
+2025-04-02 12:00:40,093 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 12:00:40,094 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:00:40,095 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:00:41,634 - DEBUG - Page scrolled.
+2025-04-02 12:00:43,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:00:45,627 - DEBUG - Page scrolled.
+2025-04-02 12:00:47,629 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:00:49,017 - DEBUG - Page scrolled.
+2025-04-02 12:00:51,019 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:00:53,020 - DEBUG - Page scrolled.
+2025-04-02 12:00:55,021 - DEBUG - Random scrolls complete.
+2025-04-02 12:00:55,022 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:00:55,023 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:00:56,977 - DEBUG - Page scrolled.
+2025-04-02 12:00:58,978 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:01:00,317 - DEBUG - Page scrolled.
+2025-04-02 12:01:02,319 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:01:04,218 - DEBUG - Page scrolled.
+2025-04-02 12:01:06,220 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:01:07,681 - DEBUG - Page scrolled.
+2025-04-02 12:01:09,682 - DEBUG - Random scrolls complete.
+2025-04-02 12:01:20,333 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-04-02 12:01:24,162 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-need-assistance-with-a-python-script-when-it-opens-a-link-in-chrome-the-code-seems-not-scrape-anithing-can-someone-help-me.1694523/unread
+2025-04-02 12:01:24,163 - INFO - Profile DataPhreak: Pausing for 33.97 seconds...
+2025-04-02 12:01:58,135 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 12:01:58,136 - INFO - performing random action
+2025-04-02 12:02:07,120 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-need-assistance-with-a-python-script-when-it-opens-a-link-in-chrome-the-code-seems-not-scrape-anithing-can-someone-help-me.1694523/unread
+2025-04-02 12:02:07,121 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-need-assistance-with-a-python-script-when-it-opens-a-link-in-chrome-the-code-seems-not-scrape-anithing-can-someone-help-me.1694523/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 12:02:07,152 - INFO - Extracted thread title: I need assistance with a Python script. When it opens a link in Chrome, the code seems not scrape anithing . Can someone help me
+2025-04-02 12:02:07,153 - DEBUG - Scrolling page 2 times.
+2025-04-02 12:02:07,154 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:08,830 - DEBUG - Page scrolled.
+2025-04-02 12:02:10,832 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:12,571 - DEBUG - Page scrolled.
+2025-04-02 12:02:14,573 - DEBUG - Random scrolls complete.
+2025-04-02 12:02:17,417 - DEBUG - Scrolling page 4 times.
+2025-04-02 12:02:17,419 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:18,900 - DEBUG - Page scrolled.
+2025-04-02 12:02:21,902 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:23,893 - DEBUG - Page scrolled.
+2025-04-02 12:02:26,895 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:28,142 - DEBUG - Page scrolled.
+2025-04-02 12:02:31,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:02:32,379 - DEBUG - Page scrolled.
+2025-04-02 12:02:35,381 - DEBUG - Random scrolls complete.
+2025-04-02 12:02:35,409 - DEBUG - Found 2 like buttons.
+2025-04-02 12:02:38,410 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-02 12:02:39,248 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:02:39,260 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:02:39,261 - DEBUG - Liked post number 1 of 2.
+2025-04-02 12:02:44,515 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 12:02:44,534 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 12:02:44,535 - DEBUG - Liked post number 2 of 2.
+2025-04-02 12:02:48,549 - INFO - Liked 2 posts successfully.
+2025-04-02 12:02:48,552 - INFO - Liked 2 posts successfully.
+2025-04-02 12:02:50,840 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-02 12:03:01,504 - INFO - Profile DataPhreak: Pausing for 46.96 seconds...
+2025-04-02 12:03:48,472 - INFO - Profile DataPhreak: Resuming...
+2025-04-02 12:03:48,544 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-02 12:03:48,545 - INFO - performing random action
+2025-04-02 12:03:48,545 - DEBUG - Scrolling page 5 times.
+2025-04-02 12:03:48,546 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:03:49,781 - DEBUG - Page scrolled.
+2025-04-02 12:03:52,783 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:03:54,606 - DEBUG - Page scrolled.
+2025-04-02 12:03:57,607 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:03:58,672 - DEBUG - Page scrolled.
+2025-04-02 12:04:01,674 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:04:03,597 - DEBUG - Page scrolled.
+2025-04-02 12:04:06,605 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 12:04:08,461 - DEBUG - Page scrolled.
+2025-04-02 12:04:11,464 - DEBUG - Random scrolls complete.
+2025-04-02 12:04:13,874 - DEBUG - Total comments in the thread: 2
+2025-04-02 12:04:14,052 - INFO - Post content extracted and saved to Thread-Details/Thread Content\I need assistance with a Python script. When it opens a link in Chrome, the code seems not scrape anithing . Can someone help me.txt
+2025-04-02 12:04:16,625 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 12:04:16,656 - DEBUG - Extracted main post content: i cannot scrape the website due the " privacy and trasparency accept to continue (image ) .
+it should scrapes website ,it is python code use selenium undetected chromedriver
+
+
+I was new to web scraping and I was trying to create a scraper which scarpe data and otput json file.
+
+
+It 's not worked. But idk the problem
+2025-04-02 12:04:20,566 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 12:04:20,575 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 12:04:23,255 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-02 12:04:23,280 - INFO - Profile DataPhreak: Window minimized. Pausing for 27.72 seconds...
+2025-04-02 12:04:50,999 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-02 12:04:51,002 - INFO - performing random action
+2025-04-02 12:04:51,004 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:04:51,006 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:04:51,032 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:04:51,073 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 12:04:51,081 - DEBUG - Text box scrolled into view
+2025-04-02 12:04:52,060 - DEBUG - Initializing actionchains
+2025-04-02 12:04:52,117 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2177}, size: {'height': 21, 'width': 68}
+2025-04-02 12:04:52,118 - DEBUG - Target click coordinates: (1121, 2187)
+2025-04-02 12:05:00,229 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 12:05:00,231 - DEBUG - Moving mouse to text box element.
+2025-04-02 12:05:00,233 - DEBUG - Clicking on the text box.
+2025-04-02 12:05:00,236 - DEBUG - Sending keys with content: Been there, man. Try adding a try/except block to specifically handle that popup – might need to find the accept button element and click it before proceeding with the scrape.
+
+2025-04-02 12:05:05,613 - DEBUG - Clicking on post reply button.
+2025-04-02 12:05:16,979 - DEBUG - Performed Actionchains
+2025-04-02 12:05:16,983 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 12:05:20,985 - INFO - Comment posted successfully.
+2025-04-02 12:05:20,987 - INFO - Task Completed!!
+2025-04-02 12:05:28,164 - INFO - Navigated back to the homepage.
+2025-04-02 12:05:30,994 - INFO - Attempting to clear memory and resources.
+2025-04-02 12:05:31,024 - INFO - Garbage collection completed.
+2025-04-02 12:05:31,025 - INFO - Waiting for 2000 seconds before next execution.

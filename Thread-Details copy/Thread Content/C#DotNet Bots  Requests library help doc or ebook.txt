@@ -1,0 +1,134 @@
+--- Main Post Title ---
+C#/DotNet Bots / Requests library help doc or ebook?
+
+Total comments in the thread: 7
+
+Topic User: iBeTa
+Topic: Hey, a while ago i started with the C# basics and i think im good with it. But im interested to make bots
+something like WebScraping / Login ..... these things but im stuck atm i dont really know which library i need to use
+and i heard something about bypassing recaptcha ?? csrf token i dont really know ..... and i cannot find anything good tbh..
+
+but one ppl said to me i have to use sometimes a API?
+
+my questions are
+
+How can i make a WebScraping bot in c#? - Which library do i need to use?
+How can i bypass recaptcha & csrf token - do i need another library for it ?
+How can i make a API if needed ? - An explanation of what an API is would be great too!
+
+if u cant reach me here (sometimes online)
+feel free to contact me
+
+on DC
+astrylxyz
+Liked by: You, Emma xx
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Smackhead
+Topic: If you are just starting I wouldn't bother thinking about capcha etc.. although important to get something production ready you are no where near that stage. I personally like to use puppeteer now having uses selenium previously. There is a feature in Chrome which allows you to record you actions and then export it as script.. saves some time starting out. From their there are some anti detect libraries. Once you've mastered that start thinking about capcha, finger prints, profiles etc .
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: AliasEmpire
+Topic: Good information
+Liked by: You, Emma xx
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: iBeTa
+Topic: Smackhead said:
+If you are just starting I wouldn't bother thinking about capcha etc.. although important to get something production ready you are no where near that stage. I personally like to use puppeteer now having uses selenium previously. There is a feature in Chrome which allows you to record you actions and then export it as script.. saves some time starting out. From their there are some anti detect libraries. Once you've mastered that start thinking about capcha, finger prints, profiles etc .
+thank u for ur response, tbh i dont wanna do it with selenium or things like that
+i found something about Http Requests and tbh i wanna use that cuz it looks much better for me, are there some docs out there about it ? if yes, where can i find them ?
+Liked by: Emma xx
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: Alright, so for web scraping in C#, check out HtmlAgilityPack – pretty straightforward to use. As for reCAPTCHA, that's a whole different beast; you might need to look into anti-captcha services. An API is basically a way for your bot to talk to other services or websites without you having to manually mess with the code every time.
+Liked by: mitali borad, ZeroDayHunter
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Panther28
+Topic: Please don't make another bot! you can find so many on github for free, and they are pointless they just get you information & data then you'll be posting how I make money with scraped data a few months down the line. (You can't!! everyone and their granny knows how to scrape that can use python)
+
+Go build something worthwhile in a niche you are in. I'm in the animation niche, and I'm building myself the best software possible I can animate with the way I want. I think other people will purchase it, but I'm not so concerned with that right now that I am in getting it working for my own youtube productivity. I'm building the whole thing in electron which 2 weeks ago I didn't know anything about.
+
+10 days later I have the UI about 80% complete. (and about 1% backend code lol )
+
+I would rather build something that is usable by me and others to make money on platforms, rather than just scrape data for exploitation (generally against the t&c of the platform). There is a big difference.
+
+I have no clue when it comes to programming, lol but I know how to get things done and work my ass off, and learn.
+
+I started off programming crappy bots, and on reflection, I wish I had just built better software to fill gaps in the market. Bots don't fill the gap in the market because the market contains thousands of foreign workers with low rates on freelancer sites that can all build them cheaply.
+The best WP themes I have ever used are with Themify. They have a great range and are all secure, updated, and affordable
+50 Slot Website Monitoring - Helps keep you alert of your uptime so you don't lose ranking
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Sandro Vialli
+Topic: iBeTa said:
+Hey, a while ago i started with the C# basics and i think im good with it. But im interested to make bots
+something like WebScraping / Login ..... these things but im stuck atm i dont really know which library i need to use
+and i heard something about bypassing recaptcha ?? csrf token i dont really know ..... and i cannot find anything good tbh..
+
+but one ppl said to me i have to use sometimes a API?
+
+my questions are
+
+How can i make a WebScraping bot in c#? - Which library do i need to use?
+How can i bypass recaptcha & csrf token - do i need another library for it ?
+How can i make a API if needed ? - An explanation of what an API is would be great too!
+
+if u cant reach me here (sometimes online)
+feel free to contact me
+
+on DC
+astrylxyz
+Click to expand...
+Web Scraping in C# – Best Libraries
+
+To create a web scraping bot in C#, you can use:
+• HtmlAgilityPack – Parses and extracts data from HTML.
+• Selenium WebDriver – Automates browsers (best for JavaScript-heavy sites).
+• HttpClient – Sends HTTP requests to fetch raw HTML data.
+• PuppeteerSharp – C# wrapper for Puppeteer (headless Chrome automation).
+
+2. Bypassing CAPTCHA & CSRF Tokens
+CAPTCHA Bypass:
+• Use CAPTCHA-solving services like 2Captcha, Anti-Captcha, CapMonster.
+• Train a machine learning model for simple image CAPTCHAs (not easy).
+• Avoid scraping sites with reCAPTCHA v3, as they track user behavior.
+CSRF Token Bypass:
+• Extract CSRF tokens from hidden form fields.
+• Include the token in your HTTP requests.
+• Use Selenium to simulate a real user session.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

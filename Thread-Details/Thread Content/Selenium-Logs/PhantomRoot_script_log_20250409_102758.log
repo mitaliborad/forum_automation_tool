@@ -1,0 +1,117 @@
+2025-04-09 10:27:58,452 - INFO - Current time: 1744174678.4526918
+2025-04-09 10:27:58,455 - INFO - Token expiration time: 1744181136.852054
+2025-04-09 10:27:58,458 - INFO - Token expiration time: 1744181136.852054
+2025-04-09 10:27:58,460 - INFO - performing random action
+2025-04-09 10:27:58,463 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-09 10:27:58,466 - DEBUG - Scrolling page 2 times.
+2025-04-09 10:27:58,467 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:27:59,756 - DEBUG - Page scrolled.
+2025-04-09 10:28:01,759 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:28:02,903 - DEBUG - Page scrolled.
+2025-04-09 10:28:04,906 - DEBUG - Random scrolls complete.
+2025-04-09 10:28:04,908 - DEBUG - Scrolling page 2 times.
+2025-04-09 10:28:04,910 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:28:06,659 - DEBUG - Page scrolled.
+2025-04-09 10:28:08,660 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:28:09,988 - DEBUG - Page scrolled.
+2025-04-09 10:28:11,990 - DEBUG - Random scrolls complete.
+2025-04-09 10:28:27,138 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-09 10:28:31,659 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/guest-posting-questions.1703410/unread
+2025-04-09 10:28:31,660 - INFO - performing random action
+2025-04-09 10:28:40,622 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/guest-posting-questions.1703410/unread
+2025-04-09 10:28:40,625 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/guest-posting-questions.1703410/unread' to visited threads file 'Thread_links.txt'.
+2025-04-09 10:28:40,668 - INFO - Extracted thread title: Guest Posting Questions
+2025-04-09 10:28:40,669 - DEBUG - Scrolling page 4 times.
+2025-04-09 10:28:40,669 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:28:42,564 - DEBUG - Page scrolled.
+2025-04-09 10:28:44,566 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:28:46,040 - DEBUG - Page scrolled.
+2025-04-09 10:28:48,042 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:28:49,958 - DEBUG - Page scrolled.
+2025-04-09 10:28:51,960 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:28:53,781 - DEBUG - Page scrolled.
+2025-04-09 10:28:55,783 - DEBUG - Random scrolls complete.
+2025-04-09 10:28:58,220 - DEBUG - Scrolling page 2 times.
+2025-04-09 10:28:58,221 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:28:59,914 - DEBUG - Page scrolled.
+2025-04-09 10:29:02,916 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:04,887 - DEBUG - Page scrolled.
+2025-04-09 10:29:07,890 - DEBUG - Random scrolls complete.
+2025-04-09 10:29:07,931 - DEBUG - Found 3 like buttons.
+2025-04-09 10:29:10,933 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-04-09 10:29:11,936 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 10:29:11,959 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 10:29:11,960 - DEBUG - Liked post number 1 of 3.
+2025-04-09 10:29:17,303 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 10:29:17,323 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 10:29:17,324 - DEBUG - Liked post number 2 of 3.
+2025-04-09 10:29:22,412 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-09 10:29:22,432 - INFO - Like button clicked successfully using JavaScript.
+2025-04-09 10:29:22,434 - DEBUG - Liked post number 3 of 3.
+2025-04-09 10:29:27,034 - INFO - Liked 3 posts successfully.
+2025-04-09 10:29:27,037 - INFO - Liked 3 posts successfully.
+2025-04-09 10:29:29,652 - INFO - performing random action
+2025-04-09 10:29:29,653 - DEBUG - Scrolling page 7 times.
+2025-04-09 10:29:29,654 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:30,771 - DEBUG - Page scrolled.
+2025-04-09 10:29:33,774 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:35,223 - DEBUG - Page scrolled.
+2025-04-09 10:29:38,226 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:39,795 - DEBUG - Page scrolled.
+2025-04-09 10:29:42,798 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:43,929 - DEBUG - Page scrolled.
+2025-04-09 10:29:46,931 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:48,384 - DEBUG - Page scrolled.
+2025-04-09 10:29:51,387 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:53,016 - DEBUG - Page scrolled.
+2025-04-09 10:29:56,018 - DEBUG - Scrolling page by 500 pixels.
+2025-04-09 10:29:57,560 - DEBUG - Page scrolled.
+2025-04-09 10:30:00,603 - DEBUG - Random scrolls complete.
+2025-04-09 10:30:03,416 - DEBUG - Total comments in the thread: 3
+2025-04-09 10:30:03,642 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Guest Posting Questions.txt
+2025-04-09 10:30:05,823 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-09 10:30:05,846 - DEBUG - Extracted main post content: I recently purchased a guest post through several sellers.
+We also checked the DR score and the quality of the backlinks that the domain has.
+What I think is important is the traffic on the guest posting website.
+For that reason, I first received a domain list from the sellers and then tried it by selecting the domain I wanted and purchasing it.
+
+
+However, I have a question here.
+
+It's been sold by BHW for a long time, and I've accessed the homepage of a seller with a lot of buyers.
+He was providing a high-quality guest posting service. Of course, he didn't provide a domain list first.
+
+There are also quite a few buyers and repurchasers, so I trusted them and bought 10 links.
+It's been a week, and I received the report.
+The domain was examined by Ahrefs.
+
+DR score is 50+, but traffic is zero.
+Can a website with zero traffic be applied to my money site with a high quality backlink?
+2025-04-09 10:30:11,025 - INFO - Successfully generated comments using Gemini API.
+2025-04-09 10:30:11,029 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-09 10:30:13,577 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-09 10:30:13,585 - INFO - Profile PhantomRoot: Window minimized. Pausing for 22.24 seconds...
+2025-04-09 10:30:35,825 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-09 10:30:35,826 - INFO - performing random action
+2025-04-09 10:30:35,827 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:30:35,828 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:30:35,839 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:30:35,879 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-09 10:30:35,887 - DEBUG - Text box scrolled into view
+2025-04-09 10:30:36,750 - DEBUG - Initializing actionchains
+2025-04-09 10:30:36,769 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2447}, size: {'height': 21, 'width': 68}
+2025-04-09 10:30:36,769 - DEBUG - Target click coordinates: (1265, 2457)
+2025-04-09 10:30:45,342 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-09 10:30:45,345 - DEBUG - Moving mouse to text box element.
+2025-04-09 10:30:45,347 - DEBUG - Clicking on the text box.
+2025-04-09 10:30:45,350 - DEBUG - Sending keys with content: DR is vanity if there's no real traffic. Did you check the historical traffic data or just a snapshot? Sometimes a site tanks after a Google update.
+
+2025-04-09 10:30:50,684 - DEBUG - Clicking on post reply button.
+2025-04-09 10:31:01,748 - DEBUG - Performed Actionchains
+2025-04-09 10:31:01,749 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-09 10:31:05,750 - INFO - Comment posted successfully.
+2025-04-09 10:31:05,751 - INFO - Task Completed!!
+2025-04-09 10:31:13,937 - INFO - Navigated back to the homepage.
+2025-04-09 10:31:16,879 - INFO - Attempting to clear memory and resources.
+2025-04-09 10:31:16,917 - INFO - Garbage collection completed.
+2025-04-09 10:31:16,918 - INFO - Waiting for 1850 seconds before next execution.

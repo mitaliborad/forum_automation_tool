@@ -1,0 +1,196 @@
+2025-04-10 11:54:51,722 - INFO - Current time: 1744266291.7225306
+2025-04-10 11:54:51,726 - INFO - Token expiration time: 1744268270.3235562
+2025-04-10 11:54:51,729 - INFO - Token expiration time: 1744268270.3235562
+2025-04-10 11:54:51,731 - INFO - performing random action
+2025-04-10 11:54:51,734 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:54:51,737 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:54:51,739 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:54:53,433 - DEBUG - Page scrolled.
+2025-04-10 11:54:55,436 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:54:56,760 - DEBUG - Page scrolled.
+2025-04-10 11:54:58,763 - DEBUG - Random scrolls complete.
+2025-04-10 11:54:58,765 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:54:58,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:00,015 - DEBUG - Page scrolled.
+2025-04-10 11:55:02,016 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:04,008 - DEBUG - Page scrolled.
+2025-04-10 11:55:06,011 - DEBUG - Random scrolls complete.
+2025-04-10 11:55:14,209 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-10 11:55:17,883 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/buying-stripe.1695001/unread
+2025-04-10 11:55:17,883 - INFO - performing random action
+2025-04-10 11:55:27,383 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/buying-stripe.1695001/unread
+2025-04-10 11:55:27,385 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/buying-stripe.1695001/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:55:27,410 - INFO - Extracted thread title: Buying Stripe
+2025-04-10 11:55:27,411 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:55:27,411 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:28,679 - DEBUG - Page scrolled.
+2025-04-10 11:55:30,682 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:31,784 - DEBUG - Page scrolled.
+2025-04-10 11:55:33,785 - DEBUG - Random scrolls complete.
+2025-04-10 11:55:36,302 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:55:36,304 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:37,384 - DEBUG - Page scrolled.
+2025-04-10 11:55:40,387 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:41,645 - DEBUG - Page scrolled.
+2025-04-10 11:55:44,647 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:55:46,636 - DEBUG - Page scrolled.
+2025-04-10 11:55:49,639 - DEBUG - Random scrolls complete.
+2025-04-10 11:55:49,681 - DEBUG - Found 6 like buttons.
+2025-04-10 11:55:52,683 - INFO - Attempting to like 4 posts. There are 6 available.
+2025-04-10 11:55:53,577 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:55:53,590 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:55:53,591 - DEBUG - Liked post number 1 of 4.
+2025-04-10 11:55:59,529 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:55:59,550 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:55:59,552 - DEBUG - Liked post number 2 of 4.
+2025-04-10 11:56:04,960 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:56:04,969 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:56:04,970 - DEBUG - Liked post number 3 of 4.
+2025-04-10 11:56:09,796 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:56:09,819 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:56:09,821 - DEBUG - Liked post number 4 of 4.
+2025-04-10 11:56:14,576 - INFO - Liked 4 posts successfully.
+2025-04-10 11:56:14,577 - INFO - Liked 4 posts successfully.
+2025-04-10 11:56:17,450 - INFO - performing random action
+2025-04-10 11:56:17,452 - DEBUG - Scrolling page 7 times.
+2025-04-10 11:56:17,454 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:18,763 - DEBUG - Page scrolled.
+2025-04-10 11:56:21,765 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:23,563 - DEBUG - Page scrolled.
+2025-04-10 11:56:26,566 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:28,401 - DEBUG - Page scrolled.
+2025-04-10 11:56:31,403 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:33,283 - DEBUG - Page scrolled.
+2025-04-10 11:56:36,285 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:37,452 - DEBUG - Page scrolled.
+2025-04-10 11:56:40,454 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:42,125 - DEBUG - Page scrolled.
+2025-04-10 11:56:45,126 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:56:47,120 - DEBUG - Page scrolled.
+2025-04-10 11:56:50,122 - DEBUG - Random scrolls complete.
+2025-04-10 11:56:52,713 - DEBUG - Total comments in the thread: 6
+2025-04-10 11:57:14,100 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Buying Stripe.txt
+2025-04-10 11:57:16,277 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:57:16,303 - DEBUG - Extracted main post content: HI everyone
+
+Asking the people that are used to stripe or have some experience with it
+
+Since stripe is only geo restricted, for the people that are buying them what challenges do you face with it?
+
+Do they always monitor your payments from the first purchases or how is it done?
+
+Where do you usually buy stripe, is there a section in BHW for that?
+
+any idea if these accounts last?
+2025-04-10 11:57:21,020 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:57:21,024 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:57:23,966 - INFO - performing random action
+2025-04-10 11:57:23,968 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:57:23,970 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:57:24,009 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:57:24,054 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:57:24,060 - DEBUG - Text box scrolled into view
+2025-04-10 11:57:24,588 - DEBUG - Initializing actionchains
+2025-04-10 11:57:24,635 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3059}, size: {'height': 21, 'width': 68}
+2025-04-10 11:57:24,636 - DEBUG - Target click coordinates: (1265, 3069)
+2025-04-10 11:57:34,694 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:57:34,697 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:57:34,698 - DEBUG - Clicking on the text box.
+2025-04-10 11:57:34,702 - DEBUG - Sending keys with content: Stripe's a pain with their geo-restrictions, isn't it? Honestly, the biggest hurdle's always been keeping 'em alive – they can flag stuff outta nowhere, so def start small and build up slowly.
+
+2025-04-10 11:57:39,763 - DEBUG - Clicking on post reply button.
+2025-04-10 11:57:50,240 - ERROR - Error posting comment: Message: stale element reference: stale element not found
+  (Session info: chrome=134.0.6998.44); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF72ECE0C45+27221]
+	(No symbol) [0x00007FF72EC46F30]
+	(No symbol) [0x00007FF72EAC5ADA]
+	(No symbol) [0x00007FF72EADBBF4]
+	(No symbol) [0x00007FF72EADA6C3]
+	(No symbol) [0x00007FF72EACE161]
+	(No symbol) [0x00007FF72EACBF42]
+	(No symbol) [0x00007FF72EAD01FC]
+	(No symbol) [0x00007FF72EAD02CF]
+	(No symbol) [0x00007FF72EB26D54]
+	(No symbol) [0x00007FF72EB25FB0]
+	(No symbol) [0x00007FF72EB7B940]
+	(No symbol) [0x00007FF72EB47C9A]
+	(No symbol) [0x00007FF72EB704E3]
+	(No symbol) [0x00007FF72EB47A73]
+	(No symbol) [0x00007FF72EB10750]
+	(No symbol) [0x00007FF72EB11A03]
+	GetHandleVerifier [0x00007FF72F046E2D+3591229]
+	GetHandleVerifier [0x00007FF72F05E45A+3687018]
+	GetHandleVerifier [0x00007FF72F053323+3641651]
+	GetHandleVerifier [0x00007FF72EDAB6BA+857290]
+	(No symbol) [0x00007FF72EC5230F]
+	(No symbol) [0x00007FF72EC4E304]
+	(No symbol) [0x00007FF72EC4E4A6]
+	(No symbol) [0x00007FF72EC3D469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 505, in post_comment
+    actions.perform()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 94, in perform
+    self.w3c_actions.perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 170, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: stale element not found
+  (Session info: chrome=134.0.6998.44); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF72ECE0C45+27221]
+	(No symbol) [0x00007FF72EC46F30]
+	(No symbol) [0x00007FF72EAC5ADA]
+	(No symbol) [0x00007FF72EADBBF4]
+	(No symbol) [0x00007FF72EADA6C3]
+	(No symbol) [0x00007FF72EACE161]
+	(No symbol) [0x00007FF72EACBF42]
+	(No symbol) [0x00007FF72EAD01FC]
+	(No symbol) [0x00007FF72EAD02CF]
+	(No symbol) [0x00007FF72EB26D54]
+	(No symbol) [0x00007FF72EB25FB0]
+	(No symbol) [0x00007FF72EB7B940]
+	(No symbol) [0x00007FF72EB47C9A]
+	(No symbol) [0x00007FF72EB704E3]
+	(No symbol) [0x00007FF72EB47A73]
+	(No symbol) [0x00007FF72EB10750]
+	(No symbol) [0x00007FF72EB11A03]
+	GetHandleVerifier [0x00007FF72F046E2D+3591229]
+	GetHandleVerifier [0x00007FF72F05E45A+3687018]
+	GetHandleVerifier [0x00007FF72F053323+3641651]
+	GetHandleVerifier [0x00007FF72EDAB6BA+857290]
+	(No symbol) [0x00007FF72EC5230F]
+	(No symbol) [0x00007FF72EC4E304]
+	(No symbol) [0x00007FF72EC4E4A6]
+	(No symbol) [0x00007FF72EC3D469]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-10 11:57:50,279 - INFO - Comment posted successfully.
+2025-04-10 11:57:50,279 - INFO - Task Completed!!
+2025-04-10 11:57:58,390 - INFO - Navigated back to the homepage.
+2025-04-10 11:58:00,549 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:58:00,579 - INFO - Garbage collection completed.
+2025-04-10 11:58:00,580 - INFO - Waiting for 1850 seconds before next execution.
+2025-04-10 15:07:16,396 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-10 15:07:16,398 - INFO - Stopping browser for profile: BinaryGhost...
+2025-04-10 15:07:16,400 - INFO - Refreshing token before stopping profile...
+2025-04-10 15:07:16,403 - INFO - Refreshing token for BinaryGhost...
+2025-04-10 15:07:17,298 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-10 15:07:17,300 - INFO - Calculated token expiration time: 1744288637.3000445
+2025-04-10 15:07:17,301 - INFO - Profile BinaryGhost: Successfully logged in.
+2025-04-10 15:07:17,303 - INFO - Token refreshed successfully before stopping.
+2025-04-10 15:07:17,304 - INFO - Profile BinaryGhost: Attempting to stop (Attempt 1/3)...
+2025-04-10 15:07:17,311 - INFO - Profile BinaryGhost: Browser closed successfully in 0.01 seconds.
+2025-04-10 15:07:20,813 - INFO - Profile BinaryGhost: API call took 3.50 seconds.
+2025-04-10 15:07:20,815 - INFO - Profile BinaryGhost: Stopped successfully.
+2025-04-10 15:07:20,819 - INFO - Browser stopped successfully for profile: BinaryGhost.

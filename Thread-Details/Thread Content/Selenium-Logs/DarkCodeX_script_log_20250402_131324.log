@@ -1,0 +1,180 @@
+2025-04-02 13:13:24,589 - INFO - Current time: 1743579804.589281
+2025-04-02 13:13:24,590 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 13:13:24,591 - INFO - Token expiration time: 1743583503.1492298
+2025-04-02 13:13:24,593 - INFO - performing random action
+2025-04-02 13:13:24,594 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:13:24,595 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:13:24,596 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:25,695 - DEBUG - Page scrolled.
+2025-04-02 13:13:27,698 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:45,826 - DEBUG - Page scrolled.
+2025-04-02 13:13:47,828 - DEBUG - Random scrolls complete.
+2025-04-02 13:13:47,832 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:13:47,834 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:49,546 - DEBUG - Page scrolled.
+2025-04-02 13:13:51,548 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:52,799 - DEBUG - Page scrolled.
+2025-04-02 13:13:54,802 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:13:56,583 - DEBUG - Page scrolled.
+2025-04-02 13:13:58,587 - DEBUG - Random scrolls complete.
+2025-04-02 13:14:16,374 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-02 13:14:20,685 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/keeping-stripe-stealth-account-safe.1700557/unread
+2025-04-02 13:14:20,686 - INFO - performing random action
+2025-04-02 13:14:34,183 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/keeping-stripe-stealth-account-safe.1700557/unread
+2025-04-02 13:14:34,188 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/keeping-stripe-stealth-account-safe.1700557/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 13:14:34,234 - INFO - Extracted thread title: Keeping Stripe Stealth Account Safe
+2025-04-02 13:14:34,235 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:14:34,236 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:35,420 - DEBUG - Page scrolled.
+2025-04-02 13:14:37,422 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:39,063 - DEBUG - Page scrolled.
+2025-04-02 13:14:41,065 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:42,433 - DEBUG - Page scrolled.
+2025-04-02 13:14:44,435 - DEBUG - Random scrolls complete.
+2025-04-02 13:14:46,876 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:14:46,878 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:48,780 - DEBUG - Page scrolled.
+2025-04-02 13:14:51,783 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:53,016 - DEBUG - Page scrolled.
+2025-04-02 13:14:56,018 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:14:57,388 - DEBUG - Page scrolled.
+2025-04-02 13:15:00,390 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:15:01,481 - DEBUG - Page scrolled.
+2025-04-02 13:15:04,483 - DEBUG - Random scrolls complete.
+2025-04-02 13:15:04,498 - DEBUG - Found 6 like buttons.
+2025-04-02 13:15:07,499 - INFO - Attempting to like 3 posts. There are 6 available.
+2025-04-02 13:15:08,505 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:15:08,521 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:15:08,522 - DEBUG - Liked post number 1 of 3.
+2025-04-02 13:15:14,336 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:15:14,344 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:15:14,345 - DEBUG - Liked post number 2 of 3.
+2025-04-02 13:15:19,239 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:15:19,260 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:15:19,262 - DEBUG - Liked post number 3 of 3.
+2025-04-02 13:15:23,805 - INFO - Liked 3 posts successfully.
+2025-04-02 13:15:23,807 - INFO - Liked 3 posts successfully.
+2025-04-02 13:15:26,479 - INFO - Profile DarkCodeX: Pausing for 30.69 seconds...
+2025-04-02 13:15:57,174 - INFO - Profile DarkCodeX: Resuming...
+2025-04-02 13:15:57,177 - INFO - performing random action
+2025-04-02 13:15:57,179 - DEBUG - Scrolling page 6 times.
+2025-04-02 13:15:57,181 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:15:58,669 - DEBUG - Page scrolled.
+2025-04-02 13:16:01,671 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:02,761 - DEBUG - Page scrolled.
+2025-04-02 13:16:05,764 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:07,097 - DEBUG - Page scrolled.
+2025-04-02 13:16:10,100 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:11,674 - DEBUG - Page scrolled.
+2025-04-02 13:16:14,676 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:16,426 - DEBUG - Page scrolled.
+2025-04-02 13:16:19,429 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:20,705 - DEBUG - Page scrolled.
+2025-04-02 13:16:23,708 - DEBUG - Random scrolls complete.
+2025-04-02 13:16:26,203 - DEBUG - Total comments in the thread: 6
+2025-04-02 13:16:57,994 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Keeping Stripe Stealth Account Safe.txt
+2025-04-02 13:17:00,892 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 13:17:00,934 - DEBUG - Extracted main post content: Im buying a stripe stealth how do i minimize the chance of a suspension etc , people talk about cloaking your idk what they mean by that
+people with experience pls lmk
+2025-04-02 13:17:04,737 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 13:17:04,739 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 13:17:07,464 - INFO - Profile DarkCodeX: Minimizing window...
+2025-04-02 13:17:07,467 - INFO - Profile DarkCodeX: Window minimized. Pausing for 22.29 seconds...
+2025-04-02 13:17:29,755 - INFO - Profile DarkCodeX: Resuming after minimize...
+2025-04-02 13:17:29,758 - INFO - performing random action
+2025-04-02 13:17:29,761 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:17:29,763 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:17:29,793 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:17:29,833 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:17:29,839 - DEBUG - Text box scrolled into view
+2025-04-02 13:17:30,378 - DEBUG - Initializing actionchains
+2025-04-02 13:17:30,411 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2796}, size: {'height': 21, 'width': 68}
+2025-04-02 13:17:30,411 - DEBUG - Target click coordinates: (1121, 2806)
+2025-04-02 13:17:39,153 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 13:17:39,155 - DEBUG - Moving mouse to text box element.
+2025-04-02 13:17:39,157 - DEBUG - Clicking on the text box.
+2025-04-02 13:17:39,161 - DEBUG - Sending keys with content: Honestly, the biggest thing is making sure the business info matches *everything* you use – domain, bank account, etc. Cloaking's about showing Stripe a "safe" version of your site while real visitors see something else...dodgy ground, IMO.
+
+2025-04-02 13:17:44,232 - DEBUG - Clicking on post reply button.
+2025-04-02 13:18:00,554 - ERROR - Error posting comment: Message: stale element reference: stale element not found
+  (Session info: chrome=134.0.6998.44); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF73D600C45+27221]
+	(No symbol) [0x00007FF73D566F30]
+	(No symbol) [0x00007FF73D3E5ADA]
+	(No symbol) [0x00007FF73D3FBBF4]
+	(No symbol) [0x00007FF73D3FA6C3]
+	(No symbol) [0x00007FF73D3EE161]
+	(No symbol) [0x00007FF73D3EBF42]
+	(No symbol) [0x00007FF73D3F01FC]
+	(No symbol) [0x00007FF73D3F02CF]
+	(No symbol) [0x00007FF73D446D54]
+	(No symbol) [0x00007FF73D445FB0]
+	(No symbol) [0x00007FF73D49B940]
+	(No symbol) [0x00007FF73D467C9A]
+	(No symbol) [0x00007FF73D4904E3]
+	(No symbol) [0x00007FF73D467A73]
+	(No symbol) [0x00007FF73D430750]
+	(No symbol) [0x00007FF73D431A03]
+	GetHandleVerifier [0x00007FF73D966E2D+3591229]
+	GetHandleVerifier [0x00007FF73D97E45A+3687018]
+	GetHandleVerifier [0x00007FF73D973323+3641651]
+	GetHandleVerifier [0x00007FF73D6CB6BA+857290]
+	(No symbol) [0x00007FF73D57230F]
+	(No symbol) [0x00007FF73D56E304]
+	(No symbol) [0x00007FF73D56E4A6]
+	(No symbol) [0x00007FF73D55D469]
+	BaseThreadInitThunk [0x00007FFC52C77374+20]
+	RtlUserThreadStart [0x00007FFC52E5CC91+33]
+Traceback (most recent call last):
+  File "E:\forum_automation_tool\blackhatworld_functions.py", line 505, in post_comment
+    actions.perform()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 94, in perform
+    self.w3c_actions.perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 96, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.StaleElementReferenceException: Message: stale element reference: stale element not found
+  (Session info: chrome=134.0.6998.44); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF73D600C45+27221]
+	(No symbol) [0x00007FF73D566F30]
+	(No symbol) [0x00007FF73D3E5ADA]
+	(No symbol) [0x00007FF73D3FBBF4]
+	(No symbol) [0x00007FF73D3FA6C3]
+	(No symbol) [0x00007FF73D3EE161]
+	(No symbol) [0x00007FF73D3EBF42]
+	(No symbol) [0x00007FF73D3F01FC]
+	(No symbol) [0x00007FF73D3F02CF]
+	(No symbol) [0x00007FF73D446D54]
+	(No symbol) [0x00007FF73D445FB0]
+	(No symbol) [0x00007FF73D49B940]
+	(No symbol) [0x00007FF73D467C9A]
+	(No symbol) [0x00007FF73D4904E3]
+	(No symbol) [0x00007FF73D467A73]
+	(No symbol) [0x00007FF73D430750]
+	(No symbol) [0x00007FF73D431A03]
+	GetHandleVerifier [0x00007FF73D966E2D+3591229]
+	GetHandleVerifier [0x00007FF73D97E45A+3687018]
+	GetHandleVerifier [0x00007FF73D973323+3641651]
+	GetHandleVerifier [0x00007FF73D6CB6BA+857290]
+	(No symbol) [0x00007FF73D57230F]
+	(No symbol) [0x00007FF73D56E304]
+	(No symbol) [0x00007FF73D56E4A6]
+	(No symbol) [0x00007FF73D55D469]
+	BaseThreadInitThunk [0x00007FFC52C77374+20]
+	RtlUserThreadStart [0x00007FFC52E5CC91+33]
+
+2025-04-02 13:18:00,615 - INFO - Comment posted successfully.
+2025-04-02 13:18:00,616 - INFO - Task Completed!!
+2025-04-02 13:18:26,494 - INFO - Navigated back to the homepage.
+2025-04-02 13:18:28,625 - INFO - Attempting to clear memory and resources.
+2025-04-02 13:18:28,656 - INFO - Garbage collection completed.
+2025-04-02 13:18:28,658 - INFO - Waiting for 2000 seconds before next execution.

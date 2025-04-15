@@ -1,0 +1,98 @@
+2025-04-02 13:16:07,992 - INFO - Current time: 1743579967.9926465
+2025-04-02 13:16:07,995 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 13:16:07,996 - INFO - Token expiration time: 1743584048.687139
+2025-04-02 13:16:07,998 - INFO - performing random action
+2025-04-02 13:16:08,000 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 13:16:08,002 - DEBUG - Scrolling page 3 times.
+2025-04-02 13:16:08,003 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:09,623 - DEBUG - Page scrolled.
+2025-04-02 13:16:11,626 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:13,514 - DEBUG - Page scrolled.
+2025-04-02 13:16:15,517 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:17,402 - DEBUG - Page scrolled.
+2025-04-02 13:16:19,404 - DEBUG - Random scrolls complete.
+2025-04-02 13:16:19,406 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:16:19,408 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:21,331 - DEBUG - Page scrolled.
+2025-04-02 13:16:23,333 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:24,921 - DEBUG - Page scrolled.
+2025-04-02 13:16:26,924 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:28,110 - DEBUG - Page scrolled.
+2025-04-02 13:16:30,112 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:16:31,544 - DEBUG - Page scrolled.
+2025-04-02 13:16:33,545 - DEBUG - Random scrolls complete.
+2025-04-02 13:16:40,000 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-04-02 13:16:44,633 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/here-we-go-again.1700067/unread
+2025-04-02 13:16:44,636 - INFO - performing random action
+2025-04-02 13:17:02,503 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/here-we-go-again.1700067/unread
+2025-04-02 13:17:02,507 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/here-we-go-again.1700067/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 13:17:02,558 - INFO - Extracted thread title: here we go again
+2025-04-02 13:17:02,559 - DEBUG - Scrolling page 2 times.
+2025-04-02 13:17:02,560 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:17:03,818 - DEBUG - Page scrolled.
+2025-04-02 13:17:05,820 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:17:07,238 - DEBUG - Page scrolled.
+2025-04-02 13:17:09,239 - DEBUG - Random scrolls complete.
+2025-04-02 13:17:11,552 - DEBUG - Scrolling page 4 times.
+2025-04-02 13:17:11,555 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:17:13,300 - DEBUG - Page scrolled.
+2025-04-02 13:17:16,301 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:17:17,648 - DEBUG - Page scrolled.
+2025-04-02 13:17:20,649 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:17:21,863 - DEBUG - Page scrolled.
+2025-04-02 13:17:24,865 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:17:26,271 - DEBUG - Page scrolled.
+2025-04-02 13:17:29,273 - DEBUG - Random scrolls complete.
+2025-04-02 13:17:29,306 - DEBUG - Found 20 like buttons.
+2025-04-02 13:17:32,307 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-02 13:17:33,021 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 13:17:33,046 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 13:17:33,047 - DEBUG - Liked post number 1 of 1.
+2025-04-02 13:17:37,204 - INFO - Liked 1 posts successfully.
+2025-04-02 13:17:37,207 - INFO - Liked 1 posts successfully.
+2025-04-02 13:17:39,592 - INFO - Profile PixelPirate99: Opening random website: https://www.canva.com/en_in/
+2025-04-02 13:17:44,284 - INFO - Profile PixelPirate99: Pausing for 43.63 seconds...
+2025-04-02 13:18:27,916 - INFO - Profile PixelPirate99: Resuming...
+2025-04-02 13:18:27,927 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-02 13:18:27,930 - INFO - performing random action
+2025-04-02 13:18:27,932 - DEBUG - Scrolling page 5 times.
+2025-04-02 13:18:27,934 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:29,316 - DEBUG - Page scrolled.
+2025-04-02 13:18:32,319 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:34,078 - DEBUG - Page scrolled.
+2025-04-02 13:18:37,080 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:38,098 - DEBUG - Page scrolled.
+2025-04-02 13:18:41,099 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:42,605 - DEBUG - Page scrolled.
+2025-04-02 13:18:45,607 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 13:18:47,340 - DEBUG - Page scrolled.
+2025-04-02 13:18:50,341 - DEBUG - Random scrolls complete.
+2025-04-02 13:18:52,917 - DEBUG - Total comments in the thread: 20
+2025-04-02 13:20:06,922 - INFO - Post content extracted and saved to Thread-Details/Thread Content\here we go again.txt
+2025-04-02 13:20:09,724 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 13:20:09,754 - DEBUG - Extracted main post content: I'm not a newbie. I came to the forum looking for information about Android farms. Unfortunately, I didn't find much, but I can see there's some useful tools around. I expect I'll fit in more than I initially thought.
+2025-04-02 13:20:13,692 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 13:20:13,695 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 13:20:16,144 - INFO - performing random action
+2025-04-02 13:20:16,146 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:20:16,149 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:20:16,182 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:20:16,225 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 13:20:16,235 - DEBUG - Text box scrolled into view
+2025-04-02 13:20:16,840 - DEBUG - Initializing actionchains
+2025-04-02 13:20:16,897 - DEBUG - Post reply Element location: {'x': 1087, 'y': 8139}, size: {'height': 21, 'width': 68}
+2025-04-02 13:20:16,898 - DEBUG - Target click coordinates: (1121, 8149)
+2025-04-02 13:20:37,439 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 13:20:37,441 - DEBUG - Moving mouse to text box element.
+2025-04-02 13:20:37,443 - DEBUG - Clicking on the text box.
+2025-04-02 13:20:37,445 - DEBUG - Sending keys with content: Android farms, huh? If you find any nuggets of wisdom, be sure to share the wealth!
+
+2025-04-02 13:20:42,525 - DEBUG - Clicking on post reply button.
+2025-04-02 13:20:43,612 - DEBUG - Performed Actionchains
+2025-04-02 13:20:43,613 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 13:20:47,615 - INFO - Comment posted successfully.
+2025-04-02 13:20:47,617 - INFO - Task Completed!!
+2025-04-02 13:20:53,647 - INFO - Navigated back to the homepage.
+2025-04-02 13:20:56,203 - INFO - Attempting to clear memory and resources.
+2025-04-02 13:20:56,233 - INFO - Garbage collection completed.
+2025-04-02 13:20:56,234 - INFO - Waiting for 2000 seconds before next execution.

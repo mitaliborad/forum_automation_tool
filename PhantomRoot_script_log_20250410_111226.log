@@ -1,0 +1,102 @@
+2025-04-10 11:12:26,274 - INFO - Current time: 1744263746.2745588
+2025-04-10 11:12:26,277 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 11:12:26,279 - INFO - Token expiration time: 1744268146.261488
+2025-04-10 11:12:26,282 - INFO - Profile PhantomRoot: Pausing for 36.21 seconds...
+2025-04-10 11:13:02,490 - INFO - Profile PhantomRoot: Resuming...
+2025-04-10 11:13:02,493 - INFO - performing random action
+2025-04-10 11:13:02,496 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-10 11:13:02,498 - DEBUG - Scrolling page 2 times.
+2025-04-10 11:13:02,500 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:13:03,979 - DEBUG - Page scrolled.
+2025-04-10 11:13:05,982 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:13:07,419 - DEBUG - Page scrolled.
+2025-04-10 11:13:09,420 - DEBUG - Random scrolls complete.
+2025-04-10 11:13:09,422 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:13:09,424 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:13:10,591 - DEBUG - Page scrolled.
+2025-04-10 11:13:12,594 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:13:13,708 - DEBUG - Page scrolled.
+2025-04-10 11:13:15,710 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:13:16,733 - DEBUG - Page scrolled.
+2025-04-10 11:13:18,736 - DEBUG - Random scrolls complete.
+2025-04-10 11:13:30,140 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-04-10 11:13:33,364 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/will-peoples-understanding-of-chinese-software-remain-so-closed-in-2024.1665042/unread
+2025-04-10 11:13:33,365 - INFO - Profile PhantomRoot: Opening random website: https://www.teejh.com/
+2025-04-10 11:14:18,492 - INFO - Profile PhantomRoot: Pausing for 31.91 seconds...
+2025-04-10 11:14:50,403 - INFO - Profile PhantomRoot: Resuming...
+2025-04-10 11:14:50,417 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-10 11:14:50,418 - INFO - performing random action
+2025-04-10 11:15:01,806 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/will-peoples-understanding-of-chinese-software-remain-so-closed-in-2024.1665042/unread
+2025-04-10 11:15:01,810 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/will-peoples-understanding-of-chinese-software-remain-so-closed-in-2024.1665042/unread' to visited threads file 'Thread_links.txt'.
+2025-04-10 11:15:01,847 - INFO - Extracted thread title: Will people's understanding of Chinese software remain so closed in 2024
+2025-04-10 11:15:01,848 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:15:01,849 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:15:03,234 - DEBUG - Page scrolled.
+2025-04-10 11:15:05,236 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:15:06,606 - DEBUG - Page scrolled.
+2025-04-10 11:15:08,608 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:15:10,122 - DEBUG - Page scrolled.
+2025-04-10 11:15:12,124 - DEBUG - Random scrolls complete.
+2025-04-10 11:15:14,318 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:15:14,319 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:15:16,179 - DEBUG - Page scrolled.
+2025-04-10 11:15:19,180 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:15:20,339 - DEBUG - Page scrolled.
+2025-04-10 11:15:23,340 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:15:24,601 - DEBUG - Page scrolled.
+2025-04-10 11:15:27,602 - DEBUG - Random scrolls complete.
+2025-04-10 11:15:27,631 - DEBUG - Found 3 like buttons.
+2025-04-10 11:15:30,632 - INFO - Attempting to like 2 posts. There are 3 available.
+2025-04-10 11:15:31,244 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:15:31,266 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:15:31,267 - DEBUG - Liked post number 1 of 2.
+2025-04-10 11:15:36,673 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-10 11:15:36,687 - INFO - Like button clicked successfully using JavaScript.
+2025-04-10 11:15:36,689 - DEBUG - Liked post number 2 of 2.
+2025-04-10 11:15:41,668 - INFO - Liked 2 posts successfully.
+2025-04-10 11:15:41,668 - INFO - Liked 2 posts successfully.
+2025-04-10 11:15:44,131 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-10 11:15:44,134 - INFO - Profile PhantomRoot: Window minimized. Pausing for 26.80 seconds...
+2025-04-10 11:16:10,936 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-10 11:16:10,939 - INFO - performing random action
+2025-04-10 11:16:10,942 - DEBUG - Scrolling page 3 times.
+2025-04-10 11:16:10,943 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:16:12,089 - DEBUG - Page scrolled.
+2025-04-10 11:16:15,091 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:16:16,817 - DEBUG - Page scrolled.
+2025-04-10 11:16:19,819 - DEBUG - Scrolling page by 500 pixels.
+2025-04-10 11:16:21,699 - DEBUG - Page scrolled.
+2025-04-10 11:16:24,700 - DEBUG - Random scrolls complete.
+2025-04-10 11:16:27,440 - DEBUG - Total comments in the thread: 3
+2025-04-10 11:16:38,139 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Will people's understanding of Chinese software remain so closed in 2024.txt
+2025-04-10 11:16:40,931 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-10 11:16:40,992 - DEBUG - Extracted main post content: The most popular social media apps in China currently include the following:
+1. WeChat: As a star product under Tencent, WeChat has almost become a must-have software on everyone's mobile phone.
+2. QQ: QQ is another heavyweight product of Tencent, deeply loved by young people.
+3. Tiktok short video: This is a music creative short video social software, focusing on young people.
+4. Zhihu: This is a high-quality content community of Chinese Internet, famous for its high quality and diversity. Users can ask and answer various questions here, participate in online Q&A, and it is a high growth social media platform.
+2025-04-10 11:16:44,665 - INFO - Successfully generated comments using Gemini API.
+2025-04-10 11:16:44,668 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-10 11:16:47,257 - INFO - performing random action
+2025-04-10 11:16:47,259 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:16:47,261 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:16:47,278 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:16:47,316 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-10 11:16:47,321 - DEBUG - Text box scrolled into view
+2025-04-10 11:16:48,236 - DEBUG - Initializing actionchains
+2025-04-10 11:16:48,293 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1904}, size: {'height': 21, 'width': 68}
+2025-04-10 11:16:48,294 - DEBUG - Target click coordinates: (1265, 1914)
+2025-04-10 11:16:56,057 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-10 11:16:56,058 - DEBUG - Moving mouse to text box element.
+2025-04-10 11:16:56,061 - DEBUG - Clicking on the text box.
+2025-04-10 11:16:56,064 - DEBUG - Sending keys with content: Interesting how Zhihu made the list. Do folks really consider it a *social* media platform in the same vein as the others, or more of a Q&A site?
+
+2025-04-10 11:17:01,960 - DEBUG - Clicking on post reply button.
+2025-04-10 11:17:12,911 - DEBUG - Performed Actionchains
+2025-04-10 11:17:12,911 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-10 11:17:16,913 - INFO - Comment posted successfully.
+2025-04-10 11:17:16,915 - INFO - Task Completed!!
+2025-04-10 11:17:24,985 - INFO - Navigated back to the homepage.
+2025-04-10 11:17:27,805 - INFO - Attempting to clear memory and resources.
+2025-04-10 11:17:27,844 - INFO - Garbage collection completed.
+2025-04-10 11:17:27,845 - INFO - Waiting for 1850 seconds before next execution.

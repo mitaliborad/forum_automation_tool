@@ -1,0 +1,97 @@
+2025-04-02 09:40:33,435 - INFO - Current time: 1743567033.4359505
+2025-04-02 09:40:33,436 - INFO - Token expiration time: 1743577827.6658707
+2025-04-02 09:40:33,437 - INFO - Token expiration time: 1743577827.6658707
+2025-04-02 09:40:33,437 - INFO - Profile PixelPirate99: Opening random website: https://letshyphen.com/
+2025-04-02 09:40:45,327 - INFO - Profile PixelPirate99: Pausing for 46.31 seconds...
+2025-04-02 09:41:31,649 - INFO - Profile PixelPirate99: Resuming...
+2025-04-02 09:41:31,654 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-02 09:41:31,655 - INFO - performing random action
+2025-04-02 09:41:31,656 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 09:41:31,657 - DEBUG - Scrolling page 2 times.
+2025-04-02 09:41:31,658 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:32,928 - DEBUG - Page scrolled.
+2025-04-02 09:41:34,930 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:36,516 - DEBUG - Page scrolled.
+2025-04-02 09:41:38,517 - DEBUG - Random scrolls complete.
+2025-04-02 09:41:38,518 - DEBUG - Scrolling page 3 times.
+2025-04-02 09:41:38,529 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:40,313 - DEBUG - Page scrolled.
+2025-04-02 09:41:42,314 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:43,359 - DEBUG - Page scrolled.
+2025-04-02 09:41:45,368 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:41:46,442 - DEBUG - Page scrolled.
+2025-04-02 09:41:48,462 - DEBUG - Random scrolls complete.
+2025-04-02 09:41:54,953 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-02 09:41:59,733 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/using-cloudflare-to-obfuscation-javascript.1694010/unread
+2025-04-02 09:41:59,735 - INFO - Profile PixelPirate99: Restoring window...
+2025-04-02 09:42:01,736 - INFO - performing random action
+2025-04-02 09:42:15,030 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/using-cloudflare-to-obfuscation-javascript.1694010/unread
+2025-04-02 09:42:15,035 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/using-cloudflare-to-obfuscation-javascript.1694010/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 09:42:15,066 - INFO - Extracted thread title: Using Cloudflare to Obfuscation Javascript
+2025-04-02 09:42:15,067 - DEBUG - Scrolling page 3 times.
+2025-04-02 09:42:15,068 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:16,688 - DEBUG - Page scrolled.
+2025-04-02 09:42:18,690 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:20,522 - DEBUG - Page scrolled.
+2025-04-02 09:42:22,524 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:23,937 - DEBUG - Page scrolled.
+2025-04-02 09:42:25,940 - DEBUG - Random scrolls complete.
+2025-04-02 09:42:28,673 - DEBUG - Scrolling page 4 times.
+2025-04-02 09:42:28,675 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:29,922 - DEBUG - Page scrolled.
+2025-04-02 09:42:32,924 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:34,913 - DEBUG - Page scrolled.
+2025-04-02 09:42:37,915 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:39,399 - DEBUG - Page scrolled.
+2025-04-02 09:42:42,402 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:42:43,558 - DEBUG - Page scrolled.
+2025-04-02 09:42:46,560 - DEBUG - Random scrolls complete.
+2025-04-02 09:42:46,580 - DEBUG - Found 2 like buttons.
+2025-04-02 09:42:49,582 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-02 09:42:50,191 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:42:50,217 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:42:50,217 - DEBUG - Liked post number 1 of 2.
+2025-04-02 09:42:55,448 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 09:42:55,461 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 09:42:55,461 - DEBUG - Liked post number 2 of 2.
+2025-04-02 09:42:59,568 - INFO - Liked 2 posts successfully.
+2025-04-02 09:42:59,570 - INFO - Liked 2 posts successfully.
+2025-04-02 09:43:01,985 - INFO - Profile PixelPirate99: Restoring window...
+2025-04-02 09:43:03,993 - INFO - performing random action
+2025-04-02 09:43:03,995 - DEBUG - Scrolling page 3 times.
+2025-04-02 09:43:03,997 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:43:05,764 - DEBUG - Page scrolled.
+2025-04-02 09:43:08,765 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:43:10,196 - DEBUG - Page scrolled.
+2025-04-02 09:43:13,198 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 09:43:14,750 - DEBUG - Page scrolled.
+2025-04-02 09:43:17,753 - DEBUG - Random scrolls complete.
+2025-04-02 09:43:20,402 - DEBUG - Total comments in the thread: 2
+2025-04-02 09:43:20,575 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Using Cloudflare to Obfuscation Javascript.txt
+2025-04-02 09:43:22,581 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 09:43:22,629 - DEBUG - Extracted main post content: Is there a way in Cloudflare to obfuscation javascript, does anyone know if there is a setting in there for that?
+2025-04-02 09:43:26,049 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 09:43:26,050 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 09:43:28,319 - INFO - performing random action
+2025-04-02 09:43:28,323 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:43:28,325 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:43:28,358 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:43:28,402 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 09:43:28,410 - DEBUG - Text box scrolled into view
+2025-04-02 09:43:29,043 - DEBUG - Initializing actionchains
+2025-04-02 09:43:29,069 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1627}, size: {'height': 21, 'width': 68}
+2025-04-02 09:43:29,070 - DEBUG - Target click coordinates: (1121, 1637)
+2025-04-02 09:43:36,551 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 09:43:36,551 - DEBUG - Moving mouse to text box element.
+2025-04-02 09:43:36,552 - DEBUG - Clicking on the text box.
+2025-04-02 09:43:36,553 - DEBUG - Sending keys with content: Not directly, but Cloudflare's bot fight mode makes it harder for scrapers to read your JS. Consider that, and maybe a dedicated obfuscation tool.
+
+2025-04-02 09:43:42,536 - DEBUG - Clicking on post reply button.
+2025-04-02 09:43:53,525 - DEBUG - Performed Actionchains
+2025-04-02 09:43:53,529 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 09:43:57,531 - INFO - Comment posted successfully.
+2025-04-02 09:43:57,534 - INFO - Task Completed!!
+2025-04-02 09:44:07,477 - INFO - Navigated back to the homepage.
+2025-04-02 09:44:09,621 - INFO - Attempting to clear memory and resources.
+2025-04-02 09:44:09,655 - INFO - Garbage collection completed.
+2025-04-02 09:44:09,656 - INFO - Waiting for 2000 seconds before next execution.

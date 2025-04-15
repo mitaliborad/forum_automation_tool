@@ -1,0 +1,86 @@
+2025-04-14 12:18:41,329 - INFO - Current time: 1744613321.3297322
+2025-04-14 12:18:41,332 - INFO - Token expiration time: 1744621471.1287334
+2025-04-14 12:18:41,333 - INFO - Token expiration time: 1744621471.1287334
+2025-04-14 12:18:41,335 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-14 12:18:43,382 - INFO - performing random action
+2025-04-14 12:18:43,384 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-14 12:18:43,385 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:18:43,387 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:18:45,167 - DEBUG - Page scrolled.
+2025-04-14 12:18:47,169 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:18:49,055 - DEBUG - Page scrolled.
+2025-04-14 12:18:51,057 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:18:53,072 - DEBUG - Page scrolled.
+2025-04-14 12:18:55,074 - DEBUG - Random scrolls complete.
+2025-04-14 12:18:55,077 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:18:55,078 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:18:56,416 - DEBUG - Page scrolled.
+2025-04-14 12:18:58,419 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:00,164 - DEBUG - Page scrolled.
+2025-04-14 12:19:02,166 - DEBUG - Random scrolls complete.
+2025-04-14 12:19:11,913 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-14 12:19:17,662 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-host-a-website-with-no-domain-name.1704620/unread
+2025-04-14 12:19:17,662 - INFO - performing random action
+2025-04-14 12:19:51,069 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-host-a-website-with-no-domain-name.1704620/unread
+2025-04-14 12:19:51,074 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-host-a-website-with-no-domain-name.1704620/unread' to visited threads file 'Thread_links.txt'.
+2025-04-14 12:19:51,115 - INFO - Extracted thread title: How to host a website with no domain name
+2025-04-14 12:19:51,116 - DEBUG - Scrolling page 2 times.
+2025-04-14 12:19:51,116 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:53,122 - DEBUG - Page scrolled.
+2025-04-14 12:19:55,123 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:19:56,946 - DEBUG - Page scrolled.
+2025-04-14 12:19:58,949 - DEBUG - Random scrolls complete.
+2025-04-14 12:20:01,158 - DEBUG - Scrolling page 1 times.
+2025-04-14 12:20:01,160 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:02,780 - DEBUG - Page scrolled.
+2025-04-14 12:20:05,782 - DEBUG - Random scrolls complete.
+2025-04-14 12:20:05,830 - DEBUG - Found 8 like buttons.
+2025-04-14 12:20:08,832 - INFO - Attempting to like 2 posts. There are 8 available.
+2025-04-14 12:20:09,519 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:20:09,556 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:20:09,558 - DEBUG - Liked post number 1 of 2.
+2025-04-14 12:20:15,333 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-14 12:20:15,355 - INFO - Like button clicked successfully using JavaScript.
+2025-04-14 12:20:15,358 - DEBUG - Liked post number 2 of 2.
+2025-04-14 12:20:20,029 - INFO - Liked 2 posts successfully.
+2025-04-14 12:20:20,030 - INFO - Liked 2 posts successfully.
+2025-04-14 12:20:22,123 - INFO - performing random action
+2025-04-14 12:20:22,277 - DEBUG - Scrolling page 3 times.
+2025-04-14 12:20:22,287 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:23,403 - DEBUG - Page scrolled.
+2025-04-14 12:20:26,405 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:28,275 - DEBUG - Page scrolled.
+2025-04-14 12:20:31,276 - DEBUG - Scrolling page by 500 pixels.
+2025-04-14 12:20:32,539 - DEBUG - Page scrolled.
+2025-04-14 12:20:35,541 - DEBUG - Random scrolls complete.
+2025-04-14 12:20:38,393 - DEBUG - Total comments in the thread: 8
+2025-04-14 12:21:40,448 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to host a website with no domain name.txt
+2025-04-14 12:21:43,236 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-14 12:21:43,314 - DEBUG - Extracted main post content: How do you host a website without domain name. like this http://178.248.238.94/
+2025-04-14 12:21:46,484 - INFO - Successfully generated comments using Gemini API.
+2025-04-14 12:21:46,487 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-14 12:21:48,987 - INFO - Profile DarkCodeX: Pausing for 47.69 seconds...
+2025-04-14 12:22:36,683 - INFO - Profile DarkCodeX: Resuming...
+2025-04-14 12:22:36,688 - INFO - performing random action
+2025-04-14 12:22:36,690 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:22:36,691 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:22:36,739 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:22:36,863 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-14 12:22:36,874 - DEBUG - Text box scrolled into view
+2025-04-14 12:22:37,417 - DEBUG - Initializing actionchains
+2025-04-14 12:22:37,447 - DEBUG - Post reply Element location: {'x': 1231, 'y': 3271}, size: {'height': 21, 'width': 68}
+2025-04-14 12:22:37,448 - DEBUG - Target click coordinates: (1265, 3281)
+2025-04-14 12:22:47,501 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-14 12:22:47,502 - DEBUG - Moving mouse to text box element.
+2025-04-14 12:22:47,503 - DEBUG - Clicking on the text box.
+2025-04-14 12:22:47,513 - DEBUG - Sending keys with content: You can directly access a website using its IP address, but most folks prefer a domain name 'cause it's easier to remember than a string of numbers. Are you trying to avoid buying a domain for a specific reason?
+
+2025-04-14 12:22:52,559 - DEBUG - Clicking on post reply button.
+2025-04-14 12:23:03,827 - DEBUG - Performed Actionchains
+2025-04-14 12:23:03,829 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-14 12:23:07,834 - INFO - Comment posted successfully.
+2025-04-14 12:23:07,835 - INFO - Task Completed!!
+2025-04-14 12:23:17,867 - INFO - Navigated back to the homepage.
+2025-04-14 12:23:20,571 - INFO - Attempting to clear memory and resources.
+2025-04-14 12:23:20,619 - INFO - Garbage collection completed.
+2025-04-14 12:23:20,620 - INFO - Waiting for 2200 seconds before next execution.

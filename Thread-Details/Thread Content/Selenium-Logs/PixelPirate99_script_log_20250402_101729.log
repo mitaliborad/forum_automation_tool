@@ -1,0 +1,110 @@
+2025-04-02 10:17:29,659 - INFO - Current time: 1743569249.659552
+2025-04-02 10:17:29,662 - INFO - Token expiration time: 1743577827.6658707
+2025-04-02 10:17:29,664 - INFO - Token expiration time: 1743577827.6658707
+2025-04-02 10:17:29,666 - INFO - Profile PixelPirate99: Pausing for 46.97 seconds...
+2025-04-02 10:18:16,643 - INFO - Profile PixelPirate99: Resuming...
+2025-04-02 10:18:16,644 - INFO - performing random action
+2025-04-02 10:18:16,644 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-02 10:18:16,645 - DEBUG - Scrolling page 4 times.
+2025-04-02 10:18:16,645 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:18,049 - DEBUG - Page scrolled.
+2025-04-02 10:18:20,052 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:21,478 - DEBUG - Page scrolled.
+2025-04-02 10:18:23,481 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:24,775 - DEBUG - Page scrolled.
+2025-04-02 10:18:26,776 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:27,886 - DEBUG - Page scrolled.
+2025-04-02 10:18:29,888 - DEBUG - Random scrolls complete.
+2025-04-02 10:18:29,890 - DEBUG - Scrolling page 3 times.
+2025-04-02 10:18:29,891 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:31,273 - DEBUG - Page scrolled.
+2025-04-02 10:18:33,274 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:35,045 - DEBUG - Page scrolled.
+2025-04-02 10:18:37,050 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:18:38,447 - DEBUG - Page scrolled.
+2025-04-02 10:18:40,448 - DEBUG - Random scrolls complete.
+2025-04-02 10:18:49,269 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-04-02 10:18:53,558 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/where-to-buy-twitch-chatbot.1700423/unread
+2025-04-02 10:18:53,559 - INFO - performing random action
+2025-04-02 10:19:02,002 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/where-to-buy-twitch-chatbot.1700423/unread
+2025-04-02 10:19:02,006 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/where-to-buy-twitch-chatbot.1700423/unread' to visited threads file 'Thread_links.txt'.
+2025-04-02 10:19:02,042 - INFO - Extracted thread title: Where to buy twitch chatbot
+2025-04-02 10:19:02,043 - DEBUG - Scrolling page 4 times.
+2025-04-02 10:19:02,044 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:04,045 - DEBUG - Page scrolled.
+2025-04-02 10:19:06,046 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:07,826 - DEBUG - Page scrolled.
+2025-04-02 10:19:09,827 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:11,330 - DEBUG - Page scrolled.
+2025-04-02 10:19:13,332 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:14,513 - DEBUG - Page scrolled.
+2025-04-02 10:19:16,514 - DEBUG - Random scrolls complete.
+2025-04-02 10:19:19,057 - DEBUG - Scrolling page 4 times.
+2025-04-02 10:19:19,059 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:20,466 - DEBUG - Page scrolled.
+2025-04-02 10:19:23,468 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:25,443 - DEBUG - Page scrolled.
+2025-04-02 10:19:28,444 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:30,313 - DEBUG - Page scrolled.
+2025-04-02 10:19:33,315 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:35,230 - DEBUG - Page scrolled.
+2025-04-02 10:19:38,233 - DEBUG - Random scrolls complete.
+2025-04-02 10:19:38,270 - DEBUG - Found 8 like buttons.
+2025-04-02 10:19:41,271 - INFO - Attempting to like 2 posts. There are 8 available.
+2025-04-02 10:19:42,229 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:19:42,251 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:19:42,252 - DEBUG - Liked post number 1 of 2.
+2025-04-02 10:19:47,551 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-02 10:19:47,561 - INFO - Like button clicked successfully using JavaScript.
+2025-04-02 10:19:47,562 - DEBUG - Liked post number 2 of 2.
+2025-04-02 10:19:52,242 - INFO - Liked 2 posts successfully.
+2025-04-02 10:19:52,245 - INFO - Liked 2 posts successfully.
+2025-04-02 10:19:54,631 - INFO - Profile PixelPirate99: Restoring window...
+2025-04-02 10:19:56,639 - INFO - performing random action
+2025-04-02 10:19:56,641 - DEBUG - Scrolling page 6 times.
+2025-04-02 10:19:56,642 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:19:58,149 - DEBUG - Page scrolled.
+2025-04-02 10:20:01,151 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:20:02,967 - DEBUG - Page scrolled.
+2025-04-02 10:20:05,969 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:20:07,906 - DEBUG - Page scrolled.
+2025-04-02 10:20:10,908 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:20:12,335 - DEBUG - Page scrolled.
+2025-04-02 10:20:15,341 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:20:16,596 - DEBUG - Page scrolled.
+2025-04-02 10:20:19,598 - DEBUG - Scrolling page by 500 pixels.
+2025-04-02 10:20:21,301 - DEBUG - Page scrolled.
+2025-04-02 10:20:24,303 - DEBUG - Random scrolls complete.
+2025-04-02 10:20:26,786 - DEBUG - Total comments in the thread: 8
+2025-04-02 10:21:08,672 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Where to buy twitch chatbot.txt
+2025-04-02 10:21:11,595 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-02 10:21:11,622 - DEBUG - Extracted main post content: Looking for a chatbot for twitch to simulate chatters, or a custom chat service from a panel. What would that panel or bot be?
+2025-04-02 10:21:15,439 - INFO - Successfully generated comments using Gemini API.
+2025-04-02 10:21:15,442 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-02 10:21:18,218 - INFO - Profile PixelPirate99: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-02 10:21:22,965 - INFO - Profile PixelPirate99: Pausing for 30.14 seconds...
+2025-04-02 10:21:53,105 - INFO - Profile PixelPirate99: Resuming...
+2025-04-02 10:21:53,111 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-02 10:21:53,112 - INFO - performing random action
+2025-04-02 10:21:53,114 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:21:53,117 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:21:53,141 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:21:53,203 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-02 10:21:53,212 - DEBUG - Text box scrolled into view
+2025-04-02 10:21:53,989 - DEBUG - Initializing actionchains
+2025-04-02 10:21:54,057 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3115}, size: {'height': 21, 'width': 68}
+2025-04-02 10:21:54,058 - DEBUG - Target click coordinates: (1121, 3125)
+2025-04-02 10:22:03,879 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-02 10:22:03,881 - DEBUG - Moving mouse to text box element.
+2025-04-02 10:22:03,882 - DEBUG - Clicking on the text box.
+2025-04-02 10:22:03,888 - DEBUG - Sending keys with content: Honestly, simulating chatters feels kinda hollow. Have you thought about running engaging polls or challenges to organically boost interaction instead?
+
+2025-04-02 10:22:09,384 - DEBUG - Clicking on post reply button.
+2025-04-02 10:22:20,453 - DEBUG - Performed Actionchains
+2025-04-02 10:22:20,453 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-02 10:22:24,455 - INFO - Comment posted successfully.
+2025-04-02 10:22:24,457 - INFO - Task Completed!!
+2025-04-02 10:22:29,147 - INFO - Navigated back to the homepage.
+2025-04-02 10:22:31,750 - INFO - Attempting to clear memory and resources.
+2025-04-02 10:22:31,785 - INFO - Garbage collection completed.
+2025-04-02 10:22:31,786 - INFO - Waiting for 2000 seconds before next execution.

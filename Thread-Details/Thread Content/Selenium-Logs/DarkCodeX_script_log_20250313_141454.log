@@ -1,0 +1,97 @@
+2025-03-13 14:14:54,832 - INFO - Starting new automation task. Log file created at: Selenium-Logs\DarkCodeX_script_log_20250313_141454.log
+2025-03-13 14:14:54,833 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-13 14:14:54,855 - INFO - Loaded 189 visited threads from Thread_links.txt
+2025-03-13 14:14:54,860 - INFO - Successfully loaded links that was already visited!
+2025-03-13 14:14:54,865 - DEBUG - Scrolling page 5 times.
+2025-03-13 14:14:54,866 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:00,222 - DEBUG - Page scrolled.
+2025-03-13 14:15:02,223 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:04,051 - DEBUG - Page scrolled.
+2025-03-13 14:15:06,053 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:07,857 - DEBUG - Page scrolled.
+2025-03-13 14:15:09,858 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:11,360 - DEBUG - Page scrolled.
+2025-03-13 14:15:13,363 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:14,422 - DEBUG - Page scrolled.
+2025-03-13 14:15:16,425 - DEBUG - Random scrolls complete.
+2025-03-13 14:15:16,426 - DEBUG - Scrolling page 6 times.
+2025-03-13 14:15:16,426 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:17,635 - DEBUG - Page scrolled.
+2025-03-13 14:15:19,640 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:20,758 - DEBUG - Page scrolled.
+2025-03-13 14:15:22,760 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:23,974 - DEBUG - Page scrolled.
+2025-03-13 14:15:25,976 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:27,140 - DEBUG - Page scrolled.
+2025-03-13 14:15:29,142 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:31,003 - DEBUG - Page scrolled.
+2025-03-13 14:15:33,005 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:34,023 - DEBUG - Page scrolled.
+2025-03-13 14:15:36,025 - DEBUG - Random scrolls complete.
+2025-03-13 14:15:40,253 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-03-13 14:15:44,422 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-help-with-tumblr.1649469/
+2025-03-13 14:15:51,283 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-help-with-tumblr.1649469/
+2025-03-13 14:15:51,287 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-help-with-tumblr.1649469/' to visited threads file 'Thread_links.txt'.
+2025-03-13 14:15:51,345 - INFO - Extracted thread title: Need help with Tumblr
+2025-03-13 14:15:53,349 - DEBUG - Scrolling page 2 times.
+2025-03-13 14:15:53,350 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:55,346 - DEBUG - Page scrolled.
+2025-03-13 14:15:57,348 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:15:58,618 - DEBUG - Page scrolled.
+2025-03-13 14:16:00,623 - DEBUG - Random scrolls complete.
+2025-03-13 14:16:02,982 - DEBUG - Scrolling page 1 times.
+2025-03-13 14:16:02,985 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:16:04,766 - DEBUG - Page scrolled.
+2025-03-13 14:16:07,767 - DEBUG - Random scrolls complete.
+2025-03-13 14:16:07,782 - DEBUG - Found 9 like buttons.
+2025-03-13 14:16:10,783 - INFO - Attempting to like 2 posts. There are 9 available.
+2025-03-13 14:16:11,530 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 14:16:11,548 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 14:16:11,550 - DEBUG - Liked post number 1 of 2.
+2025-03-13 14:16:16,953 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-13 14:16:16,965 - INFO - Like button clicked successfully using JavaScript.
+2025-03-13 14:16:16,966 - DEBUG - Liked post number 2 of 2.
+2025-03-13 14:16:20,993 - INFO - Liked 2 posts successfully.
+2025-03-13 14:16:20,996 - INFO - Liked 2 posts successfully.
+2025-03-13 14:17:00,864 - DEBUG - Scrolling page 6 times.
+2025-03-13 14:17:00,865 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:02,650 - DEBUG - Page scrolled.
+2025-03-13 14:17:05,653 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:07,380 - DEBUG - Page scrolled.
+2025-03-13 14:17:10,384 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:11,818 - DEBUG - Page scrolled.
+2025-03-13 14:17:14,825 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:16,305 - DEBUG - Page scrolled.
+2025-03-13 14:17:19,307 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:21,052 - DEBUG - Page scrolled.
+2025-03-13 14:17:24,055 - DEBUG - Scrolling page by 500 pixels.
+2025-03-13 14:17:25,136 - DEBUG - Page scrolled.
+2025-03-13 14:17:28,138 - DEBUG - Random scrolls complete.
+2025-03-13 14:17:30,873 - DEBUG - Total comments in the thread: 9
+2025-03-13 14:18:43,017 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need help with Tumblr.txt
+2025-03-13 14:18:45,070 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-13 14:18:45,105 - DEBUG - Extracted main post content: I was reposting some sexy Redgifs to Tumblr, and following and everything sky rocket in 7 days. Today I ve got banned. Whats the best alternative for nsfw content that I could post there and not get banned? Since I wanna use that traffic for my website? Any tips? Thanks
+2025-03-13 14:18:48,482 - INFO - Successfully generated comments using Gemini API.
+2025-03-13 14:18:48,485 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-13 14:19:30,110 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:19:30,112 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:19:30,143 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:19:30,250 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-13 14:19:30,259 - DEBUG - Text box scrolled into view
+2025-03-13 14:19:30,823 - DEBUG - Initializing actionchains
+2025-03-13 14:19:30,852 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3440}, size: {'height': 21, 'width': 68}
+2025-03-13 14:19:30,853 - DEBUG - Target click coordinates: (1121, 3450)
+2025-03-13 14:19:41,104 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-13 14:19:41,106 - DEBUG - Moving mouse to text box element.
+2025-03-13 14:19:41,108 - DEBUG - Clicking on the text box.
+2025-03-13 14:19:41,113 - DEBUG - Sending keys with content: Honestly, Tumblr's crackdown is relentless, but have you considered linking to a curated landing page instead of direct NSFW content? That way, you might skirt the ban while still driving traffic.
+
+2025-03-13 14:19:46,739 - DEBUG - Clicking on post reply button.
+2025-03-13 14:19:58,091 - DEBUG - Performed Actionchains
+2025-03-13 14:19:58,092 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-13 14:20:02,094 - INFO - Comment posted successfully.
+2025-03-13 14:20:02,097 - INFO - Task Completed!!
+2025-03-13 14:20:12,375 - INFO - Navigated back to the homepage.
+2025-03-13 14:20:15,261 - INFO - Attempting to clear memory and resources.
+2025-03-13 14:20:15,294 - INFO - Garbage collection completed.
+2025-03-13 14:20:15,295 - INFO - Waiting for 10 seconds before next execution.
