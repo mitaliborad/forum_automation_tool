@@ -1,0 +1,116 @@
+2025-04-07 09:30:40,342 - INFO - Current time: 1743998440.3423164
+2025-04-07 09:30:40,343 - INFO - Token expiration time: 1744009234.7497618
+2025-04-07 09:30:40,344 - INFO - Token expiration time: 1744009234.7497618
+2025-04-07 09:30:40,350 - INFO - Profile ZeroDayHunter: Opening default URL: https://www.google.com
+2025-04-07 09:30:55,254 - INFO - Profile ZeroDayHunter: Pausing for 40.67 seconds...
+2025-04-07 09:31:35,920 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-07 09:31:35,959 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-07 09:31:35,962 - INFO - performing random action
+2025-04-07 09:31:35,965 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 09:31:35,969 - DEBUG - Scrolling page 3 times.
+2025-04-07 09:31:35,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:31:37,544 - DEBUG - Page scrolled.
+2025-04-07 09:31:39,547 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:31:41,503 - DEBUG - Page scrolled.
+2025-04-07 09:31:43,509 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:31:45,464 - DEBUG - Page scrolled.
+2025-04-07 09:31:47,465 - DEBUG - Random scrolls complete.
+2025-04-07 09:31:47,466 - DEBUG - Scrolling page 2 times.
+2025-04-07 09:31:47,466 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:31:48,957 - DEBUG - Page scrolled.
+2025-04-07 09:31:50,958 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:31:52,756 - DEBUG - Page scrolled.
+2025-04-07 09:31:54,758 - DEBUG - Random scrolls complete.
+2025-04-07 09:32:03,655 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-04-07 09:32:08,362 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-some-vote-for-best-chiropractor-in-my-area.1628491/unread
+2025-04-07 09:32:08,364 - INFO - performing random action
+2025-04-07 09:32:15,397 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-some-vote-for-best-chiropractor-in-my-area.1628491/unread
+2025-04-07 09:32:15,403 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-some-vote-for-best-chiropractor-in-my-area.1628491/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 09:32:15,470 - INFO - Extracted thread title: Need some Vote for Best Chiropractor in my area
+2025-04-07 09:32:15,471 - DEBUG - Scrolling page 4 times.
+2025-04-07 09:32:15,472 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:32:17,147 - DEBUG - Page scrolled.
+2025-04-07 09:32:19,148 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:32:21,033 - DEBUG - Page scrolled.
+2025-04-07 09:32:23,040 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:32:24,681 - DEBUG - Page scrolled.
+2025-04-07 09:32:26,683 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:32:28,166 - DEBUG - Page scrolled.
+2025-04-07 09:32:30,169 - DEBUG - Random scrolls complete.
+2025-04-07 09:32:32,811 - DEBUG - Scrolling page 4 times.
+2025-04-07 09:32:32,812 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:32:33,925 - DEBUG - Page scrolled.
+2025-04-07 09:32:36,927 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:32:38,853 - DEBUG - Page scrolled.
+2025-04-07 09:32:41,855 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:32:43,524 - DEBUG - Page scrolled.
+2025-04-07 09:32:46,525 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:32:48,424 - DEBUG - Page scrolled.
+2025-04-07 09:32:51,425 - DEBUG - Random scrolls complete.
+2025-04-07 09:32:51,443 - DEBUG - Found 5 like buttons.
+2025-04-07 09:32:54,446 - INFO - Attempting to like 3 posts. There are 5 available.
+2025-04-07 09:32:55,007 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 09:32:55,019 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 09:32:55,020 - DEBUG - Liked post number 1 of 3.
+2025-04-07 09:32:59,973 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 09:32:59,982 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 09:32:59,983 - DEBUG - Liked post number 2 of 3.
+2025-04-07 09:33:04,939 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 09:33:04,953 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 09:33:04,954 - DEBUG - Liked post number 3 of 3.
+2025-04-07 09:33:08,958 - INFO - Liked 3 posts successfully.
+2025-04-07 09:33:08,961 - INFO - Liked 3 posts successfully.
+2025-04-07 09:33:11,405 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-07 09:33:11,419 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 24.16 seconds...
+2025-04-07 09:33:35,592 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-07 09:33:35,594 - INFO - performing random action
+2025-04-07 09:33:35,597 - DEBUG - Scrolling page 7 times.
+2025-04-07 09:33:35,601 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:37,474 - DEBUG - Page scrolled.
+2025-04-07 09:33:40,475 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:41,738 - DEBUG - Page scrolled.
+2025-04-07 09:33:44,740 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:46,221 - DEBUG - Page scrolled.
+2025-04-07 09:33:49,223 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:50,991 - DEBUG - Page scrolled.
+2025-04-07 09:33:53,992 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:55,633 - DEBUG - Page scrolled.
+2025-04-07 09:33:58,634 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:34:00,261 - DEBUG - Page scrolled.
+2025-04-07 09:34:03,262 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:34:04,590 - DEBUG - Page scrolled.
+2025-04-07 09:34:07,593 - DEBUG - Random scrolls complete.
+2025-04-07 09:34:10,354 - DEBUG - Total comments in the thread: 5
+2025-04-07 09:34:31,825 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need some Vote for Best Chiropractor in my area.txt
+2025-04-07 09:34:34,441 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 09:34:34,472 - DEBUG - Extracted main post content: Does anyone know someone who can creat 100+ names, addresses, emails, and phone numbers(fake of course) to help my client, a chiropractor clinic, win a “Top Pick in our Area award”? 100 votes should do it, they need to have a real local address and ideally IP address coming from the area. Open to suggestions!! Thanks
+Attachments
+IMG_2839.jpeg
+2025-04-07 09:34:37,975 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 09:34:37,978 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 09:34:40,271 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-07 09:34:40,276 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 22.22 seconds...
+2025-04-07 09:35:02,501 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-07 09:35:02,504 - INFO - performing random action
+2025-04-07 09:35:02,507 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:35:02,509 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:35:02,542 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:35:02,594 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:35:02,604 - DEBUG - Text box scrolled into view
+2025-04-07 09:35:03,541 - DEBUG - Initializing actionchains
+2025-04-07 09:35:03,604 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2553}, size: {'height': 21, 'width': 68}
+2025-04-07 09:35:03,606 - DEBUG - Target click coordinates: (1121, 2563)
+2025-04-07 09:35:12,180 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 09:35:12,182 - DEBUG - Moving mouse to text box element.
+2025-04-07 09:35:12,183 - DEBUG - Clicking on the text box.
+2025-04-07 09:35:12,184 - DEBUG - Sending keys with content: Honestly, that sounds like a lot of work for questionable results. Ever thought about focusing on getting genuine reviews instead?
+
+2025-04-07 09:35:17,883 - DEBUG - Clicking on post reply button.
+2025-04-07 09:35:29,026 - DEBUG - Performed Actionchains
+2025-04-07 09:35:29,028 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 09:35:33,030 - INFO - Comment posted successfully.
+2025-04-07 09:35:33,031 - INFO - Task Completed!!
+2025-04-07 09:35:43,636 - INFO - Navigated back to the homepage.
+2025-04-07 09:35:46,490 - INFO - Attempting to clear memory and resources.
+2025-04-07 09:35:46,520 - INFO - Garbage collection completed.
+2025-04-07 09:35:46,521 - INFO - Waiting for 2000 seconds before next execution.

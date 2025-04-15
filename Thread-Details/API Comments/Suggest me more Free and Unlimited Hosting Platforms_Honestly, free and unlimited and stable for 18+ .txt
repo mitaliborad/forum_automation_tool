@@ -1,0 +1,1 @@
+Honestly, free and unlimited *and* stable for 18+ content is a tough ask. Have you looked into self-hosting with a CDN? Might be cheaper than you think and you'd be in control.

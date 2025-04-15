@@ -1,0 +1,107 @@
+2025-04-07 11:24:19,604 - INFO - Current time: 1744005259.6046894
+2025-04-07 11:24:19,606 - INFO - Token expiration time: 1744009133.223865
+2025-04-07 11:24:19,606 - INFO - Token expiration time: 1744009133.223865
+2025-04-07 11:24:19,607 - INFO - performing random action
+2025-04-07 11:24:19,610 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 11:24:19,611 - DEBUG - Scrolling page 4 times.
+2025-04-07 11:24:19,611 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:24:20,896 - DEBUG - Page scrolled.
+2025-04-07 11:24:22,897 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:24:24,073 - DEBUG - Page scrolled.
+2025-04-07 11:24:26,074 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:24:27,911 - DEBUG - Page scrolled.
+2025-04-07 11:24:29,913 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:24:31,531 - DEBUG - Page scrolled.
+2025-04-07 11:24:33,534 - DEBUG - Random scrolls complete.
+2025-04-07 11:24:33,536 - DEBUG - Scrolling page 4 times.
+2025-04-07 11:24:33,539 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:24:34,839 - DEBUG - Page scrolled.
+2025-04-07 11:24:36,841 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:24:38,259 - DEBUG - Page scrolled.
+2025-04-07 11:24:40,261 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:24:41,828 - DEBUG - Page scrolled.
+2025-04-07 11:24:43,829 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:24:45,741 - DEBUG - Page scrolled.
+2025-04-07 11:24:47,743 - DEBUG - Random scrolls complete.
+2025-04-07 11:24:54,945 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-07 11:25:00,448 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-a-good-backlink-strategy-for-doorway-mass-page-sites.1700056/unread
+2025-04-07 11:25:00,449 - INFO - performing random action
+2025-04-07 11:25:09,625 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-a-good-backlink-strategy-for-doorway-mass-page-sites.1700056/unread
+2025-04-07 11:25:09,640 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-a-good-backlink-strategy-for-doorway-mass-page-sites.1700056/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 11:25:09,671 - INFO - Extracted thread title: What is a good backlink strategy for doorway  mass page sites
+2025-04-07 11:25:09,672 - DEBUG - Scrolling page 4 times.
+2025-04-07 11:25:09,673 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:11,017 - DEBUG - Page scrolled.
+2025-04-07 11:25:13,018 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:14,653 - DEBUG - Page scrolled.
+2025-04-07 11:25:16,655 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:17,927 - DEBUG - Page scrolled.
+2025-04-07 11:25:19,930 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:21,020 - DEBUG - Page scrolled.
+2025-04-07 11:25:23,021 - DEBUG - Random scrolls complete.
+2025-04-07 11:25:25,180 - DEBUG - Scrolling page 3 times.
+2025-04-07 11:25:25,182 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:26,514 - DEBUG - Page scrolled.
+2025-04-07 11:25:29,516 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:31,014 - DEBUG - Page scrolled.
+2025-04-07 11:25:34,172 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:36,125 - DEBUG - Page scrolled.
+2025-04-07 11:25:39,127 - DEBUG - Random scrolls complete.
+2025-04-07 11:25:39,141 - DEBUG - Found 8 like buttons.
+2025-04-07 11:25:42,143 - INFO - Attempting to like 3 posts. There are 8 available.
+2025-04-07 11:25:43,082 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 11:25:43,101 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 11:25:43,102 - DEBUG - Liked post number 1 of 3.
+2025-04-07 11:25:48,446 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 11:25:48,454 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 11:25:48,455 - DEBUG - Liked post number 2 of 3.
+2025-04-07 11:25:53,319 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 11:25:53,350 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 11:25:53,351 - DEBUG - Liked post number 3 of 3.
+2025-04-07 11:25:58,090 - INFO - Liked 3 posts successfully.
+2025-04-07 11:25:58,091 - INFO - Liked 3 posts successfully.
+2025-04-07 11:26:01,025 - INFO - performing random action
+2025-04-07 11:26:01,027 - DEBUG - Scrolling page 6 times.
+2025-04-07 11:26:01,027 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:02,970 - DEBUG - Page scrolled.
+2025-04-07 11:26:05,973 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:07,481 - DEBUG - Page scrolled.
+2025-04-07 11:26:10,484 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:12,153 - DEBUG - Page scrolled.
+2025-04-07 11:26:15,154 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:16,307 - DEBUG - Page scrolled.
+2025-04-07 11:26:19,312 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:21,301 - DEBUG - Page scrolled.
+2025-04-07 11:26:24,306 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:26,136 - DEBUG - Page scrolled.
+2025-04-07 11:26:29,137 - DEBUG - Random scrolls complete.
+2025-04-07 11:26:31,350 - DEBUG - Total comments in the thread: 8
+2025-04-07 11:27:24,043 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What is a good backlink strategy for doorway  mass page sites.txt
+2025-04-07 11:27:26,331 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 11:27:26,382 - DEBUG - Extracted main post content: I mean sites with thousand of almost identical pages/subdomains like plumber [city] where only the city changes.
+
+Besides siloing, webpage speed and interlinking what are good ranking/backlink strategies for sites like this?
+
+For me the crawling budget and lack of good domains is a limiting factor.
+
+Would love to hear insights from those doing the same thing.
+2025-04-07 11:27:31,727 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 11:27:31,731 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 11:27:33,882 - INFO - Profile Emaxx: Restoring window...
+2025-04-07 11:27:35,893 - INFO - performing random action
+2025-04-07 11:27:35,896 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:27:35,898 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:27:35,947 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:27:36,013 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:27:36,028 - DEBUG - Text box scrolled into view
+2025-04-07 11:27:36,772 - DEBUG - Initializing actionchains
+2025-04-07 11:27:36,849 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3388}, size: {'height': 21, 'width': 68}
+2025-04-07 11:27:36,850 - DEBUG - Target click coordinates: (1121, 3398)
+2025-04-07 11:27:47,532 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 11:27:47,534 - DEBUG - Moving mouse to text box element.
+2025-04-07 11:27:47,536 - DEBUG - Clicking on the text box.
+2025-04-07 11:27:47,541 - DEBUG - Sending keys with content: Honestly, I'd focus less on backlinks and more on hyper-local content that genuinely helps folks in those specific cities; maybe add a community events calendar or sponsor a local sports team to get some buzz.
+
+2025-04-07 11:27:53,119 - DEBUG - Clicking on post reply button.
+2025-04-07 11:28:04,322 - DEBUG - Performed Actionchains
+2025-04-07 11:28:04,323 - INFO - Successfully wrote into text box using ActionChains and click.

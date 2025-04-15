@@ -1,0 +1,110 @@
+2025-04-07 09:39:26,681 - INFO - Current time: 1743998966.6815917
+2025-04-07 09:39:26,682 - INFO - Token expiration time: 1744009761.0746217
+2025-04-07 09:39:26,682 - INFO - Token expiration time: 1744009761.0746217
+2025-04-07 09:39:26,683 - INFO - Profile DataPhreak: Restoring window...
+2025-04-07 09:39:28,688 - INFO - performing random action
+2025-04-07 09:39:28,690 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 09:39:28,691 - DEBUG - Scrolling page 4 times.
+2025-04-07 09:39:28,699 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:32,373 - DEBUG - Page scrolled.
+2025-04-07 09:39:34,375 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:35,905 - DEBUG - Page scrolled.
+2025-04-07 09:39:37,910 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:39,251 - DEBUG - Page scrolled.
+2025-04-07 09:39:41,255 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:42,534 - DEBUG - Page scrolled.
+2025-04-07 09:39:44,535 - DEBUG - Random scrolls complete.
+2025-04-07 09:39:44,537 - DEBUG - Scrolling page 4 times.
+2025-04-07 09:39:44,539 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:45,920 - DEBUG - Page scrolled.
+2025-04-07 09:39:47,921 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:49,556 - DEBUG - Page scrolled.
+2025-04-07 09:39:51,563 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:52,964 - DEBUG - Page scrolled.
+2025-04-07 09:39:54,971 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:56,013 - DEBUG - Page scrolled.
+2025-04-07 09:39:58,017 - DEBUG - Random scrolls complete.
+2025-04-07 09:40:03,834 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-04-07 09:40:09,073 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/which-ai-tool-produces-ultra-realistic-pictures.1702462/unread
+2025-04-07 09:40:09,074 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-07 09:40:17,654 - INFO - Profile DataPhreak: Pausing for 32.52 seconds...
+2025-04-07 09:40:50,172 - INFO - Profile DataPhreak: Resuming...
+2025-04-07 09:40:50,254 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-07 09:40:50,255 - INFO - performing random action
+2025-04-07 09:41:02,011 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/which-ai-tool-produces-ultra-realistic-pictures.1702462/unread
+2025-04-07 09:41:02,015 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/which-ai-tool-produces-ultra-realistic-pictures.1702462/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 09:41:02,056 - INFO - Extracted thread title: Which AI tool produces ultra-realistic pictures
+2025-04-07 09:41:02,057 - DEBUG - Scrolling page 3 times.
+2025-04-07 09:41:02,057 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:03,858 - DEBUG - Page scrolled.
+2025-04-07 09:41:05,860 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:06,923 - DEBUG - Page scrolled.
+2025-04-07 09:41:08,925 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:09,979 - DEBUG - Page scrolled.
+2025-04-07 09:41:11,981 - DEBUG - Random scrolls complete.
+2025-04-07 09:41:14,848 - DEBUG - Scrolling page 4 times.
+2025-04-07 09:41:14,849 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:16,401 - DEBUG - Page scrolled.
+2025-04-07 09:41:19,402 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:21,311 - DEBUG - Page scrolled.
+2025-04-07 09:41:24,317 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:25,577 - DEBUG - Page scrolled.
+2025-04-07 09:41:28,581 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:29,837 - DEBUG - Page scrolled.
+2025-04-07 09:41:32,838 - DEBUG - Random scrolls complete.
+2025-04-07 09:41:32,857 - DEBUG - Found 9 like buttons.
+2025-04-07 09:41:35,857 - INFO - Attempting to like 1 posts. There are 9 available.
+2025-04-07 09:41:36,769 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 09:41:36,780 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 09:41:36,781 - DEBUG - Liked post number 1 of 1.
+2025-04-07 09:41:41,604 - INFO - Liked 1 posts successfully.
+2025-04-07 09:41:41,605 - INFO - Liked 1 posts successfully.
+2025-04-07 09:41:44,307 - INFO - Profile DataPhreak: Restoring window...
+2025-04-07 09:41:46,313 - INFO - performing random action
+2025-04-07 09:41:46,318 - DEBUG - Scrolling page 6 times.
+2025-04-07 09:41:46,320 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:47,525 - DEBUG - Page scrolled.
+2025-04-07 09:41:50,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:51,875 - DEBUG - Page scrolled.
+2025-04-07 09:41:54,877 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:41:56,846 - DEBUG - Page scrolled.
+2025-04-07 09:41:59,849 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:42:01,730 - DEBUG - Page scrolled.
+2025-04-07 09:42:04,733 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:42:06,126 - DEBUG - Page scrolled.
+2025-04-07 09:42:09,131 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:42:10,219 - DEBUG - Page scrolled.
+2025-04-07 09:42:13,221 - DEBUG - Random scrolls complete.
+2025-04-07 09:42:15,666 - DEBUG - Total comments in the thread: 9
+2025-04-07 09:42:27,001 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Which AI tool produces ultra-realistic pictures.txt
+2025-04-07 09:42:29,603 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 09:42:29,629 - DEBUG - Extracted main post content: I am looking for one of the paid artificial intelligence tools to create an ai model, it must be ultra-realistic and I must be able to produce consistent models
+2025-04-07 09:42:32,922 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 09:42:32,925 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 09:42:35,445 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-07 09:42:43,207 - INFO - Profile DataPhreak: Pausing for 32.22 seconds...
+2025-04-07 09:43:15,428 - INFO - Profile DataPhreak: Resuming...
+2025-04-07 09:43:15,455 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-07 09:43:15,455 - INFO - performing random action
+2025-04-07 09:43:15,459 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:43:15,460 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:43:15,485 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:43:15,544 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:43:15,552 - DEBUG - Text box scrolled into view
+2025-04-07 09:43:16,128 - DEBUG - Initializing actionchains
+2025-04-07 09:43:16,264 - DEBUG - Post reply Element location: {'x': 1087, 'y': 4718}, size: {'height': 21, 'width': 68}
+2025-04-07 09:43:16,265 - DEBUG - Target click coordinates: (1121, 4728)
+2025-04-07 09:43:29,853 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 09:43:29,855 - DEBUG - Moving mouse to text box element.
+2025-04-07 09:43:29,858 - DEBUG - Clicking on the text box.
+2025-04-07 09:43:29,862 - DEBUG - Sending keys with content: TBH, ultra-realistic and consistent is a tough ask right now. What kind of budget are you working with? That'll really narrow down the options.
+
+2025-04-07 09:43:35,177 - DEBUG - Clicking on post reply button.
+2025-04-07 09:43:46,527 - DEBUG - Performed Actionchains
+2025-04-07 09:43:46,528 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 09:43:50,529 - INFO - Comment posted successfully.
+2025-04-07 09:43:50,531 - INFO - Task Completed!!
+2025-04-07 09:44:00,174 - INFO - Navigated back to the homepage.
+2025-04-07 09:44:02,893 - INFO - Attempting to clear memory and resources.
+2025-04-07 09:44:02,930 - INFO - Garbage collection completed.
+2025-04-07 09:44:02,931 - INFO - Waiting for 2000 seconds before next execution.

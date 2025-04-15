@@ -1,0 +1,262 @@
+--- Main Post Title ---
+How i got myself a Google Knowledge Panel / Graph
+
+Total comments in the thread: 20
+
+Topic User: Thelastlellek
+Topic: Hey Guys!
+I wanted to share what I did step by step to get a Google Knowledge Panel in around 1 Month.
+It was easier than I expected tbh but let's begin.
+
+1. I had a Domain that already had a DA 20-60 (ahref 20 - MOZ 60). On this website i placed the Schema MetaData for my Name, Social Profiles, and anything relevant to the Knowledge Panel.
+2. I created a Wikidata account. I edited some Posts (Filled in some Statistics or whatever) to get the "AutoApprove" Handle on there.
+3. Then I created a Wikidata Page about myself also linking to the Social Media accounts and the Website
+4. I went on expired domains and bought a domain that already was linked to another Knowledge Panel (Sort by Wikipedia Backlinks so you can find them easily) and linked from that Page to mine.
+
+I talked to a guy who also tried this but because he did not have the AutoApprove Status on WikiData he lost his Wikidata Page and his Panel as well.
+
+But the Panel that I got on Google did not Display anything (Socials / Pictures) it just said my Name.
+I have a very Unique Name (Artist Name) so there is no competition on that Panel. If i were to type out my Full Name i do not think the Panel would show up.
+
+So what I did to get Pictures in there is this:
+- I had an Article about myself on a Trusted News Station and "Requested an edit" for the Panel.
+I linked to the Article and the Picture they posted with it and they approved. They did not approve previous attempts of pictures from my website or Instagram etc.
+Because the Article also linked to my Website there was proof for me to send to the Knowledge Panel Team to get my Domain and my Socials in there.
+
+I did not yet get a description because most of them are from Wikipedia Articles or IMDB or something. But i heard that some of them are also from Facebook. I just have to try to send it in 100 times to get it approved.
+
+So what I would recommend when you want to edit the Panel:
+Get as much "Proof" as you can from Articles to Websites to Social Accounts and even Wikidata etc. They are 100% more likely to change something
+
+Maybe I was just lucky but it worked for me really fast. At the Start, it disappeared sometimes but after filling out more and more info it stayed.
+
+Let me know if you ever tried to get a Panel and what you struggled with or what you did differently
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: TrendWatchersAlerts
+Topic: bookmarked. I already have 10 legit articles on myself (not paid) plus a legit business so I will try it myself. How long did it take to get the autoapproved handle?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Thelastlellek
+Topic: TrendWatchersAlerts said:
+bookmarked. I already have 10 legit articles on myself (not paid) plus a legit business so I will try it myself. How long did it take to get the autoapproved handle?
+You can get it in a week. "at least 4 days old and made at least 10 edits"
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Walterwhit
+Topic: PR works well for knowledge graph
+YOU DON'T VALUE YOUR TIME , ENOUGH OR YOU WOULD HAVE TRIED THIS
+
+YOU ARE LOSSING - $378.75, 9999minutes & 365 DAYS OF SUPERMAN MENTAL PEACE AND FOCUS !!!
+Liked by: Topiano, Zombie Pop
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: TrendWatchersAlerts
+Topic: Alright just got my page up after making 10 edits. WIll leave a comment hear if the page sticks & if a knowledge chart pulls up for my name.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Chamdi
+Topic: Did your page stick?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TrendWatchersAlerts
+Topic: Chamdi said:
+Did your page stick?
+First time i did it w/o auto-confirm it was down in 3 days. I got auto-confirmed & it's been up for 3 weeks so far. Im just waiting for it to appear in search
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Chamdi
+Topic: TrendWatchersAlerts said:
+First time i did it w/o auto-confirm it was down in 3 days. I got auto-confirmed & it's been up for 3 weeks so far. Im just waiting for it to appear in search
+Mind sharing your name in private, please? Looking to track and reverse engineer.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TrendWatchersAlerts
+Topic: Chamdi said:
+Mind sharing your name in private, please? Looking to track and reverse engineer.
+i sent
+Liked by: Chamdi
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ramj94
+Topic: @Thelastlellek
+
+Can you go more indepth on how to create the wikipedia page? did your wiki account create a page about yourself or did you use it to create a page about your online presence.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: Somehow my Wikidata account got autoapproved right after I signed up. Wikidata paged sticked until now (its been 3 weeks) and is also indexed on Google.
+***NEW*** [Method] Rank & Earn Money with 50+ Mobile Apps & Games
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: Sorry for double post, somehow can't edit the post. I also got a Knowledge Panel. Here are some things I would like to add:
+
+- Try to make as many public social profiles as possible. For example from Crunchbase, Spotify, IMDB, etc. (depending on your job). If you are an entrepreneur, take a look at Crunchbase. In some cases they will also take the description from Crunchbase.
+
+- Besides creating a Wikidata page, also create pages on other Wiki sites like Everipedia. You can simply buy such a page on Fiverr. I did this and it sticked and somehow Google consider this a reliable source and would accept changes (like the birthdate, place of birth, etc.) with Everipedia being the source.
+
+- Create a brand profile on Google.
+https://myaccount.google.com/brandaccounts
+Update your brand account with as detailed information as you possibly can. This includes all social profiles, website URLs, biographies, and more.
+
+- OP mentioned it already, if you have websites on your own, include the structured data. If you run on Wordpress and you use Yoast SEO, you can add your social profiles, description, etc. to your profile.
+
+Otherwise, use a code like this and include it in the <head> section:
+https://pastebin.com/RWeJzurp
+- Wait for a couple of days and your name should have a Google Knowledge Panel. If you can't find your name directly, try to search for "Your Name Entrepreneur" or "Your Name Musician". After this claim the KP and verify its you. After this you can add your picture, social profiles, birthdate, place of birth, etc.
+Liked by: Marco69, Pirsultan, Castamir
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: getseoonline
+Topic: I am thinking of starting my own blog this year so this will definitely help me
+
+Thanks mate
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Jepe
+Topic: how can you tell if you have Wikipedia autoapprove and how do you find articles to simply edit in order to get this status?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: Jepe said:
+how can you tell if you have Wikipedia autoapprove and how do you find articles to simply edit in order to get this status?
+How I found articles:
+
+Searched for random football players in Indonesia, Thailand, Malaysia, India, etc. and simply corrected spelling errors, etc. in these articles. These articles are mostly written by locals and they make some mistakes.
+
+Btw. the Wikipedia page creation is a tough process. You are very likely to get your page removed by some mod. These people are taking it really seriously. They will randomly flag your new page if you can't back it up with enough sources or prove that the person is actually somehow well-known or popular.
+
+This happened to me as well. My Wikidata page is still online and visible, but these guys just deleted the Wikipedia page. In order to get a Wikipedia page you need a lot of PR...or the Wikipedia page must be created by someone with an extremely trusted account. As a newbie to creating a Wikipedia page...extremely difficult.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TrendWatchersAlerts
+Topic: nakamura said:
+How I found articles:
+
+Searched for random football players in Indonesia, Thailand, Malaysia, India, etc. and simply corrected spelling errors, etc. in these articles. These articles are mostly written by locals and they make some mistakes.
+
+Btw. the Wikipedia page creation is a tough process. You are very likely to get your page removed by some mod. These people are taking it really seriously. They will randomly flag your new page if you can't back it up with enough sources or prove that the person is actually somehow well-known or popular.
+
+This happened to me as well. My Wikidata page is still online and visible, but these guys just deleted the Wikipedia page. In order to get a Wikipedia page you need a lot of PR...or the Wikipedia page must be created by someone with an extremely trusted account. As a newbie to creating a Wikipedia page...extremely difficult.
+Click to expand...
+I have a account on there that have autoaprove & is 1 year old
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: nakamura
+Topic: TrendWatchersAlerts said:
+I have a account on there that have autoaprove & is 1 year old
+Did you create any Wikipedia pages so far? I also have an auto-approve account, but after a couple of days some mods are tagging the article.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ramj94
+Topic: I have an old wikipedia account 1 year+ how can i tell it has autoapprove?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Jepe
+Topic: ramj94 said:
+I have an old wikipedia account 1 year+ how can i tell it has autoapprove?
+I'm not sure how to tell if you have autoapprove either
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ramj94
+Topic: Anybody here have auto approver account would love to pick your brain. Wikepedia is so confusing.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

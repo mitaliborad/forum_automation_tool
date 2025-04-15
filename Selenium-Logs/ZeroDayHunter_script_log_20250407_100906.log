@@ -1,0 +1,119 @@
+2025-04-07 10:09:06,408 - INFO - Current time: 1744000746.408686
+2025-04-07 10:09:06,409 - INFO - Token expiration time: 1744009234.7497618
+2025-04-07 10:09:06,410 - INFO - Token expiration time: 1744009234.7497618
+2025-04-07 10:09:06,411 - INFO - Profile ZeroDayHunter: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-07 10:09:12,469 - INFO - Profile ZeroDayHunter: Pausing for 44.95 seconds...
+2025-04-07 10:09:57,424 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-07 10:09:57,505 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-07 10:09:57,507 - INFO - performing random action
+2025-04-07 10:09:57,509 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:09:57,510 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:09:57,517 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:09:59,168 - DEBUG - Page scrolled.
+2025-04-07 10:10:01,170 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:02,712 - DEBUG - Page scrolled.
+2025-04-07 10:10:04,714 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:05,836 - DEBUG - Page scrolled.
+2025-04-07 10:10:07,838 - DEBUG - Random scrolls complete.
+2025-04-07 10:10:07,840 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:10:07,841 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:08,922 - DEBUG - Page scrolled.
+2025-04-07 10:10:10,926 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:12,289 - DEBUG - Page scrolled.
+2025-04-07 10:10:14,291 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:15,854 - DEBUG - Page scrolled.
+2025-04-07 10:10:17,856 - DEBUG - Random scrolls complete.
+2025-04-07 10:10:24,168 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-04-07 10:10:28,291 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/help-with-qq-registration.1694110/unread
+2025-04-07 10:10:28,292 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-07 10:10:30,294 - INFO - performing random action
+2025-04-07 10:10:40,288 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/help-with-qq-registration.1694110/unread
+2025-04-07 10:10:40,293 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/help-with-qq-registration.1694110/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:10:40,344 - INFO - Extracted thread title: Help with QQ Registration
+2025-04-07 10:10:40,346 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:10:40,346 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:42,312 - DEBUG - Page scrolled.
+2025-04-07 10:10:44,315 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:45,939 - DEBUG - Page scrolled.
+2025-04-07 10:10:47,942 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:49,567 - DEBUG - Page scrolled.
+2025-04-07 10:10:51,569 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:52,792 - DEBUG - Page scrolled.
+2025-04-07 10:10:54,794 - DEBUG - Random scrolls complete.
+2025-04-07 10:10:57,616 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:10:57,618 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:59,030 - DEBUG - Page scrolled.
+2025-04-07 10:11:02,033 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:11:03,535 - DEBUG - Page scrolled.
+2025-04-07 10:11:06,537 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:11:08,154 - DEBUG - Page scrolled.
+2025-04-07 10:11:11,156 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:11:12,248 - DEBUG - Page scrolled.
+2025-04-07 10:11:15,251 - DEBUG - Random scrolls complete.
+2025-04-07 10:11:15,285 - DEBUG - Found 6 like buttons.
+2025-04-07 10:11:18,286 - INFO - Attempting to like 4 posts. There are 6 available.
+2025-04-07 10:11:18,895 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:11:18,919 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:11:18,920 - DEBUG - Liked post number 1 of 4.
+2025-04-07 10:11:24,065 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:11:24,086 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:11:24,087 - DEBUG - Liked post number 2 of 4.
+2025-04-07 10:11:29,381 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:11:29,402 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:11:29,404 - DEBUG - Liked post number 3 of 4.
+2025-04-07 10:11:34,429 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:11:34,451 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:11:34,452 - DEBUG - Liked post number 4 of 4.
+2025-04-07 10:11:39,111 - INFO - Liked 4 posts successfully.
+2025-04-07 10:11:39,114 - INFO - Liked 4 posts successfully.
+2025-04-07 10:11:41,531 - INFO - Profile ZeroDayHunter: Pausing for 31.72 seconds...
+2025-04-07 10:12:13,253 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-07 10:12:13,255 - INFO - performing random action
+2025-04-07 10:12:13,258 - DEBUG - Scrolling page 6 times.
+2025-04-07 10:12:13,259 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:12:14,383 - DEBUG - Page scrolled.
+2025-04-07 10:12:17,384 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:12:18,868 - DEBUG - Page scrolled.
+2025-04-07 10:12:21,873 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:12:23,876 - DEBUG - Page scrolled.
+2025-04-07 10:12:26,879 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:12:28,285 - DEBUG - Page scrolled.
+2025-04-07 10:12:31,287 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:12:32,812 - DEBUG - Page scrolled.
+2025-04-07 10:12:35,816 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:12:37,037 - DEBUG - Page scrolled.
+2025-04-07 10:12:40,040 - DEBUG - Random scrolls complete.
+2025-04-07 10:12:43,029 - DEBUG - Total comments in the thread: 6
+2025-04-07 10:13:04,059 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Help with QQ Registration.txt
+2025-04-07 10:13:06,879 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 10:13:06,917 - DEBUG - Extracted main post content: I'm looking to create a QQ account but I'm not sure how. All the virtual numbers I have tried so far have not worked.
+Thanks
+2025-04-07 10:13:11,789 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 10:13:11,792 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 10:13:13,875 - INFO - Profile ZeroDayHunter: Opening default URL: https://www.google.com
+2025-04-07 10:13:23,176 - INFO - Profile ZeroDayHunter: Pausing for 48.95 seconds...
+2025-04-07 10:14:12,125 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-07 10:14:12,140 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-07 10:14:12,141 - INFO - performing random action
+2025-04-07 10:14:12,141 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:14:12,142 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:14:12,160 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:14:12,203 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:14:12,211 - DEBUG - Text box scrolled into view
+2025-04-07 10:14:12,881 - DEBUG - Initializing actionchains
+2025-04-07 10:14:12,938 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2577}, size: {'height': 21, 'width': 68}
+2025-04-07 10:14:12,938 - DEBUG - Target click coordinates: (1121, 2587)
+2025-04-07 10:14:21,836 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 10:14:21,838 - DEBUG - Moving mouse to text box element.
+2025-04-07 10:14:21,839 - DEBUG - Clicking on the text box.
+2025-04-07 10:14:21,842 - DEBUG - Sending keys with content: QQ's a tough nut to crack these days; have you tried using a VPN set to China while signing up? Heard that helps sometimes.
+
+2025-04-07 10:14:27,021 - DEBUG - Clicking on post reply button.
+2025-04-07 10:14:38,080 - DEBUG - Performed Actionchains
+2025-04-07 10:14:38,080 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 10:14:42,081 - INFO - Comment posted successfully.
+2025-04-07 10:14:42,086 - INFO - Task Completed!!
+2025-04-07 10:14:43,210 - INFO - Navigated back to the homepage.
+2025-04-07 10:14:45,640 - INFO - Attempting to clear memory and resources.
+2025-04-07 10:14:45,723 - INFO - Garbage collection completed.
+2025-04-07 10:14:45,724 - INFO - Waiting for 2000 seconds before next execution.

@@ -1,0 +1,100 @@
+2025-04-07 10:56:39,605 - INFO - Current time: 1744003599.6056697
+2025-04-07 10:56:39,606 - INFO - Token expiration time: 1744009617.4254284
+2025-04-07 10:56:39,607 - INFO - Token expiration time: 1744009617.4254284
+2025-04-07 10:56:39,608 - INFO - Profile PhantomRoot: Pausing for 37.81 seconds...
+2025-04-07 10:57:17,420 - INFO - Profile PhantomRoot: Resuming...
+2025-04-07 10:57:17,424 - INFO - performing random action
+2025-04-07 10:57:17,427 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:57:17,429 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:57:17,430 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:57:18,505 - DEBUG - Page scrolled.
+2025-04-07 10:57:20,508 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:57:21,941 - DEBUG - Page scrolled.
+2025-04-07 10:57:23,942 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:57:25,057 - DEBUG - Page scrolled.
+2025-04-07 10:57:27,059 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:57:28,320 - DEBUG - Page scrolled.
+2025-04-07 10:57:30,322 - DEBUG - Random scrolls complete.
+2025-04-07 10:57:30,323 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:57:30,325 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:57:31,545 - DEBUG - Page scrolled.
+2025-04-07 10:57:33,546 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:57:34,961 - DEBUG - Page scrolled.
+2025-04-07 10:57:36,961 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:57:38,851 - DEBUG - Page scrolled.
+2025-04-07 10:57:40,852 - DEBUG - Random scrolls complete.
+2025-04-07 10:57:49,511 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-04-07 10:57:54,858 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-i-will-start-auto-blogging.1576803/unread
+2025-04-07 10:57:54,860 - INFO - performing random action
+2025-04-07 10:58:05,105 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-i-will-start-auto-blogging.1576803/unread
+2025-04-07 10:58:05,110 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-i-will-start-auto-blogging.1576803/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:58:05,155 - INFO - Extracted thread title: How to I will start auto-blogging 
+2025-04-07 10:58:05,156 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:58:05,157 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:58:06,969 - DEBUG - Page scrolled.
+2025-04-07 10:58:08,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:58:10,114 - DEBUG - Page scrolled.
+2025-04-07 10:58:12,116 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:58:13,569 - DEBUG - Page scrolled.
+2025-04-07 10:58:15,572 - DEBUG - Random scrolls complete.
+2025-04-07 10:58:17,796 - DEBUG - Scrolling page 1 times.
+2025-04-07 10:58:17,798 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:58:19,230 - DEBUG - Page scrolled.
+2025-04-07 10:58:22,232 - DEBUG - Random scrolls complete.
+2025-04-07 10:58:22,254 - DEBUG - Found 20 like buttons.
+2025-04-07 10:58:25,255 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-07 10:58:26,009 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:58:26,019 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:58:26,020 - DEBUG - Liked post number 1 of 1.
+2025-04-07 10:58:30,332 - INFO - Liked 1 posts successfully.
+2025-04-07 10:58:30,335 - INFO - Liked 1 posts successfully.
+2025-04-07 10:58:33,337 - INFO - Profile PhantomRoot: Opening random website: https://www.canva.com/en_in/
+2025-04-07 10:58:54,965 - INFO - Profile PhantomRoot: Pausing for 32.08 seconds...
+2025-04-07 10:59:27,050 - INFO - Profile PhantomRoot: Resuming...
+2025-04-07 10:59:27,088 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-07 10:59:27,090 - INFO - performing random action
+2025-04-07 10:59:27,093 - DEBUG - Scrolling page 6 times.
+2025-04-07 10:59:27,095 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:28,644 - DEBUG - Page scrolled.
+2025-04-07 10:59:31,647 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:33,485 - DEBUG - Page scrolled.
+2025-04-07 10:59:36,487 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:38,049 - DEBUG - Page scrolled.
+2025-04-07 10:59:41,051 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:42,150 - DEBUG - Page scrolled.
+2025-04-07 10:59:45,152 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:46,945 - DEBUG - Page scrolled.
+2025-04-07 10:59:49,947 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:51,258 - DEBUG - Page scrolled.
+2025-04-07 10:59:54,260 - DEBUG - Random scrolls complete.
+2025-04-07 10:59:57,155 - DEBUG - Total comments in the thread: 20
+2025-04-07 11:01:41,609 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to I will start auto-blogging .txt
+2025-04-07 11:01:44,478 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 11:01:44,507 - DEBUG - Extracted main post content: I want to start auto-blogging, but I have no resources for my planning, please guide me in proper planning I am a newbie user at BHW
+2025-04-07 11:01:48,994 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 11:01:48,995 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 11:01:51,677 - INFO - Profile PhantomRoot: Pausing for 43.42 seconds...
+2025-04-07 11:02:35,094 - INFO - Profile PhantomRoot: Resuming...
+2025-04-07 11:02:35,096 - INFO - performing random action
+2025-04-07 11:02:35,097 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:02:35,097 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:02:35,120 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:02:35,174 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:02:35,185 - DEBUG - Text box scrolled into view
+2025-04-07 11:02:35,770 - DEBUG - Initializing actionchains
+2025-04-07 11:02:35,820 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6673}, size: {'height': 21, 'width': 68}
+2025-04-07 11:02:35,820 - DEBUG - Target click coordinates: (1121, 6683)
+2025-04-07 11:02:52,675 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 11:02:52,676 - DEBUG - Moving mouse to text box element.
+2025-04-07 11:02:52,679 - DEBUG - Clicking on the text box.
+2025-04-07 11:02:52,680 - DEBUG - Sending keys with content: Don't overthink it, just pick a niche you know a little about and start posting; you'll learn as you go. What are you actually interested in?
+
+2025-04-07 11:02:58,286 - DEBUG - Clicking on post reply button.
+2025-04-07 11:02:59,627 - DEBUG - Performed Actionchains
+2025-04-07 11:02:59,628 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 11:03:03,630 - INFO - Comment posted successfully.
+2025-04-07 11:03:03,634 - INFO - Task Completed!!
+2025-04-07 11:03:08,858 - INFO - Navigated back to the homepage.
+2025-04-07 11:03:11,759 - INFO - Attempting to clear memory and resources.
+2025-04-07 11:03:11,816 - INFO - Garbage collection completed.
+2025-04-07 11:03:11,817 - INFO - Waiting for 2000 seconds before next execution.

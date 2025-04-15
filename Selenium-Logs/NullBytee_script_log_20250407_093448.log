@@ -1,0 +1,92 @@
+2025-04-07 09:34:48,444 - INFO - Current time: 1743998688.4444156
+2025-04-07 09:34:48,445 - INFO - Token expiration time: 1744009482.8798926
+2025-04-07 09:34:48,449 - INFO - Token expiration time: 1744009482.8798926
+2025-04-07 09:34:48,450 - INFO - performing random action
+2025-04-07 09:34:48,450 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 09:34:48,451 - DEBUG - Scrolling page 2 times.
+2025-04-07 09:34:48,452 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:34:53,789 - DEBUG - Page scrolled.
+2025-04-07 09:34:55,790 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:34:56,827 - DEBUG - Page scrolled.
+2025-04-07 09:34:58,829 - DEBUG - Random scrolls complete.
+2025-04-07 09:34:58,831 - DEBUG - Scrolling page 4 times.
+2025-04-07 09:34:58,832 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:00,562 - DEBUG - Page scrolled.
+2025-04-07 09:35:02,564 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:04,035 - DEBUG - Page scrolled.
+2025-04-07 09:35:06,037 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:07,130 - DEBUG - Page scrolled.
+2025-04-07 09:35:09,132 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:11,045 - DEBUG - Page scrolled.
+2025-04-07 09:35:13,046 - DEBUG - Random scrolls complete.
+2025-04-07 09:35:29,775 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-07 09:35:33,878 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/whats-the-best-theme-for-a-tour-travel-website-to-boost-seo-and-good-looking.1699920/unread
+2025-04-07 09:35:33,879 - INFO - Profile NullBytee: Pausing for 41.40 seconds...
+2025-04-07 09:36:15,278 - INFO - Profile NullBytee: Resuming...
+2025-04-07 09:36:15,280 - INFO - performing random action
+2025-04-07 09:36:31,422 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/whats-the-best-theme-for-a-tour-travel-website-to-boost-seo-and-good-looking.1699920/unread
+2025-04-07 09:36:31,426 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/whats-the-best-theme-for-a-tour-travel-website-to-boost-seo-and-good-looking.1699920/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 09:36:31,476 - INFO - Extracted thread title: What’s the Best Theme for a Tour & Travel Website to Boost SEO and good looking
+2025-04-07 09:36:31,478 - DEBUG - Scrolling page 4 times.
+2025-04-07 09:36:31,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:36:33,299 - DEBUG - Page scrolled.
+2025-04-07 09:36:35,301 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:36:36,587 - DEBUG - Page scrolled.
+2025-04-07 09:36:38,589 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:36:40,417 - DEBUG - Page scrolled.
+2025-04-07 09:36:42,420 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:36:43,807 - DEBUG - Page scrolled.
+2025-04-07 09:36:45,809 - DEBUG - Random scrolls complete.
+2025-04-07 09:36:47,983 - DEBUG - Scrolling page 3 times.
+2025-04-07 09:36:47,985 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:36:49,341 - DEBUG - Page scrolled.
+2025-04-07 09:36:52,343 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:36:54,176 - DEBUG - Page scrolled.
+2025-04-07 09:36:57,178 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:36:58,378 - DEBUG - Page scrolled.
+2025-04-07 09:37:01,379 - DEBUG - Random scrolls complete.
+2025-04-07 09:37:01,395 - DEBUG - Found 2 like buttons.
+2025-04-07 09:37:04,396 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-04-07 09:37:05,277 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 09:37:05,293 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 09:37:05,294 - DEBUG - Liked post number 1 of 1.
+2025-04-07 09:37:09,810 - INFO - Liked 1 posts successfully.
+2025-04-07 09:37:09,811 - INFO - Liked 1 posts successfully.
+2025-04-07 09:37:12,408 - INFO - performing random action
+2025-04-07 09:37:12,409 - DEBUG - Scrolling page 3 times.
+2025-04-07 09:37:12,409 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:13,500 - DEBUG - Page scrolled.
+2025-04-07 09:37:16,507 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:17,796 - DEBUG - Page scrolled.
+2025-04-07 09:37:20,797 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:21,950 - DEBUG - Page scrolled.
+2025-04-07 09:37:24,951 - DEBUG - Random scrolls complete.
+2025-04-07 09:37:27,922 - DEBUG - Total comments in the thread: 2
+2025-04-07 09:37:38,475 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What’s the Best Theme for a Tour & Travel Website to Boost SEO and good looking.txt
+2025-04-07 09:37:40,781 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 09:37:40,840 - DEBUG - Extracted main post content: I’m working on a website for tours and travel and want to make sure it’s SEO-friendly. What are the best themes that can help improve search rankings and user experience?
+2025-04-07 09:37:45,980 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 09:37:45,983 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 09:37:48,662 - INFO - performing random action
+2025-04-07 09:37:48,666 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:37:48,667 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:37:48,691 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:37:48,754 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:37:48,765 - DEBUG - Text box scrolled into view
+2025-04-07 09:37:49,716 - DEBUG - Initializing actionchains
+2025-04-07 09:37:49,744 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1626}, size: {'height': 21, 'width': 68}
+2025-04-07 09:37:49,745 - DEBUG - Target click coordinates: (1121, 1636)
+2025-04-07 09:37:56,548 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 09:37:56,550 - DEBUG - Moving mouse to text box element.
+2025-04-07 09:37:56,552 - DEBUG - Clicking on the text box.
+2025-04-07 09:37:56,554 - DEBUG - Sending keys with content: Skip the fancy themes and focus on a fast-loading, mobile-friendly design. Core Web Vitals are key these days; Google cares more about speed than bells and whistles.
+
+2025-04-07 09:38:02,101 - DEBUG - Clicking on post reply button.
+2025-04-07 09:38:13,233 - DEBUG - Performed Actionchains
+2025-04-07 09:38:13,234 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 09:38:17,236 - INFO - Comment posted successfully.
+2025-04-07 09:38:17,237 - INFO - Task Completed!!
+2025-04-07 09:38:31,737 - INFO - Navigated back to the homepage.
+2025-04-07 09:38:34,592 - INFO - Attempting to clear memory and resources.
+2025-04-07 09:38:34,627 - INFO - Garbage collection completed.
+2025-04-07 09:38:34,628 - INFO - Waiting for 2000 seconds before next execution.

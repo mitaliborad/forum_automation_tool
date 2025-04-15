@@ -1,0 +1,90 @@
+2025-04-07 10:48:05,674 - INFO - Current time: 1744003085.6742206
+2025-04-07 10:48:05,675 - INFO - Token expiration time: 1744009234.7497618
+2025-04-07 10:48:05,676 - INFO - Token expiration time: 1744009234.7497618
+2025-04-07 10:48:05,677 - INFO - Profile ZeroDayHunter: Pausing for 47.82 seconds...
+2025-04-07 10:48:53,502 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-07 10:48:53,504 - INFO - performing random action
+2025-04-07 10:48:53,505 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:48:53,506 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:48:53,506 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:48:55,182 - DEBUG - Page scrolled.
+2025-04-07 10:48:57,185 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:48:59,010 - DEBUG - Page scrolled.
+2025-04-07 10:49:01,011 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:02,868 - DEBUG - Page scrolled.
+2025-04-07 10:49:04,870 - DEBUG - Random scrolls complete.
+2025-04-07 10:49:04,870 - DEBUG - Scrolling page 2 times.
+2025-04-07 10:49:04,871 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:06,225 - DEBUG - Page scrolled.
+2025-04-07 10:49:08,227 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:09,882 - DEBUG - Page scrolled.
+2025-04-07 10:49:11,884 - DEBUG - Random scrolls complete.
+2025-04-07 10:49:21,442 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/video-production.170/
+2025-04-07 10:49:25,706 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/using-another-paypal-account-for-adobe.1595898/unread
+2025-04-07 10:49:25,707 - INFO - performing random action
+2025-04-07 10:49:34,248 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/using-another-paypal-account-for-adobe.1595898/unread
+2025-04-07 10:49:34,253 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/using-another-paypal-account-for-adobe.1595898/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:49:34,287 - INFO - Extracted thread title: Using another paypal account for adobe
+2025-04-07 10:49:34,289 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:49:34,290 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:35,371 - DEBUG - Page scrolled.
+2025-04-07 10:49:37,372 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:39,038 - DEBUG - Page scrolled.
+2025-04-07 10:49:41,040 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:42,654 - DEBUG - Page scrolled.
+2025-04-07 10:49:44,657 - DEBUG - Random scrolls complete.
+2025-04-07 10:49:46,699 - DEBUG - Scrolling page 1 times.
+2025-04-07 10:49:46,700 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:47,788 - DEBUG - Page scrolled.
+2025-04-07 10:49:50,790 - DEBUG - Random scrolls complete.
+2025-04-07 10:49:50,824 - DEBUG - Found 5 like buttons.
+2025-04-07 10:49:53,825 - INFO - Attempting to like 2 posts. There are 5 available.
+2025-04-07 10:49:54,794 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:49:54,810 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:49:54,811 - DEBUG - Liked post number 1 of 2.
+2025-04-07 10:50:00,149 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:50:00,159 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:50:00,160 - DEBUG - Liked post number 2 of 2.
+2025-04-07 10:50:04,335 - INFO - Liked 2 posts successfully.
+2025-04-07 10:50:04,337 - INFO - Liked 2 posts successfully.
+2025-04-07 10:50:06,534 - INFO - performing random action
+2025-04-07 10:50:06,536 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:50:06,537 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:50:07,787 - DEBUG - Page scrolled.
+2025-04-07 10:50:10,789 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:50:11,959 - DEBUG - Page scrolled.
+2025-04-07 10:50:14,961 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:50:16,363 - DEBUG - Page scrolled.
+2025-04-07 10:50:19,367 - DEBUG - Random scrolls complete.
+2025-04-07 10:50:21,922 - DEBUG - Total comments in the thread: 5
+2025-04-07 10:50:53,673 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Using another paypal account for adobe.txt
+2025-04-07 10:50:55,898 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 10:50:55,926 - DEBUG - Extracted main post content: If i use another paypal account with different details including a different name but with the same card thats used for other paypal account for adobe trail, will they charge me has anyone tried doing this?
+2025-04-07 10:51:00,382 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 10:51:00,385 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 10:51:02,600 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-07 10:51:02,604 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 16.17 seconds...
+2025-04-07 10:51:18,778 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-07 10:51:18,780 - INFO - performing random action
+2025-04-07 10:51:18,782 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:51:18,784 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:51:18,816 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:51:18,864 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:51:18,873 - DEBUG - Text box scrolled into view
+2025-04-07 10:51:19,657 - DEBUG - Initializing actionchains
+2025-04-07 10:51:19,682 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2265}, size: {'height': 21, 'width': 68}
+2025-04-07 10:51:19,682 - DEBUG - Target click coordinates: (1121, 2275)
+2025-04-07 10:51:27,768 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 10:51:27,769 - DEBUG - Moving mouse to text box element.
+2025-04-07 10:51:27,770 - DEBUG - Clicking on the text box.
+2025-04-07 10:51:27,771 - DEBUG - Sending keys with content: Been there, tried that. Adobe's pretty good at catching those duplicate card scenarios, so I wouldn't risk it.
+
+2025-04-07 10:51:33,568 - DEBUG - Clicking on post reply button.
+2025-04-07 10:51:44,604 - DEBUG - Performed Actionchains
+2025-04-07 10:51:44,605 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 10:51:48,607 - INFO - Comment posted successfully.
+2025-04-07 10:51:48,608 - INFO - Task Completed!!
+2025-04-07 10:52:03,654 - INFO - Navigated back to the homepage.
+2025-04-07 10:52:06,648 - INFO - Attempting to clear memory and resources.
+2025-04-07 10:52:06,679 - INFO - Garbage collection completed.
+2025-04-07 10:52:06,680 - INFO - Waiting for 2000 seconds before next execution.

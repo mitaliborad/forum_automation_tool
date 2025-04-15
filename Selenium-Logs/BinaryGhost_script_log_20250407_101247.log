@@ -1,0 +1,102 @@
+2025-04-07 10:12:47,997 - INFO - Current time: 1744000967.9973373
+2025-04-07 10:12:47,999 - INFO - Token expiration time: 1744009408.0502346
+2025-04-07 10:12:48,001 - INFO - Token expiration time: 1744009408.0502346
+2025-04-07 10:12:48,003 - INFO - Profile BinaryGhost: Opening random website: https://letshyphen.com/
+2025-04-07 10:13:24,723 - INFO - Profile BinaryGhost: Pausing for 39.61 seconds...
+2025-04-07 10:14:04,334 - INFO - Profile BinaryGhost: Resuming...
+2025-04-07 10:14:04,375 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-07 10:14:04,376 - INFO - performing random action
+2025-04-07 10:14:04,377 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:14:04,378 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:14:04,379 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:14:06,231 - DEBUG - Page scrolled.
+2025-04-07 10:14:08,234 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:14:09,511 - DEBUG - Page scrolled.
+2025-04-07 10:14:11,513 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:14:12,904 - DEBUG - Page scrolled.
+2025-04-07 10:14:14,906 - DEBUG - Random scrolls complete.
+2025-04-07 10:14:14,908 - DEBUG - Scrolling page 2 times.
+2025-04-07 10:14:14,909 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:14:16,766 - DEBUG - Page scrolled.
+2025-04-07 10:14:18,769 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:14:20,749 - DEBUG - Page scrolled.
+2025-04-07 10:14:22,750 - DEBUG - Random scrolls complete.
+2025-04-07 10:14:35,021 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-07 10:14:39,347 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-change-meta-data-of-pictures-videos-for-insta.1534380/
+2025-04-07 10:14:39,349 - INFO - performing random action
+2025-04-07 10:14:47,757 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-change-meta-data-of-pictures-videos-for-insta.1534380/
+2025-04-07 10:14:47,761 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-change-meta-data-of-pictures-videos-for-insta.1534380/' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:14:47,842 - INFO - Extracted thread title: How to change meta data of picturesvideos for insta
+2025-04-07 10:14:47,843 - DEBUG - Scrolling page 2 times.
+2025-04-07 10:14:47,844 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:14:49,058 - DEBUG - Page scrolled.
+2025-04-07 10:14:51,061 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:14:52,980 - DEBUG - Page scrolled.
+2025-04-07 10:14:54,982 - DEBUG - Random scrolls complete.
+2025-04-07 10:14:57,154 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:14:57,155 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:14:59,154 - DEBUG - Page scrolled.
+2025-04-07 10:15:02,159 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:15:03,858 - DEBUG - Page scrolled.
+2025-04-07 10:15:06,860 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:15:08,577 - DEBUG - Page scrolled.
+2025-04-07 10:15:11,580 - DEBUG - Random scrolls complete.
+2025-04-07 10:15:11,611 - DEBUG - Found 9 like buttons.
+2025-04-07 10:15:14,612 - INFO - Attempting to like 3 posts. There are 9 available.
+2025-04-07 10:15:15,355 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:15:15,381 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:15:15,383 - DEBUG - Liked post number 1 of 3.
+2025-04-07 10:15:20,801 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:15:20,829 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:15:20,831 - DEBUG - Liked post number 2 of 3.
+2025-04-07 10:15:26,257 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:15:26,277 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:15:26,279 - DEBUG - Liked post number 3 of 3.
+2025-04-07 10:15:31,249 - INFO - Liked 3 posts successfully.
+2025-04-07 10:15:31,251 - INFO - Liked 3 posts successfully.
+2025-04-07 10:15:33,811 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-07 10:15:33,816 - INFO - Profile BinaryGhost: Window minimized. Pausing for 26.26 seconds...
+2025-04-07 10:16:00,076 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-07 10:16:00,079 - INFO - performing random action
+2025-04-07 10:16:00,081 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:16:00,082 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:16:01,758 - DEBUG - Page scrolled.
+2025-04-07 10:16:04,761 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:16:05,918 - DEBUG - Page scrolled.
+2025-04-07 10:16:08,921 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:16:10,419 - DEBUG - Page scrolled.
+2025-04-07 10:16:13,421 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:16:15,111 - DEBUG - Page scrolled.
+2025-04-07 10:16:18,113 - DEBUG - Random scrolls complete.
+2025-04-07 10:16:20,793 - DEBUG - Total comments in the thread: 9
+2025-04-07 10:17:13,565 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to change meta data of picturesvideos for insta.txt
+2025-04-07 10:17:15,938 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 10:17:15,983 - DEBUG - Extracted main post content: Hello!
+
+I am setting up tons of insta profiles for OF girls so many profiles will have the same pictures and videos.
+Which tool do you recommend for changing everything that is needed in order not to raise any red flags with instagram?
+2025-04-07 10:17:19,530 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 10:17:19,532 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 10:17:22,247 - INFO - performing random action
+2025-04-07 10:17:22,248 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:17:22,249 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:17:22,264 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:17:22,311 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:17:22,320 - DEBUG - Text box scrolled into view
+2025-04-07 10:17:23,284 - DEBUG - Initializing actionchains
+2025-04-07 10:17:23,323 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3322}, size: {'height': 21, 'width': 68}
+2025-04-07 10:17:23,324 - DEBUG - Target click coordinates: (1121, 3332)
+2025-04-07 10:17:33,664 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 10:17:33,667 - DEBUG - Moving mouse to text box element.
+2025-04-07 10:17:33,668 - DEBUG - Clicking on the text box.
+2025-04-07 10:17:33,672 - DEBUG - Sending keys with content: Honestly, you're probably better off focusing on fewer profiles with higher quality content than trying to game the system with tons of duplicates. Instagram's getting pretty good at spotting that stuff.
+
+2025-04-07 10:17:39,086 - DEBUG - Clicking on post reply button.
+2025-04-07 10:17:47,908 - DEBUG - Performed Actionchains
+2025-04-07 10:17:47,909 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 10:17:51,913 - INFO - Comment posted successfully.
+2025-04-07 10:17:51,917 - INFO - Task Completed!!
+2025-04-07 10:18:01,133 - INFO - Navigated back to the homepage.
+2025-04-07 10:18:03,834 - INFO - Attempting to clear memory and resources.
+2025-04-07 10:18:03,861 - INFO - Garbage collection completed.
+2025-04-07 10:18:03,861 - INFO - Waiting for 2000 seconds before next execution.

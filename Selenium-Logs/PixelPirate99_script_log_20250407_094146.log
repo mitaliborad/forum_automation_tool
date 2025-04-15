@@ -1,0 +1,8 @@
+2025-04-07 09:41:46,714 - INFO - Starting automation for profile: PixelPirate99
+2025-04-07 09:41:47,753 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-07 09:41:47,757 - INFO - Calculated token expiration time: 1744009907.7577493
+2025-04-07 09:41:47,759 - INFO - Profile PixelPirate99: Successfully logged in.
+2025-04-07 09:41:47,761 - INFO - Profile PixelPirate99: Starting profile 1038850a-a71c-4c6e-9f86-19b7937ee408...
+2025-04-07 09:41:58,417 - ERROR - Profile PixelPirate99: Error starting profile: {"status":{"error_code":"GET_PROXY_CONNECTION_IP_ERROR","http_code":400,"message":"couldn't get proxy connection ip data"}}
+2025-04-07 09:41:58,421 - ERROR - Failed to start MultiLogin profile: PixelPirate99. Skipping.
+2025-04-07 09:41:58,426 - WARNING - Driver was not initialized for PixelPirate99.  Skipping stop_profile.

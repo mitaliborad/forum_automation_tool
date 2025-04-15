@@ -1,0 +1,109 @@
+2025-04-07 10:17:22,835 - INFO - Current time: 1744001242.8359115
+2025-04-07 10:17:22,838 - INFO - Token expiration time: 1744009761.0746217
+2025-04-07 10:17:22,840 - INFO - Token expiration time: 1744009761.0746217
+2025-04-07 10:17:22,842 - INFO - performing random action
+2025-04-07 10:17:22,845 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:17:22,848 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:17:22,850 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:17:24,427 - DEBUG - Page scrolled.
+2025-04-07 10:17:26,428 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:17:27,922 - DEBUG - Page scrolled.
+2025-04-07 10:17:29,924 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:17:31,557 - DEBUG - Page scrolled.
+2025-04-07 10:17:33,558 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:17:35,195 - DEBUG - Page scrolled.
+2025-04-07 10:17:37,197 - DEBUG - Random scrolls complete.
+2025-04-07 10:17:37,199 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:17:37,199 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:17:39,121 - DEBUG - Page scrolled.
+2025-04-07 10:17:41,123 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:17:43,060 - DEBUG - Page scrolled.
+2025-04-07 10:17:45,062 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:17:46,135 - DEBUG - Page scrolled.
+2025-04-07 10:17:48,138 - DEBUG - Random scrolls complete.
+2025-04-07 10:18:01,796 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-07 10:18:05,829 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-myspace-still-a-thing-lol.1644524/unread
+2025-04-07 10:18:05,830 - INFO - Profile DataPhreak: Pausing for 46.73 seconds...
+2025-04-07 10:18:52,559 - INFO - Profile DataPhreak: Resuming...
+2025-04-07 10:18:52,561 - INFO - performing random action
+2025-04-07 10:19:07,911 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-myspace-still-a-thing-lol.1644524/unread
+2025-04-07 10:19:08,417 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-myspace-still-a-thing-lol.1644524/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:19:08,473 - INFO - Extracted thread title: Is MySpace still a thing lol
+2025-04-07 10:19:08,474 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:19:08,474 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:09,715 - DEBUG - Page scrolled.
+2025-04-07 10:19:11,717 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:13,434 - DEBUG - Page scrolled.
+2025-04-07 10:19:15,435 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:16,895 - DEBUG - Page scrolled.
+2025-04-07 10:19:18,897 - DEBUG - Random scrolls complete.
+2025-04-07 10:19:21,377 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:19:21,379 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:23,071 - DEBUG - Page scrolled.
+2025-04-07 10:19:26,072 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:27,640 - DEBUG - Page scrolled.
+2025-04-07 10:19:30,642 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:32,506 - DEBUG - Page scrolled.
+2025-04-07 10:19:35,508 - DEBUG - Random scrolls complete.
+2025-04-07 10:19:35,549 - DEBUG - Found 16 like buttons.
+2025-04-07 10:19:38,550 - INFO - Attempting to like 4 posts. There are 16 available.
+2025-04-07 10:19:39,171 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:19:39,209 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:19:39,211 - DEBUG - Liked post number 1 of 4.
+2025-04-07 10:19:44,164 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:19:44,176 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:19:44,177 - DEBUG - Liked post number 2 of 4.
+2025-04-07 10:19:49,844 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:19:49,852 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:19:49,853 - DEBUG - Liked post number 3 of 4.
+2025-04-07 10:19:55,196 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:19:55,220 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:19:55,221 - DEBUG - Liked post number 4 of 4.
+2025-04-07 10:19:59,539 - INFO - Liked 4 posts successfully.
+2025-04-07 10:19:59,541 - INFO - Liked 4 posts successfully.
+2025-04-07 10:20:02,370 - INFO - performing random action
+2025-04-07 10:20:02,372 - DEBUG - Scrolling page 7 times.
+2025-04-07 10:20:02,373 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:03,675 - DEBUG - Page scrolled.
+2025-04-07 10:20:06,677 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:07,763 - DEBUG - Page scrolled.
+2025-04-07 10:20:10,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:12,019 - DEBUG - Page scrolled.
+2025-04-07 10:20:15,021 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:16,450 - DEBUG - Page scrolled.
+2025-04-07 10:20:19,453 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:21,343 - DEBUG - Page scrolled.
+2025-04-07 10:20:24,344 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:26,087 - DEBUG - Page scrolled.
+2025-04-07 10:20:29,089 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:30,552 - DEBUG - Page scrolled.
+2025-04-07 10:20:33,554 - DEBUG - Random scrolls complete.
+2025-04-07 10:20:36,475 - DEBUG - Total comments in the thread: 16
+2025-04-07 10:22:21,113 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is MySpace still a thing lol.txt
+2025-04-07 10:22:23,575 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 10:22:23,629 - DEBUG - Extracted main post content: Lmk am curious
+2025-04-07 10:22:28,649 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 10:22:28,650 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 10:22:31,217 - INFO - performing random action
+2025-04-07 10:22:31,218 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:22:31,219 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:22:31,232 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:22:31,279 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:22:31,289 - DEBUG - Text box scrolled into view
+2025-04-07 10:22:31,849 - DEBUG - Initializing actionchains
+2025-04-07 10:22:31,882 - DEBUG - Post reply Element location: {'x': 1087, 'y': 5853}, size: {'height': 21, 'width': 68}
+2025-04-07 10:22:31,883 - DEBUG - Target click coordinates: (1121, 5863)
+2025-04-07 10:22:47,444 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 10:22:47,446 - DEBUG - Moving mouse to text box element.
+2025-04-07 10:22:47,447 - DEBUG - Clicking on the text box.
+2025-04-07 10:22:47,448 - DEBUG - Sending keys with content: Curious about what, exactly? Gotta give us something to work with here.
+
+2025-04-07 10:22:52,721 - DEBUG - Clicking on post reply button.
+2025-04-07 10:22:53,890 - DEBUG - Performed Actionchains
+2025-04-07 10:22:53,891 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 10:22:57,895 - INFO - Comment posted successfully.
+2025-04-07 10:22:57,897 - INFO - Task Completed!!
+2025-04-07 10:23:01,635 - INFO - Navigated back to the homepage.
+2025-04-07 10:23:03,852 - INFO - Attempting to clear memory and resources.
+2025-04-07 10:23:03,903 - INFO - Garbage collection completed.
+2025-04-07 10:23:03,904 - INFO - Waiting for 2000 seconds before next execution.

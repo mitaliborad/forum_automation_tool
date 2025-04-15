@@ -1,0 +1,113 @@
+2025-04-07 10:17:13,380 - INFO - Current time: 1744001233.3803327
+2025-04-07 10:17:13,381 - INFO - Token expiration time: 1744009617.4254284
+2025-04-07 10:17:13,383 - INFO - Token expiration time: 1744009617.4254284
+2025-04-07 10:17:13,384 - INFO - Profile PhantomRoot: Opening random website: https://www.netflix.com/in/
+2025-04-07 10:17:29,391 - INFO - Profile PhantomRoot: Pausing for 35.74 seconds...
+2025-04-07 10:18:05,133 - INFO - Profile PhantomRoot: Resuming...
+2025-04-07 10:18:05,153 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-07 10:18:05,154 - INFO - performing random action
+2025-04-07 10:18:05,165 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:18:05,167 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:18:05,167 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:18:07,048 - DEBUG - Page scrolled.
+2025-04-07 10:18:09,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:18:10,361 - DEBUG - Page scrolled.
+2025-04-07 10:18:12,362 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:18:14,256 - DEBUG - Page scrolled.
+2025-04-07 10:18:16,258 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:18:18,045 - DEBUG - Page scrolled.
+2025-04-07 10:18:20,047 - DEBUG - Random scrolls complete.
+2025-04-07 10:18:20,049 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:18:20,051 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:18:21,580 - DEBUG - Page scrolled.
+2025-04-07 10:18:23,581 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:18:25,469 - DEBUG - Page scrolled.
+2025-04-07 10:18:27,470 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:18:28,730 - DEBUG - Page scrolled.
+2025-04-07 10:18:30,732 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:18:31,922 - DEBUG - Page scrolled.
+2025-04-07 10:18:33,924 - DEBUG - Random scrolls complete.
+2025-04-07 10:18:44,943 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-04-07 10:18:49,779 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/who-sells-the-best-reddit-guide.1702584/unread
+2025-04-07 10:18:49,779 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-07 10:18:57,914 - INFO - Profile PhantomRoot: Pausing for 32.92 seconds...
+2025-04-07 10:19:30,833 - INFO - Profile PhantomRoot: Resuming...
+2025-04-07 10:19:30,871 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-07 10:19:30,873 - INFO - performing random action
+2025-04-07 10:19:41,318 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/who-sells-the-best-reddit-guide.1702584/unread
+2025-04-07 10:19:41,322 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/who-sells-the-best-reddit-guide.1702584/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:19:41,367 - INFO - Extracted thread title: Who sells the best Reddit guide
+2025-04-07 10:19:41,369 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:19:41,369 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:42,635 - DEBUG - Page scrolled.
+2025-04-07 10:19:44,635 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:45,888 - DEBUG - Page scrolled.
+2025-04-07 10:19:47,890 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:48,920 - DEBUG - Page scrolled.
+2025-04-07 10:19:50,922 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:52,807 - DEBUG - Page scrolled.
+2025-04-07 10:19:54,809 - DEBUG - Random scrolls complete.
+2025-04-07 10:19:57,370 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:19:57,371 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:19:58,739 - DEBUG - Page scrolled.
+2025-04-07 10:20:01,741 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:03,684 - DEBUG - Page scrolled.
+2025-04-07 10:20:06,687 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:07,902 - DEBUG - Page scrolled.
+2025-04-07 10:20:10,903 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:12,378 - DEBUG - Page scrolled.
+2025-04-07 10:20:15,381 - DEBUG - Random scrolls complete.
+2025-04-07 10:20:15,442 - DEBUG - Found 2 like buttons.
+2025-04-07 10:20:18,444 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-07 10:20:19,119 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:20:19,171 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:20:19,175 - DEBUG - Liked post number 1 of 2.
+2025-04-07 10:20:24,397 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:20:24,408 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:20:24,409 - DEBUG - Liked post number 2 of 2.
+2025-04-07 10:20:28,515 - INFO - Liked 2 posts successfully.
+2025-04-07 10:20:28,516 - INFO - Liked 2 posts successfully.
+2025-04-07 10:20:31,142 - INFO - performing random action
+2025-04-07 10:20:31,143 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:20:31,143 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:32,774 - DEBUG - Page scrolled.
+2025-04-07 10:20:35,777 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:36,971 - DEBUG - Page scrolled.
+2025-04-07 10:20:39,975 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:41,438 - DEBUG - Page scrolled.
+2025-04-07 10:20:44,439 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:20:45,911 - DEBUG - Page scrolled.
+2025-04-07 10:20:48,913 - DEBUG - Random scrolls complete.
+2025-04-07 10:20:51,641 - DEBUG - Total comments in the thread: 2
+2025-04-07 10:20:51,840 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Who sells the best Reddit guide.txt
+2025-04-07 10:20:54,150 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 10:20:54,249 - DEBUG - Extracted main post content: Who sells the best Reddit guide Here for OFM?
+2025-04-07 10:20:58,978 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 10:20:58,979 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 10:21:01,062 - INFO - Profile PhantomRoot: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-07 10:21:09,282 - INFO - Profile PhantomRoot: Pausing for 31.85 seconds...
+2025-04-07 10:21:41,133 - INFO - Profile PhantomRoot: Resuming...
+2025-04-07 10:21:41,172 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-07 10:21:41,174 - INFO - performing random action
+2025-04-07 10:21:41,176 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:21:41,177 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:21:41,206 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:21:41,264 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:21:41,271 - DEBUG - Text box scrolled into view
+2025-04-07 10:21:41,796 - DEBUG - Initializing actionchains
+2025-04-07 10:21:41,828 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1591}, size: {'height': 21, 'width': 68}
+2025-04-07 10:21:41,829 - DEBUG - Target click coordinates: (1121, 1601)
+2025-04-07 10:21:48,822 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 10:21:48,824 - DEBUG - Moving mouse to text box element.
+2025-04-07 10:21:48,826 - DEBUG - Clicking on the text box.
+2025-04-07 10:21:48,828 - DEBUG - Sending keys with content: Honestly, most of those guides are just rehashed info you can find for free. Have you tried just lurking on the bigger OFM subreddits to see what works for others?
+
+2025-04-07 10:21:54,194 - DEBUG - Clicking on post reply button.
+2025-04-07 10:22:05,662 - DEBUG - Performed Actionchains
+2025-04-07 10:22:05,664 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 10:22:09,666 - INFO - Comment posted successfully.
+2025-04-07 10:22:09,667 - INFO - Task Completed!!
+2025-04-07 10:22:16,803 - INFO - Navigated back to the homepage.
+2025-04-07 10:22:19,053 - INFO - Attempting to clear memory and resources.
+2025-04-07 10:22:19,091 - INFO - Garbage collection completed.
+2025-04-07 10:22:19,093 - INFO - Waiting for 2000 seconds before next execution.

@@ -1,0 +1,89 @@
+2025-04-07 10:56:23,860 - INFO - Current time: 1744003583.8602774
+2025-04-07 10:56:23,861 - INFO - Token expiration time: 1744009761.0746217
+2025-04-07 10:56:23,863 - INFO - Token expiration time: 1744009761.0746217
+2025-04-07 10:56:23,864 - INFO - Profile DataPhreak: Restoring window...
+2025-04-07 10:56:25,867 - INFO - performing random action
+2025-04-07 10:56:25,868 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:56:25,869 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:56:25,870 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:56:26,918 - DEBUG - Page scrolled.
+2025-04-07 10:56:28,921 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:56:30,374 - DEBUG - Page scrolled.
+2025-04-07 10:56:32,375 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:56:34,235 - DEBUG - Page scrolled.
+2025-04-07 10:56:36,238 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:56:37,731 - DEBUG - Page scrolled.
+2025-04-07 10:56:39,733 - DEBUG - Random scrolls complete.
+2025-04-07 10:56:39,735 - DEBUG - Scrolling page 2 times.
+2025-04-07 10:56:39,736 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:56:41,331 - DEBUG - Page scrolled.
+2025-04-07 10:56:43,333 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:56:44,360 - DEBUG - Page scrolled.
+2025-04-07 10:56:46,362 - DEBUG - Random scrolls complete.
+2025-04-07 10:56:54,687 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-04-07 10:56:59,579 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/newfold-boycott-on-reddit.1698734/unread
+2025-04-07 10:56:59,581 - INFO - Profile DataPhreak: Pausing for 35.63 seconds...
+2025-04-07 10:57:35,210 - INFO - Profile DataPhreak: Resuming...
+2025-04-07 10:57:35,211 - INFO - performing random action
+2025-04-07 10:59:10,300 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/newfold-boycott-on-reddit.1698734/unread
+2025-04-07 10:59:10,302 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/newfold-boycott-on-reddit.1698734/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:59:10,331 - INFO - Extracted thread title: Newfold boycott on Reddit
+2025-04-07 10:59:10,332 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:59:10,332 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:11,493 - DEBUG - Page scrolled.
+2025-04-07 10:59:13,495 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:14,633 - DEBUG - Page scrolled.
+2025-04-07 10:59:16,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:17,988 - DEBUG - Page scrolled.
+2025-04-07 10:59:19,990 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:21,132 - DEBUG - Page scrolled.
+2025-04-07 10:59:23,135 - DEBUG - Random scrolls complete.
+2025-04-07 10:59:25,543 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:59:25,544 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:27,143 - DEBUG - Page scrolled.
+2025-04-07 10:59:30,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:31,702 - DEBUG - Page scrolled.
+2025-04-07 10:59:34,704 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:59:36,410 - DEBUG - Page scrolled.
+2025-04-07 10:59:39,411 - DEBUG - Random scrolls complete.
+2025-04-07 10:59:39,457 - DEBUG - Found 20 like buttons.
+2025-04-07 10:59:42,458 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-07 10:59:43,157 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:59:43,189 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:59:43,191 - DEBUG - Liked post number 1 of 4.
+2025-04-07 10:59:48,477 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:59:48,498 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:59:48,500 - DEBUG - Liked post number 2 of 4.
+2025-04-07 10:59:53,472 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:59:53,493 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:59:53,495 - DEBUG - Liked post number 3 of 4.
+2025-04-07 10:59:59,126 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:59:59,139 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:59:59,141 - DEBUG - Liked post number 4 of 4.
+2025-04-07 11:00:03,378 - INFO - Liked 4 posts successfully.
+2025-04-07 11:00:03,380 - INFO - Liked 4 posts successfully.
+2025-04-07 11:00:05,771 - INFO - performing random action
+2025-04-07 11:00:05,773 - DEBUG - Scrolling page 3 times.
+2025-04-07 11:00:05,775 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:00:07,308 - DEBUG - Page scrolled.
+2025-04-07 11:00:10,311 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:00:11,540 - DEBUG - Page scrolled.
+2025-04-07 11:00:14,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:00:15,664 - DEBUG - Page scrolled.
+2025-04-07 11:00:18,710 - DEBUG - Random scrolls complete.
+2025-04-07 11:00:21,024 - DEBUG - Total comments in the thread: 20
+2025-04-07 11:01:14,219 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Newfold boycott on Reddit.txt
+2025-04-07 11:01:17,095 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 11:01:17,146 - DEBUG - Extracted main post content: 
+2025-04-07 11:01:19,542 - ERROR - Thread content file 'Thread-Details/API Comments\Newfold boycott on Reddit_Curious about what, exactly Gotta give us somethi.txt' not found.
+2025-04-07 11:01:22,092 - INFO - Profile DataPhreak: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-07 11:02:00,266 - INFO - Profile DataPhreak: Pausing for 49.68 seconds...
+2025-04-07 11:02:49,959 - INFO - Profile DataPhreak: Resuming...
+2025-04-07 11:02:50,179 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-07 11:02:50,182 - INFO - performing random action
+2025-04-07 11:02:50,183 - WARNING - No comment available to post.
+2025-04-07 11:02:50,183 - INFO - Task Completed!!
+2025-04-07 11:03:00,649 - INFO - Navigated back to the homepage.
+2025-04-07 11:03:02,660 - INFO - Attempting to clear memory and resources.
+2025-04-07 11:03:02,876 - INFO - Garbage collection completed.
+2025-04-07 11:03:02,877 - INFO - Waiting for 2000 seconds before next execution.

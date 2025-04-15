@@ -1,0 +1,97 @@
+2025-04-07 10:08:43,295 - INFO - Current time: 1744000723.295602
+2025-04-07 10:08:43,298 - INFO - Token expiration time: 1744009133.223865
+2025-04-07 10:08:43,300 - INFO - Token expiration time: 1744009133.223865
+2025-04-07 10:08:43,303 - INFO - performing random action
+2025-04-07 10:08:43,314 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:08:43,316 - DEBUG - Scrolling page 2 times.
+2025-04-07 10:08:43,318 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:08:44,713 - DEBUG - Page scrolled.
+2025-04-07 10:08:46,722 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:08:47,928 - DEBUG - Page scrolled.
+2025-04-07 10:08:49,930 - DEBUG - Random scrolls complete.
+2025-04-07 10:08:49,933 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:08:49,935 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:08:50,976 - DEBUG - Page scrolled.
+2025-04-07 10:08:52,979 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:08:54,318 - DEBUG - Page scrolled.
+2025-04-07 10:08:56,320 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:08:57,679 - DEBUG - Page scrolled.
+2025-04-07 10:08:59,682 - DEBUG - Random scrolls complete.
+2025-04-07 10:09:04,053 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-07 10:09:09,546 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/advise-cross-border-e-commerce-in-china.1702533/unread
+2025-04-07 10:09:09,548 - INFO - Profile Emaxx: Minimizing window...
+2025-04-07 10:09:09,549 - INFO - Profile Emaxx: Window minimized. Pausing for 17.19 seconds...
+2025-04-07 10:09:26,743 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-07 10:09:26,746 - INFO - performing random action
+2025-04-07 10:09:34,922 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/advise-cross-border-e-commerce-in-china.1702533/unread
+2025-04-07 10:09:34,934 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/advise-cross-border-e-commerce-in-china.1702533/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:09:34,962 - INFO - Extracted thread title: ADVISE- cross-border e-commerce in China
+2025-04-07 10:09:34,964 - DEBUG - Scrolling page 2 times.
+2025-04-07 10:09:34,964 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:09:36,583 - DEBUG - Page scrolled.
+2025-04-07 10:09:38,585 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:09:40,462 - DEBUG - Page scrolled.
+2025-04-07 10:09:42,464 - DEBUG - Random scrolls complete.
+2025-04-07 10:09:45,027 - DEBUG - Scrolling page 1 times.
+2025-04-07 10:09:45,029 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:09:46,706 - DEBUG - Page scrolled.
+2025-04-07 10:09:49,709 - DEBUG - Random scrolls complete.
+2025-04-07 10:09:49,722 - DEBUG - Found 7 like buttons.
+2025-04-07 10:09:52,723 - INFO - Attempting to like 3 posts. There are 7 available.
+2025-04-07 10:09:53,322 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:09:53,342 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:09:53,343 - DEBUG - Liked post number 1 of 3.
+2025-04-07 10:09:58,887 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:09:58,907 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:09:58,909 - DEBUG - Liked post number 2 of 3.
+2025-04-07 10:10:04,207 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:10:04,216 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:10:04,217 - DEBUG - Liked post number 3 of 3.
+2025-04-07 10:10:08,332 - INFO - Liked 3 posts successfully.
+2025-04-07 10:10:08,334 - INFO - Liked 3 posts successfully.
+2025-04-07 10:10:10,704 - INFO - Profile Emaxx: Restoring window...
+2025-04-07 10:10:12,709 - INFO - performing random action
+2025-04-07 10:10:12,712 - DEBUG - Scrolling page 5 times.
+2025-04-07 10:10:12,713 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:14,551 - DEBUG - Page scrolled.
+2025-04-07 10:10:17,554 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:19,358 - DEBUG - Page scrolled.
+2025-04-07 10:10:22,359 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:24,318 - DEBUG - Page scrolled.
+2025-04-07 10:10:27,320 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:28,903 - DEBUG - Page scrolled.
+2025-04-07 10:10:31,905 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:10:33,612 - DEBUG - Page scrolled.
+2025-04-07 10:10:36,614 - DEBUG - Random scrolls complete.
+2025-04-07 10:10:38,733 - DEBUG - Total comments in the thread: 7
+2025-04-07 10:11:21,049 - INFO - Post content extracted and saved to Thread-Details/Thread Content\ADVISE- cross-border e-commerce in China.txt
+2025-04-07 10:11:23,499 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 10:11:27,751 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 10:11:27,754 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 10:11:30,186 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-07 10:11:37,916 - INFO - Profile Emaxx: Pausing for 35.08 seconds...
+2025-04-07 10:12:12,996 - INFO - Profile Emaxx: Resuming...
+2025-04-07 10:12:13,045 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-07 10:12:13,051 - INFO - performing random action
+2025-04-07 10:12:13,055 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:12:13,056 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:12:13,083 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:12:13,125 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:12:13,132 - DEBUG - Text box scrolled into view
+2025-04-07 10:12:13,764 - DEBUG - Initializing actionchains
+2025-04-07 10:12:13,821 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3041}, size: {'height': 21, 'width': 68}
+2025-04-07 10:12:13,822 - DEBUG - Target click coordinates: (1121, 3051)
+2025-04-07 10:12:24,237 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 10:12:24,248 - DEBUG - Moving mouse to text box element.
+2025-04-07 10:12:24,251 - DEBUG - Clicking on the text box.
+2025-04-07 10:12:24,260 - DEBUG - Sending keys with content: Dropshipping's tough with zero capital, but not impossible. Focus on free traffic first – TikTok's your best bet for that, think short, engaging videos showing off your product.
+
+2025-04-07 10:12:29,596 - DEBUG - Clicking on post reply button.
+2025-04-07 10:12:34,870 - DEBUG - Performed Actionchains
+2025-04-07 10:12:34,872 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 10:12:38,874 - INFO - Comment posted successfully.
+2025-04-07 10:12:38,877 - INFO - Task Completed!!
+2025-04-07 10:12:42,417 - INFO - Navigated back to the homepage.
+2025-04-07 10:12:44,716 - INFO - Attempting to clear memory and resources.
+2025-04-07 10:12:44,751 - INFO - Garbage collection completed.
+2025-04-07 10:12:44,752 - INFO - Waiting for 2000 seconds before next execution.

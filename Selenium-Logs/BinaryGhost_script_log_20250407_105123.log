@@ -1,0 +1,99 @@
+2025-04-07 10:51:23,814 - INFO - Current time: 1744003283.8145075
+2025-04-07 10:51:23,817 - INFO - Token expiration time: 1744009408.0502346
+2025-04-07 10:51:23,819 - INFO - Token expiration time: 1744009408.0502346
+2025-04-07 10:51:23,824 - INFO - performing random action
+2025-04-07 10:51:23,826 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:51:23,828 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:51:23,829 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:51:25,157 - DEBUG - Page scrolled.
+2025-04-07 10:51:27,161 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:51:28,524 - DEBUG - Page scrolled.
+2025-04-07 10:51:30,526 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:51:32,178 - DEBUG - Page scrolled.
+2025-04-07 10:51:34,179 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:51:35,622 - DEBUG - Page scrolled.
+2025-04-07 10:51:37,623 - DEBUG - Random scrolls complete.
+2025-04-07 10:51:37,625 - DEBUG - Scrolling page 2 times.
+2025-04-07 10:51:37,626 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:51:39,191 - DEBUG - Page scrolled.
+2025-04-07 10:51:41,192 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:51:42,642 - DEBUG - Page scrolled.
+2025-04-07 10:51:44,644 - DEBUG - Random scrolls complete.
+2025-04-07 10:51:51,086 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-04-07 10:51:55,959 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/hello.1702447/unread
+2025-04-07 10:51:55,959 - INFO - Profile BinaryGhost: Restoring window...
+2025-04-07 10:51:57,961 - INFO - performing random action
+2025-04-07 10:52:15,568 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/hello.1702447/unread
+2025-04-07 10:52:15,570 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/hello.1702447/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:52:15,601 - INFO - Extracted thread title: Hello
+2025-04-07 10:52:15,602 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:52:15,603 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:52:17,339 - DEBUG - Page scrolled.
+2025-04-07 10:52:19,341 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:52:20,940 - DEBUG - Page scrolled.
+2025-04-07 10:52:22,941 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:52:24,762 - DEBUG - Page scrolled.
+2025-04-07 10:52:26,770 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:52:28,313 - DEBUG - Page scrolled.
+2025-04-07 10:52:30,316 - DEBUG - Random scrolls complete.
+2025-04-07 10:52:32,690 - DEBUG - Scrolling page 2 times.
+2025-04-07 10:52:32,692 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:52:33,907 - DEBUG - Page scrolled.
+2025-04-07 10:52:36,908 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:52:38,774 - DEBUG - Page scrolled.
+2025-04-07 10:52:41,781 - DEBUG - Random scrolls complete.
+2025-04-07 10:52:41,988 - DEBUG - Found 20 like buttons.
+2025-04-07 10:52:44,989 - INFO - Attempting to like 1 posts. There are 20 available.
+2025-04-07 10:52:45,663 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:52:45,677 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:52:45,677 - DEBUG - Liked post number 1 of 1.
+2025-04-07 10:52:50,230 - INFO - Liked 1 posts successfully.
+2025-04-07 10:52:50,233 - INFO - Liked 1 posts successfully.
+2025-04-07 10:52:52,485 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-07 10:52:59,112 - INFO - Profile BinaryGhost: Pausing for 30.72 seconds...
+2025-04-07 10:53:29,830 - INFO - Profile BinaryGhost: Resuming...
+2025-04-07 10:53:29,884 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-07 10:53:29,885 - INFO - performing random action
+2025-04-07 10:53:29,886 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:53:29,886 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:53:31,795 - DEBUG - Page scrolled.
+2025-04-07 10:53:34,796 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:53:36,002 - DEBUG - Page scrolled.
+2025-04-07 10:53:39,004 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:53:40,535 - DEBUG - Page scrolled.
+2025-04-07 10:53:43,536 - DEBUG - Random scrolls complete.
+2025-04-07 10:53:46,197 - DEBUG - Total comments in the thread: 20
+2025-04-07 10:56:34,473 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Hello.txt
+2025-04-07 10:56:36,607 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 10:56:36,658 - DEBUG - Extracted main post content: Hi
+
+I joined this forum to learn internet marketing. I only understand basic. Nice to meet everybody!
+2025-04-07 10:56:39,837 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 10:56:39,842 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 10:56:41,929 - INFO - Profile BinaryGhost: Opening random website: https://www.canva.com/en_in/
+2025-04-07 10:57:03,446 - INFO - Profile BinaryGhost: Pausing for 33.07 seconds...
+2025-04-07 10:57:36,522 - INFO - Profile BinaryGhost: Resuming...
+2025-04-07 10:57:36,544 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-07 10:57:36,545 - INFO - performing random action
+2025-04-07 10:57:36,546 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:57:36,546 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:57:36,575 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:57:36,631 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:57:36,637 - DEBUG - Text box scrolled into view
+2025-04-07 10:57:37,398 - DEBUG - Initializing actionchains
+2025-04-07 10:57:37,434 - DEBUG - Post reply Element location: {'x': 1087, 'y': 6400}, size: {'height': 21, 'width': 68}
+2025-04-07 10:57:37,435 - DEBUG - Target click coordinates: (1121, 6410)
+2025-04-07 10:57:54,852 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 10:57:54,854 - DEBUG - Moving mouse to text box element.
+2025-04-07 10:57:54,856 - DEBUG - Clicking on the text box.
+2025-04-07 10:57:54,857 - DEBUG - Sending keys with content: Welcome! Don't get overwhelmed; just pick one thing that interests you and dive deep. What's the first area you're thinking of exploring?
+
+2025-04-07 10:58:00,418 - DEBUG - Clicking on post reply button.
+2025-04-07 10:58:11,501 - DEBUG - Performed Actionchains
+2025-04-07 10:58:11,502 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 10:58:15,503 - INFO - Comment posted successfully.
+2025-04-07 10:58:15,505 - INFO - Task Completed!!
+2025-04-07 10:58:25,668 - INFO - Navigated back to the homepage.
+2025-04-07 10:58:28,110 - INFO - Attempting to clear memory and resources.
+2025-04-07 10:58:28,144 - INFO - Garbage collection completed.
+2025-04-07 10:58:28,145 - INFO - Waiting for 2000 seconds before next execution.

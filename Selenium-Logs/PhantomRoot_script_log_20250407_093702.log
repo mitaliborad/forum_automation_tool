@@ -1,0 +1,122 @@
+2025-04-07 09:37:02,929 - INFO - Current time: 1743998822.9299273
+2025-04-07 09:37:02,961 - INFO - Token expiration time: 1744009617.4254284
+2025-04-07 09:37:03,076 - INFO - Token expiration time: 1744009617.4254284
+2025-04-07 09:37:03,089 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-07 09:37:05,110 - INFO - performing random action
+2025-04-07 09:37:05,116 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 09:37:05,117 - DEBUG - Scrolling page 3 times.
+2025-04-07 09:37:05,118 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:07,983 - DEBUG - Page scrolled.
+2025-04-07 09:37:09,984 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:11,836 - DEBUG - Page scrolled.
+2025-04-07 09:37:13,838 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:15,417 - DEBUG - Page scrolled.
+2025-04-07 09:37:17,424 - DEBUG - Random scrolls complete.
+2025-04-07 09:37:17,425 - DEBUG - Scrolling page 2 times.
+2025-04-07 09:37:17,425 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:18,949 - DEBUG - Page scrolled.
+2025-04-07 09:37:20,951 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:21,995 - DEBUG - Page scrolled.
+2025-04-07 09:37:23,996 - DEBUG - Random scrolls complete.
+2025-04-07 09:37:30,698 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/online-reputation-management-orm.224/
+2025-04-07 09:37:35,276 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-i-got-myself-a-google-knowledge-panel-graph.1317600/
+2025-04-07 09:37:35,277 - INFO - Profile PhantomRoot: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-07 09:37:44,078 - INFO - Profile PhantomRoot: Pausing for 41.68 seconds...
+2025-04-07 09:38:25,762 - INFO - Profile PhantomRoot: Resuming...
+2025-04-07 09:38:25,802 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-07 09:38:25,803 - INFO - performing random action
+2025-04-07 09:38:42,129 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-i-got-myself-a-google-knowledge-panel-graph.1317600/
+2025-04-07 09:38:42,139 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-i-got-myself-a-google-knowledge-panel-graph.1317600/' to visited threads file 'Thread_links.txt'.
+2025-04-07 09:38:42,176 - INFO - Extracted thread title: How i got myself a Google Knowledge Panel  Graph
+2025-04-07 09:38:42,177 - DEBUG - Scrolling page 2 times.
+2025-04-07 09:38:42,177 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:38:43,686 - DEBUG - Page scrolled.
+2025-04-07 09:38:45,688 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:38:47,635 - DEBUG - Page scrolled.
+2025-04-07 09:38:49,639 - DEBUG - Random scrolls complete.
+2025-04-07 09:38:52,141 - DEBUG - Scrolling page 2 times.
+2025-04-07 09:38:52,142 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:38:53,752 - DEBUG - Page scrolled.
+2025-04-07 09:38:56,754 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:38:57,860 - DEBUG - Page scrolled.
+2025-04-07 09:39:00,862 - DEBUG - Random scrolls complete.
+2025-04-07 09:39:00,885 - DEBUG - Found 20 like buttons.
+2025-04-07 09:39:03,886 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-04-07 09:39:04,653 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 09:39:04,889 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 09:39:04,890 - DEBUG - Liked post number 1 of 2.
+2025-04-07 09:39:10,154 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 09:39:10,162 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 09:39:10,163 - DEBUG - Liked post number 2 of 2.
+2025-04-07 09:39:14,338 - INFO - Liked 2 posts successfully.
+2025-04-07 09:39:14,341 - INFO - Liked 2 posts successfully.
+2025-04-07 09:39:17,025 - INFO - performing random action
+2025-04-07 09:39:17,027 - DEBUG - Scrolling page 5 times.
+2025-04-07 09:39:17,029 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:18,443 - DEBUG - Page scrolled.
+2025-04-07 09:39:21,445 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:23,035 - DEBUG - Page scrolled.
+2025-04-07 09:39:26,036 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:27,868 - DEBUG - Page scrolled.
+2025-04-07 09:39:30,870 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:32,498 - DEBUG - Page scrolled.
+2025-04-07 09:39:35,499 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:39:36,846 - DEBUG - Page scrolled.
+2025-04-07 09:39:39,852 - DEBUG - Random scrolls complete.
+2025-04-07 09:39:42,516 - DEBUG - Total comments in the thread: 20
+2025-04-07 09:42:17,213 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How i got myself a Google Knowledge Panel  Graph.txt
+2025-04-07 09:42:19,415 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 09:42:19,469 - DEBUG - Extracted main post content: Hey Guys!
+I wanted to share what I did step by step to get a Google Knowledge Panel in around 1 Month.
+It was easier than I expected tbh but let's begin.
+
+1. I had a Domain that already had a DA 20-60 (ahref 20 - MOZ 60). On this website i placed the Schema MetaData for my Name, Social Profiles, and anything relevant to the Knowledge Panel.
+2. I created a Wikidata account. I edited some Posts (Filled in some Statistics or whatever) to get the "AutoApprove" Handle on there.
+3. Then I created a Wikidata Page about myself also linking to the Social Media accounts and the Website
+4. I went on expired domains and bought a domain that already was linked to another Knowledge Panel (Sort by Wikipedia Backlinks so you can find them easily) and linked from that Page to mine.
+
+I talked to a guy who also tried this but because he did not have the AutoApprove Status on WikiData he lost his Wikidata Page and his Panel as well.
+
+But the Panel that I got on Google did not Display anything (Socials / Pictures) it just said my Name.
+I have a very Unique Name (Artist Name) so there is no competition on that Panel. If i were to type out my Full Name i do not think the Panel would show up.
+
+So what I did to get Pictures in there is this:
+- I had an Article about myself on a Trusted News Station and "Requested an edit" for the Panel.
+I linked to the Article and the Picture they posted with it and they approved. They did not approve previous attempts of pictures from my website or Instagram etc.
+Because the Article also linked to my Website there was proof for me to send to the Knowledge Panel Team to get my Domain and my Socials in there.
+
+I did not yet get a description because most of them are from Wikipedia Articles or IMDB or something. But i heard that some of them are also from Facebook. I just have to try to send it in 100 times to get it approved.
+
+So what I would recommend when you want to edit the Panel:
+Get as much "Proof" as you can from Articles to Websites to Social Accounts and even Wikidata etc. They are 100% more likely to change something
+
+Maybe I was just lucky but it worked for me really fast. At the Start, it disappeared sometimes but after filling out more and more info it stayed.
+
+Let me know if you ever tried to get a Panel and what you struggled with or what you did differently
+2025-04-07 09:42:24,689 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 09:42:24,692 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 09:42:26,801 - INFO - Profile PhantomRoot: Pausing for 34.56 seconds...
+2025-04-07 09:43:01,357 - INFO - Profile PhantomRoot: Resuming...
+2025-04-07 09:43:01,359 - INFO - performing random action
+2025-04-07 09:43:01,360 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:43:01,361 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:43:01,382 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:43:01,472 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:43:01,487 - DEBUG - Text box scrolled into view
+2025-04-07 09:43:02,436 - DEBUG - Initializing actionchains
+2025-04-07 09:43:02,466 - DEBUG - Post reply Element location: {'x': 1087, 'y': 7582}, size: {'height': 21, 'width': 68}
+2025-04-07 09:43:02,466 - DEBUG - Target click coordinates: (1121, 7592)
+2025-04-07 09:43:20,650 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 09:43:20,651 - DEBUG - Moving mouse to text box element.
+2025-04-07 09:43:20,653 - DEBUG - Clicking on the text box.
+2025-04-07 09:43:20,654 - DEBUG - Sending keys with content: Cool guide! Did you try adding yourself to Crunchbase? Might help with the description.
+
+2025-04-07 09:43:26,651 - DEBUG - Clicking on post reply button.
+2025-04-07 09:43:37,668 - DEBUG - Performed Actionchains
+2025-04-07 09:43:37,669 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 09:43:41,670 - INFO - Comment posted successfully.
+2025-04-07 09:43:41,672 - INFO - Task Completed!!
+2025-04-07 09:43:50,860 - INFO - Navigated back to the homepage.
+2025-04-07 09:43:53,440 - INFO - Attempting to clear memory and resources.
+2025-04-07 09:43:53,474 - INFO - Garbage collection completed.
+2025-04-07 09:43:53,476 - INFO - Waiting for 2000 seconds before next execution.

@@ -1,0 +1,109 @@
+2025-04-07 09:33:33,284 - INFO - Current time: 1743998613.284748
+2025-04-07 09:33:33,286 - INFO - Token expiration time: 1744009408.0502346
+2025-04-07 09:33:33,287 - INFO - Token expiration time: 1744009408.0502346
+2025-04-07 09:33:33,288 - INFO - performing random action
+2025-04-07 09:33:33,300 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 09:33:33,301 - DEBUG - Scrolling page 3 times.
+2025-04-07 09:33:33,302 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:40,129 - DEBUG - Page scrolled.
+2025-04-07 09:33:42,131 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:43,610 - DEBUG - Page scrolled.
+2025-04-07 09:33:45,612 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:46,995 - DEBUG - Page scrolled.
+2025-04-07 09:33:48,996 - DEBUG - Random scrolls complete.
+2025-04-07 09:33:48,998 - DEBUG - Scrolling page 4 times.
+2025-04-07 09:33:49,000 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:50,135 - DEBUG - Page scrolled.
+2025-04-07 09:33:52,137 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:53,697 - DEBUG - Page scrolled.
+2025-04-07 09:33:55,697 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:33:57,359 - DEBUG - Page scrolled.
+2025-04-07 09:33:59,361 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:34:00,414 - DEBUG - Page scrolled.
+2025-04-07 09:34:02,419 - DEBUG - Random scrolls complete.
+2025-04-07 09:34:17,387 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-04-07 09:34:22,549 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/reddit-tips-tricks-2025-lets-all-contribute-to-help-each-other-posting-tips-tricks-which-worked-i-will-post-tricks-which-worked-for-me.1702374/unread
+2025-04-07 09:34:22,550 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-07 09:34:22,552 - INFO - Profile BinaryGhost: Window minimized. Pausing for 23.03 seconds...
+2025-04-07 09:34:45,576 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-07 09:34:45,578 - INFO - performing random action
+2025-04-07 09:35:05,006 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/reddit-tips-tricks-2025-lets-all-contribute-to-help-each-other-posting-tips-tricks-which-worked-i-will-post-tricks-which-worked-for-me.1702374/unread
+2025-04-07 09:35:05,009 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/reddit-tips-tricks-2025-lets-all-contribute-to-help-each-other-posting-tips-tricks-which-worked-i-will-post-tricks-which-worked-for-me.1702374/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 09:35:05,040 - INFO - Extracted thread title: Reddit Tips  Tricks 2025 -Lets all contribute to help each other posting tips & Tricks which worked (I will post tricks which worked for me)
+2025-04-07 09:35:05,042 - DEBUG - Scrolling page 4 times.
+2025-04-07 09:35:05,043 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:07,025 - DEBUG - Page scrolled.
+2025-04-07 09:35:09,028 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:10,424 - DEBUG - Page scrolled.
+2025-04-07 09:35:12,426 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:14,160 - DEBUG - Page scrolled.
+2025-04-07 09:35:16,162 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:17,484 - DEBUG - Page scrolled.
+2025-04-07 09:35:19,486 - DEBUG - Random scrolls complete.
+2025-04-07 09:35:22,390 - DEBUG - Scrolling page 2 times.
+2025-04-07 09:35:22,391 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:23,490 - DEBUG - Page scrolled.
+2025-04-07 09:35:26,491 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:35:27,637 - DEBUG - Page scrolled.
+2025-04-07 09:35:30,639 - DEBUG - Random scrolls complete.
+2025-04-07 09:35:30,656 - DEBUG - Found 9 like buttons.
+2025-04-07 09:35:33,657 - INFO - Attempting to like 1 posts. There are 9 available.
+2025-04-07 09:35:34,428 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 09:35:34,457 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 09:35:34,459 - DEBUG - Liked post number 1 of 1.
+2025-04-07 09:35:38,798 - INFO - Liked 1 posts successfully.
+2025-04-07 09:35:38,800 - INFO - Liked 1 posts successfully.
+2025-04-07 09:35:41,178 - INFO - Profile BinaryGhost: Opening random website: https://www.canva.com/en_in/
+2025-04-07 09:36:19,962 - INFO - Profile BinaryGhost: Pausing for 46.76 seconds...
+2025-04-07 09:37:06,722 - INFO - Profile BinaryGhost: Resuming...
+2025-04-07 09:37:06,786 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-07 09:37:06,789 - INFO - performing random action
+2025-04-07 09:37:06,790 - DEBUG - Scrolling page 5 times.
+2025-04-07 09:37:06,790 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:08,372 - DEBUG - Page scrolled.
+2025-04-07 09:37:11,374 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:12,723 - DEBUG - Page scrolled.
+2025-04-07 09:37:15,724 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:17,152 - DEBUG - Page scrolled.
+2025-04-07 09:37:20,155 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:21,848 - DEBUG - Page scrolled.
+2025-04-07 09:37:24,850 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 09:37:26,299 - DEBUG - Page scrolled.
+2025-04-07 09:37:29,301 - DEBUG - Random scrolls complete.
+2025-04-07 09:37:31,866 - DEBUG - Total comments in the thread: 9
+2025-04-07 09:37:43,492 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Reddit Tips  Tricks 2025 -Lets all contribute to help each other posting tips & Tricks which worked (I will post tricks which worked for me).txt
+2025-04-07 09:37:45,674 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 09:37:45,726 - DEBUG - Extracted main post content: Hi Guys as well all know reddit is getting very strict these days and its nearly impossible to run an account without getting banned ,we had to take many extra measures which can save the account. Few things which many people might not know but we know to keep our accounts safe ,so lets all share things which can help others
+
+I will start by Contributing .
+
+1. Posting in Meme / Pets usual karma farming subs -some specific subs can lead to ban ,reddit keeps an eye on high karma farming subs so do your own tests and make a list of subs to avoid (posting in new account or dormant account)
+2025-04-07 09:37:50,445 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 09:37:50,447 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 09:37:53,214 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-07 09:38:03,937 - INFO - Profile BinaryGhost: Pausing for 34.43 seconds...
+2025-04-07 09:38:38,366 - INFO - Profile BinaryGhost: Resuming...
+2025-04-07 09:38:38,383 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-07 09:38:38,388 - INFO - performing random action
+2025-04-07 09:38:38,389 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:38:38,390 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:38:38,416 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:38:38,477 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 09:38:38,484 - DEBUG - Text box scrolled into view
+2025-04-07 09:38:39,481 - DEBUG - Initializing actionchains
+2025-04-07 09:38:39,516 - DEBUG - Post reply Element location: {'x': 1087, 'y': 3735}, size: {'height': 21, 'width': 68}
+2025-04-07 09:38:39,517 - DEBUG - Target click coordinates: (1121, 3745)
+2025-04-07 09:38:50,988 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 09:38:50,989 - DEBUG - Moving mouse to text box element.
+2025-04-07 09:38:50,991 - DEBUG - Clicking on the text box.
+2025-04-07 09:38:50,994 - DEBUG - Sending keys with content: Instead of karma farming subs, try contributing thoughtful comments in niche communities; that shows Reddit you're more than just a bot. What other subreddits are red flags these days?
+
+2025-04-07 09:38:56,156 - DEBUG - Clicking on post reply button.
+2025-04-07 09:39:05,086 - DEBUG - Performed Actionchains
+2025-04-07 09:39:05,087 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 09:39:09,088 - INFO - Comment posted successfully.
+2025-04-07 09:39:09,091 - INFO - Task Completed!!
+2025-04-07 09:39:25,086 - INFO - Navigated back to the homepage.
+2025-04-07 09:39:28,061 - INFO - Attempting to clear memory and resources.
+2025-04-07 09:39:28,100 - INFO - Garbage collection completed.
+2025-04-07 09:39:28,101 - INFO - Waiting for 2000 seconds before next execution.

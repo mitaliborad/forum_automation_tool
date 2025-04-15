@@ -1,0 +1,94 @@
+--- Main Post Title ---
+Which AI tool produces ultra-realistic pictures
+
+Total comments in the thread: 9
+
+Topic User: dvlhr
+Topic: I am looking for one of the paid artificial intelligence tools to create an ai model, it must be ultra-realistic and I must be able to produce consistent models
+Liked by: You, thewhitehorse
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: tompots
+Topic: dvlhr said:
+I am looking for one of the paid artificial intelligence tools to create an ai model, it must be ultra-realistic and I must be able to produce consistent models
+
+try tools like midjourney or dreambooth, for creating ultra realistic, consistent ai models based on your specific needs.
+Liked by: dvlhr
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: joshua3100
+Topic: Take a look at these: Midjourney, Leonardo Ai, DALL·E 3.
+Liked by: dvlhr
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: BFW9000
+Topic: I use Ideogram almost exclusively for my image gen needs. It's excellent and you get like 25 free generations per day.
+Liked by: dvlhr
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: flackz
+Topic: FLUX
+Mystic
+Liked by: dvlhr
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: RichMedusa
+Topic: Try Grok, Midjourney and Stable Diffusion
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: whats_up_doc
+Topic: I think flux, midjourney and stable diffusion are some of the best, oh yeah grok as well
+
+but lately I've played with the latest AI from open ai and it does really well
+
+for example, I gave open ai the first prompt that popped in my mind (simple prompt just: make an image of a cat riding a bike while sniffing cat nip from a jar labeled berserker juice) and this is what I got, with a bit more effort no doubt it will look much better
+Liked by: dvlhr
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: buzzedd
+Topic: flux is the best for this
+Liked by: dvlhr
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ManyHatsSEO
+Topic: Definitely midjourney with the right prompting. GPT's new updated Dall-e is getting really good (again, with the right prompting techniques) Also, I'd tell you to check out imagefx by google. It's in beta in Google Labs. You might have to join a waitlist still. I'm not sure. I doubt most have heard of it but I've been beta testing for google and microsoft in the ai space for around 3 years now. It's been a heck of a ride. Check that one out though. Goodluck.
+Liked by: dvlhr
+Number of likes: 1
+-----
+
+Replies:
+
+

@@ -1,0 +1,210 @@
+--- Main Post Title ---
+Best Form plugin for wordpress?
+
+Total comments in the thread: 20
+
+Topic User: ZeroNight
+Topic: which is the best form for wordpress?
+Liked by: You, Alfa3
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: solidguy_82
+Topic: I am using ninjaforms.
+It works very good in getting all type of fields.
+Liked by: Alfa3, ZeroNight
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: mntnrk
+Topic: I use Gravity Forms, not sure if it's the best, but I like how I can set it up.
+Liked by: ZeroNight
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Athanasios
+Topic: Gravity forms is a good solution!
+Liked by: ZeroNight, mntnrk
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: SEO knights
+Topic: I suggest Jotform, It's really good.
+Liked by: peterzlatan, ZeroNight
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: zaferkabalak
+Topic: Gravity forms.
+Liked by: ZeroNight
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Mxty
+Topic: WPForm is the best in my opinion & easiest to use / premium has some great options and doesn't cost a lot at all.
+Liked by: ZeroNight
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: johnkennedy20
+Topic: I use ninjaforms as its very handy to use and most of the features are free.
+Liked by: Alfa3, ZeroNight
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Mr Positive
+Topic: Mxty said:
+WPForm is the best in my opinion & easiest to use / premium has some great options and doesn't cost a lot at all.
+
+wpform lite is best
+Powerful & High Quality PBN Links, Get Rank Faster With This!
+Clients got their website's income from $50 a month to $2000 with these backlinks.
+Finance & Business backlinks ███████ Discount Available
+Liked by: ZeroNight
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: derek27
+Topic: Gravity forms
+Liked by: ZeroNight
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: etchbee
+Topic: Contact Form 7,
+Liked by: Alfa3, IamNRE, ZeroNight
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: X-Fact
+Topic: Gravity forms
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Biz Idea Lab
+Topic: Gravity Forms.
+
+Without plugin, you can use Google Form. With an embed code, you can put the form on any page or post!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: peterzlatan
+Topic: SEO knights said:
+I suggest Jotform, It's really good.
+its expensive. Jotform has a lot of limits to users that are using it in free plan.
+It limits the number of submission.
+jotform is shit
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: NoSoup4U
+Topic: i embed tally forms
+Liked by: peterzlatan
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: peterzlatan
+Topic: NoSoup4U said:
+i embed tally forms
+its paid or free?
+Liked by: NoSoup4U
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: NoSoup4U
+Topic: peterzlatan said:
+its paid or free?
+Free
+Better than any plugin
+Liked by: peterzlatan
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: peterzlatan
+Topic: NoSoup4U said:
+Free
+Better than any plugin
+In site it looks like they only offer Stripe checkout inside forms.
+They don't accept Paypal checkout as well?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Cipher15
+Topic: Gravity Forms, WPForms, and Contact Form 7 are among the best form plugins for WordPress, offering customization and ease of use.
+Liked by: peterzlatan
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: peterzlatan
+Topic: Cipher15 said:
+Gravity Forms, WPForms, and Contact Form 7 are among the best form plugins for WordPress, offering customization and ease of use.
+Any of those forms offer Paypal Checkout option?
+I can't use Stripe option because they ban be permanently.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

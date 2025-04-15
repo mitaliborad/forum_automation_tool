@@ -1,0 +1,222 @@
+--- Main Post Title ---
+How to I will start auto-blogging ?
+
+Total comments in the thread: 20
+
+Topic User: D_MACROON
+Topic: I want to start auto-blogging, but I have no resources for my planning, please guide me in proper planning I am a newbie user at BHW
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Johaa
+Topic: There are lots of resources on this . But its easy to make a site now a days with chatgpt. There are several service providers that can help you create 1000 articles just one click.
+Liked by: D_MACROON
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: D_MACROON
+Topic: Johaa said:
+There are lots of resources on this . But its easy to make a site now a days with chatgpt. There are several service providers that can help you create 1000 articles just one click.
+thanks for your information
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TechEinstien
+Topic: You can use AI tools to write articles. You can also use WP Automatic Plugin.
+Liked by: D_MACROON
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Orozuz
+Topic: Wordpress
+Domain
+Openai api
+WP Automatic or any other ai content generator plugin
+GSC
+Ezoic
+Liked by: Nikolaos, Hatim ferrel, tazarbm
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: DevWaveJourney
+Topic: D_MACROON said:
+I want to start auto-blogging, but I have no resources for my planning, please guide me in proper planning I am a newbie user at BHW
+You can use ChatGPT, it will help you a lot
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: freepsdvn
+Topic: D_MACROON said:
+I want to start auto-blogging, but I have no resources for my planning, please guide me in proper planning I am a newbie user at BHW
+Same idea, I just deployed a similar page with WP Automatic Plugin and OpenAI API, you can create completely new content, with images, however some content is duplicated because I haven't gone deep yet on keywords, maybe a long-term strategy would be beneficial.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TBR1
+Topic: freepsdvn said:
+Same idea, I just deployed a similar page with WP Automatic Plugin and OpenAI API, you can create completely new content, with images, however some content is duplicated because I haven't gone deep yet on keywords, maybe a long-term strategy would be beneficial.
+Thanks for sharing your experience. Do you have a good tutoriel explaining that ?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: freepsdvn
+Topic: So, let me summarize:
+1. You need a domain name and hosting to install wordpress, it's relatively easy, google is your friend.
+2. A professional looking theme, I often buy from Envato, sometimes on sale for only $19, stable speed, regular updates.
+3. WP Automatic plugin also purchased from Codecanyon.
+4. OpenAI account, you can use the free version with $5 available but after a while you will be limited to images per minute, so it is best to add a $5 fund to remove this limit.
+5. Add the API to your plugin settings, create a keyword list, create a campaign, tweak a few parameters, and you're ready to go.
+I can't mention the website here because I'm worried about forum rules.
+Liked by: zotix, German Rodriguez, tazarbm
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: prodon
+Topic: Use free plans of AI-generated tools such as koala free trial or chatGPT. Test their content on your site. If you will fail you will learn Ofc
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ads studio
+Topic: Use ChatGPT to generate good content for your blog and Grammarly to edit after proofreading.
+GOOGLE ,FACEBOOK,CARDS
+https://t.me/ads_stud
+Skype: live:.cid.46b6a199054ad273
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: MrT131
+Topic: There are multiple ways to create an autoblog. Some people just use ChatGPT and publish the articles manually while others use certain WP plugins for automatic publishing.
+Liked by: D_MACROON
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: flackz
+Topic: ChatGPT is free, yes...
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: flackz
+Topic: TechEinstien said:
+You can use AI tools to write articles. You can also use WP Automatic Plugin.
+
+With only OpenAI text model supported? Is that a joke? OpenAI GPT is not suitable for auto-blogging at all, because of its censorship. You can't use it for auto-blogs in the news niche. Also how you are planning to generated the images without Midjourney? With DALL-E 3? Ha! )
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Nikolaos
+Topic: DevWaveJourney said:
+You can use ChatGPT, it will help you a lot
+Yes chatgpt is the best tool for this job!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Emisesary
+Topic: I think you can use AI tools to write the blog or article.
+
+You can use ChatGpt, wWrdpress plugins
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: MarketMagnet
+Topic: I would suggest you to pick a topic you like, use WordPress, and find tools to auto-post.Check and follow rules for search visibility and think about making money. Keep checking and adjusting as needed for the growth.
+Liked by: D_MACROON
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: H_PARIND
+Topic: First you had better select a uniqe niche then build your website instruct by WordPress auto-blogging and browse others search engine for your help,i'm a newibe but i have some knowledge about auto blogging.
+Liked by: D_MACROON
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: bonzo90
+Topic: There are many auto blog journeys in the im journey section. take a look at their set up and what they are doing. get familiar with some of the tools they are using.
+Liked by: D_MACROON
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Festinger Vault
+Topic: D_MACROON said:
+I want to start auto-blogging, but I have no resources for my planning, please guide me in proper planning I am a newbie user at BHW
+
+You can start auto blogging by using this plugin:
+
+https://codecanyon.net/item/wordpress-automatic-plugin/1904470
+I uploaded the original plugin for free for you.
+https://www.sendspace.com/file/y99tfr
+https://www.virustotal.com/gui/file/52c6d9585783f35c51d1bec17fa0e41850f9df65e852770b5dc6097571e682d2
+Liked by: bojanpeic, D_MACROON
+Number of likes: 2
+-----
+
+Replies:
+
+

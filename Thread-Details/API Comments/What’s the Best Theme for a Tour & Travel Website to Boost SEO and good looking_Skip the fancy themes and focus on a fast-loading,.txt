@@ -1,0 +1,1 @@
+Skip the fancy themes and focus on a fast-loading, mobile-friendly design. Core Web Vitals are key these days; Google cares more about speed than bells and whistles.

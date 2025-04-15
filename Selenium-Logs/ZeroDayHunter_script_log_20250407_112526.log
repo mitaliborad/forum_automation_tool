@@ -1,0 +1,89 @@
+2025-04-07 11:25:26,660 - INFO - Current time: 1744005326.6605191
+2025-04-07 11:25:26,663 - INFO - Token expiration time: 1744009234.7497618
+2025-04-07 11:25:26,665 - INFO - Token expiration time: 1744009234.7497618
+2025-04-07 11:25:26,667 - INFO - performing random action
+2025-04-07 11:25:26,670 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 11:25:26,671 - DEBUG - Scrolling page 2 times.
+2025-04-07 11:25:26,672 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:28,254 - DEBUG - Page scrolled.
+2025-04-07 11:25:30,256 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:31,731 - DEBUG - Page scrolled.
+2025-04-07 11:25:33,733 - DEBUG - Random scrolls complete.
+2025-04-07 11:25:33,736 - DEBUG - Scrolling page 2 times.
+2025-04-07 11:25:33,737 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:35,155 - DEBUG - Page scrolled.
+2025-04-07 11:25:37,156 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:25:38,474 - DEBUG - Page scrolled.
+2025-04-07 11:25:40,475 - DEBUG - Random scrolls complete.
+2025-04-07 11:25:50,796 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-07 11:25:56,166 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-to-buy-a-russian-domain-where-to-go-for-easy-registration.1700240/unread
+2025-04-07 11:25:56,168 - INFO - performing random action
+2025-04-07 11:26:04,865 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-to-buy-a-russian-domain-where-to-go-for-easy-registration.1700240/unread
+2025-04-07 11:26:04,867 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-to-buy-a-russian-domain-where-to-go-for-easy-registration.1700240/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 11:26:04,900 - INFO - Extracted thread title: Need to buy a Russian domain, where to go for easy registration
+2025-04-07 11:26:04,901 - DEBUG - Scrolling page 2 times.
+2025-04-07 11:26:04,902 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:06,109 - DEBUG - Page scrolled.
+2025-04-07 11:26:08,111 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:09,492 - DEBUG - Page scrolled.
+2025-04-07 11:26:11,496 - DEBUG - Random scrolls complete.
+2025-04-07 11:26:13,498 - DEBUG - Scrolling page 3 times.
+2025-04-07 11:26:13,500 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:14,745 - DEBUG - Page scrolled.
+2025-04-07 11:26:17,746 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:19,268 - DEBUG - Page scrolled.
+2025-04-07 11:26:22,269 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:24,243 - DEBUG - Page scrolled.
+2025-04-07 11:26:27,245 - DEBUG - Random scrolls complete.
+2025-04-07 11:26:27,259 - DEBUG - Found 6 like buttons.
+2025-04-07 11:26:30,260 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-04-07 11:26:31,174 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 11:26:31,188 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 11:26:31,189 - DEBUG - Liked post number 1 of 2.
+2025-04-07 11:26:36,471 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 11:26:36,495 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 11:26:36,497 - DEBUG - Liked post number 2 of 2.
+2025-04-07 11:26:40,703 - INFO - Liked 2 posts successfully.
+2025-04-07 11:26:40,705 - INFO - Liked 2 posts successfully.
+2025-04-07 11:26:43,330 - INFO - performing random action
+2025-04-07 11:26:43,332 - DEBUG - Scrolling page 4 times.
+2025-04-07 11:26:43,335 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:44,649 - DEBUG - Page scrolled.
+2025-04-07 11:26:47,651 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:49,473 - DEBUG - Page scrolled.
+2025-04-07 11:26:52,474 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:54,048 - DEBUG - Page scrolled.
+2025-04-07 11:26:57,050 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 11:26:58,180 - DEBUG - Page scrolled.
+2025-04-07 11:27:01,182 - DEBUG - Random scrolls complete.
+2025-04-07 11:27:04,135 - DEBUG - Total comments in the thread: 6
+2025-04-07 11:27:15,181 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need to buy a Russian domain, where to go for easy registration.txt
+2025-04-07 11:27:17,474 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 11:27:17,521 - DEBUG - Extracted main post content: I need to register 2 - 3 but it can't be with a European or US domain registrar!
+
+Anyone able to help out here?
+2025-04-07 11:27:20,915 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 11:27:20,917 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 11:27:23,824 - INFO - performing random action
+2025-04-07 11:27:23,825 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:27:23,826 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:27:23,840 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:27:23,884 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 11:27:23,895 - DEBUG - Text box scrolled into view
+2025-04-07 11:27:24,639 - DEBUG - Initializing actionchains
+2025-04-07 11:27:24,666 - DEBUG - Post reply Element location: {'x': 1087, 'y': 2992}, size: {'height': 21, 'width': 68}
+2025-04-07 11:27:24,667 - DEBUG - Target click coordinates: (1121, 3002)
+2025-04-07 11:27:34,285 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 11:27:34,288 - DEBUG - Moving mouse to text box element.
+2025-04-07 11:27:34,289 - DEBUG - Clicking on the text box.
+2025-04-07 11:27:34,290 - DEBUG - Sending keys with content: Namecheap's good, but yeah, they're US-based. Have you looked into any registrars in Singapore or maybe even Brazil? Might be worth a shot.
+
+2025-04-07 11:27:39,441 - DEBUG - Clicking on post reply button.
+2025-04-07 11:27:40,819 - DEBUG - Performed Actionchains
+2025-04-07 11:27:40,821 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 11:27:44,824 - INFO - Comment posted successfully.
+2025-04-07 11:27:44,825 - INFO - Task Completed!!
+2025-04-07 11:27:46,006 - INFO - Navigated back to the homepage.
+2025-04-07 11:27:48,696 - INFO - Attempting to clear memory and resources.
+2025-04-07 11:27:48,730 - INFO - Garbage collection completed.
+2025-04-07 11:27:48,732 - INFO - Waiting for 2000 seconds before next execution.

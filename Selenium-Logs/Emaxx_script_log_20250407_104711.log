@@ -1,0 +1,120 @@
+2025-04-07 10:47:11,714 - INFO - Current time: 1744003031.7139788
+2025-04-07 10:47:11,715 - INFO - Token expiration time: 1744009133.223865
+2025-04-07 10:47:11,716 - INFO - Token expiration time: 1744009133.223865
+2025-04-07 10:47:11,717 - INFO - performing random action
+2025-04-07 10:47:11,718 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-07 10:47:11,719 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:47:11,719 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:47:13,507 - DEBUG - Page scrolled.
+2025-04-07 10:47:15,510 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:47:17,529 - DEBUG - Page scrolled.
+2025-04-07 10:47:19,543 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:47:21,020 - DEBUG - Page scrolled.
+2025-04-07 10:47:23,026 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:47:24,502 - DEBUG - Page scrolled.
+2025-04-07 10:47:26,503 - DEBUG - Random scrolls complete.
+2025-04-07 10:47:26,504 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:47:26,505 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:47:28,490 - DEBUG - Page scrolled.
+2025-04-07 10:47:30,492 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:47:32,196 - DEBUG - Page scrolled.
+2025-04-07 10:47:34,197 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:47:35,622 - DEBUG - Page scrolled.
+2025-04-07 10:47:37,625 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:47:38,858 - DEBUG - Page scrolled.
+2025-04-07 10:47:40,860 - DEBUG - Random scrolls complete.
+2025-04-07 10:47:49,169 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-04-07 10:47:53,791 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/suggest-me-more-free-and-unlimited-hosting-platforms.1702243/unread
+2025-04-07 10:47:53,792 - INFO - Profile Emaxx: Opening random website: https://letshyphen.com/
+2025-04-07 10:48:18,372 - INFO - Profile Emaxx: Pausing for 41.55 seconds...
+2025-04-07 10:48:59,928 - INFO - Profile Emaxx: Resuming...
+2025-04-07 10:48:59,956 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-07 10:48:59,956 - INFO - performing random action
+2025-04-07 10:49:09,663 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/suggest-me-more-free-and-unlimited-hosting-platforms.1702243/unread
+2025-04-07 10:49:09,668 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/suggest-me-more-free-and-unlimited-hosting-platforms.1702243/unread' to visited threads file 'Thread_links.txt'.
+2025-04-07 10:49:09,715 - INFO - Extracted thread title: Suggest me more Free and Unlimited Hosting Platforms
+2025-04-07 10:49:09,717 - DEBUG - Scrolling page 3 times.
+2025-04-07 10:49:09,717 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:10,849 - DEBUG - Page scrolled.
+2025-04-07 10:49:12,851 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:13,933 - DEBUG - Page scrolled.
+2025-04-07 10:49:15,936 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:17,053 - DEBUG - Page scrolled.
+2025-04-07 10:49:19,055 - DEBUG - Random scrolls complete.
+2025-04-07 10:49:21,135 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:49:21,138 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:23,145 - DEBUG - Page scrolled.
+2025-04-07 10:49:26,146 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:27,157 - DEBUG - Page scrolled.
+2025-04-07 10:49:30,160 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:31,895 - DEBUG - Page scrolled.
+2025-04-07 10:49:34,897 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:36,056 - DEBUG - Page scrolled.
+2025-04-07 10:49:39,058 - DEBUG - Random scrolls complete.
+2025-04-07 10:49:39,075 - DEBUG - Found 1 like buttons.
+2025-04-07 10:49:42,076 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-07 10:49:42,845 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-07 10:49:42,857 - INFO - Like button clicked successfully using JavaScript.
+2025-04-07 10:49:42,858 - DEBUG - Liked post number 1 of 1.
+2025-04-07 10:49:46,895 - INFO - Liked 1 posts successfully.
+2025-04-07 10:49:46,896 - INFO - Liked 1 posts successfully.
+2025-04-07 10:49:49,652 - INFO - performing random action
+2025-04-07 10:49:49,654 - DEBUG - Scrolling page 4 times.
+2025-04-07 10:49:49,655 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:50,768 - DEBUG - Page scrolled.
+2025-04-07 10:49:53,772 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:54,992 - DEBUG - Page scrolled.
+2025-04-07 10:49:57,996 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:49:59,356 - DEBUG - Page scrolled.
+2025-04-07 10:50:02,360 - DEBUG - Scrolling page by 500 pixels.
+2025-04-07 10:50:04,072 - DEBUG - Page scrolled.
+2025-04-07 10:50:07,076 - DEBUG - Random scrolls complete.
+2025-04-07 10:50:09,960 - DEBUG - Total comments in the thread: 1
+2025-04-07 10:50:10,068 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Suggest me more Free and Unlimited Hosting Platforms.txt
+2025-04-07 10:50:12,774 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-07 10:50:12,806 - DEBUG - Extracted main post content: Hi everyone,
+
+I am currently looking for more free and unlimited video hosting platforms to use for my anime and adult website. I have tried many platforms but encountered limitations such as limited upload methods, limited capacity, limited encoding quality, or videos being deleted if there are no views within a certain period of time.
+
+I am looking for platforms with features such as:
+
+- Unlimited storage, support for many upload methods
+
+- Videos not deleted if there are no views (I have about 10k views per day)
+
+- Stable and smooth streaming speed for viewers
+
+- Free, allows 18+ content
+
+Can anyone share with me some good services that you have used or found good?
+
+I am currently using streamp2p to upload anime content and I find it quite good. but they don't accept 18+ content so i want to find some other free hosting platforms to upload 18+ content.
+
+Please give me some suggestions
+
+Thank you everyone so much!
+2025-04-07 10:50:17,868 - INFO - Successfully generated comments using Gemini API.
+2025-04-07 10:50:17,869 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-07 10:50:20,146 - INFO - performing random action
+2025-04-07 10:50:20,148 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:50:20,151 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:50:20,167 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:50:20,217 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-07 10:50:20,227 - DEBUG - Text box scrolled into view
+2025-04-07 10:50:20,798 - DEBUG - Initializing actionchains
+2025-04-07 10:50:20,857 - DEBUG - Post reply Element location: {'x': 1087, 'y': 1537}, size: {'height': 21, 'width': 68}
+2025-04-07 10:50:20,858 - DEBUG - Target click coordinates: (1121, 1547)
+2025-04-07 10:50:27,276 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-07 10:50:27,278 - DEBUG - Moving mouse to text box element.
+2025-04-07 10:50:27,280 - DEBUG - Clicking on the text box.
+2025-04-07 10:50:27,285 - DEBUG - Sending keys with content: Honestly, free and unlimited *and* stable for 18+ content is a tough ask. Have you looked into self-hosting with a CDN? Might be cheaper than you think and you'd be in control.
+
+2025-04-07 10:50:32,601 - DEBUG - Clicking on post reply button.
+2025-04-07 10:50:43,834 - DEBUG - Performed Actionchains
+2025-04-07 10:50:43,835 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-07 10:50:47,836 - INFO - Comment posted successfully.
+2025-04-07 10:50:47,837 - INFO - Task Completed!!
+2025-04-07 10:50:57,416 - INFO - Navigated back to the homepage.
+2025-04-07 10:50:59,574 - INFO - Attempting to clear memory and resources.
+2025-04-07 10:50:59,625 - INFO - Garbage collection completed.
+2025-04-07 10:50:59,626 - INFO - Waiting for 2000 seconds before next execution.
