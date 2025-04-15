@@ -1,0 +1,15 @@
+2025-04-15 15:15:40,719 - INFO - Starting automation for profile: DataPhreak
+2025-04-15 15:15:40,720 - DEBUG - Signin payload (excluding password hash): {'email': 'armanmishra1115@gmail.com'}
+2025-04-15 15:15:41,894 - DEBUG - Signin response status code: 200
+2025-04-15 15:15:41,895 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-15 15:15:41,896 - DEBUG - Received 'expires_in': 10800 seconds from MultiLogin API.
+2025-04-15 15:15:41,896 - INFO - Calculated token expiration time: 1744721141.8967834
+2025-04-15 15:15:41,898 - DEBUG - Calculated token expiration time: 1744721141.8967834
+2025-04-15 15:15:41,899 - INFO - Profile DataPhreak: Successfully logged in.
+2025-04-15 15:15:41,901 - DEBUG - Profile DataPhreak: Successfully logged in.
+2025-04-15 15:15:41,902 - INFO - Profile DataPhreak: Starting profile 54a81ba0-2713-4c85-bdc6-78e91dee21ab...
+2025-04-15 15:15:41,904 - DEBUG - Attempting to start profile via URL: https://launcher.mlx.yt:45001/api/v1/profile/f/2895cd9a-0e5f-44bc-a1f5-344a8d81baaa/p/54a81ba0-2713-4c85-bdc6-78e91dee21ab/start?automation_type=selenium
+2025-04-15 15:15:46,198 - INFO - Profile DataPhreak: Extracted port: 60844
+2025-04-15 15:15:46,200 - DEBUG - Profile DataPhreak: Extracted port: 60844
+2025-04-15 15:15:46,856 - INFO - Profile DataPhreak: Started on port 60844.
+2025-04-15 15:15:46,856 - DEBUG - Profile DataPhreak: Started on port 60844.

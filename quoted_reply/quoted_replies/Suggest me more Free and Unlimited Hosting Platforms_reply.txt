@@ -1,0 +1,36 @@
+
+
+** Thread Title : ** 
+ Suggest me more Free and Unlimited Hosting Platforms
+
+
+** Original Thread Content: ** 
+ Hi everyone,
+
+I am currently looking for more free and unlimited video hosting platforms to use for my anime and adult website. I have tried many platforms but encountered limitations such as limited upload methods, limited capacity, limited encoding quality, or videos being deleted if there are no views within a certain period of time.
+
+I am looking for platforms with features such as:
+
+- Unlimited storage, support for many upload methods
+
+- Videos not deleted if there are no views (I have about 10k views per day)
+
+- Stable and smooth streaming speed for viewers
+
+- Free, allows 18+ content
+
+Can anyone share with me some good services that you have used or found good?
+
+I am currently using streamp2p to upload anime content and I find it quite good. but they don't accept 18+ content so i want to find some other free hosting platforms to upload 18+ content.
+
+Please give me some suggestions
+
+Thank you everyone so much!
+
+
+** My Previous Comment: ** 
+ Honestly, free and unlimited *and* stable for 18+ content is a tough ask. Have you looked into self-hosting with a CDN? Might be cheaper than you think and you'd be in control.
+
+
+** Quoted Comment: ** 
+ I asked upnshare's customer service department and tried it out. I didn't see any storage limitations and since the trial until now I haven't lost any money.

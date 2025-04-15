@@ -1,0 +1,88 @@
+2025-04-15 15:06:25,417 - INFO - Starting automation for profile: DataPhreak
+2025-04-15 15:06:25,418 - DEBUG - Signin payload (excluding password hash): {'email': 'armanmishra1115@gmail.com'}
+2025-04-15 15:06:26,323 - DEBUG - Signin response status code: 200
+2025-04-15 15:06:26,324 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-15 15:06:26,325 - DEBUG - Received 'expires_in': 10800 seconds from MultiLogin API.
+2025-04-15 15:06:26,325 - INFO - Calculated token expiration time: 1744720586.3253217
+2025-04-15 15:06:26,325 - DEBUG - Calculated token expiration time: 1744720586.3253217
+2025-04-15 15:06:26,326 - INFO - Profile DataPhreak: Successfully logged in.
+2025-04-15 15:06:26,327 - DEBUG - Profile DataPhreak: Successfully logged in.
+2025-04-15 15:06:26,328 - INFO - Profile DataPhreak: Starting profile 54a81ba0-2713-4c85-bdc6-78e91dee21ab...
+2025-04-15 15:06:26,328 - DEBUG - Attempting to start profile via URL: https://launcher.mlx.yt:45001/api/v1/profile/f/2895cd9a-0e5f-44bc-a1f5-344a8d81baaa/p/54a81ba0-2713-4c85-bdc6-78e91dee21ab/start?automation_type=selenium
+2025-04-15 15:06:32,589 - INFO - Profile DataPhreak: Extracted port: 59805
+2025-04-15 15:06:32,590 - DEBUG - Profile DataPhreak: Extracted port: 59805
+2025-04-15 15:06:32,666 - INFO - Profile DataPhreak: Started on port 59805.
+2025-04-15 15:06:32,666 - DEBUG - Profile DataPhreak: Started on port 59805.
+2025-04-15 15:06:42,351 - INFO - Profile DataPhreak: Navigated to https://www.blackhatworld.com/
+2025-04-15 15:06:42,357 - DEBUG - Profile DataPhreak: Navigated to https://www.blackhatworld.com/
+2025-04-15 15:06:45,684 - INFO - Profile DataPhreak: Clicked on alert button.
+2025-04-15 15:06:45,685 - DEBUG - Profile DataPhreak: Clicked on alert button.
+2025-04-15 15:06:48,800 - INFO - Profile DataPhreak: Clicked on 'Show all' link.
+2025-04-15 15:06:48,800 - DEBUG - Profile DataPhreak: Clicked on 'Show all' link.
+2025-04-15 15:06:50,411 - DEBUG - Scrolling attempt 1/15
+2025-04-15 15:06:50,426 - DEBUG - Found 1 potential alert list items on this view.
+2025-04-15 15:06:50,471 - DEBUG - Found quote alert: Title='Sell PDF ebooks/reports for cash daily.', Link='https://www.blackhatworld.com/posts/19134464/'
+2025-04-15 15:06:50,471 - INFO - Added 1 new unique quote alerts in this scroll.
+2025-04-15 15:06:50,472 - DEBUG - Added 1 new unique quote alerts in this scroll.
+2025-04-15 15:06:52,007 - DEBUG - Scrolling attempt 2/15
+2025-04-15 15:06:52,027 - DEBUG - Found 1 potential alert list items on this view.
+2025-04-15 15:06:52,061 - INFO - Added 0 new unique quote alerts in this scroll.
+2025-04-15 15:06:52,061 - DEBUG - Added 0 new unique quote alerts in this scroll.
+2025-04-15 15:06:53,582 - INFO - Profile DataPhreak: Reached end of scroll (height didn't change).
+2025-04-15 15:06:53,583 - DEBUG - Profile DataPhreak: Reached end of scroll (height didn't change).
+2025-04-15 15:06:53,584 - INFO - Profile DataPhreak: Saved 1 unique quoted comments to DataPhreak_quoted_reply_list.txt
+2025-04-15 15:06:53,586 - DEBUG - Profile DataPhreak: Saved 1 unique quoted comments to DataPhreak_quoted_reply_list.txt
+2025-04-15 15:06:57,048 - INFO - Profile DataPhreak: Selected comment - Sell PDF ebooks/reports for cash daily.
+2025-04-15 15:06:57,049 - DEBUG - Profile DataPhreak: Selected comment - Sell PDF ebooks/reports for cash daily.
+2025-04-15 15:07:05,911 - INFO - Quoted comment extracted: Good idea. I mentioned money dropcards, like this:  https://www.realisticdropcard.com/ , to promote your digital products, your website, email list..etc. A QR code on one of those dropcards, or in a direct mail campaign where you're mailing out postcards or a flyer, could work. There are many ways to market your PDF reports or ebooks. Edward Fox said: That’s an interesting method, especially if the content provides real value. I’m curious — are you selling through your own landing pages, or using platforms like Gumroad or Payhip? Also, how do you usually drive traffic to your offers — organic, paid, or social media? Click to expand... I use all of those methods to market my PDF reports. The PDF report that I sell or sometimes even give away, is the gateway, to my other products, that I am affiliated with. On the PDF report, you're going to have links to your affiliate products, to other digital products that you've produced (other reports), to your landing page, login page for the report's website (You can create a subdomain for each report and ebook that you publish). In the content of your PDF, you can have links to videos that you're hosting on your server or domain. You can get a VPS server for as low as $15 monthly. The video/s that you link to from your report or ebook, don't require the reader to create an account on the website/resource center/forum/chat/community, that you've set up, but they're invited to do it, and you have a few banner ads at the footer of the page where the video is embeded. People that are misinformed, think that information products, including PDF reports or ebooks aren't profitable anymore. They think that's "2010" ..."That's so 2008"...But no, it's still a viable, effective way to make money, even today in 2025, you just have to make it as valuable as possible, by connecting other resources to it, like videos, PW protected resource center..etc. You create a community around the report..etc.
+2025-04-15 15:07:05,914 - INFO - Profile DataPhreak: Extracted details saved to quoted_replies\Sell PDF ebooks_reports for cash daily._reply.txt
+2025-04-15 15:07:05,914 - DEBUG - Profile DataPhreak: Extracted details saved to quoted_replies\Sell PDF ebooks_reports for cash daily._reply.txt
+2025-04-15 15:07:05,936 - INFO - Extracted thread title: Sell PDF ebooksreports for cash daily.
+2025-04-15 15:07:05,936 - DEBUG - Extracted thread title: Sell PDF ebooksreports for cash daily.
+2025-04-15 15:07:05,937 - INFO - thread title found
+2025-04-15 15:07:05,937 - DEBUG - thread title found
+2025-04-15 15:07:05,998 - DEBUG - Total comments in the thread: 5
+2025-04-15 15:07:37,495 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Sell PDF ebooksreports for cash daily..txt
+2025-04-15 15:07:37,496 - DEBUG - Post content extracted and saved to Thread-Details/Thread Content\Sell PDF ebooksreports for cash daily..txt
+2025-04-15 15:07:42,977 - INFO - API Generated Reply: Yeah, dropcards could be cool, hadn't thought of that! Making the PDF a hub with video links is a smart way to keep people engaged, I think.
+2025-04-15 15:07:42,979 - DEBUG - API Generated Reply: Yeah, dropcards could be cool, hadn't thought of that! Making the PDF a hub with video links is a smart way to keep people engaged, I think.
+2025-04-15 15:07:42,980 - INFO - API generated comment saved to API_Generated_Replies\Sell PDF ebooks_reports for cash daily._Yeah, dropcards could be cool, hadn't thought of t.txt
+2025-04-15 15:07:42,981 - DEBUG - API generated comment saved to API_Generated_Replies\Sell PDF ebooks_reports for cash daily._Yeah, dropcards could be cool, hadn't thought of t.txt
+2025-04-15 15:07:46,287 - INFO - Found the article containing the quoted comment for 'DataPhreak'.
+2025-04-15 15:07:46,287 - DEBUG - Found the article containing the quoted comment for 'DataPhreak'.
+2025-04-15 15:07:47,374 - INFO - Profile DataPhreak: Found reply/quote button within the specific post.
+2025-04-15 15:07:47,375 - DEBUG - Profile DataPhreak: Found reply/quote button within the specific post.
+2025-04-15 15:07:47,444 - INFO - Profile DataPhreak: Clicked reply/quote button using JavaScript.
+2025-04-15 15:07:47,444 - DEBUG - Profile DataPhreak: Clicked reply/quote button using JavaScript.
+2025-04-15 15:07:51,358 - DEBUG - Waiting for comment editor (('xpath', "//form[@method='post']//div[@contenteditable='true' and @aria-disabled='false' and @spellcheck='true']"))...
+2025-04-15 15:07:51,393 - INFO - Comment editor is present and contains a blockquote.
+2025-04-15 15:07:51,394 - DEBUG - Comment editor is present and contains a blockquote.
+2025-04-15 15:07:53,258 - INFO - Attempting to insert reply using JavaScript insertAdjacentHTML.
+2025-04-15 15:07:53,259 - DEBUG - Attempting to insert reply using JavaScript insertAdjacentHTML.
+2025-04-15 15:07:53,277 - INFO - Inserted API generated reply using JavaScript after the blockquote.
+2025-04-15 15:07:53,278 - DEBUG - Inserted API generated reply using JavaScript after the blockquote.
+2025-04-15 15:07:55,515 - DEBUG - Post reply Element location: {'x': 1089, 'y': 3122}, size: {'height': 21, 'width': 68}
+2025-04-15 15:07:55,516 - DEBUG - Target click coordinates: (1123, 3132)
+2025-04-15 15:08:05,402 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-15 15:08:05,403 - DEBUG - Moving mouse to text box element.
+2025-04-15 15:08:05,403 - INFO - Found 'Post reply' button.
+2025-04-15 15:08:05,403 - DEBUG - Found 'Post reply' button.
+2025-04-15 15:08:05,989 - INFO - Clicked 'Post reply' button using JavaScript.
+2025-04-15 15:08:05,989 - DEBUG - Clicked 'Post reply' button using JavaScript.
+2025-04-15 15:08:31,143 - WARNING - Editor did not become stale. Reply might have posted, but confirmation failed. Check the thread manually.
+2025-04-15 15:08:38,336 - INFO - Profile DataPhreak: Navigated back to homepage.
+2025-04-15 15:08:38,337 - DEBUG - Profile DataPhreak: Navigated back to homepage.
+2025-04-15 15:08:45,213 - INFO - Profile DataPhreak: Attempting to stop (Attempt 1/3)...
+2025-04-15 15:08:45,214 - DEBUG - Profile DataPhreak: Attempting to stop (Attempt 1/3)...
+2025-04-15 15:08:45,223 - INFO - Profile DataPhreak: Browser closed successfully in 0.01 seconds.
+2025-04-15 15:08:45,224 - DEBUG - Profile DataPhreak: Browser closed successfully in 0.01 seconds.
+2025-04-15 15:08:51,650 - INFO - Profile DataPhreak: API call took 6.42 seconds.
+2025-04-15 15:08:51,651 - DEBUG - Profile DataPhreak: API call took 6.42 seconds.
+2025-04-15 15:08:51,652 - INFO - Profile DataPhreak: Stopped successfully.
+2025-04-15 15:08:51,653 - DEBUG - Profile DataPhreak: Stopped successfully.
+2025-04-15 15:08:51,655 - INFO - Profile DataPhreak: Finished processing.
+2025-04-15 15:08:51,656 - DEBUG - Profile DataPhreak: Finished processing.
+2025-04-15 15:08:51,657 - INFO - Attempting to clear memory and resources.
+2025-04-15 15:08:51,659 - DEBUG - Attempting to clear memory and resources.
+2025-04-15 15:08:51,701 - INFO - Garbage collection completed.
+2025-04-15 15:08:51,701 - DEBUG - Garbage collection completed.

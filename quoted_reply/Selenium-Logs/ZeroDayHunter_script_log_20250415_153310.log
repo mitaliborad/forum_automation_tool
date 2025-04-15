@@ -1,0 +1,88 @@
+2025-04-15 15:33:10,801 - INFO - Starting automation for profile: ZeroDayHunter
+2025-04-15 15:33:10,801 - DEBUG - Signin payload (excluding password hash): {'email': 'armanmishra1115@gmail.com'}
+2025-04-15 15:33:12,250 - DEBUG - Signin response status code: 200
+2025-04-15 15:33:12,250 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-15 15:33:12,252 - DEBUG - Received 'expires_in': 10800 seconds from MultiLogin API.
+2025-04-15 15:33:12,252 - INFO - Calculated token expiration time: 1744722192.2525847
+2025-04-15 15:33:12,253 - DEBUG - Calculated token expiration time: 1744722192.2525847
+2025-04-15 15:33:12,253 - INFO - Profile ZeroDayHunter: Successfully logged in.
+2025-04-15 15:33:12,255 - DEBUG - Profile ZeroDayHunter: Successfully logged in.
+2025-04-15 15:33:12,256 - INFO - Profile ZeroDayHunter: Starting profile e70a0144-441c-40ec-92fc-84a43bc03e6a...
+2025-04-15 15:33:12,257 - DEBUG - Attempting to start profile via URL: https://launcher.mlx.yt:45001/api/v1/profile/f/2895cd9a-0e5f-44bc-a1f5-344a8d81baaa/p/e70a0144-441c-40ec-92fc-84a43bc03e6a/start?automation_type=selenium
+2025-04-15 15:33:18,432 - INFO - Profile ZeroDayHunter: Extracted port: 62921
+2025-04-15 15:33:18,433 - DEBUG - Profile ZeroDayHunter: Extracted port: 62921
+2025-04-15 15:33:18,811 - INFO - Profile ZeroDayHunter: Started on port 62921.
+2025-04-15 15:33:18,811 - DEBUG - Profile ZeroDayHunter: Started on port 62921.
+2025-04-15 15:33:25,681 - INFO - Profile ZeroDayHunter: Navigated to https://www.blackhatworld.com/
+2025-04-15 15:33:25,685 - DEBUG - Profile ZeroDayHunter: Navigated to https://www.blackhatworld.com/
+2025-04-15 15:33:29,541 - INFO - Profile ZeroDayHunter: Clicked on alert button.
+2025-04-15 15:33:29,542 - DEBUG - Profile ZeroDayHunter: Clicked on alert button.
+2025-04-15 15:33:33,551 - INFO - Profile ZeroDayHunter: Clicked on 'Show all' link.
+2025-04-15 15:33:33,552 - DEBUG - Profile ZeroDayHunter: Clicked on 'Show all' link.
+2025-04-15 15:33:35,527 - DEBUG - Scrolling attempt 1/15
+2025-04-15 15:33:35,554 - DEBUG - Found 1 potential alert list items on this view.
+2025-04-15 15:33:35,592 - DEBUG - Found quote alert: Title='TikTok cloaking', Link='https://www.blackhatworld.com/posts/19122705/'
+2025-04-15 15:33:35,592 - INFO - Added 1 new unique quote alerts in this scroll.
+2025-04-15 15:33:35,593 - DEBUG - Added 1 new unique quote alerts in this scroll.
+2025-04-15 15:33:37,121 - DEBUG - Scrolling attempt 2/15
+2025-04-15 15:33:37,130 - DEBUG - Found 1 potential alert list items on this view.
+2025-04-15 15:33:37,157 - INFO - Added 0 new unique quote alerts in this scroll.
+2025-04-15 15:33:37,158 - DEBUG - Added 0 new unique quote alerts in this scroll.
+2025-04-15 15:33:38,679 - INFO - Profile ZeroDayHunter: Reached end of scroll (height didn't change).
+2025-04-15 15:33:38,680 - DEBUG - Profile ZeroDayHunter: Reached end of scroll (height didn't change).
+2025-04-15 15:33:38,682 - INFO - Profile ZeroDayHunter: Saved 1 unique quoted comments to ZeroDayHunter_quoted_reply_list.txt
+2025-04-15 15:33:38,684 - DEBUG - Profile ZeroDayHunter: Saved 1 unique quoted comments to ZeroDayHunter_quoted_reply_list.txt
+2025-04-15 15:33:42,179 - INFO - Profile ZeroDayHunter: Selected comment - TikTok cloaking
+2025-04-15 15:33:42,180 - DEBUG - Profile ZeroDayHunter: Selected comment - TikTok cloaking
+2025-04-15 15:33:54,681 - INFO - Quoted comment extracted: People have been using cloaking methods for years and I don't see any problems.
+2025-04-15 15:33:54,682 - INFO - Profile ZeroDayHunter: Extracted details saved to quoted_replies\TikTok cloaking_reply.txt
+2025-04-15 15:33:54,683 - DEBUG - Profile ZeroDayHunter: Extracted details saved to quoted_replies\TikTok cloaking_reply.txt
+2025-04-15 15:33:54,702 - INFO - Extracted thread title: TikTok cloaking
+2025-04-15 15:33:54,702 - DEBUG - Extracted thread title: TikTok cloaking
+2025-04-15 15:33:54,702 - INFO - thread title found
+2025-04-15 15:33:54,703 - DEBUG - thread title found
+2025-04-15 15:33:54,775 - DEBUG - Total comments in the thread: 12
+2025-04-15 15:35:39,110 - INFO - Post content extracted and saved to Thread-Details/Thread Content\TikTok cloaking.txt
+2025-04-15 15:35:39,111 - DEBUG - Post content extracted and saved to Thread-Details/Thread Content\TikTok cloaking.txt
+2025-04-15 15:35:44,044 - INFO - API Generated Reply: Yeah, but just because people *have* been doing it doesn't make it a good idea, or mean it'll work forever. Platforms usually catch on eventually, right?
+2025-04-15 15:35:44,046 - DEBUG - API Generated Reply: Yeah, but just because people *have* been doing it doesn't make it a good idea, or mean it'll work forever. Platforms usually catch on eventually, right?
+2025-04-15 15:35:44,047 - INFO - API generated comment saved to API_Generated_Replies\TikTok cloaking_Yeah, but just because people _have_ been doing it.txt
+2025-04-15 15:35:44,048 - DEBUG - API generated comment saved to API_Generated_Replies\TikTok cloaking_Yeah, but just because people _have_ been doing it.txt
+2025-04-15 15:35:47,724 - INFO - Found the article containing the quoted comment for 'ZeroDayHunter'.
+2025-04-15 15:35:47,725 - DEBUG - Found the article containing the quoted comment for 'ZeroDayHunter'.
+2025-04-15 15:35:48,289 - INFO - Profile ZeroDayHunter: Found reply/quote button within the specific post.
+2025-04-15 15:35:48,289 - DEBUG - Profile ZeroDayHunter: Found reply/quote button within the specific post.
+2025-04-15 15:35:48,312 - INFO - Profile ZeroDayHunter: Clicked reply/quote button using JavaScript.
+2025-04-15 15:35:48,313 - DEBUG - Profile ZeroDayHunter: Clicked reply/quote button using JavaScript.
+2025-04-15 15:35:51,916 - DEBUG - Waiting for comment editor (('xpath', "//form[@method='post']//div[@contenteditable='true' and @aria-disabled='false' and @spellcheck='true']"))...
+2025-04-15 15:35:51,970 - INFO - Comment editor is present and contains a blockquote.
+2025-04-15 15:35:51,971 - DEBUG - Comment editor is present and contains a blockquote.
+2025-04-15 15:35:53,813 - INFO - Attempting to insert reply using JavaScript insertAdjacentHTML.
+2025-04-15 15:35:53,814 - DEBUG - Attempting to insert reply using JavaScript insertAdjacentHTML.
+2025-04-15 15:35:53,860 - INFO - Inserted API generated reply using JavaScript after the blockquote.
+2025-04-15 15:35:53,862 - DEBUG - Inserted API generated reply using JavaScript after the blockquote.
+2025-04-15 15:35:55,531 - DEBUG - Post reply Element location: {'x': 1089, 'y': 4452}, size: {'height': 21, 'width': 68}
+2025-04-15 15:35:55,531 - DEBUG - Target click coordinates: (1123, 4462)
+2025-04-15 15:36:08,542 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-15 15:36:08,543 - DEBUG - Moving mouse to text box element.
+2025-04-15 15:36:08,544 - INFO - Found 'Post reply' button.
+2025-04-15 15:36:08,545 - DEBUG - Found 'Post reply' button.
+2025-04-15 15:36:09,528 - INFO - Clicked 'Post reply' button using JavaScript.
+2025-04-15 15:36:09,528 - DEBUG - Clicked 'Post reply' button using JavaScript.
+2025-04-15 15:36:34,901 - WARNING - Editor did not become stale. Reply might have posted, but confirmation failed. Check the thread manually.
+2025-04-15 15:36:47,789 - INFO - Profile ZeroDayHunter: Navigated back to homepage.
+2025-04-15 15:36:47,790 - DEBUG - Profile ZeroDayHunter: Navigated back to homepage.
+2025-04-15 15:36:55,392 - INFO - Profile ZeroDayHunter: Attempting to stop (Attempt 1/3)...
+2025-04-15 15:36:55,393 - DEBUG - Profile ZeroDayHunter: Attempting to stop (Attempt 1/3)...
+2025-04-15 15:36:55,396 - INFO - Profile ZeroDayHunter: Browser closed successfully in 0.00 seconds.
+2025-04-15 15:36:55,396 - DEBUG - Profile ZeroDayHunter: Browser closed successfully in 0.00 seconds.
+2025-04-15 15:37:00,221 - INFO - Profile ZeroDayHunter: API call took 4.82 seconds.
+2025-04-15 15:37:00,222 - DEBUG - Profile ZeroDayHunter: API call took 4.82 seconds.
+2025-04-15 15:37:00,223 - INFO - Profile ZeroDayHunter: Stopped successfully.
+2025-04-15 15:37:00,224 - DEBUG - Profile ZeroDayHunter: Stopped successfully.
+2025-04-15 15:37:00,226 - INFO - Profile ZeroDayHunter: Finished processing.
+2025-04-15 15:37:00,237 - DEBUG - Profile ZeroDayHunter: Finished processing.
+2025-04-15 15:37:00,244 - INFO - Attempting to clear memory and resources.
+2025-04-15 15:37:00,245 - DEBUG - Attempting to clear memory and resources.
+2025-04-15 15:37:00,299 - INFO - Garbage collection completed.
+2025-04-15 15:37:00,300 - DEBUG - Garbage collection completed.

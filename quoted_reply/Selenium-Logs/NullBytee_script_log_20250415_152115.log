@@ -1,0 +1,89 @@
+2025-04-15 15:21:15,727 - INFO - Starting automation for profile: NullBytee
+2025-04-15 15:21:15,727 - DEBUG - Signin payload (excluding password hash): {'email': 'armanmishra1115@gmail.com'}
+2025-04-15 15:21:16,662 - DEBUG - Signin response status code: 200
+2025-04-15 15:21:16,663 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-15 15:21:16,664 - DEBUG - Received 'expires_in': 10800 seconds from MultiLogin API.
+2025-04-15 15:21:16,665 - INFO - Calculated token expiration time: 1744721476.6649544
+2025-04-15 15:21:16,666 - DEBUG - Calculated token expiration time: 1744721476.6649544
+2025-04-15 15:21:16,666 - INFO - Profile NullBytee: Successfully logged in.
+2025-04-15 15:21:16,670 - DEBUG - Profile NullBytee: Successfully logged in.
+2025-04-15 15:21:16,671 - INFO - Profile NullBytee: Starting profile 33096624-f91e-4137-b999-8508a489375e...
+2025-04-15 15:21:16,673 - DEBUG - Attempting to start profile via URL: https://launcher.mlx.yt:45001/api/v1/profile/f/2895cd9a-0e5f-44bc-a1f5-344a8d81baaa/p/33096624-f91e-4137-b999-8508a489375e/start?automation_type=selenium
+2025-04-15 15:21:21,979 - INFO - Profile NullBytee: Extracted port: 61634
+2025-04-15 15:21:21,980 - DEBUG - Profile NullBytee: Extracted port: 61634
+2025-04-15 15:21:22,617 - INFO - Profile NullBytee: Started on port 61634.
+2025-04-15 15:21:22,617 - DEBUG - Profile NullBytee: Started on port 61634.
+2025-04-15 15:21:28,558 - INFO - Profile NullBytee: Navigated to https://www.blackhatworld.com/
+2025-04-15 15:21:28,559 - DEBUG - Profile NullBytee: Navigated to https://www.blackhatworld.com/
+2025-04-15 15:21:31,935 - INFO - Profile NullBytee: Clicked on alert button.
+2025-04-15 15:21:31,936 - DEBUG - Profile NullBytee: Clicked on alert button.
+2025-04-15 15:21:36,257 - INFO - Profile NullBytee: Clicked on 'Show all' link.
+2025-04-15 15:21:36,261 - DEBUG - Profile NullBytee: Clicked on 'Show all' link.
+2025-04-15 15:21:37,437 - DEBUG - Scrolling attempt 1/15
+2025-04-15 15:21:37,468 - DEBUG - Found 2 potential alert list items on this view.
+2025-04-15 15:21:37,505 - DEBUG - Found quote alert: Title='Expired domains and cold email marketing', Link='https://www.blackhatworld.com/posts/19133004/'
+2025-04-15 15:21:37,530 - DEBUG - Found quote alert: Title='Video generator', Link='https://www.blackhatworld.com/posts/19117594/'
+2025-04-15 15:21:37,531 - INFO - Added 2 new unique quote alerts in this scroll.
+2025-04-15 15:21:37,531 - DEBUG - Added 2 new unique quote alerts in this scroll.
+2025-04-15 15:21:39,058 - DEBUG - Scrolling attempt 2/15
+2025-04-15 15:21:39,079 - DEBUG - Found 2 potential alert list items on this view.
+2025-04-15 15:21:39,148 - INFO - Added 0 new unique quote alerts in this scroll.
+2025-04-15 15:21:39,148 - DEBUG - Added 0 new unique quote alerts in this scroll.
+2025-04-15 15:21:40,670 - INFO - Profile NullBytee: Reached end of scroll (height didn't change).
+2025-04-15 15:21:40,672 - DEBUG - Profile NullBytee: Reached end of scroll (height didn't change).
+2025-04-15 15:21:40,673 - INFO - Profile NullBytee: Saved 2 unique quoted comments to NullBytee_quoted_reply_list.txt
+2025-04-15 15:21:40,674 - DEBUG - Profile NullBytee: Saved 2 unique quoted comments to NullBytee_quoted_reply_list.txt
+2025-04-15 15:21:44,318 - INFO - Profile NullBytee: Selected comment - Video generator
+2025-04-15 15:21:44,320 - DEBUG - Profile NullBytee: Selected comment - Video generator
+2025-04-15 15:21:58,549 - INFO - Quoted comment extracted: I did look some up on pixaby but the thing is with that site spicificly is that everyone can upload anything... And i read some who got striket becouse on pixa it said its royalty-free but in reality it was someones work...
+2025-04-15 15:21:58,551 - INFO - Profile NullBytee: Extracted details saved to quoted_replies\Video generator_reply.txt
+2025-04-15 15:21:58,551 - DEBUG - Profile NullBytee: Extracted details saved to quoted_replies\Video generator_reply.txt
+2025-04-15 15:21:58,570 - INFO - Extracted thread title: Video generator
+2025-04-15 15:21:58,570 - DEBUG - Extracted thread title: Video generator
+2025-04-15 15:21:58,571 - INFO - thread title found
+2025-04-15 15:21:58,571 - DEBUG - thread title found
+2025-04-15 15:21:58,634 - DEBUG - Total comments in the thread: 8
+2025-04-15 15:22:50,512 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Video generator.txt
+2025-04-15 15:22:50,513 - DEBUG - Post content extracted and saved to Thread-Details/Thread Content\Video generator.txt
+2025-04-15 15:22:54,954 - INFO - API Generated Reply: Yeah, that's a totally valid concern about Pixabay. Maybe try Pexels? I think they're a little stricter on submissions, might be worth a look.
+2025-04-15 15:22:54,956 - DEBUG - API Generated Reply: Yeah, that's a totally valid concern about Pixabay. Maybe try Pexels? I think they're a little stricter on submissions, might be worth a look.
+2025-04-15 15:22:54,957 - INFO - API generated comment saved to API_Generated_Replies\Video generator_Yeah, that's a totally valid concern about Pixabay.txt
+2025-04-15 15:22:54,960 - DEBUG - API generated comment saved to API_Generated_Replies\Video generator_Yeah, that's a totally valid concern about Pixabay.txt
+2025-04-15 15:22:58,179 - INFO - Found the article containing the quoted comment for 'NullBytee'.
+2025-04-15 15:22:58,179 - DEBUG - Found the article containing the quoted comment for 'NullBytee'.
+2025-04-15 15:22:59,170 - INFO - Profile NullBytee: Found reply/quote button within the specific post.
+2025-04-15 15:22:59,170 - DEBUG - Profile NullBytee: Found reply/quote button within the specific post.
+2025-04-15 15:22:59,197 - INFO - Profile NullBytee: Clicked reply/quote button using JavaScript.
+2025-04-15 15:22:59,197 - DEBUG - Profile NullBytee: Clicked reply/quote button using JavaScript.
+2025-04-15 15:23:03,036 - DEBUG - Waiting for comment editor (('xpath', "//form[@method='post']//div[@contenteditable='true' and @aria-disabled='false' and @spellcheck='true']"))...
+2025-04-15 15:23:03,073 - INFO - Comment editor is present and contains a blockquote.
+2025-04-15 15:23:03,073 - DEBUG - Comment editor is present and contains a blockquote.
+2025-04-15 15:23:05,561 - INFO - Attempting to insert reply using JavaScript insertAdjacentHTML.
+2025-04-15 15:23:05,562 - DEBUG - Attempting to insert reply using JavaScript insertAdjacentHTML.
+2025-04-15 15:23:05,579 - INFO - Inserted API generated reply using JavaScript after the blockquote.
+2025-04-15 15:23:05,581 - DEBUG - Inserted API generated reply using JavaScript after the blockquote.
+2025-04-15 15:23:07,697 - DEBUG - Post reply Element location: {'x': 1089, 'y': 3174}, size: {'height': 21, 'width': 68}
+2025-04-15 15:23:07,702 - DEBUG - Target click coordinates: (1123, 3184)
+2025-04-15 15:23:18,029 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-15 15:23:18,030 - DEBUG - Moving mouse to text box element.
+2025-04-15 15:23:18,031 - INFO - Found 'Post reply' button.
+2025-04-15 15:23:18,034 - DEBUG - Found 'Post reply' button.
+2025-04-15 15:23:18,587 - INFO - Clicked 'Post reply' button using JavaScript.
+2025-04-15 15:23:18,588 - DEBUG - Clicked 'Post reply' button using JavaScript.
+2025-04-15 15:23:43,631 - WARNING - Editor did not become stale. Reply might have posted, but confirmation failed. Check the thread manually.
+2025-04-15 15:23:51,344 - INFO - Profile NullBytee: Navigated back to homepage.
+2025-04-15 15:23:51,345 - DEBUG - Profile NullBytee: Navigated back to homepage.
+2025-04-15 15:23:58,230 - INFO - Profile NullBytee: Attempting to stop (Attempt 1/3)...
+2025-04-15 15:23:58,231 - DEBUG - Profile NullBytee: Attempting to stop (Attempt 1/3)...
+2025-04-15 15:23:58,236 - INFO - Profile NullBytee: Browser closed successfully in 0.00 seconds.
+2025-04-15 15:23:58,237 - DEBUG - Profile NullBytee: Browser closed successfully in 0.00 seconds.
+2025-04-15 15:24:02,666 - INFO - Profile NullBytee: API call took 4.43 seconds.
+2025-04-15 15:24:02,666 - DEBUG - Profile NullBytee: API call took 4.43 seconds.
+2025-04-15 15:24:02,666 - INFO - Profile NullBytee: Stopped successfully.
+2025-04-15 15:24:02,667 - DEBUG - Profile NullBytee: Stopped successfully.
+2025-04-15 15:24:02,668 - INFO - Profile NullBytee: Finished processing.
+2025-04-15 15:24:02,668 - DEBUG - Profile NullBytee: Finished processing.
+2025-04-15 15:24:02,668 - INFO - Attempting to clear memory and resources.
+2025-04-15 15:24:02,669 - DEBUG - Attempting to clear memory and resources.
+2025-04-15 15:24:02,701 - INFO - Garbage collection completed.
+2025-04-15 15:24:02,701 - DEBUG - Garbage collection completed.

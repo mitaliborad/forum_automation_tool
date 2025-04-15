@@ -30,7 +30,7 @@ API_GENERATED_REPLIES_FOLDER = "API_Generated_Replies"
 PROMPT_FILE = "prompt.txt"
 ALERT_BUTTON_LOCATOR = (By.XPATH, "//div//a[@data-xf-click='menu'][@title='Alerts']")
 SHOW_ALL_LINK_TEXT = (By.LINK_TEXT,"Show all")
-PROFILE = "PixelPirate99" 
+PROFILE = "Emma xx" 
 COMMENT_EDITOR_LOCATOR = (By.XPATH,"//form[@method='post']//div[@contenteditable='true' and @aria-disabled='false' and @spellcheck='true']")
 POST_REPLY_BUTTON_LOCATOR = (By.XPATH,"//span[contains(text(),'Post reply')]")
 SCROLL_AMOUNT = 500

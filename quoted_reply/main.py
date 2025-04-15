@@ -15,8 +15,6 @@ from Quoted_replies_config import (LOG_DIRECTORY)
 from Quoted_replies_function import (
     sanitize_filename,
     setup_folders,
-    scroll_page,
-    find_element_with_scroll,
     get_quoted_comments,
     extract_details_and_save,
     generate_api_comment,

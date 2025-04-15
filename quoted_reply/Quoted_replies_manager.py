@@ -27,55 +27,55 @@ PROFILES = {
         "profile_id": "ece3d7b0-6dd3-4189-94c7-20c2dfa82943",
         "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
     },
-    "DarkCodeX": {
-        "username": "armanmishra1115@gmail.com",
-        "password": "Nik&291411",
-        "folder_id": "fedd6c4d-f3d0-4bcd-8b25-e6ce25559ea8",
-        "profile_id": "d949ef43-c834-44b4-9628-f60bb0c33b77",
-        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    },
-    "ZeroDayHunter":{
-        "username": "armanmishra1115@gmail.com",
-        "password": "Nik&291411",
-        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-        "profile_id": "e70a0144-441c-40ec-92fc-84a43bc03e6a",
-        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    },
-    "BinaryGhost":{
-        "username": "armanmishra1115@gmail.com",
-        "password": "Nik&291411",
-        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-        "profile_id": "8bede9f0-d352-4430-acd5-fd8df8f4a8cb",
-        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    },
-    "NullBytee":{
-        "username": "armanmishra1115@gmail.com",
-        "password": "Nik&291411",
-        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-        "profile_id": "33096624-f91e-4137-b999-8508a489375e",
-        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    },
-    "PhantomRoot":{
-        "username": "armanmishra1115@gmail.com",
-        "password": "Nik&291411",
-        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-        "profile_id": "8c98d4bf-a650-472e-ada8-4f3ae5d61152",
-        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    },
-    "DataPhreak":{
-        "username": "armanmishra1115@gmail.com",
-        "password": "Nik&291411",
-        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-        "profile_id": "54a81ba0-2713-4c85-bdc6-78e91dee21ab",
-        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    },
-    "PixelPirate99":{
-        "username": "armanmishra1115@gmail.com",
-        "password": "Nik&291411",
-        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-        "profile_id": "1038850a-a71c-4c6e-9f86-19b7937ee408",
-        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    }
+    # "DarkCodeX": {
+    #     "username": "armanmishra1115@gmail.com",
+    #     "password": "Nik&291411",
+    #     "folder_id": "fedd6c4d-f3d0-4bcd-8b25-e6ce25559ea8",
+    #     "profile_id": "d949ef43-c834-44b4-9628-f60bb0c33b77",
+    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    # },
+    # "ZeroDayHunter":{
+    #     "username": "armanmishra1115@gmail.com",
+    #     "password": "Nik&291411",
+    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+    #     "profile_id": "e70a0144-441c-40ec-92fc-84a43bc03e6a",
+    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    # },
+    # "BinaryGhost":{
+    #     "username": "armanmishra1115@gmail.com",
+    #     "password": "Nik&291411",
+    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+    #     "profile_id": "8bede9f0-d352-4430-acd5-fd8df8f4a8cb",
+    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    # },
+    # "NullBytee":{
+    #     "username": "armanmishra1115@gmail.com",
+    #     "password": "Nik&291411",
+    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+    #     "profile_id": "33096624-f91e-4137-b999-8508a489375e",
+    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    # },
+    # "PhantomRoot":{
+    #     "username": "armanmishra1115@gmail.com",
+    #     "password": "Nik&291411",
+    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+    #     "profile_id": "8c98d4bf-a650-472e-ada8-4f3ae5d61152",
+    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    # },
+    # "DataPhreak":{
+    #     "username": "armanmishra1115@gmail.com",
+    #     "password": "Nik&291411",
+    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+    #     "profile_id": "54a81ba0-2713-4c85-bdc6-78e91dee21ab",
+    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    # },
+    # "PixelPirate99":{
+    #     "username": "armanmishra1115@gmail.com",
+    #     "password": "Nik&291411",
+    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+    #     "profile_id": "1038850a-a71c-4c6e-9f86-19b7937ee408",
+    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    # }
 }
 
 # --- Configuration Constants ---
