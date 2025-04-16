@@ -1,0 +1,130 @@
+2025-04-16 09:36:37,393 - INFO - Current time: 1744776397.3934784
+2025-04-16 09:36:37,394 - INFO - Token expiration time: 1744787192.016549
+2025-04-16 09:36:37,395 - INFO - Token expiration time: 1744787192.016549
+2025-04-16 09:36:37,396 - INFO - Profile Emaxx: Pausing for 41.78 seconds...
+2025-04-16 09:37:19,177 - INFO - Profile Emaxx: Resuming...
+2025-04-16 09:37:19,179 - INFO - performing random action
+2025-04-16 09:37:19,180 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 09:37:19,180 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:37:19,181 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:19,195 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B35A0A]
+	(No symbol) [0x00007FF740B2590C]
+	(No symbol) [0x00007FF740B255FA]
+	(No symbol) [0x00007FF740B2329A]
+	(No symbol) [0x00007FF740B23C5F]
+	(No symbol) [0x00007FF740B2FC9E]
+	(No symbol) [0x00007FF740B46161]
+	(No symbol) [0x00007FF740B4D10A]
+	(No symbol) [0x00007FF740B243CD]
+	(No symbol) [0x00007FF740B45E95]
+	(No symbol) [0x00007FF740BDF499]
+	(No symbol) [0x00007FF740BB72D3]
+	(No symbol) [0x00007FF740B806F8]
+	(No symbol) [0x00007FF740B81463]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740CBFC14]
+	(No symbol) [0x00007FF740CBFDC2]
+	(No symbol) [0x00007FF740CAEED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 09:42:21,173 - DEBUG - Page scrolled.
+2025-04-16 09:42:23,174 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:24,210 - DEBUG - Page scrolled.
+2025-04-16 09:42:26,211 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:27,720 - DEBUG - Page scrolled.
+2025-04-16 09:42:29,721 - DEBUG - Random scrolls complete.
+2025-04-16 09:42:29,723 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:42:29,724 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:31,319 - DEBUG - Page scrolled.
+2025-04-16 09:42:33,321 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:34,476 - DEBUG - Page scrolled.
+2025-04-16 09:42:36,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:38,295 - DEBUG - Page scrolled.
+2025-04-16 09:42:40,296 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:41,414 - DEBUG - Page scrolled.
+2025-04-16 09:42:43,415 - DEBUG - Random scrolls complete.
+2025-04-16 09:42:53,206 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-16 09:42:56,878 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/whats-the-best-theme-for-a-tour-travel-website-to-boost-seo-and-good-looking.1699920/unread
+2025-04-16 09:42:56,879 - INFO - performing random action
+2025-04-16 09:43:05,741 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/whats-the-best-theme-for-a-tour-travel-website-to-boost-seo-and-good-looking.1699920/unread
+2025-04-16 09:43:05,747 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/whats-the-best-theme-for-a-tour-travel-website-to-boost-seo-and-good-looking.1699920/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 09:43:05,803 - INFO - Extracted thread title: What’s the Best Theme for a Tour & Travel Website to Boost SEO and good looking
+2025-04-16 09:43:05,803 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:43:05,804 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:43:07,394 - DEBUG - Page scrolled.
+2025-04-16 09:43:09,395 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:43:11,098 - DEBUG - Page scrolled.
+2025-04-16 09:43:13,100 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:43:14,793 - DEBUG - Page scrolled.
+2025-04-16 09:43:16,794 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:43:18,301 - DEBUG - Page scrolled.
+2025-04-16 09:43:20,302 - DEBUG - Random scrolls complete.
+2025-04-16 09:43:22,552 - DEBUG - Scrolling page 1 times.
+2025-04-16 09:43:22,555 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:43:23,867 - DEBUG - Page scrolled.
+2025-04-16 09:43:26,869 - DEBUG - Random scrolls complete.
+2025-04-16 09:43:26,912 - DEBUG - Found 3 like buttons.
+2025-04-16 09:43:29,913 - INFO - Attempting to like 2 posts. There are 3 available.
+2025-04-16 09:43:30,786 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:43:30,796 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:43:30,797 - DEBUG - Liked post number 1 of 2.
+2025-04-16 09:43:36,121 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:43:36,142 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:43:36,143 - DEBUG - Liked post number 2 of 2.
+2025-04-16 09:43:40,726 - INFO - Liked 2 posts successfully.
+2025-04-16 09:43:40,728 - INFO - Liked 2 posts successfully.
+2025-04-16 09:43:43,150 - INFO - Profile Emaxx: Restoring window...
+2025-04-16 09:43:45,160 - INFO - performing random action
+2025-04-16 09:43:45,162 - DEBUG - Scrolling page 6 times.
+2025-04-16 09:43:45,164 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:43:46,242 - DEBUG - Page scrolled.
+2025-04-16 09:43:49,243 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:43:50,735 - DEBUG - Page scrolled.
+2025-04-16 09:43:53,736 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:43:55,174 - DEBUG - Page scrolled.
+2025-04-16 09:43:58,176 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:43:59,763 - DEBUG - Page scrolled.
+2025-04-16 09:44:02,765 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:44:03,972 - DEBUG - Page scrolled.
+2025-04-16 09:44:06,974 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:44:08,032 - DEBUG - Page scrolled.
+2025-04-16 09:44:11,034 - DEBUG - Random scrolls complete.
+2025-04-16 09:44:13,935 - DEBUG - Total comments in the thread: 3
+2025-04-16 09:44:24,171 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What’s the Best Theme for a Tour & Travel Website to Boost SEO and good looking.txt
+2025-04-16 09:44:26,505 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 09:44:26,546 - DEBUG - Extracted main post content: I’m working on a website for tours and travel and want to make sure it’s SEO-friendly. What are the best themes that can help improve search rankings and user experience?
+2025-04-16 09:44:30,412 - INFO - Successfully generated comments using Gemini API.
+2025-04-16 09:44:30,415 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-16 09:44:32,500 - INFO - performing random action
+2025-04-16 09:44:32,502 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:44:32,504 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:44:32,532 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:44:32,569 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:44:32,575 - DEBUG - Text box scrolled into view
+2025-04-16 09:44:33,373 - DEBUG - Initializing actionchains
+2025-04-16 09:44:33,413 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1860}, size: {'height': 21, 'width': 68}
+2025-04-16 09:44:33,414 - DEBUG - Target click coordinates: (1267, 1870)
+2025-04-16 09:44:41,042 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-16 09:44:41,044 - DEBUG - Moving mouse to text box element.
+2025-04-16 09:44:41,046 - DEBUG - Clicking on the text box.
+2025-04-16 09:44:41,049 - DEBUG - Sending keys with content: Honestly, most themes are bloated. Focus on solid content and site speed first, then worry about the theme's SEO features.
+
+2025-04-16 09:44:47,020 - DEBUG - Clicking on post reply button.
+2025-04-16 09:44:58,099 - DEBUG - Performed Actionchains
+2025-04-16 09:44:58,100 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-16 09:45:02,102 - INFO - Comment posted successfully.
+2025-04-16 09:45:02,106 - INFO - Task Completed!!
+2025-04-16 09:45:08,442 - INFO - Navigated back to the homepage.
+2025-04-16 09:45:10,763 - INFO - Attempting to clear memory and resources.
+2025-04-16 09:45:10,793 - INFO - Garbage collection completed.
+2025-04-16 09:45:10,794 - INFO - Waiting for 2200 seconds before next execution.

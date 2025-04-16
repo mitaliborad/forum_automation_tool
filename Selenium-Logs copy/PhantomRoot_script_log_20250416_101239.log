@@ -1,0 +1,214 @@
+2025-04-16 10:12:39,677 - INFO - Current time: 1744778559.677571
+2025-04-16 10:12:39,679 - INFO - Token expiration time: 1744786899.588482
+2025-04-16 10:12:39,681 - INFO - Token expiration time: 1744786899.588482
+2025-04-16 10:12:39,683 - INFO - performing random action
+2025-04-16 10:12:39,688 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 10:12:39,690 - DEBUG - Scrolling page 3 times.
+2025-04-16 10:12:39,691 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:41,225 - DEBUG - Page scrolled.
+2025-04-16 10:12:43,226 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:44,490 - DEBUG - Page scrolled.
+2025-04-16 10:12:46,492 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:47,718 - DEBUG - Page scrolled.
+2025-04-16 10:12:49,720 - DEBUG - Random scrolls complete.
+2025-04-16 10:12:49,721 - DEBUG - Scrolling page 4 times.
+2025-04-16 10:12:49,722 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:51,226 - DEBUG - Page scrolled.
+2025-04-16 10:12:53,228 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:54,608 - DEBUG - Page scrolled.
+2025-04-16 10:12:56,611 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:57,841 - DEBUG - Page scrolled.
+2025-04-16 10:12:59,842 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:01,554 - DEBUG - Page scrolled.
+2025-04-16 10:13:03,557 - DEBUG - Random scrolls complete.
+2025-04-16 10:13:14,595 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-04-16 10:13:18,504 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/tiktok-ads-account.1699182/unread
+2025-04-16 10:13:18,504 - INFO - performing random action
+2025-04-16 10:13:33,177 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/tiktok-ads-account.1699182/unread
+2025-04-16 10:13:33,180 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/tiktok-ads-account.1699182/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 10:13:33,237 - INFO - Extracted thread title: Tiktok Ads Account
+2025-04-16 10:13:33,238 - DEBUG - Scrolling page 2 times.
+2025-04-16 10:13:33,239 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:34,749 - DEBUG - Page scrolled.
+2025-04-16 10:13:36,750 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:38,712 - DEBUG - Page scrolled.
+2025-04-16 10:13:40,713 - DEBUG - Random scrolls complete.
+2025-04-16 10:13:43,491 - DEBUG - Scrolling page 3 times.
+2025-04-16 10:13:43,491 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:45,270 - DEBUG - Page scrolled.
+2025-04-16 10:13:48,273 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:49,922 - DEBUG - Page scrolled.
+2025-04-16 10:13:52,923 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:54,890 - DEBUG - Page scrolled.
+2025-04-16 10:13:57,892 - DEBUG - Random scrolls complete.
+2025-04-16 10:13:57,944 - DEBUG - Found 20 like buttons.
+2025-04-16 10:14:00,945 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-16 10:14:01,731 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 10:14:01,743 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 10:14:01,744 - DEBUG - Liked post number 1 of 3.
+2025-04-16 10:14:06,765 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 10:14:06,786 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 10:14:06,788 - DEBUG - Liked post number 2 of 3.
+2025-04-16 10:14:12,123 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 10:14:12,141 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 10:14:12,143 - DEBUG - Liked post number 3 of 3.
+2025-04-16 10:14:16,873 - INFO - Liked 3 posts successfully.
+2025-04-16 10:14:16,874 - INFO - Liked 3 posts successfully.
+2025-04-16 10:14:19,277 - INFO - Profile PhantomRoot: Opening random website: https://www.w3schools.com/
+2025-04-16 10:14:33,966 - INFO - Profile PhantomRoot: Pausing for 34.43 seconds...
+2025-04-16 10:15:08,401 - INFO - Profile PhantomRoot: Resuming...
+2025-04-16 10:15:08,426 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-16 10:15:08,427 - INFO - performing random action
+2025-04-16 10:15:08,427 - DEBUG - Scrolling page 6 times.
+2025-04-16 10:15:08,427 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:10,240 - DEBUG - Page scrolled.
+2025-04-16 10:15:13,242 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:14,376 - DEBUG - Page scrolled.
+2025-04-16 10:15:17,377 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:18,921 - DEBUG - Page scrolled.
+2025-04-16 10:15:21,923 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:23,898 - DEBUG - Page scrolled.
+2025-04-16 10:15:26,900 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:28,177 - DEBUG - Page scrolled.
+2025-04-16 10:15:31,179 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:32,684 - DEBUG - Page scrolled.
+2025-04-16 10:15:35,685 - DEBUG - Random scrolls complete.
+2025-04-16 10:15:38,049 - DEBUG - Total comments in the thread: 20
+2025-04-16 10:15:56,846 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Tiktok Ads Account.txt
+2025-04-16 15:25:08,787 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 15:25:08,789 - WARNING - Could not extract main post content. Error: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 273, in extract_main_post_content
+    main_post_element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located(main_post_locator)
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 137, in until
+    value = method(self._driver)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 110, in _predicate
+    return driver.find_element(*locator)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:15,628 - ERROR - Thread content file 'Thread-Details/API Comments\Tiktok Ads Account_That's a clever workaround. Wonder if they'll patc.txt' not found.
+2025-04-16 15:25:18,392 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-16 15:25:18,394 - ERROR - Profile PhantomRoot: Error opening new tab: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:18,399 - INFO - performing random action
+2025-04-16 15:25:18,399 - WARNING - No comment available to post.
+2025-04-16 15:25:18,400 - INFO - Task Completed!!
+2025-04-16 15:25:18,401 - ERROR - Failed to navigate back to the homepage: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 632, in navigate_home
+    driver.get("https://www.blackhatworld.com/")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:18,416 - INFO - Attempting to clear memory and resources.
+2025-04-16 15:25:18,450 - INFO - Garbage collection completed.
+2025-04-16 15:25:18,462 - INFO - Waiting for 2200 seconds before next execution.

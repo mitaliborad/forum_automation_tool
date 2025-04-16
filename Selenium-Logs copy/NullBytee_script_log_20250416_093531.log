@@ -1,0 +1,129 @@
+2025-04-16 09:35:31,838 - INFO - Current time: 1744776331.8385086
+2025-04-16 09:35:31,840 - INFO - Token expiration time: 1744787125.9127548
+2025-04-16 09:35:31,843 - INFO - Token expiration time: 1744787125.9127548
+2025-04-16 09:35:31,845 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-16 09:35:43,062 - INFO - Profile NullBytee: Pausing for 45.12 seconds...
+2025-04-16 09:36:28,182 - INFO - Profile NullBytee: Resuming...
+2025-04-16 09:36:28,185 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-16 09:36:28,185 - INFO - performing random action
+2025-04-16 09:36:28,186 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 09:36:28,187 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:36:28,187 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:29,657 - DEBUG - Page scrolled.
+2025-04-16 09:36:31,659 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:32,697 - DEBUG - Page scrolled.
+2025-04-16 09:36:34,699 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:36,466 - DEBUG - Page scrolled.
+2025-04-16 09:36:38,467 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:40,047 - DEBUG - Page scrolled.
+2025-04-16 09:36:42,048 - DEBUG - Random scrolls complete.
+2025-04-16 09:36:42,050 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:36:42,051 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:43,991 - DEBUG - Page scrolled.
+2025-04-16 09:36:45,993 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:47,612 - DEBUG - Page scrolled.
+2025-04-16 09:36:49,613 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:51,412 - DEBUG - Page scrolled.
+2025-04-16 09:36:53,415 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:54,622 - DEBUG - Page scrolled.
+2025-04-16 09:36:56,625 - DEBUG - Random scrolls complete.
+2025-04-16 09:37:10,274 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-16 09:37:14,101 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/stripe-veteran-here-let-me-drop-some-knowledge.1674835/unread
+2025-04-16 09:37:14,101 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-16 09:37:17,749 - INFO - Profile NullBytee: Pausing for 31.64 seconds...
+2025-04-16 09:37:49,388 - INFO - Profile NullBytee: Resuming...
+2025-04-16 09:37:49,399 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-16 09:37:49,401 - INFO - performing random action
+2025-04-16 09:38:04,741 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/stripe-veteran-here-let-me-drop-some-knowledge.1674835/unread
+2025-04-16 09:38:04,744 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/stripe-veteran-here-let-me-drop-some-knowledge.1674835/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 09:38:04,797 - INFO - Extracted thread title: STRIPE veteran here - Let Me Drop Some Knowledge
+2025-04-16 09:38:04,798 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:38:04,799 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:38:05,977 - DEBUG - Page scrolled.
+2025-04-16 09:38:07,978 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:38:09,652 - DEBUG - Page scrolled.
+2025-04-16 09:38:11,656 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:38:13,670 - DEBUG - Page scrolled.
+2025-04-16 09:38:15,672 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:38:17,320 - DEBUG - Page scrolled.
+2025-04-16 09:38:19,321 - DEBUG - Random scrolls complete.
+2025-04-16 09:38:21,533 - DEBUG - Scrolling page 2 times.
+2025-04-16 09:38:21,534 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:38:22,808 - DEBUG - Page scrolled.
+2025-04-16 09:38:25,810 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:38:26,970 - DEBUG - Page scrolled.
+2025-04-16 09:38:29,972 - DEBUG - Random scrolls complete.
+2025-04-16 09:38:29,995 - DEBUG - Found 20 like buttons.
+2025-04-16 09:38:32,996 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-16 09:38:33,915 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:38:33,942 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:38:33,943 - DEBUG - Liked post number 1 of 4.
+2025-04-16 09:38:39,477 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:38:39,497 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:38:39,499 - DEBUG - Liked post number 2 of 4.
+2025-04-16 09:38:45,214 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:38:45,235 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:38:45,237 - DEBUG - Liked post number 3 of 4.
+2025-04-16 09:38:50,588 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:38:50,607 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:38:50,609 - DEBUG - Liked post number 4 of 4.
+2025-04-16 09:38:54,804 - INFO - Liked 4 posts successfully.
+2025-04-16 09:38:54,805 - INFO - Liked 4 posts successfully.
+2025-04-16 09:38:57,716 - INFO - Profile NullBytee: Minimizing window...
+2025-04-16 09:38:57,725 - INFO - Profile NullBytee: Window minimized. Pausing for 23.98 seconds...
+2025-04-16 09:39:21,711 - INFO - Profile NullBytee: Resuming after minimize...
+2025-04-16 09:39:21,713 - INFO - performing random action
+2025-04-16 09:39:21,715 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:39:21,716 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:39:22,868 - DEBUG - Page scrolled.
+2025-04-16 09:39:25,869 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:39:27,693 - DEBUG - Page scrolled.
+2025-04-16 09:39:30,696 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:39:32,128 - DEBUG - Page scrolled.
+2025-04-16 09:39:35,130 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:39:36,646 - DEBUG - Page scrolled.
+2025-04-16 09:39:39,648 - DEBUG - Random scrolls complete.
+2025-04-16 09:39:41,791 - DEBUG - Total comments in the thread: 20
+2025-04-16 09:40:54,009 - INFO - Post content extracted and saved to Thread-Details/Thread Content\STRIPE veteran here - Let Me Drop Some Knowledge.txt
+2025-04-16 09:40:56,650 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 09:40:56,696 - DEBUG - Extracted main post content: Been in the Stripe for more than 7 years and seen it all!
+Currently crushing it with multiple accounts.
+The good, the bad, the ugly - I've been through it all and lived to tell the tales!
+
+Got Stripe questions?
+Best useful services for Stripe (cloaking, cb alerts and etc)?
+Stripe for high-risk industries?
+Need some real talk about account setups?
+Wondering about LLC strategies?
+Need tips on what works (and what doesn't)?
+
+Just drop your questions below!
+
+Quick heads up: This is just me sharing knowledge from the trenches. Not selling anything, not offering services - just straight-up free advice from someone who's been there!
+Other Stripe gurus, feel free to jump in with your experiences too!
+Let's help each other navigate the Stripe world!
+2025-04-16 09:41:02,182 - INFO - Successfully generated comments using Gemini API.
+2025-04-16 09:41:02,184 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-16 09:41:05,103 - INFO - performing random action
+2025-04-16 09:41:05,104 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:41:05,105 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:41:05,131 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:41:05,168 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:41:05,174 - DEBUG - Text box scrolled into view
+2025-04-16 09:41:06,149 - DEBUG - Initializing actionchains
+2025-04-16 09:41:06,204 - DEBUG - Post reply Element location: {'x': 929, 'y': 8810}, size: {'height': 21, 'width': 68}
+2025-04-16 09:41:06,205 - DEBUG - Target click coordinates: (963, 8820)
+2025-04-16 09:41:27,722 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-16 09:41:27,723 - DEBUG - Moving mouse to text box element.
+2025-04-16 09:41:27,725 - DEBUG - Clicking on the text box.
+2025-04-16 09:41:27,727 - DEBUG - Sending keys with content: What's the weirdest reason you've ever had an account flagged? I'm curious about the unexpected stuff that throws a wrench in things.
+
+2025-04-16 09:41:32,828 - DEBUG - Clicking on post reply button.
+2025-04-16 09:41:43,889 - DEBUG - Performed Actionchains
+2025-04-16 09:41:43,891 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-16 09:41:47,892 - INFO - Comment posted successfully.
+2025-04-16 09:41:47,894 - INFO - Task Completed!!
+2025-04-16 09:41:58,766 - INFO - Navigated back to the homepage.
+2025-04-16 09:42:01,243 - INFO - Attempting to clear memory and resources.
+2025-04-16 09:42:01,294 - INFO - Garbage collection completed.
+2025-04-16 09:42:01,295 - INFO - Waiting for 2200 seconds before next execution.

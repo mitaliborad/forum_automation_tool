@@ -1,0 +1,133 @@
+2025-04-16 09:29:14,943 - INFO - Current time: 1744775954.9434328
+2025-04-16 09:29:14,945 - INFO - Token expiration time: 1744786749.7696612
+2025-04-16 09:29:14,946 - INFO - Token expiration time: 1744786749.7696612
+2025-04-16 09:29:14,946 - INFO - Profile DataPhreak: Pausing for 31.38 seconds...
+2025-04-16 09:29:46,333 - INFO - Profile DataPhreak: Resuming...
+2025-04-16 09:29:46,335 - INFO - performing random action
+2025-04-16 09:29:46,339 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 09:29:46,341 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:29:46,342 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:46,367 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B35A0A]
+	(No symbol) [0x00007FF740B2590C]
+	(No symbol) [0x00007FF740B255FA]
+	(No symbol) [0x00007FF740B2329A]
+	(No symbol) [0x00007FF740B23C5F]
+	(No symbol) [0x00007FF740B2FC9E]
+	(No symbol) [0x00007FF740B46161]
+	(No symbol) [0x00007FF740B4D10A]
+	(No symbol) [0x00007FF740B243CD]
+	(No symbol) [0x00007FF740B45E95]
+	(No symbol) [0x00007FF740BDF499]
+	(No symbol) [0x00007FF740BB72D3]
+	(No symbol) [0x00007FF740B806F8]
+	(No symbol) [0x00007FF740B81463]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740CBFC14]
+	(No symbol) [0x00007FF740CBFDC2]
+	(No symbol) [0x00007FF740CAEED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 09:34:48,367 - DEBUG - Page scrolled.
+2025-04-16 09:34:50,368 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:51,477 - DEBUG - Page scrolled.
+2025-04-16 09:34:53,480 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:55,132 - DEBUG - Page scrolled.
+2025-04-16 09:34:57,132 - DEBUG - Random scrolls complete.
+2025-04-16 09:34:57,133 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:34:57,134 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:58,993 - DEBUG - Page scrolled.
+2025-04-16 09:35:00,995 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:02,971 - DEBUG - Page scrolled.
+2025-04-16 09:35:04,973 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:06,875 - DEBUG - Page scrolled.
+2025-04-16 09:35:08,876 - DEBUG - Random scrolls complete.
+2025-04-16 09:35:18,221 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-04-16 09:35:21,977 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/possible-to-decrypt-php-7-4-endrypted-with-ioncube-11.1702391/unread
+2025-04-16 09:35:21,978 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-16 09:35:21,979 - INFO - Profile DataPhreak: Window minimized. Pausing for 19.33 seconds...
+2025-04-16 09:35:41,305 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-16 09:35:41,307 - INFO - performing random action
+2025-04-16 09:35:51,087 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/possible-to-decrypt-php-7-4-endrypted-with-ioncube-11.1702391/unread
+2025-04-16 09:35:51,090 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/possible-to-decrypt-php-7-4-endrypted-with-ioncube-11.1702391/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 09:35:51,138 - INFO - Extracted thread title: Possible to decrypt php 7.4 endrypted with Ioncube 11
+2025-04-16 09:35:51,139 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:35:51,139 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:52,551 - DEBUG - Page scrolled.
+2025-04-16 09:35:54,554 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:55,673 - DEBUG - Page scrolled.
+2025-04-16 09:35:57,674 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:59,094 - DEBUG - Page scrolled.
+2025-04-16 09:36:01,098 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:02,110 - DEBUG - Page scrolled.
+2025-04-16 09:36:04,112 - DEBUG - Random scrolls complete.
+2025-04-16 09:36:06,320 - DEBUG - Scrolling page 1 times.
+2025-04-16 09:36:06,321 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:07,608 - DEBUG - Page scrolled.
+2025-04-16 09:36:10,609 - DEBUG - Random scrolls complete.
+2025-04-16 09:36:10,651 - DEBUG - Found 6 like buttons.
+2025-04-16 09:36:13,652 - INFO - Attempting to like 3 posts. There are 6 available.
+2025-04-16 09:36:14,545 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:36:14,568 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:36:14,569 - DEBUG - Liked post number 1 of 3.
+2025-04-16 09:36:19,509 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:36:19,516 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:36:19,516 - DEBUG - Liked post number 2 of 3.
+2025-04-16 09:36:24,915 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:36:24,935 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:36:24,939 - DEBUG - Liked post number 3 of 3.
+2025-04-16 09:36:29,740 - INFO - Liked 3 posts successfully.
+2025-04-16 09:36:29,741 - INFO - Liked 3 posts successfully.
+2025-04-16 09:36:32,018 - INFO - performing random action
+2025-04-16 09:36:32,022 - DEBUG - Scrolling page 5 times.
+2025-04-16 09:36:32,024 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:33,118 - DEBUG - Page scrolled.
+2025-04-16 09:36:36,120 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:38,069 - DEBUG - Page scrolled.
+2025-04-16 09:36:41,070 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:42,286 - DEBUG - Page scrolled.
+2025-04-16 09:36:45,287 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:46,727 - DEBUG - Page scrolled.
+2025-04-16 09:36:49,729 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:36:50,990 - DEBUG - Page scrolled.
+2025-04-16 09:36:53,992 - DEBUG - Random scrolls complete.
+2025-04-16 09:36:56,334 - DEBUG - Total comments in the thread: 6
+2025-04-16 09:37:17,148 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Possible to decrypt php 7.4 endrypted with Ioncube 11.txt
+2025-04-16 09:37:19,612 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 09:37:19,640 - DEBUG - Extracted main post content: Can anyone help please help me decode this file. Dont know if its possible. it says that its php 7.4 on webpage and cryptet with ioncube 11. Any advice?
+Attachments
+Query.zip
+2025-04-16 09:37:25,041 - INFO - Successfully generated comments using Gemini API.
+2025-04-16 09:37:25,044 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-16 09:37:27,452 - INFO - performing random action
+2025-04-16 09:37:27,454 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:37:27,455 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:37:27,492 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:37:27,533 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:37:27,541 - DEBUG - Text box scrolled into view
+2025-04-16 09:37:28,072 - DEBUG - Initializing actionchains
+2025-04-16 09:37:28,120 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2831}, size: {'height': 21, 'width': 68}
+2025-04-16 09:37:28,120 - DEBUG - Target click coordinates: (1267, 2841)
+2025-04-16 09:37:37,847 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-16 09:37:37,848 - DEBUG - Moving mouse to text box element.
+2025-04-16 09:37:37,849 - DEBUG - Clicking on the text box.
+2025-04-16 09:37:37,852 - DEBUG - Sending keys with content: Ioncube 11 is pretty tough to crack, but start by checking if there are any encoded headers or footers; sometimes that gives you a clue. Good luck!
+
+2025-04-16 09:37:43,311 - DEBUG - Clicking on post reply button.
+2025-04-16 09:37:54,280 - DEBUG - Performed Actionchains
+2025-04-16 09:37:54,281 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-16 09:37:58,282 - INFO - Comment posted successfully.
+2025-04-16 09:37:58,285 - INFO - Task Completed!!
+2025-04-16 09:38:05,164 - INFO - Navigated back to the homepage.
+2025-04-16 09:38:07,945 - INFO - Attempting to clear memory and resources.
+2025-04-16 09:38:07,974 - INFO - Garbage collection completed.
+2025-04-16 09:38:07,975 - INFO - Waiting for 2200 seconds before next execution.
