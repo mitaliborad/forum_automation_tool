@@ -1,0 +1,276 @@
+2025-04-16 10:14:47,976 - INFO - Current time: 1744778687.976713
+2025-04-16 10:14:47,977 - INFO - Token expiration time: 1744786749.7696612
+2025-04-16 10:14:47,978 - INFO - Token expiration time: 1744786749.7696612
+2025-04-16 10:14:47,980 - INFO - performing random action
+2025-04-16 10:14:47,980 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 10:14:47,981 - DEBUG - Scrolling page 2 times.
+2025-04-16 10:14:47,981 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:49,103 - DEBUG - Page scrolled.
+2025-04-16 10:14:51,103 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:53,035 - DEBUG - Page scrolled.
+2025-04-16 10:14:55,036 - DEBUG - Random scrolls complete.
+2025-04-16 10:14:55,037 - DEBUG - Scrolling page 3 times.
+2025-04-16 10:14:55,038 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:56,739 - DEBUG - Page scrolled.
+2025-04-16 10:14:58,741 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:00,315 - DEBUG - Page scrolled.
+2025-04-16 10:15:02,316 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:03,446 - DEBUG - Page scrolled.
+2025-04-16 10:15:05,450 - DEBUG - Random scrolls complete.
+2025-04-16 10:15:18,616 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-04-16 10:15:22,304 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/where-can-i-buy-scraped-accounts-from-linkedin.1641218/unread
+2025-04-16 10:15:22,304 - INFO - performing random action
+2025-04-16 10:15:32,055 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/where-can-i-buy-scraped-accounts-from-linkedin.1641218/unread
+2025-04-16 10:15:32,056 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/where-can-i-buy-scraped-accounts-from-linkedin.1641218/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 10:15:32,083 - INFO - Extracted thread title: Where can I buy scraped accounts from Linkedin
+2025-04-16 10:15:32,084 - DEBUG - Scrolling page 4 times.
+2025-04-16 10:15:32,084 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:33,633 - DEBUG - Page scrolled.
+2025-04-16 10:15:35,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:37,321 - DEBUG - Page scrolled.
+2025-04-16 10:15:39,323 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:40,898 - DEBUG - Page scrolled.
+2025-04-16 10:15:42,900 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:44,673 - DEBUG - Page scrolled.
+2025-04-16 10:15:46,675 - DEBUG - Random scrolls complete.
+2025-04-16 10:15:49,150 - DEBUG - Scrolling page 3 times.
+2025-04-16 10:15:49,151 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:50,502 - DEBUG - Page scrolled.
+2025-04-16 10:15:53,503 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:54,667 - DEBUG - Page scrolled.
+2025-04-16 10:15:57,670 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:15:57,674 - WARNING - Scrolling failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B35A0A]
+	(No symbol) [0x00007FF740B24255]
+	(No symbol) [0x00007FF740B46734]
+	(No symbol) [0x00007FF740BBF02F]
+	(No symbol) [0x00007FF740BDEEB2]
+	(No symbol) [0x00007FF740BB72D3]
+	(No symbol) [0x00007FF740B806F8]
+	(No symbol) [0x00007FF740B81463]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740CBFC14]
+	(No symbol) [0x00007FF740CBFDC2]
+	(No symbol) [0x00007FF740CAEED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:08,477 - DEBUG - Page scrolled.
+2025-04-16 15:25:11,477 - DEBUG - Random scrolls complete.
+2025-04-16 15:25:11,479 - WARNING - Error finding like buttons: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 133, in find_like_buttons
+    like_buttons = WebDriverWait(driver, 5).until(
+        EC.presence_of_all_elements_located((By.XPATH, "//bdi[contains(text(), 'Like')]"))
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 137, in until
+    value = method(self._driver)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 306, in _predicate
+    return driver.find_elements(*locator)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 936, in find_elements
+    return self.execute(Command.FIND_ELEMENTS, {"using": by, "value": value})["value"] or []
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:12,769 - INFO - No like buttons found, skipping like_random_posts function...
+2025-04-16 15:25:15,045 - INFO - performing random action
+2025-04-16 15:25:15,045 - DEBUG - Scrolling page 4 times.
+2025-04-16 15:25:15,046 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:15,047 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:16,239 - DEBUG - Page scrolled.
+2025-04-16 15:25:19,240 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:19,244 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:20,740 - DEBUG - Page scrolled.
+2025-04-16 15:25:23,741 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:23,744 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:24,980 - DEBUG - Page scrolled.
+2025-04-16 15:25:27,981 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:27,983 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:29,175 - DEBUG - Page scrolled.
+2025-04-16 15:25:32,178 - DEBUG - Random scrolls complete.
+2025-04-16 15:25:34,217 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Where can I buy scraped accounts from Linkedin.txt
+2025-04-16 15:25:37,199 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 15:25:37,200 - WARNING - Could not extract main post content. Error: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 273, in extract_main_post_content
+    main_post_element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located(main_post_locator)
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 137, in until
+    value = method(self._driver)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 110, in _predicate
+    return driver.find_element(*locator)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+

@@ -1,0 +1,192 @@
+2025-04-16 10:12:23,045 - INFO - Current time: 1744778543.0454857
+2025-04-16 10:12:23,049 - INFO - Token expiration time: 1744786815.429005
+2025-04-16 10:12:23,052 - INFO - Token expiration time: 1744786815.429005
+2025-04-16 10:12:23,053 - INFO - performing random action
+2025-04-16 10:12:23,057 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 10:12:23,059 - DEBUG - Scrolling page 4 times.
+2025-04-16 10:12:23,060 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:24,819 - DEBUG - Page scrolled.
+2025-04-16 10:12:26,821 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:28,138 - DEBUG - Page scrolled.
+2025-04-16 10:12:30,140 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:32,081 - DEBUG - Page scrolled.
+2025-04-16 10:12:34,084 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:35,403 - DEBUG - Page scrolled.
+2025-04-16 10:12:37,404 - DEBUG - Random scrolls complete.
+2025-04-16 10:12:37,406 - DEBUG - Scrolling page 3 times.
+2025-04-16 10:12:37,407 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:38,591 - DEBUG - Page scrolled.
+2025-04-16 10:12:40,592 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:41,661 - DEBUG - Page scrolled.
+2025-04-16 10:12:43,663 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:12:45,258 - DEBUG - Page scrolled.
+2025-04-16 10:12:47,260 - DEBUG - Random scrolls complete.
+2025-04-16 10:12:55,845 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-04-16 10:12:59,751 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/onlyfans-subreddit-getting-around-50-200-subscribers-per-day-to-my-model-free-page-on-onlyfans.1585366/unread
+2025-04-16 10:12:59,752 - INFO - performing random action
+2025-04-16 10:13:09,483 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/onlyfans-subreddit-getting-around-50-200-subscribers-per-day-to-my-model-free-page-on-onlyfans.1585366/unread
+2025-04-16 10:13:09,500 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/onlyfans-subreddit-getting-around-50-200-subscribers-per-day-to-my-model-free-page-on-onlyfans.1585366/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 10:13:09,552 - INFO - Extracted thread title: Onlyfans Subreddit - getting around 50-200 subscribers per day to my model-free page on OnlyFans
+2025-04-16 10:13:09,553 - DEBUG - Scrolling page 3 times.
+2025-04-16 10:13:09,554 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:10,949 - DEBUG - Page scrolled.
+2025-04-16 10:13:12,950 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:14,143 - DEBUG - Page scrolled.
+2025-04-16 10:13:16,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:17,871 - DEBUG - Page scrolled.
+2025-04-16 10:13:19,871 - DEBUG - Random scrolls complete.
+2025-04-16 10:13:22,332 - DEBUG - Scrolling page 3 times.
+2025-04-16 10:13:22,334 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:23,370 - DEBUG - Page scrolled.
+2025-04-16 10:13:26,371 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:27,928 - DEBUG - Page scrolled.
+2025-04-16 10:13:30,930 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:13:32,063 - DEBUG - Page scrolled.
+2025-04-16 10:13:35,065 - DEBUG - Random scrolls complete.
+2025-04-16 10:13:35,111 - DEBUG - Found 20 like buttons.
+2025-04-16 10:13:38,112 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-04-16 10:13:38,948 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 10:13:38,976 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 10:13:38,977 - DEBUG - Liked post number 1 of 2.
+2025-04-16 10:13:44,620 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 10:13:44,638 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 10:13:44,640 - DEBUG - Liked post number 2 of 2.
+2025-04-16 10:13:49,399 - INFO - Liked 2 posts successfully.
+2025-04-16 10:13:49,401 - INFO - Liked 2 posts successfully.
+2025-04-16 10:13:51,857 - INFO - Profile PixelPirate99: Opening random website: https://github.com/
+2025-04-16 10:13:56,516 - INFO - Profile PixelPirate99: Pausing for 33.91 seconds...
+2025-04-16 10:14:30,430 - INFO - Profile PixelPirate99: Resuming...
+2025-04-16 10:14:30,448 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-16 10:14:30,449 - INFO - performing random action
+2025-04-16 10:14:30,451 - DEBUG - Scrolling page 6 times.
+2025-04-16 10:14:30,451 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:32,108 - DEBUG - Page scrolled.
+2025-04-16 10:14:35,109 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:37,067 - DEBUG - Page scrolled.
+2025-04-16 10:14:40,070 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:41,772 - DEBUG - Page scrolled.
+2025-04-16 10:14:44,774 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:46,029 - DEBUG - Page scrolled.
+2025-04-16 10:14:49,033 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:50,876 - DEBUG - Page scrolled.
+2025-04-16 10:14:53,878 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:55,642 - DEBUG - Page scrolled.
+2025-04-16 10:14:58,644 - DEBUG - Random scrolls complete.
+2025-04-16 10:15:01,352 - DEBUG - Total comments in the thread: 20
+2025-04-16 10:15:56,759 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Onlyfans Subreddit - getting around 50-200 subscribers per day to my model-free page on OnlyFans.txt
+2025-04-16 15:25:08,618 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 15:25:08,620 - WARNING - Could not extract main post content. Error: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 273, in extract_main_post_content
+    main_post_element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located(main_post_locator)
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 137, in until
+    value = method(self._driver)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 110, in _predicate
+    return driver.find_element(*locator)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:14,793 - ERROR - Thread content file 'Thread-Details/API Comments\Onlyfans Subreddit - getting around 50-200 subscribers per day to my model-free page on OnlyFans_Ditch the Wi-Fi, stick with mobile data. If one ac.txt' not found.
+2025-04-16 15:25:17,182 - INFO - performing random action
+2025-04-16 15:25:17,183 - WARNING - No comment available to post.
+2025-04-16 15:25:17,184 - INFO - Task Completed!!
+2025-04-16 15:25:17,192 - ERROR - Failed to navigate back to the homepage: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 632, in navigate_home
+    driver.get("https://www.blackhatworld.com/")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:17,225 - INFO - Attempting to clear memory and resources.
+2025-04-16 15:25:17,267 - INFO - Garbage collection completed.
+2025-04-16 15:25:17,274 - INFO - Waiting for 2200 seconds before next execution.

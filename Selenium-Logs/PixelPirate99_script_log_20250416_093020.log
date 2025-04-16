@@ -1,0 +1,109 @@
+2025-04-16 09:30:20,135 - INFO - Current time: 1744776020.1353135
+2025-04-16 09:30:20,137 - INFO - Token expiration time: 1744786815.429005
+2025-04-16 09:30:20,143 - INFO - Token expiration time: 1744786815.429005
+2025-04-16 09:30:20,145 - INFO - performing random action
+2025-04-16 09:30:20,146 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 09:30:20,147 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:30:20,148 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:30:23,814 - DEBUG - Page scrolled.
+2025-04-16 09:30:25,816 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:30:27,534 - DEBUG - Page scrolled.
+2025-04-16 09:30:29,536 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:30:30,843 - DEBUG - Page scrolled.
+2025-04-16 09:30:32,844 - DEBUG - Random scrolls complete.
+2025-04-16 09:30:32,846 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:30:32,848 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:30:34,174 - DEBUG - Page scrolled.
+2025-04-16 09:30:36,175 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:30:37,836 - DEBUG - Page scrolled.
+2025-04-16 09:30:39,837 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:30:40,867 - DEBUG - Page scrolled.
+2025-04-16 09:30:42,870 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:30:43,994 - DEBUG - Page scrolled.
+2025-04-16 09:30:45,995 - DEBUG - Random scrolls complete.
+2025-04-16 09:30:48,166 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-04-16 09:30:51,874 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/reaching-us-audience-on-tiktok-complete-guide.1680003/unread
+2025-04-16 09:30:51,874 - INFO - performing random action
+2025-04-16 09:30:58,850 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/reaching-us-audience-on-tiktok-complete-guide.1680003/unread
+2025-04-16 09:30:58,853 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/reaching-us-audience-on-tiktok-complete-guide.1680003/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 09:30:58,916 - INFO - Extracted thread title: Reaching US audience on TikTok - complete guide
+2025-04-16 09:30:58,917 - DEBUG - Scrolling page 2 times.
+2025-04-16 09:30:58,918 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:30:59,947 - DEBUG - Page scrolled.
+2025-04-16 09:31:01,948 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:03,300 - DEBUG - Page scrolled.
+2025-04-16 09:31:05,302 - DEBUG - Random scrolls complete.
+2025-04-16 09:31:07,427 - DEBUG - Scrolling page 1 times.
+2025-04-16 09:31:07,428 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:08,835 - DEBUG - Page scrolled.
+2025-04-16 09:31:11,837 - DEBUG - Random scrolls complete.
+2025-04-16 09:31:11,860 - DEBUG - Found 19 like buttons.
+2025-04-16 09:31:14,861 - INFO - Attempting to like 2 posts. There are 19 available.
+2025-04-16 09:31:15,408 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:31:15,422 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:31:15,425 - DEBUG - Liked post number 1 of 2.
+2025-04-16 09:31:20,768 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:31:20,792 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:31:20,793 - DEBUG - Liked post number 2 of 2.
+2025-04-16 09:31:25,681 - INFO - Liked 2 posts successfully.
+2025-04-16 09:31:25,682 - INFO - Liked 2 posts successfully.
+2025-04-16 09:31:28,662 - INFO - performing random action
+2025-04-16 09:31:28,664 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:31:28,665 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:29,780 - DEBUG - Page scrolled.
+2025-04-16 09:31:32,782 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:34,465 - DEBUG - Page scrolled.
+2025-04-16 09:31:37,469 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:39,474 - DEBUG - Page scrolled.
+2025-04-16 09:31:42,475 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:43,656 - DEBUG - Page scrolled.
+2025-04-16 09:31:46,658 - DEBUG - Random scrolls complete.
+2025-04-16 09:31:49,017 - DEBUG - Total comments in the thread: 19
+2025-04-16 09:34:45,485 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Reaching US audience on TikTok - complete guide.txt
+2025-04-16 09:34:47,814 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 09:34:47,841 - DEBUG - Extracted main post content: Hey guys, I’m researching some information on how to achieve this and have some questions that I haven’t been able to find answers to on the internet so far. Here is the process I’ve come up with:
+- 4G Mobile Proxy (HQ)
+- iPhone with ShadowRocket
+- Factory Reset
+- US Sim Card (unactivated)
+- Sign up with newly created iCloud email/Google Email
+- 1 device per acc
+
+If I understand this correctly:
+
+1. Insert the SIM card into the phone.
+2. Set up the phone to use US settings.
+3. Download TikTok, proxies, and an anti-detect browser.
+4. Create the account this way.
+
+My questions:
+• Should I use the US SIM card’s mobile data, or is it fine to use my Wi-Fi? (Sorry if this is a stupid question.)
+• Should I create and upload content to TikTok via the app or through the anti-detect browser? (or normal browser if proxy is ON)
+• If the account gets banned for some reason, can I create a new one on the same device right away? Or should I reset the phone and go through the process again (e.g., change proxy, etc.)?
+
+This is what comes to my mind. Thanks for any tips!
+2025-04-16 09:34:52,282 - INFO - Successfully generated comments using Gemini API.
+2025-04-16 09:34:52,283 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-16 09:34:54,598 - INFO - performing random action
+2025-04-16 09:34:54,600 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:34:54,601 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:34:54,639 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:34:54,683 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:34:54,691 - DEBUG - Text box scrolled into view
+2025-04-16 09:34:55,380 - DEBUG - Initializing actionchains
+2025-04-16 09:34:55,404 - DEBUG - Post reply Element location: {'x': 1233, 'y': 7734}, size: {'height': 21, 'width': 68}
+2025-04-16 09:34:55,404 - DEBUG - Target click coordinates: (1267, 7744)
+2025-04-16 09:35:14,869 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-16 09:35:14,870 - DEBUG - Moving mouse to text box element.
+2025-04-16 09:35:14,872 - DEBUG - Clicking on the text box.
+2025-04-16 09:35:14,875 - DEBUG - Sending keys with content: Ditch the Wi-Fi, stick with mobile data. If one account tanks, fully reset the phone, don't risk it.
+
+2025-04-16 09:35:20,544 - DEBUG - Clicking on post reply button.
+2025-04-16 09:35:31,444 - DEBUG - Performed Actionchains
+2025-04-16 09:35:31,444 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-16 09:35:35,445 - INFO - Comment posted successfully.
+2025-04-16 09:35:35,448 - INFO - Task Completed!!
+2025-04-16 09:35:40,943 - INFO - Navigated back to the homepage.
+2025-04-16 09:35:43,002 - INFO - Attempting to clear memory and resources.
+2025-04-16 09:35:43,042 - INFO - Garbage collection completed.
+2025-04-16 09:35:43,043 - INFO - Waiting for 2200 seconds before next execution.

@@ -1,0 +1,135 @@
+2025-04-16 09:39:03,680 - INFO - Current time: 1744776543.6803493
+2025-04-16 09:39:03,684 - INFO - Token expiration time: 1744787338.8012416
+2025-04-16 09:39:03,685 - INFO - Token expiration time: 1744787338.8012416
+2025-04-16 09:39:03,686 - INFO - Profile DarkCodeX: Pausing for 48.28 seconds...
+2025-04-16 09:39:51,971 - INFO - Profile DarkCodeX: Resuming...
+2025-04-16 09:39:51,973 - INFO - performing random action
+2025-04-16 09:39:51,976 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 09:39:51,977 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:39:51,979 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:44:51,997 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B35A0A]
+	(No symbol) [0x00007FF740B2590C]
+	(No symbol) [0x00007FF740B255FA]
+	(No symbol) [0x00007FF740B2329A]
+	(No symbol) [0x00007FF740B23C5F]
+	(No symbol) [0x00007FF740B2FC9E]
+	(No symbol) [0x00007FF740B46161]
+	(No symbol) [0x00007FF740B4D10A]
+	(No symbol) [0x00007FF740B243CD]
+	(No symbol) [0x00007FF740B45E95]
+	(No symbol) [0x00007FF740BDF499]
+	(No symbol) [0x00007FF740BB72D3]
+	(No symbol) [0x00007FF740B806F8]
+	(No symbol) [0x00007FF740B81463]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740CBFC14]
+	(No symbol) [0x00007FF740CBFDC2]
+	(No symbol) [0x00007FF740CAEED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 09:44:53,077 - DEBUG - Page scrolled.
+2025-04-16 09:44:55,079 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:44:56,506 - DEBUG - Page scrolled.
+2025-04-16 09:44:58,508 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:44:59,789 - DEBUG - Page scrolled.
+2025-04-16 09:45:01,792 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:45:03,731 - DEBUG - Page scrolled.
+2025-04-16 09:45:05,738 - DEBUG - Random scrolls complete.
+2025-04-16 09:45:05,740 - DEBUG - Scrolling page 2 times.
+2025-04-16 09:45:05,741 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:45:07,526 - DEBUG - Page scrolled.
+2025-04-16 09:45:09,530 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:45:11,373 - DEBUG - Page scrolled.
+2025-04-16 09:45:13,375 - DEBUG - Random scrolls complete.
+2025-04-16 09:45:22,449 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-04-16 09:45:26,802 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-ad-network-id-geo.1703592/unread
+2025-04-16 09:45:26,803 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-16 09:45:28,805 - INFO - performing random action
+2025-04-16 09:45:37,540 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-ad-network-id-geo.1703592/unread
+2025-04-16 09:45:37,544 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-ad-network-id-geo.1703592/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 09:45:37,634 - INFO - Extracted thread title: Best ad Network ID GEO
+2025-04-16 09:45:37,635 - DEBUG - Scrolling page 2 times.
+2025-04-16 09:45:37,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:45:39,047 - DEBUG - Page scrolled.
+2025-04-16 09:45:41,048 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:45:42,524 - DEBUG - Page scrolled.
+2025-04-16 09:45:44,525 - DEBUG - Random scrolls complete.
+2025-04-16 09:45:46,529 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:45:46,531 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:45:48,162 - DEBUG - Page scrolled.
+2025-04-16 09:45:51,164 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:45:52,598 - DEBUG - Page scrolled.
+2025-04-16 09:45:55,600 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:45:56,782 - DEBUG - Page scrolled.
+2025-04-16 09:45:59,784 - DEBUG - Random scrolls complete.
+2025-04-16 09:45:59,847 - DEBUG - Found 15 like buttons.
+2025-04-16 09:46:02,854 - INFO - Attempting to like 3 posts. There are 15 available.
+2025-04-16 09:46:03,826 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:46:03,876 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:46:03,879 - DEBUG - Liked post number 1 of 3.
+2025-04-16 09:46:09,738 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:46:09,766 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:46:09,769 - DEBUG - Liked post number 2 of 3.
+2025-04-16 09:46:15,110 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:46:15,136 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:46:15,138 - DEBUG - Liked post number 3 of 3.
+2025-04-16 09:46:19,345 - INFO - Liked 3 posts successfully.
+2025-04-16 09:46:19,348 - INFO - Liked 3 posts successfully.
+2025-04-16 09:46:21,357 - INFO - performing random action
+2025-04-16 09:46:21,359 - DEBUG - Scrolling page 6 times.
+2025-04-16 09:46:21,360 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:46:22,390 - DEBUG - Page scrolled.
+2025-04-16 09:46:25,391 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:46:26,442 - DEBUG - Page scrolled.
+2025-04-16 09:46:29,448 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:46:31,128 - DEBUG - Page scrolled.
+2025-04-16 09:46:34,131 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:46:35,715 - DEBUG - Page scrolled.
+2025-04-16 09:46:38,719 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:46:40,326 - DEBUG - Page scrolled.
+2025-04-16 09:46:43,328 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:46:44,682 - DEBUG - Page scrolled.
+2025-04-16 09:46:47,687 - DEBUG - Random scrolls complete.
+2025-04-16 09:46:50,473 - DEBUG - Total comments in the thread: 15
+2025-04-16 09:48:14,133 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Best ad Network ID GEO.txt
+2025-04-16 09:48:16,411 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 09:48:16,502 - DEBUG - Extracted main post content: I've tried various types of ad networks for gambling in Indonesia. Do you have any recommendations for the best ad network at the moment? Also which one better, Push or pop format? Thank you, BHW.
+2025-04-16 09:48:20,778 - INFO - Successfully generated comments using Gemini API.
+2025-04-16 09:48:20,781 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-16 09:48:23,245 - INFO - Profile DarkCodeX: Opening random website: https://www.teejh.com/
+2025-04-16 09:48:46,766 - INFO - Profile DarkCodeX: Pausing for 49.78 seconds...
+2025-04-16 09:49:36,545 - INFO - Profile DarkCodeX: Resuming...
+2025-04-16 09:49:36,594 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-16 09:49:36,607 - INFO - performing random action
+2025-04-16 09:49:36,609 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:49:36,612 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:49:36,642 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:49:36,697 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:49:36,707 - DEBUG - Text box scrolled into view
+2025-04-16 09:49:37,664 - DEBUG - Initializing actionchains
+2025-04-16 09:49:37,710 - DEBUG - Post reply Element location: {'x': 1233, 'y': 5186}, size: {'height': 21, 'width': 68}
+2025-04-16 09:49:37,711 - DEBUG - Target click coordinates: (1267, 5196)
+2025-04-16 09:49:52,711 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-16 09:49:52,713 - DEBUG - Moving mouse to text box element.
+2025-04-16 09:49:52,714 - DEBUG - Clicking on the text box.
+2025-04-16 09:49:52,716 - DEBUG - Sending keys with content: Push might get you better quality leads, but pops can be cheaper for testing; have you looked into native ads at all?
+
+2025-04-16 09:49:58,586 - DEBUG - Clicking on post reply button.
+2025-04-16 09:49:59,861 - DEBUG - Performed Actionchains
+2025-04-16 09:49:59,861 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-16 09:50:03,863 - INFO - Comment posted successfully.
+2025-04-16 09:50:03,863 - INFO - Task Completed!!
+2025-04-16 09:50:06,810 - INFO - Navigated back to the homepage.
+2025-04-16 09:50:09,043 - INFO - Attempting to clear memory and resources.
+2025-04-16 09:50:09,121 - INFO - Garbage collection completed.
+2025-04-16 09:50:09,122 - INFO - Waiting for 2200 seconds before next execution.

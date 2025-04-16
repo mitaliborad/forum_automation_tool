@@ -1,0 +1,105 @@
+2025-04-16 09:31:44,744 - INFO - Current time: 1744776104.7448556
+2025-04-16 09:31:44,748 - INFO - Token expiration time: 1744786899.588482
+2025-04-16 09:31:44,749 - INFO - Token expiration time: 1744786899.588482
+2025-04-16 09:31:44,750 - INFO - performing random action
+2025-04-16 09:31:44,751 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 09:31:44,754 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:31:44,754 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:48,346 - DEBUG - Page scrolled.
+2025-04-16 09:31:50,348 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:51,455 - DEBUG - Page scrolled.
+2025-04-16 09:31:53,457 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:55,452 - DEBUG - Page scrolled.
+2025-04-16 09:31:57,453 - DEBUG - Random scrolls complete.
+2025-04-16 09:31:57,455 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:31:57,456 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:31:58,488 - DEBUG - Page scrolled.
+2025-04-16 09:32:00,490 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:32:01,846 - DEBUG - Page scrolled.
+2025-04-16 09:32:03,847 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:32:05,224 - DEBUG - Page scrolled.
+2025-04-16 09:32:07,226 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:32:08,631 - DEBUG - Page scrolled.
+2025-04-16 09:32:10,633 - DEBUG - Random scrolls complete.
+2025-04-16 09:32:15,675 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-04-16 09:32:19,343 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/get-more-reach-retweeting-commenting-in-twitter-ads-and-or-delete-ads-from-twitter.1705543/unread
+2025-04-16 09:32:19,344 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-16 09:32:19,345 - INFO - Profile PhantomRoot: Window minimized. Pausing for 17.50 seconds...
+2025-04-16 09:32:36,844 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-16 09:32:36,846 - INFO - performing random action
+2025-04-16 09:32:46,150 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/get-more-reach-retweeting-commenting-in-twitter-ads-and-or-delete-ads-from-twitter.1705543/unread
+2025-04-16 09:32:46,154 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/get-more-reach-retweeting-commenting-in-twitter-ads-and-or-delete-ads-from-twitter.1705543/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 09:32:46,178 - INFO - Extracted thread title: Get more reach RetweetingCommenting in Twitter Ads and or delete Ads from twitter
+2025-04-16 09:32:46,179 - DEBUG - Scrolling page 2 times.
+2025-04-16 09:32:46,179 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:32:47,615 - DEBUG - Page scrolled.
+2025-04-16 09:32:49,616 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:32:51,583 - DEBUG - Page scrolled.
+2025-04-16 09:32:53,585 - DEBUG - Random scrolls complete.
+2025-04-16 09:32:56,068 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:32:56,070 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:32:57,410 - DEBUG - Page scrolled.
+2025-04-16 09:33:00,411 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:02,241 - DEBUG - Page scrolled.
+2025-04-16 09:33:05,242 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:06,745 - DEBUG - Page scrolled.
+2025-04-16 09:33:09,746 - DEBUG - Random scrolls complete.
+2025-04-16 09:33:09,778 - DEBUG - Found 1 like buttons.
+2025-04-16 09:33:12,779 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-16 09:33:13,362 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:33:13,370 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:33:13,371 - DEBUG - Liked post number 1 of 1.
+2025-04-16 09:33:17,566 - INFO - Liked 1 posts successfully.
+2025-04-16 09:33:17,568 - INFO - Liked 1 posts successfully.
+2025-04-16 09:33:19,723 - INFO - Profile PhantomRoot: Pausing for 33.51 seconds...
+2025-04-16 09:33:53,234 - INFO - Profile PhantomRoot: Resuming...
+2025-04-16 09:33:53,234 - INFO - performing random action
+2025-04-16 09:33:53,235 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:33:53,236 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:54,484 - DEBUG - Page scrolled.
+2025-04-16 09:33:57,485 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:59,463 - DEBUG - Page scrolled.
+2025-04-16 09:34:02,465 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:04,340 - DEBUG - Page scrolled.
+2025-04-16 09:34:07,341 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:08,385 - DEBUG - Page scrolled.
+2025-04-16 09:34:11,386 - DEBUG - Random scrolls complete.
+2025-04-16 09:34:13,507 - DEBUG - Total comments in the thread: 1
+2025-04-16 09:34:13,614 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Get more reach RetweetingCommenting in Twitter Ads and or delete Ads from twitter.txt
+2025-04-16 09:34:16,258 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 09:34:16,303 - DEBUG - Extracted main post content: I hate twitter ads. You hate twitter ads. Figured out something about the ads.
+
+They might be a bot, but I can guarantee you can promote in the paid ads and get far more visibility. Don't worry if it doesn't show up in the engagement - all the comments/retweets in the comment section go to the person paying for the ads but you will get just as much visibility as they litter ads throughout the regular tweets.
+
+Now keep in mind once you post 5-7 comments in the ads the Ads will disappear for 2-4 days. Twitter algo will automatically make ALL ADS unavailable for you and they will vanish. Have a dummy account and just cut, copy, paste the url.
+
+Hope this helps you guys go around the crap algo & hop on the paid ads without spending a dime.
+2025-04-16 09:34:21,724 - INFO - Successfully generated comments using Gemini API.
+2025-04-16 09:34:21,725 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-16 09:34:24,456 - INFO - Profile PhantomRoot: Opening random website: https://letshyphen.com/
+2025-04-16 09:34:57,674 - INFO - Profile PhantomRoot: Pausing for 36.51 seconds...
+2025-04-16 09:35:34,181 - INFO - Profile PhantomRoot: Resuming...
+2025-04-16 09:35:34,232 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-16 09:35:34,241 - INFO - performing random action
+2025-04-16 09:35:34,250 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:35:34,251 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:35:34,287 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:35:34,347 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:35:34,353 - DEBUG - Text box scrolled into view
+2025-04-16 09:35:35,091 - DEBUG - Initializing actionchains
+2025-04-16 09:35:35,152 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1203}, size: {'height': 21, 'width': 68}
+2025-04-16 09:35:35,153 - DEBUG - Target click coordinates: (1267, 1213)
+2025-04-16 09:35:41,451 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-16 09:35:41,452 - DEBUG - Moving mouse to text box element.
+2025-04-16 09:35:41,454 - DEBUG - Clicking on the text box.
+2025-04-16 09:35:41,456 - DEBUG - Sending keys with content: That's a clever workaround. Wonder if they'll patch that up eventually, or if it's just part of the cost of doing business for them now.
+
+2025-04-16 09:35:47,291 - DEBUG - Clicking on post reply button.
+2025-04-16 09:35:48,373 - DEBUG - Performed Actionchains
+2025-04-16 09:35:48,373 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-16 09:35:52,374 - INFO - Comment posted successfully.
+2025-04-16 09:35:52,376 - INFO - Task Completed!!
+2025-04-16 09:35:56,881 - INFO - Navigated back to the homepage.
+2025-04-16 09:35:59,644 - INFO - Attempting to clear memory and resources.
+2025-04-16 09:35:59,674 - INFO - Garbage collection completed.
+2025-04-16 09:35:59,675 - INFO - Waiting for 2200 seconds before next execution.

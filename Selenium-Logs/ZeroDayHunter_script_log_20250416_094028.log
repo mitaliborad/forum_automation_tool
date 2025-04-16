@@ -1,0 +1,92 @@
+2025-04-16 09:40:28,427 - INFO - Current time: 1744776628.4278593
+2025-04-16 09:40:28,429 - INFO - Token expiration time: 1744787422.960417
+2025-04-16 09:40:28,430 - INFO - Token expiration time: 1744787422.960417
+2025-04-16 09:40:28,437 - INFO - Profile ZeroDayHunter: Pausing for 40.63 seconds...
+2025-04-16 09:41:09,070 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-16 09:41:09,073 - INFO - performing random action
+2025-04-16 09:41:09,075 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 09:41:09,077 - DEBUG - Scrolling page 2 times.
+2025-04-16 09:41:09,079 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:41:11,042 - DEBUG - Page scrolled.
+2025-04-16 09:41:13,045 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:41:14,770 - DEBUG - Page scrolled.
+2025-04-16 09:41:16,772 - DEBUG - Random scrolls complete.
+2025-04-16 09:41:16,774 - DEBUG - Scrolling page 2 times.
+2025-04-16 09:41:16,775 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:41:17,853 - DEBUG - Page scrolled.
+2025-04-16 09:41:19,855 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:41:21,755 - DEBUG - Page scrolled.
+2025-04-16 09:41:23,758 - DEBUG - Random scrolls complete.
+2025-04-16 09:41:33,318 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-16 09:41:37,103 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/which-cloaking-is-working-on-google-ads.1703635/unread
+2025-04-16 09:41:37,103 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-16 09:41:39,110 - INFO - performing random action
+2025-04-16 09:41:49,745 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/which-cloaking-is-working-on-google-ads.1703635/unread
+2025-04-16 09:41:49,748 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/which-cloaking-is-working-on-google-ads.1703635/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 09:41:49,805 - INFO - Extracted thread title: Which cloaking is working on Google Ads
+2025-04-16 09:41:49,806 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:41:49,806 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:41:51,768 - DEBUG - Page scrolled.
+2025-04-16 09:41:53,771 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:41:55,765 - DEBUG - Page scrolled.
+2025-04-16 09:41:57,768 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:41:59,406 - DEBUG - Page scrolled.
+2025-04-16 09:42:01,408 - DEBUG - Random scrolls complete.
+2025-04-16 09:42:03,610 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:42:03,611 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:05,484 - DEBUG - Page scrolled.
+2025-04-16 09:42:08,487 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:10,072 - DEBUG - Page scrolled.
+2025-04-16 09:42:13,073 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:14,152 - DEBUG - Page scrolled.
+2025-04-16 09:42:17,154 - DEBUG - Random scrolls complete.
+2025-04-16 09:42:17,184 - DEBUG - Found 14 like buttons.
+2025-04-16 09:42:20,186 - INFO - Attempting to like 2 posts. There are 14 available.
+2025-04-16 09:42:21,132 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:42:21,168 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:42:21,169 - DEBUG - Liked post number 1 of 2.
+2025-04-16 09:42:26,254 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:42:26,281 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:42:26,283 - DEBUG - Liked post number 2 of 2.
+2025-04-16 09:42:30,671 - INFO - Liked 2 posts successfully.
+2025-04-16 09:42:30,674 - INFO - Liked 2 posts successfully.
+2025-04-16 09:42:33,310 - INFO - performing random action
+2025-04-16 09:42:33,312 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:42:33,315 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:34,326 - DEBUG - Page scrolled.
+2025-04-16 09:42:37,328 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:38,675 - DEBUG - Page scrolled.
+2025-04-16 09:42:41,679 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:43,516 - DEBUG - Page scrolled.
+2025-04-16 09:42:46,520 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:42:47,842 - DEBUG - Page scrolled.
+2025-04-16 09:42:50,845 - DEBUG - Random scrolls complete.
+2025-04-16 09:42:53,445 - DEBUG - Total comments in the thread: 14
+2025-04-16 09:44:25,018 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Which cloaking is working on Google Ads.txt
+2025-04-16 09:44:27,258 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 09:44:27,291 - DEBUG - Extracted main post content: Which cloaking is working on Google Ads?
+2025-04-16 09:44:32,062 - INFO - Successfully generated comments using Gemini API.
+2025-04-16 09:44:32,066 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-16 09:44:34,860 - INFO - performing random action
+2025-04-16 09:44:34,861 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:44:34,861 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:44:34,875 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:44:34,914 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:44:34,921 - DEBUG - Text box scrolled into view
+2025-04-16 09:44:35,647 - DEBUG - Initializing actionchains
+2025-04-16 09:44:35,674 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4923}, size: {'height': 21, 'width': 68}
+2025-04-16 09:44:35,674 - DEBUG - Target click coordinates: (1267, 4933)
+2025-04-16 09:44:49,440 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-16 09:44:49,443 - DEBUG - Moving mouse to text box element.
+2025-04-16 09:44:49,445 - DEBUG - Clicking on the text box.
+2025-04-16 09:44:49,447 - DEBUG - Sending keys with content: Honestly, seems like they're all playing whack-a-mole these days. What niche are you in? That might affect which one works best for you.
+
+2025-04-16 09:44:55,331 - DEBUG - Clicking on post reply button.
+2025-04-16 09:44:56,665 - DEBUG - Performed Actionchains
+2025-04-16 09:44:56,673 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-16 09:45:00,675 - INFO - Comment posted successfully.
+2025-04-16 09:45:00,677 - INFO - Task Completed!!
+2025-04-16 09:45:05,511 - INFO - Navigated back to the homepage.
+2025-04-16 09:45:07,905 - INFO - Attempting to clear memory and resources.
+2025-04-16 09:45:07,951 - INFO - Garbage collection completed.
+2025-04-16 09:45:07,952 - INFO - Waiting for 2200 seconds before next execution.

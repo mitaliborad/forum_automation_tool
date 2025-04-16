@@ -1,0 +1,234 @@
+2025-04-16 10:13:37,239 - INFO - Current time: 1744778617.239653
+2025-04-16 10:13:37,241 - INFO - Token expiration time: 1744787010.3658843
+2025-04-16 10:13:37,243 - INFO - Token expiration time: 1744787010.3658843
+2025-04-16 10:13:37,245 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-16 10:13:46,444 - INFO - Profile BinaryGhost: Pausing for 31.61 seconds...
+2025-04-16 10:14:18,055 - INFO - Profile BinaryGhost: Resuming...
+2025-04-16 10:14:18,089 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-16 10:14:18,090 - INFO - performing random action
+2025-04-16 10:14:18,091 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 10:14:18,093 - DEBUG - Scrolling page 2 times.
+2025-04-16 10:14:18,094 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:19,634 - DEBUG - Page scrolled.
+2025-04-16 10:14:21,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:22,668 - DEBUG - Page scrolled.
+2025-04-16 10:14:24,670 - DEBUG - Random scrolls complete.
+2025-04-16 10:14:24,671 - DEBUG - Scrolling page 3 times.
+2025-04-16 10:14:24,673 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:26,213 - DEBUG - Page scrolled.
+2025-04-16 10:14:28,214 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:30,137 - DEBUG - Page scrolled.
+2025-04-16 10:14:32,140 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 10:14:33,296 - DEBUG - Page scrolled.
+2025-04-16 10:14:35,299 - DEBUG - Random scrolls complete.
+2025-04-16 10:14:46,873 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-04-16 10:14:50,978 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/cpa-affiliate-networks-ranked-based-on-payment-threshold-2024.1625534/unread
+2025-04-16 10:14:50,978 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-16 10:14:58,528 - INFO - Profile BinaryGhost: Pausing for 47.65 seconds...
+2025-04-16 10:15:46,184 - INFO - Profile BinaryGhost: Resuming...
+2025-04-16 10:15:46,221 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-16 10:15:46,223 - INFO - performing random action
+2025-04-16 10:15:57,201 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/cpa-affiliate-networks-ranked-based-on-payment-threshold-2024.1625534/unread
+2025-04-16 15:25:12,102 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/cpa-affiliate-networks-ranked-based-on-payment-threshold-2024.1625534/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 15:25:12,720 - WARNING - Could not extract thread title. Error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B35A0A]
+	(No symbol) [0x00007FF740B24255]
+	(No symbol) [0x00007FF740B46734]
+	(No symbol) [0x00007FF740BBF02F]
+	(No symbol) [0x00007FF740BDEEB2]
+	(No symbol) [0x00007FF740BB72D3]
+	(No symbol) [0x00007FF740B806F8]
+	(No symbol) [0x00007FF740B81463]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740CBFC14]
+	(No symbol) [0x00007FF740CBFDC2]
+	(No symbol) [0x00007FF740CAEED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 537, in get_thread_title
+    title_element = WebDriverWait(driver, 10).until(
+        EC.presence_of_element_located((By.XPATH, '//div//h1'))
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 137, in until
+    value = method(self._driver)
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 110, in _predicate
+    return driver.find_element(*locator)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B35A0A]
+	(No symbol) [0x00007FF740B24255]
+	(No symbol) [0x00007FF740B46734]
+	(No symbol) [0x00007FF740BBF02F]
+	(No symbol) [0x00007FF740BDEEB2]
+	(No symbol) [0x00007FF740BB72D3]
+	(No symbol) [0x00007FF740B806F8]
+	(No symbol) [0x00007FF740B81463]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740CBFC14]
+	(No symbol) [0x00007FF740CBFDC2]
+	(No symbol) [0x00007FF740CAEED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:12,824 - DEBUG - Scrolling page 2 times.
+2025-04-16 15:25:12,826 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:12,829 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:14,164 - DEBUG - Page scrolled.
+2025-04-16 15:25:16,168 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:16,170 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:17,512 - DEBUG - Page scrolled.
+2025-04-16 15:25:19,539 - DEBUG - Random scrolls complete.
+2025-04-16 15:25:21,900 - DEBUG - Scrolling page 4 times.
+2025-04-16 15:25:21,900 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:21,903 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:23,412 - DEBUG - Page scrolled.
+2025-04-16 15:25:26,412 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:26,414 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:28,116 - DEBUG - Page scrolled.
+2025-04-16 15:25:31,121 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:31,123 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:32,649 - DEBUG - Page scrolled.
+2025-04-16 15:25:35,651 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 15:25:35,653 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF740D544D5+25349]
+	(No symbol) [0x00007FF740CB90F0]
+	(No symbol) [0x00007FF740B3583C]
+	(No symbol) [0x00007FF740B7F81F]
+	(No symbol) [0x00007FF740BB73C2]
+	(No symbol) [0x00007FF740BB1DD2]
+	(No symbol) [0x00007FF740BB0E99]
+	(No symbol) [0x00007FF740B05AB5]
+	GetHandleVerifier [0x00007FF7410D887D+3712685]
+	GetHandleVerifier [0x00007FF7410F08C2+3811058]
+	GetHandleVerifier [0x00007FF7410E457D+3761069]
+	GetHandleVerifier [0x00007FF740E2293A+870250]
+	(No symbol) [0x00007FF740CC42CF]
+	(No symbol) [0x00007FF740B04B28]
+	GetHandleVerifier [0x00007FF741165A88+4290744]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-16 15:25:37,063 - DEBUG - Page scrolled.

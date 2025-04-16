@@ -1,0 +1,96 @@
+2025-04-16 09:33:37,411 - INFO - Current time: 1744776217.4119618
+2025-04-16 09:33:37,414 - INFO - Token expiration time: 1744787010.3658843
+2025-04-16 09:33:37,416 - INFO - Token expiration time: 1744787010.3658843
+2025-04-16 09:33:37,417 - INFO - performing random action
+2025-04-16 09:33:37,418 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-16 09:33:37,420 - DEBUG - Scrolling page 4 times.
+2025-04-16 09:33:37,422 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:41,664 - DEBUG - Page scrolled.
+2025-04-16 09:33:43,665 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:45,193 - DEBUG - Page scrolled.
+2025-04-16 09:33:47,194 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:49,058 - DEBUG - Page scrolled.
+2025-04-16 09:33:51,059 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:52,395 - DEBUG - Page scrolled.
+2025-04-16 09:33:54,397 - DEBUG - Random scrolls complete.
+2025-04-16 09:33:54,398 - DEBUG - Scrolling page 2 times.
+2025-04-16 09:33:54,400 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:55,645 - DEBUG - Page scrolled.
+2025-04-16 09:33:57,648 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:33:59,080 - DEBUG - Page scrolled.
+2025-04-16 09:34:01,081 - DEBUG - Random scrolls complete.
+2025-04-16 09:34:09,432 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-04-16 09:34:12,825 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/whats-the-best-way-to-get-your-tumblr-posts-featured-in-search-results.1705270/unread
+2025-04-16 09:34:12,825 - INFO - performing random action
+2025-04-16 09:34:23,202 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/whats-the-best-way-to-get-your-tumblr-posts-featured-in-search-results.1705270/unread
+2025-04-16 09:34:23,205 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/whats-the-best-way-to-get-your-tumblr-posts-featured-in-search-results.1705270/unread' to visited threads file 'Thread_links.txt'.
+2025-04-16 09:34:23,240 - INFO - Extracted thread title: What’s the best way to get your Tumblr posts featured in search results
+2025-04-16 09:34:23,241 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:34:23,241 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:25,133 - DEBUG - Page scrolled.
+2025-04-16 09:34:27,134 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:29,149 - DEBUG - Page scrolled.
+2025-04-16 09:34:31,149 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:32,993 - DEBUG - Page scrolled.
+2025-04-16 09:34:34,996 - DEBUG - Random scrolls complete.
+2025-04-16 09:34:37,113 - DEBUG - Scrolling page 3 times.
+2025-04-16 09:34:37,114 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:38,790 - DEBUG - Page scrolled.
+2025-04-16 09:34:41,791 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:42,888 - DEBUG - Page scrolled.
+2025-04-16 09:34:45,889 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:34:46,970 - DEBUG - Page scrolled.
+2025-04-16 09:34:49,971 - DEBUG - Random scrolls complete.
+2025-04-16 09:34:49,992 - DEBUG - Found 1 like buttons.
+2025-04-16 09:34:52,993 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-16 09:34:53,805 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-16 09:34:53,814 - INFO - Like button clicked successfully using JavaScript.
+2025-04-16 09:34:53,815 - DEBUG - Liked post number 1 of 1.
+2025-04-16 09:34:58,387 - INFO - Liked 1 posts successfully.
+2025-04-16 09:34:58,389 - INFO - Liked 1 posts successfully.
+2025-04-16 09:35:00,648 - INFO - performing random action
+2025-04-16 09:35:00,650 - DEBUG - Scrolling page 6 times.
+2025-04-16 09:35:00,651 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:02,497 - DEBUG - Page scrolled.
+2025-04-16 09:35:05,500 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:07,052 - DEBUG - Page scrolled.
+2025-04-16 09:35:10,054 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:11,351 - DEBUG - Page scrolled.
+2025-04-16 09:35:14,352 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:15,396 - DEBUG - Page scrolled.
+2025-04-16 09:35:18,398 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:20,345 - DEBUG - Page scrolled.
+2025-04-16 09:35:23,346 - DEBUG - Scrolling page by 500 pixels.
+2025-04-16 09:35:24,777 - DEBUG - Page scrolled.
+2025-04-16 09:35:27,779 - DEBUG - Random scrolls complete.
+2025-04-16 09:35:30,447 - DEBUG - Total comments in the thread: 1
+2025-04-16 09:35:30,538 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What’s the best way to get your Tumblr posts featured in search results.txt
+2025-04-16 09:35:32,913 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-16 09:35:32,934 - DEBUG - Extracted main post content: I want to know the best way to get my Tumblr posts featured in search results—what strategies actually work in 2025?
+2025-04-16 09:35:37,852 - INFO - Successfully generated comments using Gemini API.
+2025-04-16 09:35:37,854 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-16 09:35:40,570 - INFO - Profile BinaryGhost: Pausing for 36.45 seconds...
+2025-04-16 09:36:17,021 - INFO - Profile BinaryGhost: Resuming...
+2025-04-16 09:36:17,021 - INFO - performing random action
+2025-04-16 09:36:17,022 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:36:17,022 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:36:17,037 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:36:17,077 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-16 09:36:17,084 - DEBUG - Text box scrolled into view
+2025-04-16 09:36:17,916 - DEBUG - Initializing actionchains
+2025-04-16 09:36:17,938 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1076}, size: {'height': 21, 'width': 68}
+2025-04-16 09:36:17,939 - DEBUG - Target click coordinates: (1267, 1086)
+2025-04-16 09:36:24,397 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-16 09:36:24,399 - DEBUG - Moving mouse to text box element.
+2025-04-16 09:36:24,400 - DEBUG - Clicking on the text box.
+2025-04-16 09:36:24,406 - DEBUG - Sending keys with content: Forget the old tag stuffing tricks; are you actually engaging with other users' content to build a community around your niche?
+
+2025-04-16 09:36:29,600 - DEBUG - Clicking on post reply button.
+2025-04-16 09:36:40,554 - DEBUG - Performed Actionchains
+2025-04-16 09:36:40,554 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-16 09:36:44,555 - INFO - Comment posted successfully.
+2025-04-16 09:36:44,559 - INFO - Task Completed!!
+2025-04-16 09:36:54,517 - INFO - Navigated back to the homepage.
+2025-04-16 09:36:57,187 - INFO - Attempting to clear memory and resources.
+2025-04-16 09:36:57,234 - INFO - Garbage collection completed.
+2025-04-16 09:36:57,235 - INFO - Waiting for 2200 seconds before next execution.
