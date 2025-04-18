@@ -1,0 +1,141 @@
+2025-04-18 09:19:25,931 - INFO - Current time: 1744948165.931935
+2025-04-18 09:19:25,932 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 09:19:25,933 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 09:19:25,934 - INFO - Profile DataPhreak: Pausing for 36.29 seconds...
+2025-04-18 09:20:02,221 - INFO - Profile DataPhreak: Resuming...
+2025-04-18 09:20:02,223 - INFO - performing random action
+2025-04-18 09:20:02,226 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 09:20:02,228 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:20:02,229 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:02,250 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70C0944D5+25349]
+	(No symbol) [0x00007FF70BFF90F0]
+	(No symbol) [0x00007FF70BE75A0A]
+	(No symbol) [0x00007FF70BE6590C]
+	(No symbol) [0x00007FF70BE655FA]
+	(No symbol) [0x00007FF70BE6329A]
+	(No symbol) [0x00007FF70BE63C5F]
+	(No symbol) [0x00007FF70BE6FC9E]
+	(No symbol) [0x00007FF70BE86161]
+	(No symbol) [0x00007FF70BE8D10A]
+	(No symbol) [0x00007FF70BE643CD]
+	(No symbol) [0x00007FF70BE85E95]
+	(No symbol) [0x00007FF70BF1F499]
+	(No symbol) [0x00007FF70BEF72D3]
+	(No symbol) [0x00007FF70BEC06F8]
+	(No symbol) [0x00007FF70BEC1463]
+	GetHandleVerifier [0x00007FF70C41887D+3712685]
+	GetHandleVerifier [0x00007FF70C4308C2+3811058]
+	GetHandleVerifier [0x00007FF70C42457D+3761069]
+	GetHandleVerifier [0x00007FF70C16293A+870250]
+	(No symbol) [0x00007FF70C0042CF]
+	(No symbol) [0x00007FF70BFFFC14]
+	(No symbol) [0x00007FF70BFFFDC2]
+	(No symbol) [0x00007FF70BFEEED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-18 09:25:03,821 - DEBUG - Page scrolled.
+2025-04-18 09:25:05,822 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:07,681 - DEBUG - Page scrolled.
+2025-04-18 09:25:09,684 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:11,553 - DEBUG - Page scrolled.
+2025-04-18 09:25:13,554 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:15,071 - DEBUG - Page scrolled.
+2025-04-18 09:25:17,076 - DEBUG - Random scrolls complete.
+2025-04-18 09:25:17,076 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:25:17,076 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:18,519 - DEBUG - Page scrolled.
+2025-04-18 09:25:20,520 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:22,229 - DEBUG - Page scrolled.
+2025-04-18 09:25:24,231 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:26,148 - DEBUG - Page scrolled.
+2025-04-18 09:25:28,149 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:29,258 - DEBUG - Page scrolled.
+2025-04-18 09:25:31,260 - DEBUG - Random scrolls complete.
+2025-04-18 09:25:39,329 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-04-18 09:25:43,618 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/introduction.1705620/unread
+2025-04-18 09:25:43,618 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-18 09:25:43,620 - INFO - Profile DataPhreak: Window minimized. Pausing for 17.18 seconds...
+2025-04-18 09:26:00,804 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-18 09:26:00,806 - INFO - performing random action
+2025-04-18 09:26:09,416 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/introduction.1705620/unread
+2025-04-18 09:26:09,419 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/introduction.1705620/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 09:26:09,471 - INFO - Extracted thread title: Introduction
+2025-04-18 09:26:09,472 - DEBUG - Scrolling page 2 times.
+2025-04-18 09:26:09,473 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:10,726 - DEBUG - Page scrolled.
+2025-04-18 09:26:12,728 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:14,588 - DEBUG - Page scrolled.
+2025-04-18 09:26:16,590 - DEBUG - Random scrolls complete.
+2025-04-18 09:26:19,356 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:26:19,357 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:20,818 - DEBUG - Page scrolled.
+2025-04-18 09:26:23,819 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:25,541 - DEBUG - Page scrolled.
+2025-04-18 09:26:28,543 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:29,688 - DEBUG - Page scrolled.
+2025-04-18 09:26:32,690 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:34,394 - DEBUG - Page scrolled.
+2025-04-18 09:26:37,396 - DEBUG - Random scrolls complete.
+2025-04-18 09:26:37,409 - DEBUG - Found 10 like buttons.
+2025-04-18 09:26:40,410 - INFO - Attempting to like 1 posts. There are 10 available.
+2025-04-18 09:26:41,397 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:26:41,411 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:26:41,411 - DEBUG - Liked post number 1 of 1.
+2025-04-18 09:26:45,626 - INFO - Liked 1 posts successfully.
+2025-04-18 09:26:45,626 - INFO - Liked 1 posts successfully.
+2025-04-18 09:26:48,008 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-18 09:26:57,294 - INFO - Profile DataPhreak: Pausing for 31.53 seconds...
+2025-04-18 09:27:28,827 - INFO - Profile DataPhreak: Resuming...
+2025-04-18 09:27:28,841 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-18 09:27:28,848 - INFO - performing random action
+2025-04-18 09:27:28,852 - DEBUG - Scrolling page 5 times.
+2025-04-18 09:27:28,853 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:30,679 - DEBUG - Page scrolled.
+2025-04-18 09:27:33,681 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:35,377 - DEBUG - Page scrolled.
+2025-04-18 09:27:38,378 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:40,154 - DEBUG - Page scrolled.
+2025-04-18 09:27:43,155 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:44,694 - DEBUG - Page scrolled.
+2025-04-18 09:27:47,696 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:49,517 - DEBUG - Page scrolled.
+2025-04-18 09:27:52,518 - DEBUG - Random scrolls complete.
+2025-04-18 09:27:55,363 - DEBUG - Total comments in the thread: 10
+2025-04-18 09:29:27,761 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Introduction.txt
+2025-04-18 09:29:30,374 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 09:29:30,465 - DEBUG - Extracted main post content: Hello everyone!
+
+I represent Sibsoft team, the authors of file and video sharing scripts like XFilesharing and XVideosharing.
+Hope our presence here will help those who's willing to enter into file and video sharing business. We also have several side projects like hosting and payment processing.
+
+
+Thanks!
+2025-04-18 09:29:33,597 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 09:29:33,602 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 09:29:36,406 - INFO - performing random action
+2025-04-18 09:29:36,411 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:29:36,413 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:29:36,446 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:29:36,487 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:29:36,496 - DEBUG - Text box scrolled into view
+2025-04-18 09:29:37,034 - DEBUG - Initializing actionchains
+2025-04-18 09:29:37,121 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3700}, size: {'height': 21, 'width': 68}
+2025-04-18 09:29:37,122 - DEBUG - Target click coordinates: (1267, 3710)
+2025-04-18 09:29:48,710 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 09:29:48,712 - DEBUG - Moving mouse to text box element.
+2025-04-18 09:29:48,713 - DEBUG - Clicking on the text box.
+2025-04-18 09:29:48,716 - DEBUG - Sending keys with content: Cool, been seeing your scripts around for ages. What's one thing you wish you'd known before getting into this niche?
+
+2025-04-18 09:29:54,053 - DEBUG - Clicking on post reply button.
+2025-04-18 09:30:05,115 - DEBUG - Performed Actionchains
+2025-04-18 09:30:05,116 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 09:30:09,119 - INFO - Comment posted successfully.
+2025-04-18 09:30:09,127 - INFO - Task Completed!!
+2025-04-18 09:30:14,616 - INFO - Navigated back to the homepage.
+2025-04-18 09:30:16,940 - INFO - Attempting to clear memory and resources.
+2025-04-18 09:30:17,020 - INFO - Garbage collection completed.
+2025-04-18 09:30:17,021 - INFO - Waiting for 1700 seconds before next execution.

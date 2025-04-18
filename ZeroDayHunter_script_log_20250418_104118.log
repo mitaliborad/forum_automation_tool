@@ -1,0 +1,102 @@
+2025-04-18 10:41:18,354 - INFO - Current time: 1744953078.3543196
+2025-04-18 10:41:18,356 - INFO - Token expiration time: 1744959803.9765446
+2025-04-18 10:41:18,358 - INFO - Token expiration time: 1744959803.9765446
+2025-04-18 10:41:18,359 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-18 10:41:18,372 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 17.36 seconds...
+2025-04-18 10:41:35,741 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-18 10:41:35,744 - INFO - performing random action
+2025-04-18 10:41:35,745 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:41:35,746 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:41:35,747 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:37,509 - DEBUG - Page scrolled.
+2025-04-18 10:41:39,511 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:41,302 - DEBUG - Page scrolled.
+2025-04-18 10:41:43,305 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:45,227 - DEBUG - Page scrolled.
+2025-04-18 10:41:47,231 - DEBUG - Random scrolls complete.
+2025-04-18 10:41:47,236 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:41:47,237 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:48,954 - DEBUG - Page scrolled.
+2025-04-18 10:41:50,958 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:52,540 - DEBUG - Page scrolled.
+2025-04-18 10:41:54,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:56,002 - DEBUG - Page scrolled.
+2025-04-18 10:41:58,004 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:59,497 - DEBUG - Page scrolled.
+2025-04-18 10:42:01,499 - DEBUG - Random scrolls complete.
+2025-04-18 10:42:12,599 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-18 10:42:16,674 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-help-with-scrapping.1623642/unread
+2025-04-18 10:42:16,674 - INFO - Profile ZeroDayHunter: Opening random website: https://letshyphen.com/
+2025-04-18 10:44:26,938 - INFO - Profile ZeroDayHunter: Pausing for 43.78 seconds...
+2025-04-18 10:45:10,725 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-18 10:45:10,788 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-18 10:45:10,790 - INFO - performing random action
+2025-04-18 10:45:27,078 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-help-with-scrapping.1623642/unread
+2025-04-18 10:45:27,081 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-help-with-scrapping.1623642/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 10:45:27,208 - INFO - Extracted thread title: Need help with scrapping
+2025-04-18 10:45:27,209 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:45:27,210 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:45:28,331 - DEBUG - Page scrolled.
+2025-04-18 10:45:30,335 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:45:31,987 - DEBUG - Page scrolled.
+2025-04-18 10:45:33,995 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:45:35,139 - DEBUG - Page scrolled.
+2025-04-18 10:45:37,141 - DEBUG - Random scrolls complete.
+2025-04-18 10:45:39,827 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:45:39,828 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:45:41,011 - DEBUG - Page scrolled.
+2025-04-18 10:45:44,013 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:45:45,708 - DEBUG - Page scrolled.
+2025-04-18 10:45:48,711 - DEBUG - Random scrolls complete.
+2025-04-18 10:45:48,771 - DEBUG - Found 12 like buttons.
+2025-04-18 10:45:51,773 - INFO - Attempting to like 2 posts. There are 12 available.
+2025-04-18 10:45:52,716 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:45:52,756 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:45:52,757 - DEBUG - Liked post number 1 of 2.
+2025-04-18 10:45:57,551 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:45:57,577 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:45:57,585 - DEBUG - Liked post number 2 of 2.
+2025-04-18 10:46:02,260 - INFO - Liked 2 posts successfully.
+2025-04-18 10:46:02,267 - INFO - Liked 2 posts successfully.
+2025-04-18 10:46:05,024 - INFO - performing random action
+2025-04-18 10:46:05,027 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:46:05,028 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:46:06,751 - DEBUG - Page scrolled.
+2025-04-18 10:46:09,753 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:46:11,373 - DEBUG - Page scrolled.
+2025-04-18 10:46:14,375 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:46:15,546 - DEBUG - Page scrolled.
+2025-04-18 10:46:18,548 - DEBUG - Random scrolls complete.
+2025-04-18 10:46:21,459 - DEBUG - Total comments in the thread: 12
+2025-04-18 10:47:24,126 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need help with scrapping.txt
+2025-04-18 10:47:27,079 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:47:27,150 - DEBUG - Extracted main post content: I need to scrap data about property owners in a certain location, suggest me tools and ways to do that please.
+2025-04-18 10:47:30,683 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:47:30,686 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:47:33,155 - INFO - Profile ZeroDayHunter: Opening random website: https://www.w3schools.com/
+2025-04-18 10:47:42,272 - INFO - Profile ZeroDayHunter: Pausing for 46.29 seconds...
+2025-04-18 10:48:28,569 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-18 10:48:28,616 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-18 10:48:28,621 - INFO - performing random action
+2025-04-18 10:48:28,637 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:48:28,638 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:48:28,662 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:48:28,706 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:48:28,715 - DEBUG - Text box scrolled into view
+2025-04-18 10:48:29,661 - DEBUG - Initializing actionchains
+2025-04-18 10:48:29,752 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4733}, size: {'height': 21, 'width': 68}
+2025-04-18 10:48:29,753 - DEBUG - Target click coordinates: (1267, 4743)
+2025-04-18 10:48:43,834 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:48:43,836 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:48:43,837 - DEBUG - Clicking on the text box.
+2025-04-18 10:48:43,840 - DEBUG - Sending keys with content: Web scraping can be tricky; have you looked at using a service like PropStream or is that too pricey for what you're trying to do?
+
+2025-04-18 10:48:49,092 - DEBUG - Clicking on post reply button.
+2025-04-18 10:49:00,335 - DEBUG - Performed Actionchains
+2025-04-18 10:49:00,337 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:49:04,345 - INFO - Comment posted successfully.
+2025-04-18 10:49:04,347 - INFO - Task Completed!!
+2025-04-18 10:49:13,265 - INFO - Navigated back to the homepage.
+2025-04-18 10:49:16,209 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:49:16,241 - INFO - Garbage collection completed.
+2025-04-18 10:49:16,244 - INFO - Waiting for 1700 seconds before next execution.

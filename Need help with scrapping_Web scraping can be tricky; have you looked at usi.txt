@@ -1,0 +1,1 @@
+Web scraping can be tricky; have you looked at using a service like PropStream or is that too pricey for what you're trying to do?

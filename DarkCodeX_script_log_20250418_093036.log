@@ -1,0 +1,134 @@
+2025-04-18 09:30:36,645 - INFO - Current time: 1744948836.6452162
+2025-04-18 09:30:36,646 - INFO - Token expiration time: 1744959632.0175602
+2025-04-18 09:30:36,648 - INFO - Token expiration time: 1744959632.0175602
+2025-04-18 09:30:36,649 - INFO - Profile DarkCodeX: Opening random website: https://www.w3schools.com/
+2025-04-18 09:35:36,666 - ERROR - Profile DarkCodeX: Error opening random website: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70C0944D5+25349]
+	(No symbol) [0x00007FF70BFF90F0]
+	(No symbol) [0x00007FF70BE75A0A]
+	(No symbol) [0x00007FF70BE6590C]
+	(No symbol) [0x00007FF70BE655FA]
+	(No symbol) [0x00007FF70BE6329A]
+	(No symbol) [0x00007FF70BE63C5F]
+	(No symbol) [0x00007FF70BE6FC9E]
+	(No symbol) [0x00007FF70BE86161]
+	(No symbol) [0x00007FF70BE8D10A]
+	(No symbol) [0x00007FF70BE643CD]
+	(No symbol) [0x00007FF70BE85E95]
+	(No symbol) [0x00007FF70BF1F499]
+	(No symbol) [0x00007FF70BEF72D3]
+	(No symbol) [0x00007FF70BEC06F8]
+	(No symbol) [0x00007FF70BEC1463]
+	GetHandleVerifier [0x00007FF70C41887D+3712685]
+	GetHandleVerifier [0x00007FF70C4308C2+3811058]
+	GetHandleVerifier [0x00007FF70C42457D+3761069]
+	GetHandleVerifier [0x00007FF70C16293A+870250]
+	(No symbol) [0x00007FF70C0042CF]
+	(No symbol) [0x00007FF70BFFFC14]
+	(No symbol) [0x00007FF70BFFFDC2]
+	(No symbol) [0x00007FF70BFEEED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-18 09:35:36,712 - INFO - performing random action
+2025-04-18 09:35:36,715 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 09:35:36,716 - DEBUG - Scrolling page 2 times.
+2025-04-18 09:35:36,717 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:35:38,188 - DEBUG - Page scrolled.
+2025-04-18 09:35:40,190 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:35:41,492 - DEBUG - Page scrolled.
+2025-04-18 09:35:43,495 - DEBUG - Random scrolls complete.
+2025-04-18 09:35:43,500 - DEBUG - Scrolling page 2 times.
+2025-04-18 09:35:43,502 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:35:45,326 - DEBUG - Page scrolled.
+2025-04-18 09:35:47,330 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:35:48,985 - DEBUG - Page scrolled.
+2025-04-18 09:35:50,986 - DEBUG - Random scrolls complete.
+2025-04-18 09:36:02,047 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-04-18 09:36:05,929 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-sell-premium-domain-for-big-bucks.1704916/unread
+2025-04-18 09:36:05,929 - INFO - performing random action
+2025-04-18 09:36:17,822 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-sell-premium-domain-for-big-bucks.1704916/unread
+2025-04-18 09:36:17,825 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-sell-premium-domain-for-big-bucks.1704916/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 09:36:17,891 - INFO - Extracted thread title: how to sell premium domain for big bucks
+2025-04-18 09:36:17,892 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:36:17,892 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:36:19,340 - DEBUG - Page scrolled.
+2025-04-18 09:36:21,344 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:36:22,889 - DEBUG - Page scrolled.
+2025-04-18 09:36:24,893 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:36:25,966 - DEBUG - Page scrolled.
+2025-04-18 09:36:27,968 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:36:29,927 - DEBUG - Page scrolled.
+2025-04-18 09:36:31,929 - DEBUG - Random scrolls complete.
+2025-04-18 09:36:34,468 - DEBUG - Scrolling page 1 times.
+2025-04-18 09:36:34,470 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:36:36,440 - DEBUG - Page scrolled.
+2025-04-18 09:36:39,445 - DEBUG - Random scrolls complete.
+2025-04-18 09:36:39,494 - DEBUG - Found 4 like buttons.
+2025-04-18 09:36:42,497 - INFO - Attempting to like 4 posts. There are 4 available.
+2025-04-18 09:36:43,350 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:36:43,389 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:36:43,393 - DEBUG - Liked post number 1 of 4.
+2025-04-18 09:36:48,749 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:36:48,774 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:36:48,779 - DEBUG - Liked post number 2 of 4.
+2025-04-18 09:36:54,176 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:36:54,184 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:36:54,184 - DEBUG - Liked post number 3 of 4.
+2025-04-18 09:36:59,185 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:36:59,209 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:36:59,212 - DEBUG - Liked post number 4 of 4.
+2025-04-18 09:37:04,064 - INFO - Liked 4 posts successfully.
+2025-04-18 09:37:04,067 - INFO - Liked 4 posts successfully.
+2025-04-18 09:37:06,313 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-18 09:37:15,766 - INFO - Profile DarkCodeX: Pausing for 39.06 seconds...
+2025-04-18 09:37:54,830 - INFO - Profile DarkCodeX: Resuming...
+2025-04-18 09:37:54,902 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-18 09:37:54,903 - INFO - performing random action
+2025-04-18 09:37:54,906 - DEBUG - Scrolling page 3 times.
+2025-04-18 09:37:54,917 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:37:56,355 - DEBUG - Page scrolled.
+2025-04-18 09:37:59,358 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:38:00,672 - DEBUG - Page scrolled.
+2025-04-18 09:38:03,674 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:38:05,200 - DEBUG - Page scrolled.
+2025-04-18 09:38:08,201 - DEBUG - Random scrolls complete.
+2025-04-18 09:38:10,862 - DEBUG - Total comments in the thread: 4
+2025-04-18 09:38:11,277 - INFO - Post content extracted and saved to Thread-Details/Thread Content\how to sell premium domain for big bucks.txt
+2025-04-18 09:38:14,273 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 09:38:14,307 - DEBUG - Extracted main post content: I bought the domain with 1M search with exact keyword.
+
+where can sell it for big amount and how much i can be sell. i have to hire a broker ?
+
+domain can be used to gold news website or sports betting
+
+I bought it today.
+2025-04-18 09:38:17,851 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 09:38:17,853 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 09:38:20,174 - INFO - Profile DarkCodeX: Pausing for 32.22 seconds...
+2025-04-18 09:38:52,396 - INFO - Profile DarkCodeX: Resuming...
+2025-04-18 09:38:52,398 - INFO - performing random action
+2025-04-18 09:38:52,399 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:38:52,401 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:38:52,453 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:38:52,580 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:38:52,587 - DEBUG - Text box scrolled into view
+2025-04-18 09:38:53,364 - DEBUG - Initializing actionchains
+2025-04-18 09:38:53,438 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2308}, size: {'height': 21, 'width': 68}
+2025-04-18 09:38:53,439 - DEBUG - Target click coordinates: (1267, 2318)
+2025-04-18 09:39:02,088 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 09:39:02,089 - DEBUG - Moving mouse to text box element.
+2025-04-18 09:39:02,090 - DEBUG - Clicking on the text box.
+2025-04-18 09:39:02,098 - DEBUG - Sending keys with content: Hot damn, a million searches? Find a gold news or sports betting company directly and cut out the broker fees.
+
+2025-04-18 09:39:07,885 - DEBUG - Clicking on post reply button.
+2025-04-18 09:39:18,961 - DEBUG - Performed Actionchains
+2025-04-18 09:39:18,962 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 09:39:22,965 - INFO - Comment posted successfully.
+2025-04-18 09:39:22,970 - INFO - Task Completed!!
+2025-04-18 09:39:32,046 - INFO - Navigated back to the homepage.
+2025-04-18 09:39:34,971 - INFO - Attempting to clear memory and resources.
+2025-04-18 09:39:35,050 - INFO - Garbage collection completed.
+2025-04-18 09:39:35,052 - INFO - Waiting for 1700 seconds before next execution.

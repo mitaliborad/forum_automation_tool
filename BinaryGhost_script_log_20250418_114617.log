@@ -1,0 +1,119 @@
+2025-04-18 11:46:17,255 - INFO - Current time: 1744956977.2554603
+2025-04-18 11:46:17,258 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 11:46:17,260 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 11:46:17,262 - INFO - Profile BinaryGhost: Opening random website: https://www.w3schools.com/
+2025-04-18 11:46:28,632 - INFO - Profile BinaryGhost: Pausing for 31.95 seconds...
+2025-04-18 11:47:00,585 - INFO - Profile BinaryGhost: Resuming...
+2025-04-18 11:47:00,603 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-18 11:47:00,612 - INFO - performing random action
+2025-04-18 11:47:00,615 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:47:00,617 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:47:00,617 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:47:01,702 - DEBUG - Page scrolled.
+2025-04-18 11:47:03,703 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:47:05,218 - DEBUG - Page scrolled.
+2025-04-18 11:47:07,230 - DEBUG - Random scrolls complete.
+2025-04-18 11:47:07,233 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:47:07,234 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:47:08,741 - DEBUG - Page scrolled.
+2025-04-18 11:47:10,743 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:47:12,617 - DEBUG - Page scrolled.
+2025-04-18 11:47:14,626 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:47:16,389 - DEBUG - Page scrolled.
+2025-04-18 11:47:18,391 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:47:20,067 - DEBUG - Page scrolled.
+2025-04-18 11:47:22,069 - DEBUG - Random scrolls complete.
+2025-04-18 11:47:34,146 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-18 11:47:38,325 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/so-how-someone-can-make-money-via-myspace-in-2024.1558486/unread
+2025-04-18 11:47:38,326 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-18 11:47:48,987 - INFO - Profile BinaryGhost: Pausing for 39.25 seconds...
+2025-04-18 11:48:28,235 - INFO - Profile BinaryGhost: Resuming...
+2025-04-18 11:48:28,291 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-18 11:48:28,293 - INFO - performing random action
+2025-04-18 11:48:42,545 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/so-how-someone-can-make-money-via-myspace-in-2024.1558486/unread
+2025-04-18 11:48:42,549 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/so-how-someone-can-make-money-via-myspace-in-2024.1558486/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:48:42,598 - INFO - Extracted thread title: So....how someone can make money via MySpace in 2024
+2025-04-18 11:48:42,599 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:48:42,599 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:44,114 - DEBUG - Page scrolled.
+2025-04-18 11:48:46,120 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:47,439 - DEBUG - Page scrolled.
+2025-04-18 11:48:49,446 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:51,381 - DEBUG - Page scrolled.
+2025-04-18 11:48:53,385 - DEBUG - Random scrolls complete.
+2025-04-18 11:48:55,501 - DEBUG - Scrolling page 1 times.
+2025-04-18 11:48:55,502 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:57,457 - DEBUG - Page scrolled.
+2025-04-18 11:49:00,463 - DEBUG - Random scrolls complete.
+2025-04-18 11:49:00,527 - DEBUG - Found 19 like buttons.
+2025-04-18 11:49:03,528 - INFO - Attempting to like 2 posts. There are 19 available.
+2025-04-18 11:49:04,313 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:49:04,358 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:49:04,360 - DEBUG - Liked post number 1 of 2.
+2025-04-18 11:49:09,714 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:49:09,721 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:49:09,722 - DEBUG - Liked post number 2 of 2.
+2025-04-18 11:49:13,799 - INFO - Liked 2 posts successfully.
+2025-04-18 11:49:13,801 - INFO - Liked 2 posts successfully.
+2025-04-18 11:49:16,434 - INFO - performing random action
+2025-04-18 11:49:16,436 - DEBUG - Scrolling page 6 times.
+2025-04-18 11:49:16,437 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:49:17,629 - DEBUG - Page scrolled.
+2025-04-18 11:49:20,634 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:49:21,952 - DEBUG - Page scrolled.
+2025-04-18 11:49:24,955 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:49:26,312 - DEBUG - Page scrolled.
+2025-04-18 11:49:29,335 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:49:30,988 - DEBUG - Page scrolled.
+2025-04-18 11:49:33,990 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:49:35,978 - DEBUG - Page scrolled.
+2025-04-18 11:49:39,008 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:49:41,151 - DEBUG - Page scrolled.
+2025-04-18 11:49:44,155 - DEBUG - Random scrolls complete.
+2025-04-18 11:49:46,779 - DEBUG - Total comments in the thread: 19
+2025-04-18 11:51:51,136 - INFO - Post content extracted and saved to Thread-Details/Thread Content\So....how someone can make money via MySpace in 2024.txt
+2025-04-18 11:51:53,527 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:51:53,572 - DEBUG - Extracted main post content: Hello and Happy New Year.
+I'm surprised that MySpace still has a section in Blackhat World. MySpace died since the rise of Facebook by the end of the 00s, and many people who are under 20 right now, they're not aware of its existence.
+
+So the question is, how someone can make money out of a music news site this year? Because that's what MySpace is now. A music news site.
+2025-04-18 11:51:57,551 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:51:57,555 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:51:59,891 - INFO - Profile BinaryGhost: Pausing for 40.88 seconds...
+2025-04-18 11:52:40,771 - INFO - Profile BinaryGhost: Resuming...
+2025-04-18 11:52:40,773 - INFO - performing random action
+2025-04-18 11:52:40,775 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:52:40,776 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:52:40,837 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:52:40,971 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:52:40,978 - DEBUG - Text box scrolled into view
+2025-04-18 11:52:41,806 - DEBUG - Initializing actionchains
+2025-04-18 11:52:41,859 - DEBUG - Post reply Element location: {'x': 1233, 'y': 6314}, size: {'height': 21, 'width': 68}
+2025-04-18 11:52:41,859 - DEBUG - Target click coordinates: (1267, 6324)
+2025-04-18 11:52:58,118 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:52:58,119 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:52:58,121 - DEBUG - Clicking on the text box.
+2025-04-18 11:52:58,130 - DEBUG - Sending keys with content: Honestly, MySpace is like a digital ghost town these days, but nostalgia's a powerful drug. Maybe focus on hyper-specific music niches that haven't been tapped yet, and leverage other platforms to drive traffic *to* MySpace?
+
+2025-04-18 11:53:03,754 - DEBUG - Clicking on post reply button.
+2025-04-18 11:53:15,914 - DEBUG - Performed Actionchains
+2025-04-18 11:53:15,915 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:53:19,921 - INFO - Comment posted successfully.
+2025-04-18 11:53:19,923 - INFO - Task Completed!!
+2025-04-18 11:53:31,615 - INFO - Navigated back to the homepage.
+2025-04-18 11:53:34,341 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:53:34,418 - INFO - Garbage collection completed.
+2025-04-18 11:53:34,422 - INFO - Waiting for 1700 seconds before next execution.
+2025-04-18 12:21:54,425 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-18 12:21:54,428 - INFO - Stopping browser for profile: BinaryGhost...
+2025-04-18 12:21:54,430 - INFO - Refreshing token before stopping profile...
+2025-04-18 12:21:54,432 - INFO - Refreshing token for BinaryGhost...
+2025-04-18 12:21:55,593 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-18 12:21:55,599 - INFO - Calculated token expiration time: 1744969915.5990148
+2025-04-18 12:21:55,600 - INFO - Profile BinaryGhost: Successfully logged in.
+2025-04-18 12:21:55,603 - INFO - Token refreshed successfully before stopping.
+2025-04-18 12:21:55,605 - INFO - Profile BinaryGhost: Attempting to stop (Attempt 1/3)...
+2025-04-18 12:21:55,621 - INFO - Profile BinaryGhost: Browser closed successfully in 0.01 seconds.
+2025-04-18 12:21:59,584 - INFO - Profile BinaryGhost: API call took 3.96 seconds.
+2025-04-18 12:21:59,586 - INFO - Profile BinaryGhost: Stopped successfully.
+2025-04-18 12:21:59,589 - INFO - Browser stopped successfully for profile: BinaryGhost.

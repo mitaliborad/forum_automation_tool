@@ -1,0 +1,100 @@
+2025-04-18 11:44:51,393 - INFO - Current time: 1744956891.3938017
+2025-04-18 11:44:51,396 - INFO - Token expiration time: 1744959516.5361674
+2025-04-18 11:44:51,397 - INFO - Token expiration time: 1744959516.5361674
+2025-04-18 11:44:51,405 - INFO - performing random action
+2025-04-18 11:44:51,407 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:44:51,409 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:44:51,410 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:44:52,624 - DEBUG - Page scrolled.
+2025-04-18 11:44:54,625 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:44:56,513 - DEBUG - Page scrolled.
+2025-04-18 11:44:58,515 - DEBUG - Random scrolls complete.
+2025-04-18 11:44:58,517 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:44:58,519 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:00,449 - DEBUG - Page scrolled.
+2025-04-18 11:45:02,452 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:03,506 - DEBUG - Page scrolled.
+2025-04-18 11:45:05,508 - DEBUG - Random scrolls complete.
+2025-04-18 11:45:18,765 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-18 11:45:23,139 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/share-your-thoughts-and-experiences.1706207/unread
+2025-04-18 11:45:23,139 - INFO - performing random action
+2025-04-18 11:45:34,557 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/share-your-thoughts-and-experiences.1706207/unread
+2025-04-18 11:45:34,560 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/share-your-thoughts-and-experiences.1706207/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:45:34,657 - INFO - Extracted thread title: Share your thoughts and experiences!
+2025-04-18 11:45:34,658 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:45:34,658 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:35,871 - DEBUG - Page scrolled.
+2025-04-18 11:45:37,877 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:39,187 - DEBUG - Page scrolled.
+2025-04-18 11:45:41,189 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:42,911 - DEBUG - Page scrolled.
+2025-04-18 11:45:44,913 - DEBUG - Random scrolls complete.
+2025-04-18 11:45:47,821 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:45:47,822 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:49,507 - DEBUG - Page scrolled.
+2025-04-18 11:45:52,509 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:53,754 - DEBUG - Page scrolled.
+2025-04-18 11:45:56,757 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:58,687 - DEBUG - Page scrolled.
+2025-04-18 11:46:01,690 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:02,740 - DEBUG - Page scrolled.
+2025-04-18 11:46:05,742 - DEBUG - Random scrolls complete.
+2025-04-18 11:46:05,799 - DEBUG - Found 2 like buttons.
+2025-04-18 11:46:08,801 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-04-18 11:46:09,540 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:46:09,567 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:46:09,567 - DEBUG - Liked post number 1 of 1.
+2025-04-18 11:46:14,093 - INFO - Liked 1 posts successfully.
+2025-04-18 11:46:14,095 - INFO - Liked 1 posts successfully.
+2025-04-18 11:46:16,836 - INFO - performing random action
+2025-04-18 11:46:16,838 - DEBUG - Scrolling page 7 times.
+2025-04-18 11:46:16,839 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:18,192 - DEBUG - Page scrolled.
+2025-04-18 11:46:21,194 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:22,755 - DEBUG - Page scrolled.
+2025-04-18 11:46:25,756 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:27,367 - DEBUG - Page scrolled.
+2025-04-18 11:46:30,373 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:31,531 - DEBUG - Page scrolled.
+2025-04-18 11:46:34,534 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:36,212 - DEBUG - Page scrolled.
+2025-04-18 11:46:39,214 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:40,544 - DEBUG - Page scrolled.
+2025-04-18 11:46:43,546 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:44,797 - DEBUG - Page scrolled.
+2025-04-18 11:46:47,803 - DEBUG - Random scrolls complete.
+2025-04-18 11:46:50,493 - DEBUG - Total comments in the thread: 2
+2025-04-18 11:47:00,950 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Share your thoughts and experiences!.txt
+2025-04-18 11:47:03,389 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:47:03,419 - DEBUG - Extracted main post content: Generating handsome income on BHW through service sales is possible.
+Please provide a list of in-demand services that are both long-term and paying.
+My goal is to achieve a monthly income of $10K to $15K from these services. I would appreciate your insights and experiences on this matter. Thank you!
+2025-04-18 11:47:08,724 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:47:08,727 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:47:11,597 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-18 11:47:17,283 - INFO - Profile Emaxx: Pausing for 45.53 seconds...
+2025-04-18 11:48:02,819 - INFO - Profile Emaxx: Resuming...
+2025-04-18 11:48:02,839 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-18 11:48:02,847 - INFO - performing random action
+2025-04-18 11:48:02,849 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:48:02,850 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:48:02,887 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:48:02,931 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:48:02,937 - DEBUG - Text box scrolled into view
+2025-04-18 11:48:03,786 - DEBUG - Initializing actionchains
+2025-04-18 11:48:03,869 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1625}, size: {'height': 21, 'width': 68}
+2025-04-18 11:48:03,870 - DEBUG - Target click coordinates: (1267, 1635)
+2025-04-18 11:48:10,523 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:48:10,524 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:48:10,526 - DEBUG - Clicking on the text box.
+2025-04-18 11:48:10,529 - DEBUG - Sending keys with content: Forget chasing the next big thing; focus on SEO fundamentals like technical audits and link building – those gigs are always needed, and folks pay a premium for expertise. Ever thought about specializing in a specific niche, like e-commerce SEO?
+
+2025-04-18 11:48:15,739 - DEBUG - Clicking on post reply button.
+2025-04-18 11:48:17,420 - DEBUG - Performed Actionchains
+2025-04-18 11:48:17,422 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:48:21,432 - INFO - Comment posted successfully.
+2025-04-18 11:48:21,434 - INFO - Task Completed!!
+2025-04-18 11:48:25,289 - INFO - Navigated back to the homepage.
+2025-04-18 11:48:27,997 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:48:28,073 - INFO - Garbage collection completed.
+2025-04-18 11:48:28,074 - INFO - Waiting for 1700 seconds before next execution.

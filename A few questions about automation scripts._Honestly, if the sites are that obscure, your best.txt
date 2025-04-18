@@ -1,0 +1,1 @@
+Honestly, if the sites are that obscure, your best bet might be getting really good at using a macro recorder like AutoHotKey. It's clunky, sure, but a heck of a lot faster to learn than Python for this specific task.

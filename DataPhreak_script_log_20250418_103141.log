@@ -1,0 +1,94 @@
+2025-04-18 10:31:41,814 - INFO - Current time: 1744952501.8139591
+2025-04-18 10:31:41,816 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 10:31:41,817 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 10:31:41,820 - INFO - performing random action
+2025-04-18 10:31:41,822 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:31:41,827 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:31:41,829 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:43,526 - DEBUG - Page scrolled.
+2025-04-18 10:31:45,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:47,202 - DEBUG - Page scrolled.
+2025-04-18 10:31:49,204 - DEBUG - Random scrolls complete.
+2025-04-18 10:31:49,206 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:31:49,207 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:50,853 - DEBUG - Page scrolled.
+2025-04-18 10:31:52,855 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:53,950 - DEBUG - Page scrolled.
+2025-04-18 10:31:55,952 - DEBUG - Random scrolls complete.
+2025-04-18 10:32:03,557 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/c-c-c.60/
+2025-04-18 10:32:07,248 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-help-please.1662703/
+2025-04-18 10:32:07,248 - INFO - performing random action
+2025-04-18 10:32:15,498 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-help-please.1662703/
+2025-04-18 10:32:15,500 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-help-please.1662703/' to visited threads file 'Thread_links.txt'.
+2025-04-18 10:32:15,546 - INFO - Extracted thread title: Need help please
+2025-04-18 10:32:15,547 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:32:15,547 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:32:16,628 - DEBUG - Page scrolled.
+2025-04-18 10:32:18,629 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:32:20,464 - DEBUG - Page scrolled.
+2025-04-18 10:32:22,466 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:32:23,515 - DEBUG - Page scrolled.
+2025-04-18 10:32:25,517 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:32:27,513 - DEBUG - Page scrolled.
+2025-04-18 10:32:29,514 - DEBUG - Random scrolls complete.
+2025-04-18 10:32:32,112 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:32:32,115 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:32:33,434 - DEBUG - Page scrolled.
+2025-04-18 10:32:36,436 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:32:37,755 - DEBUG - Page scrolled.
+2025-04-18 10:32:40,758 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:32:42,386 - DEBUG - Page scrolled.
+2025-04-18 10:32:45,390 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:32:46,522 - DEBUG - Page scrolled.
+2025-04-18 10:32:49,523 - DEBUG - Random scrolls complete.
+2025-04-18 10:32:49,561 - DEBUG - Found 1 like buttons.
+2025-04-18 10:32:52,563 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-18 10:32:53,187 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:32:53,221 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:32:53,223 - DEBUG - Liked post number 1 of 1.
+2025-04-18 10:32:57,951 - INFO - Liked 1 posts successfully.
+2025-04-18 10:32:57,954 - INFO - Liked 1 posts successfully.
+2025-04-18 10:33:00,191 - INFO - performing random action
+2025-04-18 10:33:00,192 - DEBUG - Scrolling page 6 times.
+2025-04-18 10:33:00,194 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:33:02,026 - DEBUG - Page scrolled.
+2025-04-18 10:33:05,028 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:33:06,048 - DEBUG - Page scrolled.
+2025-04-18 10:33:09,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:33:10,486 - DEBUG - Page scrolled.
+2025-04-18 10:33:13,489 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:33:15,117 - DEBUG - Page scrolled.
+2025-04-18 10:33:18,117 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:33:19,496 - DEBUG - Page scrolled.
+2025-04-18 10:33:22,500 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:33:24,166 - DEBUG - Page scrolled.
+2025-04-18 10:33:27,168 - DEBUG - Random scrolls complete.
+2025-04-18 10:33:29,431 - DEBUG - Total comments in the thread: 1
+2025-04-18 10:33:29,524 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need help please.txt
+2025-04-18 10:33:31,891 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:33:31,926 - DEBUG - Extracted main post content: Can someone please tell me in detail what Commbank AN+RN+NAME+ADDRESS+ONLINE ACCESS IS? Thanks
+2025-04-18 10:33:35,345 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:33:35,348 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:33:37,996 - INFO - performing random action
+2025-04-18 10:33:37,997 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:33:37,999 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:33:38,032 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:33:38,075 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:33:38,082 - DEBUG - Text box scrolled into view
+2025-04-18 10:33:39,021 - DEBUG - Initializing actionchains
+2025-04-18 10:33:39,057 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1067}, size: {'height': 21, 'width': 68}
+2025-04-18 10:33:39,057 - DEBUG - Target click coordinates: (1267, 1077)
+2025-04-18 10:33:45,517 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:33:45,518 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:33:45,518 - DEBUG - Clicking on the text box.
+2025-04-18 10:33:45,519 - DEBUG - Sending keys with content: Sounds like you're trying to access your bank account details; best bet is to call Commbank directly to verify and get that info securely.
+
+2025-04-18 10:33:50,759 - DEBUG - Clicking on post reply button.
+2025-04-18 10:34:01,730 - DEBUG - Performed Actionchains
+2025-04-18 10:34:01,732 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:34:05,734 - INFO - Comment posted successfully.
+2025-04-18 10:34:05,736 - INFO - Task Completed!!
+2025-04-18 10:34:14,867 - INFO - Navigated back to the homepage.
+2025-04-18 10:34:17,277 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:34:17,321 - INFO - Garbage collection completed.
+2025-04-18 10:34:17,321 - INFO - Waiting for 1700 seconds before next execution.

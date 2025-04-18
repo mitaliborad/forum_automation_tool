@@ -1,0 +1,108 @@
+2025-04-18 11:12:54,586 - INFO - Current time: 1744954974.5861514
+2025-04-18 11:12:54,593 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 11:12:54,593 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 11:12:54,594 - INFO - performing random action
+2025-04-18 11:12:54,595 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:12:54,595 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:12:54,596 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:55,746 - DEBUG - Page scrolled.
+2025-04-18 11:12:57,749 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:59,417 - DEBUG - Page scrolled.
+2025-04-18 11:13:01,420 - DEBUG - Random scrolls complete.
+2025-04-18 11:13:01,423 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:13:01,424 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:03,063 - DEBUG - Page scrolled.
+2025-04-18 11:13:05,065 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:06,216 - DEBUG - Page scrolled.
+2025-04-18 11:13:08,218 - DEBUG - Random scrolls complete.
+2025-04-18 11:13:18,928 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-04-18 11:13:22,929 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/help-with-payment-integration.1680554/
+2025-04-18 11:13:22,929 - INFO - Profile BinaryGhost: Opening random website: https://www.netflix.com/in/
+2025-04-18 11:13:34,380 - INFO - Profile BinaryGhost: Pausing for 34.13 seconds...
+2025-04-18 11:14:08,508 - INFO - Profile BinaryGhost: Resuming...
+2025-04-18 11:14:08,553 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-18 11:14:08,554 - INFO - performing random action
+2025-04-18 11:14:18,444 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/help-with-payment-integration.1680554/
+2025-04-18 11:14:18,453 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/help-with-payment-integration.1680554/' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:14:18,540 - INFO - Extracted thread title: Help with payment integration
+2025-04-18 11:14:18,541 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:14:18,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:19,837 - DEBUG - Page scrolled.
+2025-04-18 11:14:21,840 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:23,797 - DEBUG - Page scrolled.
+2025-04-18 11:14:25,799 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:27,448 - DEBUG - Page scrolled.
+2025-04-18 11:14:29,449 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:30,497 - DEBUG - Page scrolled.
+2025-04-18 11:14:32,511 - DEBUG - Random scrolls complete.
+2025-04-18 11:14:34,845 - DEBUG - Scrolling page 1 times.
+2025-04-18 11:14:34,846 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:36,849 - DEBUG - Page scrolled.
+2025-04-18 11:14:39,851 - DEBUG - Random scrolls complete.
+2025-04-18 11:14:39,918 - DEBUG - Found 8 like buttons.
+2025-04-18 11:14:42,922 - INFO - Attempting to like 3 posts. There are 8 available.
+2025-04-18 11:14:43,901 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:14:43,948 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:14:43,950 - DEBUG - Liked post number 1 of 3.
+2025-04-18 11:14:49,478 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:14:49,514 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:14:49,516 - DEBUG - Liked post number 2 of 3.
+2025-04-18 11:14:54,659 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:14:54,680 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:14:54,682 - DEBUG - Liked post number 3 of 3.
+2025-04-18 11:14:59,097 - INFO - Liked 3 posts successfully.
+2025-04-18 11:14:59,099 - INFO - Liked 3 posts successfully.
+2025-04-18 11:15:01,212 - INFO - Profile BinaryGhost: Pausing for 40.87 seconds...
+2025-04-18 11:15:42,081 - INFO - Profile BinaryGhost: Resuming...
+2025-04-18 11:15:42,083 - INFO - performing random action
+2025-04-18 11:15:42,084 - DEBUG - Scrolling page 7 times.
+2025-04-18 11:15:42,085 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:15:43,617 - DEBUG - Page scrolled.
+2025-04-18 11:15:46,620 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:15:47,781 - DEBUG - Page scrolled.
+2025-04-18 11:15:50,785 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:15:52,549 - DEBUG - Page scrolled.
+2025-04-18 11:15:55,574 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:15:57,070 - DEBUG - Page scrolled.
+2025-04-18 11:16:00,074 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:16:01,940 - DEBUG - Page scrolled.
+2025-04-18 11:16:04,942 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:16:06,657 - DEBUG - Page scrolled.
+2025-04-18 11:16:09,659 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:16:10,681 - DEBUG - Page scrolled.
+2025-04-18 11:16:13,683 - DEBUG - Random scrolls complete.
+2025-04-18 11:16:16,775 - DEBUG - Total comments in the thread: 8
+2025-04-18 11:16:38,031 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Help with payment integration.txt
+2025-04-18 11:16:40,862 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:16:40,987 - DEBUG - Extracted main post content: Please I really need help here I hope someone in the community will help me
+Can someone teach me how to integrate a payment gateway to a PHP script I got from codeconey envanto marketplace but I can't reach out to the team (you know why).
+I don't have money am just trying to learn this skills of installing scripts for people but I have noticed that implementing a payment gateway is a problem because the script might have once you don't want or can't use.
+Please
+2025-04-18 11:16:44,270 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:16:44,273 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:16:46,745 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-18 11:16:46,759 - INFO - Profile BinaryGhost: Window minimized. Pausing for 26.67 seconds...
+2025-04-18 11:17:13,481 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-18 11:17:13,483 - INFO - performing random action
+2025-04-18 11:17:13,485 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:17:13,487 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:17:13,537 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:17:13,600 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:17:13,606 - DEBUG - Text box scrolled into view
+2025-04-18 11:17:14,320 - DEBUG - Initializing actionchains
+2025-04-18 11:17:14,409 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3787}, size: {'height': 21, 'width': 68}
+2025-04-18 11:17:14,410 - DEBUG - Target click coordinates: (1267, 3797)
+2025-04-18 11:17:25,449 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:17:25,450 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:17:25,452 - DEBUG - Clicking on the text box.
+2025-04-18 11:17:25,460 - DEBUG - Sending keys with content: Hit up YouTube; there are tons of free tutorials showing payment gateway integration with PHP, and most gateways have pretty good developer docs, too. Start small and work your way up.
+
+2025-04-18 11:17:30,866 - DEBUG - Clicking on post reply button.
+2025-04-18 11:17:42,093 - DEBUG - Performed Actionchains
+2025-04-18 11:17:42,094 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:17:46,099 - INFO - Comment posted successfully.
+2025-04-18 11:17:46,101 - INFO - Task Completed!!
+2025-04-18 11:17:54,591 - INFO - Navigated back to the homepage.
+2025-04-18 11:17:57,186 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:17:57,250 - INFO - Garbage collection completed.
+2025-04-18 11:17:57,251 - INFO - Waiting for 1700 seconds before next execution.

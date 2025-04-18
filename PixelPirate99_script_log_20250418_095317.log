@@ -1,0 +1,83 @@
+2025-04-18 09:53:17,556 - INFO - Current time: 1744950197.5565934
+2025-04-18 09:53:17,558 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 09:53:17,560 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 09:53:17,562 - INFO - performing random action
+2025-04-18 09:53:17,564 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 09:53:17,566 - DEBUG - Scrolling page 2 times.
+2025-04-18 09:53:17,572 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:53:19,556 - DEBUG - Page scrolled.
+2025-04-18 09:53:21,558 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:53:23,341 - DEBUG - Page scrolled.
+2025-04-18 09:53:25,343 - DEBUG - Random scrolls complete.
+2025-04-18 09:53:25,346 - DEBUG - Scrolling page 3 times.
+2025-04-18 09:53:25,349 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:53:26,486 - DEBUG - Page scrolled.
+2025-04-18 09:53:28,488 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:53:29,861 - DEBUG - Page scrolled.
+2025-04-18 09:53:31,863 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:53:33,661 - DEBUG - Page scrolled.
+2025-04-18 09:53:35,663 - DEBUG - Random scrolls complete.
+2025-04-18 09:53:44,196 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-04-18 09:53:48,245 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/twitter-hide-videos-with-18-content.1701528/unread
+2025-04-18 09:53:48,246 - INFO - Profile PixelPirate99: Restoring window...
+2025-04-18 09:53:50,253 - INFO - performing random action
+2025-04-18 09:54:00,308 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/twitter-hide-videos-with-18-content.1701528/unread
+2025-04-18 09:54:00,325 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/twitter-hide-videos-with-18-content.1701528/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 09:54:00,474 - INFO - Extracted thread title: TWITTER HIDE VIDEOS WITH 18+ CONTENT
+2025-04-18 09:54:00,474 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:54:00,475 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:54:02,093 - DEBUG - Page scrolled.
+2025-04-18 09:54:04,105 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:54:05,962 - DEBUG - Page scrolled.
+2025-04-18 09:54:07,964 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:54:09,016 - DEBUG - Page scrolled.
+2025-04-18 09:54:11,025 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:54:13,013 - DEBUG - Page scrolled.
+2025-04-18 09:54:15,023 - DEBUG - Random scrolls complete.
+2025-04-18 09:54:17,214 - DEBUG - Scrolling page 1 times.
+2025-04-18 09:54:17,215 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:54:19,223 - DEBUG - Page scrolled.
+2025-04-18 09:54:22,233 - DEBUG - Random scrolls complete.
+2025-04-18 09:54:22,301 - DEBUG - Found 4 like buttons.
+2025-04-18 09:54:25,311 - INFO - Attempting to like 4 posts. There are 4 available.
+2025-04-18 09:54:25,960 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:54:26,013 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:54:26,014 - DEBUG - Liked post number 1 of 4.
+2025-04-18 09:54:31,160 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:54:31,172 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:54:31,179 - DEBUG - Liked post number 2 of 4.
+2025-04-18 09:54:36,696 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:54:36,717 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:54:36,718 - DEBUG - Liked post number 3 of 4.
+2025-04-18 09:54:41,589 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:54:41,626 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:54:41,638 - DEBUG - Liked post number 4 of 4.
+2025-04-18 09:54:46,288 - INFO - Liked 4 posts successfully.
+2025-04-18 09:54:46,290 - INFO - Liked 4 posts successfully.
+2025-04-18 09:54:49,129 - INFO - performing random action
+2025-04-18 09:54:49,130 - DEBUG - Scrolling page 6 times.
+2025-04-18 09:54:49,131 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:54:51,083 - DEBUG - Page scrolled.
+2025-04-18 09:54:54,093 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:54:55,315 - DEBUG - Page scrolled.
+2025-04-18 09:54:58,321 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:55:00,339 - DEBUG - Page scrolled.
+2025-04-18 09:55:03,350 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:55:04,845 - DEBUG - Page scrolled.
+2025-04-18 09:55:07,848 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:55:09,373 - DEBUG - Page scrolled.
+2025-04-18 09:55:12,377 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:55:14,401 - DEBUG - Page scrolled.
+2025-04-18 09:55:17,409 - DEBUG - Random scrolls complete.
+2025-04-18 09:55:20,167 - DEBUG - Total comments in the thread: 4
+2025-04-18 09:55:41,349 - INFO - Post content extracted and saved to Thread-Details/Thread Content\TWITTER HIDE VIDEOS WITH 18+ CONTENT.txt
+2025-04-18 09:55:44,352 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 09:55:44,520 - DEBUG - Extracted main post content: 
+2025-04-18 09:55:46,830 - ERROR - Thread content file 'Thread-Details/API Comments\TWITTER HIDE VIDEOS WITH 18+ CONTENT_Honestly, feels more like a land grab than real va.txt' not found.
+2025-04-18 09:55:49,409 - INFO - performing random action
+2025-04-18 09:55:49,411 - WARNING - No comment available to post.
+2025-04-18 09:55:49,412 - INFO - Task Completed!!
+2025-04-18 09:55:52,483 - INFO - Navigated back to the homepage.
+2025-04-18 09:55:54,613 - INFO - Attempting to clear memory and resources.
+2025-04-18 09:55:54,692 - INFO - Garbage collection completed.
+2025-04-18 09:55:54,693 - INFO - Waiting for 1700 seconds before next execution.

@@ -1,0 +1,1 @@
+Honestly, I'd stick with Windows in AdsPower since that's your actual OS, and try tweaking the fingerprint settings. Maybe Pixelscan is just being overly sensitive to some minor inconsistencies.

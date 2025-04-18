@@ -1,0 +1,99 @@
+2025-04-18 11:32:46,561 - INFO - Current time: 1744956166.5613592
+2025-04-18 11:32:46,564 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 11:32:46,566 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 11:32:46,569 - INFO - Profile PixelPirate99: Opening random website: https://www.teejh.com/
+2025-04-18 11:32:52,133 - INFO - Profile PixelPirate99: Pausing for 36.63 seconds...
+2025-04-18 11:33:28,772 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 11:33:28,784 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-18 11:33:28,786 - INFO - performing random action
+2025-04-18 11:33:28,789 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:33:28,792 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:33:28,793 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:33:30,482 - DEBUG - Page scrolled.
+2025-04-18 11:33:32,484 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:33:34,263 - DEBUG - Page scrolled.
+2025-04-18 11:33:36,265 - DEBUG - Random scrolls complete.
+2025-04-18 11:33:36,266 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:33:36,268 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:33:37,468 - DEBUG - Page scrolled.
+2025-04-18 11:33:39,470 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:33:41,123 - DEBUG - Page scrolled.
+2025-04-18 11:33:43,125 - DEBUG - Random scrolls complete.
+2025-04-18 11:33:50,249 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-18 11:33:54,905 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/trump-cash-out-process-scamming-millions-of-dollars.1706200/unread
+2025-04-18 11:33:54,905 - INFO - performing random action
+2025-04-18 11:34:01,603 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/trump-cash-out-process-scamming-millions-of-dollars.1706200/unread
+2025-04-18 11:34:01,606 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/trump-cash-out-process-scamming-millions-of-dollars.1706200/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:34:01,659 - INFO - Extracted thread title: Trump cash out process scamming millions of dollars
+2025-04-18 11:34:01,659 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:34:01,660 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:03,124 - DEBUG - Page scrolled.
+2025-04-18 11:34:05,128 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:06,746 - DEBUG - Page scrolled.
+2025-04-18 11:34:08,748 - DEBUG - Random scrolls complete.
+2025-04-18 11:34:10,865 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:34:10,870 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:12,517 - DEBUG - Page scrolled.
+2025-04-18 11:34:15,519 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:17,125 - DEBUG - Page scrolled.
+2025-04-18 11:34:20,127 - DEBUG - Random scrolls complete.
+2025-04-18 11:34:20,185 - DEBUG - Found 1 like buttons.
+2025-04-18 11:34:23,188 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-18 11:34:23,797 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:34:23,837 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:34:23,839 - DEBUG - Liked post number 1 of 1.
+2025-04-18 11:34:28,043 - INFO - Liked 1 posts successfully.
+2025-04-18 11:34:28,126 - INFO - Liked 1 posts successfully.
+2025-04-18 11:34:30,966 - INFO - Profile PixelPirate99: Opening random website: https://github.com/
+2025-04-18 11:34:35,699 - INFO - Profile PixelPirate99: Pausing for 31.65 seconds...
+2025-04-18 11:35:07,350 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 11:35:07,372 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-18 11:35:07,374 - INFO - performing random action
+2025-04-18 11:35:07,375 - DEBUG - Scrolling page 7 times.
+2025-04-18 11:35:07,377 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:08,990 - DEBUG - Page scrolled.
+2025-04-18 11:35:11,993 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:13,109 - DEBUG - Page scrolled.
+2025-04-18 11:35:16,114 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:17,304 - DEBUG - Page scrolled.
+2025-04-18 11:35:20,307 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:21,664 - DEBUG - Page scrolled.
+2025-04-18 11:35:24,670 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:26,258 - DEBUG - Page scrolled.
+2025-04-18 11:35:29,260 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:30,598 - DEBUG - Page scrolled.
+2025-04-18 11:35:33,610 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:35,231 - DEBUG - Page scrolled.
+2025-04-18 11:35:38,233 - DEBUG - Random scrolls complete.
+2025-04-18 11:35:41,260 - DEBUG - Total comments in the thread: 1
+2025-04-18 11:35:41,346 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Trump cash out process scamming millions of dollars.txt
+2025-04-18 11:35:43,394 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:35:43,484 - DEBUG - Extracted main post content: There are many patriots from the USA supporters of Trump who pay for products that have no price... after that they pay for other products just to make a "withdrawal of millions", does anyone have more information about this scam? ? they use Telegram and talk to trump supporters.
+
+https://www.rferl.org/a/macedonia-trump-debit-cards-scam/32836128.html
+https://www.forbes.com.au/news/world-news/scammed-trump-thought-their-memorabilia-was-worth-millions/
+2025-04-18 11:35:48,843 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:35:48,850 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:35:51,552 - INFO - performing random action
+2025-04-18 11:35:51,557 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:35:51,557 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:35:51,576 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:35:51,634 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:35:51,646 - DEBUG - Text box scrolled into view
+2025-04-18 11:35:52,344 - DEBUG - Initializing actionchains
+2025-04-18 11:35:52,434 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1125}, size: {'height': 21, 'width': 68}
+2025-04-18 11:35:52,435 - DEBUG - Target click coordinates: (1267, 1135)
+2025-04-18 11:35:59,017 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:35:59,018 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:35:59,020 - DEBUG - Clicking on the text box.
+2025-04-18 11:35:59,022 - DEBUG - Sending keys with content: Wow, that's wild. So it's like a modern twist on those old advance-fee scams, but with a political angle?
+
+2025-04-18 11:36:04,519 - DEBUG - Clicking on post reply button.
+2025-04-18 11:36:15,619 - DEBUG - Performed Actionchains
+2025-04-18 11:36:15,620 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:36:19,625 - INFO - Comment posted successfully.
+2025-04-18 11:36:19,627 - INFO - Task Completed!!
+2025-04-18 11:36:27,213 - INFO - Navigated back to the homepage.
+2025-04-18 11:36:29,309 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:36:29,380 - INFO - Garbage collection completed.
+2025-04-18 11:36:29,381 - INFO - Waiting for 1700 seconds before next execution.

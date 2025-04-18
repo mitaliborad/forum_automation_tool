@@ -1,0 +1,104 @@
+2025-04-18 12:04:49,386 - INFO - Current time: 1744958089.3860004
+2025-04-18 12:04:49,389 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 12:04:49,391 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 12:04:49,393 - INFO - Profile PixelPirate99: Restoring window...
+2025-04-18 12:04:51,403 - INFO - performing random action
+2025-04-18 12:04:51,406 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 12:04:51,408 - DEBUG - Scrolling page 2 times.
+2025-04-18 12:04:51,409 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:04:53,031 - DEBUG - Page scrolled.
+2025-04-18 12:04:55,033 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:04:57,002 - DEBUG - Page scrolled.
+2025-04-18 12:04:59,006 - DEBUG - Random scrolls complete.
+2025-04-18 12:04:59,012 - DEBUG - Scrolling page 3 times.
+2025-04-18 12:04:59,014 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:05:00,808 - DEBUG - Page scrolled.
+2025-04-18 12:05:02,810 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:05:03,869 - DEBUG - Page scrolled.
+2025-04-18 12:05:05,871 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:05:07,061 - DEBUG - Page scrolled.
+2025-04-18 12:05:09,063 - DEBUG - Random scrolls complete.
+2025-04-18 12:05:16,414 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-18 12:05:21,177 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/paypal-weve-stopped-this-payment-to-keep-you-safe-paypal-scam-waring.1706171/unread
+2025-04-18 12:05:21,178 - INFO - Profile PixelPirate99: Pausing for 38.86 seconds...
+2025-04-18 12:06:00,043 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 12:06:00,045 - INFO - performing random action
+2025-04-18 12:06:07,242 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/paypal-weve-stopped-this-payment-to-keep-you-safe-paypal-scam-waring.1706171/unread
+2025-04-18 12:06:07,259 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/paypal-weve-stopped-this-payment-to-keep-you-safe-paypal-scam-waring.1706171/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 12:06:07,371 - INFO - Extracted thread title: PayPal - We've stopped this payment to keep you safe  PayPal scam waring
+2025-04-18 12:06:07,372 - DEBUG - Scrolling page 2 times.
+2025-04-18 12:06:07,373 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:06:09,294 - DEBUG - Page scrolled.
+2025-04-18 12:06:11,298 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:06:12,909 - DEBUG - Page scrolled.
+2025-04-18 12:06:14,913 - DEBUG - Random scrolls complete.
+2025-04-18 12:06:17,589 - DEBUG - Scrolling page 2 times.
+2025-04-18 12:06:17,590 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:06:18,766 - DEBUG - Page scrolled.
+2025-04-18 12:06:21,768 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:06:23,272 - DEBUG - Page scrolled.
+2025-04-18 12:06:26,275 - DEBUG - Random scrolls complete.
+2025-04-18 12:06:26,343 - DEBUG - Found 2 like buttons.
+2025-04-18 12:06:29,346 - INFO - Attempting to like 1 posts. There are 2 available.
+2025-04-18 12:06:29,942 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 12:06:29,989 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 12:06:29,991 - DEBUG - Liked post number 1 of 1.
+2025-04-18 12:06:34,717 - INFO - Liked 1 posts successfully.
+2025-04-18 12:06:34,719 - INFO - Liked 1 posts successfully.
+2025-04-18 12:06:37,188 - INFO - Profile PixelPirate99: Pausing for 48.86 seconds...
+2025-04-18 12:07:26,051 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 12:07:26,053 - INFO - performing random action
+2025-04-18 12:07:26,054 - DEBUG - Scrolling page 4 times.
+2025-04-18 12:07:26,056 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:27,263 - DEBUG - Page scrolled.
+2025-04-18 12:07:30,267 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:32,249 - DEBUG - Page scrolled.
+2025-04-18 12:07:35,251 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:36,824 - DEBUG - Page scrolled.
+2025-04-18 12:07:39,826 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:40,984 - DEBUG - Page scrolled.
+2025-04-18 12:07:43,992 - DEBUG - Random scrolls complete.
+2025-04-18 12:07:46,256 - DEBUG - Total comments in the thread: 2
+2025-04-18 12:07:46,459 - INFO - Post content extracted and saved to Thread-Details/Thread Content\PayPal - We've stopped this payment to keep you safe  PayPal scam waring.txt
+2025-04-18 12:07:48,958 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 12:07:49,045 - DEBUG - Extracted main post content: I Tried creating many paypals, different IP, devices, numbers. Nothing worked it always says the same thing when a person is trying to send me money.
+
+Does anyone know what could be the issue or anyone know how to bypass this stupid thing?
+2025-04-18 12:07:53,041 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 12:07:53,044 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 12:07:55,983 - INFO - performing random action
+2025-04-18 12:07:55,985 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:07:55,986 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:07:56,043 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:07:56,171 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:07:56,190 - DEBUG - Text box scrolled into view
+2025-04-18 12:07:57,036 - DEBUG - Initializing actionchains
+2025-04-18 12:07:57,126 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1530}, size: {'height': 21, 'width': 68}
+2025-04-18 12:07:57,127 - DEBUG - Target click coordinates: (1267, 1540)
+2025-04-18 12:08:04,213 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 12:08:04,215 - DEBUG - Moving mouse to text box element.
+2025-04-18 12:08:04,216 - DEBUG - Clicking on the text box.
+2025-04-18 12:08:04,219 - DEBUG - Sending keys with content: Are you using a VPN? Sometimes PayPal flags those addresses, but if not, maybe try clearing your browser cache and cookies, it might help.
+
+2025-04-18 12:08:09,787 - DEBUG - Clicking on post reply button.
+2025-04-18 12:08:20,976 - DEBUG - Performed Actionchains
+2025-04-18 12:08:20,977 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 12:08:24,978 - INFO - Comment posted successfully.
+2025-04-18 12:08:24,979 - INFO - Task Completed!!
+2025-04-18 12:08:31,532 - INFO - Navigated back to the homepage.
+2025-04-18 12:08:33,718 - INFO - Attempting to clear memory and resources.
+2025-04-18 12:08:33,765 - INFO - Garbage collection completed.
+2025-04-18 12:08:33,766 - INFO - Waiting for 1700 seconds before next execution.
+2025-04-18 12:36:53,767 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-18 12:36:53,770 - INFO - Stopping browser for profile: PixelPirate99...
+2025-04-18 12:36:53,773 - INFO - Refreshing token before stopping profile...
+2025-04-18 12:36:53,775 - INFO - Refreshing token for PixelPirate99...
+2025-04-18 12:36:54,694 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-18 12:36:54,697 - INFO - Calculated token expiration time: 1744970814.6975372
+2025-04-18 12:36:54,698 - INFO - Profile PixelPirate99: Successfully logged in.
+2025-04-18 12:36:54,699 - INFO - Token refreshed successfully before stopping.
+2025-04-18 12:36:54,699 - INFO - Profile PixelPirate99: Attempting to stop (Attempt 1/3)...
+2025-04-18 12:36:54,710 - INFO - Profile PixelPirate99: Browser closed successfully in 0.01 seconds.
+2025-04-18 12:36:59,419 - INFO - Profile PixelPirate99: API call took 4.71 seconds.
+2025-04-18 12:36:59,421 - INFO - Profile PixelPirate99: Stopped successfully.
+2025-04-18 12:36:59,425 - INFO - Browser stopped successfully for profile: PixelPirate99.

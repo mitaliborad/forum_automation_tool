@@ -1,0 +1,104 @@
+2025-04-18 10:07:03,692 - INFO - Current time: 1744951023.6919706
+2025-04-18 10:07:03,693 - INFO - Token expiration time: 1744959516.5361674
+2025-04-18 10:07:03,695 - INFO - Token expiration time: 1744959516.5361674
+2025-04-18 10:07:03,696 - INFO - performing random action
+2025-04-18 10:07:03,701 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:07:03,703 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:07:03,704 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:07:05,048 - DEBUG - Page scrolled.
+2025-04-18 10:07:07,050 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:07:08,393 - DEBUG - Page scrolled.
+2025-04-18 10:07:10,395 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:07:11,501 - DEBUG - Page scrolled.
+2025-04-18 10:07:13,502 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:07:15,448 - DEBUG - Page scrolled.
+2025-04-18 10:07:17,449 - DEBUG - Random scrolls complete.
+2025-04-18 10:07:17,451 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:07:17,452 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:07:19,190 - DEBUG - Page scrolled.
+2025-04-18 10:07:21,193 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:07:22,489 - DEBUG - Page scrolled.
+2025-04-18 10:07:24,491 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:07:25,519 - DEBUG - Page scrolled.
+2025-04-18 10:07:27,522 - DEBUG - Random scrolls complete.
+2025-04-18 10:07:35,218 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-18 10:07:39,107 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/hi-guys-i-use-google-ads-to-run-my-black-stores-in-brazil-and-im-looking-for-a-cloaker-thats-currently-working.1704277/unread
+2025-04-18 10:07:39,108 - INFO - Profile Emaxx: Pausing for 35.08 seconds...
+2025-04-18 10:08:14,190 - INFO - Profile Emaxx: Resuming...
+2025-04-18 10:08:14,191 - INFO - performing random action
+2025-04-18 10:08:24,480 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/hi-guys-i-use-google-ads-to-run-my-black-stores-in-brazil-and-im-looking-for-a-cloaker-thats-currently-working.1704277/unread
+2025-04-18 10:08:24,482 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/hi-guys-i-use-google-ads-to-run-my-black-stores-in-brazil-and-im-looking-for-a-cloaker-thats-currently-working.1704277/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 10:08:24,513 - INFO - Extracted thread title: Hi guys, I use google ads to run my black stores in Brazil and I'm looking for a cloaker that's currently working
+2025-04-18 10:08:24,514 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:08:24,515 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:08:26,098 - DEBUG - Page scrolled.
+2025-04-18 10:08:28,099 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:08:30,083 - DEBUG - Page scrolled.
+2025-04-18 10:08:32,090 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:08:33,979 - DEBUG - Page scrolled.
+2025-04-18 10:08:35,982 - DEBUG - Random scrolls complete.
+2025-04-18 10:08:38,315 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:08:38,317 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:08:40,024 - DEBUG - Page scrolled.
+2025-04-18 10:08:43,026 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:08:44,259 - DEBUG - Page scrolled.
+2025-04-18 10:08:47,266 - DEBUG - Random scrolls complete.
+2025-04-18 10:08:47,317 - DEBUG - Found 5 like buttons.
+2025-04-18 10:08:50,319 - INFO - Attempting to like 3 posts. There are 5 available.
+2025-04-18 10:08:50,856 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:08:50,897 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:08:50,899 - DEBUG - Liked post number 1 of 3.
+2025-04-18 10:08:56,762 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:08:56,769 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:08:56,769 - DEBUG - Liked post number 2 of 3.
+2025-04-18 10:09:01,903 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:09:01,927 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:09:01,934 - DEBUG - Liked post number 3 of 3.
+2025-04-18 10:09:06,009 - INFO - Liked 3 posts successfully.
+2025-04-18 10:09:06,016 - INFO - Liked 3 posts successfully.
+2025-04-18 10:09:08,221 - INFO - Profile Emaxx: Opening random website: https://www.w3schools.com/
+2025-04-18 10:09:12,879 - INFO - Profile Emaxx: Pausing for 39.00 seconds...
+2025-04-18 10:09:51,881 - INFO - Profile Emaxx: Resuming...
+2025-04-18 10:09:51,894 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-18 10:09:51,896 - INFO - performing random action
+2025-04-18 10:09:51,897 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:09:51,898 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:09:53,294 - DEBUG - Page scrolled.
+2025-04-18 10:09:56,298 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:09:58,041 - DEBUG - Page scrolled.
+2025-04-18 10:10:01,047 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:10:02,962 - DEBUG - Page scrolled.
+2025-04-18 10:10:05,965 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:10:07,458 - DEBUG - Page scrolled.
+2025-04-18 10:10:10,466 - DEBUG - Random scrolls complete.
+2025-04-18 10:10:12,968 - DEBUG - Total comments in the thread: 5
+2025-04-18 10:10:33,624 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Hi guys, I use google ads to run my black stores in Brazil and I'm looking for a cloaker that's currently working.txt
+2025-04-18 10:10:36,146 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:10:36,259 - DEBUG - Extracted main post content: Recently google ads has started to detect cloakers in ads more easily, and the use of cloakers has even been highlighted in the suspension of fraud systems, I've used the white rabbit, cloakup and now bynomo, I've seen some posts here on the forum talking about traffic shield, is it working after these google ads implementations? Is any cloaker working?
+2025-04-18 10:10:41,123 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:10:41,125 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:10:43,838 - INFO - Profile Emaxx: Pausing for 30.79 seconds...
+2025-04-18 10:11:14,635 - INFO - Profile Emaxx: Resuming...
+2025-04-18 10:11:14,637 - INFO - performing random action
+2025-04-18 10:11:14,639 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:11:14,640 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:11:14,687 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:11:14,761 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:11:14,770 - DEBUG - Text box scrolled into view
+2025-04-18 10:11:15,716 - DEBUG - Initializing actionchains
+2025-04-18 10:11:15,811 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2368}, size: {'height': 21, 'width': 68}
+2025-04-18 10:11:15,812 - DEBUG - Target click coordinates: (1267, 2378)
+2025-04-18 10:11:24,729 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:11:24,743 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:11:24,744 - DEBUG - Clicking on the text box.
+2025-04-18 10:11:24,745 - DEBUG - Sending keys with content: Honestly, it feels like Google's playing whack-a-mole with cloakers right now. Have you tried focusing on ad copy and landing page relevance instead of relying so heavily on cloaking?
+
+2025-04-18 10:11:30,145 - DEBUG - Clicking on post reply button.
+2025-04-18 10:11:31,514 - DEBUG - Performed Actionchains
+2025-04-18 10:11:31,515 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:11:35,516 - INFO - Comment posted successfully.
+2025-04-18 10:11:35,517 - INFO - Task Completed!!
+2025-04-18 10:11:39,295 - INFO - Navigated back to the homepage.
+2025-04-18 10:11:42,268 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:11:42,306 - INFO - Garbage collection completed.
+2025-04-18 10:11:42,306 - INFO - Waiting for 1700 seconds before next execution.

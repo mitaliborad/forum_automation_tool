@@ -1,0 +1,99 @@
+--- Main Post Title ---
+PLZZ HELP ME TO DECODE ONLY ONE FILE PHP WITH IONCUBE
+
+Total comments in the thread: 8
+
+Topic User: anonymousphone
+Topic: Dear,
+
+Plz help me to decode only 1 file php ioncube encryption
+https://filetransfer.io/data-package/I0dgoaXn#link
+
+I dont know version of ioncube (may be 7.x) but php version is 7.4.
+Thanks so much!!!
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: karmoniclabs
+Topic: I have bought a theme (wordpress theme) and I can't change its core functions (though I have paid the price, and I mentioned the seller is selling translation of another person's theme!), because the functions.php and RTL_License_055acec9157a00cb.php files are encoded! please someone decode them for me. thanks
+Attachments
+alukas-php.zip
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: tahaghafuri
+Topic: karmoniclabs said:
+I have bought a theme (wordpress theme) and I can't change its core functions (though I have paid the price, and I mentioned the seller is selling translation of another person's theme!), because the functions.php and RTL_License_055acec9157a00cb.php files are encoded! please someone decode them for me. thanks
+https://pastebin.com/K1tX6UvZ
+Liked by: You, Emma xx
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: sadistonee
+Topic: tahaghafuri said:
+https://pastebin.com/K1tX6UvZ
+Can you help me too, i would appreciate it immensely, "https://mega.nz/file/TbgRBDaY#y-fROlUFIovBjr0q1Pjwbefvj-0IJ5PTUD6--lKHIZw"
+and is there any tool that do this for free, as far as i looked(i didnt look that far) i didnt see anything or a guide that help me build my own?
+Liked by: Emma xx
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: I'm not equipped to crack encryption, but maybe someone with that skill set will see this. Good luck!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: mindzor
+Topic: anyone can help decode this please.
+
+https://pastebin.com/ufPcxkpv
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: TeslaCo
+Topic: mindzor said:
+anyone can help decode this please.
+
+https://pastebin.com/ufPcxkpv
+Attachments
+decode (1).zip
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: mastermind256
+Topic: @tahaghafuri , please advice if this is something you can decode. php 7.4 ioncube 11
+Attachments
+Query.zip
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

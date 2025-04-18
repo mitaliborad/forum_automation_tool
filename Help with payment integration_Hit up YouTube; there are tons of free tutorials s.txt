@@ -1,0 +1,1 @@
+Hit up YouTube; there are tons of free tutorials showing payment gateway integration with PHP, and most gateways have pretty good developer docs, too. Start small and work your way up.

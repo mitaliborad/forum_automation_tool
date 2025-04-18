@@ -1,0 +1,98 @@
+2025-04-18 11:12:30,072 - INFO - Current time: 1744954950.0721884
+2025-04-18 11:12:30,072 - INFO - Token expiration time: 1744959632.0175602
+2025-04-18 11:12:30,073 - INFO - Token expiration time: 1744959632.0175602
+2025-04-18 11:12:30,073 - INFO - Profile DarkCodeX: Minimizing window...
+2025-04-18 11:12:30,076 - INFO - Profile DarkCodeX: Window minimized. Pausing for 26.36 seconds...
+2025-04-18 11:12:56,444 - INFO - Profile DarkCodeX: Resuming after minimize...
+2025-04-18 11:12:56,447 - INFO - performing random action
+2025-04-18 11:12:56,450 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:12:56,451 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:12:56,453 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:58,043 - DEBUG - Page scrolled.
+2025-04-18 11:13:00,045 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:02,044 - DEBUG - Page scrolled.
+2025-04-18 11:13:04,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:05,732 - DEBUG - Page scrolled.
+2025-04-18 11:13:07,734 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:09,679 - DEBUG - Page scrolled.
+2025-04-18 11:13:11,682 - DEBUG - Random scrolls complete.
+2025-04-18 11:13:11,684 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:13:11,685 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:13,096 - DEBUG - Page scrolled.
+2025-04-18 11:13:15,098 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:16,971 - DEBUG - Page scrolled.
+2025-04-18 11:13:18,974 - DEBUG - Random scrolls complete.
+2025-04-18 11:13:33,463 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-18 11:13:38,097 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/where-can-i-find-australian-static-residential-proxies-that-are-sourced-from-australian-homes.1674150/unread
+2025-04-18 11:13:38,098 - INFO - performing random action
+2025-04-18 11:13:48,461 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/where-can-i-find-australian-static-residential-proxies-that-are-sourced-from-australian-homes.1674150/unread
+2025-04-18 11:13:48,462 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/where-can-i-find-australian-static-residential-proxies-that-are-sourced-from-australian-homes.1674150/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:13:48,498 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-18 11:13:48,499 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:13:48,499 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:50,446 - DEBUG - Page scrolled.
+2025-04-18 11:13:52,447 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:54,283 - DEBUG - Page scrolled.
+2025-04-18 11:13:56,292 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:08,024 - DEBUG - Page scrolled.
+2025-04-18 11:14:10,040 - DEBUG - Random scrolls complete.
+2025-04-18 11:14:13,001 - DEBUG - Scrolling page 1 times.
+2025-04-18 11:14:13,003 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:14,157 - DEBUG - Page scrolled.
+2025-04-18 11:14:17,160 - DEBUG - Random scrolls complete.
+2025-04-18 11:14:17,219 - DEBUG - Found 11 like buttons.
+2025-04-18 11:14:20,225 - INFO - Attempting to like 1 posts. There are 11 available.
+2025-04-18 11:14:20,885 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:14:20,929 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:14:20,931 - DEBUG - Liked post number 1 of 1.
+2025-04-18 11:14:25,008 - INFO - Liked 1 posts successfully.
+2025-04-18 11:14:25,010 - INFO - Liked 1 posts successfully.
+2025-04-18 11:14:27,836 - INFO - Profile DarkCodeX: Opening random website: https://www.w3schools.com/
+2025-04-18 11:14:49,197 - INFO - Profile DarkCodeX: Pausing for 43.74 seconds...
+2025-04-18 11:15:32,945 - INFO - Profile DarkCodeX: Resuming...
+2025-04-18 11:15:32,989 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-18 11:15:33,001 - INFO - performing random action
+2025-04-18 11:15:33,005 - DEBUG - Scrolling page 5 times.
+2025-04-18 11:15:33,006 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:15:34,299 - DEBUG - Page scrolled.
+2025-04-18 11:15:37,304 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:15:38,656 - DEBUG - Page scrolled.
+2025-04-18 11:15:41,661 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:15:42,817 - DEBUG - Page scrolled.
+2025-04-18 11:15:45,827 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:15:47,114 - DEBUG - Page scrolled.
+2025-04-18 11:15:50,117 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:15:51,984 - DEBUG - Page scrolled.
+2025-04-18 11:15:54,990 - DEBUG - Random scrolls complete.
+2025-04-18 11:15:57,223 - DEBUG - Total comments in the thread: 11
+2025-04-18 11:17:30,113 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-18 11:17:32,527 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:17:32,617 - DEBUG - Extracted main post content: Hi there,
+
+I am managing two Australian Etsy seller accounts one which I have spent 1.5 years to build. If Etsy detects I am using proxies to manage them from Pakistan then the accounts will be suspended and all my hardwork of these 1.5 years will be gone. I have done research over how can different conventional proxies be detected by wesbites and I have come to he concusion that I will need static residential proxies that are sourced from home as they are the perfect fit for my case. Please advice.
+2025-04-18 11:17:36,117 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:17:36,120 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:17:38,860 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-18 11:17:40,870 - INFO - performing random action
+2025-04-18 11:17:40,872 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:17:40,873 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:17:40,925 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:17:40,970 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:17:41,005 - DEBUG - Text box scrolled into view
+2025-04-18 11:17:41,748 - DEBUG - Initializing actionchains
+2025-04-18 11:17:41,839 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4143}, size: {'height': 21, 'width': 68}
+2025-04-18 11:17:41,839 - DEBUG - Target click coordinates: (1267, 4153)
+2025-04-18 11:17:54,516 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:17:54,518 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:17:54,519 - DEBUG - Clicking on the text box.
+2025-04-18 11:17:54,525 - DEBUG - Sending keys with content: Yeah, that's a tricky situation. Have you looked into using a dedicated virtual machine for each account to isolate them further?
+
+2025-04-18 11:18:00,457 - DEBUG - Clicking on post reply button.
+2025-04-18 11:18:01,675 - DEBUG - Performed Actionchains
+2025-04-18 11:18:01,676 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:18:05,680 - INFO - Comment posted successfully.
+2025-04-18 11:18:05,683 - INFO - Task Completed!!
+2025-04-18 11:18:09,857 - INFO - Navigated back to the homepage.
+2025-04-18 11:18:12,054 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:18:12,133 - INFO - Garbage collection completed.
+2025-04-18 11:18:12,139 - INFO - Waiting for 1700 seconds before next execution.

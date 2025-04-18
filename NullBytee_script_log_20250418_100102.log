@@ -1,0 +1,128 @@
+2025-04-18 10:01:02,954 - INFO - Current time: 1744950662.9548738
+2025-04-18 10:01:02,955 - INFO - Token expiration time: 1744959410.4063435
+2025-04-18 10:01:02,956 - INFO - Token expiration time: 1744959410.4063435
+2025-04-18 10:01:02,957 - INFO - Profile NullBytee: Minimizing window...
+2025-04-18 10:01:02,967 - INFO - Profile NullBytee: Window minimized. Pausing for 26.80 seconds...
+2025-04-18 10:01:29,781 - INFO - Profile NullBytee: Resuming after minimize...
+2025-04-18 10:01:29,782 - INFO - performing random action
+2025-04-18 10:01:29,783 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:01:29,784 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:01:29,785 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:30,974 - DEBUG - Page scrolled.
+2025-04-18 10:01:32,977 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:34,907 - DEBUG - Page scrolled.
+2025-04-18 10:01:36,908 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:38,463 - DEBUG - Page scrolled.
+2025-04-18 10:01:40,465 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:41,810 - DEBUG - Page scrolled.
+2025-04-18 10:01:43,811 - DEBUG - Random scrolls complete.
+2025-04-18 10:01:43,813 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:01:43,814 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:45,548 - DEBUG - Page scrolled.
+2025-04-18 10:01:47,551 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:48,736 - DEBUG - Page scrolled.
+2025-04-18 10:01:50,738 - DEBUG - Random scrolls complete.
+2025-04-18 10:01:58,721 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-18 10:02:02,836 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/it-s-my-oxilabs-isp-proxy-correct.1705022/unread
+2025-04-18 10:02:02,837 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-18 10:02:09,323 - INFO - Profile NullBytee: Pausing for 35.53 seconds...
+2025-04-18 10:02:44,850 - INFO - Profile NullBytee: Resuming...
+2025-04-18 10:02:44,955 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-18 10:02:44,968 - INFO - performing random action
+2025-04-18 10:02:56,101 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/it-s-my-oxilabs-isp-proxy-correct.1705022/unread
+2025-04-18 10:02:56,104 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/it-s-my-oxilabs-isp-proxy-correct.1705022/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 10:02:56,149 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-18 10:02:56,150 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:02:56,150 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:02:57,887 - DEBUG - Page scrolled.
+2025-04-18 10:02:59,889 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:03:06,024 - DEBUG - Page scrolled.
+2025-04-18 10:03:08,026 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:03:09,889 - DEBUG - Page scrolled.
+2025-04-18 10:03:11,891 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:03:13,310 - DEBUG - Page scrolled.
+2025-04-18 10:03:15,319 - DEBUG - Random scrolls complete.
+2025-04-18 10:03:18,112 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:03:18,113 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:03:19,302 - DEBUG - Page scrolled.
+2025-04-18 10:03:22,307 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:03:23,873 - DEBUG - Page scrolled.
+2025-04-18 10:03:26,879 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:03:28,701 - DEBUG - Page scrolled.
+2025-04-18 10:03:31,708 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:03:33,261 - DEBUG - Page scrolled.
+2025-04-18 10:03:36,263 - DEBUG - Random scrolls complete.
+2025-04-18 10:03:36,308 - DEBUG - Found 19 like buttons.
+2025-04-18 10:03:39,309 - INFO - Attempting to like 3 posts. There are 19 available.
+2025-04-18 10:03:40,267 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:03:40,307 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:03:40,309 - DEBUG - Liked post number 1 of 3.
+2025-04-18 10:03:45,342 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:03:45,366 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:03:45,372 - DEBUG - Liked post number 2 of 3.
+2025-04-18 10:03:50,685 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:03:50,714 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:03:50,716 - DEBUG - Liked post number 3 of 3.
+2025-04-18 10:03:54,963 - INFO - Liked 3 posts successfully.
+2025-04-18 10:03:54,965 - INFO - Liked 3 posts successfully.
+2025-04-18 10:03:57,458 - INFO - performing random action
+2025-04-18 10:03:57,464 - DEBUG - Scrolling page 7 times.
+2025-04-18 10:03:57,465 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:03:59,305 - DEBUG - Page scrolled.
+2025-04-18 10:04:02,307 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:04:03,891 - DEBUG - Page scrolled.
+2025-04-18 10:04:06,898 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:04:08,287 - DEBUG - Page scrolled.
+2025-04-18 10:04:11,288 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:04:13,170 - DEBUG - Page scrolled.
+2025-04-18 10:04:16,172 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:04:18,158 - DEBUG - Page scrolled.
+2025-04-18 10:04:21,162 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:04:22,871 - DEBUG - Page scrolled.
+2025-04-18 10:04:25,873 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:04:27,706 - DEBUG - Page scrolled.
+2025-04-18 10:04:30,707 - DEBUG - Random scrolls complete.
+2025-04-18 10:04:33,554 - DEBUG - Total comments in the thread: 19
+2025-04-18 10:07:18,663 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-18 10:07:21,477 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:07:21,557 - DEBUG - Extracted main post content: Hi,
+
+I´m using oxylabs ISP proxy to geolocate myself in France.
+
+The problem is that some online proxy checkers show the correct info:
+Region: France
+Provider: Orange (residential provider).
+
+And that´s perfect, but other online proxy checkers locate myself in Canada with a non-residential ISP (Heyman datacenter).
+
+And that´s a big problem, so should I quit oxylabs and try another ISP proxy provider like Bright Data?
+Why this is happening? (it´s the same IP in both cases)
+
+This means Oxylabs is not 100% legit and they claim to have their proxies in France (in my case) but they´re really located in Canadá? It has no sense whatssoever, why would they do that?
+
+Thanks
+2025-04-18 10:07:26,905 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:07:26,907 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:07:29,072 - INFO - performing random action
+2025-04-18 10:07:29,075 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:07:29,076 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:07:29,119 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:07:29,182 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:07:29,190 - DEBUG - Text box scrolled into view
+2025-04-18 10:07:30,147 - DEBUG - Initializing actionchains
+2025-04-18 10:07:30,195 - DEBUG - Post reply Element location: {'x': 1233, 'y': 13804}, size: {'height': 21, 'width': 68}
+2025-04-18 10:07:30,196 - DEBUG - Target click coordinates: (1267, 13814)
+2025-04-18 10:08:00,550 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:08:00,552 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:08:00,553 - DEBUG - Clicking on the text box.
+2025-04-18 10:08:00,555 - DEBUG - Sending keys with content: Maybe their IP database isn't fully updated, or the proxy checker you're using might not be reliable. Try comparing results across a few different checkers before jumping ship.
+
+2025-04-18 10:08:05,863 - DEBUG - Clicking on post reply button.
+2025-04-18 10:08:17,061 - DEBUG - Performed Actionchains
+2025-04-18 10:08:17,063 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:08:21,065 - INFO - Comment posted successfully.
+2025-04-18 10:08:21,067 - INFO - Task Completed!!
+2025-04-18 10:08:28,301 - INFO - Navigated back to the homepage.
+2025-04-18 10:08:30,680 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:08:30,734 - INFO - Garbage collection completed.
+2025-04-18 10:08:30,734 - INFO - Waiting for 1700 seconds before next execution.

@@ -1,0 +1,115 @@
+2025-04-18 11:46:32,143 - INFO - Current time: 1744956992.1435926
+2025-04-18 11:46:32,145 - INFO - Token expiration time: 1744959632.0175602
+2025-04-18 11:46:32,147 - INFO - Token expiration time: 1744959632.0175602
+2025-04-18 11:46:32,149 - INFO - performing random action
+2025-04-18 11:46:32,151 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:46:32,158 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:46:32,159 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:33,769 - DEBUG - Page scrolled.
+2025-04-18 11:46:35,770 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:37,467 - DEBUG - Page scrolled.
+2025-04-18 11:46:39,469 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:41,005 - DEBUG - Page scrolled.
+2025-04-18 11:46:43,012 - DEBUG - Random scrolls complete.
+2025-04-18 11:46:43,014 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:46:43,015 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:44,367 - DEBUG - Page scrolled.
+2025-04-18 11:46:46,371 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:47,907 - DEBUG - Page scrolled.
+2025-04-18 11:46:49,910 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:46:50,954 - DEBUG - Page scrolled.
+2025-04-18 11:46:52,955 - DEBUG - Random scrolls complete.
+2025-04-18 11:46:59,772 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-04-18 11:47:03,909 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/where-to-buy-domain-with-crypto.1584964/unread
+2025-04-18 11:47:03,910 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-18 11:47:13,387 - INFO - Profile DarkCodeX: Pausing for 34.72 seconds...
+2025-04-18 11:47:48,112 - INFO - Profile DarkCodeX: Resuming...
+2025-04-18 11:47:48,162 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-18 11:47:48,164 - INFO - performing random action
+2025-04-18 11:47:59,506 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/where-to-buy-domain-with-crypto.1584964/unread
+2025-04-18 11:47:59,508 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/where-to-buy-domain-with-crypto.1584964/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:47:59,590 - INFO - Extracted thread title: Where to buy domain with crypto
+2025-04-18 11:47:59,591 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:47:59,591 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:01,508 - DEBUG - Page scrolled.
+2025-04-18 11:48:03,511 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:04,919 - DEBUG - Page scrolled.
+2025-04-18 11:48:06,923 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:08,862 - DEBUG - Page scrolled.
+2025-04-18 11:48:10,863 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:12,169 - DEBUG - Page scrolled.
+2025-04-18 11:48:14,170 - DEBUG - Random scrolls complete.
+2025-04-18 11:48:16,306 - DEBUG - Scrolling page 1 times.
+2025-04-18 11:48:16,307 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:18,019 - DEBUG - Page scrolled.
+2025-04-18 11:48:21,023 - DEBUG - Random scrolls complete.
+2025-04-18 11:48:21,083 - DEBUG - Found 20 like buttons.
+2025-04-18 11:48:24,085 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-18 11:48:25,023 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:48:25,080 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:48:25,082 - DEBUG - Liked post number 1 of 4.
+2025-04-18 11:48:30,476 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:48:30,508 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:48:30,510 - DEBUG - Liked post number 2 of 4.
+2025-04-18 11:48:35,825 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:48:35,862 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:48:35,863 - DEBUG - Liked post number 3 of 4.
+2025-04-18 11:48:40,629 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:48:40,635 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:48:40,636 - DEBUG - Liked post number 4 of 4.
+2025-04-18 11:48:45,024 - INFO - Liked 4 posts successfully.
+2025-04-18 11:48:45,026 - INFO - Liked 4 posts successfully.
+2025-04-18 11:48:47,484 - INFO - performing random action
+2025-04-18 11:48:47,486 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:48:47,487 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:49,473 - DEBUG - Page scrolled.
+2025-04-18 11:48:52,475 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:53,988 - DEBUG - Page scrolled.
+2025-04-18 11:48:56,990 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:48:58,284 - DEBUG - Page scrolled.
+2025-04-18 11:49:01,288 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:49:02,513 - DEBUG - Page scrolled.
+2025-04-18 11:49:05,521 - DEBUG - Random scrolls complete.
+2025-04-18 11:49:08,492 - DEBUG - Total comments in the thread: 20
+2025-04-18 11:50:52,595 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Where to buy domain with crypto.txt
+2025-04-18 11:50:55,178 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:50:55,232 - DEBUG - Extracted main post content: Hi everyone, could you please recommend where can i buy a few domain names using crypto. The domains are for my movie streaming website, and also which tld is best? Thanks
+2025-04-18 11:50:58,704 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:50:58,711 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:51:01,145 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-18 11:51:03,162 - INFO - performing random action
+2025-04-18 11:51:03,163 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:51:03,163 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:51:03,177 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:51:03,228 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:51:03,235 - DEBUG - Text box scrolled into view
+2025-04-18 11:51:03,847 - DEBUG - Initializing actionchains
+2025-04-18 11:51:03,938 - DEBUG - Post reply Element location: {'x': 1233, 'y': 6376}, size: {'height': 21, 'width': 68}
+2025-04-18 11:51:03,939 - DEBUG - Target click coordinates: (1267, 6386)
+2025-04-18 11:51:20,788 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:51:20,790 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:51:20,792 - DEBUG - Clicking on the text box.
+2025-04-18 11:51:20,794 - DEBUG - Sending keys with content: Namecheap accepts crypto, but honestly, watch out for those transfer fees – they can sting. As for TLDs, maybe .tv or .movie to fit your site?
+
+2025-04-18 11:51:26,137 - DEBUG - Clicking on post reply button.
+2025-04-18 11:51:37,738 - DEBUG - Performed Actionchains
+2025-04-18 11:51:37,739 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:51:41,744 - INFO - Comment posted successfully.
+2025-04-18 11:51:41,746 - INFO - Task Completed!!
+2025-04-18 11:51:50,034 - INFO - Navigated back to the homepage.
+2025-04-18 11:51:52,064 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:51:52,119 - INFO - Garbage collection completed.
+2025-04-18 11:51:52,119 - INFO - Waiting for 1700 seconds before next execution.
+2025-04-18 12:20:12,121 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-18 12:20:12,123 - INFO - Stopping browser for profile: DarkCodeX...
+2025-04-18 12:20:12,125 - INFO - Refreshing token before stopping profile...
+2025-04-18 12:20:12,127 - INFO - Refreshing token for DarkCodeX...
+2025-04-18 12:20:13,555 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-18 12:20:13,555 - INFO - Calculated token expiration time: 1744969813.555811
+2025-04-18 12:20:13,556 - INFO - Profile DarkCodeX: Successfully logged in.
+2025-04-18 12:20:13,556 - INFO - Token refreshed successfully before stopping.
+2025-04-18 12:20:13,557 - INFO - Profile DarkCodeX: Attempting to stop (Attempt 1/3)...
+2025-04-18 12:20:13,566 - INFO - Profile DarkCodeX: Browser closed successfully in 0.01 seconds.
+2025-04-18 12:20:18,400 - INFO - Profile DarkCodeX: API call took 4.83 seconds.
+2025-04-18 12:20:18,402 - INFO - Profile DarkCodeX: Stopped successfully.
+2025-04-18 12:20:18,409 - INFO - Browser stopped successfully for profile: DarkCodeX.

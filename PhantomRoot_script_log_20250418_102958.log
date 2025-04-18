@@ -1,0 +1,104 @@
+2025-04-18 10:29:58,366 - INFO - Current time: 1744952398.3662512
+2025-04-18 10:29:58,368 - INFO - Token expiration time: 1744959148.507288
+2025-04-18 10:29:58,370 - INFO - Token expiration time: 1744959148.507288
+2025-04-18 10:29:58,372 - INFO - performing random action
+2025-04-18 10:29:58,374 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:29:58,375 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:29:58,378 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:29:59,431 - DEBUG - Page scrolled.
+2025-04-18 10:30:01,433 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:30:03,401 - DEBUG - Page scrolled.
+2025-04-18 10:30:05,402 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:30:06,847 - DEBUG - Page scrolled.
+2025-04-18 10:30:08,849 - DEBUG - Random scrolls complete.
+2025-04-18 10:30:08,853 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:30:08,854 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:30:10,140 - DEBUG - Page scrolled.
+2025-04-18 10:30:12,141 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:30:14,072 - DEBUG - Page scrolled.
+2025-04-18 10:30:16,073 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:30:17,714 - DEBUG - Page scrolled.
+2025-04-18 10:30:19,716 - DEBUG - Random scrolls complete.
+2025-04-18 10:30:41,756 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/linkedin.214/
+2025-04-18 10:30:45,571 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/linkedin-connection-weekly-limit-question.1700235/unread
+2025-04-18 10:30:45,572 - INFO - performing random action
+2025-04-18 10:30:55,034 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/linkedin-connection-weekly-limit-question.1700235/unread
+2025-04-18 10:30:55,037 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/linkedin-connection-weekly-limit-question.1700235/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 10:30:55,092 - INFO - Extracted thread title: Linkedin connection weekly limit question
+2025-04-18 10:30:55,092 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:30:55,093 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:30:56,690 - DEBUG - Page scrolled.
+2025-04-18 10:30:58,692 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:00,454 - DEBUG - Page scrolled.
+2025-04-18 10:31:02,455 - DEBUG - Random scrolls complete.
+2025-04-18 10:31:04,908 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:31:04,912 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:06,240 - DEBUG - Page scrolled.
+2025-04-18 10:31:09,242 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:11,164 - DEBUG - Page scrolled.
+2025-04-18 10:31:14,165 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:15,665 - DEBUG - Page scrolled.
+2025-04-18 10:31:18,668 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:19,812 - DEBUG - Page scrolled.
+2025-04-18 10:31:22,813 - DEBUG - Random scrolls complete.
+2025-04-18 10:31:22,854 - DEBUG - Found 3 like buttons.
+2025-04-18 10:31:25,855 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-04-18 10:31:26,638 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:31:26,672 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:31:26,674 - DEBUG - Liked post number 1 of 3.
+2025-04-18 10:31:32,319 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:31:32,338 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:31:32,342 - DEBUG - Liked post number 2 of 3.
+2025-04-18 10:31:37,145 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:31:37,165 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:31:37,167 - DEBUG - Liked post number 3 of 3.
+2025-04-18 10:31:41,451 - INFO - Liked 3 posts successfully.
+2025-04-18 10:31:41,452 - INFO - Liked 3 posts successfully.
+2025-04-18 10:31:43,565 - INFO - performing random action
+2025-04-18 10:31:43,567 - DEBUG - Scrolling page 5 times.
+2025-04-18 10:31:43,569 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:45,440 - DEBUG - Page scrolled.
+2025-04-18 10:31:48,442 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:49,664 - DEBUG - Page scrolled.
+2025-04-18 10:31:52,665 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:53,998 - DEBUG - Page scrolled.
+2025-04-18 10:31:57,000 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:31:58,635 - DEBUG - Page scrolled.
+2025-04-18 10:32:01,637 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:32:03,136 - DEBUG - Page scrolled.
+2025-04-18 10:32:06,138 - DEBUG - Random scrolls complete.
+2025-04-18 10:32:09,210 - DEBUG - Total comments in the thread: 3
+2025-04-18 10:32:09,474 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Linkedin connection weekly limit question.txt
+2025-04-18 10:32:11,674 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:32:11,707 - DEBUG - Extracted main post content: Normally there is a weekly limit to connect with users on LinkedIn, but as I have passed 7000 followers the limit seems to have increased or been removed.
+
+Could this be the case?
+2025-04-18 10:32:15,322 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:32:15,325 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:32:17,638 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-18 10:32:36,992 - INFO - Profile PhantomRoot: Pausing for 31.17 seconds...
+2025-04-18 10:33:08,166 - INFO - Profile PhantomRoot: Resuming...
+2025-04-18 10:33:08,197 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-18 10:33:08,199 - INFO - performing random action
+2025-04-18 10:33:08,200 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:33:08,201 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:33:08,225 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:33:08,262 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:33:08,268 - DEBUG - Text box scrolled into view
+2025-04-18 10:33:08,944 - DEBUG - Initializing actionchains
+2025-04-18 10:33:09,008 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1820}, size: {'height': 21, 'width': 68}
+2025-04-18 10:33:09,009 - DEBUG - Target click coordinates: (1267, 1830)
+2025-04-18 10:33:17,023 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:33:17,026 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:33:17,028 - DEBUG - Clicking on the text box.
+2025-04-18 10:33:17,032 - DEBUG - Sending keys with content: Huh, that's interesting. Maybe LinkedIn sees you as more of an influencer now, so they're easing up.
+
+2025-04-18 10:33:22,594 - DEBUG - Clicking on post reply button.
+2025-04-18 10:33:33,518 - DEBUG - Performed Actionchains
+2025-04-18 10:33:33,519 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:33:37,520 - INFO - Comment posted successfully.
+2025-04-18 10:33:37,522 - INFO - Task Completed!!
+2025-04-18 10:33:49,371 - INFO - Navigated back to the homepage.
+2025-04-18 10:33:51,448 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:33:51,493 - INFO - Garbage collection completed.
+2025-04-18 10:33:51,495 - INFO - Waiting for 1700 seconds before next execution.

@@ -1,0 +1,109 @@
+2025-04-18 12:07:34,828 - INFO - Current time: 1744958254.828643
+2025-04-18 12:07:34,830 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 12:07:34,832 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 12:07:34,834 - INFO - performing random action
+2025-04-18 12:07:34,837 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 12:07:34,844 - DEBUG - Scrolling page 4 times.
+2025-04-18 12:07:34,845 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:35,968 - DEBUG - Page scrolled.
+2025-04-18 12:07:37,971 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:39,265 - DEBUG - Page scrolled.
+2025-04-18 12:07:41,267 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:42,551 - DEBUG - Page scrolled.
+2025-04-18 12:07:44,561 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:45,636 - DEBUG - Page scrolled.
+2025-04-18 12:07:47,638 - DEBUG - Random scrolls complete.
+2025-04-18 12:07:47,639 - DEBUG - Scrolling page 3 times.
+2025-04-18 12:07:47,640 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:49,515 - DEBUG - Page scrolled.
+2025-04-18 12:07:51,517 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:53,221 - DEBUG - Page scrolled.
+2025-04-18 12:07:55,225 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:07:57,053 - DEBUG - Page scrolled.
+2025-04-18 12:07:59,055 - DEBUG - Random scrolls complete.
+2025-04-18 12:08:06,057 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-04-18 12:08:10,988 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-kind-of-site-should-i-use.1620043/unread
+2025-04-18 12:08:10,989 - INFO - Profile DataPhreak: Pausing for 35.81 seconds...
+2025-04-18 12:08:46,797 - INFO - Profile DataPhreak: Resuming...
+2025-04-18 12:08:46,799 - INFO - performing random action
+2025-04-18 12:08:56,928 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-kind-of-site-should-i-use.1620043/unread
+2025-04-18 12:08:56,932 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-kind-of-site-should-i-use.1620043/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 12:08:57,038 - INFO - Extracted thread title: What kind of site should I use
+2025-04-18 12:08:57,039 - DEBUG - Scrolling page 3 times.
+2025-04-18 12:08:57,039 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:08:58,993 - DEBUG - Page scrolled.
+2025-04-18 12:09:00,995 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:02,628 - DEBUG - Page scrolled.
+2025-04-18 12:09:04,635 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:06,346 - DEBUG - Page scrolled.
+2025-04-18 12:09:08,347 - DEBUG - Random scrolls complete.
+2025-04-18 12:09:11,273 - DEBUG - Scrolling page 2 times.
+2025-04-18 12:09:11,275 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:12,460 - DEBUG - Page scrolled.
+2025-04-18 12:09:15,462 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:16,729 - DEBUG - Page scrolled.
+2025-04-18 12:09:19,732 - DEBUG - Random scrolls complete.
+2025-04-18 12:09:19,796 - DEBUG - Found 15 like buttons.
+2025-04-18 12:09:22,798 - INFO - Attempting to like 1 posts. There are 15 available.
+2025-04-18 12:09:23,593 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 12:09:23,632 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 12:09:23,633 - DEBUG - Liked post number 1 of 1.
+2025-04-18 12:09:28,084 - INFO - Liked 1 posts successfully.
+2025-04-18 12:09:28,090 - INFO - Liked 1 posts successfully.
+2025-04-18 12:09:30,976 - INFO - Profile DataPhreak: Restoring window...
+2025-04-18 12:09:32,991 - INFO - performing random action
+2025-04-18 12:09:32,991 - DEBUG - Scrolling page 4 times.
+2025-04-18 12:09:32,992 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:34,303 - DEBUG - Page scrolled.
+2025-04-18 12:09:37,306 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:38,537 - DEBUG - Page scrolled.
+2025-04-18 12:09:41,546 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:42,980 - DEBUG - Page scrolled.
+2025-04-18 12:09:45,987 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:47,661 - DEBUG - Page scrolled.
+2025-04-18 12:09:50,662 - DEBUG - Random scrolls complete.
+2025-04-18 12:09:53,400 - DEBUG - Total comments in the thread: 15
+2025-04-18 12:11:47,192 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What kind of site should I use.txt
+2025-04-18 12:11:49,233 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 12:11:49,313 - DEBUG - Extracted main post content: Grammarly,Copyscape
+
+
+I have to make a choice, but I can't. Please help, experts.
+2025-04-18 12:11:52,441 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 12:11:52,448 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 12:11:54,943 - INFO - performing random action
+2025-04-18 12:11:54,945 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:11:54,946 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:11:54,989 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:11:55,033 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:11:55,041 - DEBUG - Text box scrolled into view
+2025-04-18 12:11:55,565 - DEBUG - Initializing actionchains
+2025-04-18 12:11:55,646 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4917}, size: {'height': 21, 'width': 68}
+2025-04-18 12:11:55,646 - DEBUG - Target click coordinates: (1267, 4927)
+2025-04-18 12:12:10,019 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 12:12:10,020 - DEBUG - Moving mouse to text box element.
+2025-04-18 12:12:10,022 - DEBUG - Clicking on the text box.
+2025-04-18 12:12:10,023 - DEBUG - Sending keys with content: Grammarly is great for catching typos, but Copyscape is essential if you're worried about plagiarism. What kind of writing are you doing?
+
+2025-04-18 12:12:15,591 - DEBUG - Clicking on post reply button.
+2025-04-18 12:12:26,725 - DEBUG - Performed Actionchains
+2025-04-18 12:12:26,726 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 12:12:30,730 - INFO - Comment posted successfully.
+2025-04-18 12:12:30,734 - INFO - Task Completed!!
+2025-04-18 12:12:42,330 - INFO - Navigated back to the homepage.
+2025-04-18 12:12:44,610 - INFO - Attempting to clear memory and resources.
+2025-04-18 12:12:44,654 - INFO - Garbage collection completed.
+2025-04-18 12:12:44,654 - INFO - Waiting for 1700 seconds before next execution.
+2025-04-18 12:41:04,655 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-18 12:41:04,657 - INFO - Stopping browser for profile: DataPhreak...
+2025-04-18 12:41:04,658 - INFO - Refreshing token before stopping profile...
+2025-04-18 12:41:04,659 - INFO - Refreshing token for DataPhreak...
+2025-04-18 12:41:05,645 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-18 12:41:05,647 - INFO - Calculated token expiration time: 1744971065.6478367
+2025-04-18 12:41:05,649 - INFO - Profile DataPhreak: Successfully logged in.
+2025-04-18 12:41:05,652 - INFO - Token refreshed successfully before stopping.
+2025-04-18 12:41:05,653 - INFO - Profile DataPhreak: Attempting to stop (Attempt 1/3)...
+2025-04-18 12:41:05,667 - INFO - Profile DataPhreak: Browser closed successfully in 0.01 seconds.
+2025-04-18 12:41:08,945 - INFO - Profile DataPhreak: API call took 3.27 seconds.
+2025-04-18 12:41:08,946 - INFO - Profile DataPhreak: Stopped successfully.
+2025-04-18 12:41:08,947 - INFO - Browser stopped successfully for profile: DataPhreak.

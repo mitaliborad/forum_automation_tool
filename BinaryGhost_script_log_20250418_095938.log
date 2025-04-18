@@ -1,0 +1,112 @@
+2025-04-18 09:59:38,137 - INFO - Current time: 1744950578.1370082
+2025-04-18 09:59:38,139 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 09:59:38,140 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 09:59:38,142 - INFO - Profile BinaryGhost: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-18 09:59:48,051 - INFO - Profile BinaryGhost: Pausing for 43.32 seconds...
+2025-04-18 10:00:31,373 - INFO - Profile BinaryGhost: Resuming...
+2025-04-18 10:00:31,459 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-18 10:00:31,462 - INFO - performing random action
+2025-04-18 10:00:31,463 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:00:31,467 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:00:31,467 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:32,837 - DEBUG - Page scrolled.
+2025-04-18 10:00:34,839 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:36,068 - DEBUG - Page scrolled.
+2025-04-18 10:00:38,073 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:40,001 - DEBUG - Page scrolled.
+2025-04-18 10:00:42,002 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:43,225 - DEBUG - Page scrolled.
+2025-04-18 10:00:45,227 - DEBUG - Random scrolls complete.
+2025-04-18 10:00:45,229 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:00:45,230 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:46,698 - DEBUG - Page scrolled.
+2025-04-18 10:00:48,704 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:50,639 - DEBUG - Page scrolled.
+2025-04-18 10:00:52,640 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:54,645 - DEBUG - Page scrolled.
+2025-04-18 10:00:56,646 - DEBUG - Random scrolls complete.
+2025-04-18 10:01:01,672 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/instagram.215/
+2025-04-18 10:01:06,088 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/running-multiple-accounts-ig.1705227/unread
+2025-04-18 10:01:06,089 - INFO - performing random action
+2025-04-18 10:01:18,193 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/running-multiple-accounts-ig.1705227/unread
+2025-04-18 10:01:18,195 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/running-multiple-accounts-ig.1705227/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 10:01:18,255 - INFO - Extracted thread title: Running multiple accounts ig
+2025-04-18 10:01:18,256 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:01:18,256 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:19,850 - DEBUG - Page scrolled.
+2025-04-18 10:01:21,852 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:23,468 - DEBUG - Page scrolled.
+2025-04-18 10:01:25,471 - DEBUG - Random scrolls complete.
+2025-04-18 10:01:28,386 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:01:28,390 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:30,063 - DEBUG - Page scrolled.
+2025-04-18 10:01:33,064 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:34,760 - DEBUG - Page scrolled.
+2025-04-18 10:01:37,763 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:39,228 - DEBUG - Page scrolled.
+2025-04-18 10:01:42,230 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:43,257 - DEBUG - Page scrolled.
+2025-04-18 10:01:46,260 - DEBUG - Random scrolls complete.
+2025-04-18 10:01:46,310 - DEBUG - Found 9 like buttons.
+2025-04-18 10:01:49,314 - INFO - Attempting to like 2 posts. There are 9 available.
+2025-04-18 10:01:49,981 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:01:50,018 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:01:50,019 - DEBUG - Liked post number 1 of 2.
+2025-04-18 10:01:55,417 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:01:55,440 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:01:55,441 - DEBUG - Liked post number 2 of 2.
+2025-04-18 10:02:00,217 - INFO - Liked 2 posts successfully.
+2025-04-18 10:02:00,218 - INFO - Liked 2 posts successfully.
+2025-04-18 10:02:03,001 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-18 10:02:03,005 - INFO - Profile BinaryGhost: Window minimized. Pausing for 22.88 seconds...
+2025-04-18 10:02:25,888 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-18 10:02:25,892 - INFO - performing random action
+2025-04-18 10:02:25,894 - DEBUG - Scrolling page 5 times.
+2025-04-18 10:02:25,896 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:02:27,182 - DEBUG - Page scrolled.
+2025-04-18 10:02:30,184 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:02:31,848 - DEBUG - Page scrolled.
+2025-04-18 10:02:34,850 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:02:35,875 - DEBUG - Page scrolled.
+2025-04-18 10:02:38,878 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:02:40,095 - DEBUG - Page scrolled.
+2025-04-18 10:02:43,097 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:02:44,124 - DEBUG - Page scrolled.
+2025-04-18 10:02:47,127 - DEBUG - Random scrolls complete.
+2025-04-18 10:02:49,798 - DEBUG - Total comments in the thread: 9
+2025-04-18 10:03:10,764 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Running multiple accounts ig.txt
+2025-04-18 10:03:13,088 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:03:13,116 - DEBUG - Extracted main post content: Hey everyone, I’m new here and just starting to explore a few ways to make money on Instagram. Still early in the process, just testing things out and trying to learn what works.
+Is anyone here actively running multiple Instagram accounts without getting stuck in action blocks or constant verifications?
+I’ve been testing a setup for a mix of meme pages and small niche store accounts. The goal is to scale up gradually, nothing too aggressive, but I keep hitting random limits even when I’m not doing anything that looks spammy. Some accounts post fine, others get restricted for basic stuff like following or liking. I’ve read a lot of mixed advice. Some people say running accounts through a browser with proxies is totally fine if you keep things separated. Others say that only physical devices or emulators work long-term and anything browser-based will eventually get flagged. It’s hard to know what’s actually working right now.
+If you’re managing multiple IG accounts daily, I’d really appreciate any insights.
+What setup are you using? Are you mixing tools, phones, browser profiles? And how are you keeping your accounts from triggering blocks?
+2025-04-18 10:03:18,474 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:03:18,481 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:03:21,302 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-18 10:03:32,385 - INFO - Profile BinaryGhost: Pausing for 45.87 seconds...
+2025-04-18 10:04:18,260 - INFO - Profile BinaryGhost: Resuming...
+2025-04-18 10:04:18,312 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-18 10:04:18,326 - INFO - performing random action
+2025-04-18 10:04:18,328 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:04:18,329 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:04:18,412 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:04:18,461 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:04:18,474 - DEBUG - Text box scrolled into view
+2025-04-18 10:04:19,461 - DEBUG - Initializing actionchains
+2025-04-18 10:04:19,548 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4538}, size: {'height': 21, 'width': 68}
+2025-04-18 10:04:19,550 - DEBUG - Target click coordinates: (1267, 4548)
+2025-04-18 10:04:32,545 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:04:32,547 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:04:32,548 - DEBUG - Clicking on the text box.
+2025-04-18 10:04:32,557 - DEBUG - Sending keys with content: Honestly, managing multiple IG accounts feels like walking a tightrope these days. I've found rotating 4G proxies on separate browser profiles works okay-ish, but nothing beats using actual phones if you can swing it.
+
+2025-04-18 10:04:37,977 - DEBUG - Clicking on post reply button.
+2025-04-18 10:04:39,511 - DEBUG - Performed Actionchains
+2025-04-18 10:04:39,512 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:04:43,515 - INFO - Comment posted successfully.
+2025-04-18 10:04:43,517 - INFO - Task Completed!!
+2025-04-18 10:04:46,545 - INFO - Navigated back to the homepage.
+2025-04-18 10:04:49,157 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:04:49,237 - INFO - Garbage collection completed.
+2025-04-18 10:04:49,239 - INFO - Waiting for 1700 seconds before next execution.

@@ -1,0 +1,108 @@
+2025-04-18 10:59:00,004 - INFO - Current time: 1744954140.004842
+2025-04-18 10:59:00,012 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 10:59:00,018 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 10:59:00,021 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-18 10:59:06,485 - INFO - Profile PixelPirate99: Pausing for 42.77 seconds...
+2025-04-18 10:59:49,255 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 10:59:49,267 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-18 10:59:49,270 - INFO - performing random action
+2025-04-18 10:59:49,272 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:59:49,274 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:59:49,275 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:59:50,576 - DEBUG - Page scrolled.
+2025-04-18 10:59:52,578 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:59:54,546 - DEBUG - Page scrolled.
+2025-04-18 10:59:56,547 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:59:58,205 - DEBUG - Page scrolled.
+2025-04-18 11:00:00,208 - DEBUG - Random scrolls complete.
+2025-04-18 11:00:00,210 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:00:00,211 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:00:01,418 - DEBUG - Page scrolled.
+2025-04-18 11:00:03,420 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:00:05,084 - DEBUG - Page scrolled.
+2025-04-18 11:00:07,087 - DEBUG - Random scrolls complete.
+2025-04-18 11:00:16,116 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-04-18 11:00:20,292 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-many-blog-posts-should-i-publish-before-i-start-doing-seo-or-link-building.1706151/unread
+2025-04-18 11:00:20,292 - INFO - Profile PixelPirate99: Pausing for 46.06 seconds...
+2025-04-18 11:01:06,354 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 11:01:06,356 - INFO - performing random action
+2025-04-18 11:01:14,820 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-many-blog-posts-should-i-publish-before-i-start-doing-seo-or-link-building.1706151/unread
+2025-04-18 11:01:14,824 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-many-blog-posts-should-i-publish-before-i-start-doing-seo-or-link-building.1706151/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:01:14,886 - INFO - Extracted thread title: How many blog posts should I publish before I start doing SEO or link building
+2025-04-18 11:01:14,886 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:01:14,887 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:01:16,877 - DEBUG - Page scrolled.
+2025-04-18 11:01:18,880 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:01:19,925 - DEBUG - Page scrolled.
+2025-04-18 11:01:21,927 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:01:23,569 - DEBUG - Page scrolled.
+2025-04-18 11:01:25,572 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:01:26,738 - DEBUG - Page scrolled.
+2025-04-18 11:01:28,740 - DEBUG - Random scrolls complete.
+2025-04-18 11:01:31,342 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:01:31,343 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:01:33,139 - DEBUG - Page scrolled.
+2025-04-18 11:01:36,140 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:01:37,853 - DEBUG - Page scrolled.
+2025-04-18 11:01:40,856 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:01:42,711 - DEBUG - Page scrolled.
+2025-04-18 11:01:45,713 - DEBUG - Random scrolls complete.
+2025-04-18 11:01:45,750 - DEBUG - Found 8 like buttons.
+2025-04-18 11:01:48,751 - INFO - Attempting to like 4 posts. There are 8 available.
+2025-04-18 11:01:49,415 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:01:49,450 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:01:49,452 - DEBUG - Liked post number 1 of 4.
+2025-04-18 11:01:54,636 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:01:54,646 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:01:54,646 - DEBUG - Liked post number 2 of 4.
+2025-04-18 11:01:59,515 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:01:59,538 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:01:59,540 - DEBUG - Liked post number 3 of 4.
+2025-04-18 11:02:04,581 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:02:04,603 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:02:04,606 - DEBUG - Liked post number 4 of 4.
+2025-04-18 11:02:09,128 - INFO - Liked 4 posts successfully.
+2025-04-18 11:02:09,130 - INFO - Liked 4 posts successfully.
+2025-04-18 11:02:12,042 - INFO - Profile PixelPirate99: Opening random website: https://github.com/
+2025-04-18 11:02:15,763 - INFO - Profile PixelPirate99: Pausing for 33.67 seconds...
+2025-04-18 11:02:49,432 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 11:02:49,459 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-18 11:02:49,461 - INFO - performing random action
+2025-04-18 11:02:49,463 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:02:49,465 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:51,139 - DEBUG - Page scrolled.
+2025-04-18 11:02:54,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:55,359 - DEBUG - Page scrolled.
+2025-04-18 11:02:58,362 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:59,802 - DEBUG - Page scrolled.
+2025-04-18 11:03:02,804 - DEBUG - Random scrolls complete.
+2025-04-18 11:03:05,354 - DEBUG - Total comments in the thread: 8
+2025-04-18 11:03:47,210 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How many blog posts should I publish before I start doing SEO or link building.txt
+2025-04-18 11:03:49,787 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:03:49,924 - DEBUG - Extracted main post content: Should I focus on content first or try to get links right away?
+2025-04-18 11:03:55,363 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:03:55,365 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:03:57,914 - INFO - Profile PixelPirate99: Restoring window...
+2025-04-18 11:03:59,923 - INFO - performing random action
+2025-04-18 11:03:59,925 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:03:59,926 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:03:59,979 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:04:00,031 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:04:00,040 - DEBUG - Text box scrolled into view
+2025-04-18 11:04:00,592 - DEBUG - Initializing actionchains
+2025-04-18 11:04:00,616 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3278}, size: {'height': 21, 'width': 68}
+2025-04-18 11:04:00,617 - DEBUG - Target click coordinates: (1267, 3288)
+2025-04-18 11:04:11,579 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:04:11,580 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:04:11,582 - DEBUG - Clicking on the text box.
+2025-04-18 11:04:11,584 - DEBUG - Sending keys with content: Honestly, I'd say nail your content first; solid content naturally attracts links anyway. What's the point of links pointing to something that isn't great?
+
+2025-04-18 11:04:16,688 - DEBUG - Clicking on post reply button.
+2025-04-18 11:04:18,071 - DEBUG - Performed Actionchains
+2025-04-18 11:04:18,072 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:04:22,073 - INFO - Comment posted successfully.
+2025-04-18 11:04:22,075 - INFO - Task Completed!!
+2025-04-18 11:04:24,157 - INFO - Navigated back to the homepage.
+2025-04-18 11:04:26,456 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:04:26,555 - INFO - Garbage collection completed.
+2025-04-18 11:04:26,556 - INFO - Waiting for 1700 seconds before next execution.

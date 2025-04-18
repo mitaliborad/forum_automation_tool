@@ -1,0 +1,116 @@
+2025-04-18 12:09:21,524 - INFO - Current time: 1744958361.5244544
+2025-04-18 12:09:21,531 - INFO - Token expiration time: 1744959148.507288
+2025-04-18 12:09:21,534 - INFO - Token expiration time: 1744959148.507288
+2025-04-18 12:09:21,536 - INFO - performing random action
+2025-04-18 12:09:21,538 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 12:09:21,540 - DEBUG - Scrolling page 4 times.
+2025-04-18 12:09:21,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:23,545 - DEBUG - Page scrolled.
+2025-04-18 12:09:25,547 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:27,423 - DEBUG - Page scrolled.
+2025-04-18 12:09:29,428 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:30,699 - DEBUG - Page scrolled.
+2025-04-18 12:09:32,707 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:34,161 - DEBUG - Page scrolled.
+2025-04-18 12:09:36,163 - DEBUG - Random scrolls complete.
+2025-04-18 12:09:36,169 - DEBUG - Scrolling page 4 times.
+2025-04-18 12:09:36,170 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:38,140 - DEBUG - Page scrolled.
+2025-04-18 12:09:40,142 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:41,212 - DEBUG - Page scrolled.
+2025-04-18 12:09:43,214 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:44,257 - DEBUG - Page scrolled.
+2025-04-18 12:09:46,259 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:09:47,447 - DEBUG - Page scrolled.
+2025-04-18 12:09:49,450 - DEBUG - Random scrolls complete.
+2025-04-18 12:10:00,609 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-04-18 12:10:05,577 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-help-related-to-seo-for-a-directory-listing-site.1706145/unread
+2025-04-18 12:10:05,578 - INFO - performing random action
+2025-04-18 12:10:13,519 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-help-related-to-seo-for-a-directory-listing-site.1706145/unread
+2025-04-18 12:10:13,521 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-help-related-to-seo-for-a-directory-listing-site.1706145/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 12:10:13,553 - INFO - Extracted thread title: Need help related to SEO for a directory listing site
+2025-04-18 12:10:13,553 - DEBUG - Scrolling page 3 times.
+2025-04-18 12:10:13,554 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:10:15,272 - DEBUG - Page scrolled.
+2025-04-18 12:10:17,274 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:10:18,769 - DEBUG - Page scrolled.
+2025-04-18 12:10:20,772 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:10:22,558 - DEBUG - Page scrolled.
+2025-04-18 12:10:24,560 - DEBUG - Random scrolls complete.
+2025-04-18 12:10:27,456 - DEBUG - Scrolling page 4 times.
+2025-04-18 12:10:27,457 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:10:28,686 - DEBUG - Page scrolled.
+2025-04-18 12:10:31,688 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:10:32,962 - DEBUG - Page scrolled.
+2025-04-18 12:10:35,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:10:37,643 - DEBUG - Page scrolled.
+2025-04-18 12:10:40,644 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:10:42,609 - DEBUG - Page scrolled.
+2025-04-18 12:10:45,611 - DEBUG - Random scrolls complete.
+2025-04-18 12:10:45,627 - DEBUG - Found 2 like buttons.
+2025-04-18 12:10:48,628 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-18 12:10:49,616 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 12:10:49,630 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 12:10:49,631 - DEBUG - Liked post number 1 of 2.
+2025-04-18 12:10:55,063 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 12:10:55,102 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 12:10:55,105 - DEBUG - Liked post number 2 of 2.
+2025-04-18 12:10:59,295 - INFO - Liked 2 posts successfully.
+2025-04-18 12:10:59,297 - INFO - Liked 2 posts successfully.
+2025-04-18 12:11:02,196 - INFO - performing random action
+2025-04-18 12:11:02,204 - DEBUG - Scrolling page 3 times.
+2025-04-18 12:11:02,206 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:11:03,927 - DEBUG - Page scrolled.
+2025-04-18 12:11:06,929 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:11:08,303 - DEBUG - Page scrolled.
+2025-04-18 12:11:11,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:11:13,153 - DEBUG - Page scrolled.
+2025-04-18 12:11:16,159 - DEBUG - Random scrolls complete.
+2025-04-18 12:11:19,115 - DEBUG - Total comments in the thread: 2
+2025-04-18 12:11:19,300 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need help related to SEO for a directory listing site.txt
+2025-04-18 12:11:21,956 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 12:11:22,050 - DEBUG - Extracted main post content: I am doing SEO for a directory listing website with around 2,500 pages. These include approximately 20 category pages, 1,500 company listing pages, 300 blog pages, and 500 coupon pages. The website receives about 4,000 clicks per month. I publish 15 niche-relevant blog posts each month. No new category pages have been introduced since the last audit. The traffic is evenly split, with 50% coming from blog pages and 50% from the remaining pages.
+
+There are no major Core Web Vitals or technical SEO issues. I’m also actively building backlinks. However, I haven't seen any significant improvement in traffic. Can anyone suggest SEO strategies to help increase clicks to the website?
+2025-04-18 12:11:25,796 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 12:11:25,801 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 12:11:28,145 - INFO - Profile PhantomRoot: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-18 12:11:32,788 - INFO - Profile PhantomRoot: Pausing for 49.02 seconds...
+2025-04-18 12:12:21,837 - INFO - Profile PhantomRoot: Resuming...
+2025-04-18 12:12:21,885 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-18 12:12:21,887 - INFO - performing random action
+2025-04-18 12:12:21,888 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:12:21,888 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:12:21,967 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:12:22,022 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:12:22,027 - DEBUG - Text box scrolled into view
+2025-04-18 12:12:22,621 - DEBUG - Initializing actionchains
+2025-04-18 12:12:22,709 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1669}, size: {'height': 21, 'width': 68}
+2025-04-18 12:12:22,710 - DEBUG - Target click coordinates: (1267, 1679)
+2025-04-18 12:12:29,771 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 12:12:29,773 - DEBUG - Moving mouse to text box element.
+2025-04-18 12:12:29,780 - DEBUG - Clicking on the text box.
+2025-04-18 12:12:29,784 - DEBUG - Sending keys with content: With that many pages and no tech issues, I'd deep-dive into user search intent for each page type and make sure your content is *exactly* what they're looking for. Are you targeting keywords that actually convert, or just informational stuff?
+
+2025-04-18 12:12:34,813 - DEBUG - Clicking on post reply button.
+2025-04-18 12:12:36,471 - DEBUG - Performed Actionchains
+2025-04-18 12:12:36,472 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 12:12:40,474 - INFO - Comment posted successfully.
+2025-04-18 12:12:40,476 - INFO - Task Completed!!
+2025-04-18 12:12:43,806 - INFO - Navigated back to the homepage.
+2025-04-18 12:12:46,559 - INFO - Attempting to clear memory and resources.
+2025-04-18 12:12:46,646 - INFO - Garbage collection completed.
+2025-04-18 12:12:46,648 - INFO - Waiting for 1700 seconds before next execution.
+2025-04-18 12:41:06,655 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-18 12:41:06,656 - INFO - Stopping browser for profile: PhantomRoot...
+2025-04-18 12:41:06,657 - INFO - Refreshing token before stopping profile...
+2025-04-18 12:41:06,658 - INFO - Refreshing token for PhantomRoot...
+2025-04-18 12:41:07,496 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-18 12:41:07,498 - INFO - Calculated token expiration time: 1744971067.4983144
+2025-04-18 12:41:07,502 - INFO - Profile PhantomRoot: Successfully logged in.
+2025-04-18 12:41:07,505 - INFO - Token refreshed successfully before stopping.
+2025-04-18 12:41:07,507 - INFO - Profile PhantomRoot: Attempting to stop (Attempt 1/3)...
+2025-04-18 12:41:07,514 - INFO - Profile PhantomRoot: Browser closed successfully in 0.01 seconds.
+2025-04-18 12:41:10,731 - INFO - Profile PhantomRoot: API call took 3.22 seconds.
+2025-04-18 12:41:10,732 - INFO - Profile PhantomRoot: Stopped successfully.
+2025-04-18 12:41:10,733 - INFO - Browser stopped successfully for profile: PhantomRoot.

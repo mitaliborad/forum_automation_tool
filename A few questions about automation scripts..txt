@@ -1,0 +1,95 @@
+--- Main Post Title ---
+A few questions about automation scripts.
+
+Total comments in the thread: 7
+
+Topic User: szoenik
+Topic: Hi,
+
+I got a few questions about automation scripts for uploading stuff online/creating posts - while not knowing how to code myself. I'm currently at a crossroad, because I need automation scripts - but I cannot pay someone to write them for me, as that would be just giving away ideas and creating competition. As I would need to give step by step instructions on how to do it.
+
+On another hand, I won't spend 6 months to 1 year of my life to learn how to write 1-2 scripts and be done with it. Too much time spent for very little use of those skills.
+Social media posting/bots are easily available, but if we're talking about websites that are very unkown/not popular - and a script that would include posting/uploading in i.e 30 of those websites, where every website has a different system of how posting/uploading works - it would require a custom script tailored to every single website patched into one script that does it in bulk one by one.
+
+This goes even further where I would need a more complex automation, where I would need the script to download something, run it through desktop programs, and then do schedule uploads. Basically re-uploading + posting.
+
+I tried using chatGPT for at least scheduling upload/posts, but since it has to be tailored to a website, it is having a really hard time to spit anything useful- or I don't know how to guide it, idk. So far I managed to install python, VS code studio and requests/schedule PIP, and that was it lol.
+
+Is learning how to write automation script easier than I think in terms of time spent for learning? Regarding my 6-12 months of learning time, let's say 10-15 hours a week.
+
+I know this is a very newbie post, but if anyone has any tips what I could do about it, which way to go, or what options do I have, I would be very grateful. My most prefered option would still be to pay someone to do it, but well, I trust no one, in terms of whether someone will use my future ideas, so can't think of any way of doing this right.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: ElinoraDonehiw
+Topic: @szoenik
+1. stop with this thinking.
+szoenik said:
+but I cannot pay someone to write them for me, as that would be just giving away ideas and creating competition. As I would need to give step by step instructions on how to do it.
+Whether you pay for the code writing or not, you need work done, one that you don't know how to do.
+You have listed the two possible options. pay or learn.
+
+2. You can open the dev tools on your browser (ctrl + shift + i) and find that the upload button on most sites will be the same(or close enough). it will help
+
+3. Clearly capture the path of your desired program. It will be easier for you or the person who builds your program.
+4. If you need to manipulate a text file on your desktop, try using .bach code. It will be easier to learn.
+5. scrapy(https://scrapy.org/) is a good start for manipulating websites with automation.
+6. Try a cool Python course. It will take a month or two to grasp the roots and what you can and cannot do.
+7. why the rush?
+Liked by: M4DM4X
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Brianthe1st
+Topic: Just because it can be done ,doesn't mean that you will be able to do it . I would just split the projects in to smaller projects and then post them as gigs/bounties on reddit or any other freelancing platform.
+Last edited: Oct 12, 2024
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Proxy Cake
+Topic: Yes like others have said, the likelyhood of the developer using the scripts themselves us low
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: botguy
+Topic: Use browser automation studio. It is easy to learn and use and free. You might need to use ffmpeg using command line terminal which can be implemented in your script easily which will manipulate the videos.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: vagsert2
+Topic: You can use Selenium, it may be able to help you
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: M4DM4X
+Topic: Macros are great if don't know how to code
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

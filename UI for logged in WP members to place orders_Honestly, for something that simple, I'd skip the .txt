@@ -1,0 +1,1 @@
+Honestly, for something that simple, I'd skip the whole e-commerce plugin route at first. Just use a form builder plugin like WPForms or Gravity Forms; you can set up conditional logic to show the products after login and email you the submissions.

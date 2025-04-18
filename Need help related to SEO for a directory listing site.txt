@@ -1,0 +1,25 @@
+--- Main Post Title ---
+Need help related to SEO for a directory listing site
+
+Total comments in the thread: 2
+
+Topic User: Ghost_Hunter
+Topic: I am doing SEO for a directory listing website with around 2,500 pages. These include approximately 20 category pages, 1,500 company listing pages, 300 blog pages, and 500 coupon pages. The website receives about 4,000 clicks per month. I publish 15 niche-relevant blog posts each month. No new category pages have been introduced since the last audit. The traffic is evenly split, with 50% coming from blog pages and 50% from the remaining pages.
+
+There are no major Core Web Vitals or technical SEO issues. I’m also actively building backlinks. However, I haven't seen any significant improvement in traffic. Can anyone suggest SEO strategies to help increase clicks to the website?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: shijin
+Topic: Double down on long-tail keywords, especially for your coupon pages.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+

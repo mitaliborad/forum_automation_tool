@@ -1,0 +1,126 @@
+2025-04-18 10:33:09,242 - INFO - Current time: 1744952589.2427053
+2025-04-18 10:33:09,244 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 10:33:09,246 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 10:33:09,248 - INFO - Profile BinaryGhost: Opening random website: https://github.com/
+2025-04-18 10:33:17,719 - INFO - Profile BinaryGhost: Pausing for 47.43 seconds...
+2025-04-18 10:34:05,157 - INFO - Profile BinaryGhost: Resuming...
+2025-04-18 10:34:05,191 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-18 10:34:05,194 - INFO - performing random action
+2025-04-18 10:34:05,195 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:34:05,197 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:34:05,198 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:34:07,080 - DEBUG - Page scrolled.
+2025-04-18 10:34:09,081 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:34:10,563 - DEBUG - Page scrolled.
+2025-04-18 10:34:12,565 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:34:14,352 - DEBUG - Page scrolled.
+2025-04-18 10:34:16,353 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:34:18,087 - DEBUG - Page scrolled.
+2025-04-18 10:34:20,089 - DEBUG - Random scrolls complete.
+2025-04-18 10:34:20,090 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:34:20,092 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:34:21,854 - DEBUG - Page scrolled.
+2025-04-18 10:34:23,857 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:34:24,935 - DEBUG - Page scrolled.
+2025-04-18 10:34:26,937 - DEBUG - Random scrolls complete.
+2025-04-18 10:34:35,263 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-04-18 10:34:38,936 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-can-you-monetize-tumblr-content.1446532/
+2025-04-18 10:34:38,936 - INFO - performing random action
+2025-04-18 10:34:47,732 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-can-you-monetize-tumblr-content.1446532/
+2025-04-18 10:34:47,734 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-can-you-monetize-tumblr-content.1446532/' to visited threads file 'Thread_links.txt'.
+2025-04-18 10:34:47,782 - INFO - Extracted thread title: How can you monetize Tumblr content
+2025-04-18 10:34:47,783 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:34:47,783 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:34:49,447 - DEBUG - Page scrolled.
+2025-04-18 10:34:51,449 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:34:52,583 - DEBUG - Page scrolled.
+2025-04-18 10:34:54,584 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:34:56,457 - DEBUG - Page scrolled.
+2025-04-18 10:34:58,460 - DEBUG - Random scrolls complete.
+2025-04-18 10:35:00,745 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:35:00,746 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:35:02,534 - DEBUG - Page scrolled.
+2025-04-18 10:35:05,536 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:35:06,713 - DEBUG - Page scrolled.
+2025-04-18 10:35:09,714 - DEBUG - Random scrolls complete.
+2025-04-18 10:35:09,741 - DEBUG - Found 15 like buttons.
+2025-04-18 10:35:12,742 - INFO - Attempting to like 1 posts. There are 15 available.
+2025-04-18 10:35:13,399 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:35:13,431 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:35:13,433 - DEBUG - Liked post number 1 of 1.
+2025-04-18 10:35:17,917 - INFO - Liked 1 posts successfully.
+2025-04-18 10:35:17,919 - INFO - Liked 1 posts successfully.
+2025-04-18 10:35:20,881 - INFO - Profile BinaryGhost: Opening random website: https://www.canva.com/en_in/
+2025-04-18 10:40:22,807 - ERROR - Profile BinaryGhost: Error simulating scrolling: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF70C0944D5+25349]
+	(No symbol) [0x00007FF70BFF90F0]
+	(No symbol) [0x00007FF70BE75A0A]
+	(No symbol) [0x00007FF70BE6590C]
+	(No symbol) [0x00007FF70BE655FA]
+	(No symbol) [0x00007FF70BE6329A]
+	(No symbol) [0x00007FF70BE63C5F]
+	(No symbol) [0x00007FF70BE6FC9E]
+	(No symbol) [0x00007FF70BE86161]
+	(No symbol) [0x00007FF70BE8D10A]
+	(No symbol) [0x00007FF70BE643CD]
+	(No symbol) [0x00007FF70BE85E95]
+	(No symbol) [0x00007FF70BF1F955]
+	(No symbol) [0x00007FF70BEF72D3]
+	(No symbol) [0x00007FF70BEC06F8]
+	(No symbol) [0x00007FF70BEC1463]
+	GetHandleVerifier [0x00007FF70C41887D+3712685]
+	GetHandleVerifier [0x00007FF70C4308C2+3811058]
+	GetHandleVerifier [0x00007FF70C42457D+3761069]
+	GetHandleVerifier [0x00007FF70C16293A+870250]
+	(No symbol) [0x00007FF70C0042CF]
+	(No symbol) [0x00007FF70BFFFC14]
+	(No symbol) [0x00007FF70BFFFDC2]
+	(No symbol) [0x00007FF70BFEEED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-18 10:40:22,878 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-18 10:40:22,882 - INFO - performing random action
+2025-04-18 10:40:22,883 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:40:22,884 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:24,552 - DEBUG - Page scrolled.
+2025-04-18 10:40:27,553 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:29,170 - DEBUG - Page scrolled.
+2025-04-18 10:40:32,172 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:33,188 - DEBUG - Page scrolled.
+2025-04-18 10:40:36,195 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:37,305 - DEBUG - Page scrolled.
+2025-04-18 10:40:40,310 - DEBUG - Random scrolls complete.
+2025-04-18 10:40:42,734 - DEBUG - Total comments in the thread: 15
+2025-04-18 10:42:45,819 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How can you monetize Tumblr content.txt
+2025-04-18 10:42:48,318 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:42:48,403 - DEBUG - Extracted main post content: Ever since Tumblr stopped allowing porn, it went downhill user population wise. How can you monetize content nowadays on Tumblr in Oct. 2022?
+2025-04-18 10:42:53,011 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:42:53,014 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:42:55,716 - INFO - Profile BinaryGhost: Pausing for 49.75 seconds...
+2025-04-18 10:43:45,473 - INFO - Profile BinaryGhost: Resuming...
+2025-04-18 10:43:45,477 - INFO - performing random action
+2025-04-18 10:43:45,478 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:43:45,479 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:43:45,512 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:43:45,562 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:43:45,573 - DEBUG - Text box scrolled into view
+2025-04-18 10:43:46,193 - DEBUG - Initializing actionchains
+2025-04-18 10:43:46,272 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4732}, size: {'height': 21, 'width': 68}
+2025-04-18 10:43:46,273 - DEBUG - Target click coordinates: (1267, 4742)
+2025-04-18 10:43:59,924 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:43:59,925 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:43:59,927 - DEBUG - Clicking on the text box.
+2025-04-18 10:43:59,930 - DEBUG - Sending keys with content: Honestly, focusing on a specific niche and building a community around that seems like the only viable path now. Ever considered selling digital products or offering exclusive content to subscribers?
+
+2025-04-18 10:44:05,245 - DEBUG - Clicking on post reply button.
+2025-04-18 10:44:16,581 - DEBUG - Performed Actionchains
+2025-04-18 10:44:16,582 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:44:20,584 - INFO - Comment posted successfully.
+2025-04-18 10:44:20,586 - INFO - Task Completed!!
+2025-04-18 10:44:31,929 - INFO - Navigated back to the homepage.
+2025-04-18 10:44:34,493 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:44:34,559 - INFO - Garbage collection completed.
+2025-04-18 10:44:34,560 - INFO - Waiting for 1700 seconds before next execution.

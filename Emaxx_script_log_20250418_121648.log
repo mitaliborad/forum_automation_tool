@@ -1,0 +1,114 @@
+2025-04-18 12:16:48,078 - INFO - Current time: 1744958808.0779104
+2025-04-18 12:16:48,080 - INFO - Token expiration time: 1744959516.5361674
+2025-04-18 12:16:48,085 - INFO - Token expiration time: 1744959516.5361674
+2025-04-18 12:16:48,087 - INFO - Profile Emaxx: Restoring window...
+2025-04-18 12:16:50,110 - INFO - performing random action
+2025-04-18 12:16:50,113 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 12:16:50,114 - DEBUG - Scrolling page 2 times.
+2025-04-18 12:16:50,116 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:16:51,908 - DEBUG - Page scrolled.
+2025-04-18 12:16:53,931 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:16:55,749 - DEBUG - Page scrolled.
+2025-04-18 12:16:57,754 - DEBUG - Random scrolls complete.
+2025-04-18 12:16:57,756 - DEBUG - Scrolling page 3 times.
+2025-04-18 12:16:57,758 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:16:58,904 - DEBUG - Page scrolled.
+2025-04-18 12:17:00,908 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:17:02,086 - DEBUG - Page scrolled.
+2025-04-18 12:17:04,092 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:17:05,153 - DEBUG - Page scrolled.
+2025-04-18 12:17:07,155 - DEBUG - Random scrolls complete.
+2025-04-18 12:17:14,516 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-18 12:17:19,564 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/the-arbitrageurs-checklist-what-do-you-need-for-a-successful-target-in-2025.1705081/unread
+2025-04-18 12:17:19,564 - INFO - performing random action
+2025-04-18 12:17:31,073 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/the-arbitrageurs-checklist-what-do-you-need-for-a-successful-target-in-2025.1705081/unread
+2025-04-18 12:17:31,076 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/the-arbitrageurs-checklist-what-do-you-need-for-a-successful-target-in-2025.1705081/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 12:17:31,178 - INFO - Extracted thread title: The arbitrageur's checklist what do you need for a successful target in 2025
+2025-04-18 12:17:31,179 - DEBUG - Scrolling page 4 times.
+2025-04-18 12:17:31,180 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:17:33,065 - DEBUG - Page scrolled.
+2025-04-18 12:17:35,068 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:17:37,082 - DEBUG - Page scrolled.
+2025-04-18 12:17:39,084 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:17:40,704 - DEBUG - Page scrolled.
+2025-04-18 12:17:42,708 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:17:44,101 - DEBUG - Page scrolled.
+2025-04-18 12:17:46,107 - DEBUG - Random scrolls complete.
+2025-04-18 12:17:48,592 - DEBUG - Scrolling page 3 times.
+2025-04-18 12:17:48,599 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:17:50,275 - DEBUG - Page scrolled.
+2025-04-18 12:17:53,282 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:17:54,762 - DEBUG - Page scrolled.
+2025-04-18 12:17:57,765 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:17:59,135 - DEBUG - Page scrolled.
+2025-04-18 12:18:02,137 - DEBUG - Random scrolls complete.
+2025-04-18 12:18:02,201 - DEBUG - Found 3 like buttons.
+2025-04-18 12:18:05,204 - INFO - Attempting to like 1 posts. There are 3 available.
+2025-04-18 12:18:06,002 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 12:18:06,051 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 12:18:06,053 - DEBUG - Liked post number 1 of 1.
+2025-04-18 12:18:11,058 - INFO - Liked 1 posts successfully.
+2025-04-18 12:18:11,061 - INFO - Liked 1 posts successfully.
+2025-04-18 12:18:13,997 - INFO - Profile Emaxx: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-18 12:18:20,032 - INFO - Profile Emaxx: Pausing for 42.38 seconds...
+2025-04-18 12:19:02,413 - INFO - Profile Emaxx: Resuming...
+2025-04-18 12:19:02,496 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-18 12:19:02,497 - INFO - performing random action
+2025-04-18 12:19:02,498 - DEBUG - Scrolling page 6 times.
+2025-04-18 12:19:02,498 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:19:04,193 - DEBUG - Page scrolled.
+2025-04-18 12:19:07,295 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:19:08,995 - DEBUG - Page scrolled.
+2025-04-18 12:19:11,998 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:19:13,086 - DEBUG - Page scrolled.
+2025-04-18 12:19:16,088 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:19:17,328 - DEBUG - Page scrolled.
+2025-04-18 12:19:20,330 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:19:22,293 - DEBUG - Page scrolled.
+2025-04-18 12:19:25,295 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 12:19:26,549 - DEBUG - Page scrolled.
+2025-04-18 12:19:29,551 - DEBUG - Random scrolls complete.
+2025-04-18 12:19:32,569 - DEBUG - Total comments in the thread: 3
+2025-04-18 12:19:42,987 - INFO - Post content extracted and saved to Thread-Details/Thread Content\The arbitrageur's checklist what do you need for a successful target in 2025.txt
+2025-04-18 12:19:45,373 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 12:19:50,475 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 12:19:50,478 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 12:19:53,000 - INFO - Profile Emaxx: Minimizing window...
+2025-04-18 12:19:53,019 - INFO - Profile Emaxx: Window minimized. Pausing for 20.51 seconds...
+2025-04-18 12:20:13,534 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-18 12:20:13,537 - INFO - performing random action
+2025-04-18 12:20:13,538 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:20:13,538 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:20:13,551 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:20:13,612 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 12:20:13,618 - DEBUG - Text box scrolled into view
+2025-04-18 12:20:14,235 - DEBUG - Initializing actionchains
+2025-04-18 12:20:14,253 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3743}, size: {'height': 21, 'width': 68}
+2025-04-18 12:20:14,254 - DEBUG - Target click coordinates: (1267, 3753)
+2025-04-18 12:20:25,903 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 12:20:25,905 - DEBUG - Moving mouse to text box element.
+2025-04-18 12:20:25,906 - DEBUG - Clicking on the text box.
+2025-04-18 12:20:25,908 - DEBUG - Sending keys with content: Good checklist, but I'd add checking landing page speed on mobile. Ain't nobody got time to wait these days.
+
+2025-04-18 12:20:31,727 - DEBUG - Clicking on post reply button.
+2025-04-18 12:20:42,710 - DEBUG - Performed Actionchains
+2025-04-18 12:20:42,711 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 12:20:46,713 - INFO - Comment posted successfully.
+2025-04-18 12:20:46,714 - INFO - Task Completed!!
+2025-04-18 12:20:56,075 - INFO - Navigated back to the homepage.
+2025-04-18 12:20:58,301 - INFO - Attempting to clear memory and resources.
+2025-04-18 12:20:58,372 - INFO - Garbage collection completed.
+2025-04-18 12:20:58,373 - INFO - Waiting for 1700 seconds before next execution.
+2025-04-18 12:49:18,375 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-18 12:49:18,378 - INFO - Stopping browser for profile: Emaxx...
+2025-04-18 12:49:18,380 - INFO - Refreshing token before stopping profile...
+2025-04-18 12:49:18,381 - INFO - Refreshing token for Emaxx...
+2025-04-18 12:49:19,477 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-18 12:49:19,479 - INFO - Calculated token expiration time: 1744971559.4791393
+2025-04-18 12:49:19,481 - INFO - Profile Emaxx: Successfully logged in.
+2025-04-18 12:49:19,483 - INFO - Token refreshed successfully before stopping.
+2025-04-18 12:49:19,484 - INFO - Profile Emaxx: Attempting to stop (Attempt 1/3)...
+2025-04-18 12:49:19,496 - INFO - Profile Emaxx: Browser closed successfully in 0.01 seconds.
+2025-04-18 12:49:21,901 - INFO - Profile Emaxx: API call took 2.40 seconds.
+2025-04-18 12:49:21,905 - INFO - Profile Emaxx: Stopped successfully.
+2025-04-18 12:49:21,910 - INFO - Browser stopped successfully for profile: Emaxx.

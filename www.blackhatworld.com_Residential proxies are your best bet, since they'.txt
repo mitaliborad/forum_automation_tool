@@ -1,0 +1,1 @@
+Residential proxies are your best bet, since they're harder to flag than datacenter ones. Just be careful you don't tank your rankings in the process.

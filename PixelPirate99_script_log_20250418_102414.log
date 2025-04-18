@@ -1,0 +1,104 @@
+2025-04-18 10:24:14,698 - INFO - Current time: 1744952054.6980426
+2025-04-18 10:24:14,700 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 10:24:14,702 - INFO - Token expiration time: 1744959073.041423
+2025-04-18 10:24:14,704 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-18 10:24:20,301 - INFO - Profile PixelPirate99: Pausing for 32.94 seconds...
+2025-04-18 10:24:53,242 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 10:24:53,253 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-18 10:24:53,256 - INFO - performing random action
+2025-04-18 10:24:53,260 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:24:53,263 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:24:53,265 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:24:54,549 - DEBUG - Page scrolled.
+2025-04-18 10:24:56,550 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:24:57,581 - DEBUG - Page scrolled.
+2025-04-18 10:24:59,582 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:25:01,595 - DEBUG - Page scrolled.
+2025-04-18 10:25:03,597 - DEBUG - Random scrolls complete.
+2025-04-18 10:25:03,598 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:25:03,598 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:25:05,554 - DEBUG - Page scrolled.
+2025-04-18 10:25:07,557 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:25:08,790 - DEBUG - Page scrolled.
+2025-04-18 10:25:10,796 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:25:12,137 - DEBUG - Page scrolled.
+2025-04-18 10:25:14,140 - DEBUG - Random scrolls complete.
+2025-04-18 10:25:20,703 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-04-18 10:25:24,946 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/does-blogging-still-work-for-the-fitness-industry.1693912/unread
+2025-04-18 10:25:24,946 - INFO - performing random action
+2025-04-18 10:25:33,461 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/does-blogging-still-work-for-the-fitness-industry.1693912/unread
+2025-04-18 10:25:33,466 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/does-blogging-still-work-for-the-fitness-industry.1693912/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 10:25:33,497 - INFO - Extracted thread title: Does blogging still work for the Fitness industry
+2025-04-18 10:25:33,498 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:25:33,499 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:25:34,979 - DEBUG - Page scrolled.
+2025-04-18 10:25:36,981 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:25:38,431 - DEBUG - Page scrolled.
+2025-04-18 10:25:40,433 - DEBUG - Random scrolls complete.
+2025-04-18 10:25:42,898 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:25:42,899 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:25:44,200 - DEBUG - Page scrolled.
+2025-04-18 10:25:47,203 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:25:48,670 - DEBUG - Page scrolled.
+2025-04-18 10:25:51,687 - DEBUG - Random scrolls complete.
+2025-04-18 10:25:51,705 - DEBUG - Found 16 like buttons.
+2025-04-18 10:25:54,705 - INFO - Attempting to like 3 posts. There are 16 available.
+2025-04-18 10:25:55,716 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:25:55,748 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:25:55,749 - DEBUG - Liked post number 1 of 3.
+2025-04-18 10:26:00,885 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:26:00,897 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:26:00,898 - DEBUG - Liked post number 2 of 3.
+2025-04-18 10:26:06,646 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:26:06,654 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:26:06,655 - DEBUG - Liked post number 3 of 3.
+2025-04-18 10:26:10,748 - INFO - Liked 3 posts successfully.
+2025-04-18 10:26:10,750 - INFO - Liked 3 posts successfully.
+2025-04-18 10:26:13,750 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-04-18 10:26:19,235 - INFO - Profile PixelPirate99: Pausing for 37.26 seconds...
+2025-04-18 10:26:56,493 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 10:26:56,504 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-18 10:26:56,506 - INFO - performing random action
+2025-04-18 10:26:56,508 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:26:56,510 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:26:58,242 - DEBUG - Page scrolled.
+2025-04-18 10:27:01,243 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:27:02,718 - DEBUG - Page scrolled.
+2025-04-18 10:27:05,720 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:27:06,809 - DEBUG - Page scrolled.
+2025-04-18 10:27:09,811 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:27:11,659 - DEBUG - Page scrolled.
+2025-04-18 10:27:14,662 - DEBUG - Random scrolls complete.
+2025-04-18 10:27:17,430 - DEBUG - Total comments in the thread: 16
+2025-04-18 10:28:49,922 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Does blogging still work for the Fitness industry.txt
+2025-04-18 10:28:52,165 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:28:52,225 - DEBUG - Extracted main post content: Hi Guys, seen so many now in fitness and nutrition, it seems everyone has something to share which is great, but is there still good money to be made?
+2025-04-18 10:28:56,201 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:28:56,204 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:28:58,628 - INFO - Profile PixelPirate99: Opening random website: https://www.w3schools.com/
+2025-04-18 10:29:03,242 - INFO - Profile PixelPirate99: Pausing for 49.24 seconds...
+2025-04-18 10:29:52,485 - INFO - Profile PixelPirate99: Resuming...
+2025-04-18 10:29:52,497 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-18 10:29:52,499 - INFO - performing random action
+2025-04-18 10:29:52,501 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:29:52,502 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:29:52,544 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:29:52,590 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:29:52,596 - DEBUG - Text box scrolled into view
+2025-04-18 10:29:53,429 - DEBUG - Initializing actionchains
+2025-04-18 10:29:53,452 - DEBUG - Post reply Element location: {'x': 1233, 'y': 5561}, size: {'height': 21, 'width': 68}
+2025-04-18 10:29:53,452 - DEBUG - Target click coordinates: (1267, 5571)
+2025-04-18 10:30:08,414 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:30:08,417 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:30:08,418 - DEBUG - Clicking on the text box.
+2025-04-18 10:30:08,421 - DEBUG - Sending keys with content: Honestly, it's a flooded market, but if you find a specific niche and really nail it, there's definitely still potential to stand out and make some cash.
+
+2025-04-18 10:30:13,514 - DEBUG - Clicking on post reply button.
+2025-04-18 10:30:24,583 - DEBUG - Performed Actionchains
+2025-04-18 10:30:24,584 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:30:28,585 - INFO - Comment posted successfully.
+2025-04-18 10:30:28,587 - INFO - Task Completed!!
+2025-04-18 10:30:37,465 - INFO - Navigated back to the homepage.
+2025-04-18 10:30:39,953 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:30:40,000 - INFO - Garbage collection completed.
+2025-04-18 10:30:40,001 - INFO - Waiting for 1700 seconds before next execution.

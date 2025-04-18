@@ -1,0 +1,111 @@
+2025-04-18 09:33:29,001 - INFO - Current time: 1744949009.0016592
+2025-04-18 09:33:29,002 - INFO - Token expiration time: 1744959803.9765446
+2025-04-18 09:33:29,003 - INFO - Token expiration time: 1744959803.9765446
+2025-04-18 09:33:29,003 - INFO - performing random action
+2025-04-18 09:33:29,004 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 09:33:29,004 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:33:29,005 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:33:34,100 - DEBUG - Page scrolled.
+2025-04-18 09:33:36,102 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:33:37,621 - DEBUG - Page scrolled.
+2025-04-18 09:33:39,625 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:33:40,791 - DEBUG - Page scrolled.
+2025-04-18 09:33:42,793 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:33:44,055 - DEBUG - Page scrolled.
+2025-04-18 09:33:46,057 - DEBUG - Random scrolls complete.
+2025-04-18 09:33:46,058 - DEBUG - Scrolling page 3 times.
+2025-04-18 09:33:46,060 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:33:47,586 - DEBUG - Page scrolled.
+2025-04-18 09:33:49,588 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:33:51,342 - DEBUG - Page scrolled.
+2025-04-18 09:33:53,345 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:33:54,629 - DEBUG - Page scrolled.
+2025-04-18 09:33:56,634 - DEBUG - Random scrolls complete.
+2025-04-18 09:34:02,532 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-04-18 09:34:06,645 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-registrar-2025-move-out-from-namesilo.1673722/unread
+2025-04-18 09:34:06,645 - INFO - performing random action
+2025-04-18 09:34:14,639 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-registrar-2025-move-out-from-namesilo.1673722/unread
+2025-04-18 09:34:14,642 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-registrar-2025-move-out-from-namesilo.1673722/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 09:34:14,746 - INFO - Extracted thread title: Best Registrar 2025  Move out from Namesilo
+2025-04-18 09:34:14,748 - DEBUG - Scrolling page 2 times.
+2025-04-18 09:34:14,748 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:34:15,834 - DEBUG - Page scrolled.
+2025-04-18 09:34:17,835 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:34:19,408 - DEBUG - Page scrolled.
+2025-04-18 09:34:21,409 - DEBUG - Random scrolls complete.
+2025-04-18 09:34:23,926 - DEBUG - Scrolling page 3 times.
+2025-04-18 09:34:23,927 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:34:25,289 - DEBUG - Page scrolled.
+2025-04-18 09:34:28,293 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:34:29,763 - DEBUG - Page scrolled.
+2025-04-18 09:34:32,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:34:34,589 - DEBUG - Page scrolled.
+2025-04-18 09:34:37,593 - DEBUG - Random scrolls complete.
+2025-04-18 09:34:37,643 - DEBUG - Found 20 like buttons.
+2025-04-18 09:34:40,645 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-18 09:34:41,461 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:34:41,504 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:34:41,507 - DEBUG - Liked post number 1 of 3.
+2025-04-18 09:34:46,800 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:34:46,825 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:34:46,827 - DEBUG - Liked post number 2 of 3.
+2025-04-18 09:34:52,084 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:34:52,107 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:34:52,109 - DEBUG - Liked post number 3 of 3.
+2025-04-18 09:34:56,169 - INFO - Liked 3 posts successfully.
+2025-04-18 09:34:56,171 - INFO - Liked 3 posts successfully.
+2025-04-18 09:34:59,082 - INFO - Profile ZeroDayHunter: Pausing for 46.33 seconds...
+2025-04-18 09:35:45,411 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-18 09:35:45,413 - INFO - performing random action
+2025-04-18 09:35:45,415 - DEBUG - Scrolling page 5 times.
+2025-04-18 09:35:45,416 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:35:47,250 - DEBUG - Page scrolled.
+2025-04-18 09:35:50,252 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:35:51,844 - DEBUG - Page scrolled.
+2025-04-18 09:35:54,849 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:35:56,712 - DEBUG - Page scrolled.
+2025-04-18 09:35:59,714 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:36:01,530 - DEBUG - Page scrolled.
+2025-04-18 09:36:04,532 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:36:06,528 - DEBUG - Page scrolled.
+2025-04-18 09:36:09,531 - DEBUG - Random scrolls complete.
+2025-04-18 09:36:12,337 - DEBUG - Total comments in the thread: 20
+2025-04-18 09:37:35,830 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Best Registrar 2025  Move out from Namesilo.txt
+2025-04-18 09:37:37,987 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 09:37:38,049 - DEBUG - Extracted main post content: Dear all
+Happy New Year!
+
+I'm looking for a reliable, respectfull people/support, CHEAP registrar, to move my 90 domain names from namesilo to that new one.
+
+Important is the price of course (mostly .com) and to be reliable, and to be able to register the domain as ns too (if required).
+
+I'd extremely appreciate your suggestions as I'd like to start moving asap.
+
+Last, what is your opinion about porkbun, are they worth it, are they reliable & fair? Or what alternative would you suggest? (cheap is a must due to the quantity).
+
+Many thanks!
+2025-04-18 09:37:41,481 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 09:37:41,484 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 09:37:43,498 - INFO - performing random action
+2025-04-18 09:37:43,500 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:37:43,504 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:37:43,550 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:37:43,632 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:37:43,640 - DEBUG - Text box scrolled into view
+2025-04-18 09:37:44,574 - DEBUG - Initializing actionchains
+2025-04-18 09:37:44,650 - DEBUG - Post reply Element location: {'x': 1233, 'y': 8215}, size: {'height': 21, 'width': 68}
+2025-04-18 09:37:44,651 - DEBUG - Target click coordinates: (1267, 8225)
+2025-04-18 09:38:04,166 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 09:38:04,167 - DEBUG - Moving mouse to text box element.
+2025-04-18 09:38:04,169 - DEBUG - Clicking on the text box.
+2025-04-18 09:38:04,171 - DEBUG - Sending keys with content: Happy New Year to you too! Namescheap is pretty popular for cheap .coms and they're generally reliable, plus their support is decent enough.
+
+2025-04-18 09:38:10,143 - DEBUG - Clicking on post reply button.
+2025-04-18 09:38:11,574 - DEBUG - Performed Actionchains
+2025-04-18 09:38:11,580 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 09:38:15,585 - INFO - Comment posted successfully.
+2025-04-18 09:38:15,587 - INFO - Task Completed!!
+2025-04-18 09:38:18,938 - INFO - Navigated back to the homepage.
+2025-04-18 09:38:21,445 - INFO - Attempting to clear memory and resources.
+2025-04-18 09:38:21,511 - INFO - Garbage collection completed.
+2025-04-18 09:38:21,512 - INFO - Waiting for 1700 seconds before next execution.

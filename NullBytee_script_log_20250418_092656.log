@@ -1,0 +1,144 @@
+2025-04-18 09:26:56,032 - INFO - Current time: 1744948616.0320044
+2025-04-18 09:26:56,033 - INFO - Token expiration time: 1744959410.4063435
+2025-04-18 09:26:56,033 - INFO - Token expiration time: 1744959410.4063435
+2025-04-18 09:26:56,034 - INFO - performing random action
+2025-04-18 09:26:56,034 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 09:26:56,035 - DEBUG - Scrolling page 2 times.
+2025-04-18 09:26:56,035 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:59,333 - DEBUG - Page scrolled.
+2025-04-18 09:27:01,335 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:03,014 - DEBUG - Page scrolled.
+2025-04-18 09:27:05,016 - DEBUG - Random scrolls complete.
+2025-04-18 09:27:05,018 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:27:05,018 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:06,629 - DEBUG - Page scrolled.
+2025-04-18 09:27:08,630 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:10,634 - DEBUG - Page scrolled.
+2025-04-18 09:27:12,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:13,809 - DEBUG - Page scrolled.
+2025-04-18 09:27:15,811 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:17,579 - DEBUG - Page scrolled.
+2025-04-18 09:27:19,580 - DEBUG - Random scrolls complete.
+2025-04-18 09:27:25,676 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-18 09:27:30,082 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/my-iptv-business-sales-for-2-years.1688624/unread
+2025-04-18 09:27:30,083 - INFO - performing random action
+2025-04-18 09:27:42,888 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/my-iptv-business-sales-for-2-years.1688624/unread
+2025-04-18 09:27:42,890 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/my-iptv-business-sales-for-2-years.1688624/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 09:27:42,967 - INFO - Extracted thread title: My IPTV Business Sales for 2 Years
+2025-04-18 09:27:42,968 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:27:42,968 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:44,669 - DEBUG - Page scrolled.
+2025-04-18 09:27:46,670 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:47,687 - DEBUG - Page scrolled.
+2025-04-18 09:27:49,688 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:51,323 - DEBUG - Page scrolled.
+2025-04-18 09:27:53,324 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:54,995 - DEBUG - Page scrolled.
+2025-04-18 09:27:56,997 - DEBUG - Random scrolls complete.
+2025-04-18 09:27:59,713 - DEBUG - Scrolling page 1 times.
+2025-04-18 09:27:59,714 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:28:01,029 - DEBUG - Page scrolled.
+2025-04-18 09:28:04,031 - DEBUG - Random scrolls complete.
+2025-04-18 09:28:04,090 - DEBUG - Found 20 like buttons.
+2025-04-18 09:28:07,091 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-18 09:28:07,894 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:28:07,937 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:28:07,938 - DEBUG - Liked post number 1 of 4.
+2025-04-18 09:28:13,637 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:28:13,665 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:28:13,672 - DEBUG - Liked post number 2 of 4.
+2025-04-18 09:28:19,017 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:28:19,026 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:28:19,026 - DEBUG - Liked post number 3 of 4.
+2025-04-18 09:28:24,312 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:28:24,335 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:28:24,343 - DEBUG - Liked post number 4 of 4.
+2025-04-18 09:28:29,047 - INFO - Liked 4 posts successfully.
+2025-04-18 09:28:29,049 - INFO - Liked 4 posts successfully.
+2025-04-18 09:28:31,555 - INFO - Profile NullBytee: Pausing for 46.53 seconds...
+2025-04-18 09:29:18,086 - INFO - Profile NullBytee: Resuming...
+2025-04-18 09:29:18,088 - INFO - performing random action
+2025-04-18 09:29:18,090 - DEBUG - Scrolling page 3 times.
+2025-04-18 09:29:18,091 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:29:19,738 - DEBUG - Page scrolled.
+2025-04-18 09:29:22,741 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:29:24,634 - DEBUG - Page scrolled.
+2025-04-18 09:29:27,637 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:29:29,213 - DEBUG - Page scrolled.
+2025-04-18 09:29:32,214 - DEBUG - Random scrolls complete.
+2025-04-18 09:29:35,130 - DEBUG - Total comments in the thread: 20
+2025-04-18 09:30:59,074 - INFO - Post content extracted and saved to Thread-Details/Thread Content\My IPTV Business Sales for 2 Years.txt
+2025-04-18 09:31:01,833 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 09:31:01,944 - DEBUG - Extracted main post content: I started my IPTV business in February 2023 at the recommendation of a friend. First of all, I will release two years of sales. It is $679,873 USD from February 26, 2023 to January 31, 2025. It averages $28,328 USD per month. Now I earns 50K-60K per month.
+
+
+
+No business can work as soon as it starts. Persistence, hard work, failure and experience produce results.
+
+I'm not trying to brag about myself, but I'm trying to mention the important points I need while proceeding with IPTV service.
+
+1. First of all, it is important to find an IPTV supplier that provides reseller panels.
+
+Find a company that offers the best quality while being affordable. That way, you can leave customer satisfaction and a big margin.
+
+2. Marketing
+
+There are a lot of marketing methods. So I don't mention about them but will show you the targets of the marketing. I targeted the American old people because most senior citizens enjoy TV shows and sports at home.
+
+This is a few statistic graphs from my email campaign
+
+
+
+
+
+Americans don't want to pay more for cable TV. Use big events, such as the Super Bowl or MLB, that Americans love for your marketing.
+
+3. Customer Support
+
+This is also a very, very important factor. Most of my customers have experienced using other IPTV services. They said me they had never received any customer support from them or they were terrible.
+
+Satisfied clients with the customer support are continued income source as well as bring many customers to your service. When loyal customers gather, the service grows on its own without further advertising.
+Many IPTV business owners seem to miss out on this. If you don't pay attention to customer support while investing time and money in advertising alone, the customers won't renew from next month.
+
+4. Automations
+
+You don't need this in the beginning when you have a few sales. However, if you have more customers and a lot of sales, you need to do automation for all processes. The money will automatically pile up while you're lying in bed or staying at a party.
+
+Since I'm a programmer, I was able to implement automation myself.
+
+5. Payment
+
+The payment problem is the biggest challenge for IPTV business. I've had over 10 PayPal accounts suspended and multiple cash apps suspended in 2 years. Now I'm making between $50,000 and $60,000 a month, but I still haven't fixed the payment issue. If anyone knows a good solution to this problem, please share it.
+
+I recently got scammed trying to get an additional cash app account. https://www.blackhatworld.com/seo/i-just-got-scammed-by-a-user-so-many-scammers-here.1688037/
+
+Don't buy PayPal or Cash App on the black market. Most of the time you can't use it to get real money, even if it's not a scam.
+
+6. Please share your own know-how or tips
+2025-04-18 09:31:05,308 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 09:31:05,311 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 09:31:07,675 - INFO - Profile NullBytee: Pausing for 38.33 seconds...
+2025-04-18 09:31:46,016 - INFO - Profile NullBytee: Resuming...
+2025-04-18 09:31:46,018 - INFO - performing random action
+2025-04-18 09:31:46,020 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:31:46,021 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:31:46,074 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:31:46,172 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:31:46,179 - DEBUG - Text box scrolled into view
+2025-04-18 09:31:46,758 - DEBUG - Initializing actionchains
+2025-04-18 09:31:46,847 - DEBUG - Post reply Element location: {'x': 1233, 'y': 9399}, size: {'height': 21, 'width': 68}
+2025-04-18 09:31:46,852 - DEBUG - Target click coordinates: (1267, 9409)
+2025-04-18 09:32:09,403 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 09:32:09,404 - DEBUG - Moving mouse to text box element.
+2025-04-18 09:32:09,406 - DEBUG - Clicking on the text box.
+2025-04-18 09:32:09,408 - DEBUG - Sending keys with content: Congrats on the success, that's awesome! Ever thought about using crypto for payments to avoid the PayPal headache?
+
+2025-04-18 09:32:14,979 - DEBUG - Clicking on post reply button.
+2025-04-18 09:32:26,182 - DEBUG - Performed Actionchains
+2025-04-18 09:32:26,183 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 09:32:30,186 - INFO - Comment posted successfully.
+2025-04-18 09:32:30,189 - INFO - Task Completed!!
+2025-04-18 09:32:42,069 - INFO - Navigated back to the homepage.
+2025-04-18 09:32:44,967 - INFO - Attempting to clear memory and resources.
+2025-04-18 09:32:45,029 - INFO - Garbage collection completed.
+2025-04-18 09:32:45,030 - INFO - Waiting for 1700 seconds before next execution.

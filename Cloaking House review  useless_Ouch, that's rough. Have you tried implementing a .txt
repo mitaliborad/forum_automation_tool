@@ -1,0 +1,1 @@
+Ouch, that's rough. Have you tried implementing a retry mechanism on your end to automatically handle those intermittent errors? Might buy you some time while you look for a more reliable solution.

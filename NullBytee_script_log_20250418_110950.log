@@ -1,0 +1,108 @@
+2025-04-18 11:09:50,393 - INFO - Current time: 1744954790.3932593
+2025-04-18 11:09:50,395 - INFO - Token expiration time: 1744959410.4063435
+2025-04-18 11:09:50,397 - INFO - Token expiration time: 1744959410.4063435
+2025-04-18 11:09:50,400 - INFO - Profile NullBytee: Opening random website: https://letshyphen.com/
+2025-04-18 11:09:54,149 - INFO - Profile NullBytee: Pausing for 42.28 seconds...
+2025-04-18 11:10:36,434 - INFO - Profile NullBytee: Resuming...
+2025-04-18 11:10:36,445 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-18 11:10:36,448 - INFO - performing random action
+2025-04-18 11:10:36,451 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:10:36,454 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:10:36,455 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:10:37,843 - DEBUG - Page scrolled.
+2025-04-18 11:10:39,845 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:10:41,275 - DEBUG - Page scrolled.
+2025-04-18 11:10:43,278 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:10:44,521 - DEBUG - Page scrolled.
+2025-04-18 11:10:46,524 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:10:48,059 - DEBUG - Page scrolled.
+2025-04-18 11:10:50,061 - DEBUG - Random scrolls complete.
+2025-04-18 11:10:50,063 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:10:50,064 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:10:51,127 - DEBUG - Page scrolled.
+2025-04-18 11:10:53,129 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:10:54,294 - DEBUG - Page scrolled.
+2025-04-18 11:10:56,297 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:10:57,522 - DEBUG - Page scrolled.
+2025-04-18 11:10:59,523 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:11:01,177 - DEBUG - Page scrolled.
+2025-04-18 11:11:03,179 - DEBUG - Random scrolls complete.
+2025-04-18 11:11:14,186 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-18 11:11:18,292 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-adobe-illustrator-worth-the-monthly-fee-hell-yes-it-is-now-new-sneak-feature.1653147/unread
+2025-04-18 11:11:18,292 - INFO - performing random action
+2025-04-18 11:11:35,305 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-adobe-illustrator-worth-the-monthly-fee-hell-yes-it-is-now-new-sneak-feature.1653147/unread
+2025-04-18 11:11:35,307 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-adobe-illustrator-worth-the-monthly-fee-hell-yes-it-is-now-new-sneak-feature.1653147/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:11:35,340 - INFO - Extracted thread title: Is Adobe Illustrator worth the monthly fee Hell yes... It is now! (new sneak feature)
+2025-04-18 11:11:35,341 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:11:35,341 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:11:36,615 - DEBUG - Page scrolled.
+2025-04-18 11:11:38,616 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:11:40,526 - DEBUG - Page scrolled.
+2025-04-18 11:11:42,528 - DEBUG - Random scrolls complete.
+2025-04-18 11:11:45,252 - DEBUG - Scrolling page 1 times.
+2025-04-18 11:11:45,254 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:11:46,716 - DEBUG - Page scrolled.
+2025-04-18 11:11:49,718 - DEBUG - Random scrolls complete.
+2025-04-18 11:11:49,754 - DEBUG - Found 17 like buttons.
+2025-04-18 11:11:52,755 - INFO - Attempting to like 3 posts. There are 17 available.
+2025-04-18 11:11:53,674 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:11:53,699 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:11:53,700 - DEBUG - Liked post number 1 of 3.
+2025-04-18 11:11:59,071 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:11:59,093 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:11:59,095 - DEBUG - Liked post number 2 of 3.
+2025-04-18 11:12:03,872 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:12:03,884 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:12:03,885 - DEBUG - Liked post number 3 of 3.
+2025-04-18 11:12:08,676 - INFO - Liked 3 posts successfully.
+2025-04-18 11:12:08,678 - INFO - Liked 3 posts successfully.
+2025-04-18 11:12:10,687 - INFO - performing random action
+2025-04-18 11:12:10,690 - DEBUG - Scrolling page 5 times.
+2025-04-18 11:12:10,691 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:11,717 - DEBUG - Page scrolled.
+2025-04-18 11:12:14,720 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:16,318 - DEBUG - Page scrolled.
+2025-04-18 11:12:19,319 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:21,308 - DEBUG - Page scrolled.
+2025-04-18 11:12:24,309 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:26,192 - DEBUG - Page scrolled.
+2025-04-18 11:12:29,193 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:31,105 - DEBUG - Page scrolled.
+2025-04-18 11:12:34,106 - DEBUG - Random scrolls complete.
+2025-04-18 11:12:36,524 - DEBUG - Total comments in the thread: 17
+2025-04-18 11:13:08,415 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is Adobe Illustrator worth the monthly fee Hell yes... It is now! (new sneak feature).txt
+2025-04-18 11:13:10,796 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:13:10,913 - DEBUG - Extracted main post content: This looks amazing and will help me in creating more animation puppets faster, and animations easier!
+
+What about you, how will you use this, what you think of this feature?
+
+It will be game-changing for those developing 2d game assets.
+2025-04-18 11:13:14,049 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:13:14,052 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:13:16,743 - INFO - Profile NullBytee: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-18 11:13:21,414 - INFO - Profile NullBytee: Pausing for 40.04 seconds...
+2025-04-18 11:14:01,460 - INFO - Profile NullBytee: Resuming...
+2025-04-18 11:14:01,482 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-18 11:14:01,484 - INFO - performing random action
+2025-04-18 11:14:01,485 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:14:01,497 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:14:01,533 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:14:01,579 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:14:01,584 - DEBUG - Text box scrolled into view
+2025-04-18 11:14:02,463 - DEBUG - Initializing actionchains
+2025-04-18 11:14:02,532 - DEBUG - Post reply Element location: {'x': 1233, 'y': 7373}, size: {'height': 21, 'width': 68}
+2025-04-18 11:14:02,532 - DEBUG - Target click coordinates: (1267, 7383)
+2025-04-18 11:14:21,134 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:14:21,136 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:14:21,137 - DEBUG - Clicking on the text box.
+2025-04-18 11:14:21,143 - DEBUG - Sending keys with content: Definitely speeds up the tedious parts, right? I'm thinking quick character mockups for pitches, maybe even animating some storyboards directly.
+
+2025-04-18 11:14:26,630 - DEBUG - Clicking on post reply button.
+2025-04-18 11:14:28,062 - DEBUG - Performed Actionchains
+2025-04-18 11:14:28,062 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:14:32,065 - INFO - Comment posted successfully.
+2025-04-18 11:14:32,068 - INFO - Task Completed!!
+2025-04-18 11:14:35,417 - INFO - Navigated back to the homepage.
+2025-04-18 11:14:38,176 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:14:38,241 - INFO - Garbage collection completed.
+2025-04-18 11:14:38,242 - INFO - Waiting for 1700 seconds before next execution.

@@ -1,0 +1,108 @@
+2025-04-18 09:58:34,952 - INFO - Current time: 1744950514.9525027
+2025-04-18 09:58:34,954 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 09:58:34,956 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 09:58:34,957 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-18 09:58:34,976 - INFO - Profile DataPhreak: Window minimized. Pausing for 22.39 seconds...
+2025-04-18 09:58:57,429 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-18 09:58:57,430 - INFO - performing random action
+2025-04-18 09:58:57,431 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 09:58:57,432 - DEBUG - Scrolling page 3 times.
+2025-04-18 09:58:57,433 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:58:58,541 - DEBUG - Page scrolled.
+2025-04-18 09:59:00,543 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:59:01,847 - DEBUG - Page scrolled.
+2025-04-18 09:59:03,848 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:59:05,559 - DEBUG - Page scrolled.
+2025-04-18 09:59:07,561 - DEBUG - Random scrolls complete.
+2025-04-18 09:59:07,563 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:59:07,564 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:59:09,371 - DEBUG - Page scrolled.
+2025-04-18 09:59:11,373 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:59:12,858 - DEBUG - Page scrolled.
+2025-04-18 09:59:14,860 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:59:16,124 - DEBUG - Page scrolled.
+2025-04-18 09:59:18,125 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:59:19,697 - DEBUG - Page scrolled.
+2025-04-18 09:59:21,699 - DEBUG - Random scrolls complete.
+2025-04-18 09:59:32,713 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/making-money.12/
+2025-04-18 09:59:37,032 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-tiktok-mass-dm-worth-it.1705848/unread
+2025-04-18 09:59:37,033 - INFO - performing random action
+2025-04-18 09:59:58,870 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-tiktok-mass-dm-worth-it.1705848/unread
+2025-04-18 09:59:58,874 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-tiktok-mass-dm-worth-it.1705848/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 09:59:58,983 - INFO - Extracted thread title: Is TikTok mass DM worth it
+2025-04-18 09:59:58,985 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:59:58,986 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:00,850 - DEBUG - Page scrolled.
+2025-04-18 10:00:02,858 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:04,817 - DEBUG - Page scrolled.
+2025-04-18 10:00:06,818 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:08,064 - DEBUG - Page scrolled.
+2025-04-18 10:00:10,066 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:11,299 - DEBUG - Page scrolled.
+2025-04-18 10:00:13,305 - DEBUG - Random scrolls complete.
+2025-04-18 10:00:15,822 - DEBUG - Scrolling page 2 times.
+2025-04-18 10:00:15,824 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:16,914 - DEBUG - Page scrolled.
+2025-04-18 10:00:19,916 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:21,736 - DEBUG - Page scrolled.
+2025-04-18 10:00:24,739 - DEBUG - Random scrolls complete.
+2025-04-18 10:00:24,775 - DEBUG - Found 7 like buttons.
+2025-04-18 10:00:27,775 - INFO - Attempting to like 2 posts. There are 7 available.
+2025-04-18 10:00:28,296 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:00:28,329 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:00:28,330 - DEBUG - Liked post number 1 of 2.
+2025-04-18 10:00:33,302 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:00:33,312 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:00:33,312 - DEBUG - Liked post number 2 of 2.
+2025-04-18 10:00:37,366 - INFO - Liked 2 posts successfully.
+2025-04-18 10:00:37,367 - INFO - Liked 2 posts successfully.
+2025-04-18 10:00:40,215 - INFO - performing random action
+2025-04-18 10:00:40,219 - DEBUG - Scrolling page 6 times.
+2025-04-18 10:00:40,221 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:41,910 - DEBUG - Page scrolled.
+2025-04-18 10:00:44,912 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:46,408 - DEBUG - Page scrolled.
+2025-04-18 10:00:49,409 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:50,940 - DEBUG - Page scrolled.
+2025-04-18 10:00:53,944 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:55,030 - DEBUG - Page scrolled.
+2025-04-18 10:00:58,035 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:00:59,101 - DEBUG - Page scrolled.
+2025-04-18 10:01:02,103 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:01:03,475 - DEBUG - Page scrolled.
+2025-04-18 10:01:06,478 - DEBUG - Random scrolls complete.
+2025-04-18 10:01:08,762 - DEBUG - Total comments in the thread: 7
+2025-04-18 10:01:40,807 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is TikTok mass DM worth it.txt
+2025-04-18 10:01:43,732 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:01:43,807 - DEBUG - Extracted main post content: I've been doing testing and I'm pretty sure I can send 100k+ dms daily with some more work, but I'm not sure how well it converts compared to IG dms. Would people be willing to pay for it?
+
+Not looking to sell anything so don't ask.
+2025-04-18 10:01:48,701 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:01:48,703 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:01:51,293 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-18 10:02:00,857 - INFO - Profile DataPhreak: Pausing for 34.12 seconds...
+2025-04-18 10:02:34,980 - INFO - Profile DataPhreak: Resuming...
+2025-04-18 10:02:35,034 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-18 10:02:35,049 - INFO - performing random action
+2025-04-18 10:02:35,051 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:02:35,051 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:02:35,151 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:02:35,196 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:02:35,201 - DEBUG - Text box scrolled into view
+2025-04-18 10:02:36,034 - DEBUG - Initializing actionchains
+2025-04-18 10:02:36,132 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3116}, size: {'height': 21, 'width': 68}
+2025-04-18 10:02:36,133 - DEBUG - Target click coordinates: (1267, 3126)
+2025-04-18 10:02:46,035 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:02:46,036 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:02:46,037 - DEBUG - Clicking on the text box.
+2025-04-18 10:02:46,040 - DEBUG - Sending keys with content: Honestly, the conversion rate is everything. Have you tried A/B testing with smaller batches to get some real numbers before scaling up?
+
+2025-04-18 10:02:51,098 - DEBUG - Clicking on post reply button.
+2025-04-18 10:03:02,157 - DEBUG - Performed Actionchains
+2025-04-18 10:03:02,159 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:03:06,161 - INFO - Comment posted successfully.
+2025-04-18 10:03:06,163 - INFO - Task Completed!!
+2025-04-18 10:03:19,018 - INFO - Navigated back to the homepage.
+2025-04-18 10:03:21,723 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:03:21,808 - INFO - Garbage collection completed.
+2025-04-18 10:03:21,810 - INFO - Waiting for 1700 seconds before next execution.

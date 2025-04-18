@@ -1,0 +1,1 @@
+Maybe their IP database isn't fully updated, or the proxy checker you're using might not be reliable. Try comparing results across a few different checkers before jumping ship.

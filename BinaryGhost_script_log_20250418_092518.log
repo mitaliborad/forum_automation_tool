@@ -1,0 +1,95 @@
+2025-04-18 09:25:18,098 - INFO - Current time: 1744948518.0984979
+2025-04-18 09:25:18,103 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 09:25:18,104 - INFO - Token expiration time: 1744959311.267996
+2025-04-18 09:25:18,104 - INFO - performing random action
+2025-04-18 09:25:18,105 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 09:25:18,107 - DEBUG - Scrolling page 2 times.
+2025-04-18 09:25:18,107 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:22,256 - DEBUG - Page scrolled.
+2025-04-18 09:25:24,258 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:26,202 - DEBUG - Page scrolled.
+2025-04-18 09:25:28,203 - DEBUG - Random scrolls complete.
+2025-04-18 09:25:28,206 - DEBUG - Scrolling page 2 times.
+2025-04-18 09:25:28,207 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:29,462 - DEBUG - Page scrolled.
+2025-04-18 09:25:31,463 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:25:33,077 - DEBUG - Page scrolled.
+2025-04-18 09:25:35,079 - DEBUG - Random scrolls complete.
+2025-04-18 09:25:42,765 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-18 09:25:46,833 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/proxies-for-fake-traffic.1703610/unread
+2025-04-18 09:25:46,833 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-18 09:25:46,835 - INFO - Profile BinaryGhost: Window minimized. Pausing for 21.49 seconds...
+2025-04-18 09:26:08,330 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-18 09:26:08,332 - INFO - performing random action
+2025-04-18 09:26:19,443 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/proxies-for-fake-traffic.1703610/unread
+2025-04-18 09:26:19,446 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/proxies-for-fake-traffic.1703610/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 09:26:19,505 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-18 09:26:19,506 - DEBUG - Scrolling page 4 times.
+2025-04-18 09:26:19,506 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:21,391 - DEBUG - Page scrolled.
+2025-04-18 09:26:23,393 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:36,495 - DEBUG - Page scrolled.
+2025-04-18 09:26:38,497 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:39,742 - DEBUG - Page scrolled.
+2025-04-18 09:26:41,743 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:43,448 - DEBUG - Page scrolled.
+2025-04-18 09:26:45,449 - DEBUG - Random scrolls complete.
+2025-04-18 09:26:48,323 - DEBUG - Scrolling page 1 times.
+2025-04-18 09:26:48,324 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:26:49,632 - DEBUG - Page scrolled.
+2025-04-18 09:26:52,634 - DEBUG - Random scrolls complete.
+2025-04-18 09:26:52,668 - DEBUG - Found 20 like buttons.
+2025-04-18 09:26:55,668 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-18 09:26:56,606 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:26:56,617 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:26:56,618 - DEBUG - Liked post number 1 of 3.
+2025-04-18 09:27:01,440 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:27:01,448 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:27:01,449 - DEBUG - Liked post number 2 of 3.
+2025-04-18 09:27:06,937 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 09:27:06,945 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 09:27:06,947 - DEBUG - Liked post number 3 of 3.
+2025-04-18 09:27:11,439 - INFO - Liked 3 posts successfully.
+2025-04-18 09:27:11,440 - INFO - Liked 3 posts successfully.
+2025-04-18 09:27:13,996 - INFO - performing random action
+2025-04-18 09:27:13,997 - DEBUG - Scrolling page 5 times.
+2025-04-18 09:27:13,997 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:15,017 - DEBUG - Page scrolled.
+2025-04-18 09:27:18,019 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:19,860 - DEBUG - Page scrolled.
+2025-04-18 09:27:22,862 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:24,203 - DEBUG - Page scrolled.
+2025-04-18 09:27:27,207 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:29,174 - DEBUG - Page scrolled.
+2025-04-18 09:27:32,175 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 09:27:33,246 - DEBUG - Page scrolled.
+2025-04-18 09:27:36,249 - DEBUG - Random scrolls complete.
+2025-04-18 09:27:38,838 - DEBUG - Total comments in the thread: 20
+2025-04-18 09:30:23,580 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-18 09:30:25,866 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 09:30:25,955 - DEBUG - Extracted main post content: What kind of proxies are used to send fake traffic to websites and appear as real traffic in Google Analytics?
+2025-04-18 09:30:29,556 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 09:30:29,559 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 09:30:32,153 - INFO - performing random action
+2025-04-18 09:30:32,154 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:30:32,155 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:30:32,166 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:30:32,210 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 09:30:32,216 - DEBUG - Text box scrolled into view
+2025-04-18 09:30:33,019 - DEBUG - Initializing actionchains
+2025-04-18 09:30:33,103 - DEBUG - Post reply Element location: {'x': 1233, 'y': 6159}, size: {'height': 21, 'width': 68}
+2025-04-18 09:30:33,104 - DEBUG - Target click coordinates: (1267, 6169)
+2025-04-18 09:30:49,405 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 09:30:49,406 - DEBUG - Moving mouse to text box element.
+2025-04-18 09:30:49,408 - DEBUG - Clicking on the text box.
+2025-04-18 09:30:49,410 - DEBUG - Sending keys with content: Residential proxies are your best bet, since they're harder to flag than datacenter ones. Just be careful you don't tank your rankings in the process.
+
+2025-04-18 09:30:54,828 - DEBUG - Clicking on post reply button.
+2025-04-18 09:31:05,935 - DEBUG - Performed Actionchains
+2025-04-18 09:31:05,936 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 09:31:09,942 - INFO - Comment posted successfully.
+2025-04-18 09:31:09,944 - INFO - Task Completed!!
+2025-04-18 09:31:17,238 - INFO - Navigated back to the homepage.
+2025-04-18 09:31:20,126 - INFO - Attempting to clear memory and resources.
+2025-04-18 09:31:20,203 - INFO - Garbage collection completed.
+2025-04-18 09:31:20,209 - INFO - Waiting for 1700 seconds before next execution.

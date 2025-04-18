@@ -1,0 +1,116 @@
+2025-04-18 10:40:08,865 - INFO - Current time: 1744953008.8657115
+2025-04-18 10:40:08,867 - INFO - Token expiration time: 1744959632.0175602
+2025-04-18 10:40:08,869 - INFO - Token expiration time: 1744959632.0175602
+2025-04-18 10:40:08,874 - INFO - performing random action
+2025-04-18 10:40:08,877 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 10:40:08,878 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:40:08,880 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:10,485 - DEBUG - Page scrolled.
+2025-04-18 10:40:12,487 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:14,370 - DEBUG - Page scrolled.
+2025-04-18 10:40:16,371 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:18,391 - DEBUG - Page scrolled.
+2025-04-18 10:40:20,398 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:21,814 - DEBUG - Page scrolled.
+2025-04-18 10:40:23,816 - DEBUG - Random scrolls complete.
+2025-04-18 10:40:23,817 - DEBUG - Scrolling page 3 times.
+2025-04-18 10:40:23,817 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:25,569 - DEBUG - Page scrolled.
+2025-04-18 10:40:27,574 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:29,436 - DEBUG - Page scrolled.
+2025-04-18 10:40:31,439 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:40:32,978 - DEBUG - Page scrolled.
+2025-04-18 10:40:34,985 - DEBUG - Random scrolls complete.
+2025-04-18 10:40:41,862 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-18 10:40:45,976 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ai-to-build-a-website.1700946/unread
+2025-04-18 10:40:45,976 - INFO - Profile DarkCodeX: Pausing for 37.99 seconds...
+2025-04-18 10:41:23,965 - INFO - Profile DarkCodeX: Resuming...
+2025-04-18 10:41:23,966 - INFO - performing random action
+2025-04-18 10:41:34,224 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ai-to-build-a-website.1700946/unread
+2025-04-18 10:41:34,226 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ai-to-build-a-website.1700946/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 10:41:34,258 - INFO - Extracted thread title: AI to build a Website
+2025-04-18 10:41:34,259 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:41:34,259 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:35,923 - DEBUG - Page scrolled.
+2025-04-18 10:41:37,924 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:39,419 - DEBUG - Page scrolled.
+2025-04-18 10:41:41,421 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:43,042 - DEBUG - Page scrolled.
+2025-04-18 10:41:45,045 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:46,478 - DEBUG - Page scrolled.
+2025-04-18 10:41:48,483 - DEBUG - Random scrolls complete.
+2025-04-18 10:41:50,724 - DEBUG - Scrolling page 4 times.
+2025-04-18 10:41:50,725 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:51,801 - DEBUG - Page scrolled.
+2025-04-18 10:41:54,803 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:41:55,918 - DEBUG - Page scrolled.
+2025-04-18 10:41:58,920 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:42:00,631 - DEBUG - Page scrolled.
+2025-04-18 10:42:03,634 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:42:05,058 - DEBUG - Page scrolled.
+2025-04-18 10:42:08,060 - DEBUG - Random scrolls complete.
+2025-04-18 10:42:08,117 - DEBUG - Found 3 like buttons.
+2025-04-18 10:42:11,119 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-04-18 10:42:11,888 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:42:11,927 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:42:11,929 - DEBUG - Liked post number 1 of 3.
+2025-04-18 10:42:17,212 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:42:17,228 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:42:17,229 - DEBUG - Liked post number 2 of 3.
+2025-04-18 10:42:22,091 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 10:42:22,099 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 10:42:22,101 - DEBUG - Liked post number 3 of 3.
+2025-04-18 10:42:27,074 - INFO - Liked 3 posts successfully.
+2025-04-18 10:42:27,075 - INFO - Liked 3 posts successfully.
+2025-04-18 10:42:29,859 - INFO - Profile DarkCodeX: Opening default URL: https://www.google.com
+2025-04-18 10:42:36,660 - INFO - Profile DarkCodeX: Pausing for 31.01 seconds...
+2025-04-18 10:43:07,672 - INFO - Profile DarkCodeX: Resuming...
+2025-04-18 10:43:07,725 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-18 10:43:07,726 - INFO - performing random action
+2025-04-18 10:43:07,727 - DEBUG - Scrolling page 5 times.
+2025-04-18 10:43:07,727 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:43:09,345 - DEBUG - Page scrolled.
+2025-04-18 10:43:12,347 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:43:13,915 - DEBUG - Page scrolled.
+2025-04-18 10:43:16,921 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:43:18,192 - DEBUG - Page scrolled.
+2025-04-18 10:43:21,205 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:43:22,956 - DEBUG - Page scrolled.
+2025-04-18 10:43:25,961 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 10:43:27,559 - DEBUG - Page scrolled.
+2025-04-18 10:43:30,561 - DEBUG - Random scrolls complete.
+2025-04-18 10:43:33,553 - DEBUG - Total comments in the thread: 3
+2025-04-18 10:43:33,822 - INFO - Post content extracted and saved to Thread-Details/Thread Content\AI to build a Website.txt
+2025-04-18 10:43:36,297 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 10:43:36,373 - DEBUG - Extracted main post content: Are there now AIs that can create websites well? I know in the beginning the AIs were very bad but now they are very good.
+
+Does anyone know or use an AI for this? I sometimes use Grok and it always helps me very well but of course it's not specialized.
+
+Is it a good idea to use AI code in your website or even just code from AI? What about SEO? Seo experts here who have tested this?
+
+I would prefer free of course.
+2025-04-18 10:43:41,464 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 10:43:41,467 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 10:43:44,268 - INFO - performing random action
+2025-04-18 10:43:44,270 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:43:44,271 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:43:44,321 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:43:44,383 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 10:43:44,391 - DEBUG - Text box scrolled into view
+2025-04-18 10:43:45,370 - DEBUG - Initializing actionchains
+2025-04-18 10:43:45,462 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1935}, size: {'height': 21, 'width': 68}
+2025-04-18 10:43:45,463 - DEBUG - Target click coordinates: (1267, 1945)
+2025-04-18 10:43:53,153 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 10:43:53,154 - DEBUG - Moving mouse to text box element.
+2025-04-18 10:43:53,156 - DEBUG - Clicking on the text box.
+2025-04-18 10:43:53,168 - DEBUG - Sending keys with content: Honestly, they're getting there, but still need a human touch. Have you tried tweaking the AI-generated code and seeing how it impacts your site's load times or mobile responsiveness?
+
+2025-04-18 10:43:58,532 - DEBUG - Clicking on post reply button.
+2025-04-18 10:43:59,975 - DEBUG - Performed Actionchains
+2025-04-18 10:43:59,977 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 10:44:03,978 - INFO - Comment posted successfully.
+2025-04-18 10:44:03,985 - INFO - Task Completed!!
+2025-04-18 10:44:07,840 - INFO - Navigated back to the homepage.
+2025-04-18 10:44:09,988 - INFO - Attempting to clear memory and resources.
+2025-04-18 10:44:10,069 - INFO - Garbage collection completed.
+2025-04-18 10:44:10,070 - INFO - Waiting for 1700 seconds before next execution.

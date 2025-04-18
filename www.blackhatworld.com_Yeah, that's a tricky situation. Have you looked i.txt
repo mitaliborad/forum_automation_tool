@@ -1,0 +1,1 @@
+Yeah, that's a tricky situation. Have you looked into using a dedicated virtual machine for each account to isolate them further?

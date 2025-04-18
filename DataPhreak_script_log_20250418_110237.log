@@ -1,0 +1,102 @@
+2025-04-18 11:02:37,324 - INFO - Current time: 1744954357.3242059
+2025-04-18 11:02:37,331 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 11:02:37,333 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 11:02:37,334 - INFO - Profile DataPhreak: Restoring window...
+2025-04-18 11:02:39,343 - INFO - performing random action
+2025-04-18 11:02:39,345 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:02:39,347 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:02:39,348 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:40,572 - DEBUG - Page scrolled.
+2025-04-18 11:02:42,579 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:43,770 - DEBUG - Page scrolled.
+2025-04-18 11:02:45,778 - DEBUG - Random scrolls complete.
+2025-04-18 11:02:45,779 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:02:45,781 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:47,482 - DEBUG - Page scrolled.
+2025-04-18 11:02:49,491 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:50,542 - DEBUG - Page scrolled.
+2025-04-18 11:02:52,549 - DEBUG - Random scrolls complete.
+2025-04-18 11:03:03,514 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-04-18 11:03:08,208 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-suggestions-about-a-channel.1706264/unread
+2025-04-18 11:03:08,209 - INFO - performing random action
+2025-04-18 11:03:16,541 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-suggestions-about-a-channel.1706264/unread
+2025-04-18 11:03:16,543 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-suggestions-about-a-channel.1706264/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:03:16,657 - INFO - Extracted thread title: Need Suggestions About A Channel
+2025-04-18 11:03:16,658 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:03:16,659 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:17,859 - DEBUG - Page scrolled.
+2025-04-18 11:03:19,861 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:21,302 - DEBUG - Page scrolled.
+2025-04-18 11:03:23,302 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:24,645 - DEBUG - Page scrolled.
+2025-04-18 11:03:26,646 - DEBUG - Random scrolls complete.
+2025-04-18 11:03:29,304 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:03:29,306 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:30,557 - DEBUG - Page scrolled.
+2025-04-18 11:03:33,561 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:35,555 - DEBUG - Page scrolled.
+2025-04-18 11:03:38,557 - DEBUG - Random scrolls complete.
+2025-04-18 11:03:38,621 - DEBUG - Found 1 like buttons.
+2025-04-18 11:03:41,623 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-18 11:03:42,545 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:03:42,584 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:03:42,586 - DEBUG - Liked post number 1 of 1.
+2025-04-18 11:03:47,178 - INFO - Liked 1 posts successfully.
+2025-04-18 11:03:47,180 - INFO - Liked 1 posts successfully.
+2025-04-18 11:03:49,585 - INFO - performing random action
+2025-04-18 11:03:49,587 - DEBUG - Scrolling page 5 times.
+2025-04-18 11:03:49,588 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:51,075 - DEBUG - Page scrolled.
+2025-04-18 11:03:54,077 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:55,239 - DEBUG - Page scrolled.
+2025-04-18 11:03:58,240 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:04:00,204 - DEBUG - Page scrolled.
+2025-04-18 11:04:03,205 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:04:05,142 - DEBUG - Page scrolled.
+2025-04-18 11:04:08,150 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:04:09,777 - DEBUG - Page scrolled.
+2025-04-18 11:04:12,782 - DEBUG - Random scrolls complete.
+2025-04-18 11:04:15,039 - DEBUG - Total comments in the thread: 1
+2025-04-18 11:04:15,149 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need Suggestions About A Channel.txt
+2025-04-18 11:04:18,049 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:04:18,095 - DEBUG - Extracted main post content: Hello Good People
+
+I am starting a Youtube Channel for last two weeks. At first I got few views on my video. Then suddenly I got a copyright strike on a video and I deleted it.
+
+But just from by then I get simply ZERO views on my videos. Zero means Zero!
+
+My channel is about a movie reviewing channel.
+
+Can anyone please tell me the reason in details?!
+
+
+Sincerely
+2025-04-18 11:04:22,816 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:04:22,817 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:04:25,443 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-18 11:04:32,398 - INFO - Profile DataPhreak: Pausing for 31.17 seconds...
+2025-04-18 11:05:03,567 - INFO - Profile DataPhreak: Resuming...
+2025-04-18 11:05:03,606 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-18 11:05:03,617 - INFO - performing random action
+2025-04-18 11:05:03,619 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:05:03,619 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:05:03,664 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:05:03,712 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:05:03,717 - DEBUG - Text box scrolled into view
+2025-04-18 11:05:04,430 - DEBUG - Initializing actionchains
+2025-04-18 11:05:04,514 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1268}, size: {'height': 21, 'width': 68}
+2025-04-18 11:05:04,515 - DEBUG - Target click coordinates: (1267, 1278)
+2025-04-18 11:05:10,943 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:05:10,945 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:05:10,946 - DEBUG - Clicking on the text box.
+2025-04-18 11:05:10,955 - DEBUG - Sending keys with content: Copyright strikes can tank your reach, for sure. Maybe lay low for a bit, then try shorter, original takes on movies.
+
+2025-04-18 11:05:16,021 - DEBUG - Clicking on post reply button.
+2025-04-18 11:05:17,161 - DEBUG - Performed Actionchains
+2025-04-18 11:05:17,163 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:05:21,166 - INFO - Comment posted successfully.
+2025-04-18 11:05:21,172 - INFO - Task Completed!!
+2025-04-18 11:05:24,461 - INFO - Navigated back to the homepage.
+2025-04-18 11:05:26,598 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:05:26,684 - INFO - Garbage collection completed.
+2025-04-18 11:05:26,686 - INFO - Waiting for 1700 seconds before next execution.

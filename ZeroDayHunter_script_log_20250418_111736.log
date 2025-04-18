@@ -1,0 +1,120 @@
+2025-04-18 11:17:36,246 - INFO - Current time: 1744955256.2467537
+2025-04-18 11:17:36,248 - INFO - Token expiration time: 1744959803.9765446
+2025-04-18 11:17:36,250 - INFO - Token expiration time: 1744959803.9765446
+2025-04-18 11:17:36,251 - INFO - performing random action
+2025-04-18 11:17:36,254 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:17:36,256 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:17:36,257 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:17:37,894 - DEBUG - Page scrolled.
+2025-04-18 11:17:39,896 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:17:41,274 - DEBUG - Page scrolled.
+2025-04-18 11:17:43,281 - DEBUG - Random scrolls complete.
+2025-04-18 11:17:43,289 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:17:43,291 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:17:44,549 - DEBUG - Page scrolled.
+2025-04-18 11:17:46,551 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:17:48,042 - DEBUG - Page scrolled.
+2025-04-18 11:17:50,045 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:17:51,331 - DEBUG - Page scrolled.
+2025-04-18 11:17:53,333 - DEBUG - Random scrolls complete.
+2025-04-18 11:18:23,888 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-18 11:18:28,205 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ui-for-logged-in-wp-members-to-place-orders.1703252/unread
+2025-04-18 11:18:28,205 - INFO - performing random action
+2025-04-18 11:18:39,775 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ui-for-logged-in-wp-members-to-place-orders.1703252/unread
+2025-04-18 11:18:39,778 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ui-for-logged-in-wp-members-to-place-orders.1703252/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:18:39,877 - INFO - Extracted thread title: UI for logged in WP members to place orders
+2025-04-18 11:18:39,878 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:18:39,878 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:18:41,645 - DEBUG - Page scrolled.
+2025-04-18 11:18:43,647 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:18:45,473 - DEBUG - Page scrolled.
+2025-04-18 11:18:47,479 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:18:49,062 - DEBUG - Page scrolled.
+2025-04-18 11:18:51,068 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:18:52,907 - DEBUG - Page scrolled.
+2025-04-18 11:18:54,908 - DEBUG - Random scrolls complete.
+2025-04-18 11:18:57,611 - DEBUG - Scrolling page 1 times.
+2025-04-18 11:18:57,612 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:18:59,439 - DEBUG - Page scrolled.
+2025-04-18 11:19:02,441 - DEBUG - Random scrolls complete.
+2025-04-18 11:19:02,508 - DEBUG - Found 4 like buttons.
+2025-04-18 11:19:05,510 - INFO - Attempting to like 3 posts. There are 4 available.
+2025-04-18 11:19:06,369 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:19:06,419 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:19:06,421 - DEBUG - Liked post number 1 of 3.
+2025-04-18 11:19:11,714 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:19:11,740 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:19:11,742 - DEBUG - Liked post number 2 of 3.
+2025-04-18 11:19:17,496 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:19:17,518 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:19:17,518 - DEBUG - Liked post number 3 of 3.
+2025-04-18 11:19:22,132 - INFO - Liked 3 posts successfully.
+2025-04-18 11:19:22,135 - INFO - Liked 3 posts successfully.
+2025-04-18 11:19:24,511 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-18 11:19:26,520 - INFO - performing random action
+2025-04-18 11:19:26,522 - DEBUG - Scrolling page 6 times.
+2025-04-18 11:19:26,523 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:19:27,776 - DEBUG - Page scrolled.
+2025-04-18 11:19:30,782 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:19:31,933 - DEBUG - Page scrolled.
+2025-04-18 11:19:34,937 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:19:36,584 - DEBUG - Page scrolled.
+2025-04-18 11:19:39,586 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:19:40,706 - DEBUG - Page scrolled.
+2025-04-18 11:19:43,711 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:19:45,698 - DEBUG - Page scrolled.
+2025-04-18 11:19:48,701 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:19:50,141 - DEBUG - Page scrolled.
+2025-04-18 11:19:53,143 - DEBUG - Random scrolls complete.
+2025-04-18 11:19:55,845 - DEBUG - Total comments in the thread: 4
+2025-04-18 11:19:56,198 - INFO - Post content extracted and saved to Thread-Details/Thread Content\UI for logged in WP members to place orders.txt
+2025-04-18 11:19:58,667 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:19:58,763 - DEBUG - Extracted main post content: Hi,
+
+• I am creating a website where business customers will be making trade purchases, it's a B2B site.
+• It is a WordPress site.
+• Trade customers will have a login so they can get into their dashboard.
+• Each login will be manually added as a user, by us, when we have approved and accepted them as a client.
+• I think each customer will be given "Subscriber" status, unless there is a better option.
+• There are 2 products they can choose from.
+• They can only see the products to choose from and trade pricing once logged in, (2 products required now with possibility to add more later)
+
+I want some form of interface (as simple as possible as long as it fulfils my basic requirements) once a user is logged in so they can see the 2 products and then place an order, which then gets sent to me via email or notification of some sort so we can arrange dispatch. At the same time that the user can get an email confirming the order with details of how to pay (which will be via BACS, UK system) or cash on delivery (if we are delivering to a local customer).
+
+A free tool would be preferred as this is a new enterprise, probably less than 10 per month at first. With the possibility to scale as and when the site grows, to be able to process more orders and more products selection, obviously then most likely going onto a paid plan (if necessary).
+
+I'm not sure a basket is required, but I guess it could be done that way?
+Any recommendations of WP plugin to do this, or an external site to fulfil whats required?
+
+I was considering Stripe but they are really for debit/credit card payments etc and we do not allow those for B2B trade clients.
+
+Thanks for any recommendations.
+2025-04-18 11:20:02,599 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:20:02,602 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:20:05,270 - INFO - Profile ZeroDayHunter: Opening random website: https://github.com/
+2025-04-18 11:20:18,603 - INFO - Profile ZeroDayHunter: Pausing for 40.14 seconds...
+2025-04-18 11:20:58,748 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-18 11:20:58,801 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-18 11:20:58,810 - INFO - performing random action
+2025-04-18 11:20:58,814 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:20:58,814 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:20:58,873 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:20:58,926 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:20:58,931 - DEBUG - Text box scrolled into view
+2025-04-18 11:20:59,628 - DEBUG - Initializing actionchains
+2025-04-18 11:20:59,718 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2710}, size: {'height': 21, 'width': 68}
+2025-04-18 11:20:59,720 - DEBUG - Target click coordinates: (1267, 2720)
+2025-04-18 11:21:09,013 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:21:09,016 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:21:09,018 - DEBUG - Clicking on the text box.
+2025-04-18 11:21:09,031 - DEBUG - Sending keys with content: Honestly, for something that simple, I'd skip the whole e-commerce plugin route at first. Just use a form builder plugin like WPForms or Gravity Forms; you can set up conditional logic to show the products after login and email you the submissions.
+
+2025-04-18 11:21:14,068 - DEBUG - Clicking on post reply button.
+2025-04-18 11:21:15,756 - DEBUG - Performed Actionchains
+2025-04-18 11:21:15,757 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:21:19,758 - INFO - Comment posted successfully.
+2025-04-18 11:21:19,758 - INFO - Task Completed!!
+2025-04-18 11:21:22,567 - INFO - Navigated back to the homepage.
+2025-04-18 11:21:24,796 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:21:24,867 - INFO - Garbage collection completed.
+2025-04-18 11:21:24,868 - INFO - Waiting for 1700 seconds before next execution.

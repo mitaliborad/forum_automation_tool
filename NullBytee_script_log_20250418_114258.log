@@ -1,0 +1,112 @@
+2025-04-18 11:42:58,245 - INFO - Current time: 1744956778.2452223
+2025-04-18 11:42:58,247 - INFO - Token expiration time: 1744959410.4063435
+2025-04-18 11:42:58,249 - INFO - Token expiration time: 1744959410.4063435
+2025-04-18 11:42:58,258 - INFO - performing random action
+2025-04-18 11:42:58,261 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:42:58,263 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:42:58,264 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:43:00,183 - DEBUG - Page scrolled.
+2025-04-18 11:43:02,191 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:43:04,018 - DEBUG - Page scrolled.
+2025-04-18 11:43:06,020 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:43:07,976 - DEBUG - Page scrolled.
+2025-04-18 11:43:09,982 - DEBUG - Random scrolls complete.
+2025-04-18 11:43:09,983 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:43:09,985 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:43:11,033 - DEBUG - Page scrolled.
+2025-04-18 11:43:13,036 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:43:14,281 - DEBUG - Page scrolled.
+2025-04-18 11:43:16,284 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:43:17,810 - DEBUG - Page scrolled.
+2025-04-18 11:43:19,816 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:43:21,312 - DEBUG - Page scrolled.
+2025-04-18 11:43:23,314 - DEBUG - Random scrolls complete.
+2025-04-18 11:43:30,073 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-18 11:43:35,663 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/for-new-niche-sites-build-links-slowly-or-all-at-once.1705561/unread
+2025-04-18 11:43:35,664 - INFO - Profile NullBytee: Minimizing window...
+2025-04-18 11:43:35,670 - INFO - Profile NullBytee: Window minimized. Pausing for 29.12 seconds...
+2025-04-18 11:44:04,799 - INFO - Profile NullBytee: Resuming after minimize...
+2025-04-18 11:44:04,801 - INFO - performing random action
+2025-04-18 11:44:18,537 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/for-new-niche-sites-build-links-slowly-or-all-at-once.1705561/unread
+2025-04-18 11:44:18,540 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/for-new-niche-sites-build-links-slowly-or-all-at-once.1705561/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:44:18,624 - INFO - Extracted thread title: For new niche sites build links slowly or all at once
+2025-04-18 11:44:18,624 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:44:18,625 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:44:19,868 - DEBUG - Page scrolled.
+2025-04-18 11:44:21,870 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:44:23,542 - DEBUG - Page scrolled.
+2025-04-18 11:44:25,544 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:44:26,837 - DEBUG - Page scrolled.
+2025-04-18 11:44:28,840 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:44:30,831 - DEBUG - Page scrolled.
+2025-04-18 11:44:32,833 - DEBUG - Random scrolls complete.
+2025-04-18 11:44:35,347 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:44:35,348 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:44:37,324 - DEBUG - Page scrolled.
+2025-04-18 11:44:40,328 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:44:41,884 - DEBUG - Page scrolled.
+2025-04-18 11:44:44,887 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:44:46,277 - DEBUG - Page scrolled.
+2025-04-18 11:44:49,279 - DEBUG - Random scrolls complete.
+2025-04-18 11:44:49,329 - DEBUG - Found 20 like buttons.
+2025-04-18 11:44:52,330 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-18 11:44:53,152 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:44:53,195 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:44:53,197 - DEBUG - Liked post number 1 of 4.
+2025-04-18 11:44:58,680 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:44:58,704 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:44:58,706 - DEBUG - Liked post number 2 of 4.
+2025-04-18 11:45:03,999 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:45:04,022 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:45:04,025 - DEBUG - Liked post number 3 of 4.
+2025-04-18 11:45:09,308 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:45:09,335 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:45:09,337 - DEBUG - Liked post number 4 of 4.
+2025-04-18 11:45:14,334 - INFO - Liked 4 posts successfully.
+2025-04-18 11:45:14,335 - INFO - Liked 4 posts successfully.
+2025-04-18 11:45:17,318 - INFO - performing random action
+2025-04-18 11:45:17,320 - DEBUG - Scrolling page 7 times.
+2025-04-18 11:45:17,321 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:18,958 - DEBUG - Page scrolled.
+2025-04-18 11:45:21,959 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:23,658 - DEBUG - Page scrolled.
+2025-04-18 11:45:26,660 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:27,748 - DEBUG - Page scrolled.
+2025-04-18 11:45:30,750 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:32,692 - DEBUG - Page scrolled.
+2025-04-18 11:45:35,700 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:36,929 - DEBUG - Page scrolled.
+2025-04-18 11:45:39,931 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:40,980 - DEBUG - Page scrolled.
+2025-04-18 11:45:43,982 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:45:45,186 - DEBUG - Page scrolled.
+2025-04-18 11:45:48,192 - DEBUG - Random scrolls complete.
+2025-04-18 11:45:50,996 - DEBUG - Total comments in the thread: 20
+2025-04-18 11:46:23,752 - INFO - Post content extracted and saved to Thread-Details/Thread Content\For new niche sites build links slowly or all at once.txt
+2025-04-18 11:46:25,988 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:46:26,072 - DEBUG - Extracted main post content: Is the better to build backlinks gradually or all at once for new niche sites?
+2025-04-18 11:46:31,084 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:46:31,085 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:46:33,597 - INFO - performing random action
+2025-04-18 11:46:33,598 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:46:33,599 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:46:33,613 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:46:33,662 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:46:33,672 - DEBUG - Text box scrolled into view
+2025-04-18 11:46:34,406 - DEBUG - Initializing actionchains
+2025-04-18 11:46:34,488 - DEBUG - Post reply Element location: {'x': 1233, 'y': 7752}, size: {'height': 21, 'width': 68}
+2025-04-18 11:46:34,489 - DEBUG - Target click coordinates: (1267, 7762)
+2025-04-18 11:46:54,302 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:46:54,304 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:46:54,305 - DEBUG - Clicking on the text box.
+2025-04-18 11:46:54,308 - DEBUG - Sending keys with content: Honestly, a slow and steady drip feels way more natural to Google than a sudden backlink explosion. What's the rush?
+
+2025-04-18 11:46:59,361 - DEBUG - Clicking on post reply button.
+2025-04-18 11:47:10,528 - DEBUG - Performed Actionchains
+2025-04-18 11:47:10,530 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:47:14,532 - INFO - Comment posted successfully.
+2025-04-18 11:47:14,538 - INFO - Task Completed!!
+2025-04-18 11:47:21,803 - INFO - Navigated back to the homepage.
+2025-04-18 11:47:24,001 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:47:24,112 - INFO - Garbage collection completed.
+2025-04-18 11:47:24,113 - INFO - Waiting for 1700 seconds before next execution.

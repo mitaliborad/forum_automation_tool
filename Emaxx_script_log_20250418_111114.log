@@ -1,0 +1,129 @@
+2025-04-18 11:11:14,952 - INFO - Current time: 1744954874.9529326
+2025-04-18 11:11:14,953 - INFO - Token expiration time: 1744959516.5361674
+2025-04-18 11:11:14,955 - INFO - Token expiration time: 1744959516.5361674
+2025-04-18 11:11:14,956 - INFO - Profile Emaxx: Opening random website: https://letshyphen.com/
+2025-04-18 11:11:20,502 - INFO - Profile Emaxx: Pausing for 40.50 seconds...
+2025-04-18 11:12:01,008 - INFO - Profile Emaxx: Resuming...
+2025-04-18 11:12:01,013 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-18 11:12:01,014 - INFO - performing random action
+2025-04-18 11:12:01,014 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:12:01,016 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:12:01,016 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:02,328 - DEBUG - Page scrolled.
+2025-04-18 11:12:04,329 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:05,910 - DEBUG - Page scrolled.
+2025-04-18 11:12:07,914 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:09,540 - DEBUG - Page scrolled.
+2025-04-18 11:12:11,541 - DEBUG - Random scrolls complete.
+2025-04-18 11:12:11,543 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:12:11,544 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:12,874 - DEBUG - Page scrolled.
+2025-04-18 11:12:14,875 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:12:16,886 - DEBUG - Page scrolled.
+2025-04-18 11:12:18,889 - DEBUG - Random scrolls complete.
+2025-04-18 11:12:29,968 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-04-18 11:12:34,307 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/vps-deal-32gb-ram-vps-for-132-80-year-the-best-deal-youll-find-guaranteed.1697980/unread
+2025-04-18 11:12:34,308 - INFO - Profile Emaxx: Pausing for 48.82 seconds...
+2025-04-18 11:13:23,128 - INFO - Profile Emaxx: Resuming...
+2025-04-18 11:13:23,129 - INFO - performing random action
+2025-04-18 11:13:32,808 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/vps-deal-32gb-ram-vps-for-132-80-year-the-best-deal-youll-find-guaranteed.1697980/unread
+2025-04-18 11:13:32,844 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/vps-deal-32gb-ram-vps-for-132-80-year-the-best-deal-youll-find-guaranteed.1697980/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:13:32,898 - INFO - Extracted thread title: [VPS DEAL] 32GB RAM VPS for $132.80Year - The Best Deal You’ll Find, Guaranteed!
+2025-04-18 11:13:32,899 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:13:32,899 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:34,544 - DEBUG - Page scrolled.
+2025-04-18 11:13:36,545 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:38,045 - DEBUG - Page scrolled.
+2025-04-18 11:13:40,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:41,655 - DEBUG - Page scrolled.
+2025-04-18 11:13:43,668 - DEBUG - Random scrolls complete.
+2025-04-18 11:13:45,875 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:13:45,877 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:47,582 - DEBUG - Page scrolled.
+2025-04-18 11:13:50,588 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:52,564 - DEBUG - Page scrolled.
+2025-04-18 11:13:55,565 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:13:57,462 - DEBUG - Page scrolled.
+2025-04-18 11:14:00,464 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:02,421 - DEBUG - Page scrolled.
+2025-04-18 11:14:05,424 - DEBUG - Random scrolls complete.
+2025-04-18 11:14:05,483 - DEBUG - Found 10 like buttons.
+2025-04-18 11:14:08,490 - INFO - Attempting to like 3 posts. There are 10 available.
+2025-04-18 11:14:09,121 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:14:09,155 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:14:09,156 - DEBUG - Liked post number 1 of 3.
+2025-04-18 11:14:14,206 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:14:14,240 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:14:14,242 - DEBUG - Liked post number 2 of 3.
+2025-04-18 11:14:19,913 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:14:19,943 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:14:19,945 - DEBUG - Liked post number 3 of 3.
+2025-04-18 11:14:24,559 - INFO - Liked 3 posts successfully.
+2025-04-18 11:14:24,563 - INFO - Liked 3 posts successfully.
+2025-04-18 11:14:26,741 - INFO - Profile Emaxx: Restoring window...
+2025-04-18 11:14:28,757 - INFO - performing random action
+2025-04-18 11:14:28,760 - DEBUG - Scrolling page 7 times.
+2025-04-18 11:14:28,761 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:30,309 - DEBUG - Page scrolled.
+2025-04-18 11:14:33,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:34,866 - DEBUG - Page scrolled.
+2025-04-18 11:14:37,872 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:39,459 - DEBUG - Page scrolled.
+2025-04-18 11:14:42,461 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:43,773 - DEBUG - Page scrolled.
+2025-04-18 11:14:46,776 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:48,579 - DEBUG - Page scrolled.
+2025-04-18 11:14:51,583 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:53,048 - DEBUG - Page scrolled.
+2025-04-18 11:14:56,055 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:14:57,464 - DEBUG - Page scrolled.
+2025-04-18 11:15:00,465 - DEBUG - Random scrolls complete.
+2025-04-18 11:15:02,958 - DEBUG - Total comments in the thread: 10
+2025-04-18 11:15:34,782 - INFO - Post content extracted and saved to Thread-Details/Thread Content\[VPS DEAL] 32GB RAM VPS for $132.80Year - The Best Deal You’ll Find, Guaranteed!.txt
+2025-04-18 11:15:37,718 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:15:37,800 - DEBUG - Extracted main post content: I found a Killer VPS Deal that is worth checking out!
+
+So, occasionally, I get some cool VPS offers in my inbox, and this one caught my eye. If you know how to set up and use a VPS, this is an awesome deal.
+
+Here's the configuration:
+
+32GB RAM
+480GB SSD
+8 vCPU
+
+All for just $132.80/Year or $11.07/Month with annual plans!
+
+Now, if you're not sure how to set up a VPS or host multiple sites, it could end up being a waste of resources. But if you're interested, I can share how I set up WordPress and add addon domains to my VPS without dealing with too many commands. Just reply with “Guide, please!” and I’ll get to writing it.
+
+Code:
+Coupon: LUCKY32
+Link: https://www.ssdnodes.com/cheap-vps-hosting
+
+I’m unsure if this is a limited-time offer or if the price stays the same, so I suggest checking it out soon!
+
+P.S. – I’m not affiliated with them in any way. Make sure to do your own research before committing!
+2025-04-18 11:15:41,316 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:15:41,319 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:15:43,401 - INFO - performing random action
+2025-04-18 11:15:43,404 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:15:43,406 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:15:43,471 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:15:43,548 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:15:43,559 - DEBUG - Text box scrolled into view
+2025-04-18 11:15:44,552 - DEBUG - Initializing actionchains
+2025-04-18 11:15:44,646 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4477}, size: {'height': 21, 'width': 68}
+2025-04-18 11:15:44,648 - DEBUG - Target click coordinates: (1267, 4487)
+2025-04-18 11:15:57,716 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:15:57,717 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:15:57,719 - DEBUG - Clicking on the text box.
+2025-04-18 11:15:57,720 - DEBUG - Sending keys with content: That's a beefy VPS for the price! I'm curious, what do you usually use that much RAM for?
+
+2025-04-18 11:16:02,852 - DEBUG - Clicking on post reply button.
+2025-04-18 11:16:13,746 - DEBUG - Performed Actionchains
+2025-04-18 11:16:13,747 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:16:17,753 - INFO - Comment posted successfully.
+2025-04-18 11:16:17,755 - INFO - Task Completed!!
+2025-04-18 11:16:29,164 - INFO - Navigated back to the homepage.
+2025-04-18 11:16:31,304 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:16:31,388 - INFO - Garbage collection completed.
+2025-04-18 11:16:31,390 - INFO - Waiting for 1700 seconds before next execution.

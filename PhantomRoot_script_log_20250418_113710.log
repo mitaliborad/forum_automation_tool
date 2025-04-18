@@ -1,0 +1,99 @@
+2025-04-18 11:37:10,352 - INFO - Current time: 1744956430.352345
+2025-04-18 11:37:10,356 - INFO - Token expiration time: 1744959148.507288
+2025-04-18 11:37:10,358 - INFO - Token expiration time: 1744959148.507288
+2025-04-18 11:37:10,360 - INFO - performing random action
+2025-04-18 11:37:10,368 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:37:10,372 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:37:10,374 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:11,504 - DEBUG - Page scrolled.
+2025-04-18 11:37:13,513 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:14,632 - DEBUG - Page scrolled.
+2025-04-18 11:37:16,634 - DEBUG - Random scrolls complete.
+2025-04-18 11:37:16,643 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:37:16,645 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:18,586 - DEBUG - Page scrolled.
+2025-04-18 11:37:20,588 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:21,875 - DEBUG - Page scrolled.
+2025-04-18 11:37:23,879 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:24,936 - DEBUG - Page scrolled.
+2025-04-18 11:37:26,940 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:28,317 - DEBUG - Page scrolled.
+2025-04-18 11:37:30,322 - DEBUG - Random scrolls complete.
+2025-04-18 11:37:42,220 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-04-18 11:37:47,101 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-get-a-nsfw-traffic-from-tumblr.1656458/unread
+2025-04-18 11:37:47,102 - INFO - performing random action
+2025-04-18 11:37:56,662 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-get-a-nsfw-traffic-from-tumblr.1656458/unread
+2025-04-18 11:37:56,665 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-get-a-nsfw-traffic-from-tumblr.1656458/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:37:56,770 - INFO - Extracted thread title: HOW TO GET A NSFW TRAFFIC FROM TUMBLR
+2025-04-18 11:37:56,771 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:37:56,771 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:58,611 - DEBUG - Page scrolled.
+2025-04-18 11:38:00,613 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:38:02,496 - DEBUG - Page scrolled.
+2025-04-18 11:38:04,502 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:38:05,620 - DEBUG - Page scrolled.
+2025-04-18 11:38:07,622 - DEBUG - Random scrolls complete.
+2025-04-18 11:38:09,683 - DEBUG - Scrolling page 1 times.
+2025-04-18 11:38:09,684 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:38:10,738 - DEBUG - Page scrolled.
+2025-04-18 11:38:13,740 - DEBUG - Random scrolls complete.
+2025-04-18 11:38:13,756 - DEBUG - Found 7 like buttons.
+2025-04-18 11:38:16,757 - INFO - Attempting to like 4 posts. There are 7 available.
+2025-04-18 11:38:17,639 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:38:17,677 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:38:17,679 - DEBUG - Liked post number 1 of 4.
+2025-04-18 11:38:22,804 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:38:22,814 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:38:22,814 - DEBUG - Liked post number 2 of 4.
+2025-04-18 11:38:27,845 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:38:27,857 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:38:27,857 - DEBUG - Liked post number 3 of 4.
+2025-04-18 11:38:33,636 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:38:33,665 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:38:33,667 - DEBUG - Liked post number 4 of 4.
+2025-04-18 11:38:37,693 - INFO - Liked 4 posts successfully.
+2025-04-18 11:38:37,694 - INFO - Liked 4 posts successfully.
+2025-04-18 11:38:40,234 - INFO - performing random action
+2025-04-18 11:38:40,236 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:38:40,238 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:38:42,146 - DEBUG - Page scrolled.
+2025-04-18 11:38:45,151 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:38:46,640 - DEBUG - Page scrolled.
+2025-04-18 11:38:49,642 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:38:51,144 - DEBUG - Page scrolled.
+2025-04-18 11:38:54,145 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:38:55,291 - DEBUG - Page scrolled.
+2025-04-18 11:38:58,294 - DEBUG - Random scrolls complete.
+2025-04-18 11:39:01,246 - DEBUG - Total comments in the thread: 7
+2025-04-18 11:39:32,640 - INFO - Post content extracted and saved to Thread-Details/Thread Content\HOW TO GET A NSFW TRAFFIC FROM TUMBLR.txt
+2025-04-18 11:39:35,448 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:39:35,541 - DEBUG - Extracted main post content: as the title says how i can get a nsfw tarffic from tumblr im a newbie to this
+2025-04-18 11:39:39,371 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:39:39,379 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:39:41,766 - INFO - Profile PhantomRoot: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-18 11:39:48,056 - INFO - Profile PhantomRoot: Pausing for 45.16 seconds...
+2025-04-18 11:40:33,220 - INFO - Profile PhantomRoot: Resuming...
+2025-04-18 11:40:33,336 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-18 11:40:33,342 - INFO - performing random action
+2025-04-18 11:40:33,353 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:40:33,354 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:40:33,405 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:40:33,455 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:40:33,460 - DEBUG - Text box scrolled into view
+2025-04-18 11:40:34,133 - DEBUG - Initializing actionchains
+2025-04-18 11:40:34,224 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2957}, size: {'height': 21, 'width': 68}
+2025-04-18 11:40:34,225 - DEBUG - Target click coordinates: (1267, 2967)
+2025-04-18 11:40:44,664 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:40:44,673 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:40:44,674 - DEBUG - Clicking on the text box.
+2025-04-18 11:40:44,677 - DEBUG - Sending keys with content: Honestly, Tumblr's not what it used to be, but have you tried finding active communities and really engaging there first? Maybe build a following before pushing any offers.
+
+2025-04-18 11:40:49,939 - DEBUG - Clicking on post reply button.
+2025-04-18 11:40:51,384 - DEBUG - Performed Actionchains
+2025-04-18 11:40:51,386 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:40:55,389 - INFO - Comment posted successfully.
+2025-04-18 11:40:55,393 - INFO - Task Completed!!
+2025-04-18 11:40:58,761 - INFO - Navigated back to the homepage.
+2025-04-18 11:41:01,432 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:41:01,518 - INFO - Garbage collection completed.
+2025-04-18 11:41:01,520 - INFO - Waiting for 1700 seconds before next execution.

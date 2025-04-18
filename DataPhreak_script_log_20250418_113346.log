@@ -1,0 +1,117 @@
+2025-04-18 11:33:46,697 - INFO - Current time: 1744956226.6972919
+2025-04-18 11:33:46,699 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 11:33:46,701 - INFO - Token expiration time: 1744958961.4986072
+2025-04-18 11:33:46,703 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-18 11:33:46,717 - INFO - Profile DataPhreak: Window minimized. Pausing for 19.87 seconds...
+2025-04-18 11:34:06,596 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-18 11:34:06,598 - INFO - performing random action
+2025-04-18 11:34:06,600 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:34:06,608 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:34:06,610 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:08,581 - DEBUG - Page scrolled.
+2025-04-18 11:34:10,584 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:12,502 - DEBUG - Page scrolled.
+2025-04-18 11:34:14,503 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:16,296 - DEBUG - Page scrolled.
+2025-04-18 11:34:18,297 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:20,225 - DEBUG - Page scrolled.
+2025-04-18 11:34:22,228 - DEBUG - Random scrolls complete.
+2025-04-18 11:34:22,229 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:34:22,231 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:23,370 - DEBUG - Page scrolled.
+2025-04-18 11:34:25,371 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:34:27,015 - DEBUG - Page scrolled.
+2025-04-18 11:34:29,017 - DEBUG - Random scrolls complete.
+2025-04-18 11:34:38,179 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-18 11:34:42,565 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/a-few-questions-about-automation-scripts.1635261/
+2025-04-18 11:34:42,566 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-18 11:34:49,208 - INFO - Profile DataPhreak: Pausing for 41.35 seconds...
+2025-04-18 11:35:30,563 - INFO - Profile DataPhreak: Resuming...
+2025-04-18 11:35:30,603 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-18 11:35:30,612 - INFO - performing random action
+2025-04-18 11:35:38,931 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/a-few-questions-about-automation-scripts.1635261/
+2025-04-18 11:35:38,934 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/a-few-questions-about-automation-scripts.1635261/' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:35:39,039 - INFO - Extracted thread title: A few questions about automation scripts.
+2025-04-18 11:35:39,040 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:35:39,041 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:40,142 - DEBUG - Page scrolled.
+2025-04-18 11:35:42,171 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:43,296 - DEBUG - Page scrolled.
+2025-04-18 11:35:45,299 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:47,046 - DEBUG - Page scrolled.
+2025-04-18 11:35:49,047 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:50,693 - DEBUG - Page scrolled.
+2025-04-18 11:35:52,721 - DEBUG - Random scrolls complete.
+2025-04-18 11:35:54,921 - DEBUG - Scrolling page 2 times.
+2025-04-18 11:35:54,923 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:35:56,135 - DEBUG - Page scrolled.
+2025-04-18 11:35:59,142 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:36:00,397 - DEBUG - Page scrolled.
+2025-04-18 11:36:03,453 - DEBUG - Random scrolls complete.
+2025-04-18 11:36:03,509 - DEBUG - Found 7 like buttons.
+2025-04-18 11:36:06,510 - INFO - Attempting to like 1 posts. There are 7 available.
+2025-04-18 11:36:07,337 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:36:07,382 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:36:07,384 - DEBUG - Liked post number 1 of 1.
+2025-04-18 11:36:12,062 - INFO - Liked 1 posts successfully.
+2025-04-18 11:36:12,065 - INFO - Liked 1 posts successfully.
+2025-04-18 11:36:14,256 - INFO - Profile DataPhreak: Pausing for 42.10 seconds...
+2025-04-18 11:36:56,360 - INFO - Profile DataPhreak: Resuming...
+2025-04-18 11:36:56,362 - INFO - performing random action
+2025-04-18 11:36:56,371 - DEBUG - Scrolling page 6 times.
+2025-04-18 11:36:56,372 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:36:58,118 - DEBUG - Page scrolled.
+2025-04-18 11:37:01,120 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:02,409 - DEBUG - Page scrolled.
+2025-04-18 11:37:05,409 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:07,344 - DEBUG - Page scrolled.
+2025-04-18 11:37:10,349 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:11,546 - DEBUG - Page scrolled.
+2025-04-18 11:37:14,549 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:16,054 - DEBUG - Page scrolled.
+2025-04-18 11:37:19,056 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:37:20,103 - DEBUG - Page scrolled.
+2025-04-18 11:37:23,105 - DEBUG - Random scrolls complete.
+2025-04-18 11:37:25,533 - DEBUG - Total comments in the thread: 7
+2025-04-18 11:38:16,746 - INFO - Post content extracted and saved to Thread-Details/Thread Content\A few questions about automation scripts..txt
+2025-04-18 11:38:19,141 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:38:19,220 - DEBUG - Extracted main post content: Hi,
+
+I got a few questions about automation scripts for uploading stuff online/creating posts - while not knowing how to code myself. I'm currently at a crossroad, because I need automation scripts - but I cannot pay someone to write them for me, as that would be just giving away ideas and creating competition. As I would need to give step by step instructions on how to do it.
+
+On another hand, I won't spend 6 months to 1 year of my life to learn how to write 1-2 scripts and be done with it. Too much time spent for very little use of those skills.
+Social media posting/bots are easily available, but if we're talking about websites that are very unkown/not popular - and a script that would include posting/uploading in i.e 30 of those websites, where every website has a different system of how posting/uploading works - it would require a custom script tailored to every single website patched into one script that does it in bulk one by one.
+
+This goes even further where I would need a more complex automation, where I would need the script to download something, run it through desktop programs, and then do schedule uploads. Basically re-uploading + posting.
+
+I tried using chatGPT for at least scheduling upload/posts, but since it has to be tailored to a website, it is having a really hard time to spit anything useful- or I don't know how to guide it, idk. So far I managed to install python, VS code studio and requests/schedule PIP, and that was it lol.
+
+Is learning how to write automation script easier than I think in terms of time spent for learning? Regarding my 6-12 months of learning time, let's say 10-15 hours a week.
+
+I know this is a very newbie post, but if anyone has any tips what I could do about it, which way to go, or what options do I have, I would be very grateful. My most prefered option would still be to pay someone to do it, but well, I trust no one, in terms of whether someone will use my future ideas, so can't think of any way of doing this right.
+2025-04-18 11:38:24,880 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:38:24,883 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:38:27,576 - INFO - Profile DataPhreak: Restoring window...
+2025-04-18 11:38:29,582 - INFO - performing random action
+2025-04-18 11:38:29,584 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:38:29,586 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:38:29,649 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:38:29,818 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:38:29,857 - DEBUG - Text box scrolled into view
+2025-04-18 11:38:30,597 - DEBUG - Initializing actionchains
+2025-04-18 11:38:30,625 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3697}, size: {'height': 21, 'width': 68}
+2025-04-18 11:38:30,625 - DEBUG - Target click coordinates: (1267, 3707)
+2025-04-18 11:38:42,130 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:38:42,132 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:38:42,133 - DEBUG - Clicking on the text box.
+2025-04-18 11:38:42,143 - DEBUG - Sending keys with content: Honestly, if the sites are that obscure, your best bet might be getting really good at using a macro recorder like AutoHotKey. It's clunky, sure, but a heck of a lot faster to learn than Python for this specific task.
+
+2025-04-18 11:38:47,985 - DEBUG - Clicking on post reply button.
+2025-04-18 11:38:59,509 - DEBUG - Performed Actionchains
+2025-04-18 11:38:59,510 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:39:03,512 - INFO - Comment posted successfully.
+2025-04-18 11:39:03,514 - INFO - Task Completed!!
+2025-04-18 11:39:12,001 - INFO - Navigated back to the homepage.
+2025-04-18 11:39:14,732 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:39:14,823 - INFO - Garbage collection completed.
+2025-04-18 11:39:14,824 - INFO - Waiting for 1700 seconds before next execution.

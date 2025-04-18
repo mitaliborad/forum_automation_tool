@@ -1,0 +1,120 @@
+2025-04-18 11:02:11,497 - INFO - Current time: 1744954331.497471
+2025-04-18 11:02:11,499 - INFO - Token expiration time: 1744959148.507288
+2025-04-18 11:02:11,501 - INFO - Token expiration time: 1744959148.507288
+2025-04-18 11:02:11,506 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-18 11:02:11,517 - INFO - Profile PhantomRoot: Window minimized. Pausing for 28.46 seconds...
+2025-04-18 11:02:39,993 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-18 11:02:39,995 - INFO - performing random action
+2025-04-18 11:02:39,998 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-18 11:02:39,999 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:02:40,006 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:41,432 - DEBUG - Page scrolled.
+2025-04-18 11:02:43,434 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:45,015 - DEBUG - Page scrolled.
+2025-04-18 11:02:47,017 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:48,457 - DEBUG - Page scrolled.
+2025-04-18 11:02:50,459 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:51,546 - DEBUG - Page scrolled.
+2025-04-18 11:02:53,553 - DEBUG - Random scrolls complete.
+2025-04-18 11:02:53,555 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:02:53,557 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:55,425 - DEBUG - Page scrolled.
+2025-04-18 11:02:57,429 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:02:58,992 - DEBUG - Page scrolled.
+2025-04-18 11:03:00,998 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:02,027 - DEBUG - Page scrolled.
+2025-04-18 11:03:04,028 - DEBUG - Random scrolls complete.
+2025-04-18 11:03:21,246 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-18 11:03:25,911 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/my-disappointing-experience-with-adspect-cloaking-service.1704161/unread
+2025-04-18 11:03:25,912 - INFO - performing random action
+2025-04-18 11:03:46,055 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/my-disappointing-experience-with-adspect-cloaking-service.1704161/unread
+2025-04-18 11:03:46,059 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/my-disappointing-experience-with-adspect-cloaking-service.1704161/unread' to visited threads file 'Thread_links.txt'.
+2025-04-18 11:03:46,139 - INFO - Extracted thread title: My Disappointing Experience with AdsPect Cloaking Service
+2025-04-18 11:03:46,140 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:03:46,140 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:47,477 - DEBUG - Page scrolled.
+2025-04-18 11:03:49,485 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:51,237 - DEBUG - Page scrolled.
+2025-04-18 11:03:53,241 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:03:54,654 - DEBUG - Page scrolled.
+2025-04-18 11:03:56,660 - DEBUG - Random scrolls complete.
+2025-04-18 11:03:59,525 - DEBUG - Scrolling page 3 times.
+2025-04-18 11:03:59,527 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:04:01,302 - DEBUG - Page scrolled.
+2025-04-18 11:04:04,304 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:04:05,362 - DEBUG - Page scrolled.
+2025-04-18 11:04:08,367 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:04:10,343 - DEBUG - Page scrolled.
+2025-04-18 11:04:13,345 - DEBUG - Random scrolls complete.
+2025-04-18 11:04:13,412 - DEBUG - Found 10 like buttons.
+2025-04-18 11:04:16,421 - INFO - Attempting to like 3 posts. There are 10 available.
+2025-04-18 11:04:17,398 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:04:17,409 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:04:17,410 - DEBUG - Liked post number 1 of 3.
+2025-04-18 11:04:22,454 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:04:22,488 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:04:22,490 - DEBUG - Liked post number 2 of 3.
+2025-04-18 11:04:28,171 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-18 11:04:28,182 - INFO - Like button clicked successfully using JavaScript.
+2025-04-18 11:04:28,187 - DEBUG - Liked post number 3 of 3.
+2025-04-18 11:04:32,360 - INFO - Liked 3 posts successfully.
+2025-04-18 11:04:32,362 - INFO - Liked 3 posts successfully.
+2025-04-18 11:04:34,749 - INFO - Profile PhantomRoot: Pausing for 39.22 seconds...
+2025-04-18 11:05:13,974 - INFO - Profile PhantomRoot: Resuming...
+2025-04-18 11:05:13,980 - INFO - performing random action
+2025-04-18 11:05:13,982 - DEBUG - Scrolling page 4 times.
+2025-04-18 11:05:13,983 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:05:15,143 - DEBUG - Page scrolled.
+2025-04-18 11:05:18,145 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:05:20,107 - DEBUG - Page scrolled.
+2025-04-18 11:05:23,114 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:05:25,096 - DEBUG - Page scrolled.
+2025-04-18 11:05:28,100 - DEBUG - Scrolling page by 500 pixels.
+2025-04-18 11:05:29,288 - DEBUG - Page scrolled.
+2025-04-18 11:05:32,297 - DEBUG - Random scrolls complete.
+2025-04-18 11:05:35,361 - DEBUG - Total comments in the thread: 10
+2025-04-18 11:06:38,180 - INFO - Post content extracted and saved to Thread-Details/Thread Content\My Disappointing Experience with AdsPect Cloaking Service.txt
+2025-04-18 11:06:40,291 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-18 11:06:40,406 - DEBUG - Extracted main post content: I rarely write reviews, but my experience with AdsPect was so disappointing that I feel obligated to share it and warn others.
+
+
+I purchased the professional version of AdsPect based on their bold claims about how advanced and effective their cloaking service is. Unfortunately, it turned out to be the worst experience I've ever had with any cloaking provider.
+
+
+Despite having all my campaigns running properly, I received zero traffic. After investigating, I discovered that all my traffic was being blocked by AdsPect’s own cloaking filters. When I reached out to support, I was shocked by their response — they told me there’s nothing they can do, and their system didn’t even allow me to reduce the filtering aggressiveness or whitelist specific sources.
+
+
+To make matters worse, I had only used the service for less than 24 hours, and they refused to offer any kind of refund or account rollback, even though the service clearly failed to deliver on its promises.
+
+
+If you're looking for a cloaking solution that gives you real control and flexibility, I strongly urge you to stay away from AdsPect. It’s overpriced, underperforming, and the support is completely unhelpful.
+
+
+Don’t waste your money like I did. You deserve a service that actually works and respects its users.
+2025-04-18 11:06:45,002 - INFO - Successfully generated comments using Gemini API.
+2025-04-18 11:06:45,005 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-18 11:06:47,082 - INFO - Profile PhantomRoot: Pausing for 46.47 seconds...
+2025-04-18 11:07:33,559 - INFO - Profile PhantomRoot: Resuming...
+2025-04-18 11:07:33,563 - INFO - performing random action
+2025-04-18 11:07:33,569 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:07:33,572 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:07:33,896 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:07:34,026 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-18 11:07:34,031 - DEBUG - Text box scrolled into view
+2025-04-18 11:07:34,747 - DEBUG - Initializing actionchains
+2025-04-18 11:07:34,847 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4573}, size: {'height': 21, 'width': 68}
+2025-04-18 11:07:34,849 - DEBUG - Target click coordinates: (1267, 4583)
+2025-04-18 11:07:48,248 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-18 11:07:48,249 - DEBUG - Moving mouse to text box element.
+2025-04-18 11:07:48,258 - DEBUG - Clicking on the text box.
+2025-04-18 11:07:48,260 - DEBUG - Sending keys with content: Ouch, that sounds brutal. Did you try disputing the charge with your credit card company? Might be worth a shot.
+
+2025-04-18 11:07:53,860 - DEBUG - Clicking on post reply button.
+2025-04-18 11:08:04,949 - DEBUG - Performed Actionchains
+2025-04-18 11:08:04,950 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-18 11:08:08,953 - INFO - Comment posted successfully.
+2025-04-18 11:08:08,955 - INFO - Task Completed!!
+2025-04-18 11:08:47,491 - INFO - Navigated back to the homepage.
+2025-04-18 11:08:50,274 - INFO - Attempting to clear memory and resources.
+2025-04-18 11:08:50,347 - INFO - Garbage collection completed.
+2025-04-18 11:08:50,348 - INFO - Waiting for 1700 seconds before next execution.
