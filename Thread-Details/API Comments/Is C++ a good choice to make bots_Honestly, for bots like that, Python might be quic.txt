@@ -1,0 +1,1 @@
+Honestly, for bots like that, Python might be quicker to pick up and get running, plus there are tons of libraries already built for interacting with APIs. C++ is powerful, but seems like overkill unless performance is absolutely critical.

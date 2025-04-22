@@ -1,0 +1,1 @@
+Honestly, unless you're running into specific SSL or email deliverability issues, a dedicated IP probably isn't worth the extra cost. Focus on making each site unique and valuable, and you should be fine.

@@ -1,0 +1,122 @@
+2025-04-22 09:46:07,972 - INFO - Current time: 1745295367.9726784
+2025-04-22 09:46:07,974 - INFO - Token expiration time: 1745306162.2407336
+2025-04-22 09:46:07,975 - INFO - Token expiration time: 1745306162.2407336
+2025-04-22 09:46:07,976 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-22 09:46:19,500 - INFO - Profile BinaryGhost: Pausing for 31.08 seconds...
+2025-04-22 09:46:50,580 - INFO - Profile BinaryGhost: Resuming...
+2025-04-22 09:46:50,603 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-22 09:46:50,611 - INFO - performing random action
+2025-04-22 09:46:50,614 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-22 09:46:50,627 - DEBUG - Scrolling page 3 times.
+2025-04-22 09:46:50,631 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:46:52,042 - DEBUG - Page scrolled.
+2025-04-22 09:46:54,044 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:46:55,525 - DEBUG - Page scrolled.
+2025-04-22 09:46:57,527 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:46:59,532 - DEBUG - Page scrolled.
+2025-04-22 09:47:01,534 - DEBUG - Random scrolls complete.
+2025-04-22 09:47:01,535 - DEBUG - Scrolling page 3 times.
+2025-04-22 09:47:01,537 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:47:03,037 - DEBUG - Page scrolled.
+2025-04-22 09:47:05,039 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:47:06,481 - DEBUG - Page scrolled.
+2025-04-22 09:47:08,482 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:47:10,430 - DEBUG - Page scrolled.
+2025-04-22 09:47:12,431 - DEBUG - Random scrolls complete.
+2025-04-22 09:47:15,530 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/c-c-c.60/
+2025-04-22 09:47:19,086 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-c-a-good-choice-to-make-bots.1128252/
+2025-04-22 09:47:19,086 - INFO - Profile BinaryGhost: Opening random website: https://www.teejh.com/
+2025-04-22 09:47:40,290 - INFO - Profile BinaryGhost: Pausing for 47.22 seconds...
+2025-04-22 09:48:27,513 - INFO - Profile BinaryGhost: Resuming...
+2025-04-22 09:48:27,545 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-22 09:48:27,545 - INFO - performing random action
+2025-04-22 09:48:40,966 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-c-a-good-choice-to-make-bots.1128252/
+2025-04-22 09:48:40,971 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-c-a-good-choice-to-make-bots.1128252/' to visited threads file 'Thread_links.txt'.
+2025-04-22 09:48:41,001 - INFO - Extracted thread title: Is C++ a good choice to make bots
+2025-04-22 09:48:41,002 - DEBUG - Scrolling page 3 times.
+2025-04-22 09:48:41,002 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:48:42,349 - DEBUG - Page scrolled.
+2025-04-22 09:48:44,350 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:48:46,254 - DEBUG - Page scrolled.
+2025-04-22 09:48:48,256 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:48:50,050 - DEBUG - Page scrolled.
+2025-04-22 09:48:52,052 - DEBUG - Random scrolls complete.
+2025-04-22 09:48:54,703 - DEBUG - Scrolling page 4 times.
+2025-04-22 09:48:54,705 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:48:56,686 - DEBUG - Page scrolled.
+2025-04-22 09:48:59,688 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:49:01,240 - DEBUG - Page scrolled.
+2025-04-22 09:49:04,242 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:49:05,492 - DEBUG - Page scrolled.
+2025-04-22 09:49:08,494 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:49:10,315 - DEBUG - Page scrolled.
+2025-04-22 09:49:13,317 - DEBUG - Random scrolls complete.
+2025-04-22 09:49:13,345 - DEBUG - Found 20 like buttons.
+2025-04-22 09:49:16,346 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-22 09:49:17,314 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:49:17,347 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:49:17,349 - DEBUG - Liked post number 1 of 4.
+2025-04-22 09:49:23,179 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:49:23,200 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:49:23,203 - DEBUG - Liked post number 2 of 4.
+2025-04-22 09:49:28,992 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:49:29,014 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:49:29,015 - DEBUG - Liked post number 3 of 4.
+2025-04-22 09:49:34,604 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:49:34,623 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:49:34,624 - DEBUG - Liked post number 4 of 4.
+2025-04-22 09:49:39,478 - INFO - Liked 4 posts successfully.
+2025-04-22 09:49:39,480 - INFO - Liked 4 posts successfully.
+2025-04-22 09:49:41,880 - INFO - performing random action
+2025-04-22 09:49:41,882 - DEBUG - Scrolling page 7 times.
+2025-04-22 09:49:41,884 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:49:43,535 - DEBUG - Page scrolled.
+2025-04-22 09:49:46,537 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:49:48,165 - DEBUG - Page scrolled.
+2025-04-22 09:49:51,167 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:49:53,024 - DEBUG - Page scrolled.
+2025-04-22 09:49:56,027 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:49:57,137 - DEBUG - Page scrolled.
+2025-04-22 09:50:00,138 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:01,152 - DEBUG - Page scrolled.
+2025-04-22 09:50:04,153 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:05,364 - DEBUG - Page scrolled.
+2025-04-22 09:50:08,365 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:10,051 - DEBUG - Page scrolled.
+2025-04-22 09:50:13,053 - DEBUG - Random scrolls complete.
+2025-04-22 09:50:15,627 - DEBUG - Total comments in the thread: 20
+2025-04-22 09:52:31,424 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is C++ a good choice to make bots.txt
+2025-04-22 09:52:33,771 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-22 09:52:33,805 - DEBUG - Extracted main post content: Hello!
+
+I am quite familiar with JavaScript and I need to learn new programming language for making bots.
+Bots for communicators (ICQ, Skype, Trillian and many other). Somebody whop type to me this bot should answer everyone.
+And the bots for Facebook (private messages), Pinterest (make follows) and other.
+
+Is C++ a good choice for making these kind of bots?
+2025-04-22 09:52:37,855 - INFO - Successfully generated comments using Gemini API.
+2025-04-22 09:52:37,859 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-22 09:52:40,785 - INFO - Profile BinaryGhost: Restoring window...
+2025-04-22 09:52:42,797 - INFO - performing random action
+2025-04-22 09:52:42,798 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:52:42,800 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:52:42,836 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:52:42,896 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:52:42,904 - DEBUG - Text box scrolled into view
+2025-04-22 09:52:43,433 - DEBUG - Initializing actionchains
+2025-04-22 09:52:43,466 - DEBUG - Post reply Element location: {'x': 1233, 'y': 7755}, size: {'height': 21, 'width': 68}
+2025-04-22 09:52:43,466 - DEBUG - Target click coordinates: (1267, 7765)
+2025-04-22 09:53:02,799 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-22 09:53:02,800 - DEBUG - Moving mouse to text box element.
+2025-04-22 09:53:02,802 - DEBUG - Clicking on the text box.
+2025-04-22 09:53:02,805 - DEBUG - Sending keys with content: Honestly, for bots like that, Python might be quicker to pick up and get running, plus there are tons of libraries already built for interacting with APIs. C++ is powerful, but seems like overkill unless performance is absolutely critical.
+
+2025-04-22 09:53:08,265 - DEBUG - Clicking on post reply button.
+2025-04-22 09:53:19,746 - DEBUG - Performed Actionchains
+2025-04-22 09:53:19,747 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-22 09:53:23,748 - INFO - Comment posted successfully.
+2025-04-22 09:53:23,749 - INFO - Task Completed!!
+2025-04-22 09:53:32,355 - INFO - Navigated back to the homepage.
+2025-04-22 09:53:35,188 - INFO - Attempting to clear memory and resources.
+2025-04-22 09:53:35,222 - INFO - Garbage collection completed.
+2025-04-22 09:53:35,223 - INFO - Waiting for 1800 seconds before next execution.

@@ -19,13 +19,13 @@ HEADERS = {"Accept": "application/json", "Content-Type": "application/json"}
 
 # --- Profile Configuration (moved out of class - Manager Style) ---
 PROFILES = {    
-    "Emaxx": {
-        "username": "armanmishra1115@gmail.com",
-        "password": "Nik&291411",
-        "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
-        "profile_id": "ece3d7b0-6dd3-4189-94c7-20c2dfa82943",
-        "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
-    },
+    # "Emaxx": {
+    #     "username": "armanmishra1115@gmail.com",
+    #     "password": "Nik&291411",
+    #     "folder_id": "2895cd9a-0e5f-44bc-a1f5-344a8d81baaa",
+    #     "profile_id": "ece3d7b0-6dd3-4189-94c7-20c2dfa82943",
+    #     "launcher_url": "https://launcher.mlx.yt:45001/api/v1"
+    # },
     # "DarkCodeX": {
     #     "username": "armanmishra1115@gmail.com",
     #     "password": "Nik&291411",

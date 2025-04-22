@@ -1,0 +1,122 @@
+2025-04-22 10:18:30,904 - INFO - Current time: 1745297310.9045668
+2025-04-22 10:18:30,907 - INFO - Token expiration time: 1745305988.7212996
+2025-04-22 10:18:30,910 - INFO - Token expiration time: 1745305988.7212996
+2025-04-22 10:18:30,910 - INFO - Profile ZeroDayHunter: Opening random website: https://www.netflix.com/in/
+2025-04-22 10:18:45,364 - INFO - Profile ZeroDayHunter: Pausing for 45.92 seconds...
+2025-04-22 10:19:31,282 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-22 10:19:31,301 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-22 10:19:31,302 - INFO - performing random action
+2025-04-22 10:19:31,303 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-22 10:19:31,304 - DEBUG - Scrolling page 4 times.
+2025-04-22 10:19:31,304 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:19:33,046 - DEBUG - Page scrolled.
+2025-04-22 10:19:35,049 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:19:36,477 - DEBUG - Page scrolled.
+2025-04-22 10:19:38,479 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:19:39,729 - DEBUG - Page scrolled.
+2025-04-22 10:19:41,731 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:19:43,473 - DEBUG - Page scrolled.
+2025-04-22 10:19:45,475 - DEBUG - Random scrolls complete.
+2025-04-22 10:19:45,476 - DEBUG - Scrolling page 4 times.
+2025-04-22 10:19:45,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:19:46,746 - DEBUG - Page scrolled.
+2025-04-22 10:19:48,747 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:19:50,337 - DEBUG - Page scrolled.
+2025-04-22 10:19:52,339 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:19:53,442 - DEBUG - Page scrolled.
+2025-04-22 10:19:55,444 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:19:56,658 - DEBUG - Page scrolled.
+2025-04-22 10:19:58,660 - DEBUG - Random scrolls complete.
+2025-04-22 10:20:05,598 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-scripting-chat.129/
+2025-04-22 10:20:09,287 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/good-results-scrapebox-contact-form-submitter.1652465/
+2025-04-22 10:20:09,287 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-22 10:20:11,299 - INFO - performing random action
+2025-04-22 10:20:20,455 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/good-results-scrapebox-contact-form-submitter.1652465/
+2025-04-22 10:20:20,458 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/good-results-scrapebox-contact-form-submitter.1652465/' to visited threads file 'Thread_links.txt'.
+2025-04-22 10:20:20,577 - INFO - Extracted thread title: Good results Scrapebox - Contact Form Submitter
+2025-04-22 10:20:20,579 - DEBUG - Scrolling page 4 times.
+2025-04-22 10:20:20,580 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:20:21,827 - DEBUG - Page scrolled.
+2025-04-22 10:20:23,829 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:20:24,896 - DEBUG - Page scrolled.
+2025-04-22 10:20:26,898 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:20:28,489 - DEBUG - Page scrolled.
+2025-04-22 10:20:30,491 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:20:31,885 - DEBUG - Page scrolled.
+2025-04-22 10:20:33,887 - DEBUG - Random scrolls complete.
+2025-04-22 10:20:36,695 - DEBUG - Scrolling page 3 times.
+2025-04-22 10:20:36,697 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:20:38,671 - DEBUG - Page scrolled.
+2025-04-22 10:20:41,673 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:20:43,360 - DEBUG - Page scrolled.
+2025-04-22 10:20:46,363 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:20:48,084 - DEBUG - Page scrolled.
+2025-04-22 10:20:51,088 - DEBUG - Random scrolls complete.
+2025-04-22 10:20:51,142 - DEBUG - Found 2 like buttons.
+2025-04-22 10:20:54,146 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-22 10:20:54,692 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 10:20:54,732 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 10:20:54,734 - DEBUG - Liked post number 1 of 2.
+2025-04-22 10:20:59,831 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 10:20:59,861 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 10:20:59,863 - DEBUG - Liked post number 2 of 2.
+2025-04-22 10:21:04,182 - INFO - Liked 2 posts successfully.
+2025-04-22 10:21:04,184 - INFO - Liked 2 posts successfully.
+2025-04-22 10:21:07,020 - INFO - Profile ZeroDayHunter: Opening default URL: https://www.google.com
+2025-04-22 10:21:15,136 - INFO - Profile ZeroDayHunter: Pausing for 49.03 seconds...
+2025-04-22 10:22:04,170 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-22 10:22:04,207 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-22 10:22:04,213 - INFO - performing random action
+2025-04-22 10:22:04,215 - DEBUG - Scrolling page 5 times.
+2025-04-22 10:22:04,226 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:22:05,926 - DEBUG - Page scrolled.
+2025-04-22 10:22:08,929 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:22:10,520 - DEBUG - Page scrolled.
+2025-04-22 10:22:13,525 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:22:14,848 - DEBUG - Page scrolled.
+2025-04-22 10:22:17,852 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:22:19,476 - DEBUG - Page scrolled.
+2025-04-22 10:22:22,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:22:23,934 - DEBUG - Page scrolled.
+2025-04-22 10:22:26,939 - DEBUG - Random scrolls complete.
+2025-04-22 10:22:29,837 - DEBUG - Total comments in the thread: 2
+2025-04-22 10:22:30,027 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Good results Scrapebox - Contact Form Submitter.txt
+2025-04-22 10:22:32,525 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-22 10:22:32,614 - DEBUG - Extracted main post content: Hi all!
+Has anyone tried Scrapebox - Contact Form Submitter??
+https://www.scrapebox.com/contact-form-submitter
+
+Does the cold emails land in inbox?
+Can he pass the latest captcha forms?
+Any other Contact Form Submitter that does this job well?
+
+Thank you!
+2025-04-22 10:22:37,836 - INFO - Successfully generated comments using Gemini API.
+2025-04-22 10:22:37,841 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-22 10:22:40,048 - INFO - Profile ZeroDayHunter: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-22 10:22:45,433 - INFO - Profile ZeroDayHunter: Pausing for 44.63 seconds...
+2025-04-22 10:23:30,070 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-22 10:23:30,207 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-22 10:23:30,212 - INFO - performing random action
+2025-04-22 10:23:30,213 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:23:30,213 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:23:30,297 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:23:30,359 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:23:30,364 - DEBUG - Text box scrolled into view
+2025-04-22 10:23:31,300 - DEBUG - Initializing actionchains
+2025-04-22 10:23:31,409 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1644}, size: {'height': 21, 'width': 68}
+2025-04-22 10:23:31,410 - DEBUG - Target click coordinates: (1267, 1654)
+2025-04-22 10:23:38,491 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-22 10:23:38,493 - DEBUG - Moving mouse to text box element.
+2025-04-22 10:23:38,494 - DEBUG - Clicking on the text box.
+2025-04-22 10:23:38,502 - DEBUG - Sending keys with content: I've heard mixed reviews, mostly that it's hit or miss with modern captchas and whether emails actually land in inboxes, making it a gamble. Maybe try a smaller test run first?
+
+2025-04-22 10:23:43,639 - DEBUG - Clicking on post reply button.
+2025-04-22 10:23:45,169 - DEBUG - Performed Actionchains
+2025-04-22 10:23:45,181 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-22 10:23:49,183 - INFO - Comment posted successfully.
+2025-04-22 10:23:49,190 - INFO - Task Completed!!
+2025-04-22 10:23:52,092 - INFO - Navigated back to the homepage.
+2025-04-22 10:23:54,979 - INFO - Attempting to clear memory and resources.
+2025-04-22 10:23:55,071 - INFO - Garbage collection completed.
+2025-04-22 10:23:55,076 - INFO - Waiting for 1800 seconds before next execution.

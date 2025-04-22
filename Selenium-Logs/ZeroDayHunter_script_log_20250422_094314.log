@@ -1,0 +1,100 @@
+2025-04-22 09:43:14,817 - INFO - Current time: 1745295194.8173528
+2025-04-22 09:43:14,818 - INFO - Token expiration time: 1745305988.7212996
+2025-04-22 09:43:14,819 - INFO - Token expiration time: 1745305988.7212996
+2025-04-22 09:43:14,819 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-22 09:43:16,824 - INFO - performing random action
+2025-04-22 09:43:16,853 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-22 09:43:16,855 - DEBUG - Scrolling page 3 times.
+2025-04-22 09:43:16,856 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:43:18,865 - DEBUG - Page scrolled.
+2025-04-22 09:43:20,866 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:43:22,338 - DEBUG - Page scrolled.
+2025-04-22 09:43:24,340 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:43:26,349 - DEBUG - Page scrolled.
+2025-04-22 09:43:28,351 - DEBUG - Random scrolls complete.
+2025-04-22 09:43:28,353 - DEBUG - Scrolling page 3 times.
+2025-04-22 09:43:28,354 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:43:29,624 - DEBUG - Page scrolled.
+2025-04-22 09:43:31,625 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:43:32,878 - DEBUG - Page scrolled.
+2025-04-22 09:43:34,880 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:43:36,252 - DEBUG - Page scrolled.
+2025-04-22 09:43:38,254 - DEBUG - Random scrolls complete.
+2025-04-22 09:43:47,630 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-04-22 09:43:51,351 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-organic-advertising-dead-and-its-better-to-go-to-paid-advertising.1696390/unread
+2025-04-22 09:43:51,351 - INFO - performing random action
+2025-04-22 09:44:01,374 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-organic-advertising-dead-and-its-better-to-go-to-paid-advertising.1696390/unread
+2025-04-22 09:44:01,377 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-organic-advertising-dead-and-its-better-to-go-to-paid-advertising.1696390/unread' to visited threads file 'Thread_links.txt'.
+2025-04-22 09:44:01,405 - INFO - Extracted thread title: Is organic advertising dead and it's better to go to paid advertising
+2025-04-22 09:44:01,406 - DEBUG - Scrolling page 3 times.
+2025-04-22 09:44:01,407 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:44:02,708 - DEBUG - Page scrolled.
+2025-04-22 09:44:04,709 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:44:06,272 - DEBUG - Page scrolled.
+2025-04-22 09:44:08,274 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:44:09,667 - DEBUG - Page scrolled.
+2025-04-22 09:44:11,669 - DEBUG - Random scrolls complete.
+2025-04-22 09:44:13,897 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:44:13,898 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:44:15,559 - DEBUG - Page scrolled.
+2025-04-22 09:44:18,561 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:44:19,957 - DEBUG - Page scrolled.
+2025-04-22 09:44:22,959 - DEBUG - Random scrolls complete.
+2025-04-22 09:44:22,989 - DEBUG - Found 11 like buttons.
+2025-04-22 09:44:25,990 - INFO - Attempting to like 1 posts. There are 11 available.
+2025-04-22 09:44:26,703 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:44:26,727 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:44:26,728 - DEBUG - Liked post number 1 of 1.
+2025-04-22 09:44:31,308 - INFO - Liked 1 posts successfully.
+2025-04-22 09:44:31,310 - INFO - Liked 1 posts successfully.
+2025-04-22 09:44:33,365 - INFO - Profile ZeroDayHunter: Opening default URL: https://www.google.com
+2025-04-22 09:44:53,507 - INFO - Profile ZeroDayHunter: Pausing for 40.67 seconds...
+2025-04-22 09:45:34,174 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-22 09:45:34,198 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-22 09:45:34,200 - INFO - performing random action
+2025-04-22 09:45:34,201 - DEBUG - Scrolling page 6 times.
+2025-04-22 09:45:34,205 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:45:35,662 - DEBUG - Page scrolled.
+2025-04-22 09:45:38,664 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:45:40,309 - DEBUG - Page scrolled.
+2025-04-22 09:45:43,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:45:44,573 - DEBUG - Page scrolled.
+2025-04-22 09:45:47,575 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:45:48,785 - DEBUG - Page scrolled.
+2025-04-22 09:45:51,787 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:45:53,472 - DEBUG - Page scrolled.
+2025-04-22 09:45:56,474 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:45:57,873 - DEBUG - Page scrolled.
+2025-04-22 09:46:00,875 - DEBUG - Random scrolls complete.
+2025-04-22 09:46:03,869 - DEBUG - Total comments in the thread: 11
+2025-04-22 09:47:37,811 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is organic advertising dead and it's better to go to paid advertising.txt
+2025-04-22 09:47:40,704 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-22 09:47:40,748 - DEBUG - Extracted main post content: Hello, just looking for advice regarding project promotion. For instance, I have a small e-commerce business.
+Is it better to go to organic advertising, or paid one? or blend them together?
+
+Thank you!
+2025-04-22 09:47:45,977 - INFO - Successfully generated comments using Gemini API.
+2025-04-22 09:47:45,978 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-22 09:47:48,648 - INFO - performing random action
+2025-04-22 09:47:48,649 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:47:48,649 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:47:48,662 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:47:48,701 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:47:48,709 - DEBUG - Text box scrolled into view
+2025-04-22 09:47:49,554 - DEBUG - Initializing actionchains
+2025-04-22 09:47:49,579 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4170}, size: {'height': 21, 'width': 68}
+2025-04-22 09:47:49,579 - DEBUG - Target click coordinates: (1267, 4180)
+2025-04-22 09:48:01,925 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-22 09:48:01,927 - DEBUG - Moving mouse to text box element.
+2025-04-22 09:48:01,927 - DEBUG - Clicking on the text box.
+2025-04-22 09:48:01,928 - DEBUG - Sending keys with content: Honestly, it's a bit of both, but if you're strapped for cash, nail your SEO first, then sprinkle in paid ads to boost your reach where organic falls short. What are you selling?
+
+2025-04-22 09:48:07,633 - DEBUG - Clicking on post reply button.
+2025-04-22 09:48:18,734 - DEBUG - Performed Actionchains
+2025-04-22 09:48:18,735 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-22 09:48:22,736 - INFO - Comment posted successfully.
+2025-04-22 09:48:22,737 - INFO - Task Completed!!
+2025-04-22 09:48:29,966 - INFO - Navigated back to the homepage.
+2025-04-22 09:48:32,105 - INFO - Attempting to clear memory and resources.
+2025-04-22 09:48:32,180 - INFO - Garbage collection completed.
+2025-04-22 09:48:32,181 - INFO - Waiting for 1800 seconds before next execution.

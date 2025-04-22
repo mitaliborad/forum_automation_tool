@@ -1,0 +1,130 @@
+2025-04-22 09:48:00,945 - INFO - Current time: 1745295480.945145
+2025-04-22 09:48:00,949 - INFO - Token expiration time: 1745306276.07912
+2025-04-22 09:48:00,965 - INFO - Token expiration time: 1745306276.07912
+2025-04-22 09:48:00,979 - INFO - Profile NullBytee: Pausing for 42.80 seconds...
+2025-04-22 09:48:43,785 - INFO - Profile NullBytee: Resuming...
+2025-04-22 09:48:43,787 - INFO - performing random action
+2025-04-22 09:48:43,789 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-22 09:48:43,791 - DEBUG - Scrolling page 4 times.
+2025-04-22 09:48:43,793 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:43,803 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E4EE44D5+25349]
+	(No symbol) [0x00007FF7E4E490F0]
+	(No symbol) [0x00007FF7E4CC5A0A]
+	(No symbol) [0x00007FF7E4CB590C]
+	(No symbol) [0x00007FF7E4CB55FA]
+	(No symbol) [0x00007FF7E4CB329A]
+	(No symbol) [0x00007FF7E4CB3C5F]
+	(No symbol) [0x00007FF7E4CBFC9E]
+	(No symbol) [0x00007FF7E4CD6161]
+	(No symbol) [0x00007FF7E4CDD10A]
+	(No symbol) [0x00007FF7E4CB43CD]
+	(No symbol) [0x00007FF7E4CD5E95]
+	(No symbol) [0x00007FF7E4D6F499]
+	(No symbol) [0x00007FF7E4D472D3]
+	(No symbol) [0x00007FF7E4D106F8]
+	(No symbol) [0x00007FF7E4D11463]
+	GetHandleVerifier [0x00007FF7E526887D+3712685]
+	GetHandleVerifier [0x00007FF7E52808C2+3811058]
+	GetHandleVerifier [0x00007FF7E527457D+3761069]
+	GetHandleVerifier [0x00007FF7E4FB293A+870250]
+	(No symbol) [0x00007FF7E4E542CF]
+	(No symbol) [0x00007FF7E4E4FC14]
+	(No symbol) [0x00007FF7E4E4FDC2]
+	(No symbol) [0x00007FF7E4E3EED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-22 09:53:45,610 - DEBUG - Page scrolled.
+2025-04-22 09:53:47,612 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:49,284 - DEBUG - Page scrolled.
+2025-04-22 09:53:51,290 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:52,557 - DEBUG - Page scrolled.
+2025-04-22 09:53:54,560 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:56,472 - DEBUG - Page scrolled.
+2025-04-22 09:53:58,474 - DEBUG - Random scrolls complete.
+2025-04-22 09:53:58,475 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:53:58,476 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:59,498 - DEBUG - Page scrolled.
+2025-04-22 09:54:01,500 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:54:03,511 - DEBUG - Page scrolled.
+2025-04-22 09:54:05,513 - DEBUG - Random scrolls complete.
+2025-04-22 09:54:17,117 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/domain-names-parking.53/
+2025-04-22 09:54:21,178 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-bpname-cc-a-good-cnobin-reseller.1707050/unread
+2025-04-22 09:54:21,179 - INFO - Profile NullBytee: Restoring window...
+2025-04-22 09:54:23,191 - INFO - performing random action
+2025-04-22 09:54:33,670 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-bpname-cc-a-good-cnobin-reseller.1707050/unread
+2025-04-22 09:54:33,673 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-bpname-cc-a-good-cnobin-reseller.1707050/unread' to visited threads file 'Thread_links.txt'.
+2025-04-22 09:54:33,771 - INFO - Extracted thread title: is bpname.cc a good cnobin reseller
+2025-04-22 09:54:33,771 - DEBUG - Scrolling page 4 times.
+2025-04-22 09:54:33,772 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:54:34,933 - DEBUG - Page scrolled.
+2025-04-22 09:54:36,935 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:54:38,120 - DEBUG - Page scrolled.
+2025-04-22 09:54:40,122 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:54:42,070 - DEBUG - Page scrolled.
+2025-04-22 09:54:44,076 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:54:45,776 - DEBUG - Page scrolled.
+2025-04-22 09:54:47,778 - DEBUG - Random scrolls complete.
+2025-04-22 09:54:50,030 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:54:50,031 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:54:51,789 - DEBUG - Page scrolled.
+2025-04-22 09:54:54,794 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:54:56,414 - DEBUG - Page scrolled.
+2025-04-22 09:54:59,418 - DEBUG - Random scrolls complete.
+2025-04-22 09:54:59,481 - DEBUG - Found 3 like buttons.
+2025-04-22 09:55:02,488 - INFO - Attempting to like 1 posts. There are 3 available.
+2025-04-22 09:55:03,081 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:55:03,112 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:55:03,115 - DEBUG - Liked post number 1 of 1.
+2025-04-22 09:55:07,515 - INFO - Liked 1 posts successfully.
+2025-04-22 09:55:07,517 - INFO - Liked 1 posts successfully.
+2025-04-22 09:55:09,863 - INFO - performing random action
+2025-04-22 09:55:09,865 - DEBUG - Scrolling page 6 times.
+2025-04-22 09:55:09,866 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:11,373 - DEBUG - Page scrolled.
+2025-04-22 09:55:14,376 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:15,460 - DEBUG - Page scrolled.
+2025-04-22 09:55:18,462 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:19,888 - DEBUG - Page scrolled.
+2025-04-22 09:55:22,890 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:24,505 - DEBUG - Page scrolled.
+2025-04-22 09:55:27,509 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:29,322 - DEBUG - Page scrolled.
+2025-04-22 09:55:32,326 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:33,966 - DEBUG - Page scrolled.
+2025-04-22 09:55:36,968 - DEBUG - Random scrolls complete.
+2025-04-22 09:55:39,882 - DEBUG - Total comments in the thread: 3
+2025-04-22 09:56:00,483 - INFO - Post content extracted and saved to Thread-Details/Thread Content\is bpname.cc a good cnobin reseller.txt
+2025-04-22 09:56:03,200 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-22 09:56:03,266 - DEBUG - Extracted main post content: Hey
+is https://bpname.cc/ a good cnobin reseller?
+know who is trusted or which feedback
+and who knows if the domains are really bulletproof
+2025-04-22 09:56:08,487 - INFO - Successfully generated comments using Gemini API.
+2025-04-22 09:56:08,490 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-22 09:56:10,968 - INFO - performing random action
+2025-04-22 09:56:10,972 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:56:10,973 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:56:11,024 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:56:11,111 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:56:11,122 - DEBUG - Text box scrolled into view
+2025-04-22 09:56:12,039 - DEBUG - Initializing actionchains
+2025-04-22 09:56:12,118 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1766}, size: {'height': 21, 'width': 68}
+2025-04-22 09:56:12,119 - DEBUG - Target click coordinates: (1267, 1776)
+2025-04-22 09:56:19,699 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-22 09:56:19,702 - DEBUG - Moving mouse to text box element.
+2025-04-22 09:56:19,703 - DEBUG - Clicking on the text box.
+2025-04-22 09:56:19,706 - DEBUG - Sending keys with content: Honestly, I'd be wary of anyone claiming bulletproof hosting; it's usually a red flag. Have you checked out their uptime history or seen any independent reviews?
+
+2025-04-22 09:56:25,092 - DEBUG - Clicking on post reply button.
+2025-04-22 09:56:36,036 - DEBUG - Performed Actionchains
+2025-04-22 09:56:36,036 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-22 09:56:40,042 - INFO - Comment posted successfully.
+2025-04-22 09:56:40,044 - INFO - Task Completed!!
+2025-04-22 09:56:50,101 - INFO - Navigated back to the homepage.
+2025-04-22 09:56:52,908 - INFO - Attempting to clear memory and resources.
+2025-04-22 09:56:52,992 - INFO - Garbage collection completed.
+2025-04-22 09:56:52,994 - INFO - Waiting for 1800 seconds before next execution.

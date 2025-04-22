@@ -1,0 +1,75 @@
+2025-04-22 10:23:33,945 - INFO - Current time: 1745297613.9455395
+2025-04-22 10:23:33,947 - INFO - Token expiration time: 1745306162.2407336
+2025-04-22 10:23:33,959 - INFO - Token expiration time: 1745306162.2407336
+2025-04-22 10:23:33,961 - INFO - performing random action
+2025-04-22 10:23:33,963 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-22 10:23:33,970 - DEBUG - Scrolling page 2 times.
+2025-04-22 10:23:33,971 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:35,243 - DEBUG - Page scrolled.
+2025-04-22 10:23:37,247 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:38,485 - DEBUG - Page scrolled.
+2025-04-22 10:23:40,486 - DEBUG - Random scrolls complete.
+2025-04-22 10:23:40,492 - DEBUG - Scrolling page 3 times.
+2025-04-22 10:23:40,494 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:42,269 - DEBUG - Page scrolled.
+2025-04-22 10:23:44,273 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:46,236 - DEBUG - Page scrolled.
+2025-04-22 10:23:48,239 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:49,732 - DEBUG - Page scrolled.
+2025-04-22 10:23:51,748 - DEBUG - Random scrolls complete.
+2025-04-22 10:24:01,827 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-04-22 10:24:06,512 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/twitter-x-adult-method.1700223/unread
+2025-04-22 10:24:06,517 - INFO - performing random action
+2025-04-22 10:24:19,202 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/twitter-x-adult-method.1700223/unread
+2025-04-22 10:24:19,203 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/twitter-x-adult-method.1700223/unread' to visited threads file 'Thread_links.txt'.
+2025-04-22 10:24:19,239 - INFO - Extracted thread title: TwitterX Adult Method
+2025-04-22 10:24:19,244 - DEBUG - Scrolling page 2 times.
+2025-04-22 10:24:19,245 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:24:20,424 - DEBUG - Page scrolled.
+2025-04-22 10:24:22,426 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:24:23,666 - DEBUG - Page scrolled.
+2025-04-22 10:24:25,669 - DEBUG - Random scrolls complete.
+2025-04-22 10:24:27,717 - DEBUG - Scrolling page 1 times.
+2025-04-22 10:24:27,719 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:24:29,389 - DEBUG - Page scrolled.
+2025-04-22 10:24:32,390 - DEBUG - Random scrolls complete.
+2025-04-22 10:24:32,456 - DEBUG - Found 20 like buttons.
+2025-04-22 10:24:35,458 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-04-22 10:24:36,226 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 10:24:36,265 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 10:24:36,269 - DEBUG - Liked post number 1 of 2.
+2025-04-22 10:24:41,609 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 10:24:41,632 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 10:24:41,634 - DEBUG - Liked post number 2 of 2.
+2025-04-22 10:24:46,554 - INFO - Liked 2 posts successfully.
+2025-04-22 10:24:46,558 - INFO - Liked 2 posts successfully.
+2025-04-22 10:24:49,020 - INFO - Profile BinaryGhost: Opening random website: https://www.netflix.com/in/
+2025-04-22 10:25:01,779 - INFO - Profile BinaryGhost: Pausing for 30.32 seconds...
+2025-04-22 10:25:32,097 - INFO - Profile BinaryGhost: Resuming...
+2025-04-22 10:25:32,128 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-22 10:25:32,129 - INFO - performing random action
+2025-04-22 10:25:32,130 - DEBUG - Scrolling page 4 times.
+2025-04-22 10:25:32,131 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:33,252 - DEBUG - Page scrolled.
+2025-04-22 10:25:36,254 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:37,769 - DEBUG - Page scrolled.
+2025-04-22 10:25:40,770 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:42,042 - DEBUG - Page scrolled.
+2025-04-22 10:25:45,042 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:46,573 - DEBUG - Page scrolled.
+2025-04-22 10:25:49,575 - DEBUG - Random scrolls complete.
+2025-04-22 10:25:52,078 - DEBUG - Total comments in the thread: 20
+2025-04-22 10:28:17,461 - INFO - Post content extracted and saved to Thread-Details/Thread Content\TwitterX Adult Method.txt
+2025-04-22 10:28:20,112 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-22 10:28:20,161 - DEBUG - Extracted main post content: Anyone making money by posting adult videos on Twitter/X?
+2025-04-22 10:28:23,939 - INFO - Successfully generated comments using Gemini API.
+2025-04-22 10:28:23,941 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-22 10:28:25,976 - INFO - performing random action
+2025-04-22 10:28:25,977 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:28:25,978 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:28:26,002 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:28:26,041 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:28:26,048 - DEBUG - Text box scrolled into view
+2025-04-22 10:28:26,733 - DEBUG - Initializing actionchains
+2025-04-22 10:28:26,777 - DEBUG - Post reply Element location: {'x': 1233, 'y': 6848}, size: {'height': 21, 'width': 68}
+2025-04-22 10:28:26,777 - DEBUG - Target click coordinates: (1267, 6858)

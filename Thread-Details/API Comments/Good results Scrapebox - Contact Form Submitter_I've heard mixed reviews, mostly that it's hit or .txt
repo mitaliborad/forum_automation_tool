@@ -1,0 +1,1 @@
+I've heard mixed reviews, mostly that it's hit or miss with modern captchas and whether emails actually land in inboxes, making it a gamble. Maybe try a smaller test run first?

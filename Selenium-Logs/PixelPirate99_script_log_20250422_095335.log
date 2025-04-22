@@ -1,0 +1,105 @@
+2025-04-22 09:53:35,802 - INFO - Current time: 1745295815.8028224
+2025-04-22 09:53:35,804 - INFO - Token expiration time: 1745306609.9105437
+2025-04-22 09:53:35,808 - INFO - Token expiration time: 1745306609.9105437
+2025-04-22 09:53:35,810 - INFO - performing random action
+2025-04-22 09:53:35,813 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-22 09:53:35,814 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:53:35,815 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:39,706 - DEBUG - Page scrolled.
+2025-04-22 09:53:41,708 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:43,231 - DEBUG - Page scrolled.
+2025-04-22 09:53:45,234 - DEBUG - Random scrolls complete.
+2025-04-22 09:53:45,236 - DEBUG - Scrolling page 4 times.
+2025-04-22 09:53:45,237 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:46,363 - DEBUG - Page scrolled.
+2025-04-22 09:53:48,365 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:49,868 - DEBUG - Page scrolled.
+2025-04-22 09:53:51,870 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:53,470 - DEBUG - Page scrolled.
+2025-04-22 09:53:55,472 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:53:56,718 - DEBUG - Page scrolled.
+2025-04-22 09:53:58,720 - DEBUG - Random scrolls complete.
+2025-04-22 09:54:03,999 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tiktok.279/
+2025-04-22 09:54:08,456 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-many-tiktok-accounts-on-1-iphone.1707029/unread
+2025-04-22 09:54:08,457 - INFO - Profile PixelPirate99: Opening random website: https://www.netflix.com/in/
+2025-04-22 09:54:11,224 - INFO - Profile PixelPirate99: Pausing for 42.55 seconds...
+2025-04-22 09:54:53,782 - INFO - Profile PixelPirate99: Resuming...
+2025-04-22 09:54:53,806 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-22 09:54:53,808 - INFO - performing random action
+2025-04-22 09:55:06,520 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-many-tiktok-accounts-on-1-iphone.1707029/unread
+2025-04-22 09:55:06,523 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-many-tiktok-accounts-on-1-iphone.1707029/unread' to visited threads file 'Thread_links.txt'.
+2025-04-22 09:55:06,639 - INFO - Extracted thread title: How many tiktok accounts on 1 iphone
+2025-04-22 09:55:06,647 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:55:06,648 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:08,669 - DEBUG - Page scrolled.
+2025-04-22 09:55:10,676 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:12,127 - DEBUG - Page scrolled.
+2025-04-22 09:55:14,132 - DEBUG - Random scrolls complete.
+2025-04-22 09:55:16,689 - DEBUG - Scrolling page 3 times.
+2025-04-22 09:55:16,691 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:18,403 - DEBUG - Page scrolled.
+2025-04-22 09:55:21,405 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:22,893 - DEBUG - Page scrolled.
+2025-04-22 09:55:25,895 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:26,946 - DEBUG - Page scrolled.
+2025-04-22 09:55:29,950 - DEBUG - Random scrolls complete.
+2025-04-22 09:55:30,000 - DEBUG - Found 7 like buttons.
+2025-04-22 09:55:33,004 - INFO - Attempting to like 4 posts. There are 7 available.
+2025-04-22 09:55:33,996 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:55:34,036 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:55:34,042 - DEBUG - Liked post number 1 of 4.
+2025-04-22 09:55:39,788 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:55:39,815 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:55:39,817 - DEBUG - Liked post number 2 of 4.
+2025-04-22 09:55:44,747 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:55:44,771 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:55:44,773 - DEBUG - Liked post number 3 of 4.
+2025-04-22 09:55:50,621 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:55:50,651 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:55:50,653 - DEBUG - Liked post number 4 of 4.
+2025-04-22 09:55:55,214 - INFO - Liked 4 posts successfully.
+2025-04-22 09:55:55,216 - INFO - Liked 4 posts successfully.
+2025-04-22 09:55:57,393 - INFO - performing random action
+2025-04-22 09:55:57,395 - DEBUG - Scrolling page 3 times.
+2025-04-22 09:55:57,396 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:55:58,683 - DEBUG - Page scrolled.
+2025-04-22 09:56:01,687 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:56:03,255 - DEBUG - Page scrolled.
+2025-04-22 09:56:06,256 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:56:07,611 - DEBUG - Page scrolled.
+2025-04-22 09:56:10,613 - DEBUG - Random scrolls complete.
+2025-04-22 09:56:13,449 - DEBUG - Total comments in the thread: 7
+2025-04-22 09:56:24,244 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How many tiktok accounts on 1 iphone.txt
+2025-04-22 09:56:26,764 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-22 09:56:26,850 - DEBUG - Extracted main post content: I have been running a bunch of accounts on 3 android devices, I used to do about 10 accounts per phone, could prolly do more but eh, and they seemed to work fine.
+
+But I think you can't clear the app data on an iphone so how many accounts have yall been *safely* running on a single iphone, i made 3 accounts on an iphone xr that i got, I won't do more on it for now, but what do you guys do?
+2025-04-22 09:56:31,966 - INFO - Successfully generated comments using Gemini API.
+2025-04-22 09:56:31,969 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-22 09:56:34,888 - INFO - Profile PixelPirate99: Opening random website: https://github.com/
+2025-04-22 09:56:41,395 - INFO - Profile PixelPirate99: Pausing for 36.66 seconds...
+2025-04-22 09:57:18,053 - INFO - Profile PixelPirate99: Resuming...
+2025-04-22 09:57:18,057 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-22 09:57:18,058 - INFO - performing random action
+2025-04-22 09:57:18,068 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:57:18,069 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:57:18,082 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:57:18,122 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:57:18,128 - DEBUG - Text box scrolled into view
+2025-04-22 09:57:18,893 - DEBUG - Initializing actionchains
+2025-04-22 09:57:18,967 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3053}, size: {'height': 21, 'width': 68}
+2025-04-22 09:57:18,968 - DEBUG - Target click coordinates: (1267, 3063)
+2025-04-22 09:57:29,396 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-22 09:57:29,397 - DEBUG - Moving mouse to text box element.
+2025-04-22 09:57:29,399 - DEBUG - Clicking on the text box.
+2025-04-22 09:57:29,401 - DEBUG - Sending keys with content: iPhones are tougher on app data, that's true. I'd say 5 is pushing it, but curious what others have gotten away with before getting flagged.
+
+2025-04-22 09:57:35,376 - DEBUG - Clicking on post reply button.
+2025-04-22 09:57:46,515 - DEBUG - Performed Actionchains
+2025-04-22 09:57:46,517 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-22 09:57:50,525 - INFO - Comment posted successfully.
+2025-04-22 09:57:50,527 - INFO - Task Completed!!
+2025-04-22 09:57:58,859 - INFO - Navigated back to the homepage.
+2025-04-22 09:58:01,141 - INFO - Attempting to clear memory and resources.
+2025-04-22 09:58:01,217 - INFO - Garbage collection completed.
+2025-04-22 09:58:01,219 - INFO - Waiting for 1800 seconds before next execution.

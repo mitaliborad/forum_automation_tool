@@ -1,0 +1,106 @@
+2025-04-22 10:23:37,560 - INFO - Current time: 1745297617.5599382
+2025-04-22 10:23:37,566 - INFO - Token expiration time: 1745306395.7842455
+2025-04-22 10:23:37,567 - INFO - Token expiration time: 1745306395.7842455
+2025-04-22 10:23:37,569 - INFO - performing random action
+2025-04-22 10:23:37,570 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-22 10:23:37,571 - DEBUG - Scrolling page 4 times.
+2025-04-22 10:23:37,572 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:39,188 - DEBUG - Page scrolled.
+2025-04-22 10:23:41,196 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:42,809 - DEBUG - Page scrolled.
+2025-04-22 10:23:44,811 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:46,624 - DEBUG - Page scrolled.
+2025-04-22 10:23:48,632 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:49,839 - DEBUG - Page scrolled.
+2025-04-22 10:23:51,842 - DEBUG - Random scrolls complete.
+2025-04-22 10:23:51,842 - DEBUG - Scrolling page 2 times.
+2025-04-22 10:23:51,843 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:53,112 - DEBUG - Page scrolled.
+2025-04-22 10:23:55,113 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:23:56,475 - DEBUG - Page scrolled.
+2025-04-22 10:23:58,483 - DEBUG - Random scrolls complete.
+2025-04-22 10:24:07,843 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/instagram.215/
+2025-04-22 10:24:12,696 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-2025-a-good-time-to-start-nsfw-ai-model-accounts.1700295/unread
+2025-04-22 10:24:12,697 - INFO - performing random action
+2025-04-22 10:24:24,163 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-2025-a-good-time-to-start-nsfw-ai-model-accounts.1700295/unread
+2025-04-22 10:24:24,166 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-2025-a-good-time-to-start-nsfw-ai-model-accounts.1700295/unread' to visited threads file 'Thread_links.txt'.
+2025-04-22 10:24:24,266 - INFO - Extracted thread title: Is 2025 a good time to start NSFW AI model accounts
+2025-04-22 10:24:24,267 - DEBUG - Scrolling page 4 times.
+2025-04-22 10:24:24,268 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:24:26,064 - DEBUG - Page scrolled.
+2025-04-22 10:24:28,092 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:24:29,188 - DEBUG - Page scrolled.
+2025-04-22 10:24:31,189 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:24:32,829 - DEBUG - Page scrolled.
+2025-04-22 10:24:34,835 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:24:36,610 - DEBUG - Page scrolled.
+2025-04-22 10:24:38,612 - DEBUG - Random scrolls complete.
+2025-04-22 10:24:41,040 - DEBUG - Scrolling page 1 times.
+2025-04-22 10:24:41,041 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:24:42,093 - DEBUG - Page scrolled.
+2025-04-22 10:24:45,095 - DEBUG - Random scrolls complete.
+2025-04-22 10:24:45,160 - DEBUG - Found 20 like buttons.
+2025-04-22 10:24:48,162 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-22 10:24:48,971 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 10:24:49,024 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 10:24:49,027 - DEBUG - Liked post number 1 of 4.
+2025-04-22 10:24:53,884 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 10:24:53,892 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 10:24:53,892 - DEBUG - Liked post number 2 of 4.
+2025-04-22 10:24:59,325 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 10:24:59,359 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 10:24:59,361 - DEBUG - Liked post number 3 of 4.
+2025-04-22 10:25:05,272 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 10:25:05,316 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 10:25:05,317 - DEBUG - Liked post number 4 of 4.
+2025-04-22 10:25:09,493 - INFO - Liked 4 posts successfully.
+2025-04-22 10:25:09,497 - INFO - Liked 4 posts successfully.
+2025-04-22 10:25:12,222 - INFO - performing random action
+2025-04-22 10:25:12,224 - DEBUG - Scrolling page 6 times.
+2025-04-22 10:25:12,225 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:14,036 - DEBUG - Page scrolled.
+2025-04-22 10:25:17,040 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:18,215 - DEBUG - Page scrolled.
+2025-04-22 10:25:21,217 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:23,142 - DEBUG - Page scrolled.
+2025-04-22 10:25:26,143 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:27,663 - DEBUG - Page scrolled.
+2025-04-22 10:25:30,665 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:31,828 - DEBUG - Page scrolled.
+2025-04-22 10:25:34,829 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 10:25:36,143 - DEBUG - Page scrolled.
+2025-04-22 10:25:39,144 - DEBUG - Random scrolls complete.
+2025-04-22 10:25:41,575 - DEBUG - Total comments in the thread: 20
+2025-04-22 10:26:14,182 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is 2025 a good time to start NSFW AI model accounts.txt
+2025-04-22 10:26:16,972 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-22 10:26:17,019 - DEBUG - Extracted main post content: Hi guys,
+After a long road of whitehat marketing growth, I'm researching the blackhat fields now, and suddenly seeing NSFW AI content on social platforms is getting crazy traffics.
+I've read many threads in this forum about it, but it has been mainly peaking since last year.
+But overall, what do you guys think about the competition in 2025? And the next year?
+
+Thanks to all responders. I really appreciate your replies!
+2025-04-22 10:26:22,332 - INFO - Successfully generated comments using Gemini API.
+2025-04-22 10:26:22,334 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-22 10:26:24,960 - INFO - performing random action
+2025-04-22 10:26:24,963 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:26:24,965 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:26:25,000 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:26:25,042 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:26:25,049 - DEBUG - Text box scrolled into view
+2025-04-22 10:26:25,654 - DEBUG - Initializing actionchains
+2025-04-22 10:26:25,701 - DEBUG - Post reply Element location: {'x': 1233, 'y': 7547}, size: {'height': 21, 'width': 68}
+2025-04-22 10:26:25,702 - DEBUG - Target click coordinates: (1267, 7557)
+2025-04-22 10:26:44,937 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-22 10:26:44,937 - DEBUG - Moving mouse to text box element.
+2025-04-22 10:26:44,938 - DEBUG - Clicking on the text box.
+2025-04-22 10:26:44,940 - DEBUG - Sending keys with content: NSFW AI is hot right now, no doubt, but longevity is the real question, isn't it? Think the gold rush is on now, but by '25, it might be a rusty pan.
+
+2025-04-22 10:26:50,293 - DEBUG - Clicking on post reply button.
+2025-04-22 10:27:01,397 - DEBUG - Performed Actionchains
+2025-04-22 10:27:01,398 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-22 10:27:05,401 - INFO - Comment posted successfully.
+2025-04-22 10:27:05,402 - INFO - Task Completed!!
+2025-04-22 10:27:14,833 - INFO - Navigated back to the homepage.
+2025-04-22 10:27:17,628 - INFO - Attempting to clear memory and resources.
+2025-04-22 10:27:17,668 - INFO - Garbage collection completed.
+2025-04-22 10:27:17,669 - INFO - Waiting for 1800 seconds before next execution.

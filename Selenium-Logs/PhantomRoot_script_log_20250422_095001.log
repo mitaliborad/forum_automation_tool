@@ -1,0 +1,101 @@
+2025-04-22 09:50:01,599 - INFO - Current time: 1745295601.5996487
+2025-04-22 09:50:01,605 - INFO - Token expiration time: 1745306395.7842455
+2025-04-22 09:50:01,610 - INFO - Token expiration time: 1745306395.7842455
+2025-04-22 09:50:01,613 - INFO - performing random action
+2025-04-22 09:50:01,615 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-22 09:50:01,616 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:50:01,616 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:06,208 - DEBUG - Page scrolled.
+2025-04-22 09:50:08,209 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:09,701 - DEBUG - Page scrolled.
+2025-04-22 09:50:11,703 - DEBUG - Random scrolls complete.
+2025-04-22 09:50:11,705 - DEBUG - Scrolling page 4 times.
+2025-04-22 09:50:11,706 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:13,247 - DEBUG - Page scrolled.
+2025-04-22 09:50:15,249 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:16,991 - DEBUG - Page scrolled.
+2025-04-22 09:50:18,993 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:20,795 - DEBUG - Page scrolled.
+2025-04-22 09:50:22,797 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:24,562 - DEBUG - Page scrolled.
+2025-04-22 09:50:26,563 - DEBUG - Random scrolls complete.
+2025-04-22 09:50:29,557 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-04-22 09:50:33,137 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/help-with-qq-registration.1694110/unread
+2025-04-22 09:50:33,138 - INFO - performing random action
+2025-04-22 09:50:40,571 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/help-with-qq-registration.1694110/unread
+2025-04-22 09:50:40,574 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/help-with-qq-registration.1694110/unread' to visited threads file 'Thread_links.txt'.
+2025-04-22 09:50:40,625 - INFO - Extracted thread title: Help with QQ Registration
+2025-04-22 09:50:40,625 - DEBUG - Scrolling page 4 times.
+2025-04-22 09:50:40,626 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:42,068 - DEBUG - Page scrolled.
+2025-04-22 09:50:44,069 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:45,809 - DEBUG - Page scrolled.
+2025-04-22 09:50:47,811 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:49,768 - DEBUG - Page scrolled.
+2025-04-22 09:50:51,770 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:53,217 - DEBUG - Page scrolled.
+2025-04-22 09:50:55,220 - DEBUG - Random scrolls complete.
+2025-04-22 09:50:57,431 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:50:57,433 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:50:59,355 - DEBUG - Page scrolled.
+2025-04-22 09:51:02,356 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:51:03,964 - DEBUG - Page scrolled.
+2025-04-22 09:51:06,965 - DEBUG - Random scrolls complete.
+2025-04-22 09:51:07,013 - DEBUG - Found 10 like buttons.
+2025-04-22 09:51:10,015 - INFO - Attempting to like 3 posts. There are 10 available.
+2025-04-22 09:51:10,747 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:51:10,777 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:51:10,778 - DEBUG - Liked post number 1 of 3.
+2025-04-22 09:51:15,518 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:51:15,538 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:51:15,539 - DEBUG - Liked post number 2 of 3.
+2025-04-22 09:51:20,250 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:51:20,271 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:51:20,272 - DEBUG - Liked post number 3 of 3.
+2025-04-22 09:51:24,325 - INFO - Liked 3 posts successfully.
+2025-04-22 09:51:24,327 - INFO - Liked 3 posts successfully.
+2025-04-22 09:51:26,685 - INFO - performing random action
+2025-04-22 09:51:26,687 - DEBUG - Scrolling page 6 times.
+2025-04-22 09:51:26,688 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:51:28,257 - DEBUG - Page scrolled.
+2025-04-22 09:51:31,259 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:51:32,432 - DEBUG - Page scrolled.
+2025-04-22 09:51:35,434 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:51:36,633 - DEBUG - Page scrolled.
+2025-04-22 09:51:39,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:51:41,631 - DEBUG - Page scrolled.
+2025-04-22 09:51:44,633 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:51:46,273 - DEBUG - Page scrolled.
+2025-04-22 09:51:49,276 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:51:50,938 - DEBUG - Page scrolled.
+2025-04-22 09:51:53,942 - DEBUG - Random scrolls complete.
+2025-04-22 09:51:56,259 - DEBUG - Total comments in the thread: 10
+2025-04-22 09:52:48,159 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Help with QQ Registration.txt
+2025-04-22 09:52:50,444 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-22 09:52:50,540 - DEBUG - Extracted main post content: I'm looking to create a QQ account but I'm not sure how. All the virtual numbers I have tried so far have not worked.
+Thanks
+2025-04-22 09:52:54,154 - INFO - Successfully generated comments using Gemini API.
+2025-04-22 09:52:54,156 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-22 09:52:56,539 - INFO - performing random action
+2025-04-22 09:52:56,540 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:52:56,541 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:52:56,565 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:52:56,622 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 09:52:56,644 - DEBUG - Text box scrolled into view
+2025-04-22 09:52:57,644 - DEBUG - Initializing actionchains
+2025-04-22 09:52:57,669 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3576}, size: {'height': 21, 'width': 68}
+2025-04-22 09:52:57,670 - DEBUG - Target click coordinates: (1267, 3586)
+2025-04-22 09:53:08,750 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-22 09:53:08,752 - DEBUG - Moving mouse to text box element.
+2025-04-22 09:53:08,753 - DEBUG - Clicking on the text box.
+2025-04-22 09:53:08,755 - DEBUG - Sending keys with content: QQ's phone verification is notoriously picky; have you tried asking a friend in China to help you sign up?
+
+2025-04-22 09:53:14,199 - DEBUG - Clicking on post reply button.
+2025-04-22 09:53:25,186 - DEBUG - Performed Actionchains
+2025-04-22 09:53:25,187 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-22 09:53:29,188 - INFO - Comment posted successfully.
+2025-04-22 09:53:29,191 - INFO - Task Completed!!
+2025-04-22 09:53:36,780 - INFO - Navigated back to the homepage.
+2025-04-22 09:53:38,793 - INFO - Attempting to clear memory and resources.
+2025-04-22 09:53:38,836 - INFO - Garbage collection completed.
+2025-04-22 09:53:38,836 - INFO - Waiting for 1800 seconds before next execution.

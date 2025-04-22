@@ -1,0 +1,127 @@
+2025-04-22 09:51:36,011 - INFO - Current time: 1745295696.0114315
+2025-04-22 09:51:36,012 - INFO - Token expiration time: 1745306483.5789433
+2025-04-22 09:51:36,013 - INFO - Token expiration time: 1745306483.5789433
+2025-04-22 09:51:36,014 - INFO - Profile DataPhreak: Restoring window...
+2025-04-22 09:51:38,106 - INFO - performing random action
+2025-04-22 09:51:38,107 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-22 09:51:38,109 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:51:38,110 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:56:38,127 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E4EE44D5+25349]
+	(No symbol) [0x00007FF7E4E490F0]
+	(No symbol) [0x00007FF7E4CC5A0A]
+	(No symbol) [0x00007FF7E4CB590C]
+	(No symbol) [0x00007FF7E4CB55FA]
+	(No symbol) [0x00007FF7E4CB329A]
+	(No symbol) [0x00007FF7E4CB3C5F]
+	(No symbol) [0x00007FF7E4CBFC9E]
+	(No symbol) [0x00007FF7E4CD6161]
+	(No symbol) [0x00007FF7E4CDD10A]
+	(No symbol) [0x00007FF7E4CB43CD]
+	(No symbol) [0x00007FF7E4CD5E95]
+	(No symbol) [0x00007FF7E4D6F499]
+	(No symbol) [0x00007FF7E4D472D3]
+	(No symbol) [0x00007FF7E4D106F8]
+	(No symbol) [0x00007FF7E4D11463]
+	GetHandleVerifier [0x00007FF7E526887D+3712685]
+	GetHandleVerifier [0x00007FF7E52808C2+3811058]
+	GetHandleVerifier [0x00007FF7E527457D+3761069]
+	GetHandleVerifier [0x00007FF7E4FB293A+870250]
+	(No symbol) [0x00007FF7E4E542CF]
+	(No symbol) [0x00007FF7E4E4FC14]
+	(No symbol) [0x00007FF7E4E4FDC2]
+	(No symbol) [0x00007FF7E4E3EED9]
+	BaseThreadInitThunk [0x00007FF9E7EE7374+20]
+	RtlUserThreadStart [0x00007FF9E9B3CC91+33]
+
+2025-04-22 09:56:39,265 - DEBUG - Page scrolled.
+2025-04-22 09:56:41,271 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:56:42,964 - DEBUG - Page scrolled.
+2025-04-22 09:56:44,967 - DEBUG - Random scrolls complete.
+2025-04-22 09:56:44,967 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:56:44,968 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:56:46,069 - DEBUG - Page scrolled.
+2025-04-22 09:56:48,071 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:56:49,999 - DEBUG - Page scrolled.
+2025-04-22 09:56:52,001 - DEBUG - Random scrolls complete.
+2025-04-22 09:57:02,589 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-04-22 09:57:06,940 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/do-i-need-dedicated-ip-address-hosting-for-my-sites.1698674/unread
+2025-04-22 09:57:06,941 - INFO - performing random action
+2025-04-22 09:57:14,109 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/do-i-need-dedicated-ip-address-hosting-for-my-sites.1698674/unread
+2025-04-22 09:57:14,112 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/do-i-need-dedicated-ip-address-hosting-for-my-sites.1698674/unread' to visited threads file 'Thread_links.txt'.
+2025-04-22 09:57:14,220 - INFO - Extracted thread title: Do i need dedicated IP address hosting for my sites
+2025-04-22 09:57:14,225 - DEBUG - Scrolling page 2 times.
+2025-04-22 09:57:14,227 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:57:15,621 - DEBUG - Page scrolled.
+2025-04-22 09:57:17,622 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:57:19,000 - DEBUG - Page scrolled.
+2025-04-22 09:57:21,001 - DEBUG - Random scrolls complete.
+2025-04-22 09:57:23,844 - DEBUG - Scrolling page 4 times.
+2025-04-22 09:57:23,846 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:57:25,259 - DEBUG - Page scrolled.
+2025-04-22 09:57:28,267 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:57:29,685 - DEBUG - Page scrolled.
+2025-04-22 09:57:32,691 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:57:33,727 - DEBUG - Page scrolled.
+2025-04-22 09:57:36,730 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:57:38,521 - DEBUG - Page scrolled.
+2025-04-22 09:57:41,523 - DEBUG - Random scrolls complete.
+2025-04-22 09:57:41,570 - DEBUG - Found 5 like buttons.
+2025-04-22 09:57:44,572 - INFO - Attempting to like 1 posts. There are 5 available.
+2025-04-22 09:57:45,276 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-22 09:57:45,313 - INFO - Like button clicked successfully using JavaScript.
+2025-04-22 09:57:45,322 - DEBUG - Liked post number 1 of 1.
+2025-04-22 09:57:49,456 - INFO - Liked 1 posts successfully.
+2025-04-22 09:57:49,458 - INFO - Liked 1 posts successfully.
+2025-04-22 09:57:51,856 - INFO - Profile DataPhreak: Pausing for 41.63 seconds...
+2025-04-22 09:58:33,495 - INFO - Profile DataPhreak: Resuming...
+2025-04-22 09:58:33,497 - INFO - performing random action
+2025-04-22 09:58:33,499 - DEBUG - Scrolling page 4 times.
+2025-04-22 09:58:33,504 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:58:34,538 - DEBUG - Page scrolled.
+2025-04-22 09:58:37,539 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:58:39,427 - DEBUG - Page scrolled.
+2025-04-22 09:58:42,429 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:58:44,065 - DEBUG - Page scrolled.
+2025-04-22 09:58:47,068 - DEBUG - Scrolling page by 500 pixels.
+2025-04-22 09:58:48,479 - DEBUG - Page scrolled.
+2025-04-22 09:58:51,481 - DEBUG - Random scrolls complete.
+2025-04-22 09:58:54,177 - DEBUG - Total comments in the thread: 5
+2025-04-22 09:59:25,569 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Do i need dedicated IP address hosting for my sites.txt
+2025-04-22 09:59:28,182 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-22 09:59:28,212 - DEBUG - Extracted main post content: Hi
+
+I have a site and soon i will have another one in the same niche but with different images, product and meta descriptions. Sites are with woocommerce and i was thinking getting host for woocommerce with chemicloud which is cheaper version of hosting. Do i need dedicated IP address for each of my site so i wont get penalized by google and wont hurt SEO or i can go with my small budget with the cheaper version which is wordpress woocommerce hosting?
+
+Thanks
+2025-04-22 09:59:32,805 - INFO - Successfully generated comments using Gemini API.
+2025-04-22 09:59:32,808 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-22 09:59:35,459 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-22 09:59:44,581 - INFO - Profile DataPhreak: Pausing for 42.66 seconds...
+2025-04-22 10:00:27,242 - INFO - Profile DataPhreak: Resuming...
+2025-04-22 10:00:27,254 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-22 10:00:27,255 - INFO - performing random action
+2025-04-22 10:00:27,256 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:00:27,257 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:00:27,278 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:00:27,320 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-22 10:00:27,330 - DEBUG - Text box scrolled into view
+2025-04-22 10:00:28,304 - DEBUG - Initializing actionchains
+2025-04-22 10:00:28,322 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2554}, size: {'height': 21, 'width': 68}
+2025-04-22 10:00:28,323 - DEBUG - Target click coordinates: (1267, 2564)
+2025-04-22 10:00:37,052 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-22 10:00:37,053 - DEBUG - Moving mouse to text box element.
+2025-04-22 10:00:37,054 - DEBUG - Clicking on the text box.
+2025-04-22 10:00:37,055 - DEBUG - Sending keys with content: Honestly, unless you're running into specific SSL or email deliverability issues, a dedicated IP probably isn't worth the extra cost. Focus on making each site unique and valuable, and you should be fine.
+
+2025-04-22 10:00:42,216 - DEBUG - Clicking on post reply button.
+2025-04-22 10:00:52,088 - DEBUG - Performed Actionchains
+2025-04-22 10:00:52,088 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-22 10:00:56,089 - INFO - Comment posted successfully.
+2025-04-22 10:00:56,091 - INFO - Task Completed!!
+2025-04-22 10:01:03,401 - INFO - Navigated back to the homepage.
+2025-04-22 10:01:06,300 - INFO - Attempting to clear memory and resources.
+2025-04-22 10:01:06,356 - INFO - Garbage collection completed.
+2025-04-22 10:01:06,357 - INFO - Waiting for 1800 seconds before next execution.

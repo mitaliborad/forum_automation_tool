@@ -1,13 +1,13 @@
 --- Main Post Title ---
 Help with QQ Registration
 
-Total comments in the thread: 6
+Total comments in the thread: 10
 
 Topic User: smallgun
 Topic: I'm looking to create a QQ account but I'm not sure how. All the virtual numbers I have tried so far have not worked.
 Thanks
-Liked by: You, ZeroDayHunter
-Number of likes: 2
+Liked by: You
+Number of likes: 1
 -----
 
 Replies:
@@ -15,8 +15,8 @@ Replies:
 
 Topic User: ChrisHasADog
 Topic: As far as I know they only accept China, why choose it when most of its audience is now minors
-Liked by: You, ZeroDayHunter
-Number of likes: 2
+Liked by: You
+Number of likes: 1
 -----
 
 Replies:
@@ -27,8 +27,8 @@ Topic: smallgun said:
 I'm looking to create a QQ account but I'm not sure how. All the virtual numbers I have tried so far have not worked.
 Thanks
 I remember that it allows you to register an account by using a China Hong Kong mobile phone, which is easier to purchase than a mainland China mobile phone number.
-Liked by: You, ZeroDayHunter
-Number of likes: 2
+Liked by: You
+Number of likes: 1
 -----
 
 Replies:
@@ -36,7 +36,7 @@ Replies:
 
 Topic User: hadeyjumor
 Topic: You from China? QQ not accept other country. It's available only in China.
-Liked by: You, ZeroDayHunter
+Liked by: NullBytee, ZeroDayHunter
 Number of likes: 2
 -----
 
@@ -62,6 +62,42 @@ You can choose country code, and a foreign phone number to complete verification
 And for any issues, contact Tencent Customer Service, have a try bro.
 Liked by: No user likes
 Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ZeroDayHunter
+Topic: QQ's a tough nut to crack these days; have you tried using a VPN set to China while signing up? Heard that helps sometimes.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: NullBytee
+Topic: QQ's a pain to sign up for these days; have you tried asking a friend in China to help verify your account?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Proxy Cake
+Topic: Don't use a VPN, you'll want to use residential proxies to not raise any red flags
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: natsuko
+Topic: Check with online SIM rental sites, some still work for QQ.
+Liked by: MR.Spuf
+Number of likes: 1
 -----
 
 Replies:

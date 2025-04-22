@@ -1,0 +1,289 @@
+--- Main Post Title ---
+Is C++ a good choice to make bots?
+
+Total comments in the thread: 20
+
+Topic User: Salls
+Topic: Hello!
+
+I am quite familiar with JavaScript and I need to learn new programming language for making bots.
+Bots for communicators (ICQ, Skype, Trillian and many other). Somebody whop type to me this bot should answer everyone.
+And the bots for Facebook (private messages), Pinterest (make follows) and other.
+
+Is C++ a good choice for making these kind of bots?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: JohnyMSF
+Topic: Yea C++ can be usefull, but if you don't know too much programming don't do C++ .
+C++ is hard language, and you have to know what are you doing.
+
+For bots python is best, it's very easy to learn language, simple to use, lot's of libraries etc.
+I don't know any libraries for Skype or ICQ but i bet you will find some.
+
+Python is your best friend here.
+
+
+What kind of answers they are suppose to be? It's same every time or based on previous message?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: itz_styx
+Topic: C++ is great if you already have a programming background and dont want to go the lazy way like most hobby programmers to "just get it done the easy way".
+with C++ you can create programs that perform way more efficient and faster than stuff made in python or similar, but you have to take care of memory handling and this can cost more debugging time.
+i would suggest you start with C# and then move to C++ if you feel like it.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: JohnyMSF
+Topic: itz_styx said:
+C++ is great if you already have a programming background and dont want to go the lazy way like most hobby programmers to "just get it done the easy way".
+with C++ you can create programs that perform way more efficient and faster than stuff made in python or similar, but you have to take care of memory handling and this can cost more debugging time.
+i would suggest you start with C# and then move to C++ if you feel like it.
+So simple elegant solution must be lazy? What?
+So why TensorFlow is made in python...
+I like when everybody forget about numpy and say python is slow. (it's slow)
+Liked by: You, greydingo
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: itz_styx
+Topic: python is just the first client language, but TensorFlow core is made in C++ as far as i know...
+look around almost everything of the more complex and advanced programs you rely on are made in C/C++, your OS, browsers etc and that is for a reason.
+python is a language that was made to make things easier, but its also slower and more bloated as you rely on all kinds of libs (offten made in C btw) without doing it yourself and without having to know anything about how things really work. hence why it is prefered by hobby programmers i.e. python + selenium instead of using pure http requests.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: thetrustedzone
+Topic: Salls said:
+Hello!
+
+I am quite familiar with JavaScript and I need to learn new programming language for making bots.
+Bots for communicators (ICQ, Skype, Trillian and many other). Somebody whop type to me this bot should answer everyone.
+And the bots for Facebook (private messages), Pinterest (make follows) and other.
+
+Is C++ a good choice for making these kind of bots?
+
+c++ is great language , but keep in mind learning curve and coding/testing time is longer than other new languages like c# or python , c++ not for individual coder , companies uses c++ they have team of skilled c++ coders ..., i recommend to use c# will do all of what you mentioned above , python is a choice also .
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: JohnyMSF
+Topic: itz_styx said:
+python is just the first client language, but TensorFlow core is made in C++ as far as i know...
+look around almost everything of the more complex and advanced programs you rely on are made in C/C++, your OS, browsers etc and that is for a reason.
+python is a language that was made to make things easier, but its also slower and more bloated as you rely on all kinds of libs (offten made in C btw) without doing it yourself and without having to know anything about how things really work. hence why it is prefered by hobby programmers i.e. python + selenium instead of using pure http requests.
+Yes exactly, everything solid is made is C++
+But he just want some auto-reply bot.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: itz_styx
+Topic: JohnyMSF said:
+Yes exactly, everything solid is made is C++
+But he just want some auto-reply bot.
+and he asked about C++ so i gave my opinion on it. if he wants to start with it, its good, you don't always have to use the easiest solution as its often not the best, thats all i'm saying.
+of course if you just want something that works and dont care how its done or if its efficient, then yes some easy language would be fine too.
+Liked by: JohnyMSF
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: buzzaldrin
+Topic: I suggest starting with Python.
+C++ is overkill for most projects and a pain in the ass to handle.
+Python, on the other hand, comes with thousands of libraries, examples etc...
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: alphawow
+Topic: Do not bother with c++ if you want to create a couple of bots. Don't get me wrong, it is a great language, but there is no need to spend so much longer time to create a bot in c++ when you can do it for couple hours in c# or python if you have some knowledge of programming.
+I don't know what your skills are, but c++ is for advanced programmers.
+That's why so many languages are in existence - to make our busy lives easier.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Kissmyskunk
+Topic: If you start from scratch you should go with python. There is a bunch of libraries which can be used to build such a bot.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: i_code
+Topic: I would say C# is the best way to go but its a matter of opinion.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ziko12345
+Topic: Python is the best.
+C# is also good
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: borowest
+Topic: Yes C++ or C#
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: SmartPlay
+Topic: This is like asking what car is better lambo or porche. Both will get you to the destination. I like porche you like lambo. There is no best language...
+Last edited: Jan 27, 2020
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Gogol
+Topic: The best language is usually the language that you know. C++ is pretty good. Python, perl works too. If you already know something, use it. You could also try node.js as you said you know js.
+Liked by: greydingo
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Claire King
+Topic: Salls said:
+Hello!
+
+I am quite familiar with JavaScript and I need to learn new programming language for making bots.
+Bots for communicators (ICQ, Skype, Trillian and many other). Somebody whop type to me this bot should answer everyone.
+And the bots for Facebook (private messages), Pinterest (make follows) and other.
+
+Is C++ a good choice for making these kind of bots?
+Hell no. Take a look at a GET request in C++ vs Python:
+
+C++:
+Code:
+#include <curl/curl.h>
+#include <string>
+
+size_t writeFunction(void *ptr, size_t size, size_t nmemb, std::string* data) {
+    data->append((char*) ptr, size * nmemb);
+    return size * nmemb;
+}
+
+int main(int argc, char** argv) {
+    auto curl = curl_easy_init();
+    if (curl) {
+        curl_easy_setopt(curl, CURLOPT_URL, "https://api.github.com/repos/whoshuu/cpr/contributors?anon=true&key=value");
+        curl_easy_setopt(curl, CURLOPT_NOPROGRESS, 1L);
+        curl_easy_setopt(curl, CURLOPT_USERPWD, "user:pass");
+        curl_easy_setopt(curl, CURLOPT_USERAGENT, "curl/7.42.0");
+        curl_easy_setopt(curl, CURLOPT_MAXREDIRS, 50L);
+        curl_easy_setopt(curl, CURLOPT_TCP_KEEPALIVE, 1L);
+        
+        std::string response_string;
+        std::string header_string;
+        curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, writeFunction);
+        curl_easy_setopt(curl, CURLOPT_WRITEDATA, &response_string);
+        curl_easy_setopt(curl, CURLOPT_HEADERDATA, &header_string);
+        
+        char* url;
+        long response_code;
+        double elapsed;
+        curl_easy_getinfo(curl, CURLINFO_RESPONSE_CODE, &response_code);
+        curl_easy_getinfo(curl, CURLINFO_TOTAL_TIME, &elapsed);
+        curl_easy_getinfo(curl, CURLINFO_EFFECTIVE_URL, &url);
+        
+        curl_easy_perform(curl);
+        curl_easy_cleanup(curl);
+        curl = NULL;
+    }
+}
+
+Python:
+
+Code:
+import requests
+
+if __name__ == '__main__':
+    requests.get('https://google.com')
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Jasmine Gill
+Topic: C++ is the great but I suggest you use python, it have bunch of libraries which can be used to build such a bot.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: francis christin
+Topic: if you want perfomance & stability you need c++ or java
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Adspect
+Topic: No, C++ is not a good language for coding something utility like bots. It is both too complex and too detailed for that. You'll find yourself spending too much time writing boilerplate code, abstractions, etc. instead of actual working logic. As a rule of thumb: do not code utility stuff like bots in compiled languages. Interpreted or JIT-compiled languages like Python, PHP, Lua, and Ruby are the best fit for the task.
+Liked by: OccultKingdoms, RAP, greydingo
+Number of likes: 3
+-----
+
+Replies:
+
+
