@@ -1,0 +1,98 @@
+2025-04-26 15:35:00,281 - INFO - Current time: 1745661900.2814083
+2025-04-26 15:35:00,284 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 15:35:00,285 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 15:35:00,286 - INFO - performing random action
+2025-04-26 15:35:00,287 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:35:00,287 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:35:00,288 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:01,620 - DEBUG - Page scrolled.
+2025-04-26 15:35:03,623 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:04,975 - DEBUG - Page scrolled.
+2025-04-26 15:35:06,977 - DEBUG - Random scrolls complete.
+2025-04-26 15:35:06,979 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:35:06,979 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:08,812 - DEBUG - Page scrolled.
+2025-04-26 15:35:10,815 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:12,094 - DEBUG - Page scrolled.
+2025-04-26 15:35:14,095 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:15,370 - DEBUG - Page scrolled.
+2025-04-26 15:35:17,372 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:18,732 - DEBUG - Page scrolled.
+2025-04-26 15:35:20,733 - DEBUG - Random scrolls complete.
+2025-04-26 15:35:28,915 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-26 15:35:32,821 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/wise-were-closing-your-account-on-may-xx-please-take-your-money-out-before-it-closes.1687726/unread
+2025-04-26 15:35:32,822 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-26 15:35:34,825 - INFO - performing random action
+2025-04-26 15:35:44,910 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/wise-were-closing-your-account-on-may-xx-please-take-your-money-out-before-it-closes.1687726/unread
+2025-04-26 15:35:44,913 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/wise-were-closing-your-account-on-may-xx-please-take-your-money-out-before-it-closes.1687726/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:35:44,956 - INFO - Extracted thread title: Wise We're closing your account on May XX. Please take your money out before it closes.
+2025-04-26 15:35:44,957 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:35:44,958 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:46,866 - DEBUG - Page scrolled.
+2025-04-26 15:35:48,868 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:50,053 - DEBUG - Page scrolled.
+2025-04-26 15:35:52,054 - DEBUG - Random scrolls complete.
+2025-04-26 15:35:54,540 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:35:54,542 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:55,757 - DEBUG - Page scrolled.
+2025-04-26 15:35:58,759 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:36:00,110 - DEBUG - Page scrolled.
+2025-04-26 15:36:03,112 - DEBUG - Random scrolls complete.
+2025-04-26 15:36:03,152 - DEBUG - Found 13 like buttons.
+2025-04-26 15:36:06,153 - INFO - Attempting to like 4 posts. There are 13 available.
+2025-04-26 15:36:06,915 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:36:06,930 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:36:06,931 - DEBUG - Liked post number 1 of 4.
+2025-04-26 15:36:12,651 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:36:12,673 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:36:12,675 - DEBUG - Liked post number 2 of 4.
+2025-04-26 15:36:18,041 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:36:18,056 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:36:18,058 - DEBUG - Liked post number 3 of 4.
+2025-04-26 15:36:23,602 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:36:23,613 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:36:23,613 - DEBUG - Liked post number 4 of 4.
+2025-04-26 15:36:28,167 - INFO - Liked 4 posts successfully.
+2025-04-26 15:36:28,169 - INFO - Liked 4 posts successfully.
+2025-04-26 15:36:30,907 - INFO - performing random action
+2025-04-26 15:36:30,909 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:36:30,911 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:36:32,704 - DEBUG - Page scrolled.
+2025-04-26 15:36:35,705 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:36:37,089 - DEBUG - Page scrolled.
+2025-04-26 15:36:40,096 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:36:41,784 - DEBUG - Page scrolled.
+2025-04-26 15:36:44,786 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:36:46,617 - DEBUG - Page scrolled.
+2025-04-26 15:36:49,618 - DEBUG - Random scrolls complete.
+2025-04-26 15:36:52,217 - DEBUG - Total comments in the thread: 13
+2025-04-26 15:38:16,880 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Wise We're closing your account on May XX. Please take your money out before it closes..txt
+2025-04-26 15:38:18,990 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:38:19,038 - DEBUG - Extracted main post content: I just receiving a payment from a Marketplace and suddenly received that message, and my wise account will be blocked
+
+Any experience?
+2025-04-26 15:38:22,884 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:38:22,887 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:38:25,149 - INFO - performing random action
+2025-04-26 15:38:25,150 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:38:25,151 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:38:25,167 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:38:25,209 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:38:25,214 - DEBUG - Text box scrolled into view
+2025-04-26 15:38:26,103 - DEBUG - Initializing actionchains
+2025-04-26 15:38:26,157 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4777}, size: {'height': 21, 'width': 68}
+2025-04-26 15:38:26,158 - DEBUG - Target click coordinates: (1267, 4787)
+2025-04-26 15:38:39,399 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:38:39,400 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:38:39,401 - DEBUG - Clicking on the text box.
+2025-04-26 15:38:39,403 - DEBUG - Sending keys with content: Yeah, that sucks. Contact Wise support ASAP and try to get ahead of their questions; being proactive might help get it unlocked faster.
+
+2025-04-26 15:38:44,548 - DEBUG - Clicking on post reply button.
+2025-04-26 15:38:55,534 - DEBUG - Performed Actionchains
+2025-04-26 15:38:55,535 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:38:59,536 - INFO - Comment posted successfully.
+2025-04-26 15:38:59,538 - INFO - Task Completed!!
+2025-04-26 15:39:06,625 - INFO - Navigated back to the homepage.
+2025-04-26 15:39:09,171 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:39:09,219 - INFO - Garbage collection completed.
+2025-04-26 15:39:09,219 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,99 @@
+2025-04-26 14:27:13,619 - INFO - Current time: 1745657833.6195126
+2025-04-26 14:27:13,620 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 14:27:13,620 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 14:27:13,622 - INFO - performing random action
+2025-04-26 14:27:13,623 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:27:13,623 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:27:13,623 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:24,309 - DEBUG - Page scrolled.
+2025-04-26 14:27:26,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:27,523 - DEBUG - Page scrolled.
+2025-04-26 14:27:29,525 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:30,804 - DEBUG - Page scrolled.
+2025-04-26 14:27:32,806 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:33,883 - DEBUG - Page scrolled.
+2025-04-26 14:27:35,885 - DEBUG - Random scrolls complete.
+2025-04-26 14:27:35,886 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:27:35,887 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:37,814 - DEBUG - Page scrolled.
+2025-04-26 14:27:39,815 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:41,319 - DEBUG - Page scrolled.
+2025-04-26 14:27:43,321 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:45,315 - DEBUG - Page scrolled.
+2025-04-26 14:27:47,317 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:49,099 - DEBUG - Page scrolled.
+2025-04-26 14:27:51,100 - DEBUG - Random scrolls complete.
+2025-04-26 14:27:55,928 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-26 14:27:59,946 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/anyone-using-mobile-proxies-for-facebook-successfully.1708479/unread
+2025-04-26 14:27:59,946 - INFO - performing random action
+2025-04-26 14:28:09,812 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/anyone-using-mobile-proxies-for-facebook-successfully.1708479/unread
+2025-04-26 14:28:09,815 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/anyone-using-mobile-proxies-for-facebook-successfully.1708479/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:28:09,849 - INFO - Extracted thread title: www.blackhatworld.com
+2025-04-26 14:28:09,849 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:28:09,850 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:10,969 - DEBUG - Page scrolled.
+2025-04-26 14:28:12,970 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:19,479 - DEBUG - Page scrolled.
+2025-04-26 14:28:21,480 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:23,476 - DEBUG - Page scrolled.
+2025-04-26 14:28:25,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:26,658 - DEBUG - Page scrolled.
+2025-04-26 14:28:28,659 - DEBUG - Random scrolls complete.
+2025-04-26 14:28:30,724 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:28:30,725 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:32,311 - DEBUG - Page scrolled.
+2025-04-26 14:28:35,312 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:36,361 - DEBUG - Page scrolled.
+2025-04-26 14:28:39,362 - DEBUG - Random scrolls complete.
+2025-04-26 14:28:39,392 - DEBUG - Found 1 like buttons.
+2025-04-26 14:28:42,393 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-26 14:28:43,123 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:28:43,160 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:28:43,161 - DEBUG - Liked post number 1 of 1.
+2025-04-26 14:28:47,713 - INFO - Liked 1 posts successfully.
+2025-04-26 14:28:47,718 - INFO - Liked 1 posts successfully.
+2025-04-26 14:28:49,791 - INFO - performing random action
+2025-04-26 14:28:49,793 - DEBUG - Scrolling page 6 times.
+2025-04-26 14:28:49,794 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:51,485 - DEBUG - Page scrolled.
+2025-04-26 14:28:54,487 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:56,204 - DEBUG - Page scrolled.
+2025-04-26 14:28:59,206 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:29:01,143 - DEBUG - Page scrolled.
+2025-04-26 14:29:04,145 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:29:05,757 - DEBUG - Page scrolled.
+2025-04-26 14:29:08,760 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:29:09,982 - DEBUG - Page scrolled.
+2025-04-26 14:29:12,984 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:29:14,242 - DEBUG - Page scrolled.
+2025-04-26 14:29:17,244 - DEBUG - Random scrolls complete.
+2025-04-26 14:29:19,378 - DEBUG - Total comments in the thread: 1
+2025-04-26 14:29:19,489 - INFO - Post content extracted and saved to Thread-Details/Thread Content\www.blackhatworld.com.txt
+2025-04-26 14:29:22,378 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:29:22,439 - DEBUG - Extracted main post content: I need help with this! I'm thinking about using mobile proxies for Facebook but not sure if they work well. Has anyone used them for managing accounts, scraping, or ads?
+2025-04-26 14:29:25,857 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:29:25,859 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:29:27,957 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-26 14:29:29,967 - INFO - performing random action
+2025-04-26 14:29:29,969 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:29:29,970 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:29:30,003 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:29:30,044 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:29:30,051 - DEBUG - Text box scrolled into view
+2025-04-26 14:29:30,679 - DEBUG - Initializing actionchains
+2025-04-26 14:29:30,699 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1076}, size: {'height': 21, 'width': 68}
+2025-04-26 14:29:30,700 - DEBUG - Target click coordinates: (1267, 1086)
+2025-04-26 14:29:36,553 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:29:36,553 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:29:36,554 - DEBUG - Clicking on the text box.
+2025-04-26 14:29:36,554 - DEBUG - Sending keys with content: Mobile proxies can be good for avoiding blocks, but I'd test a small batch first to see if they're worth the cost for your specific use case.
+
+2025-04-26 14:29:42,107 - DEBUG - Clicking on post reply button.
+2025-04-26 14:29:43,138 - DEBUG - Performed Actionchains
+2025-04-26 14:29:43,139 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:29:47,140 - INFO - Comment posted successfully.
+2025-04-26 14:29:47,141 - INFO - Task Completed!!
+2025-04-26 14:29:49,535 - INFO - Navigated back to the homepage.
+2025-04-26 14:29:51,869 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:29:51,899 - INFO - Garbage collection completed.
+2025-04-26 14:29:51,900 - INFO - Waiting for 1000 seconds before next execution.

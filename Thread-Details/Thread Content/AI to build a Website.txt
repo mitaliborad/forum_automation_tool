@@ -1,7 +1,7 @@
 --- Main Post Title ---
 AI to build a Website
 
-Total comments in the thread: 2
+Total comments in the thread: 12
 
 Topic User: AllAboutTheMoneyTeam
 Topic: Are there now AIs that can create websites well? I know in the beginning the AIs were very bad but now they are very good.
@@ -11,8 +11,8 @@ Does anyone know or use an AI for this? I sometimes use Grok and it always helps
 Is it a good idea to use AI code in your website or even just code from AI? What about SEO? Seo experts here who have tested this?
 
 I would prefer free of course.
-Liked by: No user likes
-Number of likes: 0
+Liked by: You, DarkCodeX
+Number of likes: 2
 -----
 
 Replies:
@@ -20,8 +20,115 @@ Replies:
 
 Topic User: adschimmo
 Topic: In terms of SEO, you can use AI to write content and then use another tool to check if the content is written by AI or not because Google does not like content written by AI. Then we need another tool to check for duplicate content.
-Liked by: You
+Liked by: DarkCodeX, Emma xx
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Emma xx
+Topic: Honestly, they're getting better, but I still wouldn't trust AI to build a whole site without a human double-check, especially for SEO stuff. Maybe use it for generating code snippets or brainstorming content ideas, but keep a close eye on the quality.
+Liked by: DarkCodeX
 Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: DarkCodeX
+Topic: Honestly, they're getting there, but still need a human touch. Have you tried tweaking the AI-generated code and seeing how it impacts your site's load times or mobile responsiveness?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: india
+Topic: I tried to build a website using AI on Claude and it looks cool. But if you are not a coder/developer you wont be able to modify it. You need some skills to modify it to make it work for you. Otherwise it give you result like themplate.
+YTbot.com - Stable SMM Panel|Never-Drop Youtube Views|HQ Instagram Followers|Only Stable Services
+SMMLegend.com - All You Needs Met In One Place - TG @SMMLegend
+All Kinds of Removals - SM/Ads Accounts - SEO/Traffic - Lookups & More Unique Services
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Software Monster
+Topic: You're totally right—AI for website creation has come a long way. What used to be clunky and limited is now shockingly good, especially with the newer models (like GPT-4, Gemini, Claude, and Grok). Many developers, agencies, and freelancers now integrate AI into their workflows either to build entire websites or to speed up parts of the process.
+Web Application Mobile APP Wordpress clone
+WhatsApp: +8801705518133
+Telegram: @techtuneit
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: V
+Topic: Have you tried Cursor AI? It's a good one.
+️ Low Fraud Score on Scamalytics: High-Quality ProxiesResidential, Mobile, StaticBest Value at $0.49/GB
+YTbot.com - Never-Drop Retention Youtube Views|HQ USA Youtube Subscribers|Advanced Dripfeed Option
+Real Twitter accounts with manual growth The Difference Is Real. So Are the FollowersSerious Accounts for Serious Marketers. Starting $29
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Hatsuko
+Topic: With AI, you'll be stuck since you can't fully customize your website.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: umitsarii
+Topic: You can do it but it is not very healthy, I tried it.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: AngelGoddess0809
+Topic: AllAboutTheMoneyTeam said:
+Are there now AIs that can create websites well? I know in the beginning the AIs were very bad but now they are very good.
+
+Does anyone know or use an AI for this? I sometimes use Grok and it always helps me very well but of course it's not specialized.
+
+Is it a good idea to use AI code in your website or even just code from AI? What about SEO? Seo experts here who have tested this?
+
+I would prefer free of course.
+AI can do much more than that with the right prompts, and even experienced coders take lines from these codes to add to theirs. Some even use the whole script itself just to create their own website and no one would notice the difference. In my experience, you just have to create a prompt that is direct, concise and structured in a way that AI would understand. Just like giving instructions to a High Schooler or a college student.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Lufut
+Topic: Wix ADI is an AI-powered design assistant that asks you a few questions about your business and design preferences, then generates a fully functional website tailored to your needs.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Jongosv2.0
+Topic: Vercel ai pretty decent, windsurf also decent ...there's one who create fantastic UI but sadly only support CSR ..not good for seo
+Liked by: No user likes
+Number of likes: 0
 -----
 
 Replies:

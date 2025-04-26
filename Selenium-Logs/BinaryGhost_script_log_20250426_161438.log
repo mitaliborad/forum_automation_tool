@@ -1,0 +1,109 @@
+2025-04-26 16:14:38,270 - INFO - Current time: 1745664278.2701662
+2025-04-26 16:14:38,271 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 16:14:38,271 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 16:14:38,272 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-26 16:14:38,275 - INFO - Profile BinaryGhost: Window minimized. Pausing for 27.96 seconds...
+2025-04-26 16:15:06,236 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-26 16:15:06,237 - INFO - performing random action
+2025-04-26 16:15:06,238 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 16:15:06,239 - DEBUG - Scrolling page 2 times.
+2025-04-26 16:15:06,240 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:07,262 - DEBUG - Page scrolled.
+2025-04-26 16:15:09,264 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:10,449 - DEBUG - Page scrolled.
+2025-04-26 16:15:12,451 - DEBUG - Random scrolls complete.
+2025-04-26 16:15:12,452 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:15:12,452 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:14,354 - DEBUG - Page scrolled.
+2025-04-26 16:15:16,356 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:17,845 - DEBUG - Page scrolled.
+2025-04-26 16:15:19,847 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:21,223 - DEBUG - Page scrolled.
+2025-04-26 16:15:23,225 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:24,714 - DEBUG - Page scrolled.
+2025-04-26 16:15:26,716 - DEBUG - Random scrolls complete.
+2025-04-26 16:15:39,131 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-hosting.94/
+2025-04-26 16:15:42,690 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/whats-the-most-troublesome-part-of-running-a-video-website.1704871/unread
+2025-04-26 16:15:42,691 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-26 16:15:42,692 - INFO - Profile BinaryGhost: Window minimized. Pausing for 22.04 seconds...
+2025-04-26 16:16:04,733 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-26 16:16:04,735 - INFO - performing random action
+2025-04-26 16:16:13,491 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/whats-the-most-troublesome-part-of-running-a-video-website.1704871/unread
+2025-04-26 16:16:13,494 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/whats-the-most-troublesome-part-of-running-a-video-website.1704871/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 16:16:13,535 - INFO - Extracted thread title: What's the most troublesome part of running a video website
+2025-04-26 16:16:13,535 - DEBUG - Scrolling page 2 times.
+2025-04-26 16:16:13,536 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:14,735 - DEBUG - Page scrolled.
+2025-04-26 16:16:16,737 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:18,011 - DEBUG - Page scrolled.
+2025-04-26 16:16:20,012 - DEBUG - Random scrolls complete.
+2025-04-26 16:16:22,497 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:16:22,499 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:24,276 - DEBUG - Page scrolled.
+2025-04-26 16:16:27,277 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:28,457 - DEBUG - Page scrolled.
+2025-04-26 16:16:31,459 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:32,692 - DEBUG - Page scrolled.
+2025-04-26 16:16:35,693 - DEBUG - Random scrolls complete.
+2025-04-26 16:16:35,718 - DEBUG - Found 13 like buttons.
+2025-04-26 16:16:38,719 - INFO - Attempting to like 1 posts. There are 13 available.
+2025-04-26 16:16:39,541 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:16:39,572 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:16:39,573 - DEBUG - Liked post number 1 of 1.
+2025-04-26 16:16:44,497 - INFO - Liked 1 posts successfully.
+2025-04-26 16:16:44,499 - INFO - Liked 1 posts successfully.
+2025-04-26 16:16:46,986 - INFO - performing random action
+2025-04-26 16:16:46,988 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:16:46,989 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:48,845 - DEBUG - Page scrolled.
+2025-04-26 16:16:51,847 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:53,378 - DEBUG - Page scrolled.
+2025-04-26 16:16:56,380 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:58,123 - DEBUG - Page scrolled.
+2025-04-26 16:17:01,125 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:02,939 - DEBUG - Page scrolled.
+2025-04-26 16:17:05,940 - DEBUG - Random scrolls complete.
+2025-04-26 16:17:08,343 - DEBUG - Total comments in the thread: 13
+2025-04-26 16:19:03,860 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What's the most troublesome part of running a video website.txt
+2025-04-26 16:19:06,516 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 16:19:06,554 - DEBUG - Extracted main post content: Lately, I've been struggling with a few projects related to video websites. I thought picking a reliable storage solution would be enough – turns out, there are so many issues to deal with: speed, ad management, stability, and even SEO for content.
+For those who have set up video sites before, what part did you find the most "headache-inducing"? Any real-life tips to avoid going through the trial-and-error process?
+I’d love to hear some insights from you all. Thanks a lot!
+2025-04-26 16:19:10,721 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 16:19:10,724 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 16:19:13,182 - INFO - performing random action
+2025-04-26 16:19:13,183 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:19:13,185 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:19:13,203 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:19:13,240 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:19:13,246 - DEBUG - Text box scrolled into view
+2025-04-26 16:19:13,919 - DEBUG - Initializing actionchains
+2025-04-26 16:19:13,952 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4798}, size: {'height': 21, 'width': 68}
+2025-04-26 16:19:13,952 - DEBUG - Target click coordinates: (1267, 4808)
+2025-04-26 16:19:26,720 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 16:19:26,720 - DEBUG - Moving mouse to text box element.
+2025-04-26 16:19:26,721 - DEBUG - Clicking on the text box.
+2025-04-26 16:19:26,723 - DEBUG - Sending keys with content: Honestly, getting the right encoding settings nailed down to balance quality and load times drove me nuts. Test, test, and test again!
+
+2025-04-26 16:19:32,163 - DEBUG - Clicking on post reply button.
+2025-04-26 16:19:43,340 - DEBUG - Performed Actionchains
+2025-04-26 16:19:43,341 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 16:19:47,342 - INFO - Comment posted successfully.
+2025-04-26 16:19:47,344 - INFO - Task Completed!!
+2025-04-26 16:19:55,769 - INFO - Navigated back to the homepage.
+2025-04-26 16:19:57,841 - INFO - Attempting to clear memory and resources.
+2025-04-26 16:19:57,888 - INFO - Garbage collection completed.
+2025-04-26 16:19:57,889 - INFO - Waiting for 1000 seconds before next execution.
+2025-04-26 16:36:37,890 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-26 16:36:37,892 - INFO - Stopping browser for profile: BinaryGhost...
+2025-04-26 16:36:37,894 - INFO - Refreshing token before stopping profile...
+2025-04-26 16:36:37,895 - INFO - Refreshing token for BinaryGhost...
+2025-04-26 16:36:38,855 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-26 16:36:38,857 - INFO - Calculated token expiration time: 1745676398.8572183
+2025-04-26 16:36:38,859 - INFO - Profile BinaryGhost: Successfully logged in.
+2025-04-26 16:36:38,861 - INFO - Token refreshed successfully before stopping.
+2025-04-26 16:36:38,863 - INFO - Profile BinaryGhost: Attempting to stop (Attempt 1/3)...
+2025-04-26 16:36:38,870 - INFO - Profile BinaryGhost: Browser closed successfully in 0.01 seconds.
+2025-04-26 16:36:44,073 - INFO - Profile BinaryGhost: API call took 5.20 seconds.
+2025-04-26 16:36:44,074 - INFO - Profile BinaryGhost: Stopped successfully.
+2025-04-26 16:36:44,077 - INFO - Browser stopped successfully for profile: BinaryGhost.

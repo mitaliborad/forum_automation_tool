@@ -1,0 +1,107 @@
+2025-04-26 15:44:15,871 - INFO - Current time: 1745662455.8713164
+2025-04-26 15:44:15,873 - INFO - Token expiration time: 1745669110.3820143
+2025-04-26 15:44:15,875 - INFO - Token expiration time: 1745669110.3820143
+2025-04-26 15:44:15,877 - INFO - Profile DataPhreak: Minimizing window...
+2025-04-26 15:44:15,884 - INFO - Profile DataPhreak: Window minimized. Pausing for 15.19 seconds...
+2025-04-26 15:44:31,078 - INFO - Profile DataPhreak: Resuming after minimize...
+2025-04-26 15:44:31,080 - INFO - performing random action
+2025-04-26 15:44:31,083 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:44:31,085 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:44:31,087 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:32,417 - DEBUG - Page scrolled.
+2025-04-26 15:44:34,418 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:36,032 - DEBUG - Page scrolled.
+2025-04-26 15:44:38,034 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:39,499 - DEBUG - Page scrolled.
+2025-04-26 15:44:41,502 - DEBUG - Random scrolls complete.
+2025-04-26 15:44:41,502 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:44:41,503 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:42,741 - DEBUG - Page scrolled.
+2025-04-26 15:44:44,742 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:46,130 - DEBUG - Page scrolled.
+2025-04-26 15:44:48,132 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:49,833 - DEBUG - Page scrolled.
+2025-04-26 15:44:51,834 - DEBUG - Random scrolls complete.
+2025-04-26 15:45:01,515 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-26 15:45:05,064 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/myspace.1380444/unread
+2025-04-26 15:45:05,065 - INFO - Profile DataPhreak: Pausing for 37.86 seconds...
+2025-04-26 15:45:42,926 - INFO - Profile DataPhreak: Resuming...
+2025-04-26 15:45:42,928 - INFO - performing random action
+2025-04-26 15:46:11,877 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/myspace.1380444/unread
+2025-04-26 15:46:11,880 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/myspace.1380444/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:46:11,935 - INFO - Extracted thread title: myspace
+2025-04-26 15:46:11,935 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:46:11,936 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:46:13,876 - DEBUG - Page scrolled.
+2025-04-26 15:46:15,877 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:46:17,519 - DEBUG - Page scrolled.
+2025-04-26 15:46:19,521 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:46:21,359 - DEBUG - Page scrolled.
+2025-04-26 15:46:23,361 - DEBUG - Random scrolls complete.
+2025-04-26 15:46:25,947 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:46:25,949 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:46:27,318 - DEBUG - Page scrolled.
+2025-04-26 15:46:30,319 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:46:31,432 - DEBUG - Page scrolled.
+2025-04-26 15:46:34,434 - DEBUG - Random scrolls complete.
+2025-04-26 15:46:34,478 - DEBUG - Found 20 like buttons.
+2025-04-26 15:46:37,479 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-26 15:46:38,235 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:46:38,266 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:46:38,267 - DEBUG - Liked post number 1 of 3.
+2025-04-26 15:46:43,967 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:46:43,975 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:46:43,976 - DEBUG - Liked post number 2 of 3.
+2025-04-26 15:46:49,516 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:46:49,536 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:46:49,538 - DEBUG - Liked post number 3 of 3.
+2025-04-26 15:46:53,845 - INFO - Liked 3 posts successfully.
+2025-04-26 15:46:53,848 - INFO - Liked 3 posts successfully.
+2025-04-26 15:46:56,358 - INFO - Profile DataPhreak: Pausing for 30.55 seconds...
+2025-04-26 15:47:26,914 - INFO - Profile DataPhreak: Resuming...
+2025-04-26 15:47:26,914 - INFO - performing random action
+2025-04-26 15:47:26,915 - DEBUG - Scrolling page 5 times.
+2025-04-26 15:47:26,916 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:47:28,180 - DEBUG - Page scrolled.
+2025-04-26 15:47:31,182 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:47:32,943 - DEBUG - Page scrolled.
+2025-04-26 15:47:35,943 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:47:36,963 - DEBUG - Page scrolled.
+2025-04-26 15:47:39,964 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:47:41,313 - DEBUG - Page scrolled.
+2025-04-26 15:47:44,315 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:47:45,493 - DEBUG - Page scrolled.
+2025-04-26 15:47:48,494 - DEBUG - Random scrolls complete.
+2025-04-26 15:47:51,264 - DEBUG - Total comments in the thread: 20
+2025-04-26 15:50:28,983 - INFO - Post content extracted and saved to Thread-Details/Thread Content\myspace.txt
+2025-04-26 15:50:31,031 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:50:31,067 - DEBUG - Extracted main post content: is it still alive?
+2025-04-26 15:50:34,911 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:50:34,913 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:50:36,950 - INFO - Profile DataPhreak: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-26 15:50:46,519 - INFO - Profile DataPhreak: Pausing for 39.49 seconds...
+2025-04-26 15:51:26,007 - INFO - Profile DataPhreak: Resuming...
+2025-04-26 15:51:26,042 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-26 15:51:26,044 - INFO - performing random action
+2025-04-26 15:51:26,045 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:51:26,046 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:51:26,062 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:51:26,101 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:51:26,107 - DEBUG - Text box scrolled into view
+2025-04-26 15:51:27,002 - DEBUG - Initializing actionchains
+2025-04-26 15:51:27,022 - DEBUG - Post reply Element location: {'x': 1233, 'y': 6597}, size: {'height': 21, 'width': 68}
+2025-04-26 15:51:27,022 - DEBUG - Target click coordinates: (1267, 6607)
+2025-04-26 15:51:43,674 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:51:43,676 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:51:43,677 - DEBUG - Clicking on the text box.
+2025-04-26 15:51:43,679 - DEBUG - Sending keys with content: Alive like, still worth doing? It really depends what you're hoping to get out of it.
+
+2025-04-26 15:51:49,377 - DEBUG - Clicking on post reply button.
+2025-04-26 15:52:00,280 - DEBUG - Performed Actionchains
+2025-04-26 15:52:00,281 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:52:04,282 - INFO - Comment posted successfully.
+2025-04-26 15:52:04,284 - INFO - Task Completed!!
+2025-04-26 15:52:15,258 - INFO - Navigated back to the homepage.
+2025-04-26 15:52:17,533 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:52:17,562 - INFO - Garbage collection completed.
+2025-04-26 15:52:17,564 - INFO - Waiting for 1000 seconds before next execution.

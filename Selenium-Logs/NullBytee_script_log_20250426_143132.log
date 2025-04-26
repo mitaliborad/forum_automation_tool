@@ -1,0 +1,130 @@
+2025-04-26 14:31:32,303 - INFO - Current time: 1745658092.3032045
+2025-04-26 14:31:32,304 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 14:31:32,304 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 14:31:32,304 - INFO - performing random action
+2025-04-26 14:31:32,307 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:31:32,309 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:31:32,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:32,329 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E36844D5+25349]
+	(No symbol) [0x00007FF6E35E90F0]
+	(No symbol) [0x00007FF6E3465A0A]
+	(No symbol) [0x00007FF6E345590C]
+	(No symbol) [0x00007FF6E34555FA]
+	(No symbol) [0x00007FF6E345329A]
+	(No symbol) [0x00007FF6E3453C5F]
+	(No symbol) [0x00007FF6E345FC9E]
+	(No symbol) [0x00007FF6E3476161]
+	(No symbol) [0x00007FF6E347D10A]
+	(No symbol) [0x00007FF6E34543CD]
+	(No symbol) [0x00007FF6E3475E95]
+	(No symbol) [0x00007FF6E350F499]
+	(No symbol) [0x00007FF6E34E72D3]
+	(No symbol) [0x00007FF6E34B06F8]
+	(No symbol) [0x00007FF6E34B1463]
+	GetHandleVerifier [0x00007FF6E3A0887D+3712685]
+	GetHandleVerifier [0x00007FF6E3A208C2+3811058]
+	GetHandleVerifier [0x00007FF6E3A1457D+3761069]
+	GetHandleVerifier [0x00007FF6E375293A+870250]
+	(No symbol) [0x00007FF6E35F42CF]
+	(No symbol) [0x00007FF6E35EFC14]
+	(No symbol) [0x00007FF6E35EFDC2]
+	(No symbol) [0x00007FF6E35DEED9]
+	BaseThreadInitThunk [0x00007FF941AD7374+20]
+	RtlUserThreadStart [0x00007FF942FBCC91+33]
+
+2025-04-26 14:36:33,483 - DEBUG - Page scrolled.
+2025-04-26 14:36:35,486 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:37,255 - DEBUG - Page scrolled.
+2025-04-26 14:36:39,256 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:41,196 - DEBUG - Page scrolled.
+2025-04-26 14:36:43,197 - DEBUG - Random scrolls complete.
+2025-04-26 14:36:43,200 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:36:43,203 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:44,270 - DEBUG - Page scrolled.
+2025-04-26 14:36:46,272 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:48,249 - DEBUG - Page scrolled.
+2025-04-26 14:36:50,252 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:52,266 - DEBUG - Page scrolled.
+2025-04-26 14:36:54,267 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:55,356 - DEBUG - Page scrolled.
+2025-04-26 14:36:57,357 - DEBUG - Random scrolls complete.
+2025-04-26 14:37:09,449 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/youtube.77/
+2025-04-26 14:37:13,363 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/youtube-community-violation-very-important-help.1708289/unread
+2025-04-26 14:37:13,363 - INFO - Profile NullBytee: Restoring window...
+2025-04-26 14:37:15,367 - INFO - performing random action
+2025-04-26 14:37:24,937 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/youtube-community-violation-very-important-help.1708289/unread
+2025-04-26 14:37:24,942 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/youtube-community-violation-very-important-help.1708289/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:37:25,004 - INFO - Extracted thread title: Youtube community violation (VERY IMPORTANT) HELP!
+2025-04-26 14:37:25,005 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:37:25,005 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:37:26,273 - DEBUG - Page scrolled.
+2025-04-26 14:37:28,283 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:37:29,377 - DEBUG - Page scrolled.
+2025-04-26 14:37:31,383 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:37:32,865 - DEBUG - Page scrolled.
+2025-04-26 14:37:34,868 - DEBUG - Random scrolls complete.
+2025-04-26 14:37:37,079 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:37:37,082 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:37:38,768 - DEBUG - Page scrolled.
+2025-04-26 14:37:41,777 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:37:43,455 - DEBUG - Page scrolled.
+2025-04-26 14:37:46,464 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:37:47,682 - DEBUG - Page scrolled.
+2025-04-26 14:37:50,683 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:37:51,949 - DEBUG - Page scrolled.
+2025-04-26 14:37:54,961 - DEBUG - Random scrolls complete.
+2025-04-26 14:37:55,006 - DEBUG - Found 9 like buttons.
+2025-04-26 14:37:58,007 - INFO - Attempting to like 2 posts. There are 9 available.
+2025-04-26 14:37:58,791 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:37:58,844 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:37:58,845 - DEBUG - Liked post number 1 of 2.
+2025-04-26 14:38:03,904 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:38:03,939 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:38:03,940 - DEBUG - Liked post number 2 of 2.
+2025-04-26 14:38:08,460 - INFO - Liked 2 posts successfully.
+2025-04-26 14:38:08,462 - INFO - Liked 2 posts successfully.
+2025-04-26 14:38:11,018 - INFO - Profile NullBytee: Opening random website: https://www.canva.com/en_in/
+2025-04-26 14:38:14,762 - INFO - Profile NullBytee: Pausing for 33.34 seconds...
+2025-04-26 14:38:48,099 - INFO - Profile NullBytee: Resuming...
+2025-04-26 14:38:48,104 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-26 14:38:48,105 - INFO - performing random action
+2025-04-26 14:38:48,106 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:38:48,107 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:38:49,959 - DEBUG - Page scrolled.
+2025-04-26 14:38:52,960 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:38:54,205 - DEBUG - Page scrolled.
+2025-04-26 14:38:57,207 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:38:59,063 - DEBUG - Page scrolled.
+2025-04-26 14:39:02,065 - DEBUG - Random scrolls complete.
+2025-04-26 14:39:04,425 - DEBUG - Total comments in the thread: 9
+2025-04-26 14:40:16,794 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Youtube community violation (VERY IMPORTANT) HELP!.txt
+2025-04-26 14:40:19,361 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:40:19,405 - DEBUG - Extracted main post content: Hello, I shared a video, the name of the video is "TikTok private accounts viewing". I did not directly explain how to do this in the content, I just mentioned a link and explained that they can learn how to do this from the site in the link. But YouTube still removed my video. Although others directly explain this in their content, their videos are not removed. Why and how are my videos removed? How can I overcome this?
+2025-04-26 14:40:23,181 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:40:23,183 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:40:25,660 - INFO - performing random action
+2025-04-26 14:40:25,661 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:40:25,663 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:40:25,700 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:40:25,741 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:40:25,748 - DEBUG - Text box scrolled into view
+2025-04-26 14:40:26,453 - DEBUG - Initializing actionchains
+2025-04-26 14:40:26,473 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3394}, size: {'height': 21, 'width': 68}
+2025-04-26 14:40:26,474 - DEBUG - Target click coordinates: (1267, 3404)
+2025-04-26 14:40:37,091 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:40:37,092 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:40:37,093 - DEBUG - Clicking on the text box.
+2025-04-26 14:40:37,096 - DEBUG - Sending keys with content: YouTube's algorithm is a beast; sometimes it just flags stuff randomly. Maybe try appealing the removal and emphasizing that you're not directly showing how to bypass privacy settings, just linking to info.
+
+2025-04-26 14:40:42,847 - DEBUG - Clicking on post reply button.
+2025-04-26 14:40:53,975 - DEBUG - Performed Actionchains
+2025-04-26 14:40:53,975 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:40:57,976 - INFO - Comment posted successfully.
+2025-04-26 14:40:57,978 - INFO - Task Completed!!
+2025-04-26 14:41:07,303 - INFO - Navigated back to the homepage.
+2025-04-26 14:41:09,409 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:41:09,438 - INFO - Garbage collection completed.
+2025-04-26 14:41:09,439 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,89 @@
+--- Main Post Title ---
+Has anyone tried Lovable for design?
+
+Total comments in the thread: 8
+
+Topic User: xumers
+Topic: Lovable looks cool. But sometimes acts weird way. Any prompting tips?
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: CPANathan
+Topic: Lovable is so fun for trying to map out what you can't figure out
+
+Claude is great for code, but you can get nearly nowhere without the visual support... As always xumers mate, it's a tool not the answer
+
+look at the criticism it gets and then you're happy days. a great mapping tool for you to use claude to build on
+
+edit: i don't know about the newer updates buddy, but it was "great" when I had a go about 2-3 weeks back
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Social Tools
+Topic: xumers said:
+Any prompting tips?
+Provide clear design instructions for aesthetics
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ZeroDefects
+Topic: xumers said:
+Lovable looks cool. But sometimes acts weird way. Any prompting tips?
+Played with it a little. It gets you part of the way as a tool. I haven't been able to figure out how to complete and export a design to WP.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: natsuko
+Topic: Yeah, Lovable can be a bit quirky, try rephrasing or adding more detail in your prompts to get better results.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: GHSAgency
+Topic: I have never tried that before, I don't know if it is effective in marketing a product so that people can recognize it more easily.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ZeroDefects
+Topic: natsuko said:
+Yeah, Lovable can be a bit quirky, try rephrasing or adding more detail in your prompts to get better results.
+I'm pretty sure my 5 page prompt of typed text had plenty of detail. It's not optimized to deliver turn-key Wordpress sites. I would categorize it as more of a tool, not a complete solution.
+Liked by: natsuko
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Ethics1
+Topic: so how much are you going to spend on apps like lovable? that is the question that you should ask yourself. If you can build an app with like $600 spent in frameworks like Lovable, sure... it's worth a try
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

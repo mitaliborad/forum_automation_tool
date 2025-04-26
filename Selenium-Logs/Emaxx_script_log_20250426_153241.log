@@ -1,0 +1,119 @@
+2025-04-26 15:32:41,511 - INFO - Current time: 1745661761.5109913
+2025-04-26 15:32:41,514 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 15:32:41,516 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 15:32:41,518 - INFO - performing random action
+2025-04-26 15:32:41,520 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:32:41,522 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:32:41,523 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:42,664 - DEBUG - Page scrolled.
+2025-04-26 15:32:44,665 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:46,200 - DEBUG - Page scrolled.
+2025-04-26 15:32:48,202 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:49,915 - DEBUG - Page scrolled.
+2025-04-26 15:32:51,918 - DEBUG - Random scrolls complete.
+2025-04-26 15:32:51,919 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:32:51,920 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:53,594 - DEBUG - Page scrolled.
+2025-04-26 15:32:55,596 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:57,180 - DEBUG - Page scrolled.
+2025-04-26 15:32:59,182 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:01,179 - DEBUG - Page scrolled.
+2025-04-26 15:33:03,181 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:04,287 - DEBUG - Page scrolled.
+2025-04-26 15:33:06,289 - DEBUG - Random scrolls complete.
+2025-04-26 15:33:17,398 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-04-26 15:33:20,860 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/guide-free-perplexity-ai-pro-plan-1-year-for-everybody.1693142/unread
+2025-04-26 15:33:20,861 - INFO - performing random action
+2025-04-26 15:33:32,733 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/guide-free-perplexity-ai-pro-plan-1-year-for-everybody.1693142/unread
+2025-04-26 15:33:32,736 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/guide-free-perplexity-ai-pro-plan-1-year-for-everybody.1693142/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:33:32,776 - INFO - Extracted thread title: [GUIDE] Free Perplexity AI Pro Plan 1 Year for EVERYBODY
+2025-04-26 15:33:32,777 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:33:32,778 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:34,047 - DEBUG - Page scrolled.
+2025-04-26 15:33:36,048 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:37,927 - DEBUG - Page scrolled.
+2025-04-26 15:33:39,930 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:41,735 - DEBUG - Page scrolled.
+2025-04-26 15:33:43,736 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:45,377 - DEBUG - Page scrolled.
+2025-04-26 15:33:47,379 - DEBUG - Random scrolls complete.
+2025-04-26 15:33:50,089 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:33:50,090 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:51,655 - DEBUG - Page scrolled.
+2025-04-26 15:33:54,656 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:55,894 - DEBUG - Page scrolled.
+2025-04-26 15:33:58,895 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:34:00,139 - DEBUG - Page scrolled.
+2025-04-26 15:34:03,141 - DEBUG - Random scrolls complete.
+2025-04-26 15:34:03,182 - DEBUG - Found 20 like buttons.
+2025-04-26 15:34:06,183 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-04-26 15:34:06,790 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:34:06,823 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:34:06,825 - DEBUG - Liked post number 1 of 2.
+2025-04-26 15:34:11,915 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:34:11,935 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:34:11,937 - DEBUG - Liked post number 2 of 2.
+2025-04-26 15:34:16,337 - INFO - Liked 2 posts successfully.
+2025-04-26 15:34:16,339 - INFO - Liked 2 posts successfully.
+2025-04-26 15:34:18,634 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-26 15:34:22,360 - INFO - Profile Emaxx: Pausing for 44.93 seconds...
+2025-04-26 15:35:07,290 - INFO - Profile Emaxx: Resuming...
+2025-04-26 15:35:07,295 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-26 15:35:07,295 - INFO - performing random action
+2025-04-26 15:35:07,296 - DEBUG - Scrolling page 6 times.
+2025-04-26 15:35:07,296 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:08,970 - DEBUG - Page scrolled.
+2025-04-26 15:35:11,971 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:13,112 - DEBUG - Page scrolled.
+2025-04-26 15:35:16,115 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:17,293 - DEBUG - Page scrolled.
+2025-04-26 15:35:20,294 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:21,326 - DEBUG - Page scrolled.
+2025-04-26 15:35:24,327 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:26,225 - DEBUG - Page scrolled.
+2025-04-26 15:35:29,226 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:30,356 - DEBUG - Page scrolled.
+2025-04-26 15:35:33,357 - DEBUG - Random scrolls complete.
+2025-04-26 15:35:36,180 - DEBUG - Total comments in the thread: 20
+2025-04-26 15:36:12,371 - INFO - Post content extracted and saved to Thread-Details/Thread Content\[GUIDE] Free Perplexity AI Pro Plan 1 Year for EVERYBODY.txt
+2025-04-26 15:36:14,831 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:36:14,877 - DEBUG - Extracted main post content: Hey guys, had to take a long break from my internet marketing adventures and thought I come back with a cool trick I stumbled upon. As the titles says you get the 1 year pro plan for perplexity ai completely free! No need to buy that shit for 40bucks in the marketplace. It is an incredible powerful tool and its newly integrated deep research is crazy powerful - if you never heard about this tool, go google it and find out more
+
+Here is the guide:
+
+1. Find the "Moj Telekom HR" App in the iOS or Playstore, download it
+2. Register with the email of your choice, you are able to switch the language to english
+3. After login click on the "I want AI Assistant" promo banner and redeem your code
+4. Redeem it here: https://www.perplexity.ai/join/p/magenta
+5. Have fun and enjoy
+
+Sidenote: I tested it from a few eu countries but not from the us, not sure if that matters but keep it in mind.
+
+It seems like the codes are valid until end of the month and probably sellable...
+
+Do you have other cool guides and tricks like that? Share them here and help the community - we can achieve way more this way!
+2025-04-26 15:36:19,460 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:36:19,464 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:36:22,253 - INFO - performing random action
+2025-04-26 15:36:22,254 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:36:22,255 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:36:22,267 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:36:22,307 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:36:22,314 - DEBUG - Text box scrolled into view
+2025-04-26 15:36:23,299 - DEBUG - Initializing actionchains
+2025-04-26 15:36:23,328 - DEBUG - Post reply Element location: {'x': 1233, 'y': 8654}, size: {'height': 21, 'width': 68}
+2025-04-26 15:36:23,328 - DEBUG - Target click coordinates: (1267, 8664)
+2025-04-26 15:36:45,260 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:36:45,263 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:36:45,264 - DEBUG - Clicking on the text box.
+2025-04-26 15:36:45,271 - DEBUG - Sending keys with content: Damn, that's a solid find! Wonder how long before they patch it, gotta grab it quick.
+
+2025-04-26 15:36:51,194 - DEBUG - Clicking on post reply button.
+2025-04-26 15:37:02,065 - DEBUG - Performed Actionchains
+2025-04-26 15:37:02,066 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:37:06,068 - INFO - Comment posted successfully.
+2025-04-26 15:37:06,070 - INFO - Task Completed!!
+2025-04-26 15:37:13,604 - INFO - Navigated back to the homepage.
+2025-04-26 15:37:16,393 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:37:16,442 - INFO - Garbage collection completed.
+2025-04-26 15:37:16,444 - INFO - Waiting for 1000 seconds before next execution.

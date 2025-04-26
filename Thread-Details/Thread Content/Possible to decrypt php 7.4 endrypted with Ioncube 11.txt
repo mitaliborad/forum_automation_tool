@@ -1,0 +1,84 @@
+--- Main Post Title ---
+Possible to decrypt php 7.4 endrypted with Ioncube 11?
+
+Total comments in the thread: 7
+
+Topic User: mastermind256
+Topic: Can anyone help please help me decode this file. Dont know if its possible. it says that its php 7.4 on webpage and cryptet with ioncube 11. Any advice?
+Attachments
+Query.zip
+Liked by: You, DataPhreak
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: beverlie
+Topic: use IoncubeDecoder or easy4us
+Liked by: DataPhreak, Qixxyglitch, ManagerFocus
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: Cipher15
+Topic: mastermind256 said:
+Can anyone help please help me decode this file. Dont know if its possible. it says that its php 7.4 on webpage and cryptet with ioncube 11. Any advice?
+No, decrypting PHP 7.4 files encrypted with ionCube 11 is not practically possible without the original source or loader. It uses strong encryption and obfuscation.
+
+Maybe get the original files or contact the developer.
+Liked by: DataPhreak
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: mastermind256
+Topic: Hi @Cipher15 , hopefully its possible for someone. There is great knowledge out there so I am hoping for the best. If the developer had replied perhaps but this is last resort thats why as I now have a webpage that is somehow broken.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: beverlie
+Topic: Cipher15 said:
+No, decrypting PHP 7.4 files encrypted with ionCube 11 is not practically possible without the original source or loader. It uses strong encryption and obfuscation.
+
+Maybe get the original files or contact the developer.
+i just explained it is possible you are clueless
+Liked by: Qixxyglitch, ManagerFocus
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: mastermind256
+Topic: @beverlie - - I testet with some other files, and it work but this file in perticular I got.
+
+Some reason can't decode:
+• New version ioncube/zend.
+• Corrupted encoded file.
+• Requires license file.
+• Dynamic Keys.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: DataPhreak
+Topic: Ioncube 11 is pretty tough to crack, but start by checking if there are any encoded headers or footers; sometimes that gives you a clue. Good luck!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

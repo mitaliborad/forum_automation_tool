@@ -1,0 +1,103 @@
+2025-04-26 14:39:06,578 - INFO - Current time: 1745658546.5779958
+2025-04-26 14:39:06,578 - INFO - Token expiration time: 1745669283.0596635
+2025-04-26 14:39:06,579 - INFO - Token expiration time: 1745669283.0596635
+2025-04-26 14:39:06,579 - INFO - Profile PixelPirate99: Pausing for 49.48 seconds...
+2025-04-26 14:39:56,059 - INFO - Profile PixelPirate99: Resuming...
+2025-04-26 14:39:56,061 - INFO - performing random action
+2025-04-26 14:39:56,063 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:39:56,065 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:39:56,066 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:39:57,873 - DEBUG - Page scrolled.
+2025-04-26 14:39:59,876 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:01,506 - DEBUG - Page scrolled.
+2025-04-26 14:40:03,507 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:05,462 - DEBUG - Page scrolled.
+2025-04-26 14:40:07,464 - DEBUG - Random scrolls complete.
+2025-04-26 14:40:07,465 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:40:07,467 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:09,437 - DEBUG - Page scrolled.
+2025-04-26 14:40:11,440 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:12,788 - DEBUG - Page scrolled.
+2025-04-26 14:40:14,790 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:16,802 - DEBUG - Page scrolled.
+2025-04-26 14:40:18,804 - DEBUG - Random scrolls complete.
+2025-04-26 14:40:26,268 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/link-building.108/
+2025-04-26 14:40:30,340 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-rank-emd-domain-within-a-2-months.1695156/unread
+2025-04-26 14:40:30,341 - INFO - performing random action
+2025-04-26 14:40:48,230 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-rank-emd-domain-within-a-2-months.1695156/unread
+2025-04-26 14:40:48,231 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-rank-emd-domain-within-a-2-months.1695156/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:40:48,261 - INFO - Extracted thread title: How to rank EMD domain within a 2 months
+2025-04-26 14:40:48,262 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:40:48,262 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:49,461 - DEBUG - Page scrolled.
+2025-04-26 14:40:51,462 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:52,631 - DEBUG - Page scrolled.
+2025-04-26 14:40:54,632 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:56,002 - DEBUG - Page scrolled.
+2025-04-26 14:40:58,005 - DEBUG - Random scrolls complete.
+2025-04-26 14:41:00,775 - DEBUG - Scrolling page 1 times.
+2025-04-26 14:41:00,776 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:02,424 - DEBUG - Page scrolled.
+2025-04-26 14:41:05,426 - DEBUG - Random scrolls complete.
+2025-04-26 14:41:05,473 - DEBUG - Found 20 like buttons.
+2025-04-26 14:41:08,474 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-04-26 14:41:09,457 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:41:09,467 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:41:09,468 - DEBUG - Liked post number 1 of 2.
+2025-04-26 14:41:14,776 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:41:14,783 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:41:14,783 - DEBUG - Liked post number 2 of 2.
+2025-04-26 14:41:19,441 - INFO - Liked 2 posts successfully.
+2025-04-26 14:41:19,443 - INFO - Liked 2 posts successfully.
+2025-04-26 14:41:22,268 - INFO - performing random action
+2025-04-26 14:41:22,270 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:41:22,271 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:23,901 - DEBUG - Page scrolled.
+2025-04-26 14:41:26,903 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:28,466 - DEBUG - Page scrolled.
+2025-04-26 14:41:31,469 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:33,141 - DEBUG - Page scrolled.
+2025-04-26 14:41:36,143 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:37,891 - DEBUG - Page scrolled.
+2025-04-26 14:41:40,892 - DEBUG - Random scrolls complete.
+2025-04-26 14:41:43,873 - DEBUG - Total comments in the thread: 20
+2025-04-26 14:44:41,616 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to rank EMD domain within a 2 months.txt
+2025-04-26 14:44:44,163 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:44:44,212 - DEBUG - Extracted main post content: Hi There,
+
+I am here because I noticed that some of the new EMD domains have a ranking on SERP within two months. I have a few EMD domains but I was unable to rank those keywords.
+
+My domain keywords search volume and competition is low whereas competitors keywords search volume and competition is high. I have implemented on page very well build EAT links or high authority links for my website, still I am not able to rank my EMD domain.
+
+So my question is what strategy they are using to get rank within a two months.
+
+Please guide me
+2025-04-26 14:44:48,006 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:44:48,009 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:44:50,871 - INFO - Profile PixelPirate99: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-26 14:44:53,735 - INFO - Profile PixelPirate99: Pausing for 37.31 seconds...
+2025-04-26 14:45:31,046 - INFO - Profile PixelPirate99: Resuming...
+2025-04-26 14:45:31,058 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-26 14:45:31,058 - INFO - performing random action
+2025-04-26 14:45:31,059 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:45:31,060 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:45:31,072 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:45:31,109 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:45:31,115 - DEBUG - Text box scrolled into view
+2025-04-26 14:45:31,717 - DEBUG - Initializing actionchains
+2025-04-26 14:45:31,767 - DEBUG - Post reply Element location: {'x': 1233, 'y': 7914}, size: {'height': 21, 'width': 68}
+2025-04-26 14:45:31,768 - DEBUG - Target click coordinates: (1267, 7924)
+2025-04-26 14:45:51,226 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:45:51,229 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:45:51,230 - DEBUG - Clicking on the text box.
+2025-04-26 14:45:51,233 - DEBUG - Sending keys with content: Two months is quick, but not unheard of. Are you sure your content is *genuinely* better and more helpful than what's already ranking?
+
+2025-04-26 14:45:57,024 - DEBUG - Clicking on post reply button.
+2025-04-26 14:45:58,313 - DEBUG - Performed Actionchains
+2025-04-26 14:45:58,314 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:46:02,315 - INFO - Comment posted successfully.
+2025-04-26 14:46:02,316 - INFO - Task Completed!!
+2025-04-26 14:46:07,663 - INFO - Navigated back to the homepage.
+2025-04-26 14:46:10,504 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:46:10,533 - INFO - Garbage collection completed.
+2025-04-26 14:46:10,533 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,99 @@
+2025-04-26 15:53:56,447 - INFO - Current time: 1745663036.447357
+2025-04-26 15:53:56,449 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 15:53:56,451 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 15:53:56,454 - INFO - Profile Emaxx: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-26 15:53:59,288 - INFO - Profile Emaxx: Pausing for 31.15 seconds...
+2025-04-26 15:54:30,442 - INFO - Profile Emaxx: Resuming...
+2025-04-26 15:54:30,453 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-26 15:54:30,455 - INFO - performing random action
+2025-04-26 15:54:30,458 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:54:30,461 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:54:30,462 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:54:31,607 - DEBUG - Page scrolled.
+2025-04-26 15:54:33,607 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:54:35,167 - DEBUG - Page scrolled.
+2025-04-26 15:54:37,168 - DEBUG - Random scrolls complete.
+2025-04-26 15:54:37,169 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:54:37,170 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:54:38,930 - DEBUG - Page scrolled.
+2025-04-26 15:54:40,932 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:54:42,769 - DEBUG - Page scrolled.
+2025-04-26 15:54:44,771 - DEBUG - Random scrolls complete.
+2025-04-26 15:54:56,111 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-26 15:54:59,477 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/where-to-get-the-impact-shopify-theme.1707306/unread
+2025-04-26 15:54:59,477 - INFO - Profile Emaxx: Pausing for 40.10 seconds...
+2025-04-26 15:55:39,582 - INFO - Profile Emaxx: Resuming...
+2025-04-26 15:55:39,583 - INFO - performing random action
+2025-04-26 15:55:47,810 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/where-to-get-the-impact-shopify-theme.1707306/unread
+2025-04-26 15:55:47,811 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/where-to-get-the-impact-shopify-theme.1707306/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:55:47,848 - INFO - Extracted thread title: Where to Get the Impact Shopify Theme 
+2025-04-26 15:55:47,849 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:55:47,849 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:49,498 - DEBUG - Page scrolled.
+2025-04-26 15:55:51,500 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:53,109 - DEBUG - Page scrolled.
+2025-04-26 15:55:55,110 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:56,856 - DEBUG - Page scrolled.
+2025-04-26 15:55:58,858 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:00,385 - DEBUG - Page scrolled.
+2025-04-26 15:56:02,387 - DEBUG - Random scrolls complete.
+2025-04-26 15:56:04,629 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:56:04,630 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:06,020 - DEBUG - Page scrolled.
+2025-04-26 15:56:09,022 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:10,762 - DEBUG - Page scrolled.
+2025-04-26 15:56:13,764 - DEBUG - Random scrolls complete.
+2025-04-26 15:56:13,778 - DEBUG - Found 2 like buttons.
+2025-04-26 15:56:16,780 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-26 15:56:17,346 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:56:17,357 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:56:17,358 - DEBUG - Liked post number 1 of 2.
+2025-04-26 15:56:22,804 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:56:22,823 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:56:22,825 - DEBUG - Liked post number 2 of 2.
+2025-04-26 15:56:27,705 - INFO - Liked 2 posts successfully.
+2025-04-26 15:56:27,705 - INFO - Liked 2 posts successfully.
+2025-04-26 15:56:30,645 - INFO - performing random action
+2025-04-26 15:56:30,647 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:56:30,649 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:32,237 - DEBUG - Page scrolled.
+2025-04-26 15:56:35,239 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:37,076 - DEBUG - Page scrolled.
+2025-04-26 15:56:40,078 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:41,818 - DEBUG - Page scrolled.
+2025-04-26 15:56:44,819 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:46,143 - DEBUG - Page scrolled.
+2025-04-26 15:56:49,145 - DEBUG - Random scrolls complete.
+2025-04-26 15:56:52,142 - DEBUG - Total comments in the thread: 2
+2025-04-26 15:56:52,306 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Where to Get the Impact Shopify Theme .txt
+2025-04-26 15:56:55,210 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:56:55,232 - DEBUG - Extracted main post content: Hey everyone,
+
+I’m interested in using the Impact theme from the Shopify theme store, but it’s a bit expensive for my current budget. I was wondering if anyone here knows where to get this theme for free ?
+
+Thanks in advance!
+2025-04-26 15:56:58,749 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:56:58,750 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:57:01,314 - INFO - performing random action
+2025-04-26 15:57:01,316 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:57:01,317 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:57:01,356 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:57:01,415 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:57:01,425 - DEBUG - Text box scrolled into view
+2025-04-26 15:57:02,363 - DEBUG - Initializing actionchains
+2025-04-26 15:57:02,416 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1561}, size: {'height': 21, 'width': 68}
+2025-04-26 15:57:02,417 - DEBUG - Target click coordinates: (1267, 1571)
+2025-04-26 15:57:09,570 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:57:09,572 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:57:09,573 - DEBUG - Clicking on the text box.
+2025-04-26 15:57:09,576 - DEBUG - Sending keys with content: Careful asking for free themes; lots of those turn out to be loaded with malware and could cost you way more in the long run.
+
+2025-04-26 15:57:15,242 - DEBUG - Clicking on post reply button.
+2025-04-26 15:57:16,261 - DEBUG - Performed Actionchains
+2025-04-26 15:57:16,261 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:57:20,262 - INFO - Comment posted successfully.
+2025-04-26 15:57:20,263 - INFO - Task Completed!!
+2025-04-26 15:57:23,053 - INFO - Navigated back to the homepage.
+2025-04-26 15:57:25,388 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:57:25,435 - INFO - Garbage collection completed.
+2025-04-26 15:57:25,436 - INFO - Waiting for 1000 seconds before next execution.

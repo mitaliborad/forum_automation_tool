@@ -1,0 +1,94 @@
+2025-04-26 15:24:18,752 - INFO - Current time: 1745661258.7528684
+2025-04-26 15:24:18,755 - INFO - Token expiration time: 1745669110.3820143
+2025-04-26 15:24:18,756 - INFO - Token expiration time: 1745669110.3820143
+2025-04-26 15:24:18,757 - INFO - performing random action
+2025-04-26 15:24:18,757 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:24:18,758 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:24:18,758 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:24:20,163 - DEBUG - Page scrolled.
+2025-04-26 15:24:22,165 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:24:23,955 - DEBUG - Page scrolled.
+2025-04-26 15:24:25,956 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:24:27,716 - DEBUG - Page scrolled.
+2025-04-26 15:24:29,718 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:24:31,118 - DEBUG - Page scrolled.
+2025-04-26 15:24:33,120 - DEBUG - Random scrolls complete.
+2025-04-26 15:24:33,121 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:24:33,123 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:24:34,943 - DEBUG - Page scrolled.
+2025-04-26 15:24:36,945 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:24:38,727 - DEBUG - Page scrolled.
+2025-04-26 15:24:40,729 - DEBUG - Random scrolls complete.
+2025-04-26 15:24:53,965 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-04-26 15:24:57,870 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-need-an-automation-tool-to-appeal-google-devleoper-accounts-block.1698385/
+2025-04-26 15:24:57,870 - INFO - performing random action
+2025-04-26 15:25:05,611 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-need-an-automation-tool-to-appeal-google-devleoper-accounts-block.1698385/
+2025-04-26 15:25:05,615 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-need-an-automation-tool-to-appeal-google-devleoper-accounts-block.1698385/' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:25:05,669 - INFO - Extracted thread title: I need an automation tool to appeal google devleoper accounts block
+2025-04-26 15:25:05,670 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:25:05,670 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:07,036 - DEBUG - Page scrolled.
+2025-04-26 15:25:09,038 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:10,531 - DEBUG - Page scrolled.
+2025-04-26 15:25:12,532 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:14,356 - DEBUG - Page scrolled.
+2025-04-26 15:25:16,357 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:17,722 - DEBUG - Page scrolled.
+2025-04-26 15:25:19,724 - DEBUG - Random scrolls complete.
+2025-04-26 15:25:22,315 - DEBUG - Scrolling page 1 times.
+2025-04-26 15:25:22,316 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:23,420 - DEBUG - Page scrolled.
+2025-04-26 15:25:26,422 - DEBUG - Random scrolls complete.
+2025-04-26 15:25:26,458 - DEBUG - Found 1 like buttons.
+2025-04-26 15:25:29,459 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-26 15:25:30,066 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:25:30,093 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:25:30,093 - DEBUG - Liked post number 1 of 1.
+2025-04-26 15:25:34,571 - INFO - Liked 1 posts successfully.
+2025-04-26 15:25:34,573 - INFO - Liked 1 posts successfully.
+2025-04-26 15:25:36,667 - INFO - performing random action
+2025-04-26 15:25:36,668 - DEBUG - Scrolling page 5 times.
+2025-04-26 15:25:36,668 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:38,148 - DEBUG - Page scrolled.
+2025-04-26 15:25:41,149 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:42,404 - DEBUG - Page scrolled.
+2025-04-26 15:25:45,406 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:47,268 - DEBUG - Page scrolled.
+2025-04-26 15:25:50,269 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:51,515 - DEBUG - Page scrolled.
+2025-04-26 15:25:54,517 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:25:55,697 - DEBUG - Page scrolled.
+2025-04-26 15:25:58,700 - DEBUG - Random scrolls complete.
+2025-04-26 15:26:01,415 - DEBUG - Total comments in the thread: 1
+2025-04-26 15:26:01,505 - INFO - Post content extracted and saved to Thread-Details/Thread Content\I need an automation tool to appeal google devleoper accounts block.txt
+2025-04-26 15:26:04,276 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:26:04,321 - DEBUG - Extracted main post content: Handling a large number of blocked Google developer accounts. Need a method to unban hundreds of them, prefer automation or something with high success rates. Open to discussion. Serious replies only
+2025-04-26 15:26:07,474 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:26:07,476 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:26:09,918 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-26 15:26:21,028 - INFO - Profile DataPhreak: Pausing for 41.22 seconds...
+2025-04-26 15:27:02,245 - INFO - Profile DataPhreak: Resuming...
+2025-04-26 15:27:02,268 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-26 15:27:02,270 - INFO - performing random action
+2025-04-26 15:27:02,270 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:27:02,271 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:27:02,328 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:27:02,376 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:27:02,386 - DEBUG - Text box scrolled into view
+2025-04-26 15:27:02,954 - DEBUG - Initializing actionchains
+2025-04-26 15:27:03,007 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1088}, size: {'height': 21, 'width': 68}
+2025-04-26 15:27:03,007 - DEBUG - Target click coordinates: (1267, 1098)
+2025-04-26 15:27:08,977 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:27:08,979 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:27:08,982 - DEBUG - Clicking on the text box.
+2025-04-26 15:27:08,985 - DEBUG - Sending keys with content: Yikes, that sounds rough. Have you tried escalating through a Google rep, or is that off the table?
+
+2025-04-26 15:27:14,684 - DEBUG - Clicking on post reply button.
+2025-04-26 15:27:15,594 - DEBUG - Performed Actionchains
+2025-04-26 15:27:15,595 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:27:19,596 - INFO - Comment posted successfully.
+2025-04-26 15:27:19,598 - INFO - Task Completed!!
+2025-04-26 15:27:33,741 - INFO - Navigated back to the homepage.
+2025-04-26 15:27:35,822 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:27:35,868 - INFO - Garbage collection completed.
+2025-04-26 15:27:35,868 - INFO - Waiting for 1000 seconds before next execution.

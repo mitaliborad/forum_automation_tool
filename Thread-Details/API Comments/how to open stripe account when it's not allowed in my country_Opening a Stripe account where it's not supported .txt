@@ -1,0 +1,1 @@
+Opening a Stripe account where it's not supported is tricky, but have you looked into using a VPN with a virtual address?

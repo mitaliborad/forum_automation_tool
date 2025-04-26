@@ -1,0 +1,123 @@
+2025-04-26 14:53:04,824 - INFO - Current time: 1745659384.8248239
+2025-04-26 14:53:04,825 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 14:53:04,826 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 14:53:04,826 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-26 14:53:06,832 - INFO - performing random action
+2025-04-26 14:53:06,835 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:53:06,837 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:53:06,838 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:53:08,673 - DEBUG - Page scrolled.
+2025-04-26 14:53:10,675 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:53:11,996 - DEBUG - Page scrolled.
+2025-04-26 14:53:13,998 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:53:15,959 - DEBUG - Page scrolled.
+2025-04-26 14:53:17,961 - DEBUG - Random scrolls complete.
+2025-04-26 14:53:17,962 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:53:17,964 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:53:19,708 - DEBUG - Page scrolled.
+2025-04-26 14:53:21,710 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:53:23,715 - DEBUG - Page scrolled.
+2025-04-26 14:53:25,717 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:53:26,963 - DEBUG - Page scrolled.
+2025-04-26 14:53:28,965 - DEBUG - Random scrolls complete.
+2025-04-26 14:53:38,492 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-26 14:53:42,857 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/with-all-the-parasite-drama-this-site-is-exploding-rn.1708302/unread
+2025-04-26 14:53:42,858 - INFO - Profile DarkCodeX: Opening random website: https://www.canva.com/en_in/
+2025-04-26 14:54:04,291 - INFO - Profile DarkCodeX: Pausing for 48.82 seconds...
+2025-04-26 14:54:53,109 - INFO - Profile DarkCodeX: Resuming...
+2025-04-26 14:54:53,133 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-26 14:54:53,135 - INFO - performing random action
+2025-04-26 14:55:05,317 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/with-all-the-parasite-drama-this-site-is-exploding-rn.1708302/unread
+2025-04-26 14:55:05,320 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/with-all-the-parasite-drama-this-site-is-exploding-rn.1708302/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:55:05,349 - INFO - Extracted thread title: With all the parasite drama - this site is exploding rn
+2025-04-26 14:55:05,349 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:55:05,350 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:55:06,945 - DEBUG - Page scrolled.
+2025-04-26 14:55:08,947 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:55:10,107 - DEBUG - Page scrolled.
+2025-04-26 14:55:12,108 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:55:13,789 - DEBUG - Page scrolled.
+2025-04-26 14:55:15,821 - DEBUG - Random scrolls complete.
+2025-04-26 14:55:18,052 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:55:18,054 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:55:19,195 - DEBUG - Page scrolled.
+2025-04-26 14:55:22,198 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:55:23,770 - DEBUG - Page scrolled.
+2025-04-26 14:55:26,772 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:55:28,391 - DEBUG - Page scrolled.
+2025-04-26 14:55:31,393 - DEBUG - Random scrolls complete.
+2025-04-26 14:55:31,418 - DEBUG - Found 11 like buttons.
+2025-04-26 14:55:34,419 - INFO - Attempting to like 2 posts. There are 11 available.
+2025-04-26 14:55:35,156 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:55:35,195 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:55:35,196 - DEBUG - Liked post number 1 of 2.
+2025-04-26 14:55:40,397 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:55:40,406 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:55:40,408 - DEBUG - Liked post number 2 of 2.
+2025-04-26 14:55:44,613 - INFO - Liked 2 posts successfully.
+2025-04-26 14:55:44,616 - INFO - Liked 2 posts successfully.
+2025-04-26 14:55:46,954 - INFO - performing random action
+2025-04-26 14:55:46,956 - DEBUG - Scrolling page 6 times.
+2025-04-26 14:55:46,957 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:55:48,521 - DEBUG - Page scrolled.
+2025-04-26 14:55:51,522 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:55:53,267 - DEBUG - Page scrolled.
+2025-04-26 14:55:56,268 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:55:57,774 - DEBUG - Page scrolled.
+2025-04-26 14:56:00,775 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:02,458 - DEBUG - Page scrolled.
+2025-04-26 14:56:05,460 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:06,519 - DEBUG - Page scrolled.
+2025-04-26 14:56:09,521 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:11,208 - DEBUG - Page scrolled.
+2025-04-26 14:56:14,209 - DEBUG - Random scrolls complete.
+2025-04-26 14:56:16,528 - DEBUG - Total comments in the thread: 11
+2025-04-26 14:56:58,324 - INFO - Post content extracted and saved to Thread-Details/Thread Content\With all the parasite drama - this site is exploding rn.txt
+2025-04-26 14:57:00,980 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:57:01,056 - DEBUG - Extracted main post content: Everyone that does parasite SEO knows google sites and pulses are not working in any query thats not "best vegan and cruelty free dog toys for impotent chihuahuas". And even then... oh well. If you fall for the attention grab that's on you.
+
+Anyway. What do you do? You go where the big guys go -> right now that is GlobeNewswire.com (went from mere 500k to 1.9m in traffic over 2 months) and it ranks well, really well. For actualy competitive queries.
+
+Only PRs accepted (AP Style) - but that's easy enough. If you got a bit of money laying around, want to test an affiliate offer, this is the one to go to right now.
+
+Examples: "Online Casino"
+
+
+
+"NSFW AI"
+
+
+
+"best testosterone booster"
+
+
+
+
+Deccanherald still works too, especially for loan or crypto terms.
+
+Let's see how long this one lasts.
+2025-04-26 14:57:05,158 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:57:05,164 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:57:07,191 - INFO - performing random action
+2025-04-26 14:57:07,194 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:57:07,200 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:57:07,240 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:57:07,280 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:57:07,289 - DEBUG - Text box scrolled into view
+2025-04-26 14:57:08,023 - DEBUG - Initializing actionchains
+2025-04-26 14:57:08,124 - DEBUG - Post reply Element location: {'x': 1233, 'y': 7248}, size: {'height': 21, 'width': 68}
+2025-04-26 14:57:08,125 - DEBUG - Target click coordinates: (1267, 7258)
+2025-04-26 14:57:27,412 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:57:27,413 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:57:27,415 - DEBUG - Clicking on the text box.
+2025-04-26 14:57:27,417 - DEBUG - Sending keys with content: Huh, interesting. Think I'll stick to HARO for now – feels less like shouting into the void.
+
+2025-04-26 14:57:32,684 - DEBUG - Clicking on post reply button.
+2025-04-26 14:57:43,642 - DEBUG - Performed Actionchains
+2025-04-26 14:57:43,643 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:57:47,645 - INFO - Comment posted successfully.
+2025-04-26 14:57:47,647 - INFO - Task Completed!!
+2025-04-26 14:58:00,231 - INFO - Navigated back to the homepage.
+2025-04-26 14:58:03,168 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:58:03,200 - INFO - Garbage collection completed.
+2025-04-26 14:58:03,200 - INFO - Waiting for 1000 seconds before next execution.

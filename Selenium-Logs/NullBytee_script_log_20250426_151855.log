@@ -1,0 +1,110 @@
+2025-04-26 15:18:55,216 - INFO - Current time: 1745660935.2168417
+2025-04-26 15:18:55,217 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 15:18:55,218 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 15:18:55,218 - INFO - Profile NullBytee: Opening random website: https://www.netflix.com/in/
+2025-04-26 15:18:58,903 - INFO - Profile NullBytee: Pausing for 40.78 seconds...
+2025-04-26 15:19:39,690 - INFO - Profile NullBytee: Resuming...
+2025-04-26 15:19:39,706 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-26 15:19:39,708 - INFO - performing random action
+2025-04-26 15:19:39,711 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:19:39,714 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:19:39,715 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:19:40,765 - DEBUG - Page scrolled.
+2025-04-26 15:19:42,766 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:19:44,244 - DEBUG - Page scrolled.
+2025-04-26 15:19:46,247 - DEBUG - Random scrolls complete.
+2025-04-26 15:19:46,249 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:19:46,251 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:19:47,447 - DEBUG - Page scrolled.
+2025-04-26 15:19:49,448 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:19:51,425 - DEBUG - Page scrolled.
+2025-04-26 15:19:53,426 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:19:55,441 - DEBUG - Page scrolled.
+2025-04-26 15:19:57,443 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:19:58,705 - DEBUG - Page scrolled.
+2025-04-26 15:20:00,707 - DEBUG - Random scrolls complete.
+2025-04-26 15:20:09,231 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/tumblr.217/
+2025-04-26 15:20:12,780 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/can-you-get-any-traffic-from-tumblr-nowadays.1358213/
+2025-04-26 15:20:12,781 - INFO - performing random action
+2025-04-26 15:20:23,528 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/can-you-get-any-traffic-from-tumblr-nowadays.1358213/
+2025-04-26 15:20:23,529 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/can-you-get-any-traffic-from-tumblr-nowadays.1358213/' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:20:23,559 - INFO - Extracted thread title: Can you get any traffic from tumblr nowadays
+2025-04-26 15:20:23,559 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:20:23,559 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:20:25,029 - DEBUG - Page scrolled.
+2025-04-26 15:20:27,032 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:20:28,767 - DEBUG - Page scrolled.
+2025-04-26 15:20:30,768 - DEBUG - Random scrolls complete.
+2025-04-26 15:20:33,203 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:20:33,203 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:20:34,822 - DEBUG - Page scrolled.
+2025-04-26 15:20:37,825 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:20:39,231 - DEBUG - Page scrolled.
+2025-04-26 15:20:42,233 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:20:44,047 - DEBUG - Page scrolled.
+2025-04-26 15:20:47,050 - DEBUG - Random scrolls complete.
+2025-04-26 15:20:47,094 - DEBUG - Found 20 like buttons.
+2025-04-26 15:20:50,096 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-26 15:20:50,985 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:20:50,996 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:20:50,997 - DEBUG - Liked post number 1 of 4.
+2025-04-26 15:20:56,494 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:20:56,501 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:20:56,502 - DEBUG - Liked post number 2 of 4.
+2025-04-26 15:21:01,985 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:21:02,005 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:21:02,007 - DEBUG - Liked post number 3 of 4.
+2025-04-26 15:21:07,003 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:21:07,012 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:21:07,013 - DEBUG - Liked post number 4 of 4.
+2025-04-26 15:21:11,629 - INFO - Liked 4 posts successfully.
+2025-04-26 15:21:11,631 - INFO - Liked 4 posts successfully.
+2025-04-26 15:21:14,095 - INFO - performing random action
+2025-04-26 15:21:14,097 - DEBUG - Scrolling page 7 times.
+2025-04-26 15:21:14,098 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:21:16,041 - DEBUG - Page scrolled.
+2025-04-26 15:21:19,044 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:21:20,754 - DEBUG - Page scrolled.
+2025-04-26 15:21:23,756 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:21:25,588 - DEBUG - Page scrolled.
+2025-04-26 15:21:28,591 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:21:30,407 - DEBUG - Page scrolled.
+2025-04-26 15:21:33,409 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:21:35,169 - DEBUG - Page scrolled.
+2025-04-26 15:21:38,171 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:21:39,276 - DEBUG - Page scrolled.
+2025-04-26 15:21:42,277 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:21:43,995 - DEBUG - Page scrolled.
+2025-04-26 15:21:46,996 - DEBUG - Random scrolls complete.
+2025-04-26 15:21:49,514 - DEBUG - Total comments in the thread: 20
+2025-04-26 15:24:05,853 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Can you get any traffic from tumblr nowadays.txt
+2025-04-26 15:24:08,510 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:24:08,560 - DEBUG - Extracted main post content: I can't drive any traffic from tumblr. I use custom bot to send 500 likes/day in my niche (it's not NSFW niche, mainstream only), i get some followers, likes but nobody click my links and visit my website.
+2025-04-26 15:24:13,179 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:24:13,182 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:24:15,461 - INFO - Profile NullBytee: Minimizing window...
+2025-04-26 15:24:15,466 - INFO - Profile NullBytee: Window minimized. Pausing for 21.53 seconds...
+2025-04-26 15:24:37,000 - INFO - Profile NullBytee: Resuming after minimize...
+2025-04-26 15:24:37,002 - INFO - performing random action
+2025-04-26 15:24:37,004 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:24:37,006 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:24:37,041 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:24:37,076 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:24:37,082 - DEBUG - Text box scrolled into view
+2025-04-26 15:24:37,957 - DEBUG - Initializing actionchains
+2025-04-26 15:24:37,975 - DEBUG - Post reply Element location: {'x': 1233, 'y': 5910}, size: {'height': 21, 'width': 68}
+2025-04-26 15:24:37,976 - DEBUG - Target click coordinates: (1267, 5920)
+2025-04-26 15:24:53,291 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:24:53,293 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:24:53,295 - DEBUG - Clicking on the text box.
+2025-04-26 15:24:53,297 - DEBUG - Sending keys with content: Sounds like your bot is just echoing into a void. Have you tried engaging with accounts *before* blasting them with likes?
+
+2025-04-26 15:24:58,634 - DEBUG - Clicking on post reply button.
+2025-04-26 15:25:09,571 - DEBUG - Performed Actionchains
+2025-04-26 15:25:09,572 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:25:13,573 - INFO - Comment posted successfully.
+2025-04-26 15:25:13,576 - INFO - Task Completed!!
+2025-04-26 15:25:22,696 - INFO - Navigated back to the homepage.
+2025-04-26 15:25:24,844 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:25:24,870 - INFO - Garbage collection completed.
+2025-04-26 15:25:24,871 - INFO - Waiting for 1000 seconds before next execution.

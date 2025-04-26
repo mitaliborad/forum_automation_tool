@@ -1,0 +1,1 @@
+Instead of bigger delays, try randomizing them a bit – humans aren't perfectly consistent, right? Also, rotating proxies might help avoid getting your IP blacklisted after the first run.

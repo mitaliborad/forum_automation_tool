@@ -1,0 +1,102 @@
+2025-04-26 15:43:25,700 - INFO - Current time: 1745662405.7005358
+2025-04-26 15:43:25,701 - INFO - Token expiration time: 1745669283.0596635
+2025-04-26 15:43:25,702 - INFO - Token expiration time: 1745669283.0596635
+2025-04-26 15:43:25,702 - INFO - Profile PixelPirate99: Opening random website: https://www.teejh.com/
+2025-04-26 15:43:32,428 - INFO - Profile PixelPirate99: Pausing for 47.82 seconds...
+2025-04-26 15:44:20,253 - INFO - Profile PixelPirate99: Resuming...
+2025-04-26 15:44:20,285 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-04-26 15:44:20,286 - INFO - performing random action
+2025-04-26 15:44:20,297 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:44:20,300 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:44:20,301 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:22,106 - DEBUG - Page scrolled.
+2025-04-26 15:44:24,108 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:25,748 - DEBUG - Page scrolled.
+2025-04-26 15:44:27,750 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:29,134 - DEBUG - Page scrolled.
+2025-04-26 15:44:31,137 - DEBUG - Random scrolls complete.
+2025-04-26 15:44:31,138 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:44:31,139 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:32,729 - DEBUG - Page scrolled.
+2025-04-26 15:44:34,731 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:36,394 - DEBUG - Page scrolled.
+2025-04-26 15:44:38,396 - DEBUG - Random scrolls complete.
+2025-04-26 15:44:41,533 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-04-26 15:44:45,581 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-methods-are-people-currently-using-to-successfully-post-trustpilot-reviews-themselves.1708635/unread
+2025-04-26 15:44:45,582 - INFO - performing random action
+2025-04-26 15:44:53,257 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-methods-are-people-currently-using-to-successfully-post-trustpilot-reviews-themselves.1708635/unread
+2025-04-26 15:44:53,260 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-methods-are-people-currently-using-to-successfully-post-trustpilot-reviews-themselves.1708635/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:44:53,312 - INFO - Extracted thread title: What methods are people currently using to successfully post Trustpilot reviews themselves
+2025-04-26 15:44:53,313 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:44:53,314 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:54,728 - DEBUG - Page scrolled.
+2025-04-26 15:44:56,729 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:58,345 - DEBUG - Page scrolled.
+2025-04-26 15:45:00,347 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:45:01,576 - DEBUG - Page scrolled.
+2025-04-26 15:45:03,577 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:45:04,951 - DEBUG - Page scrolled.
+2025-04-26 15:45:06,952 - DEBUG - Random scrolls complete.
+2025-04-26 15:45:09,031 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:45:09,033 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:45:11,010 - DEBUG - Page scrolled.
+2025-04-26 15:45:14,011 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:45:15,763 - DEBUG - Page scrolled.
+2025-04-26 15:45:18,764 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:45:20,131 - DEBUG - Page scrolled.
+2025-04-26 15:45:23,133 - DEBUG - Random scrolls complete.
+2025-04-26 15:45:23,172 - DEBUG - Found 3 like buttons.
+2025-04-26 15:45:26,173 - INFO - Attempting to like 1 posts. There are 3 available.
+2025-04-26 15:45:27,072 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:45:27,104 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:45:27,109 - DEBUG - Liked post number 1 of 1.
+2025-04-26 15:45:31,350 - INFO - Liked 1 posts successfully.
+2025-04-26 15:45:31,352 - INFO - Liked 1 posts successfully.
+2025-04-26 15:45:34,035 - INFO - Profile PixelPirate99: Minimizing window...
+2025-04-26 15:45:34,044 - INFO - Profile PixelPirate99: Window minimized. Pausing for 24.19 seconds...
+2025-04-26 15:45:58,244 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-04-26 15:45:58,246 - INFO - performing random action
+2025-04-26 15:45:58,248 - DEBUG - Scrolling page 5 times.
+2025-04-26 15:45:58,249 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:45:59,891 - DEBUG - Page scrolled.
+2025-04-26 15:46:02,893 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:46:04,068 - DEBUG - Page scrolled.
+2025-04-26 15:46:07,069 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:46:09,022 - DEBUG - Page scrolled.
+2025-04-26 15:46:12,023 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:46:13,448 - DEBUG - Page scrolled.
+2025-04-26 15:46:16,451 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:46:18,081 - DEBUG - Page scrolled.
+2025-04-26 15:46:21,083 - DEBUG - Random scrolls complete.
+2025-04-26 15:46:24,160 - DEBUG - Total comments in the thread: 3
+2025-04-26 15:46:44,809 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What methods are people currently using to successfully post Trustpilot reviews themselves.txt
+2025-04-26 15:46:47,033 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:46:47,087 - DEBUG - Extracted main post content: What methods are people currently using to successfully post Trustpilot reviews themselves? I've tried using setups like GoLogin or ADSPower combined with Smartproxy or Oxylabs, but none of them worked—my reviews still ended up being removed.
+For the proxy part, I purchased residential proxies.
+
+If anyone is willing to share their method with me, I’d be happy to pay for it. Just leave your contact details and let me know how you managed to do it.
+2025-04-26 15:46:50,795 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:46:50,797 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:46:52,933 - INFO - performing random action
+2025-04-26 15:46:52,935 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:46:52,937 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:46:52,973 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:46:53,018 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:46:53,024 - DEBUG - Text box scrolled into view
+2025-04-26 15:46:53,648 - DEBUG - Initializing actionchains
+2025-04-26 15:46:53,671 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1868}, size: {'height': 21, 'width': 68}
+2025-04-26 15:46:53,671 - DEBUG - Target click coordinates: (1267, 1878)
+2025-04-26 15:47:01,376 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:47:01,378 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:47:01,379 - DEBUG - Clicking on the text box.
+2025-04-26 15:47:01,382 - DEBUG - Sending keys with content: Honestly, Trustpilot's getting pretty good at sniffing those out. Maybe try focusing on getting real customers to leave reviews organically; it's slower, but sticks better.
+
+2025-04-26 15:47:06,990 - DEBUG - Clicking on post reply button.
+2025-04-26 15:47:17,973 - DEBUG - Performed Actionchains
+2025-04-26 15:47:17,973 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:47:21,975 - INFO - Comment posted successfully.
+2025-04-26 15:47:21,977 - INFO - Task Completed!!
+2025-04-26 15:47:29,256 - INFO - Navigated back to the homepage.
+2025-04-26 15:47:31,559 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:47:31,587 - INFO - Garbage collection completed.
+2025-04-26 15:47:31,588 - INFO - Waiting for 1000 seconds before next execution.

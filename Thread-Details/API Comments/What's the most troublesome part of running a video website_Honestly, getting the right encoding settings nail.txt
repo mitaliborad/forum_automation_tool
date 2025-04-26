@@ -1,0 +1,1 @@
+Honestly, getting the right encoding settings nailed down to balance quality and load times drove me nuts. Test, test, and test again!

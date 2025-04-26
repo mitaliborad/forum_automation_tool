@@ -1,0 +1,127 @@
+2025-04-26 14:35:16,952 - INFO - Current time: 1745658316.9522474
+2025-04-26 14:35:16,952 - INFO - Token expiration time: 1745669110.3820143
+2025-04-26 14:35:16,953 - INFO - Token expiration time: 1745669110.3820143
+2025-04-26 14:35:16,953 - INFO - performing random action
+2025-04-26 14:35:16,955 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:35:16,958 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:35:16,959 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:16,967 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E36844D5+25349]
+	(No symbol) [0x00007FF6E35E90F0]
+	(No symbol) [0x00007FF6E3465A0A]
+	(No symbol) [0x00007FF6E345590C]
+	(No symbol) [0x00007FF6E34555FA]
+	(No symbol) [0x00007FF6E345329A]
+	(No symbol) [0x00007FF6E3453C5F]
+	(No symbol) [0x00007FF6E345FC9E]
+	(No symbol) [0x00007FF6E3476161]
+	(No symbol) [0x00007FF6E347D10A]
+	(No symbol) [0x00007FF6E34543CD]
+	(No symbol) [0x00007FF6E3475E95]
+	(No symbol) [0x00007FF6E350F499]
+	(No symbol) [0x00007FF6E34E72D3]
+	(No symbol) [0x00007FF6E34B06F8]
+	(No symbol) [0x00007FF6E34B1463]
+	GetHandleVerifier [0x00007FF6E3A0887D+3712685]
+	GetHandleVerifier [0x00007FF6E3A208C2+3811058]
+	GetHandleVerifier [0x00007FF6E3A1457D+3761069]
+	GetHandleVerifier [0x00007FF6E375293A+870250]
+	(No symbol) [0x00007FF6E35F42CF]
+	(No symbol) [0x00007FF6E35EFC14]
+	(No symbol) [0x00007FF6E35EFDC2]
+	(No symbol) [0x00007FF6E35DEED9]
+	BaseThreadInitThunk [0x00007FF941AD7374+20]
+	RtlUserThreadStart [0x00007FF942FBCC91+33]
+
+2025-04-26 14:40:18,072 - DEBUG - Page scrolled.
+2025-04-26 14:40:20,074 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:21,252 - DEBUG - Page scrolled.
+2025-04-26 14:40:23,253 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:24,414 - DEBUG - Page scrolled.
+2025-04-26 14:40:26,416 - DEBUG - Random scrolls complete.
+2025-04-26 14:40:26,417 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:40:26,418 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:27,465 - DEBUG - Page scrolled.
+2025-04-26 14:40:29,467 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:40:31,265 - DEBUG - Page scrolled.
+2025-04-26 14:40:33,268 - DEBUG - Random scrolls complete.
+2025-04-26 14:41:09,454 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cpa.50/
+2025-04-26 14:41:13,241 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/what-is-difference-between-spam-and-warm.1708706/unread
+2025-04-26 14:41:13,242 - INFO - performing random action
+2025-04-26 14:41:39,424 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/what-is-difference-between-spam-and-warm.1708706/unread
+2025-04-26 14:41:39,427 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/what-is-difference-between-spam-and-warm.1708706/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:41:39,480 - INFO - Extracted thread title: What is difference between spam and warm
+2025-04-26 14:41:39,480 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:41:39,481 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:41,018 - DEBUG - Page scrolled.
+2025-04-26 14:41:43,021 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:44,573 - DEBUG - Page scrolled.
+2025-04-26 14:41:46,576 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:48,543 - DEBUG - Page scrolled.
+2025-04-26 14:41:50,545 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:51,940 - DEBUG - Page scrolled.
+2025-04-26 14:41:53,942 - DEBUG - Random scrolls complete.
+2025-04-26 14:41:56,300 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:41:56,302 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:41:57,761 - DEBUG - Page scrolled.
+2025-04-26 14:42:00,763 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:42:02,726 - DEBUG - Page scrolled.
+2025-04-26 14:42:05,727 - DEBUG - Random scrolls complete.
+2025-04-26 14:42:05,765 - DEBUG - Found 1 like buttons.
+2025-04-26 14:42:08,766 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-26 14:42:09,438 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:42:09,469 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:42:09,470 - DEBUG - Liked post number 1 of 1.
+2025-04-26 14:42:14,114 - INFO - Liked 1 posts successfully.
+2025-04-26 14:42:14,116 - INFO - Liked 1 posts successfully.
+2025-04-26 14:42:16,748 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-04-26 14:42:29,396 - INFO - Profile DataPhreak: Pausing for 38.33 seconds...
+2025-04-26 14:43:07,731 - INFO - Profile DataPhreak: Resuming...
+2025-04-26 14:43:07,761 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-04-26 14:43:07,762 - INFO - performing random action
+2025-04-26 14:43:07,764 - DEBUG - Scrolling page 5 times.
+2025-04-26 14:43:07,764 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:43:09,377 - DEBUG - Page scrolled.
+2025-04-26 14:43:12,379 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:43:13,622 - DEBUG - Page scrolled.
+2025-04-26 14:43:16,624 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:43:18,512 - DEBUG - Page scrolled.
+2025-04-26 14:43:21,514 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:43:22,794 - DEBUG - Page scrolled.
+2025-04-26 14:43:25,797 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:43:27,070 - DEBUG - Page scrolled.
+2025-04-26 14:43:30,072 - DEBUG - Random scrolls complete.
+2025-04-26 14:43:32,245 - DEBUG - Total comments in the thread: 1
+2025-04-26 14:43:32,324 - INFO - Post content extracted and saved to Thread-Details/Thread Content\What is difference between spam and warm.txt
+2025-04-26 14:43:34,331 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:43:34,382 - DEBUG - Extracted main post content: I want to know the difference between spam and warm in promoting CPA offers on Instagram and TikTok
+Are there any add-ons or programs that help in this promotion process or secrets? I hope someone can explain it to me because many have mentioned this method but have not checked it for me.
+2025-04-26 14:43:38,460 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:43:38,463 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:43:40,552 - INFO - Profile DataPhreak: Pausing for 37.27 seconds...
+2025-04-26 14:44:17,826 - INFO - Profile DataPhreak: Resuming...
+2025-04-26 14:44:17,827 - INFO - performing random action
+2025-04-26 14:44:17,828 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:44:17,829 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:44:17,843 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:44:17,879 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:44:17,885 - DEBUG - Text box scrolled into view
+2025-04-26 14:44:18,852 - DEBUG - Initializing actionchains
+2025-04-26 14:44:18,872 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1076}, size: {'height': 21, 'width': 68}
+2025-04-26 14:44:18,872 - DEBUG - Target click coordinates: (1267, 1086)
+2025-04-26 14:44:24,706 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:44:24,708 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:44:24,709 - DEBUG - Clicking on the text box.
+2025-04-26 14:44:24,713 - DEBUG - Sending keys with content: Spam feels like shouting into the void, while warming accounts is more like building genuine connections before pitching. Honestly, automation tools are a dime a dozen, but focusing on authentic engagement and killer content beats 'em all, wouldn't you agree?
+
+2025-04-26 14:44:30,157 - DEBUG - Clicking on post reply button.
+2025-04-26 14:44:31,550 - DEBUG - Performed Actionchains
+2025-04-26 14:44:31,551 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:44:35,552 - INFO - Comment posted successfully.
+2025-04-26 14:44:35,554 - INFO - Task Completed!!
+2025-04-26 14:44:41,676 - INFO - Navigated back to the homepage.
+2025-04-26 14:44:44,427 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:44:44,458 - INFO - Garbage collection completed.
+2025-04-26 14:44:44,459 - INFO - Waiting for 1000 seconds before next execution.

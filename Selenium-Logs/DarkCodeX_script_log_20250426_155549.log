@@ -1,0 +1,112 @@
+2025-04-26 15:55:49,221 - INFO - Current time: 1745663149.2218187
+2025-04-26 15:55:49,222 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 15:55:49,223 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 15:55:49,224 - INFO - Profile DarkCodeX: Pausing for 35.60 seconds...
+2025-04-26 15:56:24,829 - INFO - Profile DarkCodeX: Resuming...
+2025-04-26 15:56:24,831 - INFO - performing random action
+2025-04-26 15:56:24,833 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:56:24,835 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:56:24,837 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:26,829 - DEBUG - Page scrolled.
+2025-04-26 15:56:28,832 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:30,173 - DEBUG - Page scrolled.
+2025-04-26 15:56:32,175 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:33,419 - DEBUG - Page scrolled.
+2025-04-26 15:56:35,421 - DEBUG - Random scrolls complete.
+2025-04-26 15:56:35,423 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:56:35,424 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:36,682 - DEBUG - Page scrolled.
+2025-04-26 15:56:38,684 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:40,533 - DEBUG - Page scrolled.
+2025-04-26 15:56:42,535 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:43,889 - DEBUG - Page scrolled.
+2025-04-26 15:56:45,891 - DEBUG - Random scrolls complete.
+2025-04-26 15:56:55,662 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/blogging.3/
+2025-04-26 15:56:59,441 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-help-for-starting-blogging-website.1700231/unread
+2025-04-26 15:56:59,441 - INFO - performing random action
+2025-04-26 15:57:10,752 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-help-for-starting-blogging-website.1700231/unread
+2025-04-26 15:57:10,755 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-help-for-starting-blogging-website.1700231/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:57:10,798 - INFO - Extracted thread title: Need help for Starting blogging Website
+2025-04-26 15:57:10,798 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:57:10,799 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:57:12,080 - DEBUG - Page scrolled.
+2025-04-26 15:57:14,082 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:57:15,121 - DEBUG - Page scrolled.
+2025-04-26 15:57:17,123 - DEBUG - Random scrolls complete.
+2025-04-26 15:57:19,158 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:57:19,159 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:57:20,742 - DEBUG - Page scrolled.
+2025-04-26 15:57:23,744 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:57:25,496 - DEBUG - Page scrolled.
+2025-04-26 15:57:28,497 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:57:29,912 - DEBUG - Page scrolled.
+2025-04-26 15:57:32,914 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:57:34,508 - DEBUG - Page scrolled.
+2025-04-26 15:57:37,509 - DEBUG - Random scrolls complete.
+2025-04-26 15:57:37,548 - DEBUG - Found 20 like buttons.
+2025-04-26 15:57:40,549 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-26 15:57:41,423 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:57:41,446 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:57:41,447 - DEBUG - Liked post number 1 of 3.
+2025-04-26 15:57:47,114 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:57:47,125 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:57:47,125 - DEBUG - Liked post number 2 of 3.
+2025-04-26 15:57:52,241 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:57:52,261 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:57:52,263 - DEBUG - Liked post number 3 of 3.
+2025-04-26 15:57:56,480 - INFO - Liked 3 posts successfully.
+2025-04-26 15:57:56,481 - INFO - Liked 3 posts successfully.
+2025-04-26 15:57:58,939 - INFO - performing random action
+2025-04-26 15:57:58,942 - DEBUG - Scrolling page 7 times.
+2025-04-26 15:57:58,943 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:58:00,810 - DEBUG - Page scrolled.
+2025-04-26 15:58:03,812 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:58:05,424 - DEBUG - Page scrolled.
+2025-04-26 15:58:08,426 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:58:09,679 - DEBUG - Page scrolled.
+2025-04-26 15:58:12,681 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:58:13,955 - DEBUG - Page scrolled.
+2025-04-26 15:58:16,957 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:58:18,422 - DEBUG - Page scrolled.
+2025-04-26 15:58:21,425 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:58:23,183 - DEBUG - Page scrolled.
+2025-04-26 15:58:26,184 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:58:27,660 - DEBUG - Page scrolled.
+2025-04-26 15:58:30,663 - DEBUG - Random scrolls complete.
+2025-04-26 15:58:33,540 - DEBUG - Total comments in the thread: 20
+2025-04-26 16:00:22,994 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need help for Starting blogging Website.txt
+2025-04-26 16:00:25,844 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 16:00:25,893 - DEBUG - Extracted main post content: I知 starting a gaming news and reviews website like GameRant. I already bought the domain, and since I知 a web developer, I値l build it myself. I can work on this full-time, so I知 ready to put in the effort.
+
+I have a few questions:
+
+Time Commitment: How many hours per day/week should I dedicate to this project for steady growth?
+Content Frequency: How many articles should I aim to publish daily/weekly/monthly to gain traction?
+SEO & Ranking: If I consistently publish articles, how long might it take to see decent page rankings?
+SEO Tips: Any proven strategies to boost organic traffic for a new gaming site?
+Thanks in advance for your help! Excited to hear your insights.
+2025-04-26 16:00:29,731 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 16:00:29,734 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 16:00:32,577 - INFO - performing random action
+2025-04-26 16:00:32,579 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:00:32,581 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:00:32,611 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:00:32,653 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:00:32,659 - DEBUG - Text box scrolled into view
+2025-04-26 16:00:33,240 - DEBUG - Initializing actionchains
+2025-04-26 16:00:33,287 - DEBUG - Post reply Element location: {'x': 1233, 'y': 9025}, size: {'height': 21, 'width': 68}
+2025-04-26 16:00:33,287 - DEBUG - Target click coordinates: (1267, 9035)
+2025-04-26 16:00:54,008 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 16:00:54,010 - DEBUG - Moving mouse to text box element.
+2025-04-26 16:00:54,011 - DEBUG - Clicking on the text box.
+2025-04-26 16:00:54,014 - DEBUG - Sending keys with content: Forget specific hours, focus on output. Aim for 3-5 well-researched pieces a week, and really nail the on-page SEO from day one.
+
+2025-04-26 16:00:59,306 - DEBUG - Clicking on post reply button.
+2025-04-26 16:01:10,377 - DEBUG - Performed Actionchains
+2025-04-26 16:01:10,378 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 16:01:14,380 - INFO - Comment posted successfully.
+2025-04-26 16:01:14,382 - INFO - Task Completed!!
+2025-04-26 16:01:21,370 - INFO - Navigated back to the homepage.
+2025-04-26 16:01:23,863 - INFO - Attempting to clear memory and resources.
+2025-04-26 16:01:23,895 - INFO - Garbage collection completed.
+2025-04-26 16:01:23,896 - INFO - Waiting for 1000 seconds before next execution.

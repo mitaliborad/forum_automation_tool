@@ -1,0 +1,57 @@
+--- Main Post Title ---
+Need payment processor for paysafecard
+
+Total comments in the thread: 5
+
+Topic User: MethodA
+Topic: Hi guys,
+
+I'm looking for an payment processor/gateway which provides paysafecard and can payout in crypto. My business is not related to shady stuff or similar. Also company is available.
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: SirT
+Topic: Checkout peerwallet .com they have diffrent otions like paypal and card, they might have paysafecard too.
+Liked by: PhantomRoot
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: marshmallej
+Topic: Consider using CoinGate or BitPay, as they support paysafecard payments and allow payouts in crypto, with a focus on legitimate business operations.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: SmilePSC
+Topic: MethodA said:
+Hi guys,
+
+I'm looking for an payment processor/gateway which provides paysafecard and can payout in crypto. My business is not related to shady stuff or similar. Also company is available.
+Hi
+Do you have paysafecard giftcard?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: PhantomRoot
+Topic: Finding a processor that handles paysafecard AND crypto payouts is tough; have you looked into using two separate services and bridging them?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

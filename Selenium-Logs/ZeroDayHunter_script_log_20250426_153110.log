@@ -1,0 +1,104 @@
+2025-04-26 15:31:10,102 - INFO - Current time: 1745661670.1022105
+2025-04-26 15:31:10,104 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 15:31:10,106 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 15:31:10,108 - INFO - performing random action
+2025-04-26 15:31:10,154 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:31:10,156 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:31:10,158 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:31:11,430 - DEBUG - Page scrolled.
+2025-04-26 15:31:13,432 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:31:15,091 - DEBUG - Page scrolled.
+2025-04-26 15:31:17,093 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:31:18,231 - DEBUG - Page scrolled.
+2025-04-26 15:31:20,233 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:31:22,006 - DEBUG - Page scrolled.
+2025-04-26 15:31:24,008 - DEBUG - Random scrolls complete.
+2025-04-26 15:31:24,009 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:31:24,011 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:31:25,584 - DEBUG - Page scrolled.
+2025-04-26 15:31:27,585 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:31:29,134 - DEBUG - Page scrolled.
+2025-04-26 15:31:31,136 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:31:33,056 - DEBUG - Page scrolled.
+2025-04-26 15:31:35,058 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:31:36,866 - DEBUG - Page scrolled.
+2025-04-26 15:31:38,867 - DEBUG - Random scrolls complete.
+2025-04-26 15:31:46,825 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/proxies.101/
+2025-04-26 15:31:50,357 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/isp-proxy-eu-baltic-if-possible-please.1708691/unread
+2025-04-26 15:31:50,358 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-26 15:31:50,360 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 15.58 seconds...
+2025-04-26 15:32:05,942 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-26 15:32:05,944 - INFO - performing random action
+2025-04-26 15:32:14,547 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/isp-proxy-eu-baltic-if-possible-please.1708691/unread
+2025-04-26 15:32:14,548 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/isp-proxy-eu-baltic-if-possible-please.1708691/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:32:14,574 - INFO - Extracted thread title: ISP proxy EU, Baltic if Possible , please
+2025-04-26 15:32:14,574 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:32:14,575 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:16,283 - DEBUG - Page scrolled.
+2025-04-26 15:32:18,285 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:19,447 - DEBUG - Page scrolled.
+2025-04-26 15:32:21,448 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:23,438 - DEBUG - Page scrolled.
+2025-04-26 15:32:25,440 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:27,330 - DEBUG - Page scrolled.
+2025-04-26 15:32:29,331 - DEBUG - Random scrolls complete.
+2025-04-26 15:32:31,543 - DEBUG - Scrolling page 1 times.
+2025-04-26 15:32:31,545 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:33,376 - DEBUG - Page scrolled.
+2025-04-26 15:32:36,377 - DEBUG - Random scrolls complete.
+2025-04-26 15:32:36,409 - DEBUG - Found 2 like buttons.
+2025-04-26 15:32:39,410 - INFO - Attempting to like 2 posts. There are 2 available.
+2025-04-26 15:32:40,209 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:32:40,239 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:32:40,242 - DEBUG - Liked post number 1 of 2.
+2025-04-26 15:32:45,737 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:32:45,757 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:32:45,759 - DEBUG - Liked post number 2 of 2.
+2025-04-26 15:32:50,484 - INFO - Liked 2 posts successfully.
+2025-04-26 15:32:50,485 - INFO - Liked 2 posts successfully.
+2025-04-26 15:32:52,624 - INFO - performing random action
+2025-04-26 15:32:52,625 - DEBUG - Scrolling page 7 times.
+2025-04-26 15:32:52,627 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:54,326 - DEBUG - Page scrolled.
+2025-04-26 15:32:57,327 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:58,717 - DEBUG - Page scrolled.
+2025-04-26 15:33:01,719 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:02,766 - DEBUG - Page scrolled.
+2025-04-26 15:33:05,767 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:07,753 - DEBUG - Page scrolled.
+2025-04-26 15:33:10,755 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:11,839 - DEBUG - Page scrolled.
+2025-04-26 15:33:14,841 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:15,896 - DEBUG - Page scrolled.
+2025-04-26 15:33:18,898 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:20,116 - DEBUG - Page scrolled.
+2025-04-26 15:33:23,117 - DEBUG - Random scrolls complete.
+2025-04-26 15:33:25,707 - DEBUG - Total comments in the thread: 2
+2025-04-26 15:33:25,883 - INFO - Post content extracted and saved to Thread-Details/Thread Content\ISP proxy EU, Baltic if Possible , please.txt
+2025-04-26 15:33:28,368 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:33:28,418 - DEBUG - Extracted main post content: After doing some serious research, I gave up on setting up proxies myself. I went to a marketplace to look for proxies but got overwhelmed — there are just too many options. Can anyone share a few sources to buy EU ISP proxies? Thanks!
+2025-04-26 15:33:31,973 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:33:31,976 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:33:34,858 - INFO - performing random action
+2025-04-26 15:33:34,859 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:33:34,861 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:33:34,898 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:33:34,940 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:33:34,947 - DEBUG - Text box scrolled into view
+2025-04-26 15:33:35,493 - DEBUG - Initializing actionchains
+2025-04-26 15:33:35,529 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1675}, size: {'height': 21, 'width': 68}
+2025-04-26 15:33:35,529 - DEBUG - Target click coordinates: (1267, 1685)
+2025-04-26 15:33:42,797 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:33:42,798 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:33:42,800 - DEBUG - Clicking on the text box.
+2025-04-26 15:33:42,803 - DEBUG - Sending keys with content: Finding reliable EU ISP proxies can be a pain, but have you checked out any of the smaller providers that specialize in residential IPs? They often have better support too.
+
+2025-04-26 15:33:48,476 - DEBUG - Clicking on post reply button.
+2025-04-26 15:33:59,478 - DEBUG - Performed Actionchains
+2025-04-26 15:33:59,478 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:34:03,479 - INFO - Comment posted successfully.
+2025-04-26 15:34:03,481 - INFO - Task Completed!!
+2025-04-26 15:34:15,522 - INFO - Navigated back to the homepage.
+2025-04-26 15:34:17,619 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:34:17,648 - INFO - Garbage collection completed.
+2025-04-26 15:34:17,649 - INFO - Waiting for 1000 seconds before next execution.

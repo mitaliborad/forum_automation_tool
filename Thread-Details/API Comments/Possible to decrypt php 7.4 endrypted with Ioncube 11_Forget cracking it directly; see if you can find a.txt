@@ -1,0 +1,1 @@
+Forget cracking it directly; see if you can find any publicly accessible routes that might leak info or just trigger errors.

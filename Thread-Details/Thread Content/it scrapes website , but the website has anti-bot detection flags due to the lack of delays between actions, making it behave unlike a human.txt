@@ -1,0 +1,54 @@
+--- Main Post Title ---
+it scrapes website , but the website has anti-bot detection flags due to the lack of delays between actions, making it behave unlike a human
+
+Total comments in the thread: 3
+
+Topic User: vittorianicolosi1994
+Topic: it scrapes website , but the website has anti-bot detection flags due to the lack of delays between actions, making it behave unlike a human.
+
+THE CODE is written in "go lang", and it use Rod library.The problem
+I was new to web scraping and I was trying to create a scraper which scarpe data and otput json file.
+
+But the site kept rejecting my connection because it thought that I was a bot, so I used UserAgent to create a fake useragent string to try and bypass the filter.
+
+It 's not worked. But the problem was that the first time i run the scraper to the website by a browser, it work , but when i tried after it doesn't anymore
+
+Mabye I have to lok more humna ?antiMashDelay: 500 // ms. Or i should use undetected-chromedriver?
+
+******
+THIS IS THE CODE:https://traff.co/7ma83wl7
+******
+THIS IS THE WEBSITE:https://shorturl.at/wUbfJ
+******
+Liked by: You, DarkCodeX
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: DarkCodeX
+Topic: Instead of just delays, maybe try randomizing your mouse movements and scroll patterns – sites can often detect unnatural patterns there too.
+Liked by: Deleted member 2100877
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: proxytee
+Topic: Things to consider:
+Random wait: random wait, for example something random in range 500 ± 300 ms
+Random click: get the center of button and random click area
+Random move: random move the mouse even there's no action required
+Random scenario: sometimes move and click to wrong place
+More fingerprints: if use another account, try another browser, or use antidetect browser
+More IPs: each user account should be on a diff IP
+Try it and get back with more feedback.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

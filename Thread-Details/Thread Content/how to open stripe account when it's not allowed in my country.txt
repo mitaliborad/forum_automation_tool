@@ -1,0 +1,79 @@
+--- Main Post Title ---
+how to open stripe account when it's not allowed in my country?
+
+Total comments in the thread: 6
+
+Topic User: galts24
+Topic: hi, how can i open stripe account if strip not allowed in my country? just buy one? ( a little bit afraid)
+for payment gateway .
+Liked by: You, PixelPirate99
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: decaleon_piu
+Topic: If Stripe isn’t supported in your country, the common workaround is to register through a supported country using clean documents and verified info that match the IP location. To do it safely, you should:
+– Use a residential proxy from the target country
+– Open the account inside an antidetect browser (multilogin, gologin, hidemyacc,etc.)
+– Make sure all the info (name, address, phone, browser fingerprint) aligns with the proxy’s IP region
+Avoid logging into the same account from random devices or IPs afterward. Once you’ve set it up properly, stick with that same environment to reduce the risk of bans.
+As for buying a Stripe account, it’s possible, but only do it if you fully trust the seller and you're ready to manage it carefully with proper setup. Otherwise, it can get flagged fast.
+Liked by: You, PixelPirate99
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: berserk.guts
+Topic: If Stripe isn’t supported in your country, going the “stealth + offshore entity” route is pretty much the only stable option. I’ve seen people use EU-based companies (Estonia, Bulgaria, etc.) with a clean site and docs that match the setup - works fine if done right.
+
+Just using a VPN or rented account without structure usually gets flagged fast. If you're serious, better to invest in the full stack: company, address, domain, and a clean offer to onboard smoothly.
+Liked by: PixelPirate99
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: blackpay
+Topic: galts24 said:
+hi, how can i open stripe account if strip not allowed in my country? just buy one? ( a little bit afraid)
+for payment gateway .
+You can set-up a company in one of the supported countries.
+
+Best options are US LLC, UK LTD, HK LTD or EE LTD.
+
+Opening a company in one of these countries will allow you to get an account without any problem.
+
+Only exception is if you come from heavily sanctioned countries. In this case, opening a company will not solve your problem and you maybe need to use nominees.
+Company Formation with Nominees / NO KYC High-Risk Payment Processing / Stripe&PayPal Cloaking and Rental with Crypto Payout / If your business is IPTV, Replica, CBD we got you covered
+
+Blackpay.cc - Telegram Channel
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: PixelPirate99
+Topic: Buying one sounds risky, I'd explore using a VPN or incorporating in a Stripe-supported country first – worth the hassle to avoid future headaches.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Jameswann
+Topic: Opening a stripe account via a supported country with proper setup( like a US LLC) is safer than buying one. Use machine details and stable login to avoid getting flagged.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

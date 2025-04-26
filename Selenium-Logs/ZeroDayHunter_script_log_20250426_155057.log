@@ -1,0 +1,117 @@
+2025-04-26 15:50:57,653 - INFO - Current time: 1745662857.653617
+2025-04-26 15:50:57,656 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 15:50:57,657 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 15:50:57,659 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-26 15:50:59,675 - INFO - performing random action
+2025-04-26 15:50:59,677 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:50:59,679 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:50:59,681 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:51:01,490 - DEBUG - Page scrolled.
+2025-04-26 15:51:03,491 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:51:04,540 - DEBUG - Page scrolled.
+2025-04-26 15:51:06,541 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:51:08,114 - DEBUG - Page scrolled.
+2025-04-26 15:51:10,116 - DEBUG - Random scrolls complete.
+2025-04-26 15:51:10,117 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:51:10,118 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:51:11,547 - DEBUG - Page scrolled.
+2025-04-26 15:51:13,549 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:51:15,056 - DEBUG - Page scrolled.
+2025-04-26 15:51:17,058 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:51:18,945 - DEBUG - Page scrolled.
+2025-04-26 15:51:20,947 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:51:22,403 - DEBUG - Page scrolled.
+2025-04-26 15:51:24,404 - DEBUG - Random scrolls complete.
+2025-04-26 15:51:33,512 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-04-26 15:51:37,755 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/it-scrapes-website-but-the-website-has-anti-bot-detection-flags-due-to-the-lack-of-delays-between-actions-making-it-behave-unlike-a-human.1694328/
+2025-04-26 15:51:37,756 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-26 15:51:37,760 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 15.12 seconds...
+2025-04-26 15:51:52,882 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-26 15:51:52,884 - INFO - performing random action
+2025-04-26 15:51:59,743 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/it-scrapes-website-but-the-website-has-anti-bot-detection-flags-due-to-the-lack-of-delays-between-actions-making-it-behave-unlike-a-human.1694328/
+2025-04-26 15:51:59,747 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/it-scrapes-website-but-the-website-has-anti-bot-detection-flags-due-to-the-lack-of-delays-between-actions-making-it-behave-unlike-a-human.1694328/' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:51:59,798 - INFO - Extracted thread title: it scrapes website , but the website has anti-bot detection flags due to the lack of delays between actions, making it behave unlike a human
+2025-04-26 15:51:59,798 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:51:59,799 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:00,828 - DEBUG - Page scrolled.
+2025-04-26 15:52:02,829 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:04,769 - DEBUG - Page scrolled.
+2025-04-26 15:52:06,770 - DEBUG - Random scrolls complete.
+2025-04-26 15:52:08,802 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:52:08,803 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:10,065 - DEBUG - Page scrolled.
+2025-04-26 15:52:13,068 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:14,549 - DEBUG - Page scrolled.
+2025-04-26 15:52:17,562 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:18,702 - DEBUG - Page scrolled.
+2025-04-26 15:52:21,703 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:23,496 - DEBUG - Page scrolled.
+2025-04-26 15:52:26,498 - DEBUG - Random scrolls complete.
+2025-04-26 15:52:26,534 - DEBUG - Found 3 like buttons.
+2025-04-26 15:52:29,534 - INFO - Attempting to like 1 posts. There are 3 available.
+2025-04-26 15:52:30,327 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:52:30,358 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:52:30,360 - DEBUG - Liked post number 1 of 1.
+2025-04-26 15:52:34,972 - INFO - Liked 1 posts successfully.
+2025-04-26 15:52:34,973 - INFO - Liked 1 posts successfully.
+2025-04-26 15:52:37,916 - INFO - performing random action
+2025-04-26 15:52:37,918 - DEBUG - Scrolling page 7 times.
+2025-04-26 15:52:37,919 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:39,844 - DEBUG - Page scrolled.
+2025-04-26 15:52:42,845 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:44,181 - DEBUG - Page scrolled.
+2025-04-26 15:52:47,183 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:48,939 - DEBUG - Page scrolled.
+2025-04-26 15:52:51,940 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:53,600 - DEBUG - Page scrolled.
+2025-04-26 15:52:56,602 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:52:58,013 - DEBUG - Page scrolled.
+2025-04-26 15:53:01,014 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:53:02,827 - DEBUG - Page scrolled.
+2025-04-26 15:53:05,828 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:53:07,074 - DEBUG - Page scrolled.
+2025-04-26 15:53:10,076 - DEBUG - Random scrolls complete.
+2025-04-26 15:53:12,700 - DEBUG - Total comments in the thread: 3
+2025-04-26 15:53:22,912 - INFO - Post content extracted and saved to Thread-Details/Thread Content\it scrapes website , but the website has anti-bot detection flags due to the lack of delays between actions, making it behave unlike a human.txt
+2025-04-26 15:53:25,818 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:53:25,842 - DEBUG - Extracted main post content: it scrapes website , but the website has anti-bot detection flags due to the lack of delays between actions, making it behave unlike a human.
+
+THE CODE is written in "go lang", and it use Rod library.The problem
+I was new to web scraping and I was trying to create a scraper which scarpe data and otput json file.
+
+But the site kept rejecting my connection because it thought that I was a bot, so I used UserAgent to create a fake useragent string to try and bypass the filter.
+
+It 's not worked. But the problem was that the first time i run the scraper to the website by a browser, it work , but when i tried after it doesn't anymore
+
+Mabye I have to lok more humna ?antiMashDelay: 500 // ms. Or i should use undetected-chromedriver?
+
+******
+THIS IS THE CODE:https://traff.co/7ma83wl7
+******
+THIS IS THE WEBSITE:https://shorturl.at/wUbfJ
+******
+2025-04-26 15:53:29,469 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:53:29,472 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:53:31,547 - INFO - performing random action
+2025-04-26 15:53:31,548 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:53:31,549 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:53:31,575 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:53:31,612 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:53:31,619 - DEBUG - Text box scrolled into view
+2025-04-26 15:53:32,368 - DEBUG - Initializing actionchains
+2025-04-26 15:53:32,425 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2338}, size: {'height': 21, 'width': 68}
+2025-04-26 15:53:32,426 - DEBUG - Target click coordinates: (1267, 2348)
+2025-04-26 15:53:41,476 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:53:41,477 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:53:41,478 - DEBUG - Clicking on the text box.
+2025-04-26 15:53:41,478 - DEBUG - Sending keys with content: Instead of bigger delays, try randomizing them a bit – humans aren't perfectly consistent, right? Also, rotating proxies might help avoid getting your IP blacklisted after the first run.
+
+2025-04-26 15:53:47,143 - DEBUG - Clicking on post reply button.
+2025-04-26 15:53:58,205 - DEBUG - Performed Actionchains
+2025-04-26 15:53:58,206 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:54:02,207 - INFO - Comment posted successfully.
+2025-04-26 15:54:02,208 - INFO - Task Completed!!
+2025-04-26 15:54:10,019 - INFO - Navigated back to the homepage.
+2025-04-26 15:54:12,599 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:54:12,623 - INFO - Garbage collection completed.
+2025-04-26 15:54:12,624 - INFO - Waiting for 1000 seconds before next execution.

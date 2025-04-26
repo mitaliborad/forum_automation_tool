@@ -1,0 +1,104 @@
+2025-04-26 14:33:46,365 - INFO - Current time: 1745658226.3653157
+2025-04-26 14:33:46,365 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 14:33:46,366 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 14:33:46,367 - INFO - performing random action
+2025-04-26 14:33:46,367 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:33:46,368 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:33:46,368 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:33:52,113 - DEBUG - Page scrolled.
+2025-04-26 14:33:54,113 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:33:55,799 - DEBUG - Page scrolled.
+2025-04-26 14:33:57,800 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:33:59,260 - DEBUG - Page scrolled.
+2025-04-26 14:34:01,262 - DEBUG - Random scrolls complete.
+2025-04-26 14:34:01,263 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:34:01,264 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:34:03,111 - DEBUG - Page scrolled.
+2025-04-26 14:34:05,112 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:34:06,844 - DEBUG - Page scrolled.
+2025-04-26 14:34:08,846 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:34:09,881 - DEBUG - Page scrolled.
+2025-04-26 14:34:11,883 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:34:13,796 - DEBUG - Page scrolled.
+2025-04-26 14:34:15,798 - DEBUG - Random scrolls complete.
+2025-04-26 14:34:20,806 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-04-26 14:34:24,698 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/my-music-clip-created-using-ai.1541013/unread
+2025-04-26 14:34:24,698 - INFO - Profile PhantomRoot: Opening random website: https://www.netflix.com/in/
+2025-04-26 14:34:41,149 - INFO - Profile PhantomRoot: Pausing for 34.70 seconds...
+2025-04-26 14:35:15,847 - INFO - Profile PhantomRoot: Resuming...
+2025-04-26 14:35:15,883 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-26 14:35:15,885 - INFO - performing random action
+2025-04-26 14:35:39,886 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/my-music-clip-created-using-ai.1541013/unread
+2025-04-26 14:35:39,888 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/my-music-clip-created-using-ai.1541013/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:35:39,949 - INFO - Extracted thread title: My music clip created using AI
+2025-04-26 14:35:39,950 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:35:39,951 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:35:41,464 - DEBUG - Page scrolled.
+2025-04-26 14:35:43,780 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:35:45,058 - DEBUG - Page scrolled.
+2025-04-26 14:35:47,064 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:35:49,051 - DEBUG - Page scrolled.
+2025-04-26 14:35:51,053 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:35:52,448 - DEBUG - Page scrolled.
+2025-04-26 14:35:54,450 - DEBUG - Random scrolls complete.
+2025-04-26 14:35:57,159 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:35:57,159 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:35:58,377 - DEBUG - Page scrolled.
+2025-04-26 14:36:01,378 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:02,749 - DEBUG - Page scrolled.
+2025-04-26 14:36:05,751 - DEBUG - Random scrolls complete.
+2025-04-26 14:36:05,775 - DEBUG - Found 20 like buttons.
+2025-04-26 14:36:08,776 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-04-26 14:36:09,795 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:36:09,820 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:36:09,820 - DEBUG - Liked post number 1 of 3.
+2025-04-26 14:36:15,206 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:36:15,227 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:36:15,229 - DEBUG - Liked post number 2 of 3.
+2025-04-26 14:36:21,193 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:36:21,211 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:36:21,212 - DEBUG - Liked post number 3 of 3.
+2025-04-26 14:36:26,057 - INFO - Liked 3 posts successfully.
+2025-04-26 14:36:26,059 - INFO - Liked 3 posts successfully.
+2025-04-26 14:36:28,748 - INFO - performing random action
+2025-04-26 14:36:28,751 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:36:28,752 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:30,482 - DEBUG - Page scrolled.
+2025-04-26 14:36:33,485 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:34,599 - DEBUG - Page scrolled.
+2025-04-26 14:36:37,601 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:36:38,608 - DEBUG - Page scrolled.
+2025-04-26 14:36:41,609 - DEBUG - Random scrolls complete.
+2025-04-26 14:36:44,099 - DEBUG - Total comments in the thread: 20
+2025-04-26 14:37:47,708 - INFO - Post content extracted and saved to Thread-Details/Thread Content\My music clip created using AI.txt
+2025-04-26 14:37:50,595 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:37:50,674 - DEBUG - Extracted main post content: Text, voice, music and video created by AI
+2025-04-26 14:37:56,247 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:37:56,250 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:37:58,492 - INFO - Profile PhantomRoot: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-26 14:38:03,595 - INFO - Profile PhantomRoot: Pausing for 45.62 seconds...
+2025-04-26 14:38:49,214 - INFO - Profile PhantomRoot: Resuming...
+2025-04-26 14:38:49,274 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-26 14:38:49,282 - INFO - performing random action
+2025-04-26 14:38:49,284 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:38:49,285 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:38:49,305 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:38:49,373 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:38:49,382 - DEBUG - Text box scrolled into view
+2025-04-26 14:38:50,344 - DEBUG - Initializing actionchains
+2025-04-26 14:38:50,420 - DEBUG - Post reply Element location: {'x': 1233, 'y': 8175}, size: {'height': 21, 'width': 68}
+2025-04-26 14:38:50,420 - DEBUG - Target click coordinates: (1267, 8185)
+2025-04-26 14:39:09,320 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:39:09,322 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:39:09,323 - DEBUG - Clicking on the text box.
+2025-04-26 14:39:09,325 - DEBUG - Sending keys with content: Yeah, it's wild how fast AI is changing content creation. What ethical lines do you think we should be drawing in the sand?
+
+2025-04-26 14:39:14,941 - DEBUG - Clicking on post reply button.
+2025-04-26 14:39:16,216 - DEBUG - Performed Actionchains
+2025-04-26 14:39:16,216 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:39:20,218 - INFO - Comment posted successfully.
+2025-04-26 14:39:20,218 - INFO - Task Completed!!
+2025-04-26 14:39:23,723 - INFO - Navigated back to the homepage.
+2025-04-26 14:39:26,582 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:39:26,613 - INFO - Garbage collection completed.
+2025-04-26 14:39:26,613 - INFO - Waiting for 1000 seconds before next execution.

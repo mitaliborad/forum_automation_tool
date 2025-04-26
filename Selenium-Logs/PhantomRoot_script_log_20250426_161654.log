@@ -1,0 +1,117 @@
+2025-04-26 16:16:54,945 - INFO - Current time: 1745664414.945913
+2025-04-26 16:16:54,948 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 16:16:54,949 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 16:16:54,950 - INFO - performing random action
+2025-04-26 16:16:54,952 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 16:16:54,953 - DEBUG - Scrolling page 2 times.
+2025-04-26 16:16:54,954 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:56,511 - DEBUG - Page scrolled.
+2025-04-26 16:16:58,514 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:59,687 - DEBUG - Page scrolled.
+2025-04-26 16:17:01,688 - DEBUG - Random scrolls complete.
+2025-04-26 16:17:01,690 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:17:01,692 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:03,049 - DEBUG - Page scrolled.
+2025-04-26 16:17:05,052 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:06,270 - DEBUG - Page scrolled.
+2025-04-26 16:17:08,273 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:09,771 - DEBUG - Page scrolled.
+2025-04-26 16:17:11,773 - DEBUG - Random scrolls complete.
+2025-04-26 16:17:22,117 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/voice-search.280/
+2025-04-26 16:17:25,690 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/google-voice-and-gmail-fb-acc-support.1280979/
+2025-04-26 16:17:25,690 - INFO - performing random action
+2025-04-26 16:17:34,688 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/google-voice-and-gmail-fb-acc-support.1280979/
+2025-04-26 16:17:34,690 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/google-voice-and-gmail-fb-acc-support.1280979/' to visited threads file 'Thread_links.txt'.
+2025-04-26 16:17:34,746 - INFO - Extracted thread title: Google voice and gmail fb acc support
+2025-04-26 16:17:34,747 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:17:34,747 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:36,453 - DEBUG - Page scrolled.
+2025-04-26 16:17:38,454 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:39,652 - DEBUG - Page scrolled.
+2025-04-26 16:17:41,654 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:43,286 - DEBUG - Page scrolled.
+2025-04-26 16:17:45,288 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:46,641 - DEBUG - Page scrolled.
+2025-04-26 16:17:48,643 - DEBUG - Random scrolls complete.
+2025-04-26 16:17:50,874 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:17:50,875 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:52,282 - DEBUG - Page scrolled.
+2025-04-26 16:17:55,284 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:56,584 - DEBUG - Page scrolled.
+2025-04-26 16:17:59,586 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:01,117 - DEBUG - Page scrolled.
+2025-04-26 16:18:04,119 - DEBUG - Random scrolls complete.
+2025-04-26 16:18:04,134 - DEBUG - Found 19 like buttons.
+2025-04-26 16:18:07,135 - INFO - Attempting to like 3 posts. There are 19 available.
+2025-04-26 16:18:07,900 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:18:07,912 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:18:07,912 - DEBUG - Liked post number 1 of 3.
+2025-04-26 16:18:13,324 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:18:13,331 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:18:13,332 - DEBUG - Liked post number 2 of 3.
+2025-04-26 16:18:18,678 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:18:18,686 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:18:18,687 - DEBUG - Liked post number 3 of 3.
+2025-04-26 16:18:22,828 - INFO - Liked 3 posts successfully.
+2025-04-26 16:18:22,828 - INFO - Liked 3 posts successfully.
+2025-04-26 16:18:24,871 - INFO - performing random action
+2025-04-26 16:18:24,873 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:18:24,874 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:26,778 - DEBUG - Page scrolled.
+2025-04-26 16:18:29,780 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:31,628 - DEBUG - Page scrolled.
+2025-04-26 16:18:34,630 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:36,288 - DEBUG - Page scrolled.
+2025-04-26 16:18:39,290 - DEBUG - Random scrolls complete.
+2025-04-26 16:18:41,748 - DEBUG - Total comments in the thread: 19
+2025-04-26 16:21:08,575 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Google voice and gmail fb acc support.txt
+2025-04-26 16:21:11,199 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 16:21:11,247 - DEBUG - Extracted main post content: Hello Every one
+Where i sell properly my
+Lots of google voice, gmail, facebook
+Facebook ads coupon and verified business manager account.
+
+I reseltly sell my social media acc but he was scam with me. Not pay my acc payment.
+So i tried to sell my service.
+Every where lots of scamer.
+So how can i findout and successfully sell my service.
+
+Any one help me please.
+2025-04-26 16:21:15,948 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 16:21:15,951 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 16:21:18,754 - INFO - performing random action
+2025-04-26 16:21:18,756 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:21:18,757 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:21:18,815 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:21:18,872 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:21:18,878 - DEBUG - Text box scrolled into view
+2025-04-26 16:21:19,658 - DEBUG - Initializing actionchains
+2025-04-26 16:21:19,773 - DEBUG - Post reply Element location: {'x': 1233, 'y': 6785}, size: {'height': 21, 'width': 68}
+2025-04-26 16:21:19,773 - DEBUG - Target click coordinates: (1267, 6795)
+2025-04-26 16:21:37,935 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 16:21:37,937 - DEBUG - Moving mouse to text box element.
+2025-04-26 16:21:37,938 - DEBUG - Clicking on the text box.
+2025-04-26 16:21:37,942 - DEBUG - Sending keys with content: Honestly, finding trustworthy buyers for accounts is tough. Maybe try using a reputable escrow service; it adds a layer of protection for both you and the buyer.
+
+2025-04-26 16:21:42,981 - DEBUG - Clicking on post reply button.
+2025-04-26 16:21:54,100 - DEBUG - Performed Actionchains
+2025-04-26 16:21:54,101 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 16:21:58,103 - INFO - Comment posted successfully.
+2025-04-26 16:21:58,105 - INFO - Task Completed!!
+2025-04-26 16:22:04,907 - INFO - Navigated back to the homepage.
+2025-04-26 16:22:07,550 - INFO - Attempting to clear memory and resources.
+2025-04-26 16:22:07,592 - INFO - Garbage collection completed.
+2025-04-26 16:22:07,593 - INFO - Waiting for 1000 seconds before next execution.
+2025-04-26 16:38:47,594 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-26 16:38:47,596 - INFO - Stopping browser for profile: PhantomRoot...
+2025-04-26 16:38:47,598 - INFO - Refreshing token before stopping profile...
+2025-04-26 16:38:47,600 - INFO - Refreshing token for PhantomRoot...
+2025-04-26 16:38:48,665 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-26 16:38:48,666 - INFO - Calculated token expiration time: 1745676528.6659765
+2025-04-26 16:38:48,666 - INFO - Profile PhantomRoot: Successfully logged in.
+2025-04-26 16:38:48,667 - INFO - Token refreshed successfully before stopping.
+2025-04-26 16:38:48,668 - INFO - Profile PhantomRoot: Attempting to stop (Attempt 1/3)...
+2025-04-26 16:38:48,673 - INFO - Profile PhantomRoot: Browser closed successfully in 0.00 seconds.
+2025-04-26 16:38:52,935 - INFO - Profile PhantomRoot: API call took 4.26 seconds.
+2025-04-26 16:38:52,937 - INFO - Profile PhantomRoot: Stopped successfully.
+2025-04-26 16:38:52,939 - INFO - Browser stopped successfully for profile: PhantomRoot.

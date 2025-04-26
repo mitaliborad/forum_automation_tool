@@ -1,0 +1,135 @@
+--- Main Post Title ---
+Aside from Payoneer and Wise, what other VBA(virtual bank account) services are there?
+
+Total comments in the thread: 11
+
+Topic User: c10s
+Topic: I need to setup a VBA using fake name, what are my best options?
+Liked by: You, DataPhreak
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: OB_One
+Topic: In which geo's will you be collecting payments?
+Liked by: You, DataPhreak
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: SirLouen
+Topic: c10s said:
+I need to setup a VBA using fake name, what are my best options?
+Wise and Payoneer need KYC a different thing is that you can fake the process, but you can do this pretty much with any bank under the sun with the risks it has associated.
+
+There are not many places to get a VBA without real KYC
+
+Check this: https://www.blackhatworld.com/seo/non-kyc-crypto-debit-credit-card.1582533/
+Liked by: You, DataPhreak
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: c10s
+Topic: OB_One said:
+In which geo's will you be collecting payments?
+I dont need to collect many payments, just the one payment that ebay UK uses to verify your account
+
+I think they send a 5p test payment and you have to give the reference code in the description
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: OB_One
+Topic: c10s said:
+I dont need to collect many payments, just the one payment that ebay UK uses to verify your account
+
+I think they send a 5p test payment and you have to give the reference code in the description
+I'm confused as what will the account be used for then?
+
+Any VBA provider will ask for purpose and some level of KYB.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: c10s
+Topic: OB_One said:
+I'm confused as what will the account be used for then?
+
+Any VBA provider will ask for purpose and some level of KYB.
+
+The account will be used to verify my ebay...
+
+Like I said ebay required account number and sort code to send a test dummy payment, with a code in the description you have to give them back
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: blackpay
+Topic: c10s said:
+I need to setup a VBA using fake name, what are my best options?
+With Fake Name, you have no options. We're in 2025 not 2000 where everything was "possible".
+Company Formation with Nominees / NO KYC High-Risk Payment Processing / Stripe&PayPal Cloaking and Rental with Crypto Payout / If your business is IPTV, Replica, CBD we got you covered
+
+Blackpay.cc - Telegram Channel
+Liked by: RealTraffic1
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Venusaur
+Topic: There are alternatives like Paysera and Paxum
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Salamouna
+Topic: You can use Mondo and dokascopy
+SALAMOUNA IS HERE
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: blackpay
+Topic: Salamouna said:
+dokascopy
+Very strict
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: DataPhreak
+Topic: Honestly, I wouldn't risk it. Getting caught using fake info could land you in hot water.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

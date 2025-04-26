@@ -1,0 +1,1 @@
+Finding a processor that handles paysafecard AND crypto payouts is tough; have you looked into using two separate services and bridging them?

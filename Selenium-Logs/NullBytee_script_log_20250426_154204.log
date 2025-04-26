@@ -1,0 +1,185 @@
+2025-04-26 15:42:04,873 - INFO - Current time: 1745662324.8737814
+2025-04-26 15:42:04,875 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 15:42:04,877 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 15:42:04,878 - INFO - performing random action
+2025-04-26 15:42:04,879 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:42:04,879 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:42:04,880 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:42:06,654 - DEBUG - Page scrolled.
+2025-04-26 15:42:08,656 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:42:09,822 - DEBUG - Page scrolled.
+2025-04-26 15:42:11,824 - DEBUG - Random scrolls complete.
+2025-04-26 15:42:11,827 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:42:11,829 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:42:13,167 - DEBUG - Page scrolled.
+2025-04-26 15:42:15,169 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:42:16,425 - DEBUG - Page scrolled.
+2025-04-26 15:42:18,427 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:42:20,066 - DEBUG - Page scrolled.
+2025-04-26 15:42:22,067 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:42:23,134 - DEBUG - Page scrolled.
+2025-04-26 15:42:25,137 - DEBUG - Random scrolls complete.
+2025-04-26 15:42:35,690 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/black-hat-seo.28/
+2025-04-26 15:42:39,983 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/100-day-black-hat-seo-easy-guide-for-noobs.1707944/unread
+2025-04-26 15:42:39,983 - INFO - Profile NullBytee: Pausing for 48.58 seconds...
+2025-04-26 15:43:28,560 - INFO - Profile NullBytee: Resuming...
+2025-04-26 15:43:28,561 - INFO - performing random action
+2025-04-26 15:43:39,745 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/100-day-black-hat-seo-easy-guide-for-noobs.1707944/unread
+2025-04-26 15:43:39,747 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/100-day-black-hat-seo-easy-guide-for-noobs.1707944/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:43:39,796 - INFO - Extracted thread title: $100Day Black Hat SEO EASY GUIDE FOR NOOBS
+2025-04-26 15:43:39,797 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:43:39,797 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:43:41,469 - DEBUG - Page scrolled.
+2025-04-26 15:43:43,471 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:43:44,515 - DEBUG - Page scrolled.
+2025-04-26 15:43:46,517 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:43:47,911 - DEBUG - Page scrolled.
+2025-04-26 15:43:49,913 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:43:51,121 - DEBUG - Page scrolled.
+2025-04-26 15:43:53,121 - DEBUG - Random scrolls complete.
+2025-04-26 15:43:55,474 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:43:55,475 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:43:56,854 - DEBUG - Page scrolled.
+2025-04-26 15:43:59,856 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:00,876 - DEBUG - Page scrolled.
+2025-04-26 15:44:03,878 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:04,898 - DEBUG - Page scrolled.
+2025-04-26 15:44:07,900 - DEBUG - Random scrolls complete.
+2025-04-26 15:44:07,938 - DEBUG - Found 20 like buttons.
+2025-04-26 15:44:10,939 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-26 15:44:11,758 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:44:11,773 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:44:11,774 - DEBUG - Liked post number 1 of 4.
+2025-04-26 15:44:16,952 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:44:16,959 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:44:16,959 - DEBUG - Liked post number 2 of 4.
+2025-04-26 15:44:22,021 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:44:22,040 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:44:22,042 - DEBUG - Liked post number 3 of 4.
+2025-04-26 15:44:26,714 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:44:26,736 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:44:26,738 - DEBUG - Liked post number 4 of 4.
+2025-04-26 15:44:31,173 - INFO - Liked 4 posts successfully.
+2025-04-26 15:44:31,174 - INFO - Liked 4 posts successfully.
+2025-04-26 15:44:34,078 - INFO - performing random action
+2025-04-26 15:44:34,080 - DEBUG - Scrolling page 7 times.
+2025-04-26 15:44:34,081 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:36,095 - DEBUG - Page scrolled.
+2025-04-26 15:44:39,097 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:40,104 - DEBUG - Page scrolled.
+2025-04-26 15:44:43,105 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:44,207 - DEBUG - Page scrolled.
+2025-04-26 15:44:47,208 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:48,566 - DEBUG - Page scrolled.
+2025-04-26 15:44:51,568 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:52,650 - DEBUG - Page scrolled.
+2025-04-26 15:44:55,653 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:44:56,843 - DEBUG - Page scrolled.
+2025-04-26 15:44:59,845 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:45:01,412 - DEBUG - Page scrolled.
+2025-04-26 15:45:04,414 - DEBUG - Random scrolls complete.
+2025-04-26 15:45:07,252 - DEBUG - Total comments in the thread: 20
+2025-04-26 15:46:42,530 - INFO - Post content extracted and saved to Thread-Details/Thread Content\$100Day Black Hat SEO EASY GUIDE FOR NOOBS.txt
+2025-04-26 15:46:44,974 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:46:45,056 - DEBUG - Extracted main post content: Astroturf SEO in 2025
+The MeatHead 2.0 Method that works in 2025 and beyond
+If you remember the old days on BHW, you'd probably remember the Meathead method, the one where you create an affiliate site and instead of ranking it on Google, you brute force affiliate commissions by spamming the site link everywhere relating to the niche like blog comments, etc to get direct traffic. It worked for a lot of members here and some even sold their sites after building it for years and landing $100+ daily.
+
+I did that in the early 2010s and it worked a charm. However things change, Facebook group spam filters change, blogs don't accept links etc in comments so that started to phase out UNLESS you had a way around it. I worked around this and managed to tweak the meathead method to the next level to not only get sales driving traffic using the affiliate site BUT to also increase conversions using a little immorality.
+
+I've had one particular site make me $21,000+ semi passively over the last 2 years with comments that still stick after years that I have't even touched.
+
+
+
+
+There’s a different kind of SEO out here. One where you don’t buy PBN backlinks, beg for authority, or fight for topical maps like the herd.
+
+Instead, you create a brand that never existed and force Google to believe it does.
+
+That’s what I call Astroturf SEO, because you're not growing a brand from grassroots. You're rolling out synthetic turf. Fake buzz. Staged reviews. And the illusion of legitimacy from day one.
+
+Let me show you how I built a fake affiliate brand, made it look like the hottest thing in its niche, and used black hat SEO to dominate the entire first page of Google… and how you can do the same with any affiliate niche or local offer you want.
+
+I started with a blank slate. No real product. Just an idea, let’s say I wanted to sell an affiliate product for a brain supplement. I picked a fake name that sounded brandable: “MindModeX.”
+
+No trademarks. No competition. Just white space. Something easy to rank for with just an EMD and a little bit of time.
+
+I built a basic one-page site using a landing page builder. I used Carrd but anything works fine. It had the usual affiliate structure: headline, social proof, product image, “buy now” button with my affiliate link, nothing fancy. But I didn’t just wait for it to rank.
+
+Instead, I made sure that if anyone Googled “MindModeX,” they’d see a wall of praise.
+
+I had to find sites that could index fast, and have high trustability.
+
+First, I wrote a Google Site called “Is MindModeX Legit? Read This First.” It was formatted like an honest review, a long-form post pretending to be skeptical, but ultimately supportive.
+Then I created a Notion page formatted like a casual journal. “Day 3 on MindModeX – Can’t Believe the Focus”, it read like something a student might write in a private note, but it was public, indexed, and ranking.
+After that came the Medium article: “Why I Stopped Taking Modafinil and Switched to MindModeX.” This one pretended to be a lifestyle shift. It had links to the site, but in a subtle “you can check them out here” tone.
+Next, I hit Reddit. I didn’t even link. I just posted under old accounts things like “Anyone else heard of MindModeX? Friend swears it helped with his MCATs.” No selling. Just planting the seed. Then I replied to myself and upvoted the thread.
+I added a TrustPilot page. Used fake comments to generate 5-star reviews. Uploaded a SlideShare deck called “3 Study Hacks for 2025 Students” and made Slide 9 mention MindModeX like it was common knowledge.
+Finally, I wrote Quora answers, dropped mentions in Discords, and commented on YouTube videos saying “MindModeX works better than coffee for me. Google it.”
+That was it.
+
+I didn’t link-spam. I didn’t even drive traffic directly.
+
+I just made people Google the name. And when they did?
+
+They saw a wall of support. Reviews. “User” journals. Community threads. Slides. Blog posts. All on trusted domains. And the #1 result was my site, the only one where they could actually buy it.
+
+This is how you create fake credibility. You rig Google to believe your brand is real. Then you let users confirm the illusion on their own.
+
+And when they see all that positive buzz from different sources? They don’t hesitate.
+
+They click. They buy. And they don’t even realize the buzz was you the entire time.
+
+That’s Astroturf SEO.
+
+It’s about manufacturing trust, stacking SERP real estate, and manipulating all of that attention.
+
+It works in any niche. CPA. Amazon affiliate. Supplements. Local SEO. Info products. Run 3–4 brands in parallel and you’ve got a $100/day setup on lock.
+
+Quick strategy to drive traffic for the brand:
+Once the site is made, you have all the page 1 showing brand recognition for your affiliate page, with fake social proof, its time to drive traffic using the Meathead method but with a twist. So for this brain supplement one for example, there was 3 main ways I'd drive traffic to the site.
+
+Reddit
+TikTok comments
+Facebook groups
+
+NOTE: DO NOT ADD LINKS TO THE WEBSITE I..E. MINDMODEX.COM
+
+The whole point is to make the user think they found out about the product by themselves or through a random stranger who had no ulterior motives. If the post/comment just mentioned MindModeX in passing, it sounds like a random referral which may require the user to search it. Once they see all the hype around it, they'll end up buying or doing whatever the CPA offer is.
+
+So for Reddit, I'd go on brain hacking subreddits, nootropic subreddits etc and just plug Mindmodex in a subtle engineered way. I'd find related brain posts like modafinil, focussing on exams etc and mention how I used to use black coffee but it lost its effects but mindmodex took you to God mode in terms of focus.
+
+That was it.
+
+No URL, nothing like that, just the mention of the brand. Now someone who goes on that post sees my comment, googles it and sees the affiliate site, the trustpilot reviews, the little mini reviews of the product etc. Now they'll go deeper and buy it directly from the affiliate site. Conversions would be insanely high thanks to all the raving reviews.
+
+Same for TikTok comments, I'd find related niche videos, and just say that X product was what I needed etc. I'd get tonnes of people searching directly for it.
+
+Do this and you'll get direct traffic to the site and land sales pretty easily.
+2025-04-26 15:46:50,436 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:46:50,439 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:46:53,116 - INFO - Profile NullBytee: Pausing for 34.97 seconds...
+2025-04-26 15:47:28,090 - INFO - Profile NullBytee: Resuming...
+2025-04-26 15:47:28,092 - INFO - performing random action
+2025-04-26 15:47:28,094 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:47:28,095 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:47:28,115 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:47:28,152 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:47:28,157 - DEBUG - Text box scrolled into view
+2025-04-26 15:47:28,795 - DEBUG - Initializing actionchains
+2025-04-26 15:47:28,818 - DEBUG - Post reply Element location: {'x': 1233, 'y': 12370}, size: {'height': 21, 'width': 68}
+2025-04-26 15:47:28,819 - DEBUG - Target click coordinates: (1267, 12380)
+2025-04-26 15:47:55,168 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:47:55,170 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:47:55,171 - DEBUG - Clicking on the text box.
+2025-04-26 15:47:55,174 - DEBUG - Sending keys with content: So it's basically about creating the *perception* of demand, not actual demand, right? What happens when people actually start using the product?
+
+2025-04-26 15:48:00,832 - DEBUG - Clicking on post reply button.
+2025-04-26 15:48:11,833 - DEBUG - Performed Actionchains
+2025-04-26 15:48:11,834 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:48:15,835 - INFO - Comment posted successfully.
+2025-04-26 15:48:15,837 - INFO - Task Completed!!
+2025-04-26 15:48:53,612 - INFO - Navigated back to the homepage.
+2025-04-26 15:48:55,667 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:48:55,711 - INFO - Garbage collection completed.
+2025-04-26 15:48:55,712 - INFO - Waiting for 1000 seconds before next execution.

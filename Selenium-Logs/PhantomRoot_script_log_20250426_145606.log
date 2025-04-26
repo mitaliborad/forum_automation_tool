@@ -1,0 +1,97 @@
+2025-04-26 14:56:06,616 - INFO - Current time: 1745659566.6162002
+2025-04-26 14:56:06,617 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 14:56:06,618 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 14:56:06,619 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-26 14:56:08,622 - INFO - performing random action
+2025-04-26 14:56:08,623 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:56:08,624 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:56:08,624 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:09,696 - DEBUG - Page scrolled.
+2025-04-26 14:56:11,701 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:12,812 - DEBUG - Page scrolled.
+2025-04-26 14:56:14,817 - DEBUG - Random scrolls complete.
+2025-04-26 14:56:14,819 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:56:14,820 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:16,716 - DEBUG - Page scrolled.
+2025-04-26 14:56:18,718 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:20,525 - DEBUG - Page scrolled.
+2025-04-26 14:56:22,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:23,618 - DEBUG - Page scrolled.
+2025-04-26 14:56:25,627 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:27,616 - DEBUG - Page scrolled.
+2025-04-26 14:56:29,620 - DEBUG - Random scrolls complete.
+2025-04-26 14:56:35,236 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-26 14:56:39,957 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-open-stripe-account-when-its-not-allowed-in-my-country.1708212/unread
+2025-04-26 14:56:39,958 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-26 14:56:41,961 - INFO - performing random action
+2025-04-26 14:56:53,391 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-open-stripe-account-when-its-not-allowed-in-my-country.1708212/unread
+2025-04-26 14:56:53,395 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-open-stripe-account-when-its-not-allowed-in-my-country.1708212/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:56:53,473 - INFO - Extracted thread title: how to open stripe account when it's not allowed in my country
+2025-04-26 14:56:53,474 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:56:53,474 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:54,601 - DEBUG - Page scrolled.
+2025-04-26 14:56:56,603 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:56:57,772 - DEBUG - Page scrolled.
+2025-04-26 14:56:59,777 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:57:00,960 - DEBUG - Page scrolled.
+2025-04-26 14:57:02,964 - DEBUG - Random scrolls complete.
+2025-04-26 14:57:05,068 - DEBUG - Scrolling page 1 times.
+2025-04-26 14:57:05,069 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:57:06,544 - DEBUG - Page scrolled.
+2025-04-26 14:57:09,552 - DEBUG - Random scrolls complete.
+2025-04-26 14:57:09,613 - DEBUG - Found 6 like buttons.
+2025-04-26 14:57:12,614 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-04-26 14:57:13,432 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:57:13,463 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:57:13,465 - DEBUG - Liked post number 1 of 2.
+2025-04-26 14:57:18,486 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:57:18,519 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:57:18,529 - DEBUG - Liked post number 2 of 2.
+2025-04-26 14:57:23,029 - INFO - Liked 2 posts successfully.
+2025-04-26 14:57:23,030 - INFO - Liked 2 posts successfully.
+2025-04-26 14:57:25,170 - INFO - Profile PhantomRoot: Restoring window...
+2025-04-26 14:57:27,175 - INFO - performing random action
+2025-04-26 14:57:27,177 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:57:27,179 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:57:29,171 - DEBUG - Page scrolled.
+2025-04-26 14:57:32,174 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:57:33,505 - DEBUG - Page scrolled.
+2025-04-26 14:57:36,509 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:57:38,130 - DEBUG - Page scrolled.
+2025-04-26 14:57:41,131 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:57:42,246 - DEBUG - Page scrolled.
+2025-04-26 14:57:45,249 - DEBUG - Random scrolls complete.
+2025-04-26 14:57:47,997 - DEBUG - Total comments in the thread: 6
+2025-04-26 14:58:19,536 - INFO - Post content extracted and saved to Thread-Details/Thread Content\how to open stripe account when it's not allowed in my country.txt
+2025-04-26 14:58:22,411 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:58:22,473 - DEBUG - Extracted main post content: hi, how can i open stripe account if strip not allowed in my country? just buy one? ( a little bit afraid)
+for payment gateway .
+2025-04-26 14:58:26,152 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:58:26,153 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:58:28,363 - INFO - Profile PhantomRoot: Opening default URL: https://www.google.com
+2025-04-26 14:58:42,545 - INFO - Profile PhantomRoot: Pausing for 39.66 seconds...
+2025-04-26 14:59:22,205 - INFO - Profile PhantomRoot: Resuming...
+2025-04-26 14:59:22,225 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-26 14:59:22,226 - INFO - performing random action
+2025-04-26 14:59:22,227 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:59:22,227 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:59:22,243 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:59:22,283 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:59:22,290 - DEBUG - Text box scrolled into view
+2025-04-26 14:59:23,129 - DEBUG - Initializing actionchains
+2025-04-26 14:59:23,152 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3011}, size: {'height': 21, 'width': 68}
+2025-04-26 14:59:23,152 - DEBUG - Target click coordinates: (1267, 3021)
+2025-04-26 14:59:32,628 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:59:32,630 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:59:32,632 - DEBUG - Clicking on the text box.
+2025-04-26 14:59:32,634 - DEBUG - Sending keys with content: Opening a Stripe account where it's not supported is tricky, but have you looked into using a VPN with a virtual address?
+
+2025-04-26 14:59:38,055 - DEBUG - Clicking on post reply button.
+2025-04-26 14:59:49,040 - DEBUG - Performed Actionchains
+2025-04-26 14:59:49,040 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:59:53,041 - INFO - Comment posted successfully.
+2025-04-26 14:59:53,043 - INFO - Task Completed!!
+2025-04-26 15:00:03,061 - INFO - Navigated back to the homepage.
+2025-04-26 15:00:05,526 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:00:05,572 - INFO - Garbage collection completed.
+2025-04-26 15:00:05,573 - INFO - Waiting for 1000 seconds before next execution.

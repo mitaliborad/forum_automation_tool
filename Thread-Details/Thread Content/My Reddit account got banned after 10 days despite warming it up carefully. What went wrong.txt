@@ -1,0 +1,153 @@
+--- Main Post Title ---
+My Reddit account got banned after 10 days despite warming it up carefully. What went wrong?
+
+Total comments in the thread: 8
+
+Topic User: leedscomputerservice
+Topic: So here’s how I set up the account. First, I grabbed a static residential proxy from Ping Proxies and added it to my anti-detect browser, which is Dolphin Anty. After that, I logged in from the browser to make sure the proxy was good. I checked it on Scamalytics and IPQualityScore to verify the fraud score, and everything looked solid.
+
+Then I hopped over to my personal browser and went to onlineonlinesim.io to rent a US phone number so I could create a Gmail account. I used the rented US number to verify the Gmail and everything set up fine. So with that all done, I thought everything should be good, right?
+
+After setting up the Gmail, I added a recovery phone number from a different US number and set a recovery email that was also created through a proxy and is tied to another US email. Again, I figured, all good?
+
+Then I made a new Reddit account. Logged in, used my new US Google account to verify my Reddit account so I could get that "Verified Email" badge under achievements.
+
+Followed the usual warm-up process too.
+First day: just scrolled.
+Second day: scrolled again.
+Third day: started browsing subs I like, upvoted 2-3 posts.
+Fourth day: upvoted another 2-3 posts.
+Fifth day: started joining subs I actually like, kept scrolling, upvoting, even saving and following posts.
+Seventh day: made my first comment, got around 3 upvotes.
+Eighth day: dropped 4 comments, started getting 5 upvotes on comments. So it looked like the account was warming up fine.
+Then on the 10th day, my account got banned. Gmail flagged as coming from a bot and it’s now set up for deletion. No idea how to move forward with this. Could it be:
+Static residential proxies are flagged by Reddit or Google? Should I switch to rotating residential proxies instead?
+Maybe my anti-detect browser or proxy setup isn’t right? But I do buy the proxies, add them to the anti-detect browser, check the connection, and check the fraud score too.
+Did I create the Gmail too fast? But if it didn’t get flagged for 10 days, why would it get flagged after? Is there a way to prevent Gmail from flagging later on?
+Is renting a number from sites like onlineonlinesim.io sketchy? Should I be using an actual real number instead? Or if there are alternatives, maybe you could recommend that as well?
+Really not sure what to do next. I spent a good chunk of money setting up the proxies, making sure each account sticks to just one proxy, one US Gmail (made on anti-detect browser + proxy), and so on.
+
+Kinda getting worried about my other accounts too because they were created the exact same way. They’re still alive for now, but if they all get suspended too, that’s basically hundreds of dollars down the drain.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: t9321
+Topic: most likely the proxy was shit. sometimes these ip scores lie a lot. try a aged reddit account and it may work a lot better as well.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: rimonrimon000
+Topic: t9321 said:
+most likely the proxy was shit. sometimes these ip scores lie a lot. try a aged reddit account and it may work a lot better as well.
+i need reddit account
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: leedscomputerservice
+Topic: t9321 said:
+most likely the proxy was shit. sometimes these ip scores lie a lot. try a aged reddit account and it may work a lot better as well.
+Probably. But this is Ping Proxies we’re talking about. Although, not sure because I saw one person complain about one of their proxies. Who knows.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: xxblackxx
+Topic: Reddit’s anti-spam system is brutal, flagging accounts via IP, browser fingerprints, or behaviour. Your warming (scrolling, upvoting, commenting) sounds solid, but here are potential issues:
+
+IP Issues: If you used a VPN/proxy, it might’ve been flagged from prior bans. Even residential proxies can be blacklisted. Try mobile 4G proxies ($2-3/month) for a cleaner IP. Avoid logging multiple accounts on the same IP—Reddit links them.
+
+Browser Fingerprinting: Reddit tracks device/browser signatures. If you didn’t use an anti-detect browser (e.g., Dolphin Anty) or clear cookies/history, they might’ve tied your new account to a banned one. Use incognito or a fresh browser profile.
+
+Account Source: If it was a purchased account, it could’ve been pre-flagged. Sellers like accountstealth or hellah0es have had bans, suggesting poor creation methods. Organically grow accounts on a mobile device for better longevity.
+
+Behaviour Flags: Even cautious comments can trigger bans if posted too soon or in heavily moderated subs (e.g., NSFW/political). Wait 2-3 weeks, aim for 500+ karma, and stick to small, lenient subs like r/AskReddit initially.
+
+Link Posting: If you shared links (especially to a site tied to banned accounts), that’s a red flag. Avoid links for 30+ days and never reuse old ones.
+
+Moving Forward: Use a mobile proxy, anti-detect browser, and new email (ProtonMail, not tied to bans). Warm for 30 days: browse, upvote, comment sparingly. Test with a fresh account, not purchased. Reddit’s a minefield, but patience pays off. Good luck
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: leedscomputerservice
+Topic: xxblackxx said:
+Reddit’s anti-spam system is brutal, flagging accounts via IP, browser fingerprints, or behaviour. Your warming (scrolling, upvoting, commenting) sounds solid, but here are potential issues:
+
+IP Issues: If you used a VPN/proxy, it might’ve been flagged from prior bans. Even residential proxies can be blacklisted. Try mobile 4G proxies ($2-3/month) for a cleaner IP. Avoid logging multiple accounts on the same IP—Reddit links them.
+
+Browser Fingerprinting: Reddit tracks device/browser signatures. If you didn’t use an anti-detect browser (e.g., Dolphin Anty) or clear cookies/history, they might’ve tied your new account to a banned one. Use incognito or a fresh browser profile.
+
+Account Source: If it was a purchased account, it could’ve been pre-flagged. Sellers like accountstealth or hellah0es have had bans, suggesting poor creation methods. Organically grow accounts on a mobile device for better longevity.
+
+Behaviour Flags: Even cautious comments can trigger bans if posted too soon or in heavily moderated subs (e.g., NSFW/political). Wait 2-3 weeks, aim for 500+ karma, and stick to small, lenient subs like r/AskReddit initially.
+
+Link Posting: If you shared links (especially to a site tied to banned accounts), that’s a red flag. Avoid links for 30+ days and never reuse old ones.
+
+Moving Forward: Use a mobile proxy, anti-detect browser, and new email (ProtonMail, not tied to bans). Warm for 30 days: browse, upvote, comment sparingly. Test with a fresh account, not purchased. Reddit’s a minefield, but patience pays off. Good luck
+Click to expand...
+Gee, thanks GPT. But I already mentioned that I used anti-detect browsers. The account was made fresh using a new proxy IP address. I did not buy it. It was grown organically, although not through a mobile proxy. I did not post in heavily moderated subs. The subs I interacted with have only 1,000 members and 500 members. They are super niche subs related to a very specific interest of mine.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: redswan
+Topic: Reddit is brutal recently. I've been trying to build fresh accounts all month and almost all of them have been banned. You have to be very careful because it seems like any single mistake, even if it's pretty minor, can get the account flagged.
+
+leedscomputerservice said:
+The account was made fresh using a new proxy IP address. I did not buy it. It was grown organically, although not through a mobile proxy.
+
+Everyone is saying that mobile proxy is the only way to go these days. So, I'd recommend trying those and make sure you don't rotate the IP mid session as that's an obvious red flag.
+
+Some people think building the account from a physical mobile device first (+ mobile proxy) and then later switching to antidetect browser on PC is a better signal to reddit than doing PC browser first.
+
+Wish I had more advice, I'm having the same difficulties on my end, too.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: leedscomputerservice
+Topic: redswan said:
+Reddit is brutal recently. I've been trying to build fresh accounts all month and almost all of them have been banned. You have to be very careful because it seems like any single mistake, even if it's pretty minor, can get the account flagged.
+
+
+
+Everyone is saying that mobile proxy is the only way to go these days. So, I'd recommend trying those and make sure you don't rotate the IP mid session as that's an obvious red flag.
+
+Some people think building the account from a physical mobile device first (+ mobile proxy) and then later switching to antidetect browser on PC is a better signal to reddit than doing PC browser first.
+
+Wish I had more advice, I'm having the same difficulties on my end, too.
+Click to expand...
+Yeah. That's why I have some accounts in cold storage. All on different IPs from where I live. One is at a coffee shop near me, the second is at my neighbor's house, and another near the church by me. All 1 account per household just so I can save on IP addresses because damn. I'd be out of money if I kept buying new proxies for accounts I haven't even used yet.
+
+I am using another account (not using proxies on this, it's on the coffee shop near me) just for emergency purposes. Once I get a new account on a proxy and once that's running, I can finally use the new account on the proxy and then have that account on a personal IP address back to cold storage again. I really can't get these IP addresses from where I live near me banned or I'll have to find new locations again.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

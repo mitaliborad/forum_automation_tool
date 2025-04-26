@@ -1,0 +1,99 @@
+2025-04-26 15:02:48,014 - INFO - Current time: 1745659968.0145006
+2025-04-26 15:02:48,017 - INFO - Token expiration time: 1745669283.0596635
+2025-04-26 15:02:48,018 - INFO - Token expiration time: 1745669283.0596635
+2025-04-26 15:02:48,019 - INFO - performing random action
+2025-04-26 15:02:48,020 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:02:48,022 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:02:48,023 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:02:49,630 - DEBUG - Page scrolled.
+2025-04-26 15:02:51,645 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:02:53,219 - DEBUG - Page scrolled.
+2025-04-26 15:02:55,222 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:02:56,611 - DEBUG - Page scrolled.
+2025-04-26 15:02:58,611 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:02:59,838 - DEBUG - Page scrolled.
+2025-04-26 15:03:01,839 - DEBUG - Random scrolls complete.
+2025-04-26 15:03:01,839 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:03:01,840 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:03:03,115 - DEBUG - Page scrolled.
+2025-04-26 15:03:05,116 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:03:07,038 - DEBUG - Page scrolled.
+2025-04-26 15:03:09,039 - DEBUG - Random scrolls complete.
+2025-04-26 15:03:14,145 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/link-building.108/
+2025-04-26 15:03:18,179 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-recover-when-serp-rankings-suddenly-drop.1704726/unread
+2025-04-26 15:03:18,180 - INFO - performing random action
+2025-04-26 15:03:25,475 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-recover-when-serp-rankings-suddenly-drop.1704726/unread
+2025-04-26 15:03:25,476 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-recover-when-serp-rankings-suddenly-drop.1704726/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:03:25,501 - INFO - Extracted thread title: How To Recover When SERP Rankings Suddenly Drop
+2025-04-26 15:03:25,501 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:03:25,502 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:03:27,018 - DEBUG - Page scrolled.
+2025-04-26 15:03:29,019 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:03:30,708 - DEBUG - Page scrolled.
+2025-04-26 15:03:32,709 - DEBUG - Random scrolls complete.
+2025-04-26 15:03:35,622 - DEBUG - Scrolling page 1 times.
+2025-04-26 15:03:35,623 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:03:37,094 - DEBUG - Page scrolled.
+2025-04-26 15:03:40,095 - DEBUG - Random scrolls complete.
+2025-04-26 15:03:40,110 - DEBUG - Found 5 like buttons.
+2025-04-26 15:03:43,111 - INFO - Attempting to like 4 posts. There are 5 available.
+2025-04-26 15:03:44,114 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:03:44,126 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:03:44,127 - DEBUG - Liked post number 1 of 4.
+2025-04-26 15:03:49,751 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:03:49,771 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:03:49,773 - DEBUG - Liked post number 2 of 4.
+2025-04-26 15:03:55,395 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:03:55,418 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:03:55,425 - DEBUG - Liked post number 3 of 4.
+2025-04-26 15:04:00,325 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:04:00,347 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:04:00,349 - DEBUG - Liked post number 4 of 4.
+2025-04-26 15:04:04,539 - INFO - Liked 4 posts successfully.
+2025-04-26 15:04:04,539 - INFO - Liked 4 posts successfully.
+2025-04-26 15:04:06,951 - INFO - performing random action
+2025-04-26 15:04:06,953 - DEBUG - Scrolling page 7 times.
+2025-04-26 15:04:06,954 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:04:08,860 - DEBUG - Page scrolled.
+2025-04-26 15:04:11,862 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:04:13,539 - DEBUG - Page scrolled.
+2025-04-26 15:04:16,541 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:04:18,518 - DEBUG - Page scrolled.
+2025-04-26 15:04:21,520 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:04:22,573 - DEBUG - Page scrolled.
+2025-04-26 15:04:25,575 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:04:26,668 - DEBUG - Page scrolled.
+2025-04-26 15:04:29,671 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:04:31,248 - DEBUG - Page scrolled.
+2025-04-26 15:04:34,249 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:04:35,314 - DEBUG - Page scrolled.
+2025-04-26 15:04:38,316 - DEBUG - Random scrolls complete.
+2025-04-26 15:04:41,237 - DEBUG - Total comments in the thread: 5
+2025-04-26 15:04:52,093 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How To Recover When SERP Rankings Suddenly Drop.txt
+2025-04-26 15:04:54,098 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:04:54,158 - DEBUG - Extracted main post content: Recently, I noticed a drop in SERP rankings for some of my target keywords. I started building more backlinks to those specific pages (web 2.0, guest post, etc.). Hopefully, the rankings will recover soon. How about you, what’s your strategy when you face a drop in rankings?
+2025-04-26 15:04:58,122 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:04:58,125 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:05:01,120 - INFO - performing random action
+2025-04-26 15:05:01,121 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:05:01,123 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:05:01,160 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:05:01,231 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:05:01,237 - DEBUG - Text box scrolled into view
+2025-04-26 15:05:01,860 - DEBUG - Initializing actionchains
+2025-04-26 15:05:01,905 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2596}, size: {'height': 21, 'width': 68}
+2025-04-26 15:05:01,906 - DEBUG - Target click coordinates: (1267, 2606)
+2025-04-26 15:05:10,701 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:05:10,707 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:05:10,710 - DEBUG - Clicking on the text box.
+2025-04-26 15:05:10,714 - DEBUG - Sending keys with content: Backlinks are cool, but have you checked if Google changed the search intent for those keywords? Maybe your content isn't matching what people are *actually* looking for anymore.
+
+2025-04-26 15:05:15,733 - DEBUG - Clicking on post reply button.
+2025-04-26 15:05:17,062 - DEBUG - Performed Actionchains
+2025-04-26 15:05:17,063 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:05:21,064 - INFO - Comment posted successfully.
+2025-04-26 15:05:21,066 - INFO - Task Completed!!
+2025-04-26 15:05:23,707 - INFO - Navigated back to the homepage.
+2025-04-26 15:05:26,065 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:05:26,093 - INFO - Garbage collection completed.
+2025-04-26 15:05:26,094 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,118 @@
+2025-04-26 16:18:03,899 - INFO - Current time: 1745664483.8997557
+2025-04-26 16:18:03,900 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 16:18:03,901 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 16:18:03,902 - INFO - performing random action
+2025-04-26 16:18:03,904 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 16:18:03,904 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:18:03,905 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:05,043 - DEBUG - Page scrolled.
+2025-04-26 16:18:07,044 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:08,758 - DEBUG - Page scrolled.
+2025-04-26 16:18:10,759 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:12,663 - DEBUG - Page scrolled.
+2025-04-26 16:18:14,664 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:16,639 - DEBUG - Page scrolled.
+2025-04-26 16:18:18,640 - DEBUG - Random scrolls complete.
+2025-04-26 16:18:18,642 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:18:18,643 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:20,526 - DEBUG - Page scrolled.
+2025-04-26 16:18:22,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:23,548 - DEBUG - Page scrolled.
+2025-04-26 16:18:25,549 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:27,445 - DEBUG - Page scrolled.
+2025-04-26 16:18:29,447 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:30,557 - DEBUG - Page scrolled.
+2025-04-26 16:18:32,560 - DEBUG - Random scrolls complete.
+2025-04-26 16:18:40,998 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/local-seo.209/
+2025-04-26 16:18:44,273 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-rank-100-gmbs.1705740/unread
+2025-04-26 16:18:44,273 - INFO - performing random action
+2025-04-26 16:18:52,292 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-rank-100-gmbs.1705740/unread
+2025-04-26 16:18:52,294 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-rank-100-gmbs.1705740/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 16:18:52,334 - INFO - Extracted thread title: How to rank 100 GMBs
+2025-04-26 16:18:52,335 - DEBUG - Scrolling page 2 times.
+2025-04-26 16:18:52,335 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:53,651 - DEBUG - Page scrolled.
+2025-04-26 16:18:55,651 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:18:57,397 - DEBUG - Page scrolled.
+2025-04-26 16:18:59,398 - DEBUG - Random scrolls complete.
+2025-04-26 16:19:02,194 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:19:02,195 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:19:03,225 - DEBUG - Page scrolled.
+2025-04-26 16:19:06,227 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:19:07,866 - DEBUG - Page scrolled.
+2025-04-26 16:19:10,868 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:19:12,863 - DEBUG - Page scrolled.
+2025-04-26 16:19:15,865 - DEBUG - Random scrolls complete.
+2025-04-26 16:19:15,904 - DEBUG - Found 4 like buttons.
+2025-04-26 16:19:18,905 - INFO - Attempting to like 1 posts. There are 4 available.
+2025-04-26 16:19:19,810 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:19:19,820 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:19:19,821 - DEBUG - Liked post number 1 of 1.
+2025-04-26 16:19:24,320 - INFO - Liked 1 posts successfully.
+2025-04-26 16:19:24,324 - INFO - Liked 1 posts successfully.
+2025-04-26 16:19:26,513 - INFO - Profile DarkCodeX: Opening random website: https://github.com/
+2025-04-26 16:19:37,988 - INFO - Profile DarkCodeX: Pausing for 40.10 seconds...
+2025-04-26 16:20:18,091 - INFO - Profile DarkCodeX: Resuming...
+2025-04-26 16:20:18,108 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-26 16:20:18,109 - INFO - performing random action
+2025-04-26 16:20:18,110 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:20:18,111 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:20:19,550 - DEBUG - Page scrolled.
+2025-04-26 16:20:22,552 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:20:23,700 - DEBUG - Page scrolled.
+2025-04-26 16:20:26,702 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:20:28,408 - DEBUG - Page scrolled.
+2025-04-26 16:20:31,410 - DEBUG - Random scrolls complete.
+2025-04-26 16:20:34,303 - DEBUG - Total comments in the thread: 4
+2025-04-26 16:20:55,541 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to rank 100 GMBs.txt
+2025-04-26 16:20:58,331 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 16:20:58,376 - DEBUG - Extracted main post content: Ok so after seeing success with my 1 GMB profile last year, I decided to attempt making 100 GMB profiles this season for my business and now I finally have them all up!
+
+These 100 profiles cover a 200KM radius (metro city + suburbs).
+
+I’m not looking for advice for every page to dominate my whole city, but rather for each page to just rank enough to cover a small 100k population suburb.
+
+What can I do to 80/20 my results with these 100 pages?
+
+I can basically get unlimited free reviews (capped at 30 per day) spread across these GMBs.
+
+Someone please give me a plan of action
+2025-04-26 16:21:01,603 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 16:21:01,608 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 16:21:04,342 - INFO - Profile DarkCodeX: Restoring window...
+2025-04-26 16:21:06,355 - INFO - performing random action
+2025-04-26 16:21:06,356 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:21:06,357 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:21:06,376 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:21:06,422 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:21:06,429 - DEBUG - Text box scrolled into view
+2025-04-26 16:21:07,377 - DEBUG - Initializing actionchains
+2025-04-26 16:21:07,397 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2259}, size: {'height': 21, 'width': 68}
+2025-04-26 16:21:07,398 - DEBUG - Target click coordinates: (1267, 2269)
+2025-04-26 16:21:15,826 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 16:21:15,827 - DEBUG - Moving mouse to text box element.
+2025-04-26 16:21:15,828 - DEBUG - Clicking on the text box.
+2025-04-26 16:21:15,831 - DEBUG - Sending keys with content: Jeez, that's a lot of GMBs! Focus on hyper-local keywords and consistent NAP citations for each, then drip-feed those reviews.
+
+2025-04-26 16:21:20,875 - DEBUG - Clicking on post reply button.
+2025-04-26 16:21:25,921 - DEBUG - Performed Actionchains
+2025-04-26 16:21:25,921 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 16:21:29,923 - INFO - Comment posted successfully.
+2025-04-26 16:21:29,924 - INFO - Task Completed!!
+2025-04-26 16:21:33,576 - INFO - Navigated back to the homepage.
+2025-04-26 16:21:36,081 - INFO - Attempting to clear memory and resources.
+2025-04-26 16:21:36,127 - INFO - Garbage collection completed.
+2025-04-26 16:21:36,127 - INFO - Waiting for 1000 seconds before next execution.
+2025-04-26 16:38:16,128 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-26 16:38:16,131 - INFO - Stopping browser for profile: DarkCodeX...
+2025-04-26 16:38:16,133 - INFO - Refreshing token before stopping profile...
+2025-04-26 16:38:16,134 - INFO - Refreshing token for DarkCodeX...
+2025-04-26 16:38:17,353 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-26 16:38:17,355 - INFO - Calculated token expiration time: 1745676497.3554256
+2025-04-26 16:38:17,357 - INFO - Profile DarkCodeX: Successfully logged in.
+2025-04-26 16:38:17,359 - INFO - Token refreshed successfully before stopping.
+2025-04-26 16:38:17,361 - INFO - Profile DarkCodeX: Attempting to stop (Attempt 1/3)...
+2025-04-26 16:38:17,375 - INFO - Profile DarkCodeX: Browser closed successfully in 0.01 seconds.
+2025-04-26 16:38:22,336 - INFO - Profile DarkCodeX: API call took 4.96 seconds.
+2025-04-26 16:38:22,338 - INFO - Profile DarkCodeX: Stopped successfully.
+2025-04-26 16:38:22,341 - INFO - Browser stopped successfully for profile: DarkCodeX.

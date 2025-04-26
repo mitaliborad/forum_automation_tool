@@ -1,0 +1,126 @@
+2025-04-26 14:57:49,441 - INFO - Current time: 1745659669.4418037
+2025-04-26 14:57:49,442 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 14:57:49,443 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 14:57:49,444 - INFO - performing random action
+2025-04-26 14:57:49,446 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:57:49,447 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:57:49,448 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:57:50,832 - DEBUG - Page scrolled.
+2025-04-26 14:57:52,836 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:57:54,435 - DEBUG - Page scrolled.
+2025-04-26 14:57:56,437 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:57:58,427 - DEBUG - Page scrolled.
+2025-04-26 14:58:00,428 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:01,895 - DEBUG - Page scrolled.
+2025-04-26 14:58:03,896 - DEBUG - Random scrolls complete.
+2025-04-26 14:58:03,896 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:58:03,897 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:05,156 - DEBUG - Page scrolled.
+2025-04-26 14:58:07,158 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:08,612 - DEBUG - Page scrolled.
+2025-04-26 14:58:10,615 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:11,733 - DEBUG - Page scrolled.
+2025-04-26 14:58:13,734 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:15,410 - DEBUG - Page scrolled.
+2025-04-26 14:58:17,412 - DEBUG - Random scrolls complete.
+2025-04-26 14:58:25,552 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/reddit.301/
+2025-04-26 14:58:29,551 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/my-reddit-account-got-banned-after-10-days-despite-warming-it-up-carefully-what-went-wrong.1708733/unread
+2025-04-26 14:58:29,552 - INFO - performing random action
+2025-04-26 14:58:38,269 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/my-reddit-account-got-banned-after-10-days-despite-warming-it-up-carefully-what-went-wrong.1708733/unread
+2025-04-26 14:58:38,274 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/my-reddit-account-got-banned-after-10-days-despite-warming-it-up-carefully-what-went-wrong.1708733/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:58:38,317 - INFO - Extracted thread title: My Reddit account got banned after 10 days despite warming it up carefully. What went wrong
+2025-04-26 14:58:38,318 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:58:38,318 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:39,770 - DEBUG - Page scrolled.
+2025-04-26 14:58:41,772 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:43,184 - DEBUG - Page scrolled.
+2025-04-26 14:58:45,185 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:46,705 - DEBUG - Page scrolled.
+2025-04-26 14:58:48,707 - DEBUG - Random scrolls complete.
+2025-04-26 14:58:51,642 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:58:51,643 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:53,571 - DEBUG - Page scrolled.
+2025-04-26 14:58:56,575 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:58:57,911 - DEBUG - Page scrolled.
+2025-04-26 14:59:00,913 - DEBUG - Random scrolls complete.
+2025-04-26 14:59:00,953 - DEBUG - Found 8 like buttons.
+2025-04-26 14:59:03,954 - INFO - Attempting to like 2 posts. There are 8 available.
+2025-04-26 14:59:04,784 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:59:04,812 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:59:04,813 - DEBUG - Liked post number 1 of 2.
+2025-04-26 14:59:10,034 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:59:10,055 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:59:10,057 - DEBUG - Liked post number 2 of 2.
+2025-04-26 14:59:14,361 - INFO - Liked 2 posts successfully.
+2025-04-26 14:59:14,363 - INFO - Liked 2 posts successfully.
+2025-04-26 14:59:17,073 - INFO - performing random action
+2025-04-26 14:59:17,075 - DEBUG - Scrolling page 7 times.
+2025-04-26 14:59:17,076 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:59:18,201 - DEBUG - Page scrolled.
+2025-04-26 14:59:21,203 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:59:22,667 - DEBUG - Page scrolled.
+2025-04-26 14:59:25,669 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:59:26,681 - DEBUG - Page scrolled.
+2025-04-26 14:59:29,682 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:59:31,495 - DEBUG - Page scrolled.
+2025-04-26 14:59:34,497 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:59:36,142 - DEBUG - Page scrolled.
+2025-04-26 14:59:39,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:59:40,680 - DEBUG - Page scrolled.
+2025-04-26 14:59:43,682 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:59:45,383 - DEBUG - Page scrolled.
+2025-04-26 14:59:48,384 - DEBUG - Random scrolls complete.
+2025-04-26 14:59:51,403 - DEBUG - Total comments in the thread: 8
+2025-04-26 15:00:54,412 - INFO - Post content extracted and saved to Thread-Details/Thread Content\My Reddit account got banned after 10 days despite warming it up carefully. What went wrong.txt
+2025-04-26 15:00:56,511 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:00:56,582 - DEBUG - Extracted main post content: So here’s how I set up the account. First, I grabbed a static residential proxy from Ping Proxies and added it to my anti-detect browser, which is Dolphin Anty. After that, I logged in from the browser to make sure the proxy was good. I checked it on Scamalytics and IPQualityScore to verify the fraud score, and everything looked solid.
+
+Then I hopped over to my personal browser and went to onlineonlinesim.io to rent a US phone number so I could create a Gmail account. I used the rented US number to verify the Gmail and everything set up fine. So with that all done, I thought everything should be good, right?
+
+After setting up the Gmail, I added a recovery phone number from a different US number and set a recovery email that was also created through a proxy and is tied to another US email. Again, I figured, all good?
+
+Then I made a new Reddit account. Logged in, used my new US Google account to verify my Reddit account so I could get that "Verified Email" badge under achievements.
+
+Followed the usual warm-up process too.
+First day: just scrolled.
+Second day: scrolled again.
+Third day: started browsing subs I like, upvoted 2-3 posts.
+Fourth day: upvoted another 2-3 posts.
+Fifth day: started joining subs I actually like, kept scrolling, upvoting, even saving and following posts.
+Seventh day: made my first comment, got around 3 upvotes.
+Eighth day: dropped 4 comments, started getting 5 upvotes on comments. So it looked like the account was warming up fine.
+Then on the 10th day, my account got banned. Gmail flagged as coming from a bot and it’s now set up for deletion. No idea how to move forward with this. Could it be:
+Static residential proxies are flagged by Reddit or Google? Should I switch to rotating residential proxies instead?
+Maybe my anti-detect browser or proxy setup isn’t right? But I do buy the proxies, add them to the anti-detect browser, check the connection, and check the fraud score too.
+Did I create the Gmail too fast? But if it didn’t get flagged for 10 days, why would it get flagged after? Is there a way to prevent Gmail from flagging later on?
+Is renting a number from sites like onlineonlinesim.io sketchy? Should I be using an actual real number instead? Or if there are alternatives, maybe you could recommend that as well?
+Really not sure what to do next. I spent a good chunk of money setting up the proxies, making sure each account sticks to just one proxy, one US Gmail (made on anti-detect browser + proxy), and so on.
+
+Kinda getting worried about my other accounts too because they were created the exact same way. They’re still alive for now, but if they all get suspended too, that’s basically hundreds of dollars down the drain.
+2025-04-26 15:01:00,055 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:01:00,056 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:01:02,495 - INFO - Profile NullBytee: Pausing for 30.00 seconds...
+2025-04-26 15:01:32,501 - INFO - Profile NullBytee: Resuming...
+2025-04-26 15:01:32,502 - INFO - performing random action
+2025-04-26 15:01:32,503 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:01:32,504 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:01:32,517 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:01:32,555 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:01:32,560 - DEBUG - Text box scrolled into view
+2025-04-26 15:01:33,247 - DEBUG - Initializing actionchains
+2025-04-26 15:01:33,312 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4696}, size: {'height': 21, 'width': 68}
+2025-04-26 15:01:33,313 - DEBUG - Target click coordinates: (1267, 4706)
+2025-04-26 15:01:46,706 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:01:46,706 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:01:46,707 - DEBUG - Clicking on the text box.
+2025-04-26 15:01:46,708 - DEBUG - Sending keys with content: Dang, that's rough after all that work. Maybe try aging the Gmail account for a month before creating the Reddit account? I've heard that can help.
+
+2025-04-26 15:01:51,858 - DEBUG - Clicking on post reply button.
+2025-04-26 15:02:02,840 - DEBUG - Performed Actionchains
+2025-04-26 15:02:02,841 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:02:06,842 - INFO - Comment posted successfully.
+2025-04-26 15:02:06,843 - INFO - Task Completed!!
+2025-04-26 15:02:15,402 - INFO - Navigated back to the homepage.
+2025-04-26 15:02:17,684 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:02:17,735 - INFO - Garbage collection completed.
+2025-04-26 15:02:17,736 - INFO - Waiting for 1000 seconds before next execution.

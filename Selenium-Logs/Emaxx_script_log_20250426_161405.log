@@ -1,0 +1,132 @@
+2025-04-26 16:14:05,437 - INFO - Current time: 1745664245.4378076
+2025-04-26 16:14:05,438 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 16:14:05,439 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 16:14:05,439 - INFO - performing random action
+2025-04-26 16:14:05,440 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 16:14:05,440 - DEBUG - Scrolling page 2 times.
+2025-04-26 16:14:05,441 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:14:06,963 - DEBUG - Page scrolled.
+2025-04-26 16:14:08,965 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:14:10,303 - DEBUG - Page scrolled.
+2025-04-26 16:14:12,306 - DEBUG - Random scrolls complete.
+2025-04-26 16:14:12,308 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:14:12,310 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:14:13,704 - DEBUG - Page scrolled.
+2025-04-26 16:14:15,707 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:14:17,615 - DEBUG - Page scrolled.
+2025-04-26 16:14:19,617 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:14:20,674 - DEBUG - Page scrolled.
+2025-04-26 16:14:22,676 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:14:23,953 - DEBUG - Page scrolled.
+2025-04-26 16:14:25,954 - DEBUG - Random scrolls complete.
+2025-04-26 16:14:38,012 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/white-hat-seo.30/
+2025-04-26 16:14:41,748 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/fameswap-com-is-a-scam.1708004/unread
+2025-04-26 16:14:41,749 - INFO - Profile Emaxx: Minimizing window...
+2025-04-26 16:14:41,750 - INFO - Profile Emaxx: Window minimized. Pausing for 29.13 seconds...
+2025-04-26 16:15:10,878 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-26 16:15:10,880 - INFO - performing random action
+2025-04-26 16:15:19,688 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/fameswap-com-is-a-scam.1708004/unread
+2025-04-26 16:15:19,691 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/fameswap-com-is-a-scam.1708004/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 16:15:19,739 - INFO - Extracted thread title: FAMESWAP.COM IS A SCAM
+2025-04-26 16:15:19,740 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:15:19,740 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:20,950 - DEBUG - Page scrolled.
+2025-04-26 16:15:22,952 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:24,235 - DEBUG - Page scrolled.
+2025-04-26 16:15:26,236 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:28,067 - DEBUG - Page scrolled.
+2025-04-26 16:15:30,069 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:32,066 - DEBUG - Page scrolled.
+2025-04-26 16:15:34,068 - DEBUG - Random scrolls complete.
+2025-04-26 16:15:36,431 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:15:36,433 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:37,676 - DEBUG - Page scrolled.
+2025-04-26 16:15:40,678 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:42,668 - DEBUG - Page scrolled.
+2025-04-26 16:15:45,670 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:46,910 - DEBUG - Page scrolled.
+2025-04-26 16:15:49,912 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:15:51,904 - DEBUG - Page scrolled.
+2025-04-26 16:15:54,906 - DEBUG - Random scrolls complete.
+2025-04-26 16:15:54,935 - DEBUG - Found 3 like buttons.
+2025-04-26 16:15:57,936 - INFO - Attempting to like 3 posts. There are 3 available.
+2025-04-26 16:15:58,897 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:15:58,921 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:15:58,922 - DEBUG - Liked post number 1 of 3.
+2025-04-26 16:16:04,417 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:16:04,438 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:16:04,440 - DEBUG - Liked post number 2 of 3.
+2025-04-26 16:16:09,521 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:16:09,542 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:16:09,543 - DEBUG - Liked post number 3 of 3.
+2025-04-26 16:16:14,047 - INFO - Liked 3 posts successfully.
+2025-04-26 16:16:14,049 - INFO - Liked 3 posts successfully.
+2025-04-26 16:16:16,939 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-26 16:16:21,557 - INFO - Profile Emaxx: Pausing for 33.42 seconds...
+2025-04-26 16:16:54,982 - INFO - Profile Emaxx: Resuming...
+2025-04-26 16:16:54,993 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-26 16:16:54,995 - INFO - performing random action
+2025-04-26 16:16:54,997 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:16:54,998 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:16:56,100 - DEBUG - Page scrolled.
+2025-04-26 16:16:59,102 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:00,964 - DEBUG - Page scrolled.
+2025-04-26 16:17:03,965 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:05,504 - DEBUG - Page scrolled.
+2025-04-26 16:17:08,506 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:17:09,932 - DEBUG - Page scrolled.
+2025-04-26 16:17:12,934 - DEBUG - Random scrolls complete.
+2025-04-26 16:17:15,525 - DEBUG - Total comments in the thread: 3
+2025-04-26 16:17:15,775 - INFO - Post content extracted and saved to Thread-Details/Thread Content\FAMESWAP.COM IS A SCAM.txt
+2025-04-26 16:17:17,847 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 16:17:17,894 - DEBUG - Extracted main post content: Just want to let you all guys know not to use this website ever again and do not sell or buy anything there.
+
+Was trying to buy a specific account on Fameswap.com for a very high price. Immediately after I topped up the balance ($4900) I was banned by the administration of the website. MEssaged to the support, but I do not think this will help in any way.
+
+Please spread the message about these scammers!!!
+
+And share in this thread if you ever was scammed there or have negative experiences with this or other similar websites.
+
+Thanks,
+ML
+2025-04-26 16:17:22,489 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 16:17:22,490 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 16:17:24,686 - INFO - Profile Emaxx: Minimizing window...
+2025-04-26 16:17:24,688 - INFO - Profile Emaxx: Window minimized. Pausing for 28.98 seconds...
+2025-04-26 16:17:53,666 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-26 16:17:53,668 - INFO - performing random action
+2025-04-26 16:17:53,670 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:17:53,672 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:17:53,706 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:17:53,758 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:17:53,764 - DEBUG - Text box scrolled into view
+2025-04-26 16:17:54,287 - DEBUG - Initializing actionchains
+2025-04-26 16:17:54,319 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2056}, size: {'height': 21, 'width': 68}
+2025-04-26 16:17:54,319 - DEBUG - Target click coordinates: (1267, 2066)
+2025-04-26 16:18:02,157 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 16:18:02,158 - DEBUG - Moving mouse to text box element.
+2025-04-26 16:18:02,159 - DEBUG - Clicking on the text box.
+2025-04-26 16:18:02,160 - DEBUG - Sending keys with content: Ouch, that's rough. What reason did they give for the ban?
+
+2025-04-26 16:18:07,272 - DEBUG - Clicking on post reply button.
+2025-04-26 16:18:18,012 - DEBUG - Performed Actionchains
+2025-04-26 16:18:18,013 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 16:18:22,015 - INFO - Comment posted successfully.
+2025-04-26 16:18:22,016 - INFO - Task Completed!!
+2025-04-26 16:18:27,920 - INFO - Navigated back to the homepage.
+2025-04-26 16:18:30,071 - INFO - Attempting to clear memory and resources.
+2025-04-26 16:18:30,111 - INFO - Garbage collection completed.
+2025-04-26 16:18:30,111 - INFO - Waiting for 1000 seconds before next execution.
+2025-04-26 16:35:10,112 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-26 16:35:10,114 - INFO - Stopping browser for profile: Emaxx...
+2025-04-26 16:35:10,116 - INFO - Refreshing token before stopping profile...
+2025-04-26 16:35:10,118 - INFO - Refreshing token for Emaxx...
+2025-04-26 16:35:10,971 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-26 16:35:10,972 - INFO - Calculated token expiration time: 1745676310.9724007
+2025-04-26 16:35:10,973 - INFO - Profile Emaxx: Successfully logged in.
+2025-04-26 16:35:10,973 - INFO - Token refreshed successfully before stopping.
+2025-04-26 16:35:10,974 - INFO - Profile Emaxx: Attempting to stop (Attempt 1/3)...
+2025-04-26 16:35:10,978 - INFO - Profile Emaxx: Browser closed successfully in 0.00 seconds.
+2025-04-26 16:35:13,713 - INFO - Profile Emaxx: API call took 2.73 seconds.
+2025-04-26 16:35:13,714 - INFO - Profile Emaxx: Stopped successfully.
+2025-04-26 16:35:13,717 - INFO - Browser stopped successfully for profile: Emaxx.

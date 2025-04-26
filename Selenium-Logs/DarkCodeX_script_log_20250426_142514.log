@@ -1,0 +1,137 @@
+2025-04-26 14:25:14,106 - INFO - Current time: 1745657714.1064768
+2025-04-26 14:25:14,107 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 14:25:14,108 - INFO - Token expiration time: 1745668508.3556077
+2025-04-26 14:25:14,110 - INFO - performing random action
+2025-04-26 14:25:14,141 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:25:14,141 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:25:14,142 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:14,155 - WARNING - Scrolling failed: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E36844D5+25349]
+	(No symbol) [0x00007FF6E35E90F0]
+	(No symbol) [0x00007FF6E3465A0A]
+	(No symbol) [0x00007FF6E345590C]
+	(No symbol) [0x00007FF6E34555FA]
+	(No symbol) [0x00007FF6E345329A]
+	(No symbol) [0x00007FF6E3453C5F]
+	(No symbol) [0x00007FF6E345FC9E]
+	(No symbol) [0x00007FF6E3476161]
+	(No symbol) [0x00007FF6E347D10A]
+	(No symbol) [0x00007FF6E34543CD]
+	(No symbol) [0x00007FF6E3475E95]
+	(No symbol) [0x00007FF6E350F499]
+	(No symbol) [0x00007FF6E34E72D3]
+	(No symbol) [0x00007FF6E34B06F8]
+	(No symbol) [0x00007FF6E34B1463]
+	GetHandleVerifier [0x00007FF6E3A0887D+3712685]
+	GetHandleVerifier [0x00007FF6E3A208C2+3811058]
+	GetHandleVerifier [0x00007FF6E3A1457D+3761069]
+	GetHandleVerifier [0x00007FF6E375293A+870250]
+	(No symbol) [0x00007FF6E35F42CF]
+	(No symbol) [0x00007FF6E35EFC14]
+	(No symbol) [0x00007FF6E35EFDC2]
+	(No symbol) [0x00007FF6E35DEED9]
+	BaseThreadInitThunk [0x00007FF941AD7374+20]
+	RtlUserThreadStart [0x00007FF942FBCC91+33]
+
+2025-04-26 14:30:15,213 - DEBUG - Page scrolled.
+2025-04-26 14:30:17,214 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:18,428 - DEBUG - Page scrolled.
+2025-04-26 14:30:20,430 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:21,759 - DEBUG - Page scrolled.
+2025-04-26 14:30:23,761 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:24,924 - DEBUG - Page scrolled.
+2025-04-26 14:30:26,926 - DEBUG - Random scrolls complete.
+2025-04-26 14:30:26,928 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:30:26,930 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:28,249 - DEBUG - Page scrolled.
+2025-04-26 14:30:30,251 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:31,516 - DEBUG - Page scrolled.
+2025-04-26 14:30:33,518 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:35,366 - DEBUG - Page scrolled.
+2025-04-26 14:30:37,368 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:38,446 - DEBUG - Page scrolled.
+2025-04-26 14:30:40,449 - DEBUG - Random scrolls complete.
+2025-04-26 14:30:48,993 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/myspace.87/
+2025-04-26 14:30:52,663 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/i-miss-it.1590969/unread
+2025-04-26 14:30:52,663 - INFO - performing random action
+2025-04-26 14:31:03,417 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/i-miss-it.1590969/unread
+2025-04-26 14:31:03,420 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/i-miss-it.1590969/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:31:03,477 - INFO - Extracted thread title: I miss it.
+2025-04-26 14:31:03,478 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:31:03,478 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:05,333 - DEBUG - Page scrolled.
+2025-04-26 14:31:07,335 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:08,387 - DEBUG - Page scrolled.
+2025-04-26 14:31:10,389 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:11,623 - DEBUG - Page scrolled.
+2025-04-26 14:31:13,624 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:15,035 - DEBUG - Page scrolled.
+2025-04-26 14:31:17,036 - DEBUG - Random scrolls complete.
+2025-04-26 14:31:19,209 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:31:19,212 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:20,596 - DEBUG - Page scrolled.
+2025-04-26 14:31:23,598 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:25,224 - DEBUG - Page scrolled.
+2025-04-26 14:31:28,225 - DEBUG - Random scrolls complete.
+2025-04-26 14:31:28,269 - DEBUG - Found 20 like buttons.
+2025-04-26 14:31:31,271 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-04-26 14:31:31,979 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:31:31,989 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:31:31,990 - DEBUG - Liked post number 1 of 4.
+2025-04-26 14:31:37,484 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:31:37,502 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:31:37,504 - DEBUG - Liked post number 2 of 4.
+2025-04-26 14:31:42,453 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:31:42,462 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:31:42,463 - DEBUG - Liked post number 3 of 4.
+2025-04-26 14:31:47,497 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:31:47,506 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:31:47,507 - DEBUG - Liked post number 4 of 4.
+2025-04-26 14:31:52,224 - INFO - Liked 4 posts successfully.
+2025-04-26 14:31:52,225 - INFO - Liked 4 posts successfully.
+2025-04-26 14:31:55,038 - INFO - performing random action
+2025-04-26 14:31:55,038 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:31:55,039 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:56,823 - DEBUG - Page scrolled.
+2025-04-26 14:31:59,826 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:32:01,344 - DEBUG - Page scrolled.
+2025-04-26 14:32:04,346 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:32:06,166 - DEBUG - Page scrolled.
+2025-04-26 14:32:09,169 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:32:10,370 - DEBUG - Page scrolled.
+2025-04-26 14:32:13,372 - DEBUG - Random scrolls complete.
+2025-04-26 14:32:16,018 - DEBUG - Total comments in the thread: 20
+2025-04-26 14:34:31,725 - INFO - Post content extracted and saved to Thread-Details/Thread Content\I miss it..txt
+2025-04-26 14:34:34,505 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:34:34,545 - DEBUG - Extracted main post content: I miss myspace it was so much better then Facebook
+2025-04-26 14:34:38,132 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:34:38,135 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:34:40,712 - INFO - Profile DarkCodeX: Opening random website: https://www.adobe.com/in/products/photoshop.html
+2025-04-26 14:34:45,680 - INFO - Profile DarkCodeX: Pausing for 49.56 seconds...
+2025-04-26 14:35:35,239 - INFO - Profile DarkCodeX: Resuming...
+2025-04-26 14:35:35,328 - INFO - Profile DarkCodeX: Switched back to original tab.
+2025-04-26 14:35:35,329 - INFO - performing random action
+2025-04-26 14:35:35,330 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:35:35,330 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:35:35,346 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:35:35,382 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:35:35,388 - DEBUG - Text box scrolled into view
+2025-04-26 14:35:36,231 - DEBUG - Initializing actionchains
+2025-04-26 14:35:36,254 - DEBUG - Post reply Element location: {'x': 1233, 'y': 6275}, size: {'height': 21, 'width': 68}
+2025-04-26 14:35:36,255 - DEBUG - Target click coordinates: (1267, 6285)
+2025-04-26 14:35:52,892 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:35:52,894 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:35:52,895 - DEBUG - Clicking on the text box.
+2025-04-26 14:35:52,898 - DEBUG - Sending keys with content: Right? I miss the customizable profiles; felt way more personal than the cookie-cutter stuff we have now.
+
+2025-04-26 14:35:58,333 - DEBUG - Clicking on post reply button.
+2025-04-26 14:36:09,260 - DEBUG - Performed Actionchains
+2025-04-26 14:36:09,261 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:36:13,263 - INFO - Comment posted successfully.
+2025-04-26 14:36:13,265 - INFO - Task Completed!!
+2025-04-26 14:36:21,800 - INFO - Navigated back to the homepage.
+2025-04-26 14:36:24,792 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:36:24,822 - INFO - Garbage collection completed.
+2025-04-26 14:36:24,822 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,119 @@
+2025-04-26 16:05:35,717 - INFO - Current time: 1745663735.7174723
+2025-04-26 16:05:35,719 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 16:05:35,720 - INFO - Token expiration time: 1745668885.2511437
+2025-04-26 16:05:35,720 - INFO - Profile NullBytee: Pausing for 30.57 seconds...
+2025-04-26 16:06:06,292 - INFO - Profile NullBytee: Resuming...
+2025-04-26 16:06:06,294 - INFO - performing random action
+2025-04-26 16:06:06,297 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 16:06:06,299 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:06:06,300 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:06:07,594 - DEBUG - Page scrolled.
+2025-04-26 16:06:09,596 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:06:11,067 - DEBUG - Page scrolled.
+2025-04-26 16:06:13,069 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:06:14,286 - DEBUG - Page scrolled.
+2025-04-26 16:06:16,288 - DEBUG - Random scrolls complete.
+2025-04-26 16:06:16,289 - DEBUG - Scrolling page 4 times.
+2025-04-26 16:06:16,290 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:06:17,501 - DEBUG - Page scrolled.
+2025-04-26 16:06:19,503 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:06:21,195 - DEBUG - Page scrolled.
+2025-04-26 16:06:23,198 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:06:24,259 - DEBUG - Page scrolled.
+2025-04-26 16:06:26,261 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:06:27,891 - DEBUG - Page scrolled.
+2025-04-26 16:06:29,893 - DEBUG - Random scrolls complete.
+2025-04-26 16:06:40,540 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/web-design.126/
+2025-04-26 16:06:44,367 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/ai-to-build-a-website.1700946/unread
+2025-04-26 16:06:44,368 - INFO - performing random action
+2025-04-26 16:06:55,185 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/ai-to-build-a-website.1700946/unread
+2025-04-26 16:06:55,188 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/ai-to-build-a-website.1700946/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 16:06:55,241 - INFO - Extracted thread title: AI to build a Website
+2025-04-26 16:06:55,242 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:06:55,242 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:06:56,881 - DEBUG - Page scrolled.
+2025-04-26 16:06:58,882 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:06:59,976 - DEBUG - Page scrolled.
+2025-04-26 16:07:01,978 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:07:03,614 - DEBUG - Page scrolled.
+2025-04-26 16:07:05,615 - DEBUG - Random scrolls complete.
+2025-04-26 16:07:07,948 - DEBUG - Scrolling page 1 times.
+2025-04-26 16:07:07,949 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:07:09,069 - DEBUG - Page scrolled.
+2025-04-26 16:07:12,071 - DEBUG - Random scrolls complete.
+2025-04-26 16:07:12,087 - DEBUG - Found 12 like buttons.
+2025-04-26 16:07:15,088 - INFO - Attempting to like 1 posts. There are 12 available.
+2025-04-26 16:07:15,649 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:07:15,685 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:07:15,688 - DEBUG - Liked post number 1 of 1.
+2025-04-26 16:07:19,909 - INFO - Liked 1 posts successfully.
+2025-04-26 16:07:19,911 - INFO - Liked 1 posts successfully.
+2025-04-26 16:07:22,385 - INFO - Profile NullBytee: Opening default URL: https://www.google.com
+2025-04-26 16:07:28,907 - INFO - Profile NullBytee: Pausing for 47.83 seconds...
+2025-04-26 16:08:16,742 - INFO - Profile NullBytee: Resuming...
+2025-04-26 16:08:16,754 - INFO - Profile NullBytee: Switched back to original tab.
+2025-04-26 16:08:16,756 - INFO - performing random action
+2025-04-26 16:08:16,758 - DEBUG - Scrolling page 7 times.
+2025-04-26 16:08:16,759 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:08:17,789 - DEBUG - Page scrolled.
+2025-04-26 16:08:20,790 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:08:22,127 - DEBUG - Page scrolled.
+2025-04-26 16:08:25,130 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:08:26,928 - DEBUG - Page scrolled.
+2025-04-26 16:08:29,930 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:08:31,150 - DEBUG - Page scrolled.
+2025-04-26 16:08:34,152 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:08:35,451 - DEBUG - Page scrolled.
+2025-04-26 16:08:38,453 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:08:40,251 - DEBUG - Page scrolled.
+2025-04-26 16:08:43,253 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:08:44,498 - DEBUG - Page scrolled.
+2025-04-26 16:08:47,500 - DEBUG - Random scrolls complete.
+2025-04-26 16:08:50,572 - DEBUG - Total comments in the thread: 12
+2025-04-26 16:10:24,933 - INFO - Post content extracted and saved to Thread-Details/Thread Content\AI to build a Website.txt
+2025-04-26 16:10:27,839 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 16:10:27,894 - DEBUG - Extracted main post content: Are there now AIs that can create websites well? I know in the beginning the AIs were very bad but now they are very good.
+
+Does anyone know or use an AI for this? I sometimes use Grok and it always helps me very well but of course it's not specialized.
+
+Is it a good idea to use AI code in your website or even just code from AI? What about SEO? Seo experts here who have tested this?
+
+I would prefer free of course.
+2025-04-26 16:10:33,346 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 16:10:33,351 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 16:10:35,426 - INFO - performing random action
+2025-04-26 16:10:35,428 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:10:35,429 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:10:35,459 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:10:35,511 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:10:35,531 - DEBUG - Text box scrolled into view
+2025-04-26 16:10:36,264 - DEBUG - Initializing actionchains
+2025-04-26 16:10:36,301 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4347}, size: {'height': 21, 'width': 68}
+2025-04-26 16:10:36,302 - DEBUG - Target click coordinates: (1267, 4357)
+2025-04-26 16:10:48,796 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 16:10:48,798 - DEBUG - Moving mouse to text box element.
+2025-04-26 16:10:48,800 - DEBUG - Clicking on the text box.
+2025-04-26 16:10:48,809 - DEBUG - Sending keys with content: Lemme know if you find one that can actually design, not just spit out code. Heard mixed reviews on the SEO front too – worth testing on a dummy site first.
+
+2025-04-26 16:10:54,099 - DEBUG - Clicking on post reply button.
+2025-04-26 16:11:05,099 - DEBUG - Performed Actionchains
+2025-04-26 16:11:05,100 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 16:11:09,102 - INFO - Comment posted successfully.
+2025-04-26 16:11:09,103 - INFO - Task Completed!!
+2025-04-26 16:11:13,604 - INFO - Navigated back to the homepage.
+2025-04-26 16:11:16,164 - INFO - Attempting to clear memory and resources.
+2025-04-26 16:11:16,190 - INFO - Garbage collection completed.
+2025-04-26 16:11:16,190 - INFO - Waiting for 1000 seconds before next execution.
+2025-04-26 16:27:56,191 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-26 16:27:56,194 - INFO - Stopping browser for profile: NullBytee...
+2025-04-26 16:27:56,195 - INFO - Refreshing token before stopping profile...
+2025-04-26 16:27:56,197 - INFO - Refreshing token for NullBytee...
+2025-04-26 16:27:57,085 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-26 16:27:57,086 - INFO - Calculated token expiration time: 1745675877.085992
+2025-04-26 16:27:57,086 - INFO - Profile NullBytee: Successfully logged in.
+2025-04-26 16:27:57,087 - INFO - Token refreshed successfully before stopping.
+2025-04-26 16:27:57,088 - INFO - Profile NullBytee: Attempting to stop (Attempt 1/3)...
+2025-04-26 16:27:57,094 - INFO - Profile NullBytee: Browser closed successfully in 0.01 seconds.
+2025-04-26 16:28:00,980 - INFO - Profile NullBytee: API call took 3.89 seconds.
+2025-04-26 16:28:00,981 - INFO - Profile NullBytee: Stopped successfully.
+2025-04-26 16:28:00,982 - INFO - Browser stopped successfully for profile: NullBytee.

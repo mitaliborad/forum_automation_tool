@@ -1,0 +1,98 @@
+2025-04-26 15:37:20,580 - INFO - Current time: 1745662040.5807066
+2025-04-26 15:37:20,582 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 15:37:20,584 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 15:37:20,585 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-26 15:37:20,595 - INFO - Profile PhantomRoot: Window minimized. Pausing for 15.27 seconds...
+2025-04-26 15:37:35,865 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-26 15:37:35,866 - INFO - performing random action
+2025-04-26 15:37:35,867 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:37:35,868 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:37:35,869 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:37:37,597 - DEBUG - Page scrolled.
+2025-04-26 15:37:39,598 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:37:41,588 - DEBUG - Page scrolled.
+2025-04-26 15:37:43,589 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:37:45,103 - DEBUG - Page scrolled.
+2025-04-26 15:37:47,105 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:37:48,671 - DEBUG - Page scrolled.
+2025-04-26 15:37:50,672 - DEBUG - Random scrolls complete.
+2025-04-26 15:37:50,673 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:37:50,674 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:37:52,144 - DEBUG - Page scrolled.
+2025-04-26 15:37:54,146 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:37:56,142 - DEBUG - Page scrolled.
+2025-04-26 15:37:58,144 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:37:59,632 - DEBUG - Page scrolled.
+2025-04-26 15:38:01,633 - DEBUG - Random scrolls complete.
+2025-04-26 15:38:08,419 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-26 15:38:12,211 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-payment-processor-for-paysafecard.1666400/unread
+2025-04-26 15:38:12,212 - INFO - performing random action
+2025-04-26 15:38:20,197 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-payment-processor-for-paysafecard.1666400/unread
+2025-04-26 15:38:20,199 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-payment-processor-for-paysafecard.1666400/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:38:20,249 - INFO - Extracted thread title: Need payment processor for paysafecard
+2025-04-26 15:38:20,249 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:38:20,250 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:38:21,760 - DEBUG - Page scrolled.
+2025-04-26 15:38:23,762 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:38:25,647 - DEBUG - Page scrolled.
+2025-04-26 15:38:27,649 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:38:29,400 - DEBUG - Page scrolled.
+2025-04-26 15:38:31,401 - DEBUG - Random scrolls complete.
+2025-04-26 15:38:33,433 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:38:33,435 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:38:35,028 - DEBUG - Page scrolled.
+2025-04-26 15:38:38,029 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:38:39,976 - DEBUG - Page scrolled.
+2025-04-26 15:38:42,978 - DEBUG - Random scrolls complete.
+2025-04-26 15:38:43,116 - DEBUG - Found 4 like buttons.
+2025-04-26 15:38:46,116 - INFO - Attempting to like 2 posts. There are 4 available.
+2025-04-26 15:38:46,670 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:38:46,693 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:38:46,693 - DEBUG - Liked post number 1 of 2.
+2025-04-26 15:38:51,573 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:38:51,593 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:38:51,595 - DEBUG - Liked post number 2 of 2.
+2025-04-26 15:38:56,059 - INFO - Liked 2 posts successfully.
+2025-04-26 15:38:56,061 - INFO - Liked 2 posts successfully.
+2025-04-26 15:38:58,410 - INFO - performing random action
+2025-04-26 15:38:58,411 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:38:58,412 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:39:00,187 - DEBUG - Page scrolled.
+2025-04-26 15:39:03,189 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:39:05,098 - DEBUG - Page scrolled.
+2025-04-26 15:39:08,099 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:39:09,912 - DEBUG - Page scrolled.
+2025-04-26 15:39:12,914 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:39:14,183 - DEBUG - Page scrolled.
+2025-04-26 15:39:17,185 - DEBUG - Random scrolls complete.
+2025-04-26 15:39:19,840 - DEBUG - Total comments in the thread: 4
+2025-04-26 15:39:40,985 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need payment processor for paysafecard.txt
+2025-04-26 15:39:43,507 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:39:43,562 - DEBUG - Extracted main post content: Hi guys,
+
+I'm looking for an payment processor/gateway which provides paysafecard and can payout in crypto. My business is not related to shady stuff or similar. Also company is available.
+2025-04-26 15:39:47,239 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:39:47,241 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:39:50,097 - INFO - performing random action
+2025-04-26 15:39:50,099 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:39:50,100 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:39:50,130 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:39:50,181 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:39:50,187 - DEBUG - Text box scrolled into view
+2025-04-26 15:39:50,935 - DEBUG - Initializing actionchains
+2025-04-26 15:39:50,972 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2070}, size: {'height': 21, 'width': 68}
+2025-04-26 15:39:50,972 - DEBUG - Target click coordinates: (1267, 2080)
+2025-04-26 15:39:59,214 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:39:59,215 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:39:59,221 - DEBUG - Clicking on the text box.
+2025-04-26 15:39:59,223 - DEBUG - Sending keys with content: Finding a processor that handles paysafecard AND crypto payouts is tough; have you looked into using two separate services and bridging them?
+
+2025-04-26 15:40:04,811 - DEBUG - Clicking on post reply button.
+2025-04-26 15:40:15,769 - DEBUG - Performed Actionchains
+2025-04-26 15:40:15,770 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:40:19,771 - INFO - Comment posted successfully.
+2025-04-26 15:40:19,773 - INFO - Task Completed!!
+2025-04-26 15:40:26,322 - INFO - Navigated back to the homepage.
+2025-04-26 15:40:28,445 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:40:28,473 - INFO - Garbage collection completed.
+2025-04-26 15:40:28,474 - INFO - Waiting for 1000 seconds before next execution.

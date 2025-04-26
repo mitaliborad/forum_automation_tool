@@ -1,0 +1,107 @@
+2025-04-26 15:12:35,381 - INFO - Current time: 1745660555.381376
+2025-04-26 15:12:35,383 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 15:12:35,385 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 15:12:35,386 - INFO - performing random action
+2025-04-26 15:12:35,389 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:12:35,390 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:12:35,393 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:12:37,387 - DEBUG - Page scrolled.
+2025-04-26 15:12:39,389 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:12:41,278 - DEBUG - Page scrolled.
+2025-04-26 15:12:43,280 - DEBUG - Random scrolls complete.
+2025-04-26 15:12:43,282 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:12:43,284 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:12:44,511 - DEBUG - Page scrolled.
+2025-04-26 15:12:46,512 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:12:47,851 - DEBUG - Page scrolled.
+2025-04-26 15:12:49,854 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:12:51,513 - DEBUG - Page scrolled.
+2025-04-26 15:12:53,517 - DEBUG - Random scrolls complete.
+2025-04-26 15:13:03,801 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/pinterest.211/
+2025-04-26 15:13:07,635 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/got-this-traffic-and-those-result.1704760/unread
+2025-04-26 15:13:07,636 - INFO - Profile BinaryGhost: Pausing for 37.69 seconds...
+2025-04-26 15:13:45,331 - INFO - Profile BinaryGhost: Resuming...
+2025-04-26 15:13:45,332 - INFO - performing random action
+2025-04-26 15:13:56,370 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/got-this-traffic-and-those-result.1704760/unread
+2025-04-26 15:13:56,372 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/got-this-traffic-and-those-result.1704760/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:13:56,412 - INFO - Extracted thread title: Got this traffic and those result !
+2025-04-26 15:13:56,413 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:13:56,413 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:13:57,802 - DEBUG - Page scrolled.
+2025-04-26 15:13:59,803 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:00,933 - DEBUG - Page scrolled.
+2025-04-26 15:14:02,935 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:04,489 - DEBUG - Page scrolled.
+2025-04-26 15:14:06,491 - DEBUG - Random scrolls complete.
+2025-04-26 15:14:08,804 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:14:08,806 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:10,225 - DEBUG - Page scrolled.
+2025-04-26 15:14:13,227 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:14,993 - DEBUG - Page scrolled.
+2025-04-26 15:14:17,994 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:19,075 - DEBUG - Page scrolled.
+2025-04-26 15:14:22,077 - DEBUG - Random scrolls complete.
+2025-04-26 15:14:22,122 - DEBUG - Found 5 like buttons.
+2025-04-26 15:14:25,123 - INFO - Attempting to like 1 posts. There are 5 available.
+2025-04-26 15:14:25,680 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:14:25,691 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:14:25,691 - DEBUG - Liked post number 1 of 1.
+2025-04-26 15:14:30,607 - INFO - Liked 1 posts successfully.
+2025-04-26 15:14:30,608 - INFO - Liked 1 posts successfully.
+2025-04-26 15:14:32,709 - INFO - performing random action
+2025-04-26 15:14:32,711 - DEBUG - Scrolling page 5 times.
+2025-04-26 15:14:32,712 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:34,634 - DEBUG - Page scrolled.
+2025-04-26 15:14:37,635 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:39,648 - DEBUG - Page scrolled.
+2025-04-26 15:14:42,650 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:44,564 - DEBUG - Page scrolled.
+2025-04-26 15:14:47,567 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:48,855 - DEBUG - Page scrolled.
+2025-04-26 15:14:51,857 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:14:53,507 - DEBUG - Page scrolled.
+2025-04-26 15:14:56,509 - DEBUG - Random scrolls complete.
+2025-04-26 15:14:59,450 - DEBUG - Total comments in the thread: 5
+2025-04-26 15:15:10,132 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Got this traffic and those result !.txt
+2025-04-26 15:15:12,678 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:15:12,704 - DEBUG - Extracted main post content: hi guys,
+
+i have launched a Pinterest Blog since junuary in a specific niche
+and managed to get 300k impression with 1.59k aoutbound clicks
+my main traffic source is T1
+i know it a small trafic to get some serious $
+i have to monotise it before rise and repeat on another niche
+
+got rejeceted from Adsense ( maybe because my content is AI generated )
+and now trying Adsterra but nothing worth it, under $1/day for the 2 first days!
+the ads are pop up with adsterra, i will wait for 1 week and see what happen
+
+any other company to advertise with ?
+what kind of format are you guys using ?
+
+regards
+2025-04-26 15:15:17,537 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:15:17,538 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:15:20,260 - INFO - performing random action
+2025-04-26 15:15:20,263 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:15:20,265 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:15:20,322 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:15:20,401 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:15:20,407 - DEBUG - Text box scrolled into view
+2025-04-26 15:15:21,325 - DEBUG - Initializing actionchains
+2025-04-26 15:15:21,386 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3029}, size: {'height': 21, 'width': 68}
+2025-04-26 15:15:21,386 - DEBUG - Target click coordinates: (1267, 3039)
+2025-04-26 15:15:30,936 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:15:30,936 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:15:30,936 - DEBUG - Clicking on the text box.
+2025-04-26 15:15:30,937 - DEBUG - Sending keys with content: Adsense is a pain, especially with AI content. Have you tried affiliate marketing? A relevant product with decent commission could be a better earner than chasing pennies with ads.
+
+2025-04-26 15:15:36,460 - DEBUG - Clicking on post reply button.
+2025-04-26 15:15:47,532 - DEBUG - Performed Actionchains
+2025-04-26 15:15:47,532 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:15:51,533 - INFO - Comment posted successfully.
+2025-04-26 15:15:51,534 - INFO - Task Completed!!
+2025-04-26 15:15:59,003 - INFO - Navigated back to the homepage.
+2025-04-26 15:16:01,775 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:16:01,802 - INFO - Garbage collection completed.
+2025-04-26 15:16:01,803 - INFO - Waiting for 1000 seconds before next execution.

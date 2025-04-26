@@ -1,0 +1,137 @@
+--- Main Post Title ---
+How to create a safe page properly?
+
+Total comments in the thread: 12
+
+Topic User: yueshuyayingjun
+Topic: Hello guys. Can you give me a sample safe page? I can't run cloaking because I can't even go through the policy of the safe page. I used VPS for my website and WordPress to build it. I even used Dophin {anty} and proxy for my browser. For the google ads account, I used an agency account with monthly billing. For cloaking, I bought it from this person "LuckyCloaker" and it's working well.
+
+But in the end, I can't run Google ads with cloaking properly.
+
+Can someone help me, please?
+Liked by: You, ZeroDayHunter
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: itz_styx
+Topic: just make it look like a normal site. it also helps to have privacy policy and ToS pages.
+Liked by: You, ZeroDayHunter
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: EnvyGuard
+Topic: itz_styx said:
+just make it look like a normal site. it also helps to have privacy policy and ToS pages.
+Is there a tutorial you can recommend to get started with cloaking as it seems to be the issue to my problem. I need to reach a restricted country via google ads with my Casino gambling ads. However normally they block which is why I need a solution for it. People recommend to do cloaking but I have not understood the entire concept.
+Liked by: You, ZeroDayHunter
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: itz_styx
+Topic: there is no official tutorial tht i know if, as it all depends on many factors.
+i'm more into search engine cloaking.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: EnvyGuard
+Topic: itz_styx said:
+there is no official tutorial tht i know if, as it all depends on many factors.
+i'm more into search engine cloaking.
+Is there a big difference between them and how does SEO work?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: itz_styx
+Topic: EnvyGuard said:
+Is there a big difference between them and how does SEO work?
+yes there is a difference as for SEO you only need to cloak search engine bots.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Trust WorkShop
+Topic: OP mentioned Google Ads. So, the safe page will be made for the campaign that will be run in Google Ads and it will be a "cloaked" campaign. In other words, depending on the cloaker, visitors who click the ad would go either to the money page or safe page. Reviewer types of IPs, fingerprints, etc would be shown the safe page.
+The safe page must be created in a way that it aligns totally with the Google Ads campaign.
+Let us say the keywords in the Google Ads campaign is desks. The landing page must be ONLY about desks AND must have enough of content about desks (atleast ideally 1500 words, add some pictures), do not copy content, make sure it is unique (spin some content, no issues) and for "happiness" of the review algorithms, have contact, privacy policy, terms of service pages.
+The above are all the aspects I use to create safe pages.
+You can now buy 5 star google , verified Trustpilot reviews , TripAdvisor , BBB.org and even real video testimonials here
+
+Email : reputationinfluencer@gmail.com , skype : reputationinfluencer@gmail.com or telegram : reputationinfluencer
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: yueshuyayingjun
+Topic: Thank you all for your tips. It will be a great help to me.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: clo.king
+Topic: The white page doesn't have to be random, it should be a little related to the offer you're promoting!
+This mistake is made by many, and it is what makes others special in cloaking!
+You have to be very careful in creating the white page, in order to get it looking perfect.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: hilinguyen1
+Topic: just make it look like a normal site.
+
+PROVIDING ADS FACEBOOK AND TIKTOK MARKETING SOLUTIONS WITH 8 YEARS OF EXPERIENCE
+-Whatsapp: +84978797918 -Skype: contact@hilimedia.com -Channel: https://t.me/hilimediachannel
+https://www.blackhatworld.com/seo/f...account-rental-service-24-7-wh-gh-bh.1453209/
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: tagteamyo
+Topic: cross-domain cloaking (where the "safe" page is on one domain and the "money" page is on another) - is it a good practice?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: ZeroDayHunter
+Topic: Ditch the agency account; they might be the ones flagging you. Have you tried a super basic landing page with just your company info to get approved first?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

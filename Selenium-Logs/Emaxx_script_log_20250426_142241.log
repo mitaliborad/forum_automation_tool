@@ -1,0 +1,133 @@
+2025-04-26 14:22:41,351 - INFO - Current time: 1745657561.35174
+2025-04-26 14:22:41,356 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 14:22:41,358 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 14:22:41,360 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-26 14:27:41,382 - ERROR - Profile Emaxx: Error opening new tab: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=135.0.7049.41)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E36844D5+25349]
+	(No symbol) [0x00007FF6E35E90F0]
+	(No symbol) [0x00007FF6E3465A0A]
+	(No symbol) [0x00007FF6E345590C]
+	(No symbol) [0x00007FF6E34555FA]
+	(No symbol) [0x00007FF6E345329A]
+	(No symbol) [0x00007FF6E3453C5F]
+	(No symbol) [0x00007FF6E345FC9E]
+	(No symbol) [0x00007FF6E3476161]
+	(No symbol) [0x00007FF6E347D10A]
+	(No symbol) [0x00007FF6E34543CD]
+	(No symbol) [0x00007FF6E3475E95]
+	(No symbol) [0x00007FF6E350F499]
+	(No symbol) [0x00007FF6E34E72D3]
+	(No symbol) [0x00007FF6E34B06F8]
+	(No symbol) [0x00007FF6E34B1463]
+	GetHandleVerifier [0x00007FF6E3A0887D+3712685]
+	GetHandleVerifier [0x00007FF6E3A208C2+3811058]
+	GetHandleVerifier [0x00007FF6E3A1457D+3761069]
+	GetHandleVerifier [0x00007FF6E375293A+870250]
+	(No symbol) [0x00007FF6E35F42CF]
+	(No symbol) [0x00007FF6E35EFC14]
+	(No symbol) [0x00007FF6E35EFDC2]
+	(No symbol) [0x00007FF6E35DEED9]
+	BaseThreadInitThunk [0x00007FF941AD7374+20]
+	RtlUserThreadStart [0x00007FF942FBCC91+33]
+
+2025-04-26 14:27:41,403 - INFO - performing random action
+2025-04-26 14:27:41,404 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:27:41,405 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:27:41,406 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:42,660 - DEBUG - Page scrolled.
+2025-04-26 14:27:44,661 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:46,186 - DEBUG - Page scrolled.
+2025-04-26 14:27:48,187 - DEBUG - Random scrolls complete.
+2025-04-26 14:27:48,188 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:27:48,188 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:49,199 - DEBUG - Page scrolled.
+2025-04-26 14:27:51,200 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:27:52,896 - DEBUG - Page scrolled.
+2025-04-26 14:27:54,896 - DEBUG - Random scrolls complete.
+2025-04-26 14:28:05,320 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-26 14:28:09,341 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-create-a-safe-page-properly.1424433/unread
+2025-04-26 14:28:09,341 - INFO - performing random action
+2025-04-26 14:28:21,790 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-create-a-safe-page-properly.1424433/unread
+2025-04-26 14:28:21,791 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-create-a-safe-page-properly.1424433/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:28:21,818 - INFO - Extracted thread title: How to create a safe page properly
+2025-04-26 14:28:21,818 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:28:21,819 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:23,649 - DEBUG - Page scrolled.
+2025-04-26 14:28:25,651 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:27,186 - DEBUG - Page scrolled.
+2025-04-26 14:28:29,187 - DEBUG - Random scrolls complete.
+2025-04-26 14:28:32,181 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:28:32,183 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:33,697 - DEBUG - Page scrolled.
+2025-04-26 14:28:36,700 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:37,803 - DEBUG - Page scrolled.
+2025-04-26 14:28:40,804 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:42,484 - DEBUG - Page scrolled.
+2025-04-26 14:28:45,486 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:28:46,894 - DEBUG - Page scrolled.
+2025-04-26 14:28:49,895 - DEBUG - Random scrolls complete.
+2025-04-26 14:28:49,938 - DEBUG - Found 12 like buttons.
+2025-04-26 14:28:52,940 - INFO - Attempting to like 4 posts. There are 12 available.
+2025-04-26 14:28:53,812 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:28:53,822 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:28:53,823 - DEBUG - Liked post number 1 of 4.
+2025-04-26 14:28:59,349 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:28:59,368 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:28:59,372 - DEBUG - Liked post number 2 of 4.
+2025-04-26 14:29:05,170 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:29:05,190 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:29:05,192 - DEBUG - Liked post number 3 of 4.
+2025-04-26 14:29:10,830 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:29:10,836 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:29:10,837 - DEBUG - Liked post number 4 of 4.
+2025-04-26 14:29:15,476 - INFO - Liked 4 posts successfully.
+2025-04-26 14:29:15,479 - INFO - Liked 4 posts successfully.
+2025-04-26 14:29:18,477 - INFO - Profile Emaxx: Restoring window...
+2025-04-26 14:29:20,491 - INFO - performing random action
+2025-04-26 14:29:20,492 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:29:20,493 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:29:22,342 - DEBUG - Page scrolled.
+2025-04-26 14:29:25,344 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:29:26,531 - DEBUG - Page scrolled.
+2025-04-26 14:29:29,535 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:29:31,027 - DEBUG - Page scrolled.
+2025-04-26 14:29:34,029 - DEBUG - Random scrolls complete.
+2025-04-26 14:29:36,236 - DEBUG - Total comments in the thread: 12
+2025-04-26 14:31:00,222 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to create a safe page properly.txt
+2025-04-26 14:31:02,679 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:31:02,740 - DEBUG - Extracted main post content: Hello guys. Can you give me a sample safe page? I can't run cloaking because I can't even go through the policy of the safe page. I used VPS for my website and WordPress to build it. I even used Dophin {anty} and proxy for my browser. For the google ads account, I used an agency account with monthly billing. For cloaking, I bought it from this person "LuckyCloaker" and it's working well.
+
+But in the end, I can't run Google ads with cloaking properly.
+
+Can someone help me, please?
+2025-04-26 14:31:06,841 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:31:06,843 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:31:09,367 - INFO - Profile Emaxx: Opening default URL: https://www.google.com
+2025-04-26 14:31:14,072 - INFO - Profile Emaxx: Pausing for 48.67 seconds...
+2025-04-26 14:32:02,747 - INFO - Profile Emaxx: Resuming...
+2025-04-26 14:32:02,756 - INFO - Profile Emaxx: Switched back to original tab.
+2025-04-26 14:32:02,757 - INFO - performing random action
+2025-04-26 14:32:02,758 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:32:02,759 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:32:02,780 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:32:02,836 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:32:02,844 - DEBUG - Text box scrolled into view
+2025-04-26 14:32:03,346 - DEBUG - Initializing actionchains
+2025-04-26 14:32:03,411 - DEBUG - Post reply Element location: {'x': 1233, 'y': 4384}, size: {'height': 21, 'width': 68}
+2025-04-26 14:32:03,412 - DEBUG - Target click coordinates: (1267, 4394)
+2025-04-26 14:32:15,720 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:32:15,721 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:32:15,723 - DEBUG - Clicking on the text box.
+2025-04-26 14:32:15,726 - DEBUG - Sending keys with content: Forget cloaking for a sec. What kind of landing page content are you using *before* you even get to the safe page? That's usually where the flags start.
+
+2025-04-26 14:32:20,896 - DEBUG - Clicking on post reply button.
+2025-04-26 14:32:31,939 - DEBUG - Performed Actionchains
+2025-04-26 14:32:31,940 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:32:35,941 - INFO - Comment posted successfully.
+2025-04-26 14:32:35,942 - INFO - Task Completed!!
+2025-04-26 14:32:45,559 - INFO - Navigated back to the homepage.
+2025-04-26 14:32:48,048 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:32:48,073 - INFO - Garbage collection completed.
+2025-04-26 14:32:48,074 - INFO - Waiting for 1000 seconds before next execution.

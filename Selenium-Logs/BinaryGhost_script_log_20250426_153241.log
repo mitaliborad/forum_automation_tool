@@ -1,0 +1,105 @@
+2025-04-26 15:32:41,805 - INFO - Current time: 1745661761.8056545
+2025-04-26 15:32:41,807 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 15:32:41,809 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 15:32:41,811 - INFO - performing random action
+2025-04-26 15:32:41,814 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:32:41,816 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:32:41,818 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:43,314 - DEBUG - Page scrolled.
+2025-04-26 15:32:45,316 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:46,766 - DEBUG - Page scrolled.
+2025-04-26 15:32:48,769 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:50,260 - DEBUG - Page scrolled.
+2025-04-26 15:32:52,262 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:53,997 - DEBUG - Page scrolled.
+2025-04-26 15:32:55,998 - DEBUG - Random scrolls complete.
+2025-04-26 15:32:55,999 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:32:55,999 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:32:57,856 - DEBUG - Page scrolled.
+2025-04-26 15:32:59,858 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:01,614 - DEBUG - Page scrolled.
+2025-04-26 15:33:03,616 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:04,837 - DEBUG - Page scrolled.
+2025-04-26 15:33:06,839 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:33:08,675 - DEBUG - Page scrolled.
+2025-04-26 15:33:10,677 - DEBUG - Random scrolls complete.
+2025-04-26 15:33:23,029 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/link-building.108/
+2025-04-26 15:33:26,797 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/do-pbns-still-work-in-2025-or-not.1701718/unread
+2025-04-26 15:33:26,797 - INFO - Profile BinaryGhost: Pausing for 32.34 seconds...
+2025-04-26 15:33:59,134 - INFO - Profile BinaryGhost: Resuming...
+2025-04-26 15:33:59,137 - INFO - performing random action
+2025-04-26 15:34:09,996 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/do-pbns-still-work-in-2025-or-not.1701718/unread
+2025-04-26 15:34:09,998 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/do-pbns-still-work-in-2025-or-not.1701718/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:34:10,034 - INFO - Extracted thread title: Do PBNs Still Work in 2025 or Not
+2025-04-26 15:34:10,035 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:34:10,035 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:34:11,426 - DEBUG - Page scrolled.
+2025-04-26 15:34:13,429 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:34:14,587 - DEBUG - Page scrolled.
+2025-04-26 15:34:16,589 - DEBUG - Random scrolls complete.
+2025-04-26 15:34:19,413 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:34:19,414 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:34:20,756 - DEBUG - Page scrolled.
+2025-04-26 15:34:23,758 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:34:25,604 - DEBUG - Page scrolled.
+2025-04-26 15:34:28,606 - DEBUG - Random scrolls complete.
+2025-04-26 15:34:28,620 - DEBUG - Found 15 like buttons.
+2025-04-26 15:34:31,621 - INFO - Attempting to like 4 posts. There are 15 available.
+2025-04-26 15:34:32,369 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:34:32,401 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:34:32,404 - DEBUG - Liked post number 1 of 4.
+2025-04-26 15:34:37,756 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:34:37,777 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:34:37,779 - DEBUG - Liked post number 2 of 4.
+2025-04-26 15:34:43,587 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:34:43,594 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:34:43,595 - DEBUG - Liked post number 3 of 4.
+2025-04-26 15:34:48,518 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:34:48,536 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:34:48,537 - DEBUG - Liked post number 4 of 4.
+2025-04-26 15:34:53,476 - INFO - Liked 4 posts successfully.
+2025-04-26 15:34:53,478 - INFO - Liked 4 posts successfully.
+2025-04-26 15:34:55,673 - INFO - performing random action
+2025-04-26 15:34:55,675 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:34:55,676 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:34:56,821 - DEBUG - Page scrolled.
+2025-04-26 15:34:59,823 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:01,798 - DEBUG - Page scrolled.
+2025-04-26 15:35:04,801 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:35:06,065 - DEBUG - Page scrolled.
+2025-04-26 15:35:09,068 - DEBUG - Random scrolls complete.
+2025-04-26 15:35:11,708 - DEBUG - Total comments in the thread: 15
+2025-04-26 15:36:25,009 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Do PBNs Still Work in 2025 or Not.txt
+2025-04-26 15:36:27,107 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:36:27,187 - DEBUG - Extracted main post content: Are PBNs still working in 2025, or has Google made them useless?
+
+Some say they rank fast, others say it's risky now. What’s really working for you? Any tips to stay safe?
+2025-04-26 15:36:30,526 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:36:30,529 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:36:33,139 - INFO - Profile BinaryGhost: Opening default URL: https://www.google.com
+2025-04-26 15:36:46,025 - INFO - Profile BinaryGhost: Pausing for 30.30 seconds...
+2025-04-26 15:37:16,332 - INFO - Profile BinaryGhost: Resuming...
+2025-04-26 15:37:16,351 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-26 15:37:16,353 - INFO - performing random action
+2025-04-26 15:37:16,354 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:37:16,354 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:37:16,442 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:37:16,485 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:37:16,490 - DEBUG - Text box scrolled into view
+2025-04-26 15:37:17,331 - DEBUG - Initializing actionchains
+2025-04-26 15:37:17,351 - DEBUG - Post reply Element location: {'x': 1233, 'y': 5156}, size: {'height': 21, 'width': 68}
+2025-04-26 15:37:17,352 - DEBUG - Target click coordinates: (1267, 5166)
+2025-04-26 15:37:31,862 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:37:31,863 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:37:31,865 - DEBUG - Clicking on the text box.
+2025-04-26 15:37:31,871 - DEBUG - Sending keys with content: Still seeing results, but you gotta be smart about footprints. What kind of sites are you linking *to*? That makes a huge difference.
+
+2025-04-26 15:37:37,249 - DEBUG - Clicking on post reply button.
+2025-04-26 15:37:48,245 - DEBUG - Performed Actionchains
+2025-04-26 15:37:48,245 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:37:52,247 - INFO - Comment posted successfully.
+2025-04-26 15:37:52,249 - INFO - Task Completed!!
+2025-04-26 15:38:00,514 - INFO - Navigated back to the homepage.
+2025-04-26 15:38:02,647 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:38:02,675 - INFO - Garbage collection completed.
+2025-04-26 15:38:02,675 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,101 @@
+2025-04-26 14:46:31,902 - INFO - Current time: 1745658991.9025502
+2025-04-26 14:46:31,903 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 14:46:31,904 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 14:46:31,905 - INFO - Profile ZeroDayHunter: Opening random website: https://letshyphen.com/
+2025-04-26 14:47:06,862 - INFO - Profile ZeroDayHunter: Pausing for 45.56 seconds...
+2025-04-26 14:47:52,420 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-26 14:47:52,447 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-26 14:47:52,452 - INFO - performing random action
+2025-04-26 14:47:52,496 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:47:52,498 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:47:52,498 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:47:54,168 - DEBUG - Page scrolled.
+2025-04-26 14:47:56,170 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:47:57,875 - DEBUG - Page scrolled.
+2025-04-26 14:47:59,876 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:01,348 - DEBUG - Page scrolled.
+2025-04-26 14:48:03,350 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:05,292 - DEBUG - Page scrolled.
+2025-04-26 14:48:07,293 - DEBUG - Random scrolls complete.
+2025-04-26 14:48:07,295 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:48:07,296 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:09,245 - DEBUG - Page scrolled.
+2025-04-26 14:48:11,247 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:12,572 - DEBUG - Page scrolled.
+2025-04-26 14:48:14,573 - DEBUG - Random scrolls complete.
+2025-04-26 14:48:21,611 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/graphic-design.169/
+2025-04-26 14:48:25,243 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/canva-vs-adobe-illustrator.1672726/
+2025-04-26 14:48:25,243 - INFO - performing random action
+2025-04-26 14:48:34,858 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/canva-vs-adobe-illustrator.1672726/
+2025-04-26 14:48:34,879 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/canva-vs-adobe-illustrator.1672726/' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:48:34,928 - INFO - Extracted thread title: canva vs Adobe Illustrator
+2025-04-26 14:48:34,929 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:48:34,929 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:36,138 - DEBUG - Page scrolled.
+2025-04-26 14:48:38,139 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:39,578 - DEBUG - Page scrolled.
+2025-04-26 14:48:41,580 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:42,838 - DEBUG - Page scrolled.
+2025-04-26 14:48:44,840 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:46,441 - DEBUG - Page scrolled.
+2025-04-26 14:48:48,443 - DEBUG - Random scrolls complete.
+2025-04-26 14:48:51,161 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:48:51,161 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:53,119 - DEBUG - Page scrolled.
+2025-04-26 14:48:56,121 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:48:57,396 - DEBUG - Page scrolled.
+2025-04-26 14:49:00,398 - DEBUG - Random scrolls complete.
+2025-04-26 14:49:00,426 - DEBUG - Found 15 like buttons.
+2025-04-26 14:49:03,428 - INFO - Attempting to like 1 posts. There are 15 available.
+2025-04-26 14:49:04,370 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:49:04,396 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:49:04,397 - DEBUG - Liked post number 1 of 1.
+2025-04-26 14:49:08,436 - INFO - Liked 1 posts successfully.
+2025-04-26 14:49:08,438 - INFO - Liked 1 posts successfully.
+2025-04-26 14:49:10,629 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-26 14:49:12,646 - INFO - performing random action
+2025-04-26 14:49:12,647 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:49:12,648 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:13,673 - DEBUG - Page scrolled.
+2025-04-26 14:49:16,674 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:18,449 - DEBUG - Page scrolled.
+2025-04-26 14:49:21,451 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:23,069 - DEBUG - Page scrolled.
+2025-04-26 14:49:26,072 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:27,237 - DEBUG - Page scrolled.
+2025-04-26 14:49:30,239 - DEBUG - Random scrolls complete.
+2025-04-26 14:49:32,989 - DEBUG - Total comments in the thread: 15
+2025-04-26 14:50:26,037 - INFO - Post content extracted and saved to Thread-Details/Thread Content\canva vs Adobe Illustrator.txt
+2025-04-26 14:50:28,561 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:50:28,620 - DEBUG - Extracted main post content: hey...
+
+i am Adobe user , did never use canva.. thinking to learn it.. any canva user who can tell me something new which is not in the illustrator.
+2025-04-26 14:50:33,801 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:50:33,805 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:50:36,249 - INFO - Profile ZeroDayHunter: Opening default URL: https://www.google.com
+2025-04-26 14:50:47,094 - INFO - Profile ZeroDayHunter: Pausing for 48.11 seconds...
+2025-04-26 14:51:35,213 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-26 14:51:35,236 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-26 14:51:35,237 - INFO - performing random action
+2025-04-26 14:51:35,238 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:51:35,238 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:51:35,254 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:51:35,298 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:51:35,305 - DEBUG - Text box scrolled into view
+2025-04-26 14:51:36,178 - DEBUG - Initializing actionchains
+2025-04-26 14:51:36,196 - DEBUG - Post reply Element location: {'x': 1233, 'y': 5379}, size: {'height': 21, 'width': 68}
+2025-04-26 14:51:36,197 - DEBUG - Target click coordinates: (1267, 5389)
+2025-04-26 14:51:51,034 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:51:51,035 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:51:51,035 - DEBUG - Clicking on the text box.
+2025-04-26 14:51:51,036 - DEBUG - Sending keys with content: Honestly, the magic's in Canva's simplicity for quick social graphics. Illustrator's pro but Canva kills it for fast turnaround stuff.
+
+2025-04-26 14:51:56,175 - DEBUG - Clicking on post reply button.
+2025-04-26 14:52:07,185 - DEBUG - Performed Actionchains
+2025-04-26 14:52:07,186 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:52:11,187 - INFO - Comment posted successfully.
+2025-04-26 14:52:11,189 - INFO - Task Completed!!
+2025-04-26 14:52:21,802 - INFO - Navigated back to the homepage.
+2025-04-26 14:52:24,121 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:52:24,151 - INFO - Garbage collection completed.
+2025-04-26 14:52:24,152 - INFO - Waiting for 1000 seconds before next execution.

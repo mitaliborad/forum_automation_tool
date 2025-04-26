@@ -1,0 +1,104 @@
+2025-04-26 14:29:55,671 - INFO - Current time: 1745657995.6715324
+2025-04-26 14:29:55,672 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 14:29:55,674 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 14:29:55,674 - INFO - Profile BinaryGhost: Pausing for 43.38 seconds...
+2025-04-26 14:30:39,058 - INFO - Profile BinaryGhost: Resuming...
+2025-04-26 14:30:39,059 - INFO - performing random action
+2025-04-26 14:30:39,059 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:30:39,060 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:30:39,060 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:40,140 - DEBUG - Page scrolled.
+2025-04-26 14:30:42,141 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:44,032 - DEBUG - Page scrolled.
+2025-04-26 14:30:46,033 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:47,346 - DEBUG - Page scrolled.
+2025-04-26 14:30:49,347 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:50,402 - DEBUG - Page scrolled.
+2025-04-26 14:30:52,403 - DEBUG - Random scrolls complete.
+2025-04-26 14:30:52,404 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:30:52,404 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:54,035 - DEBUG - Page scrolled.
+2025-04-26 14:30:56,037 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:30:57,777 - DEBUG - Page scrolled.
+2025-04-26 14:30:59,779 - DEBUG - Random scrolls complete.
+2025-04-26 14:31:04,425 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/cloaking-and-content-generators.2/
+2025-04-26 14:31:08,346 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/are-there-any-courses-available.1708369/unread
+2025-04-26 14:31:08,346 - INFO - performing random action
+2025-04-26 14:31:20,290 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/are-there-any-courses-available.1708369/unread
+2025-04-26 14:31:20,292 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/are-there-any-courses-available.1708369/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:31:20,328 - INFO - Extracted thread title: Are there any Courses available
+2025-04-26 14:31:20,328 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:31:20,329 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:21,737 - DEBUG - Page scrolled.
+2025-04-26 14:31:23,739 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:25,445 - DEBUG - Page scrolled.
+2025-04-26 14:31:27,446 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:29,170 - DEBUG - Page scrolled.
+2025-04-26 14:31:31,171 - DEBUG - Random scrolls complete.
+2025-04-26 14:31:33,316 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:31:33,316 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:35,004 - DEBUG - Page scrolled.
+2025-04-26 14:31:38,005 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:39,614 - DEBUG - Page scrolled.
+2025-04-26 14:31:42,617 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:31:44,180 - DEBUG - Page scrolled.
+2025-04-26 14:31:47,181 - DEBUG - Random scrolls complete.
+2025-04-26 14:31:47,205 - DEBUG - Found 3 like buttons.
+2025-04-26 14:31:50,207 - INFO - Attempting to like 1 posts. There are 3 available.
+2025-04-26 14:31:51,036 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:31:51,048 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:31:51,048 - DEBUG - Liked post number 1 of 1.
+2025-04-26 14:31:55,996 - INFO - Liked 1 posts successfully.
+2025-04-26 14:31:55,998 - INFO - Liked 1 posts successfully.
+2025-04-26 14:31:58,859 - INFO - Profile BinaryGhost: Opening random website: https://www.netflix.com/in/
+2025-04-26 14:32:12,908 - INFO - Profile BinaryGhost: Pausing for 46.27 seconds...
+2025-04-26 14:32:59,179 - INFO - Profile BinaryGhost: Resuming...
+2025-04-26 14:32:59,201 - INFO - Profile BinaryGhost: Switched back to original tab.
+2025-04-26 14:32:59,202 - INFO - performing random action
+2025-04-26 14:32:59,202 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:32:59,203 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:33:01,126 - DEBUG - Page scrolled.
+2025-04-26 14:33:04,128 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:33:05,675 - DEBUG - Page scrolled.
+2025-04-26 14:33:08,677 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:33:10,125 - DEBUG - Page scrolled.
+2025-04-26 14:33:13,127 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:33:14,939 - DEBUG - Page scrolled.
+2025-04-26 14:33:17,941 - DEBUG - Random scrolls complete.
+2025-04-26 14:33:20,852 - DEBUG - Total comments in the thread: 3
+2025-04-26 14:33:41,970 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Are there any Courses available.txt
+2025-04-26 14:33:44,469 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:33:44,520 - DEBUG - Extracted main post content: Hi,
+
+I have been looking for a week, I searched throughout the web but didn't get information. So, I am here to get some guidance.
+
+My question is that are there any courses, techniques, or paid communities available where I can learn advanced puro blackhat SEO or advanced greyhat SEO?
+
+Please suggest to me.
+
+Thank you in advance.
+2025-04-26 14:33:48,370 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:33:48,373 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:33:50,696 - INFO - performing random action
+2025-04-26 14:33:50,697 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:33:50,697 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:33:50,715 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:33:50,758 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:33:50,768 - DEBUG - Text box scrolled into view
+2025-04-26 14:33:51,488 - DEBUG - Initializing actionchains
+2025-04-26 14:33:51,541 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2024}, size: {'height': 21, 'width': 68}
+2025-04-26 14:33:51,541 - DEBUG - Target click coordinates: (1267, 2034)
+2025-04-26 14:33:59,167 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:33:59,169 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:33:59,170 - DEBUG - Clicking on the text box.
+2025-04-26 14:33:59,173 - DEBUG - Sending keys with content: Forget courses, honestly. Find a specific problem in SEO, like a ranking drop for a weird keyword, and just *solve* it. The learning happens in the trenches.
+
+2025-04-26 14:34:04,951 - DEBUG - Clicking on post reply button.
+2025-04-26 14:34:15,695 - DEBUG - Performed Actionchains
+2025-04-26 14:34:15,696 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:34:19,699 - INFO - Comment posted successfully.
+2025-04-26 14:34:19,700 - INFO - Task Completed!!
+2025-04-26 14:34:29,617 - INFO - Navigated back to the homepage.
+2025-04-26 14:34:31,971 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:34:32,014 - INFO - Garbage collection completed.
+2025-04-26 14:34:32,014 - INFO - Waiting for 1000 seconds before next execution.

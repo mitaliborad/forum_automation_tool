@@ -1,0 +1,116 @@
+2025-04-26 15:54:42,678 - INFO - Current time: 1745663082.6783483
+2025-04-26 15:54:42,680 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 15:54:42,681 - INFO - Token expiration time: 1745668789.5758998
+2025-04-26 15:54:42,681 - INFO - Profile BinaryGhost: Minimizing window...
+2025-04-26 15:54:42,686 - INFO - Profile BinaryGhost: Window minimized. Pausing for 17.76 seconds...
+2025-04-26 15:55:00,447 - INFO - Profile BinaryGhost: Resuming after minimize...
+2025-04-26 15:55:00,448 - INFO - performing random action
+2025-04-26 15:55:00,449 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:55:00,450 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:55:00,451 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:01,956 - DEBUG - Page scrolled.
+2025-04-26 15:55:03,957 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:05,301 - DEBUG - Page scrolled.
+2025-04-26 15:55:07,302 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:08,432 - DEBUG - Page scrolled.
+2025-04-26 15:55:10,435 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:11,928 - DEBUG - Page scrolled.
+2025-04-26 15:55:13,929 - DEBUG - Random scrolls complete.
+2025-04-26 15:55:13,929 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:55:13,930 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:15,873 - DEBUG - Page scrolled.
+2025-04-26 15:55:17,875 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:19,009 - DEBUG - Page scrolled.
+2025-04-26 15:55:21,011 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:22,711 - DEBUG - Page scrolled.
+2025-04-26 15:55:24,712 - DEBUG - Random scrolls complete.
+2025-04-26 15:55:36,257 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/introductions.24/
+2025-04-26 15:55:39,896 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/new-to-bhw.1708404/unread
+2025-04-26 15:55:39,897 - INFO - performing random action
+2025-04-26 15:55:50,489 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/new-to-bhw.1708404/unread
+2025-04-26 15:55:50,491 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/new-to-bhw.1708404/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:55:50,523 - INFO - Extracted thread title: New to BHW
+2025-04-26 15:55:50,524 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:55:50,524 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:52,463 - DEBUG - Page scrolled.
+2025-04-26 15:55:54,464 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:55:56,068 - DEBUG - Page scrolled.
+2025-04-26 15:55:58,070 - DEBUG - Random scrolls complete.
+2025-04-26 15:56:00,368 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:56:00,369 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:01,459 - DEBUG - Page scrolled.
+2025-04-26 15:56:04,461 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:05,911 - DEBUG - Page scrolled.
+2025-04-26 15:56:08,913 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:10,281 - DEBUG - Page scrolled.
+2025-04-26 15:56:13,283 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:14,950 - DEBUG - Page scrolled.
+2025-04-26 15:56:17,954 - DEBUG - Random scrolls complete.
+2025-04-26 15:56:17,992 - DEBUG - Found 7 like buttons.
+2025-04-26 15:56:20,993 - INFO - Attempting to like 4 posts. There are 7 available.
+2025-04-26 15:56:21,654 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:56:21,678 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:56:21,679 - DEBUG - Liked post number 1 of 4.
+2025-04-26 15:56:26,557 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:56:26,576 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:56:26,577 - DEBUG - Liked post number 2 of 4.
+2025-04-26 15:56:31,863 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:56:31,877 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:56:31,879 - DEBUG - Liked post number 3 of 4.
+2025-04-26 15:56:36,779 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:56:36,799 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:56:36,801 - DEBUG - Liked post number 4 of 4.
+2025-04-26 15:56:41,634 - INFO - Liked 4 posts successfully.
+2025-04-26 15:56:41,636 - INFO - Liked 4 posts successfully.
+2025-04-26 15:56:43,755 - INFO - performing random action
+2025-04-26 15:56:43,757 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:56:43,759 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:45,225 - DEBUG - Page scrolled.
+2025-04-26 15:56:48,227 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:49,936 - DEBUG - Page scrolled.
+2025-04-26 15:56:52,937 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:54,859 - DEBUG - Page scrolled.
+2025-04-26 15:56:57,860 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:56:59,260 - DEBUG - Page scrolled.
+2025-04-26 15:57:02,261 - DEBUG - Random scrolls complete.
+2025-04-26 15:57:04,446 - DEBUG - Total comments in the thread: 7
+2025-04-26 15:57:04,992 - INFO - Post content extracted and saved to Thread-Details/Thread Content\New to BHW.txt
+2025-04-26 15:57:07,732 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:57:07,789 - DEBUG - Extracted main post content: Hey BHW community!
+
+I am a freelance Link Builder. I’m currently diving deep into SEO, specifically link building and Digital PR. I’m learning the ropes but also exploring ways to turn it into a profitable skill.
+What brought me here? Deepseek told me about this, and after reading a few threads, I knew this was the place to grow.
+
+I’m here to learn from people actually doing the work, not just theory. I want to sharpen my skills, contribute when I can, and hopefully connect with others doing white-hat, grey-hat, or creative link building work.
+
+
+If you’re in the link game or doing cool stuff with content and outreach, I’d love to hear from you.
+
+
+See you around the forum!
+2025-04-26 15:57:11,852 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:57:11,854 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:57:14,791 - INFO - Profile BinaryGhost: Restoring window...
+2025-04-26 15:57:16,800 - INFO - performing random action
+2025-04-26 15:57:16,801 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:57:16,801 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:57:16,814 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:57:16,864 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:57:16,870 - DEBUG - Text box scrolled into view
+2025-04-26 15:57:17,607 - DEBUG - Initializing actionchains
+2025-04-26 15:57:17,637 - DEBUG - Post reply Element location: {'x': 1233, 'y': 3036}, size: {'height': 21, 'width': 68}
+2025-04-26 15:57:17,638 - DEBUG - Target click coordinates: (1267, 3046)
+2025-04-26 15:57:27,674 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:57:27,675 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:57:27,677 - DEBUG - Clicking on the text box.
+2025-04-26 15:57:27,685 - DEBUG - Sending keys with content: Forget the theory, dive into HARO – reporters are always looking for sources, and that's a killer way to build links and credibility. What kind of sites are you trying to get links from?
+
+2025-04-26 15:57:33,108 - DEBUG - Clicking on post reply button.
+2025-04-26 15:57:44,213 - DEBUG - Performed Actionchains
+2025-04-26 15:57:44,214 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:57:48,216 - INFO - Comment posted successfully.
+2025-04-26 15:57:48,218 - INFO - Task Completed!!
+2025-04-26 15:57:56,064 - INFO - Navigated back to the homepage.
+2025-04-26 15:57:58,235 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:57:58,267 - INFO - Garbage collection completed.
+2025-04-26 15:57:58,268 - INFO - Waiting for 1000 seconds before next execution.

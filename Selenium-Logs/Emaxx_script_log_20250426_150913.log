@@ -1,0 +1,102 @@
+2025-04-26 15:09:13,448 - INFO - Current time: 1745660353.4486475
+2025-04-26 15:09:13,450 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 15:09:13,452 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 15:09:13,454 - INFO - Profile Emaxx: Minimizing window...
+2025-04-26 15:09:13,461 - INFO - Profile Emaxx: Window minimized. Pausing for 29.76 seconds...
+2025-04-26 15:09:43,218 - INFO - Profile Emaxx: Resuming after minimize...
+2025-04-26 15:09:43,220 - INFO - performing random action
+2025-04-26 15:09:43,222 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:09:43,224 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:09:43,226 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:09:45,198 - DEBUG - Page scrolled.
+2025-04-26 15:09:47,200 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:09:48,454 - DEBUG - Page scrolled.
+2025-04-26 15:09:50,456 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:09:52,261 - DEBUG - Page scrolled.
+2025-04-26 15:09:54,262 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:09:55,496 - DEBUG - Page scrolled.
+2025-04-26 15:09:57,498 - DEBUG - Random scrolls complete.
+2025-04-26 15:09:57,499 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:09:57,499 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:09:59,257 - DEBUG - Page scrolled.
+2025-04-26 15:10:01,258 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:10:03,209 - DEBUG - Page scrolled.
+2025-04-26 15:10:05,209 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:10:07,176 - DEBUG - Page scrolled.
+2025-04-26 15:10:09,176 - DEBUG - Random scrolls complete.
+2025-04-26 15:10:19,278 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/weibo.216/
+2025-04-26 15:10:23,327 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/is-weibo-a-good-place-to-advertise-my-crypto-project.1414333/unread
+2025-04-26 15:10:23,328 - INFO - performing random action
+2025-04-26 15:10:34,642 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/is-weibo-a-good-place-to-advertise-my-crypto-project.1414333/unread
+2025-04-26 15:10:34,645 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/is-weibo-a-good-place-to-advertise-my-crypto-project.1414333/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:10:34,704 - INFO - Extracted thread title: Is weibo a good place to advertise my crypto project
+2025-04-26 15:10:34,705 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:10:34,705 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:10:35,776 - DEBUG - Page scrolled.
+2025-04-26 15:10:37,777 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:10:39,625 - DEBUG - Page scrolled.
+2025-04-26 15:10:41,625 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:10:43,078 - DEBUG - Page scrolled.
+2025-04-26 15:10:45,079 - DEBUG - Random scrolls complete.
+2025-04-26 15:10:47,924 - DEBUG - Scrolling page 1 times.
+2025-04-26 15:10:47,927 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:10:49,447 - DEBUG - Page scrolled.
+2025-04-26 15:10:52,448 - DEBUG - Random scrolls complete.
+2025-04-26 15:10:52,471 - DEBUG - Found 20 like buttons.
+2025-04-26 15:10:55,472 - INFO - Attempting to like 2 posts. There are 20 available.
+2025-04-26 15:10:56,284 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:10:56,315 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:10:56,316 - DEBUG - Liked post number 1 of 2.
+2025-04-26 15:11:01,312 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:11:01,324 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:11:01,325 - DEBUG - Liked post number 2 of 2.
+2025-04-26 15:11:05,727 - INFO - Liked 2 posts successfully.
+2025-04-26 15:11:05,727 - INFO - Liked 2 posts successfully.
+2025-04-26 15:11:08,562 - INFO - performing random action
+2025-04-26 15:11:08,564 - DEBUG - Scrolling page 7 times.
+2025-04-26 15:11:08,566 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:11:10,287 - DEBUG - Page scrolled.
+2025-04-26 15:11:13,288 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:11:14,593 - DEBUG - Page scrolled.
+2025-04-26 15:11:17,596 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:11:19,566 - DEBUG - Page scrolled.
+2025-04-26 15:11:22,569 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:11:24,440 - DEBUG - Page scrolled.
+2025-04-26 15:11:27,441 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:11:29,192 - DEBUG - Page scrolled.
+2025-04-26 15:11:32,195 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:11:33,429 - DEBUG - Page scrolled.
+2025-04-26 15:11:36,430 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:11:37,532 - DEBUG - Page scrolled.
+2025-04-26 15:11:40,533 - DEBUG - Random scrolls complete.
+2025-04-26 15:11:42,595 - DEBUG - Total comments in the thread: 20
+2025-04-26 15:14:18,279 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Is weibo a good place to advertise my crypto project.txt
+2025-04-26 15:14:21,006 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:14:21,060 - DEBUG - Extracted main post content: Hey guys I’ve developed my own crypto project. Is weibo a good place to advertise? Is the Chinese market interested in American crypto projects?
+2025-04-26 15:14:26,430 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:14:26,433 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:14:28,953 - INFO - Profile Emaxx: Pausing for 42.89 seconds...
+2025-04-26 15:15:11,842 - INFO - Profile Emaxx: Resuming...
+2025-04-26 15:15:11,842 - INFO - performing random action
+2025-04-26 15:15:11,843 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:15:11,843 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:15:11,866 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:15:11,916 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:15:11,923 - DEBUG - Text box scrolled into view
+2025-04-26 15:15:12,623 - DEBUG - Initializing actionchains
+2025-04-26 15:15:12,644 - DEBUG - Post reply Element location: {'x': 1233, 'y': 6638}, size: {'height': 21, 'width': 68}
+2025-04-26 15:15:12,644 - DEBUG - Target click coordinates: (1267, 6648)
+2025-04-26 15:15:29,881 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:15:29,882 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:15:29,886 - DEBUG - Clicking on the text box.
+2025-04-26 15:15:29,889 - DEBUG - Sending keys with content: Honestly, it's a mixed bag – regulations are tight, but there's def interest. Maybe start by partnering with a local influencer to test the waters?
+
+2025-04-26 15:15:35,388 - DEBUG - Clicking on post reply button.
+2025-04-26 15:15:46,428 - DEBUG - Performed Actionchains
+2025-04-26 15:15:46,429 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:15:50,431 - INFO - Comment posted successfully.
+2025-04-26 15:15:50,434 - INFO - Task Completed!!
+2025-04-26 15:15:59,188 - INFO - Navigated back to the homepage.
+2025-04-26 15:16:01,479 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:16:01,507 - INFO - Garbage collection completed.
+2025-04-26 15:16:01,508 - INFO - Waiting for 1000 seconds before next execution.

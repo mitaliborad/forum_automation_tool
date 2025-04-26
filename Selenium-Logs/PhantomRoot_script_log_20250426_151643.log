@@ -1,0 +1,101 @@
+2025-04-26 15:16:43,054 - INFO - Current time: 1745660803.0547175
+2025-04-26 15:16:43,056 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 15:16:43,058 - INFO - Token expiration time: 1745669019.2965453
+2025-04-26 15:16:43,060 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-26 15:16:43,068 - INFO - Profile PhantomRoot: Window minimized. Pausing for 26.86 seconds...
+2025-04-26 15:17:09,930 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-26 15:17:09,933 - INFO - performing random action
+2025-04-26 15:17:09,935 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 15:17:09,937 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:17:09,939 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:17:11,410 - DEBUG - Page scrolled.
+2025-04-26 15:17:13,412 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:17:14,623 - DEBUG - Page scrolled.
+2025-04-26 15:17:16,625 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:17:18,075 - DEBUG - Page scrolled.
+2025-04-26 15:17:20,077 - DEBUG - Random scrolls complete.
+2025-04-26 15:17:20,078 - DEBUG - Scrolling page 4 times.
+2025-04-26 15:17:20,081 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:17:21,955 - DEBUG - Page scrolled.
+2025-04-26 15:17:23,957 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:17:25,519 - DEBUG - Page scrolled.
+2025-04-26 15:17:27,520 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:17:29,030 - DEBUG - Page scrolled.
+2025-04-26 15:17:31,032 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:17:32,530 - DEBUG - Page scrolled.
+2025-04-26 15:17:34,532 - DEBUG - Random scrolls complete.
+2025-04-26 15:17:43,227 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/php-perl.127/
+2025-04-26 15:17:47,045 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/can-somebody-help-me-to-decode-this-program.1708727/unread
+2025-04-26 15:17:47,046 - INFO - Profile PhantomRoot: Minimizing window...
+2025-04-26 15:17:47,048 - INFO - Profile PhantomRoot: Window minimized. Pausing for 26.46 seconds...
+2025-04-26 15:18:13,513 - INFO - Profile PhantomRoot: Resuming after minimize...
+2025-04-26 15:18:13,515 - INFO - performing random action
+2025-04-26 15:18:21,739 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/can-somebody-help-me-to-decode-this-program.1708727/unread
+2025-04-26 15:18:21,742 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/can-somebody-help-me-to-decode-this-program.1708727/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 15:18:21,794 - INFO - Extracted thread title: Can somebody help me to decode this program
+2025-04-26 15:18:21,795 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:18:21,795 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:18:23,594 - DEBUG - Page scrolled.
+2025-04-26 15:18:25,596 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:18:27,004 - DEBUG - Page scrolled.
+2025-04-26 15:18:29,006 - DEBUG - Random scrolls complete.
+2025-04-26 15:18:31,883 - DEBUG - Scrolling page 2 times.
+2025-04-26 15:18:31,885 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:18:33,580 - DEBUG - Page scrolled.
+2025-04-26 15:18:36,583 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:18:38,231 - DEBUG - Page scrolled.
+2025-04-26 15:18:41,233 - DEBUG - Random scrolls complete.
+2025-04-26 15:18:41,245 - DEBUG - Found 1 like buttons.
+2025-04-26 15:18:44,247 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-04-26 15:18:44,905 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 15:18:44,920 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 15:18:44,921 - DEBUG - Liked post number 1 of 1.
+2025-04-26 15:18:48,939 - INFO - Liked 1 posts successfully.
+2025-04-26 15:18:48,941 - INFO - Liked 1 posts successfully.
+2025-04-26 15:18:51,336 - INFO - performing random action
+2025-04-26 15:18:51,337 - DEBUG - Scrolling page 3 times.
+2025-04-26 15:18:51,338 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:18:53,218 - DEBUG - Page scrolled.
+2025-04-26 15:18:56,220 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:18:58,227 - DEBUG - Page scrolled.
+2025-04-26 15:19:01,229 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 15:19:02,326 - DEBUG - Page scrolled.
+2025-04-26 15:19:05,328 - DEBUG - Random scrolls complete.
+2025-04-26 15:19:08,276 - DEBUG - Total comments in the thread: 1
+2025-04-26 15:19:08,372 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Can somebody help me to decode this program.txt
+2025-04-26 15:19:10,712 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 15:19:10,763 - DEBUG - Extracted main post content: i have a this system im using for sometime now... i got it lifetime license but i need to do some changes to improve the system
+PHP Files -> https://www.mediafire.com/file/v6zny0w48ik8rm5/views.zip/file
+CSS JS Lang Files -> https://www.mediafire.com/file/pyilj3vaj8zdwfy/css+js+lang.zip/file
+(Mediafire liks)
+
+thanks in advance
+2025-04-26 15:19:14,536 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 15:19:14,538 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 15:19:17,338 - INFO - Profile PhantomRoot: Opening random website: https://www.canva.com/en_in/
+2025-04-26 15:19:42,862 - INFO - Profile PhantomRoot: Pausing for 31.14 seconds...
+2025-04-26 15:20:14,003 - INFO - Profile PhantomRoot: Resuming...
+2025-04-26 15:20:14,030 - INFO - Profile PhantomRoot: Switched back to original tab.
+2025-04-26 15:20:14,032 - INFO - performing random action
+2025-04-26 15:20:14,032 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:20:14,034 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:20:14,075 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:20:14,122 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 15:20:14,132 - DEBUG - Text box scrolled into view
+2025-04-26 15:20:14,940 - DEBUG - Initializing actionchains
+2025-04-26 15:20:14,962 - DEBUG - Post reply Element location: {'x': 1233, 'y': 1125}, size: {'height': 21, 'width': 68}
+2025-04-26 15:20:14,962 - DEBUG - Target click coordinates: (1267, 1135)
+2025-04-26 15:20:21,760 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 15:20:21,762 - DEBUG - Moving mouse to text box element.
+2025-04-26 15:20:21,763 - DEBUG - Clicking on the text box.
+2025-04-26 15:20:21,766 - DEBUG - Sending keys with content: Instead of directly sharing files, have you considered describing the changes you'd like? Might get more targeted advice that way.
+
+2025-04-26 15:20:26,873 - DEBUG - Clicking on post reply button.
+2025-04-26 15:20:27,903 - DEBUG - Performed Actionchains
+2025-04-26 15:20:27,904 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 15:20:31,905 - INFO - Comment posted successfully.
+2025-04-26 15:20:31,907 - INFO - Task Completed!!
+2025-04-26 15:20:37,869 - INFO - Navigated back to the homepage.
+2025-04-26 15:20:40,541 - INFO - Attempting to clear memory and resources.
+2025-04-26 15:20:40,575 - INFO - Garbage collection completed.
+2025-04-26 15:20:40,576 - INFO - Waiting for 1000 seconds before next execution.

@@ -1,0 +1,89 @@
+2025-04-26 14:49:28,078 - INFO - Current time: 1745659168.0780275
+2025-04-26 14:49:28,080 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 14:49:28,082 - INFO - Token expiration time: 1745668355.9404218
+2025-04-26 14:49:28,086 - INFO - performing random action
+2025-04-26 14:49:28,091 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 14:49:28,092 - DEBUG - Scrolling page 2 times.
+2025-04-26 14:49:28,093 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:30,030 - DEBUG - Page scrolled.
+2025-04-26 14:49:32,032 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:33,996 - DEBUG - Page scrolled.
+2025-04-26 14:49:35,998 - DEBUG - Random scrolls complete.
+2025-04-26 14:49:35,999 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:49:36,000 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:37,525 - DEBUG - Page scrolled.
+2025-04-26 14:49:39,528 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:41,168 - DEBUG - Page scrolled.
+2025-04-26 14:49:43,169 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:44,883 - DEBUG - Page scrolled.
+2025-04-26 14:49:46,884 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:49:48,122 - DEBUG - Page scrolled.
+2025-04-26 14:49:50,124 - DEBUG - Random scrolls complete.
+2025-04-26 14:49:58,828 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/video-production.170/
+2025-04-26 14:50:02,441 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/expert-video-editor.1684807/unread
+2025-04-26 14:50:02,441 - INFO - performing random action
+2025-04-26 14:50:15,798 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/expert-video-editor.1684807/unread
+2025-04-26 14:50:15,801 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/expert-video-editor.1684807/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 14:50:15,832 - INFO - Extracted thread title: Expert video editor
+2025-04-26 14:50:15,832 - DEBUG - Scrolling page 3 times.
+2025-04-26 14:50:15,833 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:50:17,251 - DEBUG - Page scrolled.
+2025-04-26 14:50:19,253 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:50:20,634 - DEBUG - Page scrolled.
+2025-04-26 14:50:22,636 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:50:24,215 - DEBUG - Page scrolled.
+2025-04-26 14:50:26,218 - DEBUG - Random scrolls complete.
+2025-04-26 14:50:28,801 - DEBUG - Scrolling page 1 times.
+2025-04-26 14:50:28,803 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:50:29,915 - DEBUG - Page scrolled.
+2025-04-26 14:50:32,917 - DEBUG - Random scrolls complete.
+2025-04-26 14:50:32,962 - DEBUG - Found 4 like buttons.
+2025-04-26 14:50:35,964 - INFO - Attempting to like 2 posts. There are 4 available.
+2025-04-26 14:50:36,663 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:50:36,692 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:50:36,695 - DEBUG - Liked post number 1 of 2.
+2025-04-26 14:50:41,536 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 14:50:41,556 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 14:50:41,558 - DEBUG - Liked post number 2 of 2.
+2025-04-26 14:50:45,635 - INFO - Liked 2 posts successfully.
+2025-04-26 14:50:45,637 - INFO - Liked 2 posts successfully.
+2025-04-26 14:50:48,270 - INFO - performing random action
+2025-04-26 14:50:48,271 - DEBUG - Scrolling page 4 times.
+2025-04-26 14:50:48,272 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:50:49,608 - DEBUG - Page scrolled.
+2025-04-26 14:50:52,610 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:50:54,615 - DEBUG - Page scrolled.
+2025-04-26 14:50:57,617 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:50:59,518 - DEBUG - Page scrolled.
+2025-04-26 14:51:02,520 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 14:51:04,499 - DEBUG - Page scrolled.
+2025-04-26 14:51:07,501 - DEBUG - Random scrolls complete.
+2025-04-26 14:51:10,490 - DEBUG - Total comments in the thread: 5
+2025-04-26 14:51:42,142 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Expert video editor.txt
+2025-04-26 14:51:44,466 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 14:51:44,567 - DEBUG - Extracted main post content: I am expert in video editing but it is hard to find leads any suggestion how to get more clients
+2025-04-26 14:51:48,259 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 14:51:48,272 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 14:51:50,435 - INFO - performing random action
+2025-04-26 14:51:50,438 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:51:50,439 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:51:50,479 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:51:50,534 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 14:51:50,540 - DEBUG - Text box scrolled into view
+2025-04-26 14:51:51,149 - DEBUG - Initializing actionchains
+2025-04-26 14:51:51,173 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2242}, size: {'height': 21, 'width': 68}
+2025-04-26 14:51:51,173 - DEBUG - Target click coordinates: (1267, 2252)
+2025-04-26 14:52:00,482 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 14:52:00,482 - DEBUG - Moving mouse to text box element.
+2025-04-26 14:52:00,483 - DEBUG - Clicking on the text box.
+2025-04-26 14:52:00,484 - DEBUG - Sending keys with content: Stop hunting and start showcasing. Build a killer reel and spam it *everywhere* potential clients hang out.
+
+2025-04-26 14:52:06,278 - DEBUG - Clicking on post reply button.
+2025-04-26 14:52:17,194 - DEBUG - Performed Actionchains
+2025-04-26 14:52:17,194 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 14:52:21,195 - INFO - Comment posted successfully.
+2025-04-26 14:52:21,196 - INFO - Task Completed!!
+2025-04-26 14:52:33,751 - INFO - Navigated back to the homepage.
+2025-04-26 14:52:35,924 - INFO - Attempting to clear memory and resources.
+2025-04-26 14:52:35,966 - INFO - Garbage collection completed.
+2025-04-26 14:52:35,967 - INFO - Waiting for 1000 seconds before next execution.

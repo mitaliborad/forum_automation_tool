@@ -1,0 +1,115 @@
+2025-04-26 16:10:52,626 - INFO - Current time: 1745664052.626189
+2025-04-26 16:10:52,628 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 16:10:52,629 - INFO - Token expiration time: 1745668626.6002212
+2025-04-26 16:10:52,631 - INFO - Profile ZeroDayHunter: Minimizing window...
+2025-04-26 16:10:52,644 - INFO - Profile ZeroDayHunter: Window minimized. Pausing for 18.33 seconds...
+2025-04-26 16:11:10,983 - INFO - Profile ZeroDayHunter: Resuming after minimize...
+2025-04-26 16:11:10,984 - INFO - performing random action
+2025-04-26 16:11:10,984 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-04-26 16:11:10,985 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:11:10,986 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:11:12,625 - DEBUG - Page scrolled.
+2025-04-26 16:11:14,626 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:11:16,454 - DEBUG - Page scrolled.
+2025-04-26 16:11:18,455 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:11:19,486 - DEBUG - Page scrolled.
+2025-04-26 16:11:21,487 - DEBUG - Random scrolls complete.
+2025-04-26 16:11:21,487 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:11:21,488 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:11:23,296 - DEBUG - Page scrolled.
+2025-04-26 16:11:25,298 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:11:27,154 - DEBUG - Page scrolled.
+2025-04-26 16:11:29,156 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:11:31,142 - DEBUG - Page scrolled.
+2025-04-26 16:11:33,144 - DEBUG - Random scrolls complete.
+2025-04-26 16:11:41,966 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/business-tax-advice.96/
+2025-04-26 16:11:45,767 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/need-payment-processor-for-paysafecard.1666400/unread
+2025-04-26 16:11:45,768 - INFO - performing random action
+2025-04-26 16:11:53,722 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/need-payment-processor-for-paysafecard.1666400/unread
+2025-04-26 16:11:53,724 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/need-payment-processor-for-paysafecard.1666400/unread' to visited threads file 'Thread_links.txt'.
+2025-04-26 16:11:53,780 - INFO - Extracted thread title: Need payment processor for paysafecard
+2025-04-26 16:11:53,782 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:11:53,782 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:11:55,095 - DEBUG - Page scrolled.
+2025-04-26 16:11:57,097 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:11:58,973 - DEBUG - Page scrolled.
+2025-04-26 16:12:00,975 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:12:02,674 - DEBUG - Page scrolled.
+2025-04-26 16:12:04,676 - DEBUG - Random scrolls complete.
+2025-04-26 16:12:07,417 - DEBUG - Scrolling page 3 times.
+2025-04-26 16:12:07,420 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:12:09,302 - DEBUG - Page scrolled.
+2025-04-26 16:12:12,304 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:12:13,608 - DEBUG - Page scrolled.
+2025-04-26 16:12:16,611 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:12:17,760 - DEBUG - Page scrolled.
+2025-04-26 16:12:20,762 - DEBUG - Random scrolls complete.
+2025-04-26 16:12:20,805 - DEBUG - Found 5 like buttons.
+2025-04-26 16:12:23,807 - INFO - Attempting to like 1 posts. There are 5 available.
+2025-04-26 16:12:24,500 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-04-26 16:12:24,529 - INFO - Like button clicked successfully using JavaScript.
+2025-04-26 16:12:24,530 - DEBUG - Liked post number 1 of 1.
+2025-04-26 16:12:28,932 - INFO - Liked 1 posts successfully.
+2025-04-26 16:12:28,934 - INFO - Liked 1 posts successfully.
+2025-04-26 16:12:31,586 - INFO - Profile ZeroDayHunter: Opening default URL: https://www.google.com
+2025-04-26 16:12:36,735 - INFO - Profile ZeroDayHunter: Pausing for 38.23 seconds...
+2025-04-26 16:13:14,972 - INFO - Profile ZeroDayHunter: Resuming...
+2025-04-26 16:13:14,986 - INFO - Profile ZeroDayHunter: Switched back to original tab.
+2025-04-26 16:13:14,988 - INFO - performing random action
+2025-04-26 16:13:14,989 - DEBUG - Scrolling page 5 times.
+2025-04-26 16:13:14,989 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:13:16,051 - DEBUG - Page scrolled.
+2025-04-26 16:13:19,052 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:13:21,023 - DEBUG - Page scrolled.
+2025-04-26 16:13:24,023 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:13:25,782 - DEBUG - Page scrolled.
+2025-04-26 16:13:28,784 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:13:30,681 - DEBUG - Page scrolled.
+2025-04-26 16:13:33,683 - DEBUG - Scrolling page by 500 pixels.
+2025-04-26 16:13:34,989 - DEBUG - Page scrolled.
+2025-04-26 16:13:37,991 - DEBUG - Random scrolls complete.
+2025-04-26 16:13:40,311 - DEBUG - Total comments in the thread: 5
+2025-04-26 16:14:11,647 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Need payment processor for paysafecard.txt
+2025-04-26 16:14:13,996 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-04-26 16:14:14,051 - DEBUG - Extracted main post content: Hi guys,
+
+I'm looking for an payment processor/gateway which provides paysafecard and can payout in crypto. My business is not related to shady stuff or similar. Also company is available.
+2025-04-26 16:14:18,938 - INFO - Successfully generated comments using Gemini API.
+2025-04-26 16:14:18,941 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-04-26 16:14:21,844 - INFO - Profile ZeroDayHunter: Restoring window...
+2025-04-26 16:14:23,856 - INFO - performing random action
+2025-04-26 16:14:23,860 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:14:23,862 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:14:23,901 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:14:23,944 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-04-26 16:14:23,952 - DEBUG - Text box scrolled into view
+2025-04-26 16:14:24,792 - DEBUG - Initializing actionchains
+2025-04-26 16:14:24,851 - DEBUG - Post reply Element location: {'x': 1233, 'y': 2305}, size: {'height': 21, 'width': 68}
+2025-04-26 16:14:24,852 - DEBUG - Target click coordinates: (1267, 2315)
+2025-04-26 16:14:33,637 - DEBUG - Moved mouse to target location using bezier curve.
+2025-04-26 16:14:33,640 - DEBUG - Moving mouse to text box element.
+2025-04-26 16:14:33,647 - DEBUG - Clicking on the text box.
+2025-04-26 16:14:33,649 - DEBUG - Sending keys with content: Finding that exact combo can be tricky. Have you looked into any crypto-focused payment gateways? They might offer paysafecard deposits with crypto withdrawals.
+
+2025-04-26 16:14:38,938 - DEBUG - Clicking on post reply button.
+2025-04-26 16:14:49,955 - DEBUG - Performed Actionchains
+2025-04-26 16:14:49,955 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-04-26 16:14:53,956 - INFO - Comment posted successfully.
+2025-04-26 16:14:53,958 - INFO - Task Completed!!
+2025-04-26 16:14:58,661 - INFO - Navigated back to the homepage.
+2025-04-26 16:15:01,168 - INFO - Attempting to clear memory and resources.
+2025-04-26 16:15:01,206 - INFO - Garbage collection completed.
+2025-04-26 16:15:01,207 - INFO - Waiting for 1000 seconds before next execution.
+2025-04-26 16:31:41,208 - INFO - Automation has reached the time limit. Stopping execution.
+2025-04-26 16:31:41,210 - INFO - Stopping browser for profile: ZeroDayHunter...
+2025-04-26 16:31:41,212 - INFO - Refreshing token before stopping profile...
+2025-04-26 16:31:41,214 - INFO - Refreshing token for ZeroDayHunter...
+2025-04-26 16:31:42,269 - INFO - Received expires_in from MultiLogin: 10800
+2025-04-26 16:31:42,269 - INFO - Calculated token expiration time: 1745676102.269728
+2025-04-26 16:31:42,270 - INFO - Profile ZeroDayHunter: Successfully logged in.
+2025-04-26 16:31:42,271 - INFO - Token refreshed successfully before stopping.
+2025-04-26 16:31:42,271 - INFO - Profile ZeroDayHunter: Attempting to stop (Attempt 1/3)...
+2025-04-26 16:31:42,276 - INFO - Profile ZeroDayHunter: Browser closed successfully in 0.00 seconds.
+2025-04-26 16:31:46,420 - INFO - Profile ZeroDayHunter: API call took 4.14 seconds.
+2025-04-26 16:31:46,422 - INFO - Profile ZeroDayHunter: Stopped successfully.
+2025-04-26 16:31:46,426 - INFO - Browser stopped successfully for profile: ZeroDayHunter.

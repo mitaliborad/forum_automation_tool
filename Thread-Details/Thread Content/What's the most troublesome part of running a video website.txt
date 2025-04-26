@@ -1,0 +1,162 @@
+--- Main Post Title ---
+What's the most "troublesome" part of running a video website?
+
+Total comments in the thread: 13
+
+Topic User: Lilybelle123
+Topic: Lately, I've been struggling with a few projects related to video websites. I thought picking a reliable storage solution would be enough – turns out, there are so many issues to deal with: speed, ad management, stability, and even SEO for content.
+For those who have set up video sites before, what part did you find the most "headache-inducing"? Any real-life tips to avoid going through the trial-and-error process?
+I’d love to hear some insights from you all. Thanks a lot!
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: longvu
+Topic: Hi. Are you looking to optimize revenue or care about good customer experience?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Ashk881
+Topic: Managed a porntube. The biggedtt issue was monetising and DMCA.
+
+I didn't store anything, I just embedded content from other sites. Still got hundreds of automated DMCA requests and got delisted by Google.
+
+So traffic became an issue. Being dependent mostly on seo in this niche can be a death trap.
+Liked by: tazarbm
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Lilybelle123
+Topic: longvu said:
+Hi. Are you looking to optimize revenue or care about good customer experience?
+Uhmm, I care more about customer experience
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Lilybelle123
+Topic: Ashk881 said:
+Managed a porntube. The biggedtt issue was monetising and DMCA.
+
+I didn't store anything, I just embedded content from other sites. Still got hundreds of automated DMCA requests and got delisted by Google.
+
+So traffic became an issue. Being dependent mostly on seo in this niche can be a death trap.
+Ashk881 said:
+Managed a porntube. The biggedtt issue was monetising and DMCA.
+
+I didn't store anything, I just embedded content from other sites. Still got hundreds of automated DMCA requests and got delisted by Google.
+
+So traffic became an issue. Being dependent mostly on seo in this niche can be a death trap.
+Yes that is very sad
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: gpetkof
+Topic: With video sites that self host (not embed) the struggle is usually scaling - you can't host too much content that doesn't generate enough revenue. You need to monitor content and remove stuff that don't make sense. Going from a one server set up to a busy site is not an easy task, because you usually need to re-do the whole infrastructure set up.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Lilybelle123
+Topic: gpetkof said:
+With video sites that self host (not embed) the struggle is usually scaling - you can't host too much content that doesn't generate enough revenue. You need to monitor content and remove stuff that don't make sense. Going from a one server set up to a busy site is not an easy task, because you usually need to re-do the whole infrastructure set up.
+Yeah, that's been giving me a headache for the past few days.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Lilybelle123
+Topic: Ankurchauhan63 said:
+Very Good Sir I need also this Service
+Well, Have you found a better solution yet? I still haven't
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: NoSoup4U
+Topic: Use a VPS or dedicated server
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Lilybelle123
+Topic: NoSoup4U said:
+Use a VPS or dedicated server
+Oh thank you, Are you currently using VPS?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: learnandearnwithseo
+Topic: Lilybelle123 said:
+Lately, I've been struggling with a few projects related to video websites. I thought picking a reliable storage solution would be enough – turns out, there are so many issues to deal with: speed, ad management, stability, and even SEO for content.
+For those who have set up video sites before, what part did you find the most "headache-inducing"? Any real-life tips to avoid going through the trial-and-error process?
+I’d love to hear some insights from you all. Thanks a lot!
+Do not give up. Handle each problem one by one. Once you have solved each problem, you will be in position to start more of similar projects.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Lilybelle123
+Topic: learnandearnwithseo said:
+Do not give up. Handle each problem one by one. Once you have solved each problem, you will be in position to start more of similar projects.
+Yeah, Thanks for your feedback. I will try to find more solutions to see if they are more feasible.
+Are you also running a video website now?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: lightshinesagain
+Topic: Ashk881 said:
+Managed a porntube. The biggedtt issue was monetising and DMCA.
+
+I didn't store anything, I just embedded content from other sites. Still got hundreds of automated DMCA requests and got delisted by Google.
+
+So traffic became an issue. Being dependent mostly on seo in this niche can be a death trap.
+That seems very annoying. Why would you get dmca notice when you are picking videos from api. Thats weird.
+May be those were fake dmca notices?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
